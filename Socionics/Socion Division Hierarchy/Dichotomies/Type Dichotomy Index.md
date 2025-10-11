@@ -397,7 +397,7 @@ S: (Si- Ne+ Se- Ni+ Te+ Ti- Fe- Fi+) / (Ni- Se+ Ne- Si+ Te- Ti+ Fe+ Fi-)
 
 |  E  |  L  |  S  |  P  | E$\times$L$\times$(S$\times$P) |
 | :-: | :-: | :-: | :-: | :----------------------------: |
-<span style="background-color:red;"|  1  |</span>  1  |  1  |  1  |               1                |
+|  1  |  1  |  1  |  1  |               1                |
 |  1  |  1  |  1  |  0  |               0                |
 |  1  |  1  |  0  |  1  |               0                |
 |  1  |  0  |  1  |  1  |               0                |
