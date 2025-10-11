@@ -325,7 +325,7 @@ ELP - {SLE ILE ESE LSE} XAND {LII IEI ILI EII}
 
 ### 0th order dichotomy
 
-{} = Valid/Null
+$\emptyset$ = Valid/Null
 
 ### 1st order dichotomy
 
@@ -473,7 +473,7 @@ U4 = Positivist/Negativist
 
 ### 0th order dichotomy
 
-{} - Valid/Null
+$\emptyset$ - Valid/Null
 
 ### 1st order dichotomy
 
@@ -539,7 +539,7 @@ ESP - {ILE ESE IEE LSE} XAND {LII IEI ILI EII}
 
 ### 0th order dichotomy
 
-{} - Valid/Null
+$\emptyset$ - Valid/Null
 
 
 ### 1st order dichotomy
@@ -606,7 +606,7 @@ EIP - {IEE ILE ESE LSE} XAND {LII SLI EII ILI}
 
 ### 0th order dichotomy
 
-{} - Valid/Null
+$\emptyset$ - Valid/Null
 
 ### 1st order dichotomy
 
@@ -672,7 +672,7 @@ ECP - {SLE ILE LSE ESE} XAND {SEI ESI EII SLI}
 
 ### 0th order dichotomy
 
-{} - Valid/Null
+$\emptyset$ - Valid/Null
 
 ### 1st order dichotomy
 
@@ -738,7 +738,7 @@ EIP - {ILE SLE LSE ESE} XAND {SEI IEI ESI EII}
 
 ### 0th order dichotomy
 
-{} - Valid/Null
+$\emptyset$ - Valid/Null
 
 ### 1st order dichotomy
 
@@ -804,7 +804,7 @@ LAP - {ILE SLI SEE IEI} XAND {LII EIE ESI LSE}
 
 ### 0th order dichotomy
 
-{} - Valid/Null
+$\emptyset$ - Valid/Null
 
 ### 1st order dichotomy
 
@@ -870,7 +870,7 @@ LIP - {ILE IEI SLI SEE} XAND {LII EIE ESI LSE}
 
 ### 0th order dichotomy
 
-{} - Valid/Null
+$\emptyset$ - Valid/Null
 
 ### 1st order dichotomy
 
