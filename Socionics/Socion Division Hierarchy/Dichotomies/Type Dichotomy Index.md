@@ -3,7 +3,7 @@
 
 ### 0th order dichotomy
 
-∅ - Valid/Null
+$\emptyset$ - Valid/Null
 
 ### 1st order dichotomy
 
@@ -261,7 +261,7 @@ C4 = Positivist/Negativist
 
 ### 0th order dichotomy
 
-{} - Valid/Null
+$\emptyset$ - Valid/Null
 
 ### 1st order dichotomy
 
@@ -937,7 +937,7 @@ SIP - {ILE IEI SEE SLI} XAND {LII EIE ESI LSE}
 
 ### 0th order dichotomy
 
-{} - Valid/Null
+$\emptyset$ - Valid/Null
 
 ### 1st order dichotomy
 
@@ -1003,7 +1003,7 @@ EAP - {ILE SLE LIE EIE} XAND {LII LSI ILI SLI}
 
 ### 0th order dichotomy
 
-{} - Valid/Null
+$\emptyset$ - Valid/Null
 
 ### 1st order dichotomy
 
@@ -1069,7 +1069,7 @@ DJP - {ILE SEI SEE ILI} XAND {ESE LII LIE ESI}
 
 ### 0th order dichotomy
 
-{} - Valid/Null
+$\emptyset$ - Valid/Null
 
 ### 1st order dichotomy
 
@@ -1135,7 +1135,7 @@ ISP - {ILE SEI SEE ILI} XAND {EIE LSI LSE EII}
 
 ### 0th order dichotomy
 
-{} - Valid/Null
+$\emptyset$ - Valid/Null
 
 ### 1st order dichotomy
 
@@ -1201,7 +1201,7 @@ SIP - {ILE ILI SEE SEI} XAND {ESE LII LIE ESI}
 
 ### 0th order dichotomy
 
-{} - Valid/Null
+$\emptyset$ - Valid/Null
 
 ### 1st order dichotomy
 
@@ -1274,4 +1274,3 @@ SIP - {ILE SEI SEE ILI} XAND {ESE LII LIE ESI
 6. [https://your-trickster.github.io/dichotomies#systematic-vs-nomadic](https://your-trickster.github.io/dichotomies#systematic-vs-nomadic)
 7. [https://your-trickster.github.io/dichotomies#informative-vs-directive](https://your-trickster.github.io/dichotomies#informative-vs-directive)
 8. https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
-9
