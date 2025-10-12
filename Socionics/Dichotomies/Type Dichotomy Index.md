@@ -1,5 +1,5 @@
 
-<link rel="stylesheet" href="/custom.css">
+<link rel="stylesheet" href="/publish.css">
 ## Reinin Dichotomies
 
 ### 0th order dichotomy
