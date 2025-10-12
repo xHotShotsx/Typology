@@ -1,4 +1,4 @@
-<link rel="stylesheet" hr>
+<link rel="stylesheet" href="/publish.css">
 ## Reinin Dichotomies
 
 ### 0th order dichotomy
