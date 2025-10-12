@@ -58,4 +58,6 @@ $F = \{A_{1}, A_{3}, D_{1}, D_{3}\}$
 $Q = \{A_{2}, A_{4}, D_{2}, D_{4}\}$
 
 
-### Orbital / Ordinal Set - $
+### Orbital / Ordinal Set - $(V \cap C) \in \mathcal{O}$
+
+$\mathcal{O} = \{V_{1}, V_{2}, V_{3}\}$
