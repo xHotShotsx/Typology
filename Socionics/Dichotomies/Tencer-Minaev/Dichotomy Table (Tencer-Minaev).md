@@ -99,7 +99,8 @@ $\mathbb{U} = (\forall i \in X)$
 
 $a^{2} \vDash V$
 $V \times a \vDash a$
-
+$a \times ¬a \vDash C$
+$C \times a \vDash 
 
 
 
