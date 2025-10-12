@@ -93,6 +93,11 @@ $X_{4} = \{V_{4}, A_{4}, D_{4}, C_{4}\}$
 $\mathbb{U} = (\forall i \in X)$
 
 
+## Mathematical Correspondences
+
+### Alphabetic Correspondences
+
+$a^{2}
 
 
 
