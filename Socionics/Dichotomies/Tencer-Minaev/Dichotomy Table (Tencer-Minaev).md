@@ -103,7 +103,10 @@ $a \times ¬a \vDash C$
 $C \times a \nvDash a$
 
 ### Numeric Correspondences
-$n^{2} 
+$n \vDash n$
+$n^{2} \vDash 1$
+$2 \times 3 \vDash 4$
+
 
 
 
