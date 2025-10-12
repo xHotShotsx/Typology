@@ -11,3 +11,12 @@
 ### Vector Set
 
 $V = \{V_{1}, V_{2}, V_{3}, V_{4}\}$
+
+
+### Aristocratic Set
+
+$A = \{A_{1}, A_{2}, A_{3}, A_{4}\}$
+
+
+### Democratic Set
+
