@@ -379,7 +379,7 @@ ELSP - Process/Result
 |  0  |  0  |  1  |           1           |
 |  0  |  0  |  0  |           0           |
 
-  
+¦ A ¦ B 
 
 ELS: Ne+ Te+ Fe+ Se+ Fi- Ni- Ti- Si- = Democratic
 
