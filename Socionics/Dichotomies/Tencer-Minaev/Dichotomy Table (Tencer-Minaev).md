@@ -106,7 +106,9 @@ $C \times a \nvDash a$
 $n \vDash n$
 $n^{2} \vDash 1$
 $2 \times 3 \vDash 4$
-$2 \times 4 
+$2 \times 4 \vDash 3$
+$3 \times 4 \vDash 2$
+
 
 
 
