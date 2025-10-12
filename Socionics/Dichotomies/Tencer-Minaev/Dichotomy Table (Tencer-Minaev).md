@@ -63,4 +63,6 @@ $Q = \{A_{2}, A_{4}, D_{2}, D_{4}\}$
 $\mathcal{O} = \{V_{1}, V_{2}, V_{3}, V_{4}, C_{1}, C_{2}, C_{3}, C_{4}\}$
 
 
-### Non-Orbital / Cardinal / Wall Set - 
+### Non-Orbital / Cardinal / Wall Set - $(A \cap D) \in ¬\mathcal{O}$
+
+$¬\mathcal{O} = {A_{1}, A_{2}}$
