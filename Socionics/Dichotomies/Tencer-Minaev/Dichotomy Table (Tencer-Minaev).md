@@ -97,7 +97,7 @@ $\mathbb{U} = (\forall i \in X)$
 
 ### Alphabetic Correspondences
 
-$a^{2} \Dash V$
+$a^{2} \ V$
 
 
 
