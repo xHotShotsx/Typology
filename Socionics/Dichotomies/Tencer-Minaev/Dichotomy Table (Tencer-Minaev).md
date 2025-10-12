@@ -110,6 +110,9 @@ $2 \times 4 \vDash 3$
 $3 \times 4 \vDash 2$
 
 
+# Additional Note
 
+- Also check out the dichotomy table for the Reinin space Kimani White and Andrew Joynton have mapped out: https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0
+- And for an alternate arrangement of the 
 
 
