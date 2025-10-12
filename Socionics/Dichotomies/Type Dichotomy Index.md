@@ -1,4 +1,5 @@
 
+<link rel="stylesheet" href="../../publish-assets
 ## Reinin Dichotomies
 
 ### 0th order dichotomy
