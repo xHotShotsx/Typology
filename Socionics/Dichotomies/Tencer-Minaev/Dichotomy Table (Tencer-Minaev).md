@@ -97,7 +97,9 @@ $\mathbb{U} = (\forall i \in X)$
 
 ### Alphabetic Correspondences
 
-$a^{2} \moels| V$
+$a^{2} \vDash V$
+$V \times a \vDash a$
+
 
 
 
