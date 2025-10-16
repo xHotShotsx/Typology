@@ -58,7 +58,9 @@ $F = \{A_{1}, A_{3}, D_{1}, D_{3}\}$
 $Q = \{A_{2}, A_{4}, D_{2}, D_{4}\}$
 
 
-### Centre Group
+### Centre Group / Set
+
+$Z(\mathbb{S}) = {V_{1}, V_{3}, C_{1}, C_{3}}$
 
 ### Orbital / Ordinal Set - $(V \cup C) \in \mathcal{O}$
 
