@@ -58,12 +58,14 @@ $F = \{A_{1}, A_{3}, D_{1}, D_{3}\}$
 $Q = \{A_{2}, A_{4}, D_{2}, D_{4}\}$
 
 
-### Orbital / Ordinal Set - $(V \cap C) \in \mathcal{O}$
+### Centre Group
+
+### Orbital / Ordinal Set - $(V \cup C) \in \mathcal{O}$
 
 $\mathcal{O} = \{V_{1}, V_{2}, V_{3}, V_{4}, C_{1}, C_{2}, C_{3}, C_{4}\}$
 
 
-### Non-Orbital / Cardinal / Wall Set - $(A \cap D) \in ¬\mathcal{O}$
+### Non-Orbital / Cardinal / Wall Set - $(A \cup D) \notin \mathcal{O}$
 
 $¬\mathcal{O} = \{A_{1}, A_{2}, A_{3}, A_{4}, D_{1}, D_{2}, D_{3}, D_{4}\}$
 
@@ -108,7 +110,6 @@ $n^{2} \vDash 1$
 $2 \times 3 \vDash 4$
 $2 \times 4 \vDash 3$
 $3 \times 4 \vDash 2$
-
 
 # Additional Note
 

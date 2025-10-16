@@ -7,7 +7,7 @@ $\emptyset$ - Valid/Null
 
 ### 1st order dichotomy
 
-E – Introvert/Extravert
+E – Introvert/Extrovert
 
 N - Intuitive/Sensing
 
@@ -157,44 +157,43 @@ where C is the set which holds all the cardinal (I/R) elements.
 
 $\emptyset$ = Valid/Null
 
-
 ### 1st order dichotomy
 
-A - Asking/Declaring
+Q - Questim/Declatum or Asking/Declaring
 
-T - 1st Abstract/1st Involved
+A - 1st Abstract/1st Involved
 
-F - 1st Internal/1st External
+I - 1st Internal/1st External
 
 D - Democratic/Aristocratic
 
 ### 2nd order dichotomy
 
-AT - 2ndAlpha/2ndGamma 
+QA - 2ndAlpha/2ndGamma 
 
-AF - 2nd Beta/2nd Delta 
+QI - 2nd Beta/2nd Delta 
 
-AD - Static/Dynamic 
+QD - Static/Dynamic 
 
-TF - Irrational/Rational 
+AI - Irrational/Rational 
 
-TD - 2nd Abstract/2nd Involved 
+AD - 2nd Abstract/2nd Involved 
 
-FD - 2nd External/2nd Internal
+ID - 2nd External/2nd Internal
 
 ### 3rd order dichotomy
 
-ATF - Positivist/Negativist 
+QAI - Positivist/Negativist 
 
-ATD - 1st Alpha/1st Gamma 
+QAD - 1st Alpha/1st Gamma 
 
-AFD - 1st Delta/1st Beta 
+QID - 1st Delta/1st Beta 
 
-TFD - Process/Result
+AID - Process/Result
 
 ### 4th order dichotomy
 
-ATFD - Extroverted/Introverted
+QAID - Extroverted/Introverted
 
 
 ### Twin Dichotomy Pairings
