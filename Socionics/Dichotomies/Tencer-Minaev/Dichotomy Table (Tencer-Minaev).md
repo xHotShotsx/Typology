@@ -60,7 +60,7 @@ $Q = \{A_{2}, A_{4}, D_{2}, D_{4}\}$
 
 ### Central Group / Set
 
-$Z(\mathbb{S}) = {V_{1}, V_{3}, C_{1}, C_{3}}$
+$Z(\mathbb{S}) = \{V_{1}, V_{3}, C_{1}, C_{3}\}$
 
 
 ### Orbital / Ordinal Set - $(V \cup C) \in \mathcal{O}$
