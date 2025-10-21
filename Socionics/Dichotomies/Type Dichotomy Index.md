@@ -841,7 +841,7 @@ LIP - Asking/Declaring
 
 ### 4th order dichotomy
 
-ELIP - Process/
+ELIP - Process/Result
 
 
 ### Additional Notes
