@@ -841,7 +841,7 @@ LIP - Asking/Declaring
 
 ### 4th order dichotomy
 
-ELIP - Democratic/Aristocratic
+ELIP - Process/
 
 
 ### Additional Notes
