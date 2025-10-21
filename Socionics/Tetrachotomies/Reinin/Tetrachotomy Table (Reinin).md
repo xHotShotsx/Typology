@@ -91,85 +91,97 @@
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
-| 15  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+| 16  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
 |  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
 |  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
-| 15  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+| 17  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
 |  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
 |  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
-| 15  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+| 18  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
 |  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
 |  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
-| 15  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+| 19  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
 |  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
 |  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
-| 15  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+| 20  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
 |  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
 |  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
-| 15  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+| 21  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
 |  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
 |  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
-| 15  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+| 22  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
 |  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
 |  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
-| 15  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+| 23  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
 |  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
 |  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
-| 15  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+| 24  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
 |  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
 |  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
-| 15  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+| 25  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
 |  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
 |  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
-| 15  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+| 26  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
 |  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
 |  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
-| 15  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+| 27  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
 |  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
 |  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
-| 15  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+| 28  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
 |  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
 |  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
-| 15  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+| 29  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+|  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
+|  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
+|  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
+|  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
+|  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
+| 30  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
+|  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
+|  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
+|  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
+|  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
+|  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
+| 31  |       **Dimension (Rational) / Communication Style**        |  <  | $G_4 \cap R_1 \cap R_4$ |     <     |     <      |       |  <  |  <  |  <  |
 |  ^  |                              ^                              |  <  |          **E**          |   **T**   |   **ET**   |   ^   |  ^  |  ^  |  ^  |
 |  ^  |                    Business-like (4d-Te)                    |  <  |       Extroverted       |  Logical  |  Yielding  |  ILE  | SLE | LIE | LSE |
 |  ^  |                     Passionate (4d-Fe)                      |  <  |       Extroverted       |  Ethical  | Obstinate  |  ESE  | EIE | SEE | IEE |
