@@ -237,11 +237,11 @@
     </tr>
     <tr>
       <td>Introverted / Intuitive / Farsighted</td>
-      <td>LII></td><EII, ILI, ELI</td>
+      <td>LII></td><td>EII</td><td>ILI</td><td>ELI</td>
     </tr>
     <tr>
       <td>Introverted / Sensory / Carefree</td>
-      <td>SEI, LSI, ESI, SLI</td>
+      <td>LII></td><td>EII</td><td>ILI</td><td>ELI</td>
     </tr>
   </tbody>
 </table>
