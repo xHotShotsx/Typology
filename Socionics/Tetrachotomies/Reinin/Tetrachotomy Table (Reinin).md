@@ -231,6 +231,7 @@
       <td><b>E</b></td><td><b>N</b></td><td><b>EN</b></td>
       </tr>
 	 <tr>
+	 <td></td>
       <td>Extroverted</td><td>Intuitive</td><td>Carefree</td>
       <td>ILE</td>
 	  <td>EIE</td>
