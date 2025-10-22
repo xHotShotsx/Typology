@@ -13,7 +13,7 @@
     <tr>
       <td rowspan="6"><b>1</b></td>
       <td rowspan="2"><b>Dimension (Irrational)</b></td>
-      <td colspan="3">$G_{4} \cap I_{1} \cap I_{4}$</td>
+      <td colspan="3"><img scr="https://quicklatex.com/cache3/4f/ql_eeadac8bafd6eb6bc8e5442a1c88664f_l3.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
