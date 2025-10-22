@@ -212,3 +212,33 @@
 |  ^  |                    Cold-blooded (4d-Ti)                     |  <  |       Introverted       |  Logical  | Obstinate  |  LII  | LSI | ILI | SLI |
 |  ^  |                       Sincere (4d-Fi)                       |  <  |       Introverted       |  Ethical  |  Yielding  |  SEI  | IEI | ESI | EII |
 
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Tetrachotomy</th>
+      <th>Dichotomy Triad</th>
+      <th>Types</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4">1</td>
+      <td rowspan="4"><b>Dimension (Irrational) / Stimulus Seeking / Immersed In</b></td>
+      <td>Extroverted / Intuitive / Carefree</td>
+      <td>ILE, EIE, LIE, IEE</td>
+    </tr>
+    <tr>
+      <td>Extroverted / Sensory / Farsighted</td>
+      <td>ESE, SLE, SEE, LSE</td>
+    </tr>
+    <tr>
+      <td>Introverted / Intuitive / Farsighted</td>
+      <td>LII, EII, ILI, ELI</td>
+    </tr>
+    <tr>
+      <td>Introverted / Sensory / Carefree</td>
+      <td>SEI, LSI, ESI, SLI</td>
+    </tr>
+  </tbody>
+</table>
