@@ -225,7 +225,8 @@
     <tr>
       <td rowspan="5"><b>1</b></td>
       <td rowspan="2"><b>Dimension (Irrational)</b></td>
-      <
+      <td colspan="3">$$G_1 \cap I_1 \cap I_4$$</td>
+      </tr>
       <tr>
       <td><b>E</b></td><td><b>N</b></td><td><b>EN</b></td>
       </tr>
