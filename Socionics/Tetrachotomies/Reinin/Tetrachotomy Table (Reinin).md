@@ -1,5 +1,5 @@
 
-<table>
+<table style="width:100%; border-coll>
   <thead>
     <tr>
       <th>#</th>
