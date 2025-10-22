@@ -227,11 +227,14 @@
       <td rowspan="4"><b>Dimension (Irrational) / Stimulus Seeking / Immersed In</b></td>
       <td>Extroverted / Intuitive / Carefree</td>
       <td>ILE</td>
-	  <td>
+	  <td>EIE</td>
+	  <td>LIE</td>
+	  <td>IEE</td>
     </tr>
     <tr>
       <td>Extroverted / Sensory / Farsighted</td>
-      <td>ESE, SLE, SEE, LSE</td>
+      <td>ESE</td>
+      <td
     </tr>
     <tr>
       <td>Introverted / Intuitive / Farsighted</td>
