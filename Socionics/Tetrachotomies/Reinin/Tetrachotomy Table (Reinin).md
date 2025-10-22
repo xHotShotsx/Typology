@@ -224,7 +224,7 @@
   <tbody>
     <tr>
       <td rowspan="4">1</td>
-      <td rowspan="4"><b>E</b></td>
+      <td rowspan="4"><b>E</b></td><td><b>N</b></td><td><b>EN</b></td>
       <td>Extroverted / Intuitive / Carefree</td>
       <td>ILE</td>
 	  <td>EIE</td>
@@ -235,7 +235,8 @@
       <td>Extroverted / Sensory / Farsighted</td>
       <td>ESE</td>
       <td>SLE</td>
-      <td>LIE</td>
+      <td>SEE</td>
+      <td>
     </tr>
     <tr>
       <td>Introverted / Intuitive / Farsighted</td>
