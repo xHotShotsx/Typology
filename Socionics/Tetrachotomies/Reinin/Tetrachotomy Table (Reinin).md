@@ -224,8 +224,8 @@
   <tbody>
     <tr>
       <td rowspan="4"><b>1</b></td>
-      <td rowspan="4"><b>Dimensionality (Irrational)</b></td><td><b>E</b></td><td><b>N</b></td><td><b>EN</b></td>
-      <td>Extroverted / Intuitive / Carefree</td>
+      <td rowspan="4"><b>Dimension (Irrational)</b></td><td><b>E</b></td><td><b>N</b></td><td><b>EN</b></td>
+      <td>Extroverted</td><td>Intuitive</t<td>Carefree></td>
       <td>ILE</td>
 	  <td>EIE</td>
 	  <td>LIE</td>
