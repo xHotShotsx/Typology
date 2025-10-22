@@ -233,14 +233,11 @@
     </tr>
     <tr>
       <td>Extroverted / Sensory / Farsighted</td>
-      <td>ESE</td>
-      <td>SLE</td>
-      <td>SEE</td>
-      <td>LSE</td>
+      <td>ESE</td><td>SLE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
       <td>Introverted / Intuitive / Farsighted</td>
-      <td>LII, EII, ILI, ELI</td>
+      <td>LII></td><EII, ILI, ELI</td>
     </tr>
     <tr>
       <td>Introverted / Sensory / Carefree</td>
