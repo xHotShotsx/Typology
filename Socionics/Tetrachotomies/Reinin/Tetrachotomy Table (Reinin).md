@@ -226,7 +226,8 @@
       <td rowspan="4">1</td>
       <td rowspan="4"><b>Dimension (Irrational) / Stimulus Seeking / Immersed In</b></td>
       <td>Extroverted / Intuitive / Carefree</td>
-      <td>ILE, EIE, LIE, IEE</td>
+      <td>ILE</td>
+	  <td>
     </tr>
     <tr>
       <td>Extroverted / Sensory / Farsighted</td>
