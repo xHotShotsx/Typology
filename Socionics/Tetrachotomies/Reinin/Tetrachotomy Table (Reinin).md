@@ -224,7 +224,7 @@
   <tbody>
     <tr>
       <td rowspan="4">1</td>
-      <td rowspan="4"><b>Dimension (Irrational) / Stimulus Seeking / Immersed In</b></td>
+      <td rowspan="4"><b>E</b></td>
       <td>Extroverted / Intuitive / Carefree</td>
       <td>ILE</td>
 	  <td>EIE</td>
