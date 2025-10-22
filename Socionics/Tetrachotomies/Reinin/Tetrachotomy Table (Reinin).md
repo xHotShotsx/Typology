@@ -239,10 +239,12 @@
 	  <td>IEE</td>
     </tr>
     <tr>
+    <td></td>
       <td>Extroverted</td><td>Sensory</td><td>Farsighted</td>
       <td>ESE</td><td>SLE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
+	 <td></td>
       <td>Introverted</td><td>Intuitive</td><td>Farsighted</td>
       <td>LII</td><td>EII</td><td>ILI</td><td>ELI</td>
     </tr>
