@@ -234,7 +234,8 @@
     <tr>
       <td>Extroverted / Sensory / Farsighted</td>
       <td>ESE</td>
-      <td
+      <td>SLE</td>
+      <td>LIE</td>
     </tr>
     <tr>
       <td>Introverted / Intuitive / Farsighted</td>
