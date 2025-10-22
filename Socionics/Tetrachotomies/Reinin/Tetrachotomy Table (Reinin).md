@@ -1,5 +1,5 @@
-
-<table>
+<div style="overflow-x:auto;">
+<table style="width:100%; border-collapse:collapse;">
   <thead>
     <tr>
       <th>#</th>
@@ -70,6 +70,6 @@
     </tr>
   </tbody>
 </table>
-
+</div>
 ****
 
