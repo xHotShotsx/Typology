@@ -1,4 +1,4 @@
-
+$G_{4} \cap I_{1} \cap I_{4}$
 <table>
   <thead>
     <tr>
