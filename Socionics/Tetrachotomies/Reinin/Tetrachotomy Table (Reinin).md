@@ -22,10 +22,7 @@
 	 <tr>
 	 <td></td>
       <td>Extroverted</td><td>Intuitive</td><td>Carefree</td>
-      <td>ILE</td>
-	  <td>EIE</td>
-	  <td>LIE</td>
-	  <td>IEE</td>
+      <td>ILE</td><td>EIE</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
     <td></td>
@@ -54,15 +51,12 @@
 	 <tr>
 	 <td></td>
       <td>Extroverted</td><td>Logical</td><td>Yielding</td>
-      <td>ILE</td>
-	  <td>EIE</td>
-	  <td>LIE</td>
-	  <td>IEE</td>
+      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
     <td></td>
       <td>Extroverted</td><td>Ethical</td><td>Obstinate</td>
-      <td>ESE</td><td>SLE</td><td>SEE</td><td>LSE</td>
+      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td></td>
