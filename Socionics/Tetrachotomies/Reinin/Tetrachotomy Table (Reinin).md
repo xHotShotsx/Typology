@@ -61,18 +61,18 @@
     </tr>
     <tr>
     <td></td>
-      <td>Extroverted</td><td>Ethical</td><td>Farsighted</td>
+      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td>
       <td>ESE</td><td>SLE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Introverted</td><td>Logical</td><td>Farsighted</td>
-      <td>LII</td><td>EII</td><td>ILI</td><td>ELI</td>
+      <td>Introverted</td><td>Logical</td><td>Obstinate</td>
+      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
       <td>Introverted</td><td>Ethical</td><td>Yielding</td>
-      <td>SEI</td><td>LSI</td><td>ESI</td><td>SLI</td>
+      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
   </tbody>
 </table>
