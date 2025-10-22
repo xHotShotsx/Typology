@@ -217,8 +217,8 @@
     <tr>
       <th>#</th>
       <th>Tetrachotomy</th>
-      <th>Dichotomy Triad</th>
-      <th>Types</th>
+      <th colspan="3">Dichotomy Triad</th>
+      <th colspan="4">Types</th>
     </tr>
   </thead>
   <tbody>
