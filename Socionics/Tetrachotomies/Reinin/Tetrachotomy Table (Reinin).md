@@ -225,6 +225,7 @@
     <tr>
       <td rowspan="4"><b>1</b></td>
       <td rowspan="4"><b>Dimension (Irrational)</b></td><td><b>E</b></td><td><b>N</b></td><td><b>EN</b></td>
+      </
       <td>Extroverted</td><td>Intuitive</td><td>Carefree</td>
       <td>ILE</td>
 	  <td>EIE</td>
@@ -237,11 +238,11 @@
     </tr>
     <tr>
       <td>Introverted</td><td>Intuitive</td><td>Farsighted</td>
-      <td>LII></td><td>EII</td><td>ILI</td><td>ELI</td>
+      <td>LII</td><td>EII</td><td>ILI</td><td>ELI</td>
     </tr>
     <tr>
       <td>Introverted</td><td>Sensory</td><td>Carefree</td>
-      <td>LII></td><td>IEI</td><td>ILI</td><td>EII</td>
+      <td>SEI</td><td>LSI</td><td>ESI</td><td>SLI</td>
     </tr>
   </tbody>
 </table>
