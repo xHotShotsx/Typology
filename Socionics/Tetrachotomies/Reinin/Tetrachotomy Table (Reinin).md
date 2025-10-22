@@ -72,11 +72,3 @@
 </table>
 </div>
 ****
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-  if (window.MathJax) {
-    MathJax.typesetPromise();
-  }
-});
-</script>
