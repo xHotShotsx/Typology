@@ -1,4 +1,4 @@
-<div style="overflow-x:auto;" text-align:"center">
+<div style="overflow-x:auto;" style="text-align: center;">
 <table style="width:100%; border-collapse:collapse;">
   <thead>
     <tr>
