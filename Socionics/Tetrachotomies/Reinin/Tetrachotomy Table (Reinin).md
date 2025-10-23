@@ -1,4 +1,4 @@
-<div style="overflow-x:auto;">
+<div style="overflow-x:auto;" text-align:"center">
 <table style="width:100%; border-collapse:collapse;">
   <thead>
     <tr>
@@ -13,7 +13,7 @@
     <tr>
       <td rowspan="6"><b>1</b></td>
       <td rowspan="2"><b>Dimension (Irrational)</b></td>
-      <td colspan="3"><image src="Reinin-1.png" /></td>
+      <td colspan="3"><image src="/Images/Reinin/Tetrachotomies/1.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
