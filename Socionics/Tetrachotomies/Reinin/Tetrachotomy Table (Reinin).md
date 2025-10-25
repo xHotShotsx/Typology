@@ -1,4 +1,4 @@
-<div style="overflow-x:auto;" class="centred-text">
+<div style="overflow-x:auto;" align="cente>
 <table style="width:100%; border-collapse:collapse;">
   <thead>
     <tr>
