@@ -17,7 +17,7 @@
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>N</b></td><td><b>EN</b></td>
+      <td class="centered-text"><b>E</b></td><td><b>N</b></td><td><b>EN</b></td>
       </tr>
 	 <tr>
 	 <td></td>
