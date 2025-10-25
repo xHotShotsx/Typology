@@ -1,5 +1,5 @@
-<div style="overflow-x:auto; text-align:center; ">
-<table style="width:100%; border-collapse:collapse;">
+<div style="overflow-x:auto;">
+<table style="width:100%; text-align:center; border-collapse:collapse;">
   <thead>
     <tr>
       <th>#</th>
