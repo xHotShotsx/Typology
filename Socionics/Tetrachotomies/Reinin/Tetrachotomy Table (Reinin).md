@@ -1,4 +1,4 @@
-<div style="overflow-x:auto;" align="cente>
+<div style="overflow-x:auto;" align="center">
 <table style="width:100%; border-collapse:collapse;">
   <thead>
     <tr>
@@ -17,7 +17,7 @@
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>N</b></td><td><b>EN</b></td>
+      <td><b><div alignE</b></td><td><b>N</b></td><td><b>EN</b></td>
       </tr>
 	 <tr>
 	 <td></td>
