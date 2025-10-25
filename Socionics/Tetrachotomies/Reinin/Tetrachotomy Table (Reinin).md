@@ -42,7 +42,7 @@
     <tr>
       <td rowspan="6"><b>2</b></td>
       <td rowspan="2"><b>Dimension (Rational)</b></td>
-      <td colspan="3">\\(G_4 \\cap R_1 \\cap R_4 \\)</td>
+      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/1.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
