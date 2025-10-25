@@ -69,7 +69,7 @@
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
-      <td rowspan="6"><b>2</b></td>
+      <td rowspan="6"><b>3</b></td>
       <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/2.png" /></td>
       <td colspan="4" rowspan="2"></td>
@@ -98,7 +98,7 @@
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
-      <td rowspan="6"><b>2</b></td>
+      <td rowspan="6"><b>3</b></td>
       <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/2.png" /></td>
       <td colspan="4" rowspan="2"></td>
