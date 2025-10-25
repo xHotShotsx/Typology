@@ -13,7 +13,7 @@
     <tr>
       <td rowspan="6"><b>1</b></td>
       <td rowspan="2"><b>Dimension (Irrational)</b></td>
-      <td colspan="3"><image class="inversion" src="Images/Reinin/Tetrachotomies/1.png" /></td>
+      <td colspan="3"><img class="inversion" src="Images/Reinin/Tetrachotomies/1.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
