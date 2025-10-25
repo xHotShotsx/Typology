@@ -1,5 +1,5 @@
 <div style="overflow-x:auto;" style="text-align: center;">
-<table style="width:100%; border-collapse:collapse;">
+<table style="width:100%; border-collapse:collapse;" style="text-align: center;">
   <thead>
     <tr>
       <th>#</th>
@@ -8,7 +8,7 @@
       <th colspan="4">Types</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody style="text-align: center;">
   
     <tr>
       <td rowspan="6"><b>1</b></td>
