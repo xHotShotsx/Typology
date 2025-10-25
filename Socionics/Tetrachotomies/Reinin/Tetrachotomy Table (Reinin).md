@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>2</b></td>
-      <td rowspan="2"><b>Dimension (Rational)</b></td>
+      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/2.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -49,7 +49,7 @@
       <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
       </tr>
 	 <tr>
-	 <td></td>
+	 <td>Business-like (4d-Te</td>
       <td>Extroverted</td><td>Logical</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
