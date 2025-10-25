@@ -42,7 +42,7 @@
     <tr>
       <td rowspan="6"><b>2</b></td>
       <td rowspan="2"><b>Dimension (Rational)</b></td>
-      <td colspan="3">$G_{4} \cap R_{1} \cap R_{4}$</td>
+      <td colspan="3"><span class="math">$G_{4} \cap R_{1} \cap R_{4}$</span></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
