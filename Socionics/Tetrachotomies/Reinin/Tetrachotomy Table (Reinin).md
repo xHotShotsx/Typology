@@ -1,6 +1,6 @@
 <div style="overflow-x:auto;">
-<table style="width:100%; text-align:center; border-collapse:collapse;" align="center">
-  <thead>
+<table style="width:100%; border-collapse:collapse;" align="center">
+  <thead styl2text-align:center;">
     <tr>
       <th>#</th>
       <th>Tetrachotomy</th>
