@@ -1,4 +1,3 @@
-
 ## Reinin Dichotomies
 
 ### 0th order dichotomy
