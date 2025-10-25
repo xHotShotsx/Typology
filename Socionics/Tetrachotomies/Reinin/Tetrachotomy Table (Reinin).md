@@ -20,22 +20,22 @@
       <td><b><div>E</div></b></td><td><b>N</b></td><td><b>EN</b></td>
       </tr>
 	 <tr>
-	 <td></td>
+	 <td>Uniqueness (4d-Ne)</td>
       <td>Extroverted</td><td>Intuitive</td><td>Carefree</td>
       <td>ILE</td><td>EIE</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
-    <td></td>
+    <td>Prestige (4d-Se)</td>
       <td>Extroverted</td><td>Sensory</td><td>Farsighted</td>
       <td>ESE</td><td>SLE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
-	 <td></td>
+	 <td>Self-Confidence (4d-Ni)</td>
       <td>Introverted</td><td>Intuitive</td><td>Farsighted</td>
       <td>LII</td><td>EII</td><td>ILI</td><td>ELI</td>
     </tr>
     <tr>
-     <td></td>
+     <td>Well-Being (4d-Si)</td>
       <td>Introverted</td><td>Sensory</td><td>Carefree</td>
       <td>SEI</td><td>LSI</td><td>ESI</td><td>SLI</td>
     </tr>
