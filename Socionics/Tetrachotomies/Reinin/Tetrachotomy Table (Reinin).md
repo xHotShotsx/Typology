@@ -1,14 +1,14 @@
 <div style="overflow-x:auto;">
-<table style="width:100%; border-collapse:collapse;" align="center">
-  <thead style="text-align:center;">
+<table style="width:100%; border-collapse:collapse;" class="tetra">
+  <thead>
     <tr>
-      <th style="text-align:center;">#</th>
-      <th style="text-align:center;">Tetrachotomy</th>
+      <th>#</th>
+      <th>Tetrachotomy</th>
       <th colspan="3">Dichotomy Triad</th>
       <th colspan="4">Types</th>
     </tr>
   </thead>
-  <tbody style="text-align:center;">
+  <tbody>
   
     <tr>
       <td rowspan="6"><b>1</b></td>
