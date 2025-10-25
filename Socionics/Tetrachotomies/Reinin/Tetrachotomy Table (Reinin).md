@@ -678,9 +678,9 @@
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
-      <td rowspan="6"><b>2</b></td>
+      <td rowspan="6"><b>24</b></td>
       <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/2.png" /></td>
+      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/24.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -794,9 +794,9 @@
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
-      <td rowspan="6"><b>2</b></td>
+      <td rowspan="6"><b>28</b></td>
       <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/2.png" /></td>
+      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/28.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -823,9 +823,9 @@
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
-      <td rowspan="6"><b>2</b></td>
+      <td rowspan="6"><b>29</b></td>
       <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/2.png" /></td>
+      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/29.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -852,9 +852,9 @@
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
-      <td rowspan="6"><b>2</b></td>
+      <td rowspan="6"><b>30</b></td>
       <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/2.png" /></td>
+      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/30.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -881,9 +881,9 @@
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
-      <td rowspan="6"><b>2</b></td>
+      <td rowspan="6"><b>31</b></td>
       <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/2.png" /></td>
+      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/31.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -910,9 +910,9 @@
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
-      <td rowspan="6"><b>2</b></td>
+      <td rowspan="6"><b>32</b></td>
       <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/2.png" /></td>
+      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/32.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -939,9 +939,9 @@
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
-      <td rowspan="6"><b>2</b></td>
+      <td rowspan="6"><b>33</b></td>
       <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/2.png" /></td>
+      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/33.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
