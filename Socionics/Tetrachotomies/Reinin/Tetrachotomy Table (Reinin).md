@@ -148,12 +148,12 @@
     <tr>
 	 <td>Secretive</td>
       <td>Introverted</td><td>Tactical</td><td>Decisive</td>
-      <td>LSI</td><td>IEI</td><td>ILI</td><td>EII</td>
+      <td>LSI</td><td>IEI</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
      <td>Peaceful</td>
       <td>Introverted</td><td>Strategic</td><td>Judicious</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>SEI</td><td>LII</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>6</b></td>
