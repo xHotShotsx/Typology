@@ -138,21 +138,21 @@
 	 <tr>
 	 <td>Open</td>
       <td>Extroverted</td><td>Tactical</td><td>Judicious</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>ESE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
     <td>Conflict</td>
-      <td>Extroverted</td><td>Strategic</td><td>Obstinate</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>Extroverted</td><td>Strategic</td><td>Decisive</td>
+      <td>EIE</td><td>SLE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Secretive</td>
-      <td>Introverted</td><td>Tactical</td><td>Obstinate</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>Introverted</td><td>Tactical</td><td>Decisive</td>
+      <td>LSI</td><td>IEI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Peaceful</td>
-      <td>Introverted</td><td>Strategic</td><td>Yielding</td>
+      <td>Introverted</td><td>Strategic</td><td>Judicious</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
