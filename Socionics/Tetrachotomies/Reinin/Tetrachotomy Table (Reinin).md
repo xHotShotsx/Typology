@@ -853,31 +853,31 @@
     </tr>
     <tr>
       <td rowspan="6"><b>30</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Rings of Aupervisai</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/30.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>EP</b></td><td><b>ENT</b></td><td><b>NTP</b></td>
+      <td><b>EP</b></td><td><b>NT</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
-      <td>Static</td><td>Democratic</td><td>Yielding</td>
+      <td>Static</td><td>Democratic</td><td>Asking</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
-      <td>Static</td><td>Aristocratic</td><td>Obstinate</td>
+      <td>Static</td><td>Aristocratic</td><td>Declaring</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Dynamic</td><td>Democratic</td><td>Obstinate</td>
+      <td>Dynamic</td><td>Democratic</td><td>Declaring</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
-      <td>Dynamic</td><td>Aristocratic</td><td>Yielding</td>
+      <td>Dynamic</td><td>Aristocratic</td><td>Asking</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
