@@ -456,7 +456,7 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Extroverted</td><td>Logical</td><td>Yielding</td>
+      <td>Logical</td><td>Logical</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
