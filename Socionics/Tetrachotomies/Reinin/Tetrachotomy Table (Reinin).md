@@ -762,7 +762,7 @@
     <tr>
      <td></td>
       <td>Farsighted</td><td>Serious</td><td>Process</td>
-      <td>SEE</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>SEE</td><td>ILI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>27</b></td>
