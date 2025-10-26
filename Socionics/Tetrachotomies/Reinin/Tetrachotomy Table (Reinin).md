@@ -157,16 +157,16 @@
     </tr>
     <tr>
       <td rowspan="6"><b>6</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Action Influence Balance</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/6.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      <td><b>E</b></td><td><b>TP</b></td><td><b>ETP</b></td>
       </tr>
 	 <tr>
 	 <td>Engaging</td>
-      <td>Extroverted</td><td>Logical</td><td>Yielding</td>
+      <td>Extroverted</td><td>Constructivist</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
