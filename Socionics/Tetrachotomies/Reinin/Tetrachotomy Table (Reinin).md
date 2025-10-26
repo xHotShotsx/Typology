@@ -167,21 +167,21 @@
 	 <tr>
 	 <td>Engaging</td>
       <td>Extroverted</td><td>Constructivist</td><td>Merry</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>ESE</td><td>EIE</td><td>SLE</td>
     </tr>
     <tr>
     <td>Contacting</td>
       <td>Extroverted</td><td>Emotivist</td><td>Serious</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>SEE</td><td>LIE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Confidential</td>
       <td>Introverted</td><td>Constructivist</td><td>Serious</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>ILI</td><td>ESI</td><td>EII</td><td>EII</td>
     </tr>
     <tr>
      <td>Rigid</td>
-      <td>Introverted</td><td>Emotivist</td><td>Yielding</td>
+      <td>Introverted</td><td>Emotivist</td><td>Merry</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
