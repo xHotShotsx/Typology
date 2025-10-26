@@ -282,22 +282,22 @@
       </tr>
 	 <tr>
 	 <td>Anticipatory</td>
-      <td>Intuitive</td><td>Logical</td><td>Yielding</td>
+      <td>Intuitive</td><td>Yielding</td><td>Positivist</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Cautionary</td>
-      <td>Intuitive</td><td>Ethical</td><td>Obstinate</td>
+      <td>Intuitive</td><td>Obstinate</td><td>Negativist</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Preservative</td>
-      <td>Sensory</td><td>Logical</td><td>Obstinate</td>
+      <td>Sensory</td><td>Yielding</td><td>Negativist</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Acquisitive</td>
-      <td>Introverted</td><td>Ethical</td><td>Yielding</td>
+      <td>Sensory</td><td>Obstinate</td><td>Yielding</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
