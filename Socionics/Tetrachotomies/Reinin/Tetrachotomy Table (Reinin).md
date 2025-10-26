@@ -660,20 +660,20 @@
 	 <tr>
 	 <td>Retention</td>
       <td>Carefree</td><td>Yielding</td><td>Democratic</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>SEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
     <td>Comportment</td>
       <td>Carefree</td><td>Obstinate</td><td>Aristocratic</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>EIE</td><td>LSI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>A</td>
+	 <td>Attainment</td>
       <td>Farsighted</td><td>Yielding</td><td>Aristocratic</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>SLE</td><td>IEI</td><td></td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Lucidity</td>
       <td>Farsighted</td><td>Obstinate</td><td>Democratic</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
