@@ -182,16 +182,16 @@
     <tr>
      <td>Rigid</td>
       <td>Introverted</td><td>Emotivist</td><td>Merry</td>
-      <td>SEI</td><td>LII</td><td>ESI</td><td>EII</td>
+      <td>SEI</td><td>LII</td><td>LSI</td><td>IEI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>7</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Rings of Benefit / Quadra Role</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/7.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+	      <td><b>E</b></td><td><b></b></td><td><b>ET</b></td>
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
