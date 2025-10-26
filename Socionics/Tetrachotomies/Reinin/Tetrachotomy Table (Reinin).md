@@ -525,12 +525,12 @@
     <tr>
 	 <td>Support</td>
       <td>Ethical</td><td>Judicious</td><td>Declaring</td>
-      <td>SEI</td><td>ESE</td><td></td><td>EII</td>
+      <td>SEI</td><td>ESE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
      <td>Intrigue</td>
       <td>Ethical</td><td>Decisive</td><td>Asking</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>EIE</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>19</b></td>
