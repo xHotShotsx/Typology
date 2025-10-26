@@ -462,7 +462,7 @@
     <tr>
     <td>Passionate (4d-Fe)</td>
       <td>Logical</td><td>Dynamic</td><td>Serious</td>
-      <td>ILI</td><td>LIE</td><td>LSE</td><td>IEE</td>
+      <td>ILI</td><td>LIE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
