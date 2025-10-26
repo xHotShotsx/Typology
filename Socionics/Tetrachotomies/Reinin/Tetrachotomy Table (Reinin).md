@@ -554,12 +554,12 @@
     <tr>
 	 <td>Controlling</td>
       <td>Rational</td><td>Carefree</td><td>Decisive</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>EIE</td><td>LSI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
      <td>Conscientious</td>
-      <td></td><td>Farsighted</td><td>Judicious</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>Rational</td><td>Farsighted</td><td>Judicious</td>
+      <td>ESE</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>20</b></td>
