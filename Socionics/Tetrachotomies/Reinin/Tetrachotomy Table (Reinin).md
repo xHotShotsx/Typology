@@ -428,12 +428,12 @@
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
       <td>Logical</td><td>Carefree</td><td>Positivist</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>LSI</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
       <td>Logical</td><td>Farsighted</td><td>Negativist</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>LII</td><td>SLE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
