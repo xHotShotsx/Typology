@@ -432,17 +432,17 @@
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
-      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td>
+      <td>Logical</td><td>Ethical</td><td>Obstinate</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Introverted</td><td>Logical</td><td>Obstinate</td>
+      <td>Ethicaal</td><td>Logical</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
-      <td>Introverted</td><td>Ethical</td><td>Yielding</td>
+      <td>Ethical</td><td>Ethical</td><td>Yielding</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
