@@ -467,7 +467,7 @@
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
       <td>Ethical</td><td>Static</td><td>Serious</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>SEE</td><td>ESI</td><td>EII</td><td>EII</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
