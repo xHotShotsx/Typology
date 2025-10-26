@@ -704,7 +704,7 @@
     <tr>
      <td></td>
       <td>Farsighted</td><td>Dynamic</td><td>Tactical</td>
-      <td>ESE</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>ESE</td><td>IEI</td><td>ILI</td><td>LSE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>25</b></td>
@@ -718,12 +718,12 @@
 	 <tr>
 	 <td></td>
       <td>Carefree</td><td>Constructivist</td><td>Asking</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>EIE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
     <td></td>
       <td>Carefree</td><td>Emotivist</td><td>Declaring</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>SEI</td><td>LSI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
 	 <td></td>
