@@ -496,16 +496,16 @@
     <tr>
 	 <td>Trans mas to fem</td>
       <td>Ethical</td><td>Tactical</td><td>Result</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>ESE</td><td>IEI</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
      <td>Most feminine</td>
       <td>Ethical</td><td>Strategic</td><td>Process</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>SEI</td><td>EIE</td><td>SEE</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>18</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Self Actualisation</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/18.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
