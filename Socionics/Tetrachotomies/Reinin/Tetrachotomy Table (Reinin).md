@@ -409,12 +409,12 @@
     <tr>
 	 <td>Diplomatic (F-creative)</td>
       <td>Ethical</td><td>Irrational</td><td>Emotivist</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>SEI</td><td>IEI</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
      <td>Guardians (F-base)</td>
       <td>Ethical</td><td>Rational</td><td>Constructivist</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>ESE</td><td>EIE</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>15</b></td>
