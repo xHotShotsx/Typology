@@ -230,17 +230,17 @@
     <tr>
     <td>Humanitarian</td>
       <td>Intuitive</td><td>Ethical</td><td>Aristocratic</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>EIE</td><td>IEI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Pragmatist</td>
       <td>Sensory</td><td>Logical</td><td>Aristocratic</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>LSI</td><td>SLE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
      <td>Social</td>
       <td>Sensory</td><td>Ethical</td><td>Democratic</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>SEI</td><td>ESE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>9</b></td>
