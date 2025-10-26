@@ -312,20 +312,20 @@
 	 <tr>
 	 <td>Childlike (Ne)</td>
       <td>Extroverted</td><td>Logical</td><td>Yielding</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>LII</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
     <td>Victim (Ni)</td>
       <td>Extroverted</td><td>Ethical</td><td>Obstinate</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>EIE</td><td>IEI</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Aggressor (Se)</td>
       <td>Introverted</td><td>Logical</td><td>Obstinate</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>LSI</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Caring (Si)</td>
       <td>Introverted</td><td>Ethical</td><td>Yielding</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
