@@ -109,22 +109,22 @@
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
       <td>Extroverted</td><td>Democratic</td><td>Positivist</td>
-      <td>ILE</td><td>ESE</td><td>SEE</td><td>LSE</td>
+      <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
       <td>Extroverted</td><td>Aristocratic</td><td>Negativist</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>EIE</td><td>SLE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
       <td>Introverted</td><td>Democratic</td><td>Negativist</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>SEI</td><td>LII</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
       <td>Introverted</td><td>Aristocratic</td><td>Positivist</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>5</b></td>
