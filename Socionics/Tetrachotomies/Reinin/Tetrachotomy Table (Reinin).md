@@ -269,11 +269,11 @@
     <tr>
      <td>Distributive (S-creative)</td>
       <td>Sensory</td><td>Rational</td><td>Tactical</td>
-      <td>ESE</td><td>LSI</td><td>ESI</td><td>EII</td>
+      <td>ESE</td><td>LSI</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>10</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Resource Attitude Shades</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/10.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
