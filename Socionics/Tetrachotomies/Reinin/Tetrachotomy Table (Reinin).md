@@ -601,7 +601,7 @@
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
-      <td>Irrational</td><td></td><td>Yielding</td>
+      <td>Irrational</td><td>Democratic</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
