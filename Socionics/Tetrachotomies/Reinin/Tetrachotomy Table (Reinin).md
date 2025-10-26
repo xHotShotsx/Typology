@@ -573,7 +573,7 @@
 	 <tr>
 	 <td>Self-Actualisation</td>
       <td>Irrational</td><td>Yielding</td><td>Merry</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>SEI</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
     <td>Social Success</td>
@@ -581,12 +581,12 @@
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td></td>
+	 <td>Social Responsibility</td>
       <td>Rational</td><td>Yielding</td><td>Serious</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Spreading Principles</td>
       <td>Rational</td><td>Obstinate</td><td>Merry</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
