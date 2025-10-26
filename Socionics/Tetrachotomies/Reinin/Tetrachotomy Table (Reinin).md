@@ -282,21 +282,21 @@
       </tr>
 	 <tr>
 	 <td>Anticipatory</td>
-      <td>Extroverted</td><td>Logical</td><td>Yielding</td>
+      <td>Intuitive</td><td>Logical</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Cautiona</td>
-      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td>
+    <td>Cautionary</td>
+      <td>Intuitive</td><td>Ethical</td><td>Obstinate</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Introverted</td><td>Logical</td><td>Obstinate</td>
+	 <td>Preservative</td>
+      <td>Sensory</td><td>Logical</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Acquisitive</td>
       <td>Introverted</td><td>Ethical</td><td>Yielding</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
