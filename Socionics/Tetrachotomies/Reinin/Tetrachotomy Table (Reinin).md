@@ -602,17 +602,17 @@
 	 <tr>
 	 <td>Frozen by Stress</td>
       <td>Irrational</td><td>Democratic</td><td>Process</td>
-      <td>ILE</td><td>SEI</td><td>SEE</td><td>LSE</td>
+      <td>ILE</td><td>SEI</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
     <td>Resistant to Stress</td>
       <td>Irrational</td><td>Aristocratic</td><td>Result</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>SLE</td><td>IEI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Trained by Stress</td>
       <td>Rational</td><td>Democratic</td><td>Result</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>ESE</td><td>LII</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
      <td>Vulnerable to Stress</td>
