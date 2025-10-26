@@ -455,7 +455,7 @@
       <td><b>T</b></td><td><b>EP</b></td><td><b>ETP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td></td>
       <td>Extroverted</td><td>Logical</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
