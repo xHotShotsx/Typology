@@ -650,31 +650,31 @@
     </tr>
     <tr>
       <td rowspan="6"><b>23</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Occupation Groups</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/23.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      <td><b>EN</b></td><td><b>ET</b></td><td><b>NT</b></td>
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
-      <td>Carefree</td><td>Yielding</td><td>Yielding</td>
+      <td>Carefree</td><td>Yielding</td><td>Democratic</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
-      <td>Carefree</td><td>Obstinate</td><td>Obstinate</td>
+      <td>Carefree</td><td>Obstinate</td><td>Aristocratic</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Farsighted</td><td>Yielding</td><td>Obstinate</td>
+      <td>Farsighted</td><td>Yielding</td><td>Aristocratic</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
-      <td>Farsighted</td><td>Obstinate</td><td>Yielding</td>
+      <td>Farsighted</td><td>Obstinate</td><td>Democratic</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
@@ -684,7 +684,7 @@
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>EN</b></td><td><b>EP</b></td><td><b>TP</b></td>
+      <td><b>EN</b></td><td><b>EP</b></td><td><b>NP</b></td>
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
