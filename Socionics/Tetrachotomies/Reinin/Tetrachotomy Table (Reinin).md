@@ -578,17 +578,17 @@
     <tr>
     <td>Social Success</td>
       <td>Irrational</td><td>Obstinate</td><td>Serious</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>SEE</td><td>ILI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Social Responsibility</td>
       <td>Rational</td><td>Yielding</td><td>Serious</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>LIE</td><td>ESI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
      <td>Spreading Principles</td>
       <td>Rational</td><td>Obstinate</td><td>Merry</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>ESE</td><td>LII</td><td>EIE</td><td>LSI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>21</b></td>
