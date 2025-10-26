@@ -321,12 +321,12 @@
     </tr>
     <tr>
 	 <td>Aggressor (Se)</td>
-      <td>Introverted</td><td>Logical</td><td>Decisive</td>
+      <td>Sensory</td><td>Logical</td><td>Decisive</td>
       <td>LSI</td><td>SLE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
      <td>Caring (Si)</td>
-      <td>Introverted</td><td>Ethical</td><td>Yielding</td>
+      <td>Sensory</td><td>Ethical</td><td>Judicious</td>
       <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
