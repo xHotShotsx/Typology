@@ -940,30 +940,30 @@
     </tr>
     <tr>
       <td rowspan="6"><b>33</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Quadra</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/33.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      <td><b>NT</b></td><td><b>ENP</b></td><td><b>ETP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Alpha Quadra</td>
       <td>Democratic</td><td>Judicious</td><td>Merry</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Gamma Quadra</td>
       <td>Democratic</td><td>Decisive</td><td>Serious</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Delta Quadra</td>
       <td>Aristocratic</td><td>Judicious</td><td>Serious</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Beta Quadra</td>
       <td>Aristocratic</td><td>Decisive</td><td>Merry</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
