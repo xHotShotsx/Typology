@@ -297,7 +297,7 @@
     </tr>
     <tr>
      <td>Acquisitive</td>
-      <td>Sensory</td><td>Obstinate</td><td>Yielding</td>
+      <td>Sensory</td><td>Obstinate</td><td>Positivist</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
