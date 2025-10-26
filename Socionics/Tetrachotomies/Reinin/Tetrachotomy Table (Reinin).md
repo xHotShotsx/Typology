@@ -457,12 +457,12 @@
 	 <tr>
 	 <td></td>
       <td>Logical</td><td>Static</td><td>Merry</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>LII</td><td>LSI</td><td>SLE</td>
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
       <td>Logical</td><td>Dynamic</td><td>Serious</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>ILI</td><td>LIE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
