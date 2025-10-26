@@ -636,12 +636,12 @@
     <tr>
     <td>Waiting</td>
       <td>Irrational</td><td>Negativist</td><td>Declaring</td>
-      <td>SEI</td><td>SLE</td><td>SEE</td><td>IEE</td>
+      <td>SEI</td><td>SLE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
 	 <td>Realistic Plans</td>
       <td>Rational</td><td>Positivist</td><td>Declaring</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td></td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Avoiding Failures</td>
