@@ -389,12 +389,12 @@
     </tr>
     <tr>
       <td rowspan="6"><b>14</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Rational Faculty / Reasoning / Argumentation Styles</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/14.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      <td><b>T</b></td><td><b>P</b></td><td><b>TP</b></td>
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
