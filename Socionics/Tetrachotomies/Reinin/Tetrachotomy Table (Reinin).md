@@ -321,22 +321,22 @@
     </tr>
     <tr>
 	 <td>Aggressor (Se)</td>
-      <td>Sensory</td><td>Logical</td><td>Decisive</td>
+      <td>Sensory</td><td>Static</td><td>Decisive</td>
       <td>LSI</td><td>SLE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
      <td>Caring (Si)</td>
-      <td>Sensory</td><td>Ethical</td><td>Judicious</td>
+      <td>Sensory</td><td>Dynamic</td><td>Judicious</td>
       <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>12</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Project Groups</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/12.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      <td><b>N</b></td><td><b>TP</b></td><td><b>ET</b></td>
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
