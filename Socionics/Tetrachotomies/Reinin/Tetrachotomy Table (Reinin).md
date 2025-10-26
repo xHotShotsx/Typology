@@ -93,8 +93,8 @@
       <td>SEI</td><td>IEI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Rigid-Stable</td>
-      <td>Introverted</td><td>Ethical</td><td>Yielding</td>
+     <td>Balanced-Stable</td>
+      <td>Introverted</td><td>Rational</td><td>Static</td>
       <td>LII</td><td>LSI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
