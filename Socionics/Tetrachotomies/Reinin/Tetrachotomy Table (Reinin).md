@@ -485,7 +485,7 @@
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
-      <td>Logical</td><td>Logical</td><td>Yielding</td>
+      <td>Logical</td><td>Tacti</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
