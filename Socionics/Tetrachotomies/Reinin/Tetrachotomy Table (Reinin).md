@@ -631,12 +631,12 @@
 	 <tr>
 	 <td>Iridescent Hopes</td>
       <td>Irrational</td><td>Positivist</td><td>Asking</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Waiting</td>
       <td>Irrational</td><td>Negativist</td><td>Declaring</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>SEI</td><td>SLE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Realistic Plans</td>
