@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>2</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Style</b></td>
+      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/2.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -853,7 +853,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>30</b></td>
-      <td rowspan="2"><b>Rings of Aupervisai</b></td>
+      <td rowspan="2"><b>Challenge Response Groups</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/30.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -882,7 +882,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>31</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>s</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/31.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
