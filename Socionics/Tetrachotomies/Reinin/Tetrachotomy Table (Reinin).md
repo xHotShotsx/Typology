@@ -486,20 +486,20 @@
 	 <tr>
 	 <td>Trans fem to mas</td>
       <td>Logical</td><td>Tactical</td><td>Process</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>LSI</td><td>ILI</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Most masc</td>
+    <td>Most masculine</td>
       <td>Logical</td><td>Strategic</td><td>Result</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>LII</td><td>SLE</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Trans mas to fem</td>
       <td>Ethical</td><td>Tactical</td><td>Result</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Most feminine</td>
       <td>Ethical</td><td>Strategic</td><td>Process</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
