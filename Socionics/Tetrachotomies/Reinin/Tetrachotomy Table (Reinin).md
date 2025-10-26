@@ -426,24 +426,24 @@
       <td><b>T</b></td><td><b>EN</b></td><td><b>ENT</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Acting</td>
       <td>Logical</td><td>Carefree</td><td>Positivist</td>
       <td>ILE</td><td>LSI</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Opposing</td>
       <td>Logical</td><td>Farsighted</td><td>Negativist</td>
-      <td>LII</td><td>SLE</td><td>SEE</td><td>IEE</td>
+      <td>LII</td><td>SLE</td><td>ILI</td><td>LSE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Rep</td>
       <td>Ethical</td><td>Carefree</td><td>Negativist</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>SEI</td><td>EIE</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
       <td>Ethical</td><td>Farsighted</td><td>Positivist</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>ESE</td><td>IEI</td><td>SEE</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>16</b></td>
