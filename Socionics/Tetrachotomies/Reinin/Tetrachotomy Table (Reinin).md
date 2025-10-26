@@ -747,12 +747,12 @@
 	 <tr>
 	 <td></td>
       <td>Carefree</td><td>Merry</td><td>Process</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>SEI</td><td>EIE</td><td>LSI</td>
     </tr>
     <tr>
     <td></td>
       <td>Carefree</td><td>Serious</td><td>Result</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>LIE</td><td>ESI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td></td>
