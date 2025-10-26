@@ -629,7 +629,7 @@
       <td><b>P</b></td><td><b>ENT</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Iridescent Hopes</td>
       <td>Irrational</td><td>Positivist</td><td>Asking</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
