@@ -398,22 +398,22 @@
       </tr>
 	 <tr>
 	 <td>Restructurers (T-creative)</td>
-      <td>Logical</td><td>Irrational</td><td>Yielding</td>
+      <td>Logical</td><td>Irrational</td><td>Constructivist</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Constructors (T-base)</td>
-      <td>Logical</td><td>Rational</td><td>Obstinate</td>
+      <td>Logical</td><td>Rational</td><td>Emotivist</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Diplomatic (F-creative)</td>
-      <td>Ethical</td><td>Irrational</td><td>Obstinate</td>
+      <td>Ethical</td><td>Irrational</td><td>Emotivist</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Guardians (F-base)</td>
-      <td>Ethical</td><td>Rational</td><td>Yielding</td>
+      <td>Ethical</td><td>Rational</td><td>Constructivist</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
