@@ -447,12 +447,12 @@
     </tr>
     <tr>
       <td rowspan="6"><b>16</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Ego Rational Element / Form of Action</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/16.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      <td><b>T</b></td><td><b>EP</b></td><td><b>ETP</b></td>
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
