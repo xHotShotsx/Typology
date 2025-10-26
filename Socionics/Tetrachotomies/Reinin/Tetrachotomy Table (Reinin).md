@@ -520,12 +520,12 @@
     <tr>
     <td>Competition</td>
       <td>Logical</td><td>Decisive</td><td>Declaring</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>LSI</td><td>SLE</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Support</td>
       <td>Ethical</td><td>Judicious</td><td>Declaring</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>SEI</td><td>ESE</td><td></td><td>EII</td>
     </tr>
     <tr>
      <td>Intrigue</td>
