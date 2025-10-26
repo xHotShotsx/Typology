@@ -259,17 +259,17 @@
     <tr>
     <td>Dissociative (N-creative)</td>
       <td>Intuitive</td><td>Rational</td><td>Strategic</td>
-      <td>LII</td><td>EIE</td><td>LIE</td><td>IEE</td>
+      <td>LII</td><td>EIE</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
 	 <td>Commutative (S-base)</td>
       <td>Sensory</td><td>Irrational</td><td>Strategic</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>SEI</td><td>SLE</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
      <td>Distributive (S-creative)</td>
       <td>Sensory</td><td>Rational</td><td>Tactical</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>ESE</td><td>LSI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>10</b></td>
