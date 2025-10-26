@@ -476,7 +476,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>17</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Implementation Groups</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/17.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -484,12 +484,12 @@
       <td><b>T</b></td><td><b>NP</b></td><td><b>NTP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Trans fem to mas</td>
       <td>Logical</td><td>Tactical</td><td>Process</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Most masc</td>
       <td>Logical</td><td>Strategic</td><td>Result</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
