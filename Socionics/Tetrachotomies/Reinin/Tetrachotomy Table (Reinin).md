@@ -79,17 +79,17 @@
       </tr>
 	 <tr>
 	 <td>Flexible-Manoeuvring</td>
-      <td>Extroverted</td><td>Irrational</td><td></td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>Extroverted</td><td>Irrational</td><td>Static</td>
+      <td>ILE</td><td>SLE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
-      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+    <td>Liner-Assertive</td>
+      <td>Extroverted</td><td>Rational</td><td>Dynamic</td>
+      <td>ESE</td><td>EIE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Introverted</td><td>Logical</td><td>Obstinate</td>
+      <td>Introverted</td><td>Irrational</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
