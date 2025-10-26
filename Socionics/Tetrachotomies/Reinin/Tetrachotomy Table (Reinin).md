@@ -370,7 +370,7 @@
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
       <td>Extroverted</td><td>Merry</td><td>Asking</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>LII</td><td>EIE</td><td>IEI</td>
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
