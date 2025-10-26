@@ -195,22 +195,22 @@
       </tr>
 	 <tr>
 	 <td>Energy Generators</td>
-      <td>Extroverted</td><td>Process</td><td>Yielding</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>Extroverted</td><td>Process</td><td>Asking</td>
+      <td>ILE</td><td>EIE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Energy Carriers</td>
-      <td>Extroverted</td><td>Result</td><td>Obstinate</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>Extroverted</td><td>Result</td><td>Declaring</td>
+      <td>ESE</td><td>SLE</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Information Accumulators</td>
-      <td>Introverted</td><td>Process</td><td>Obstinate</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>Introverted</td><td>Process</td><td>Declaring</td>
+      <td>SEI</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Information Generators</td>
-      <td>Introverted</td><td>Ethical</td><td>Yielding</td>
+      <td>Introverted</td><td>Result</td><td>Asking</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
