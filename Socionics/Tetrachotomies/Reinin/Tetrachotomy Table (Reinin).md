@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>2</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Dimension (Rational) / Communication Style</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/2.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -398,7 +398,7 @@
       </tr>
 	 <tr>
 	 <td>Restructurers (T-creative)</td>
-      <td>Logical</td><td>Logical</td><td>Yielding</td>
+      <td>Logical</td><td>Irrational</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
