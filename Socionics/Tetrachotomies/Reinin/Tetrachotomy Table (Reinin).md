@@ -530,7 +530,7 @@
     <tr>
      <td>Intrigue</td>
       <td>Ethical</td><td>Decisive</td><td>Asking</td>
-      <td>EIE</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>EIE</td><td>IEI</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>19</b></td>
