@@ -634,17 +634,17 @@
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Waiting</td>
       <td>Irrational</td><td>Negativist</td><td>Declaring</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Realistic Plans</td>
       <td>Rational</td><td>Positivist</td><td>Declaring</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Avoiding Failures</td>
       <td>Rational</td><td>Negativist</td><td>Asking</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
