@@ -404,7 +404,7 @@
     <tr>
     <td>Constructors (T-base)</td>
       <td>Logical</td><td>Rational</td><td>Emotivist</td>
-      <td></td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>LII</td><td>LSI</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
 	 <td>Diplomatic (F-creative)</td>
