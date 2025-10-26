@@ -967,6 +967,64 @@
       <td>Aristocratic</td><td>Ethical</td><td>Yielding</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
+    <tr>
+      <td rowspan="6"><b>34</b></td>
+      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/34.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      </tr>
+	 <tr>
+	 <td>Business-like (4d-Te)</td>
+      <td>Tactical</td><td>Logical</td><td>Yielding</td>
+      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+    </tr>
+    <tr>
+    <td>Passionate (4d-Fe)</td>
+      <td>Democratic</td><td>Ethical</td><td>Obstinate</td>
+      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+    </tr>
+    <tr>
+	 <td>Cold-blooded (4d-Ti)</td>
+      <td>Aristocratic</td><td>Logical</td><td>Obstinate</td>
+      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+    </tr>
+    <tr>
+     <td>Sincere (4d-Fi)</td>
+      <td>Aristocratic</td><td>Ethical</td><td>Yielding</td>
+      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>35</b></td>
+      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/35.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      </tr>
+	 <tr>
+	 <td>Business-like (4d-Te)</td>
+      <td>Democratic</td><td>Logical</td><td>Yielding</td>
+      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+    </tr>
+    <tr>
+    <td>Passionate (4d-Fe)</td>
+      <td>Democratic</td><td>Ethical</td><td>Obstinate</td>
+      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+    </tr>
+    <tr>
+	 <td>Cold-blooded (4d-Ti)</td>
+      <td>Aristocratic</td><td>Logical</td><td>Obstinate</td>
+      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+    </tr>
+    <tr>
+     <td>Sincere (4d-Fi)</td>
+      <td>Aristocratic</td><td>Ethical</td><td>Yielding</td>
+      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+    </tr>
   </tbody>
 </table>
 </div>
