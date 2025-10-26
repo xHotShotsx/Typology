@@ -757,12 +757,12 @@
     <tr>
 	 <td></td>
       <td>Farsighted</td><td>Merry</td><td>Result</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>ESE</td><td>LII</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
      <td></td>
       <td>Farsighted</td><td>Serious</td><td>Process</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>SEE</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>27</b></td>
