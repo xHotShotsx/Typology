@@ -368,24 +368,24 @@
       <td><b>N</b></td><td><b>ETP</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Inventor</td>
       <td>Extroverted</td><td>Merry</td><td>Asking</td>
       <td>ILE</td><td>LII</td><td>EIE</td><td>IEI</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Negotiator</td>
       <td>Extroverted</td><td>Serious</td><td>Declaring</td>
       <td>ILI</td><td>LIE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Gatherer</td>
       <td>Introverted</td><td>Merry</td><td>Declaring</td>
-      <td>SEI</td><td>ESE</td><td>ILI</td><td>EII</td>
+      <td>SEI</td><td>ESE</td><td>LSI</td><td>SLE</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Processor</td>
       <td>Introverted</td><td>Serious</td><td>Asking</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>SEE</td><td>ESI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>14</b></td>
