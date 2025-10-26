@@ -534,7 +534,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>19</b></td>
-      <td rowspan="2"><b>Irrational Dual Axis </b></td>
+      <td rowspan="2"><b>Irrational Dual Axis / Planning Style</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/19.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -544,12 +544,12 @@
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
       <td>Irrational</td><td>Carefree</td><td>Judicious</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>SEI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
       <td>Irrational</td><td>Farsighted</td><td>Decisive</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>SLE</td><td>IEI</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
