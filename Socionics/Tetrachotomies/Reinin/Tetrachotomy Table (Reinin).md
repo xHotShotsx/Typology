@@ -399,12 +399,12 @@
 	 <tr>
 	 <td>Restructurers (T-creative)</td>
       <td>Logical</td><td>Irrational</td><td>Constructivist</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>SLE</td><td>ILI</td><td>SLI</td>
     </tr>
     <tr>
     <td>Constructors (T-base)</td>
       <td>Logical</td><td>Rational</td><td>Emotivist</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td></td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Diplomatic (F-creative)</td>
