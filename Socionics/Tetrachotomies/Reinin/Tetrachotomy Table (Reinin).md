@@ -481,7 +481,7 @@
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      <td><b>T</b></td><td><b>NP</b></td><td><b>NTP</b></td>
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
@@ -490,17 +490,17 @@
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
-      <td>Logical</td><td>Strategic</td><td>Obstinate</td>
+      <td>Logical</td><td>Strategic</td><td>Result</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Ethical</td><td>Tactical</td><td>Obstinate</td>
+      <td>Ethical</td><td>Tactical</td><td>Result</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
-      <td>Ethical</td><td>Strategic</td><td>Yielding</td>
+      <td>Ethical</td><td>Strategic</td><td>Process</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
