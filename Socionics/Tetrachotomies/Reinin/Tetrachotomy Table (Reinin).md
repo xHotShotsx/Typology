@@ -107,28 +107,28 @@
       <td><b>E</b></td><td><b>NT</b></td><td><b>ENT</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Approaching</td>
       <td>Extroverted</td><td>Democratic</td><td>Positivist</td>
       <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Shaping</td>
       <td>Extroverted</td><td>Aristocratic</td><td>Negativist</td>
       <td>EIE</td><td>SLE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Abstaining</td>
       <td>Introverted</td><td>Democratic</td><td>Negativist</td>
       <td>SEI</td><td>LII</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Integrating</td>
       <td>Introverted</td><td>Aristocratic</td><td>Positivist</td>
       <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>5</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Social Interaction</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/5.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
