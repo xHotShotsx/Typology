@@ -438,7 +438,7 @@
     <tr>
 	 <td>Repelling from Others</td>
       <td>Ethical</td><td>Carefree</td><td>Negativist</td>
-      <td>SEI</td><td>EIE</td><td>ESI</td><td>IEE</td>
+      <td>SEE</td><td>EIE</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
      <td>Endearing</td>
