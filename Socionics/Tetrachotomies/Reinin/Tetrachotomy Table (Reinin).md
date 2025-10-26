@@ -403,17 +403,17 @@
     </tr>
     <tr>
     <td>Constructors (T-base)</td>
-      <td>Logical</td><td>Ethical</td><td>Obstinate</td>
+      <td>Logical</td><td>Rational</td><td>Obstinate</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Diplomatic (F-creative)</td>
-      <td>Ethical</td><td>Logical</td><td>Obstinate</td>
+      <td>Ethical</td><td>Irrational</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Guardians (F-base)</td>
-      <td>Ethical</td><td>Ethical</td><td>Yielding</td>
+      <td>Ethical</td><td>Rational</td><td>Yielding</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
