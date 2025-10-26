@@ -283,17 +283,17 @@
 	 <tr>
 	 <td>Anticipatory</td>
       <td>Intuitive</td><td>Yielding</td><td>Positivist</td>
-      <td>ILE</td><td>IEI</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>IEI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
     <td>Cautionary</td>
       <td>Intuitive</td><td>Obstinate</td><td>Negativist</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>LII</td><td>EIE</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Preservative</td>
       <td>Sensory</td><td>Yielding</td><td>Negativist</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>SEI</td><td>SLE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
      <td>Acquisitive</td>
