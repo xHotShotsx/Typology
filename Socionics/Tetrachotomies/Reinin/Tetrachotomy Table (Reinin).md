@@ -641,7 +641,7 @@
     <tr>
 	 <td>Realistic Plans</td>
       <td>Rational</td><td>Positivist</td><td>Declaring</td>
-      <td></td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>ESE</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Avoiding Failures</td>
