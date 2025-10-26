@@ -350,7 +350,7 @@
     </tr>
     <tr>
 	 <td>Concrete Result</td>
-      <td>Sensory</td><td>Constructivist</td><td>Obstinate</td>
+      <td>Sensory</td><td>Constructivist</td><td>Result</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
