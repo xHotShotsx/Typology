@@ -225,21 +225,21 @@
 	 <tr>
 	 <td>Researcher</td>
       <td>Intuitive</td><td>Logical</td><td>Democratic</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>LII</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
     <td>Humanitarian</td>
-      <td>Intuitive</td><td>Ethical</td><td>Obstinate</td>
+      <td>Intuitive</td><td>Ethical</td><td>Aristocratic</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Pragmatist</td>
-      <td>Introverted</td><td>Logical</td><td>Obstinate</td>
+      <td>Sensory</td><td>Logical</td><td>Aristocratic</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Social</td>
-      <td>Introverted</td><td>Ethical</td><td>Yielding</td>
+      <td>Sensory</td><td>Ethical</td><td>Democratic</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
