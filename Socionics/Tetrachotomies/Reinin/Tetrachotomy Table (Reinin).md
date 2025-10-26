@@ -133,25 +133,25 @@
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      <td><b>E</b></td><td><b>NP</b></td><td><b>ET</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Open</td>
       <td>Extroverted</td><td>Logical</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Conflict</td>
       <td>Extroverted</td><td>Ethical</td><td>Obstinate</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Confidential</td>
       <td>Introverted</td><td>Logical</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Rigid</td>
       <td>Introverted</td><td>Ethical</td><td>Yielding</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
