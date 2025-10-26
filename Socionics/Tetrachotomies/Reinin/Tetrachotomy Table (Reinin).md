@@ -515,7 +515,7 @@
 	 <tr>
 	 <td>Creation</td>
       <td>Logical</td><td>Judicious</td><td>Asking</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>LSI</td><td></td><td>LSE</td>
     </tr>
     <tr>
     <td>Competition</td>
