@@ -882,7 +882,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>31</b></td>
-      <td rowspan="2"><b>s</b></td>
+      <td rowspan="2"><b>Rings of Supervision / Cognitive Styles</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/31.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
