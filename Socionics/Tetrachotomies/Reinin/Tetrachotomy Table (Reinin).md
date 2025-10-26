@@ -339,17 +339,17 @@
       <td><b>N</b></td><td><b>TP</b></td><td><b>NTP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
-      <td>Intuitive</td><td></td><td>Yielding</td>
+	 <td>Ideation Process</td>
+      <td>Intuitive</td><td>Constructivist</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>General Result</td>
       <td>Intuitive</td><td>Ethical</td><td>Obstinate</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Concrete </td>
       <td>Sensory</td><td>Logical</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
