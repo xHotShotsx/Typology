@@ -675,11 +675,11 @@
     <tr>
      <td>Lucidity</td>
       <td>Farsighted</td><td>Obstinate</td><td>Democratic</td>
-      <td>ESE</td><td>LII</td><td>ESI</td><td>EII</td>
+      <td>ESE</td><td>LII</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>24</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>(Undefined)</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/24.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -687,22 +687,22 @@
       <td><b>EN</b></td><td><b>EP</b></td><td><b>NP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td></td>
       <td>Carefree</td><td>Static</td><td>Tactical</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td></td>
       <td>Carefree</td><td>Dynamic</td><td>Strategic</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td></td>
       <td>Farsighted</td><td>Static</td><td>Strategic</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td></td>
       <td>Farsighted</td><td>Dynamic</td><td>Tactical</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
