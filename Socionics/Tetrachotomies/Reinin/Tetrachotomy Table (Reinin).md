@@ -341,7 +341,7 @@
 	 <tr>
 	 <td>Ideation Process</td>
       <td>Intuitive</td><td>Constructivist</td><td>Process</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>EIE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
     <td>General Result</td>
