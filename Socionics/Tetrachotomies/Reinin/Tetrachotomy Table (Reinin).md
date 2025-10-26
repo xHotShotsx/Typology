@@ -302,7 +302,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>11</b></td>
-      <td rowspan="2"><b>Ego Irrational Element / Romance Styles / Psychoanalytic Groups</b></td>
+      <td rowspan="2"><b>Ego Irrational Element / Romance Style / Psychoanalytic Groups</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/11.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -389,7 +389,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>14</b></td>
-      <td rowspan="2"><b>Rational Faculty / Reasoning / Argumentation Styles</b></td>
+      <td rowspan="2"><b>Rational Faculty / Reasoning / Argumentation Style</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/14.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -412,7 +412,7 @@
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Guardians (F-base)</td>
       <td>Ethical</td><td>Ethical</td><td>Yielding</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
