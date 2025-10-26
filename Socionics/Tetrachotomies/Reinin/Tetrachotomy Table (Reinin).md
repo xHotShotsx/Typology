@@ -597,7 +597,7 @@
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      <td><b>P</b></td><td><b>NT</b></td><td><b>NTP</b></td>
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
@@ -626,26 +626,26 @@
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      <td><b>P</b></td><td><b>ENT</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
-      <td>Irrational</td><td>Positivist</td><td>Yielding</td>
+      <td>Irrational</td><td>Positivist</td><td>Asking</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
-      <td>Irrational</td><td>Negativist</td><td>Obstinate</td>
+      <td>Irrational</td><td>Negativist</td><td>Declaring</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Rational</td><td>Positivist</td><td>Obstinate</td>
+      <td>Rational</td><td>Positivist</td><td>Declaring</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
-      <td>Rational</td><td>Negativist</td><td>Yielding</td>
+      <td>Rational</td><td>Negativist</td><td>Asking</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
