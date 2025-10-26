@@ -211,7 +211,7 @@
     <tr>
      <td>Information Generators</td>
       <td>Introverted</td><td>Result</td><td>Asking</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>LII</td><td>IEI</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>8</b></td>
