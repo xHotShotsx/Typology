@@ -670,12 +670,12 @@
     <tr>
 	 <td>Attainment</td>
       <td>Farsighted</td><td>Yielding</td><td>Aristocratic</td>
-      <td>SLE</td><td>IEI</td><td></td><td>EII</td>
+      <td>SLE</td><td>IEI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
      <td>Lucidity</td>
       <td>Farsighted</td><td>Obstinate</td><td>Democratic</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>ESE</td><td>LII</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>24</b></td>
