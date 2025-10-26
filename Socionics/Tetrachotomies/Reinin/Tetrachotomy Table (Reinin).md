@@ -341,22 +341,22 @@
 	 <tr>
 	 <td>Ideation Process</td>
       <td>Intuitive</td><td>Constructivist</td><td>Process</td>
-      <td>ILE</td><td>EIE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>EIE</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
     <td>General Result</td>
       <td>Intuitive</td><td>Emotivist</td><td>Result</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>LII</td><td>IEI</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Concrete Result</td>
       <td>Sensory</td><td>Constructivist</td><td>Result</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>ESE</td><td>SLE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
      <td>Concrete Process</td>
       <td>Sensory</td><td>Emotivist</td><td>Process</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>SEI</td><td>LSI</td><td>SEE</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>13</b></td>
