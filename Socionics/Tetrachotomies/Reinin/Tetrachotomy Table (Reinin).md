@@ -513,12 +513,12 @@
       <td><b>T</b></td><td><b>ENP</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Creation</td>
       <td>Logical</td><td>Judicious</td><td>Asking</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Competition</td>
       <td>Logical</td><td>Decisive</td><td>Declaring</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
