@@ -298,11 +298,11 @@
     <tr>
      <td>Acquisitive</td>
       <td>Sensory</td><td>Obstinate</td><td>Positivist</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>ESE</td><td>LSI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>11</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Ego Irrational Element / Romance Style / Psychoanalyt</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/11.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
