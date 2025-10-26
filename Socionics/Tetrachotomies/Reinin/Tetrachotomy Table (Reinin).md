@@ -254,12 +254,12 @@
 	 <tr>
 	 <td>Associative (N-base)</td>
       <td>Intuitive</td><td>Irrational</td><td>Tactical</td>
-      <td>ILE</td><td>IEI</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>IEI</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
     <td>Dissociative (N-creative)</td>
       <td>Intuitive</td><td>Rational</td><td>Strategic</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>LII</td><td>EIE</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Commutative (S-base)</td>
