@@ -311,23 +311,23 @@
       </tr>
 	 <tr>
 	 <td>Childlike (Ne)</td>
-      <td>Extroverted</td><td>Logical</td><td>Yielding</td>
+      <td>Intuitive</td><td>Static</td><td>Judicious</td>
       <td>ILE</td><td>LII</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
     <td>Victim (Ni)</td>
-      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td>
+      <td>Intuitice</td><td>Ethical</td><td>Obstinate</td>
       <td>EIE</td><td>IEI</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Aggressor (Se)</td>
       <td>Introverted</td><td>Logical</td><td>Obstinate</td>
-      <td>LSI</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>LSI</td><td>SLE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
      <td>Caring (Si)</td>
       <td>Introverted</td><td>Ethical</td><td>Yielding</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>12</b></td>
