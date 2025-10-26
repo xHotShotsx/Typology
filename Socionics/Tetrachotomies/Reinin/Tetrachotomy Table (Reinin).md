@@ -641,12 +641,12 @@
     <tr>
 	 <td>Realistic Plans</td>
       <td>Rational</td><td>Positivist</td><td>Declaring</td>
-      <td>ESE</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>ESE</td><td>LSI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
      <td>Avoiding Failures</td>
       <td>Rational</td><td>Negativist</td><td>Asking</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>LII</td><td>EIE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>23</b></td>
@@ -658,17 +658,17 @@
       <td><b>EN</b></td><td><b>ET</b></td><td><b>NT</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Retention</td>
       <td>Carefree</td><td>Yielding</td><td>Democratic</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Comportment</td>
       <td>Carefree</td><td>Obstinate</td><td>Aristocratic</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>A</td>
       <td>Farsighted</td><td>Yielding</td><td>Aristocratic</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
