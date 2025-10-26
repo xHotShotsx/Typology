@@ -559,11 +559,11 @@
     <tr>
      <td>Conscientious</td>
       <td>Rational</td><td>Farsighted</td><td>Judicious</td>
-      <td>ESE</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>ESE</td><td>LII</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>20</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Rational Dual Axis / Bio-Ideological Balance</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/20.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -571,7 +571,7 @@
       <td><b>P</b></td><td><b>ET</b></td><td><b>ETP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Self-Actualisation</td>
       <td>Irrational</td><td>Yielding</td><td>Merry</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
