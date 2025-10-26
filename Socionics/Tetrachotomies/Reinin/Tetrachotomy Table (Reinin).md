@@ -316,12 +316,12 @@
     </tr>
     <tr>
     <td>Victim (Ni)</td>
-      <td>Intuitice</td><td>Ethical</td><td>Obstinate</td>
+      <td>Intuitive</td><td>Dynamic</td><td>Decisive</td>
       <td>EIE</td><td>IEI</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Aggressor (Se)</td>
-      <td>Introverted</td><td>Logical</td><td>Obstinate</td>
+      <td>Introverted</td><td>Logical</td><td>Decisive</td>
       <td>LSI</td><td>SLE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
