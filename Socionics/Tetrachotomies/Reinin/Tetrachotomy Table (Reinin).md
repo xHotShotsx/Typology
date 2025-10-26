@@ -684,7 +684,7 @@
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      <td><b>EN</b></td><td><b>EP</b></td><td><b>TP</b></td>
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
@@ -698,12 +698,12 @@
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Farsighted</td><td>Static</td><td>Strateg</td>
+      <td>Farsighted</td><td>Static</td><td>Strategic</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
-      <td>Farsighted</td><td>Dynamic</td><td>Yielding</td>
+      <td>Farsighted</td><td>Dynamic</td><td>Tactical</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
