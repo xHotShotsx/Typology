@@ -542,23 +542,23 @@
       <td><b>P</b></td><td><b>EN</b></td><td><b>ENP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Random</td>
       <td>Irrational</td><td>Carefree</td><td>Judicious</td>
       <td>ILE</td><td>SEI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Unpredictable</td>
       <td>Irrational</td><td>Farsighted</td><td>Decisive</td>
-      <td>SLE</td><td>IEI</td><td>SEE</td><td>IEE</td>
+      <td>SLE</td><td>IEI</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Controlling</td>
       <td>Rational</td><td>Carefree</td><td>Decisive</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
-      <td>Rational</td><td>Farsighted</td><td>Judicious</td>
+     <td>Conscientious</td>
+      <td></td><td>Farsighted</td><td>Judicious</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
