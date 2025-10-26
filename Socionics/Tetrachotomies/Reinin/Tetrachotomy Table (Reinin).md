@@ -467,12 +467,12 @@
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
       <td>Ethical</td><td>Static</td><td>Serious</td>
-      <td>SEE</td><td>ESI</td><td>EII</td><td>EII</td>
+      <td>SEE</td><td>ESI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
       <td>Ethical</td><td>Dynamic</td><td>Merry</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>SEI</td><td>ESE</td><td>EIE</td><td>IEI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>17</b></td>
