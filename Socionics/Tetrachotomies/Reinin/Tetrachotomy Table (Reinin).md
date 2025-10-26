@@ -694,21 +694,21 @@
     <tr>
     <td></td>
       <td>Carefree</td><td>Dynamic</td><td>Strategic</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>SEI</td><td>EIE</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td></td>
       <td>Farsighted</td><td>Static</td><td>Strategic</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>LII</td><td>SLE</td><td>SEE</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
       <td>Farsighted</td><td>Dynamic</td><td>Tactical</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>ESE</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>25</b></td>
-      <td rowspan="2"><b>(Undefined</b></td>
+      <td rowspan="2"><b>(Undefined)</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/25.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -716,22 +716,22 @@
       <td><b>EN</b></td><td><b>TP</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td></td>
       <td>Carefree</td><td>Constructivist</td><td>Asking</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td></td>
       <td>Carefree</td><td>Emotivist</td><td>Declaring</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td></td>
       <td>Farsighted</td><td>Constructivist</td><td>Declaring</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td></td>
       <td>Farsighted</td><td>Emotivist</td><td>Asking</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
