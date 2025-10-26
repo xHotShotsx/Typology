@@ -253,7 +253,7 @@
       </tr>
 	 <tr>
 	 <td>Associative (N-base)</td>
-      <td>Extroverted</td><td>Logical</td><td>Yielding</td>
+      <td>Intuitive</td><td>Logical</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
