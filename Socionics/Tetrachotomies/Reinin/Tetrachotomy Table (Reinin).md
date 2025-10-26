@@ -88,14 +88,14 @@
       <td>ESE</td><td>EIE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Introverted</td><td>Irrational</td><td>Obstinate</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+	 <td>Receptive-Adaptive</td>
+      <td>Introverted</td><td>Irrational</td><td>Dynamic</td>
+      <td>SEI</td><td>IEI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Rigid-Stable</td>
       <td>Introverted</td><td>Ethical</td><td>Yielding</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>LII</td><td>LSI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>4</b></td>
