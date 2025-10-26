@@ -771,26 +771,26 @@
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>ET</b></td><td><b>EP</b></td><td><b>ET</b></td>
+      <td><b>ET</b></td><td><b>EP</b></td><td><b>TP</b></td>
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
-      <td>Yielding</td><td>Static</td><td>Yielding</td>
+      <td>Yielding</td><td>Static</td><td>Constructivist</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
-      <td>Yielding</td><td>Dynamic</td><td>Obstinate</td>
+      <td>Yielding</td><td>Dynamic</td><td>Strategic</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Obstinate</td><td>Static</td><td>Obstinate</td>
+      <td>Obstinate</td><td>Static</td><td>Strategic</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
-      <td>Obstinate</td><td>Dynamic</td><td>Yielding</td>
+      <td>Obstinate</td><td>Dynamic</td><td>Tactical</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
