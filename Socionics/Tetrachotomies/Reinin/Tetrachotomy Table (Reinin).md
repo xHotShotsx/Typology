@@ -249,7 +249,7 @@
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      <td><b>N</b></td><td><b>P</b></td><td><b>NP</b></td>
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
