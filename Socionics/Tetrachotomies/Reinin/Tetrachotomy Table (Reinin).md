@@ -843,7 +843,7 @@
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Obstinate</td><td>judicious</td><td>Obstinate</td>
+      <td>Obstinate</td><td>Judicious</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
@@ -862,17 +862,17 @@
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
-      <td>Static</td><td>Logical</td><td>Yielding</td>
+      <td>Static</td><td>Democratic</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
-      <td>Static</td><td>Ethical</td><td>Obstinate</td>
+      <td>Static</td><td>Aristocratic</td><td>Obstinate</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Dynamic</td><td>Logical</td><td>Obstinate</td>
+      <td>Dynamic</td><td>Democratic</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
