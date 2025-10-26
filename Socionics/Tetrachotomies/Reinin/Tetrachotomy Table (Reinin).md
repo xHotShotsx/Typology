@@ -356,20 +356,20 @@
     <tr>
      <td>Concrete Process</td>
       <td>Sensory</td><td>Emotivist</td><td>Process</td>
-      <td>SEI</td><td>LSI</td><td>SEE</td><td>EII</td>
+      <td>SEI</td><td>LSI</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>13</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Economic Role</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/13.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
+      <td><b>N</b></td><td><b>ETP</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
-      <td>Extroverted</td><td>Logical</td><td>Yielding</td>
+      <td>Extroverted</td><td>Merry</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
@@ -379,7 +379,7 @@
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Introverted</td><td>Logical</td><td>Obstinate</td>
+      <td>Introverted</td><td>Merry</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
