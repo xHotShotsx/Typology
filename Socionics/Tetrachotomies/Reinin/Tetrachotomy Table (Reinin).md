@@ -133,26 +133,26 @@
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b>E</b></td><td><b>NP</b></td><td><b>ET</b></td>
+      <td><b>E</b></td><td><b>NP</b></td><td><b>ENP</b></td>
       </tr>
 	 <tr>
 	 <td>Open</td>
-      <td>Extroverted</td><td>Logical</td><td>Yielding</td>
+      <td>Extroverted</td><td>Tactical</td><td>Judicious</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Conflict</td>
-      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td>
+      <td>Extroverted</td><td>Strategic</td><td>Obstinate</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Secretive</td>
-      <td>Introverted</td><td>Logical</td><td>Obstinate</td>
+      <td>Introverted</td><td>Tactical</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Peaceful</td>
-      <td>Introverted</td><td>Ethical</td><td>Yielding</td>
+      <td>Introverted</td><td>Strategic</td><td>Yielding</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
