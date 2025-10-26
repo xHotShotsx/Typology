@@ -283,7 +283,7 @@
 	 <tr>
 	 <td>Anticipatory</td>
       <td>Intuitive</td><td>Yielding</td><td>Positivist</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>IEI</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Cautionary</td>
