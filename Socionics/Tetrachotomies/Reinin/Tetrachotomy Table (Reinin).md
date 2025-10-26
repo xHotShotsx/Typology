@@ -534,7 +534,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>19</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Irrational Dual Axis </b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/19.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
