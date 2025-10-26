@@ -1022,7 +1022,7 @@
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
-      <tdEmotivist</td><td>Ethical</td><td>Yielding</td>
+      <td>Emotivist</td><td>Ethical</td><td>Yielding</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
   </tbody>
