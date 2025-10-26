@@ -617,7 +617,7 @@
     <tr>
      <td>Vulnerable to Stress</td>
       <td>Rational</td><td>Aristocratic</td><td>Process</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>EIE</td><td>LSI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>22</b></td>
