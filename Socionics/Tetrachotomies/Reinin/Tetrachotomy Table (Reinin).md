@@ -689,7 +689,7 @@
 	 <tr>
 	 <td></td>
       <td>Carefree</td><td>Static</td><td>Tactical</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>LSI</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
     <td></td>
@@ -708,7 +708,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>25</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>(Undefined</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/25.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
