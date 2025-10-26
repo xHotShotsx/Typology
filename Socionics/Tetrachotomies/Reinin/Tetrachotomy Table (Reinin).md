@@ -215,7 +215,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>8</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Club / Activity Orientation/b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/8.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -223,12 +223,12 @@
       <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Researcher</td>
       <td>Extroverted</td><td>Logical</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Humanitarian</td>
       <td>Extroverted</td><td>Ethical</td><td>Obstinate</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
