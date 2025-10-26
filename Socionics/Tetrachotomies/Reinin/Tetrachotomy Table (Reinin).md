@@ -177,12 +177,12 @@
     <tr>
 	 <td>Confidential</td>
       <td>Introverted</td><td>Constructivist</td><td>Serious</td>
-      <td>ILI</td><td>ESI</td><td>EII</td><td>EII</td>
+      <td>ILI</td><td>ESI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
      <td>Rigid</td>
       <td>Introverted</td><td>Emotivist</td><td>Merry</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>SEI</td><td>LII</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>7</b></td>
