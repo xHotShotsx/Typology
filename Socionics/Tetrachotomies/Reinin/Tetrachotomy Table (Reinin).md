@@ -592,7 +592,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>21</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Stress Resistance / Centre</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/21.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -600,22 +600,22 @@
       <td><b>P</b></td><td><b>NT</b></td><td><b>NTP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Frozen by Stress</td>
       <td>Irrational</td><td>Democratic</td><td>Process</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>SEI</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Resistant to Stress</td>
       <td>Irrational</td><td>Aristocratic</td><td>Result</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Trained by Stress</td>
       <td>Rational</td><td>Democratic</td><td>Result</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Vulnerable to Stress</td>
       <td>Rational</td><td>Aristocratic</td><td>Process</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
