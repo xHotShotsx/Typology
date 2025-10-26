@@ -693,17 +693,17 @@
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
-      <td>Farsighted</td><td>Ethical</td><td>Obstinate</td>
+      <td>Carefree</td><td>Ethical</td><td>Obstinate</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td></td><td>Logical</td><td>Obstinate</td>
+      <td>Farsighted</td><td>Logical</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
-      <td>Introverted</td><td>Ethical</td><td>Yielding</td>
+      <td>Farsighted</td><td>Ethical</td><td>Yielding</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
@@ -717,22 +717,22 @@
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
-      <td>Extroverted</td><td>Logical</td><td>Yielding</td>
+      <td>Carefree</td><td>Logical</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
-      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td>
+      <td>Carefree</td><td>Ethical</td><td>Obstinate</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Introverted</td><td>Logical</td><td>Obstinate</td>
+      <td>Farsighted</td><td>Logical</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
-      <td>Introverted</td><td>Ethical</td><td>Yielding</td>
+      <td>Farsighted</td><td>Ethical</td><td>Yielding</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
@@ -746,17 +746,17 @@
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
-      <td>Extroverted</td><td>Logical</td><td>Yielding</td>
+      <td>Carefree</td><td>Logical</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
-      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td>
+      <td>Carefree</td><td>Ethical</td><td>Obstinate</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Introverted</td><td>Logical</td><td>Obstinate</td>
+      <td>Farsighted</td><td>Logical</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
