@@ -436,12 +436,12 @@
       <td>LII</td><td>SLE</td><td>ILI</td><td>LSE</td>
     </tr>
     <tr>
-	 <td>Rep</td>
+	 <td>Repelling from Others</td>
       <td>Ethical</td><td>Carefree</td><td>Negativist</td>
       <td>SEI</td><td>EIE</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Endearing</td>
       <td>Ethical</td><td>Farsighted</td><td>Positivist</td>
       <td>ESE</td><td>IEI</td><td>SEE</td><td>EII</td>
     </tr>
