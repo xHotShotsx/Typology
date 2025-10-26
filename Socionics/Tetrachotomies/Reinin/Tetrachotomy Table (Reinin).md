@@ -978,7 +978,7 @@
       </tr>
 	 <tr>
 	 <td>Business-like (4d-Te)</td>
-      <td>Tactical</td><td>Positivist</td>Merry<td></td>
+      <td>Tactical</td><td>Positivist</td><td>Merry</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
