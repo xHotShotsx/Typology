@@ -397,7 +397,7 @@
       <td><b>T</b></td><td><b>P</b></td><td><b>TP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Restructurers (T</td>
       <td>Logical</td><td>Logical</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
