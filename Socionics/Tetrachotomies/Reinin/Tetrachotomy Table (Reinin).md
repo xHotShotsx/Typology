@@ -849,7 +849,7 @@
     <tr>
      <td>Process Centre</td>
       <td>Obstinate</td><td>Decisive</td><td>Process</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>EIE</td><td>LSI</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>30</b></td>
@@ -861,12 +861,12 @@
       <td><b>EP</b></td><td><b>NT</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Reorienters</td>
       <td>Static</td><td>Democratic</td><td>Asking</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Foundationalists</td>
       <td>Static</td><td>Aristocratic</td><td>Declaring</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
