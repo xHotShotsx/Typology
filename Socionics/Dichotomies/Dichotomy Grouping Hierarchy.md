@@ -8,5 +8,5 @@
 
 ### Indexing
 
-- A dichotomy $\mathfrak{d}$ is ${\mathfrak{d}_{0}$}
+- A dichotomy $\mathfrak{d}$ is $\{\mathfrak{d}_{0}, \mathfrak{d}_{1}\}$ where $\mathfrak{d}_0$ and \
 - 
