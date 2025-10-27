@@ -1,4 +1,4 @@
 ## Sets
 
 - $\mathfrak{d}$ = a dichotomy
-- $\mathfrak{t}(\)$
+- $\mathfrak{t}(\mathfrak{d})$ 
