@@ -12,4 +12,5 @@
 - Since a set of dichotomies in the boolean lattice forms a vector space over $\mathbb{F}_2$, we can use XOR logic to assign values to the 0 and 1 vectors for any dichotomy.
 - For historical reasons, we will let ILE be the 0 vector.
 
-#### $\math\mathbf{}D{D}$
+#### $\mathfrak{D}$
+- 
