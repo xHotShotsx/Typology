@@ -16,4 +16,5 @@
 - $\mathfrak{D}_{i}$ is any dichotomy that is preserved within a dichotomy space $\mathfrak{D}$, such that $\mathfrak{D}_i$ is any $\mathfrak{d} \in \mathfrak{D}$.
 
 #### $\mathcal{D}$
-- A $\mathcal{D}_i$ is any of the 16 dic
+- A $\mathcal{D}_i$ is any of the 16 dichotomy systems that respect the symmetry of all orbital dichotomies.
+- Its indexing is based on the order used by Varlawend, i.e. $\mathcal{D}_{14}$ denotes the Reinin space of dichotomies and 
