@@ -1,3 +1,5 @@
 ## Sets
 
-- $\mathfrak{d}$ 
+- 
+- $\mathfrak{d}$ = a dichotomy
+- 
