@@ -815,12 +815,12 @@
     <tr>
 	 <td></td>
       <td>Obstinate</td><td>Tactical</td><td>Declaring</td>
-      <td></td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>ESE</td><td>LSI</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
      <td></td>
       <td>Obstinate</td><td>Strategic</td><td>Asking</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>LII</td><td>EIE</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>29</b></td>
