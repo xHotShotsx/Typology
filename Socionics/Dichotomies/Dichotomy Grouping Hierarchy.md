@@ -13,4 +13,4 @@
 - For historical reasons, we will let ILE be the 0 vector.
 
 #### $\mathfrak{D}$
-- $\mathfrak{D}i$ is any dichotomy that is preserved within a dichotomy space $\mathfrak{D}$, such that 
+- $\mathfrak{D}_{i}$ is any dichotomy that is preserved within a dichotomy space $\mathfrak{D}$, such that $\mathfrak{D}_i$ is any 
