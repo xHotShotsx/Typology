@@ -776,7 +776,7 @@
 	 <tr>
 	 <td></td>
       <td>Yielding</td><td>Static</td><td>Constructivist</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>SLE</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
     <td></td>
