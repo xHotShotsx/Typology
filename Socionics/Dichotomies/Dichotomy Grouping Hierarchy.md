@@ -8,4 +8,4 @@
 
 ### Indexing
 
-- $\mathfrak{d}_0$ and $\mathfrak{d}_1$ are the two poles of a dichotomy such that  
+- $\mathfrak{d}_0$ and $\mathfrak{d}_1$ are the two poles of a dichotomy $\mathfrak{d}$ 
