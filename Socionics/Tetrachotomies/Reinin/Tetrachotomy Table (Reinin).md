@@ -868,17 +868,17 @@
     <tr>
     <td>Foundationalists</td>
       <td>Static</td><td>Aristocratic</td><td>Declaring</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>LSI</td><td>SLE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Sharpeners</td>
       <td>Dynamic</td><td>Democratic</td><td>Declaring</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>SEI</td><td>ESE</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
      <td>Slackeners</td>
       <td>Dynamic</td><td>Aristocratic</td><td>Asking</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>31</b></td>
