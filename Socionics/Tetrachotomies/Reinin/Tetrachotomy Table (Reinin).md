@@ -1013,17 +1013,17 @@
     <tr>
     <td>Imprints</td>
       <td>Constructivist</td><td>Negativist</td><td>Decisive</td>
-      <td>EIE</td><td>SLE</td><td>ILI</td><td>IEE</td>
+      <td>EIE</td><td>SLE</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
 	 <td>Templates</td>
       <td>Emotivist</td><td>Positivist</td><td>Decisive</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>LSI</td><td>IEI</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
      <td>Ideals</td>
       <td>Emotivist</td><td>Negativist</td><td>Judicious</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>SEI</td><td>LII</td><td>LSE</td><td>IEE</td>
     </tr>
   </tbody>
 </table>
