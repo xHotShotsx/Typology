@@ -921,17 +921,17 @@
 	 <tr>
 	 <td>Implication</td>
       <td>Democratic</td><td>Tactical</td><td>Constructivist</td>
-      <td>ILE</td><td>ESE</td><td>ILI</td><td>LSE</td>
+      <td>ILE</td><td>ESE</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
     <td>Explication</td>
       <td>Democratic</td><td>Strategic</td><td>Emotivist</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>SEI</td><td>LII</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Instruction</td>
       <td>Aristocratic</td><td>Tactical</td><td>Emotivist</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>LSI</td><td>IEI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
      <td>Exemplification</td>
