@@ -977,22 +977,22 @@
       <td><b>NP</b></td><td><b>ENT</b></td><td><b>ETP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te</td>
+	 <td>Decorations</td>
       <td>Tactical</td><td>Positivist</td><td>Merry</td>
       <td>ILE</td><td>ESE</td><td>LSI</td><td>IEI</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Imprints</td>
       <td>Tactical</td><td>Negativist</td><td>Serious</td>
       <td>ILI</td><td>ESI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Templates</td>
       <td>Strategic</td><td>Positivist</td><td>Serious</td>
       <td>SEE</td><td>LIE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Ideals</td>
       <td>Strategic</td><td>Negativist</td><td>Merry</td>
       <td>SEI</td><td>LII</td><td>EIE</td><td>SLE</td>
     </tr>
@@ -1006,22 +1006,22 @@
       <td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Benevolent</td>
       <td>Constructivist</td><td>Positivist</td><td>Judicious</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Imprints</td>
       <td>Constructivist</td><td>Negativist</td><td>Decisive</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Templates</td>
       <td>Emotivist</td><td>Positivist</td><td>Decisive</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td></td>
       <td>Emotivist</td><td>Negativist</td><td>Judicious</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
