@@ -863,7 +863,7 @@
 	 <tr>
 	 <td>Reorienters</td>
       <td>Static</td><td>Democratic</td><td>Asking</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
     <td>Foundationalists</td>
@@ -871,12 +871,12 @@
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Sharpeners</td>
       <td>Dynamic</td><td>Democratic</td><td>Declaring</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Slackeners</td>
       <td>Dynamic</td><td>Aristocratic</td><td>Asking</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
