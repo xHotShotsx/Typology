@@ -781,7 +781,7 @@
     <tr>
     <td></td>
       <td>Yielding</td><td>Dynamic</td><td>Emotivist</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>SEI</td><td>IEI</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
 	 <td></td>
