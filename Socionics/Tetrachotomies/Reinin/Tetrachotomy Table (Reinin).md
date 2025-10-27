@@ -786,12 +786,12 @@
     <tr>
 	 <td></td>
       <td>Obstinate</td><td>Static</td><td>Constructivist</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>LII</td><td>LSI</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
      <td></td>
       <td>Obstinate</td><td>Dynamic</td><td>Emotivist</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>ESE</td><td>EIE</td><td>ILI</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>28</b></td>
