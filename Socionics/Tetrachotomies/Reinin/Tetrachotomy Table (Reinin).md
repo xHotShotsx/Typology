@@ -965,11 +965,11 @@
     <tr>
      <td>Beta Quadra</td>
       <td>Aristocratic</td><td>Decisive</td><td>Merry</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>EIE</td><td>LSI</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>34</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Aspiration</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/34.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -998,7 +998,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>35</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Contentment Balance</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/35.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
