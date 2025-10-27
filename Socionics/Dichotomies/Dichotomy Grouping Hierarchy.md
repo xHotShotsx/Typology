@@ -9,5 +9,5 @@
 ### Indexing
 #### $\mathfrak{d}$
 - A dichotomy $\mathfrak{d}$ is $\{\mathfrak{d}_{0}, \mathfrak{d}_{1}\}$ where $\mathfrak{d}_0$ and $\mathfrak{d}_1$ are compliments inside a boolean lattice.
-- Since a set of dichotomies in the boolean lattice forms a vector space over $\mathbb{F}_2$, we can use XOR logic to assign values to the 0 and 1 vectors for a dichotomy.
-- For historical reasons, let 
+- Since a set of dichotomies in the boolean lattice forms a vector space over $\mathbb{F}_2$, we can use XOR logic to assign values to the 0 and 1 vectors for any dichotomy.
+- For historical reasons, let ILE be the 0 vector.
