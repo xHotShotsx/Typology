@@ -844,7 +844,7 @@
     <tr>
 	 <td>Result Periphery</td>
       <td>Obstinate</td><td>Judicious</td><td>Result</td>
-      <td>ESE</td><td>LII</td><td></td><td>EII</td>
+      <td>ESE</td><td>LII</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
      <td>Process Centre</td>
