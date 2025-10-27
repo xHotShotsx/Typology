@@ -977,24 +977,24 @@
       <td><b>NP</b></td><td><b>ENT</b></td><td><b>ETP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Business-like (4d-Te</td>
       <td>Tactical</td><td>Positivist</td><td>Merry</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>ESE</td><td>LSI</td><td>IEI</td>
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
       <td>Tactical</td><td>Negativist</td><td>Serious</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>ILI</td><td>ESI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
       <td>Strategic</td><td>Positivist</td><td>Serious</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>SEE</td><td>LIE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
       <td>Strategic</td><td>Negativist</td><td>Merry</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>SEI</td><td>LII</td><td>EIE</td><td>SLE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>35</b></td>
