@@ -16,4 +16,4 @@
 - $\mathfrak{D}_{i}$ is any dichotomy that is preserved within a dichotomy space $\mathfrak{D}$, such that $\mathfrak{D}_i$ is any $\mathfrak{d} \in \mathfrak{D}$.
 
 #### $\mathcal{D}$
-- 
+- A $\mathcal{D}_i$ is any of the 16 dic
