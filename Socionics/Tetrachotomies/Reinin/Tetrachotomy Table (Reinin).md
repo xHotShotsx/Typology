@@ -805,17 +805,17 @@
 	 <tr>
 	 <td></td>
       <td>Yielding</td><td>Tactical</td><td>Asking</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>IEI</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
     <td></td>
       <td>Yielding</td><td>Strategic</td><td>Declaring</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>SEI</td><td>SLE</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
 	 <td></td>
       <td>Obstinate</td><td>Tactical</td><td>Declaring</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td></td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
