@@ -1008,12 +1008,12 @@
 	 <tr>
 	 <td>Benevolent</td>
       <td>Constructivist</td><td>Positivist</td><td>Judicious</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>ESE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
     <td>Imprints</td>
       <td>Constructivist</td><td>Negativist</td><td>Decisive</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>EIE</td><td>SLE</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Templates</td>
@@ -1021,7 +1021,7 @@
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td></td>
+     <td>Ideals</td>
       <td>Emotivist</td><td>Negativist</td><td>Judicious</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
