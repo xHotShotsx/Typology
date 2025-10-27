@@ -890,22 +890,22 @@
       <td><b>EP</b></td><td><b>ENT</b></td><td><b>NTP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Causal Determinist</td>
       <td>Static</td><td>Positivist</td><td>Process</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>LSI</td><td>SEE</td><td>EII</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Holographic Panoramic</td>
       <td>Static</td><td>Negativist</td><td>Result</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Vortical Synergetic</td>
       <td>Dynamic</td><td>Positivist</td><td>Result</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Dialectical Algorithmic</td>
       <td>Dynamic</td><td>Negativist</td><td>Process</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
