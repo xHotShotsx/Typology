@@ -17,4 +17,4 @@
 
 #### $\mathcal{D}$
 - A $\mathcal{D}_i$ is any of the 16 dichotomy systems that respect the symmetry of all orbital dichotomies.
-- Its indexing is based on the order used by Varlawend, i.e. $\mathcal{D}_{14}$ denotes the Reinin space of dichotomies and $\mathcal{D}_{15}$ denotes the Tencer-Minaev space of dichotomies.
+- Its indexing is based on the order used by Varlawend, i.e. $\mathcal{D}_{14}$ denotes the Tencer-Minaev space of dichotomies and $\mathcal{D}_{15}$ denotes the Reinin space of dichotomies.
