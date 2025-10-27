@@ -8,5 +8,5 @@
 
 ### Indexing
 
-- $\mathfrak{d}_0$ and $\mathfrak{d}_1$ are the two poles of a dichotomy $\mathfrak{d}$ and are complements inside a boolean lattice.
+- A dichotomy $\mathfrak{d}$ is ${\mathfrak{d}_{0}$}
 - 
