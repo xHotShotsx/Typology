@@ -839,15 +839,15 @@
     <tr>
     <td>Result Centre</td>
       <td>Yielding</td><td>Decisive</td><td>Result</td>
-      <td>SLE</td><td>IEI</td><td></td><td>IEE</td>
+      <td>SLE</td><td>IEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
 	 <td>Result Periphery</td>
       <td>Obstinate</td><td>Judicious</td><td>Result</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>ESE</td><td>LII</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Result Centre</td>
+     <td>Process Centre</td>
       <td>Obstinate</td><td>Decisive</td><td>Process</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
