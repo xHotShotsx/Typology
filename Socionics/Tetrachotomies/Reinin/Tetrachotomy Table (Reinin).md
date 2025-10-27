@@ -936,7 +936,7 @@
     <tr>
      <td>Exemplification</td>
       <td>Aristocratic</td><td>Strategic</td><td>Constructivist</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>EIE</td><td>SLE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>33</b></td>
@@ -950,17 +950,17 @@
 	 <tr>
 	 <td>Alpha Quadra</td>
       <td>Democratic</td><td>Judicious</td><td>Merry</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>SEI</td><td>ESE</td><td>LII</td>
     </tr>
     <tr>
     <td>Gamma Quadra</td>
       <td>Democratic</td><td>Decisive</td><td>Serious</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>SEE</td><td>ILI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
 	 <td>Delta Quadra</td>
       <td>Aristocratic</td><td>Judicious</td><td>Serious</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>LSE</td><td>EII</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
      <td>Beta Quadra</td>
