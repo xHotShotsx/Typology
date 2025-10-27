@@ -832,22 +832,22 @@
       <td><b>ET</b></td><td><b>ENP</b></td><td><b>NTP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Process Periphery</td>
       <td>Yielding</td><td>Judicious</td><td>Process</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>SEI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Result Centre</td>
       <td>Yielding</td><td>Decisive</td><td>Result</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>SLE</td><td>IEI</td><td></td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Result Periphery</td>
       <td>Obstinate</td><td>Judicious</td><td>Result</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Result Centre</td>
       <td>Obstinate</td><td>Decisive</td><td>Process</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
