@@ -911,7 +911,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>32</b></td>
-      <td rowspan="2"><b>Array G</b></td>
+      <td rowspan="2"><b>Array Groups</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/32.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -919,22 +919,22 @@
       <td><b>NT</b></td><td><b>NP</b></td><td><b>TP</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td>Implication</td>
       <td>Democratic</td><td>Tactical</td><td>Constructivist</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>ESE</td><td>ILI</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Explication</td>
       <td>Democratic</td><td>Strategic</td><td>Emotivist</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Instruction</td>
       <td>Aristocratic</td><td>Tactical</td><td>Emotivist</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Exemplification</td>
       <td>Aristocratic</td><td>Strategic</td><td>Constructivist</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
