@@ -897,21 +897,21 @@
     <tr>
     <td>Holographic Panoramic</td>
       <td>Static</td><td>Negativist</td><td>Result</td>
-      <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
+      <td>LII</td><td>SLE</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Vortical Synergetic</td>
       <td>Dynamic</td><td>Positivist</td><td>Result</td>
-      <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
+      <td>ESE</td><td>IEI</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
      <td>Dialectical Algorithmic</td>
       <td>Dynamic</td><td>Negativist</td><td>Process</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>SEI</td><td>EIE</td><td>ILI</td><td>LSE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>32</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b>Array G</b></td>
       <td colspan="3"><img src="Images/Reinin/Tetrachotomies/32.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
