@@ -21,22 +21,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Asking</td><td>1stAbstract</td><td>Carefree</td>
+      <td>Asking</td><td>1stAbstract</td><td>2ndAlpha</td>
       <td>ILE</td><td>EIE</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
     <td></td>
-      <td>Asking</td><td>1stAbstract</td><td>Farsighted</td>
+      <td>Asking</td><td>1stInvolved</td><td>Farsighted</td>
       <td>ESE</td><td>SLE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Declaring</td><td>Intuitive</td><td>Farsighted</td>
+      <td>Declaring</td><td>1stAbstract</td><td>Farsighted</td>
       <td>LII</td><td>EII</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
-      <td>Declaring</td><td>Sensory</td><td>Carefree</td>
+      <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td>
       <td>SEI</td><td>LSI</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
