@@ -50,7 +50,7 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Extroverted</td><td>1stInternal</td><td>Yielding</td>
+      <td>Extroverted</td><td>1stInternal</td><td>2ndBeta</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@
     </tr>
     <tr>
      <td></td>
-      <td>Introverted</td><td>1stExternal</td><td>Yielding</td>
+      <td>Introverted</td><td>1stExternal</td><td>2ndBeta</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
@@ -166,22 +166,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Extroverted</td><td>Constructivist</td><td>1stDelta</td>
+      <td>Extroverted</td><td>2ndExternal</td><td>1stDelta</td>
       <td>ILE</td><td>ESE</td><td>EIE</td><td>SLE</td>
     </tr>
     <tr>
     <td></td>
-      <td>Extroverted</td><td>Emotivist</td><td>1stBeta</td>
+      <td>Extroverted</td><td>2ndInternal</td><td>1stBeta</td>
       <td>SEE</td><td>LIE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Introverted</td><td>Constructivist</td><td>1stBeta</td>
+      <td>Introverted</td><td>2ndExternal</td><td>1stBeta</td>
       <td>ILI</td><td>ESI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
      <td></td>
-      <td>Introverted</td><td>Emotivist</td><td>1stDelta</td>
+      <td>Introverted</td><td>2ndInternal</td><td>1stDelta</td>
       <td>SEI</td><td>LII</td><td>LSI</td><td>IEI</td>
     </tr>
     <tr>
@@ -282,7 +282,7 @@
       </tr>
 	 <tr>
 	 <td>Anticipatory</td>
-      <td>1stAbstract</td><td>Yielding</td><td>Positivist</td>
+      <td>1stAbstract</td><td>2ndBeta</td><td>Positivist</td>
       <td>ILE</td><td>IEI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
@@ -292,7 +292,7 @@
     </tr>
     <tr>
 	 <td>Preservative</td>
-      <td>1stInvolved</td><td>Yielding</td><td>Negativist</td>
+      <td>1stInvolved</td><td>2ndBeta</td><td>Negativist</td>
       <td>SEI</td><td>SLE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
@@ -340,22 +340,22 @@
       </tr>
 	 <tr>
 	 <td>Ideation Process</td>
-      <td>1stAbstract</td><td>Constructivist</td><td>Process</td>
+      <td>1stAbstract</td><td>2ndExternal</td><td>Process</td>
       <td>ILE</td><td>EIE</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
     <td>General Result</td>
-      <td>1stAbstract</td><td>Emotivist</td><td>Result</td>
+      <td>1stAbstract</td><td>2ndInternal</td><td>Result</td>
       <td>LII</td><td>IEI</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Concrete Result</td>
-      <td>1stInvolved</td><td>Constructivist</td><td>Result</td>
+      <td>1stInvolved</td><td>2ndExternal</td><td>Result</td>
       <td>ESE</td><td>SLE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
      <td>Concrete Process</td>
-      <td>1stInvolved</td><td>Emotivist</td><td>Process</td>
+      <td>1stInvolved</td><td>2ndInternal</td><td>Process</td>
       <td>SEI</td><td>LSI</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
@@ -398,22 +398,22 @@
       </tr>
 	 <tr>
 	 <td>Restructurers (T-creative)</td>
-      <td>1stInternal</td><td>Irrational</td><td>Constructivist</td>
+      <td>1stInternal</td><td>Irrational</td><td>2ndExternal</td>
       <td>ILE</td><td>SLE</td><td>ILI</td><td>SLI</td>
     </tr>
     <tr>
     <td>Constructors (T-base)</td>
-      <td>1stInternal</td><td>Rational</td><td>Emotivist</td>
+      <td>1stInternal</td><td>Rational</td><td>2ndInternal</td>
       <td>LII</td><td>LSI</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
 	 <td>Diplomatic (F-creative)</td>
-      <td>1stExternal</td><td>Irrational</td><td>Emotivist</td>
+      <td>1stExternal</td><td>Irrational</td><td>2ndInternal</td>
       <td>SEI</td><td>IEI</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
      <td>Guardians (F-base)</td>
-      <td>1stExternal</td><td>Rational</td><td>Constructivist</td>
+      <td>1stExternal</td><td>Rational</td><td>2ndExternal</td>
       <td>ESE</td><td>EIE</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
@@ -574,7 +574,7 @@
       </tr>
 	 <tr>
 	 <td>Self-Actualisation</td>
-      <td>Irrational</td><td>Yielding</td><td>1stDelta</td>
+      <td>Irrational</td><td>2ndBeta</td><td>1stDelta</td>
       <td>ILE</td><td>SEI</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
@@ -584,7 +584,7 @@
     </tr>
     <tr>
 	 <td>Social Responsibility</td>
-      <td>Rational</td><td>Yielding</td><td>1stBeta</td>
+      <td>Rational</td><td>2ndBeta</td><td>1stBeta</td>
       <td>LIE</td><td>ESI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
@@ -661,7 +661,7 @@
       </tr>
 	 <tr>
 	 <td>Retention</td>
-      <td>Carefree</td><td>Yielding</td><td>Democratic</td>
+      <td>Carefree</td><td>2ndBeta</td><td>Democratic</td>
       <td>ILE</td><td>SEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
@@ -671,7 +671,7 @@
     </tr>
     <tr>
 	 <td>Attainment</td>
-      <td>Farsighted</td><td>Yielding</td><td>Aristocratic</td>
+      <td>Farsighted</td><td>2ndBeta</td><td>Aristocratic</td>
       <td>SLE</td><td>IEI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
@@ -719,22 +719,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Carefree</td><td>Constructivist</td><td>Asking</td>
+      <td>Carefree</td><td>2ndExternal</td><td>Asking</td>
       <td>ILE</td><td>EIE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
     <td></td>
-      <td>Carefree</td><td>Emotivist</td><td>Declaring</td>
+      <td>Carefree</td><td>2ndInternal</td><td>Declaring</td>
       <td>SEI</td><td>LSI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Farsighted</td><td>Constructivist</td><td>Declaring</td>
+      <td>Farsighted</td><td>2ndExternal</td><td>Declaring</td>
       <td>ESE</td><td>SLE</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
-      <td>Farsighted</td><td>Emotivist</td><td>Asking</td>
+      <td>Farsighted</td><td>2ndInternal</td><td>Asking</td>
       <td>LII</td><td>IEI</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
@@ -777,22 +777,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Yielding</td><td>Static</td><td>Constructivist</td>
+      <td>2ndBeta</td><td>Static</td><td>2ndExternal</td>
       <td>ILE</td><td>SLE</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
     <td></td>
-      <td>Yielding</td><td>Dynamic</td><td>Emotivist</td>
+      <td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td>
       <td>SEI</td><td>IEI</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Obstinate</td><td>Static</td><td>Constructivist</td>
+      <td>Obstinate</td><td>Static</td><td>2ndExternal</td>
       <td>LII</td><td>LSI</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
      <td></td>
-      <td>Obstinate</td><td>Dynamic</td><td>Emotivist</td>
+      <td>Obstinate</td><td>Dynamic</td><td>2ndInternal</td>
       <td>ESE</td><td>EIE</td><td>ILI</td><td>SLI</td>
     </tr>
     <tr>
@@ -806,12 +806,12 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Yielding</td><td>2ndAbstract</td><td>Asking</td>
+      <td>2ndBeta</td><td>2ndAbstract</td><td>Asking</td>
       <td>ILE</td><td>IEI</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
     <td></td>
-      <td>Yielding</td><td>2ndInvolved</td><td>Declaring</td>
+      <td>2ndBeta</td><td>2ndInvolved</td><td>Declaring</td>
       <td>SEI</td><td>SLE</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
@@ -835,12 +835,12 @@
       </tr>
 	 <tr>
 	 <td>Process Periphery</td>
-      <td>Yielding</td><td>1stAlpha</td><td>Process</td>
+      <td>2ndBeta</td><td>1stAlpha</td><td>Process</td>
       <td>ILE</td><td>SEI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
     <td>Result Centre</td>
-      <td>Yielding</td><td>1stGamma</td><td>Result</td>
+      <td>2ndBeta</td><td>1stGamma</td><td>Result</td>
       <td>SLE</td><td>IEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
@@ -922,22 +922,22 @@
       </tr>
 	 <tr>
 	 <td>Implication</td>
-      <td>Democratic</td><td>2ndAbstract</td><td>Constructivist</td>
+      <td>Democratic</td><td>2ndAbstract</td><td>2ndExternal</td>
       <td>ILE</td><td>ESE</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
     <td>Explication</td>
-      <td>Democratic</td><td>2ndInvolved</td><td>Emotivist</td>
+      <td>Democratic</td><td>2ndInvolved</td><td>2ndInternal</td>
       <td>SEI</td><td>LII</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Instruction</td>
-      <td>Aristocratic</td><td>2ndAbstract</td><td>Emotivist</td>
+      <td>Aristocratic</td><td>2ndAbstract</td><td>2ndInternal</td>
       <td>LSI</td><td>IEI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
      <td>Exemplification</td>
-      <td>Aristocratic</td><td>2ndInvolved</td><td>Constructivist</td>
+      <td>Aristocratic</td><td>2ndInvolved</td><td>2ndExternal</td>
       <td>EIE</td><td>SLE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
@@ -1009,22 +1009,22 @@
       </tr>
 	 <tr>
 	 <td>Benevolent</td>
-      <td>Constructivist</td><td>Positivist</td><td>1stAlpha</td>
+      <td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td>
       <td>ILE</td><td>ESE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
     <td>Imprints</td>
-      <td>Constructivist</td><td>Negativist</td><td>1stGamma</td>
+      <td>2ndExternal</td><td>Negativist</td><td>1stGamma</td>
       <td>EIE</td><td>SLE</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
 	 <td>Templates</td>
-      <td>Emotivist</td><td>Positivist</td><td>1stGamma</td>
+      <td>2ndInternal</td><td>Positivist</td><td>1stGamma</td>
       <td>LSI</td><td>IEI</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
      <td>Ideals</td>
-      <td>Emotivist</td><td>Negativist</td><td>1stAlpha</td>
+      <td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td>
       <td>SEI</td><td>LII</td><td>LSE</td><td>IEE</td>
     </tr>
   </tbody>
