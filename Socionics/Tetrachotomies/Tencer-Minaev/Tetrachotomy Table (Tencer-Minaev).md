@@ -50,7 +50,7 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Extroverted</td><td>Logical</td><td>Yielding</td>
+      <td>Extroverted</td><td>1stInternal</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
@@ -60,7 +60,7 @@
     </tr>
     <tr>
 	 <td></td>
-      <td>Introverted</td><td>Logical</td><td>Obstinate</td>
+      <td>Introverted</td><td>1stInternal</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
@@ -224,7 +224,7 @@
       </tr>
 	 <tr>
 	 <td>Researcher</td>
-      <td>1stAbstract</td><td>Logical</td><td>Democratic</td>
+      <td>1stAbstract</td><td>1stInternal</td><td>Democratic</td>
       <td>ILE</td><td>LII</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
@@ -234,7 +234,7 @@
     </tr>
     <tr>
 	 <td>Pragmatist</td>
-      <td>1stInvolved</td><td>Logical</td><td>Aristocratic</td>
+      <td>1stInvolved</td><td>1stInternal</td><td>Aristocratic</td>
       <td>LSI</td><td>SLE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
@@ -398,12 +398,12 @@
       </tr>
 	 <tr>
 	 <td>Restructurers (T-creative)</td>
-      <td>Logical</td><td>Irrational</td><td>Constructivist</td>
+      <td>1stInternal</td><td>Irrational</td><td>Constructivist</td>
       <td>ILE</td><td>SLE</td><td>ILI</td><td>SLI</td>
     </tr>
     <tr>
     <td>Constructors (T-base)</td>
-      <td>Logical</td><td>Rational</td><td>Emotivist</td>
+      <td>1stInternal</td><td>Rational</td><td>Emotivist</td>
       <td>LII</td><td>LSI</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
@@ -427,12 +427,12 @@
       </tr>
 	 <tr>
 	 <td>Acting</td>
-      <td>Logical</td><td>Carefree</td><td>Positivist</td>
+      <td>1stInternal</td><td>Carefree</td><td>Positivist</td>
       <td>ILE</td><td>LSI</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Opposing</td>
-      <td>Logical</td><td>Farsighted</td><td>Negativist</td>
+      <td>1stInternal</td><td>Farsighted</td><td>Negativist</td>
       <td>LII</td><td>SLE</td><td>ILI</td><td>LSE</td>
     </tr>
     <tr>
@@ -458,12 +458,12 @@
       <td>ILE</td><td>EIE</td><td>LIE</td><td>IEE</td>
 	 <tr>
 	 <td></td>
-      <td>Logical</td><td>Static</td><td>Merry</td>
+      <td>1stInternal</td><td>Static</td><td>Merry</td>
       <td>ILE</td><td>LII</td><td>LSI</td><td>SLE</td>
     </tr>
     <tr>
     <td>Passionate (4d-Fe)</td>
-      <td>Logical</td><td>Dynamic</td><td>Serious</td>
+      <td>1stInternal</td><td>Dynamic</td><td>Serious</td>
       <td>ILI</td><td>LIE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
@@ -487,12 +487,12 @@
       </tr>
 	 <tr>
 	 <td>Trans fem to mas</td>
-      <td>Logical</td><td>Tactical</td><td>Process</td>
+      <td>1stInternal</td><td>Tactical</td><td>Process</td>
       <td>ILE</td><td>LSI</td><td>ILI</td><td>LSE</td>
     </tr>
     <tr>
     <td>Most masculine</td>
-      <td>Logical</td><td>Strategic</td><td>Result</td>
+      <td>1stInternal</td><td>Strategic</td><td>Result</td>
       <td>LII</td><td>SLE</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
@@ -516,12 +516,12 @@
       </tr>
 	 <tr>
 	 <td>Creation</td>
-      <td>Logical</td><td>Judicious</td><td>Asking</td>
+      <td>1stInternal</td><td>Judicious</td><td>Asking</td>
       <td>ILE</td><td>LII</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Competition</td>
-      <td>Logical</td><td>Decisive</td><td>Declaring</td>
+      <td>1stInternal</td><td>Decisive</td><td>Declaring</td>
       <td>LSI</td><td>SLE</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
@@ -565,7 +565,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>20</b></td>
-      <td rowspan="2"><b>Rational Dual Axis / Bio-Ideological Balance</b></td>
+      <td rowspan="2"><b>Rational Dual Axis / Bio-Ideo1stInternal Balance</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/20.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
