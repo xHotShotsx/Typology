@@ -32,12 +32,12 @@
     <tr>
 	 <td></td>
       <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td>
-      <td>LII</td><td></td><td>ILI</td><td>EII</td>
+      <td>EIE</td><td>SEE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
      <td></td>
       <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td>
-      <td>SEI</td><td>LSI</td><td>ESI</td><td>SLI</td>
+      <td></td><td>LSI</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>2</b></td>
