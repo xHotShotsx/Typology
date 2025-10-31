@@ -142,17 +142,17 @@
     </tr>
     <tr>
     <td></td>
-      <td>Extroverted</td><td>2ndInvolved</td><td>1stGamma</td>
+      <td>Asking</td><td>2ndInvolved</td><td>1stGamma</td>
       <td>EIE</td><td>SLE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Introverted</td><td>2ndAbstract</td><td>1stGamma</td>
+      <td>Declaring</td><td>2ndAbstract</td><td>1stGamma</td>
       <td>LSI</td><td>IEI</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
      <td></td>
-      <td>Introverted</td><td>2ndInvolved</td><td>1stAlpha</td>
+      <td>Declaring</td><td>2ndInvolved</td><td>1stAlpha</td>
       <td>SEI</td><td>LII</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
@@ -166,22 +166,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Extroverted</td><td>2ndExternal</td><td>1stDelta</td>
+      <td>Asking</td><td>2ndExternal</td><td>1stDelta</td>
       <td>ILE</td><td>ESE</td><td>EIE</td><td>SLE</td>
     </tr>
     <tr>
     <td></td>
-      <td>Extroverted</td><td>2ndInternal</td><td>1stBeta</td>
+      <td>Asking</td><td>2ndInternal</td><td>1stBeta</td>
       <td>SEE</td><td>LIE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Introverted</td><td>2ndExternal</td><td>1stBeta</td>
+      <td>Declaring</td><td>2ndExternal</td><td>1stBeta</td>
       <td>ILI</td><td>ESI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
      <td></td>
-      <td>Introverted</td><td>2ndInternal</td><td>1stDelta</td>
+      <td>Declaring</td><td>2ndInternal</td><td>1stDelta</td>
       <td>SEI</td><td>LII</td><td>LSI</td><td>IEI</td>
     </tr>
     <tr>
@@ -195,22 +195,22 @@
       </tr>
 	 <tr>
 	 <td>Energy Generators</td>
-      <td>Extroverted</td><td>Process</td><td>Extroverted</td>
+      <td>Asking</td><td>Process</td><td>Extroverted</td>
       <td>ILE</td><td>EIE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Energy Carriers</td>
-      <td>Extroverted</td><td>Result</td><td>Introverted</td>
+      <td>Asking</td><td>Result</td><td>Introverted</td>
       <td>ESE</td><td>SLE</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Information Accumulators</td>
-      <td>Introverted</td><td>Process</td><td>Introverted</td>
+      <td>Declaring</td><td>Process</td><td>Introverted</td>
       <td>SEI</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Information Generators</td>
-      <td>Introverted</td><td>Result</td><td>Extroverted</td>
+      <td>Declaring</td><td>Result</td><td>Extroverted</td>
       <td>LII</td><td>IEI</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
