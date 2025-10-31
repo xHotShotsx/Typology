@@ -224,22 +224,22 @@
       </tr>
 	 <tr>
 	 <td>Researcher</td>
-      <td>Intuitive</td><td>Logical</td><td>Democratic</td>
+      <td>1stAbstract</td><td>Logical</td><td>Democratic</td>
       <td>ILE</td><td>LII</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
     <td>Humanitarian</td>
-      <td>Intuitive</td><td>Ethical</td><td>Aristocratic</td>
+      <td>1stAbstract</td><td>Ethical</td><td>Aristocratic</td>
       <td>EIE</td><td>IEI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Pragmatist</td>
-      <td>Sensory</td><td>Logical</td><td>Aristocratic</td>
+      <td>1stInvolved</td><td>Logical</td><td>Aristocratic</td>
       <td>LSI</td><td>SLE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
      <td>Social</td>
-      <td>Sensory</td><td>Ethical</td><td>Democratic</td>
+      <td>1stInvolved</td><td>Ethical</td><td>Democratic</td>
       <td>SEI</td><td>ESE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
@@ -253,22 +253,22 @@
       </tr>
 	 <tr>
 	 <td>Associative (N-base)</td>
-      <td>Intuitive</td><td>Irrational</td><td>Tactical</td>
+      <td>1stAbstract</td><td>Irrational</td><td>Tactical</td>
       <td>ILE</td><td>IEI</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
     <td>Dissociative (N-creative)</td>
-      <td>Intuitive</td><td>Rational</td><td>Strategic</td>
+      <td>1stAbstract</td><td>Rational</td><td>Strategic</td>
       <td>LII</td><td>EIE</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
 	 <td>Commutative (S-base)</td>
-      <td>Sensory</td><td>Irrational</td><td>Strategic</td>
+      <td>1stInvolved</td><td>Irrational</td><td>Strategic</td>
       <td>SEI</td><td>SLE</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
      <td>Distributive (S-creative)</td>
-      <td>Sensory</td><td>Rational</td><td>Tactical</td>
+      <td>1stInvolved</td><td>Rational</td><td>Tactical</td>
       <td>ESE</td><td>LSI</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
@@ -282,22 +282,22 @@
       </tr>
 	 <tr>
 	 <td>Anticipatory</td>
-      <td>Intuitive</td><td>Yielding</td><td>Positivist</td>
+      <td>1stAbstract</td><td>Yielding</td><td>Positivist</td>
       <td>ILE</td><td>IEI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
     <td>Cautionary</td>
-      <td>Intuitive</td><td>Obstinate</td><td>Negativist</td>
+      <td>1stAbstract</td><td>Obstinate</td><td>Negativist</td>
       <td>LII</td><td>EIE</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Preservative</td>
-      <td>Sensory</td><td>Yielding</td><td>Negativist</td>
+      <td>1stInvolved</td><td>Yielding</td><td>Negativist</td>
       <td>SEI</td><td>SLE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
      <td>Acquisitive</td>
-      <td>Sensory</td><td>Obstinate</td><td>Positivist</td>
+      <td>1stInvolved</td><td>Obstinate</td><td>Positivist</td>
       <td>ESE</td><td>LSI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
@@ -311,22 +311,22 @@
       </tr>
 	 <tr>
 	 <td>Childlike (Ne)</td>
-      <td>Intuitive</td><td>Static</td><td>Judicious</td>
+      <td>1stAbstract</td><td>Static</td><td>Judicious</td>
       <td>ILE</td><td>LII</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
     <td>Victim (Ni)</td>
-      <td>Intuitive</td><td>Dynamic</td><td>Decisive</td>
+      <td>1stAbstract</td><td>Dynamic</td><td>Decisive</td>
       <td>EIE</td><td>IEI</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Aggressor (Se)</td>
-      <td>Sensory</td><td>Static</td><td>Decisive</td>
+      <td>1stInvolved</td><td>Static</td><td>Decisive</td>
       <td>LSI</td><td>SLE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
      <td>Caring (Si)</td>
-      <td>Sensory</td><td>Dynamic</td><td>Judicious</td>
+      <td>1stInvolved</td><td>Dynamic</td><td>Judicious</td>
       <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
@@ -340,22 +340,22 @@
       </tr>
 	 <tr>
 	 <td>Ideation Process</td>
-      <td>Intuitive</td><td>Constructivist</td><td>Process</td>
+      <td>1stAbstract</td><td>Constructivist</td><td>Process</td>
       <td>ILE</td><td>EIE</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
     <td>General Result</td>
-      <td>Intuitive</td><td>Emotivist</td><td>Result</td>
+      <td>1stAbstract</td><td>Emotivist</td><td>Result</td>
       <td>LII</td><td>IEI</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Concrete Result</td>
-      <td>Sensory</td><td>Constructivist</td><td>Result</td>
+      <td>1stInvolved</td><td>Constructivist</td><td>Result</td>
       <td>ESE</td><td>SLE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
      <td>Concrete Process</td>
-      <td>Sensory</td><td>Emotivist</td><td>Process</td>
+      <td>1stInvolved</td><td>Emotivist</td><td>Process</td>
       <td>SEI</td><td>LSI</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
@@ -369,22 +369,22 @@
       </tr>
 	 <tr>
 	 <td>Inventor</td>
-      <td>Intuitive</td><td>Merry</td><td>Asking</td>
+      <td>1stAbstract</td><td>Merry</td><td>Asking</td>
       <td>ILE</td><td>LII</td><td>EIE</td><td>IEI</td>
     </tr>
     <tr>
     <td>Negotiator</td>
-      <td>Intuitive</td><td>Serious</td><td>Declaring</td>
+      <td>1stAbstract</td><td>Serious</td><td>Declaring</td>
       <td>ILI</td><td>LIE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Gatherer</td>
-      <td>Sensory</td><td>Merry</td><td>Declaring</td>
+      <td>1stInvolved</td><td>Merry</td><td>Declaring</td>
       <td>SEI</td><td>ESE</td><td>LSI</td><td>SLE</td>
     </tr>
     <tr>
      <td>Processor</td>
-      <td>Sensory</td><td>Serious</td><td>Asking</td>
+      <td>1stInvolved</td><td>Serious</td><td>Asking</td>
       <td>SEE</td><td>ESI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
@@ -454,7 +454,7 @@
       <tr>
       <td><b>I</b></td><td><b>QD</b></td><td><b>QID</b></td>
       </tr>	 ​￼<td>Uniqueness (4d-Ne)</td>
-      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td>
+      <td>Extroverted</td><td>1stAbstract</td><td>Carefree</td>
       <td>ILE</td><td>EIE</td><td>LIE</td><td>IEE</td>
 	 <tr>
 	 <td></td>
