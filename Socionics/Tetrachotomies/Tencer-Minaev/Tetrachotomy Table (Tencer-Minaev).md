@@ -55,7 +55,7 @@
     </tr>
     <tr>
     <td></td>
-      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td>
+      <td>Extroverted</td><td>1stExternal</td><td>Obstinate</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@
     </tr>
     <tr>
      <td></td>
-      <td>Introverted</td><td>Ethical</td><td>Yielding</td>
+      <td>Introverted</td><td>1stExternal</td><td>Yielding</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
@@ -229,7 +229,7 @@
     </tr>
     <tr>
     <td>Humanitarian</td>
-      <td>1stAbstract</td><td>Ethical</td><td>Aristocratic</td>
+      <td>1stAbstract</td><td>1stExternal</td><td>Aristocratic</td>
       <td>EIE</td><td>IEI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
@@ -239,7 +239,7 @@
     </tr>
     <tr>
      <td>Social</td>
-      <td>1stInvolved</td><td>Ethical</td><td>Democratic</td>
+      <td>1stInvolved</td><td>1stExternal</td><td>Democratic</td>
       <td>SEI</td><td>ESE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
@@ -408,12 +408,12 @@
     </tr>
     <tr>
 	 <td>Diplomatic (F-creative)</td>
-      <td>Ethical</td><td>Irrational</td><td>Emotivist</td>
+      <td>1stExternal</td><td>Irrational</td><td>Emotivist</td>
       <td>SEI</td><td>IEI</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
      <td>Guardians (F-base)</td>
-      <td>Ethical</td><td>Rational</td><td>Constructivist</td>
+      <td>1stExternal</td><td>Rational</td><td>Constructivist</td>
       <td>ESE</td><td>EIE</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
@@ -437,12 +437,12 @@
     </tr>
     <tr>
 	 <td>Repelling from Others</td>
-      <td>Ethical</td><td>Carefree</td><td>Negativist</td>
+      <td>1stExternal</td><td>Carefree</td><td>Negativist</td>
       <td>SEE</td><td>EIE</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
      <td>Endearing</td>
-      <td>Ethical</td><td>Farsighted</td><td>Positivist</td>
+      <td>1stExternal</td><td>Farsighted</td><td>Positivist</td>
       <td>ESE</td><td>IEI</td><td>SEE</td><td>EII</td>
     </tr>
     <tr>
@@ -468,12 +468,12 @@
     </tr>
     <tr>
 	 <td>Cold-blooded (4d-Ti)</td>
-      <td>Ethical</td><td>Static</td><td>Serious</td>
+      <td>1stExternal</td><td>Static</td><td>Serious</td>
       <td>SEE</td><td>ESI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
-      <td>Ethical</td><td>Dynamic</td><td>Merry</td>
+      <td>1stExternal</td><td>Dynamic</td><td>Merry</td>
       <td>SEI</td><td>ESE</td><td>EIE</td><td>IEI</td>
     </tr>
     <tr>
@@ -497,12 +497,12 @@
     </tr>
     <tr>
 	 <td>Trans mas to fem</td>
-      <td>Ethical</td><td>Tactical</td><td>Result</td>
+      <td>1stExternal</td><td>Tactical</td><td>Result</td>
       <td>ESE</td><td>IEI</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
      <td>Most feminine</td>
-      <td>Ethical</td><td>Strategic</td><td>Process</td>
+      <td>1stExternal</td><td>Strategic</td><td>Process</td>
       <td>SEI</td><td>EIE</td><td>SEE</td><td>EII</td>
     </tr>
     <tr>
@@ -526,12 +526,12 @@
     </tr>
     <tr>
 	 <td>Support</td>
-      <td>Ethical</td><td>Judicious</td><td>Declaring</td>
+      <td>1stExternal</td><td>Judicious</td><td>Declaring</td>
       <td>SEI</td><td>ESE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
      <td>Intrigue</td>
-      <td>Ethical</td><td>Decisive</td><td>Asking</td>
+      <td>1stExternal</td><td>Decisive</td><td>Asking</td>
       <td>EIE</td><td>IEI</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
