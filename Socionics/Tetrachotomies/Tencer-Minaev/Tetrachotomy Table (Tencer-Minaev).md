@@ -112,23 +112,23 @@
       <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-    <td>Shaping</td>
+    <td></td>
       <td>Extroverted</td><td>Aristocratic</td><td>Negativist</td>
       <td>EIE</td><td>SLE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Abstaining</td>
+	 <td></td>
       <td>Introverted</td><td>Democratic</td><td>Negativist</td>
       <td>SEI</td><td>LII</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-     <td>Integrating</td>
+     <td></td>
       <td>Introverted</td><td>Aristocratic</td><td>Positivist</td>
       <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>5</b></td>
-      <td rowspan="2"><b>Social Interaction</b></td>
+      <td rowspan="2"><b></b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/5.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -136,28 +136,28 @@
       <td><b>Q</b></td><td><b>AD</b></td><td><b>QAD</b></td>
       </tr>
 	 <tr>
-	 <td>Open</td>
+	 <td></td>
       <td>Extroverted</td><td>Tactical</td><td>Judicious</td>
       <td>ILE</td><td>ESE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-    <td>Conflict</td>
+    <td></td>
       <td>Extroverted</td><td>Strategic</td><td>Decisive</td>
       <td>EIE</td><td>SLE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-	 <td>Secretive</td>
+	 <td></td>
       <td>Introverted</td><td>Tactical</td><td>Decisive</td>
       <td>LSI</td><td>IEI</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-     <td>Peaceful</td>
+     <td></td>
       <td>Introverted</td><td>Strategic</td><td>Judicious</td>
       <td>SEI</td><td>LII</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>6</b></td>
-      <td rowspan="2"><b>Action Influence Balance</b></td>
+      <td rowspan="2"><b></b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/6.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -165,28 +165,28 @@
       <td><b>Q</b></td><td><b>ID</b></td><td><b>QID</b></td>
       </tr>
 	 <tr>
-	 <td>Engaging</td>
+	 <td></td>
       <td>Extroverted</td><td>Constructivist</td><td>Merry</td>
       <td>ILE</td><td>ESE</td><td>EIE</td><td>SLE</td>
     </tr>
     <tr>
-    <td>Contacting</td>
+    <td></td>
       <td>Extroverted</td><td>Emotivist</td><td>Serious</td>
       <td>SEE</td><td>LIE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Confidential</td>
+	 <td></td>
       <td>Introverted</td><td>Constructivist</td><td>Serious</td>
       <td>ILI</td><td>ESI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
-     <td>Rigid</td>
+     <td></td>
       <td>Introverted</td><td>Emotivist</td><td>Merry</td>
       <td>SEI</td><td>LII</td><td>LSI</td><td>IEI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>7</b></td>
-      <td rowspan="2"><b>Rings of Benefit / Quadra Role</b></td>
+      <td rowspan="2"><b></b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/7.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -194,7 +194,7 @@
 	  <td><b>Q</b></td><td><b>AID</b></td><td><b>QAID</b></td>
       </tr>
 	 <tr>
-	 <td>Energy Generators</td>
+	 <td></td>
       <td>Extroverted</td><td>Process</td><td>Asking</td>
       <td>ILE</td><td>EIE</td><td>SEE</td><td>LSE</td>
     </tr>
