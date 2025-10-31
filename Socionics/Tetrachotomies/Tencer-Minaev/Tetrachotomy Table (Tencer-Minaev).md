@@ -186,7 +186,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>7</b></td>
-      <td rowspan="2"><b></b></td>
+      <td rowspan="2"><b>Rings of Benefit / Quadra Role</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/7.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -194,7 +194,7 @@
 	  <td><b>Q</b></td><td><b>AID</b></td><td><b>QAID</b></td>
       </tr>
 	 <tr>
-	 <td></td>
+	 <td>Energy Generators</td>
       <td>Extroverted</td><td>Process</td><td>Asking</td>
       <td>ILE</td><td>EIE</td><td>SEE</td><td>LSE</td>
     </tr>
