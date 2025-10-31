@@ -22,17 +22,17 @@
 	 <tr>
 	 <td></td>
       <td>Asking</td><td>1stAbstract</td><td>2ndAlpha</td>
-      <td>ILE</td><td>EIE</td><td>LIE</td><td>IEE</td>
+      <td>ILE</td><td>LII</td><td>IEI</td><td>LSE</td>
     </tr>
     <tr>
     <td></td>
-      <td>Asking</td><td>1stInvolved</td><td>Farsighted</td>
-      <td>ESE</td><td>SLE</td><td>SEE</td><td>LSE</td>
+      <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td>
+      <td>IEI</td><td>ILI</td><td>LSI</td><td>IEE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Declaring</td><td>1stAbstract</td><td>Farsighted</td>
-      <td>LII</td><td>EII</td><td>ILI</td><td>EII</td>
+      <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td>
+      <td>LII</td><td></td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
