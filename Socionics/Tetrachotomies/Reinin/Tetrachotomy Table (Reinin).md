@@ -17,7 +17,7 @@
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
-      <td><b><div>E</div></b></td><td><b>N</b></td><td><b>EN</b></td>
+      <td><b>E</b></td><td><b>N</b></td><td><b>EN</b></td>
       </tr>
 	 <tr>
 	 <td>Uniqueness (4d-Ne)</td>
@@ -32,7 +32,7 @@
     <tr>
 	 <td>Self-Confidence (4d-Ni)</td>
       <td>Introverted</td><td>Intuitive</td><td>Farsighted</td>
-      <td>LII</td><td>EII</td><td>ILI</td><td>ELI</td>
+      <td>LII</td><td>EII</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Well-Being (4d-Si)</td>
