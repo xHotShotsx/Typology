@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>2</b></td>
-      <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
+      <td rowspan="2"><b></b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/2.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -49,22 +49,22 @@
       <td><b>Q</b></td><td><b>I</b></td><td><b>QI</b></td>
       </tr>
 	 <tr>
-	 <td>Business-like (4d-Te)</td>
+	 <td></td>
       <td>Extroverted</td><td>Logical</td><td>Yielding</td>
       <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td></td>
       <td>Extroverted</td><td>Ethical</td><td>Obstinate</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td></td>
       <td>Introverted</td><td>Logical</td><td>Obstinate</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td></td>
       <td>Introverted</td><td>Ethical</td><td>Yielding</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
@@ -78,28 +78,28 @@
       <td><b>Q</b></td><td><b>D</b></td><td><b>QD</b></td>
       </tr>
 	 <tr>
-	 <td>Reorienters</td>
+	 <td></td>
       <td>Asking</td><td>Democratic</td><td>Static</td>
       <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
-    <td>Slackeners</td>
+    <td></td>
       <td>Askng</td><td>Aristocratic</td><td>Dynamic</td>
       <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Sharpeners</td>
+	 <td></td>
       <td>Declaring</td><td>Democratic</td><td>Dynamic</td>
       <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
-     <td>Foundationalists</td>
+     <td></td>
       <td>Declaring</td><td>Aristocratic</td><td>Static</td>
       <td>LSI</td><td>SLE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>4</b></td>
-      <td rowspan="2"><b>Positivity Groups / Will Form</b></td>
+      <td rowspan="2"><b></b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/4.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -107,7 +107,7 @@
       <td><b>Q</b></td><td><b>AI</b></td><td><b>QAI</b></td>
       </tr>
 	 <tr>
-	 <td>Approaching</td>
+	 <td></td>
       <td>Extroverted</td><td>Democratic</td><td>Positivist</td>
       <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
     </tr>
