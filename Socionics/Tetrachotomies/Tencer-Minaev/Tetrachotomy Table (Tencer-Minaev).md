@@ -223,7 +223,7 @@
       <td><b>A</b></td><td><b>I</b></td><td><b>AI</b></td>
       </tr>
 	 <tr>
-	 <td>Researcher</td>
+	 <td>N-base "</td>
       <td>1stAbstract</td><td>1stInternal</td><td>Democratic</td>
       <td>ILE</td><td>LII</td><td>ILI</td><td>LIE</td>
     </tr>
