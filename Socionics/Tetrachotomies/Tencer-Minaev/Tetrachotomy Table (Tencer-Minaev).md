@@ -211,7 +211,7 @@
     <tr>
      <td>Energy Carriers</td>
       <td>Declaring</td><td>Result</td><td>Extroverted</td>
-      <td>LII</td><td>IEI</td><td>ESI</td><td>SLI</td>
+      <td>ESE</td><td>SLE</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>8</b></td>
