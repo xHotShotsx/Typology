@@ -137,22 +137,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Extroverted</td><td>Tactical</td><td>1stAlpha</td>
+      <td>Extroverted</td><td>2ndAbstract</td><td>1stAlpha</td>
       <td>ILE</td><td>ESE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
     <td></td>
-      <td>Extroverted</td><td>Strategic</td><td>1stGamma</td>
+      <td>Extroverted</td><td>2ndInvolved</td><td>1stGamma</td>
       <td>EIE</td><td>SLE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Introverted</td><td>Tactical</td><td>1stGamma</td>
+      <td>Introverted</td><td>2ndAbstract</td><td>1stGamma</td>
       <td>LSI</td><td>IEI</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
      <td></td>
-      <td>Introverted</td><td>Strategic</td><td>1stAlpha</td>
+      <td>Introverted</td><td>2ndInvolved</td><td>1stAlpha</td>
       <td>SEI</td><td>LII</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
@@ -253,22 +253,22 @@
       </tr>
 	 <tr>
 	 <td>Associative (N-base)</td>
-      <td>1stAbstract</td><td>Irrational</td><td>Tactical</td>
+      <td>1stAbstract</td><td>Irrational</td><td>2ndAbstract</td>
       <td>ILE</td><td>IEI</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
     <td>Dissociative (N-creative)</td>
-      <td>1stAbstract</td><td>Rational</td><td>Strategic</td>
+      <td>1stAbstract</td><td>Rational</td><td>2ndInvolved</td>
       <td>LII</td><td>EIE</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
 	 <td>Commutative (S-base)</td>
-      <td>1stInvolved</td><td>Irrational</td><td>Strategic</td>
+      <td>1stInvolved</td><td>Irrational</td><td>2ndInvolved</td>
       <td>SEI</td><td>SLE</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
      <td>Distributive (S-creative)</td>
-      <td>1stInvolved</td><td>Rational</td><td>Tactical</td>
+      <td>1stInvolved</td><td>Rational</td><td>2ndAbstract</td>
       <td>ESE</td><td>LSI</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
@@ -487,22 +487,22 @@
       </tr>
 	 <tr>
 	 <td>Trans fem to mas</td>
-      <td>1stInternal</td><td>Tactical</td><td>Process</td>
+      <td>1stInternal</td><td>2ndAbstract</td><td>Process</td>
       <td>ILE</td><td>LSI</td><td>ILI</td><td>LSE</td>
     </tr>
     <tr>
     <td>Most masculine</td>
-      <td>1stInternal</td><td>Strategic</td><td>Result</td>
+      <td>1stInternal</td><td>2ndInvolved</td><td>Result</td>
       <td>LII</td><td>SLE</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Trans mas to fem</td>
-      <td>1stExternal</td><td>Tactical</td><td>Result</td>
+      <td>1stExternal</td><td>2ndAbstract</td><td>Result</td>
       <td>ESE</td><td>IEI</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
      <td>Most feminine</td>
-      <td>1stExternal</td><td>Strategic</td><td>Process</td>
+      <td>1stExternal</td><td>2ndInvolved</td><td>Process</td>
       <td>SEI</td><td>EIE</td><td>SEE</td><td>EII</td>
     </tr>
     <tr>
@@ -690,22 +690,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Carefree</td><td>Static</td><td>Tactical</td>
+      <td>Carefree</td><td>Static</td><td>2ndAbstract</td>
       <td>ILE</td><td>LSI</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
     <td></td>
-      <td>Carefree</td><td>Dynamic</td><td>Strategic</td>
+      <td>Carefree</td><td>Dynamic</td><td>2ndInvolved</td>
       <td>SEI</td><td>EIE</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Farsighted</td><td>Static</td><td>Strategic</td>
+      <td>Farsighted</td><td>Static</td><td>2ndInvolved</td>
       <td>LII</td><td>SLE</td><td>SEE</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
-      <td>Farsighted</td><td>Dynamic</td><td>Tactical</td>
+      <td>Farsighted</td><td>Dynamic</td><td>2ndAbstract</td>
       <td>ESE</td><td>IEI</td><td>ILI</td><td>LSE</td>
     </tr>
     <tr>
@@ -806,22 +806,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Yielding</td><td>Tactical</td><td>Asking</td>
+      <td>Yielding</td><td>2ndAbstract</td><td>Asking</td>
       <td>ILE</td><td>IEI</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
     <td></td>
-      <td>Yielding</td><td>Strategic</td><td>Declaring</td>
+      <td>Yielding</td><td>2ndInvolved</td><td>Declaring</td>
       <td>SEI</td><td>SLE</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Obstinate</td><td>Tactical</td><td>Declaring</td>
+      <td>Obstinate</td><td>2ndAbstract</td><td>Declaring</td>
       <td>ESE</td><td>LSI</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
      <td></td>
-      <td>Obstinate</td><td>Strategic</td><td>Asking</td>
+      <td>Obstinate</td><td>2ndInvolved</td><td>Asking</td>
       <td>LII</td><td>EIE</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
@@ -922,22 +922,22 @@
       </tr>
 	 <tr>
 	 <td>Implication</td>
-      <td>Democratic</td><td>Tactical</td><td>Constructivist</td>
+      <td>Democratic</td><td>2ndAbstract</td><td>Constructivist</td>
       <td>ILE</td><td>ESE</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
     <td>Explication</td>
-      <td>Democratic</td><td>Strategic</td><td>Emotivist</td>
+      <td>Democratic</td><td>2ndInvolved</td><td>Emotivist</td>
       <td>SEI</td><td>LII</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Instruction</td>
-      <td>Aristocratic</td><td>Tactical</td><td>Emotivist</td>
+      <td>Aristocratic</td><td>2ndAbstract</td><td>Emotivist</td>
       <td>LSI</td><td>IEI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
      <td>Exemplification</td>
-      <td>Aristocratic</td><td>Strategic</td><td>Constructivist</td>
+      <td>Aristocratic</td><td>2ndInvolved</td><td>Constructivist</td>
       <td>EIE</td><td>SLE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
@@ -980,22 +980,22 @@
       </tr>
 	 <tr>
 	 <td>Decorations</td>
-      <td>Tactical</td><td>Positivist</td><td>1stDelta</td>
+      <td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td>
       <td>ILE</td><td>ESE</td><td>LSI</td><td>IEI</td>
     </tr>
     <tr>
     <td>Imprints</td>
-      <td>Tactical</td><td>Negativist</td><td>1stBeta</td>
+      <td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td>
       <td>ILI</td><td>ESI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Templates</td>
-      <td>Strategic</td><td>Positivist</td><td>1stBeta</td>
+      <td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td>
       <td>SEE</td><td>LIE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
      <td>Ideals</td>
-      <td>Strategic</td><td>Negativist</td><td>1stDelta</td>
+      <td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td>
       <td>SEI</td><td>LII</td><td>EIE</td><td>SLE</td>
     </tr>
     <tr>
