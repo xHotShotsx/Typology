@@ -37,7 +37,7 @@
     <tr>
      <td></td>
       <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td>
-      <td></td><td>LSI</td><td>ESI</td><td>SLI</td>
+      <td>SEI</td><td>ESE</td><td>SLE</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>2</b></td>
