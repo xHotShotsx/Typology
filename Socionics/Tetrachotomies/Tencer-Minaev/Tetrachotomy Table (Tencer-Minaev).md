@@ -565,7 +565,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>20</b></td>
-      <td rowspan="2"><b>Rational Dual Axis / Bio-Ideo1stInternal Balance</b></td>
+      <td rowspan="2"><b>Rational Dual Axis / Bio-Ideological Balance</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/20.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
