@@ -65,7 +65,7 @@
     </tr>
     <tr>
      <td></td>
-      <td>Introverted</td><td>1stExternal</td><td>2ndBeta</td>
+      <td>Declaring</td><td>1stExternal</td><td>2ndBeta</td>
       <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
@@ -79,22 +79,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Extroverted</td><td>Democratic</td><td>Static</td>
+      <td>Asking</td><td>Democratic</td><td>Static</td>
       <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
     <td></td>
-      <td>Askng</td><td>Aristocratic</td><td>Dynamic</td>
+      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td>
       <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Introverted</td><td>Democratic</td><td>Dynamic</td>
+      <td>Declaring</td><td>Democratic</td><td>Dynamic</td>
       <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
      <td></td>
-      <td>Introverted</td><td>Aristocratic</td><td>Static</td>
+      <td>Declaring</td><td>Aristocratic</td><td>Static</td>
       <td>LSI</td><td>SLE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
@@ -108,22 +108,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Extroverted</td><td>Democratic</td><td>Positivist</td>
+      <td>Asking</td><td>Democratic</td><td>Positivist</td>
       <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
     <td></td>
-      <td>Extroverted</td><td>Aristocratic</td><td>Negativist</td>
+      <td>Asking</td><td>Aristocratic</td><td>Negativist</td>
       <td>EIE</td><td>SLE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Introverted</td><td>Democratic</td><td>Negativist</td>
+      <td>Declaring</td><td>Democratic</td><td>Negativist</td>
       <td>SEI</td><td>LII</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
      <td></td>
-      <td>Introverted</td><td>Aristocratic</td><td>Positivist</td>
+      <td>Declaring</td><td>Aristocratic</td><td>Positivist</td>
       <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
@@ -137,7 +137,7 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Extroverted</td><td>2ndAbstract</td><td>1stAlpha</td>
+      <td>Asking</td><td>2ndAbstract</td><td>1stAlpha</td>
       <td>ILE</td><td>ESE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
