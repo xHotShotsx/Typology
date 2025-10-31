@@ -55,12 +55,12 @@
     </tr>
     <tr>
     <td></td>
-      <td>Extroverted</td><td>1stExternal</td><td>Obstinate</td>
+      <td>Extroverted</td><td>1stExternal</td><td>2ndDelta</td>
       <td>ESE</td><td>EIE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Introverted</td><td>1stInternal</td><td>Obstinate</td>
+      <td>Introverted</td><td>1stInternal</td><td>2ndDelta</td>
       <td>LII</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
@@ -287,7 +287,7 @@
     </tr>
     <tr>
     <td>Cautionary</td>
-      <td>1stAbstract</td><td>Obstinate</td><td>Negativist</td>
+      <td>1stAbstract</td><td>2ndDelta</td><td>Negativist</td>
       <td>LII</td><td>EIE</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
@@ -297,7 +297,7 @@
     </tr>
     <tr>
      <td>Acquisitive</td>
-      <td>1stInvolved</td><td>Obstinate</td><td>Positivist</td>
+      <td>1stInvolved</td><td>2ndDelta</td><td>Positivist</td>
       <td>ESE</td><td>LSI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
@@ -427,22 +427,22 @@
       </tr>
 	 <tr>
 	 <td>Acting</td>
-      <td>1stInternal</td><td>Carefree</td><td>Positivist</td>
+      <td>1stInternal</td><td>2ndAlpha</td><td>Positivist</td>
       <td>ILE</td><td>LSI</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Opposing</td>
-      <td>1stInternal</td><td>Farsighted</td><td>Negativist</td>
+      <td>1stInternal</td><td>2ndGamma</td><td>Negativist</td>
       <td>LII</td><td>SLE</td><td>ILI</td><td>LSE</td>
     </tr>
     <tr>
 	 <td>Repelling from Others</td>
-      <td>1stExternal</td><td>Carefree</td><td>Negativist</td>
+      <td>1stExternal</td><td>2ndAlpha</td><td>Negativist</td>
       <td>SEE</td><td>EIE</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
      <td>Endearing</td>
-      <td>1stExternal</td><td>Farsighted</td><td>Positivist</td>
+      <td>1stExternal</td><td>2ndGamma</td><td>Positivist</td>
       <td>ESE</td><td>IEI</td><td>SEE</td><td>EII</td>
     </tr>
     <tr>
@@ -454,7 +454,7 @@
       <tr>
       <td><b>I</b></td><td><b>QD</b></td><td><b>QID</b></td>
       </tr>	 ​￼<td>Uniqueness (4d-Ne)</td>
-      <td>Extroverted</td><td>1stAbstract</td><td>Carefree</td>
+      <td>Extroverted</td><td>1stAbstract</td><td>2ndAlpha</td>
       <td>ILE</td><td>EIE</td><td>LIE</td><td>IEE</td>
 	 <tr>
 	 <td></td>
@@ -545,22 +545,22 @@
       </tr>
 	 <tr>
 	 <td>Random</td>
-      <td>Irrational</td><td>Carefree</td><td>1stAlpha</td>
+      <td>Irrational</td><td>2ndAlpha</td><td>1stAlpha</td>
       <td>ILE</td><td>SEI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Unpredictable</td>
-      <td>Irrational</td><td>Farsighted</td><td>1stGamma</td>
+      <td>Irrational</td><td>2ndGamma</td><td>1stGamma</td>
       <td>SLE</td><td>IEI</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
 	 <td>Controlling</td>
-      <td>Rational</td><td>Carefree</td><td>1stGamma</td>
+      <td>Rational</td><td>2ndAlpha</td><td>1stGamma</td>
       <td>EIE</td><td>LSI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
      <td>Conscientious</td>
-      <td>Rational</td><td>Farsighted</td><td>1stAlpha</td>
+      <td>Rational</td><td>2ndGamma</td><td>1stAlpha</td>
       <td>ESE</td><td>LII</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
@@ -579,7 +579,7 @@
     </tr>
     <tr>
     <td>Social Success</td>
-      <td>Irrational</td><td>Obstinate</td><td>1stBeta</td>
+      <td>Irrational</td><td>2ndDelta</td><td>1stBeta</td>
       <td>SEE</td><td>ILI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
@@ -589,7 +589,7 @@
     </tr>
     <tr>
      <td>Spreading Principles</td>
-      <td>Rational</td><td>Obstinate</td><td>1stDelta</td>
+      <td>Rational</td><td>2ndDelta</td><td>1stDelta</td>
       <td>ESE</td><td>LII</td><td>EIE</td><td>LSI</td>
     </tr>
     <tr>
@@ -661,22 +661,22 @@
       </tr>
 	 <tr>
 	 <td>Retention</td>
-      <td>Carefree</td><td>2ndBeta</td><td>Democratic</td>
+      <td>2ndAlpha</td><td>2ndBeta</td><td>Democratic</td>
       <td>ILE</td><td>SEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
     <td>Comportment</td>
-      <td>Carefree</td><td>Obstinate</td><td>Aristocratic</td>
+      <td>2ndAlpha</td><td>2ndDelta</td><td>Aristocratic</td>
       <td>EIE</td><td>LSI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Attainment</td>
-      <td>Farsighted</td><td>2ndBeta</td><td>Aristocratic</td>
+      <td>2ndGamma</td><td>2ndBeta</td><td>Aristocratic</td>
       <td>SLE</td><td>IEI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
      <td>Lucidity</td>
-      <td>Farsighted</td><td>Obstinate</td><td>Democratic</td>
+      <td>2ndGamma</td><td>2ndDelta</td><td>Democratic</td>
       <td>ESE</td><td>LII</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
@@ -690,22 +690,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Carefree</td><td>Static</td><td>2ndAbstract</td>
+      <td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td>
       <td>ILE</td><td>LSI</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
     <td></td>
-      <td>Carefree</td><td>Dynamic</td><td>2ndInvolved</td>
+      <td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td>
       <td>SEI</td><td>EIE</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Farsighted</td><td>Static</td><td>2ndInvolved</td>
+      <td>2ndGamma</td><td>Static</td><td>2ndInvolved</td>
       <td>LII</td><td>SLE</td><td>SEE</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
-      <td>Farsighted</td><td>Dynamic</td><td>2ndAbstract</td>
+      <td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td>
       <td>ESE</td><td>IEI</td><td>ILI</td><td>LSE</td>
     </tr>
     <tr>
@@ -719,22 +719,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Carefree</td><td>2ndExternal</td><td>Asking</td>
+      <td>2ndAlpha</td><td>2ndExternal</td><td>Asking</td>
       <td>ILE</td><td>EIE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
     <td></td>
-      <td>Carefree</td><td>2ndInternal</td><td>Declaring</td>
+      <td>2ndAlpha</td><td>2ndInternal</td><td>Declaring</td>
       <td>SEI</td><td>LSI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Farsighted</td><td>2ndExternal</td><td>Declaring</td>
+      <td>2ndGamma</td><td>2ndExternal</td><td>Declaring</td>
       <td>ESE</td><td>SLE</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
-      <td>Farsighted</td><td>2ndInternal</td><td>Asking</td>
+      <td>2ndGamma</td><td>2ndInternal</td><td>Asking</td>
       <td>LII</td><td>IEI</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
@@ -748,22 +748,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Carefree</td><td>1stDelta</td><td>Process</td>
+      <td>2ndAlpha</td><td>1stDelta</td><td>Process</td>
       <td>ILE</td><td>SEI</td><td>EIE</td><td>LSI</td>
     </tr>
     <tr>
     <td></td>
-      <td>Carefree</td><td>1stBeta</td><td>Result</td>
+      <td>2ndAlpha</td><td>1stBeta</td><td>Result</td>
       <td>LIE</td><td>ESI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Farsighted</td><td>1stDelta</td><td>Result</td>
+      <td>2ndGamma</td><td>1stDelta</td><td>Result</td>
       <td>ESE</td><td>LII</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
      <td></td>
-      <td>Farsighted</td><td>1stBeta</td><td>Process</td>
+      <td>2ndGamma</td><td>1stBeta</td><td>Process</td>
       <td>SEE</td><td>ILI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
@@ -787,12 +787,12 @@
     </tr>
     <tr>
 	 <td></td>
-      <td>Obstinate</td><td>Static</td><td>2ndExternal</td>
+      <td>2ndDelta</td><td>Static</td><td>2ndExternal</td>
       <td>LII</td><td>LSI</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
      <td></td>
-      <td>Obstinate</td><td>Dynamic</td><td>2ndInternal</td>
+      <td>2ndDelta</td><td>Dynamic</td><td>2ndInternal</td>
       <td>ESE</td><td>EIE</td><td>ILI</td><td>SLI</td>
     </tr>
     <tr>
@@ -816,12 +816,12 @@
     </tr>
     <tr>
 	 <td></td>
-      <td>Obstinate</td><td>2ndAbstract</td><td>Declaring</td>
+      <td>2ndDelta</td><td>2ndAbstract</td><td>Declaring</td>
       <td>ESE</td><td>LSI</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
      <td></td>
-      <td>Obstinate</td><td>2ndInvolved</td><td>Asking</td>
+      <td>2ndDelta</td><td>2ndInvolved</td><td>Asking</td>
       <td>LII</td><td>EIE</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
@@ -845,12 +845,12 @@
     </tr>
     <tr>
 	 <td>Result Periphery</td>
-      <td>Obstinate</td><td>1stAlpha</td><td>Result</td>
+      <td>2ndDelta</td><td>1stAlpha</td><td>Result</td>
       <td>ESE</td><td>LII</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
      <td>Process Centre</td>
-      <td>Obstinate</td><td>1stGamma</td><td>Process</td>
+      <td>2ndDelta</td><td>1stGamma</td><td>Process</td>
       <td>EIE</td><td>LSI</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
