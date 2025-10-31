@@ -209,7 +209,7 @@
       <td>SEI</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Information Generators</td>
+     <td>Energy Carriers</td>
       <td>Declaring</td><td>Result</td><td>Extroverted</td>
       <td>LII</td><td>IEI</td><td>ESI</td><td>SLI</td>
     </tr>
