@@ -199,9 +199,9 @@
       <td>ILE</td><td>EIE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Energy Carriers</td>
+    <td>Information Generators</td>
       <td>Asking</td><td>Result</td><td>Introverted</td>
-      <td>ESE</td><td>SLE</td><td>LIE</td><td>IEE</td>
+      <td>LII</td><td>IEI</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Information Accumulators</td>
