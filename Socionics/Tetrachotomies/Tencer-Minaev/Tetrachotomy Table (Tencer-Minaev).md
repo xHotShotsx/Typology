@@ -166,7 +166,7 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Extroverted</td><td>Constructivist</td><td>Merry</td>
+      <td>Extroverted</td><td>Constructivist</td><td>1stDelta</td>
       <td>ILE</td><td>ESE</td><td>EIE</td><td>SLE</td>
     </tr>
     <tr>
@@ -181,7 +181,7 @@
     </tr>
     <tr>
      <td></td>
-      <td>Introverted</td><td>Emotivist</td><td>Merry</td>
+      <td>Introverted</td><td>Emotivist</td><td>1stDelta</td>
       <td>SEI</td><td>LII</td><td>LSI</td><td>IEI</td>
     </tr>
     <tr>
@@ -369,7 +369,7 @@
       </tr>
 	 <tr>
 	 <td>Inventor</td>
-      <td>1stAbstract</td><td>Merry</td><td>Asking</td>
+      <td>1stAbstract</td><td>1stDelta</td><td>Asking</td>
       <td>ILE</td><td>LII</td><td>EIE</td><td>IEI</td>
     </tr>
     <tr>
@@ -379,7 +379,7 @@
     </tr>
     <tr>
 	 <td>Gatherer</td>
-      <td>1stInvolved</td><td>Merry</td><td>Declaring</td>
+      <td>1stInvolved</td><td>1stDelta</td><td>Declaring</td>
       <td>SEI</td><td>ESE</td><td>LSI</td><td>SLE</td>
     </tr>
     <tr>
@@ -458,7 +458,7 @@
       <td>ILE</td><td>EIE</td><td>LIE</td><td>IEE</td>
 	 <tr>
 	 <td></td>
-      <td>1stInternal</td><td>Static</td><td>Merry</td>
+      <td>1stInternal</td><td>Static</td><td>1stDelta</td>
       <td>ILE</td><td>LII</td><td>LSI</td><td>SLE</td>
     </tr>
     <tr>
@@ -473,7 +473,7 @@
     </tr>
     <tr>
      <td>Sincere (4d-Fi)</td>
-      <td>1stExternal</td><td>Dynamic</td><td>Merry</td>
+      <td>1stExternal</td><td>Dynamic</td><td>1stDelta</td>
       <td>SEI</td><td>ESE</td><td>EIE</td><td>IEI</td>
     </tr>
     <tr>
@@ -574,7 +574,7 @@
       </tr>
 	 <tr>
 	 <td>Self-Actualisation</td>
-      <td>Irrational</td><td>Yielding</td><td>Merry</td>
+      <td>Irrational</td><td>Yielding</td><td>1stDelta</td>
       <td>ILE</td><td>SEI</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
@@ -589,7 +589,7 @@
     </tr>
     <tr>
      <td>Spreading Principles</td>
-      <td>Rational</td><td>Obstinate</td><td>Merry</td>
+      <td>Rational</td><td>Obstinate</td><td>1stDelta</td>
       <td>ESE</td><td>LII</td><td>EIE</td><td>LSI</td>
     </tr>
     <tr>
@@ -748,7 +748,7 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Carefree</td><td>Merry</td><td>Process</td>
+      <td>Carefree</td><td>1stDelta</td><td>Process</td>
       <td>ILE</td><td>SEI</td><td>EIE</td><td>LSI</td>
     </tr>
     <tr>
@@ -758,7 +758,7 @@
     </tr>
     <tr>
 	 <td></td>
-      <td>Farsighted</td><td>Merry</td><td>Result</td>
+      <td>Farsighted</td><td>1stDelta</td><td>Result</td>
       <td>ESE</td><td>LII</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
@@ -951,7 +951,7 @@
       </tr>
 	 <tr>
 	 <td>Alpha Quadra</td>
-      <td>Democratic</td><td>Judicious</td><td>Merry</td>
+      <td>Democratic</td><td>Judicious</td><td>1stDelta</td>
       <td>ILE</td><td>SEI</td><td>ESE</td><td>LII</td>
     </tr>
     <tr>
@@ -966,7 +966,7 @@
     </tr>
     <tr>
      <td>Beta Quadra</td>
-      <td>Aristocratic</td><td>Decisive</td><td>Merry</td>
+      <td>Aristocratic</td><td>Decisive</td><td>1stDelta</td>
       <td>EIE</td><td>LSI</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
@@ -980,7 +980,7 @@
       </tr>
 	 <tr>
 	 <td>Decorations</td>
-      <td>Tactical</td><td>Positivist</td><td>Merry</td>
+      <td>Tactical</td><td>Positivist</td><td>1stDelta</td>
       <td>ILE</td><td>ESE</td><td>LSI</td><td>IEI</td>
     </tr>
     <tr>
@@ -995,7 +995,7 @@
     </tr>
     <tr>
      <td>Ideals</td>
-      <td>Strategic</td><td>Negativist</td><td>Merry</td>
+      <td>Strategic</td><td>Negativist</td><td>1stDelta</td>
       <td>SEI</td><td>LII</td><td>EIE</td><td>SLE</td>
     </tr>
     <tr>
