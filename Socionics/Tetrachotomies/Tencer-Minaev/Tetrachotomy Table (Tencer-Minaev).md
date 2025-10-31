@@ -12,7 +12,7 @@
   
     <tr>
       <td rowspan="6"><b>1</b></td>
-      <td rowspan="2"><b>Energetic </b></td>
+      <td rowspan="2"><b>Energetic Democratic Revision Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/1.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -20,22 +20,22 @@
       <td><b>Q</b></td><td><b>A</b></td><td><b>QA</b></td>
       </tr>
 	 <tr>
-	 <td>Uniqueness (4d-Ne)</td>
-      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td>
+	 <td></td>
+      <td>Asking</td><td>Intuitive</td><td>Carefree</td>
       <td>ILE</td><td>EIE</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
-    <td>Prestige (4d-Se)</td>
+    <td></td>
       <td>Extroverted</td><td>Sensory</td><td>Farsighted</td>
       <td>ESE</td><td>SLE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
-	 <td>Self-Confidence (4d-Ni)</td>
+	 <td></td>
       <td>Introverted</td><td>Intuitive</td><td>Farsighted</td>
       <td>LII</td><td>EII</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Well-Being (4d-Si)</td>
+     <td></td>
       <td>Introverted</td><td>Sensory</td><td>Carefree</td>
       <td>SEI</td><td>LSI</td><td>ESI</td><td>SLI</td>
     </tr>
