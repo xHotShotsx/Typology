@@ -142,12 +142,12 @@
     </tr>
     <tr>
     <td></td>
-      <td>Extroverted</td><td>Strategic</td><td>Decisive</td>
+      <td>Extroverted</td><td>Strategic</td><td>1stGamma</td>
       <td>EIE</td><td>SLE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Introverted</td><td>Tactical</td><td>Decisive</td>
+      <td>Introverted</td><td>Tactical</td><td>1stGamma</td>
       <td>LSI</td><td>IEI</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
@@ -316,12 +316,12 @@
     </tr>
     <tr>
     <td>Victim (Ni)</td>
-      <td>1stAbstract</td><td>Dynamic</td><td>Decisive</td>
+      <td>1stAbstract</td><td>Dynamic</td><td>1stGamma</td>
       <td>EIE</td><td>IEI</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Aggressor (Se)</td>
-      <td>1stInvolved</td><td>Static</td><td>Decisive</td>
+      <td>1stInvolved</td><td>Static</td><td>1stGamma</td>
       <td>LSI</td><td>SLE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
@@ -521,7 +521,7 @@
     </tr>
     <tr>
     <td>Competition</td>
-      <td>1stInternal</td><td>Decisive</td><td>Declaring</td>
+      <td>1stInternal</td><td>1stGamma</td><td>Declaring</td>
       <td>LSI</td><td>SLE</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
@@ -531,7 +531,7 @@
     </tr>
     <tr>
      <td>Intrigue</td>
-      <td>1stExternal</td><td>Decisive</td><td>Asking</td>
+      <td>1stExternal</td><td>1stGamma</td><td>Asking</td>
       <td>EIE</td><td>IEI</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
@@ -550,12 +550,12 @@
     </tr>
     <tr>
     <td>Unpredictable</td>
-      <td>Irrational</td><td>Farsighted</td><td>Decisive</td>
+      <td>Irrational</td><td>Farsighted</td><td>1stGamma</td>
       <td>SLE</td><td>IEI</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
 	 <td>Controlling</td>
-      <td>Rational</td><td>Carefree</td><td>Decisive</td>
+      <td>Rational</td><td>Carefree</td><td>1stGamma</td>
       <td>EIE</td><td>LSI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
@@ -840,7 +840,7 @@
     </tr>
     <tr>
     <td>Result Centre</td>
-      <td>Yielding</td><td>Decisive</td><td>Result</td>
+      <td>Yielding</td><td>1stGamma</td><td>Result</td>
       <td>SLE</td><td>IEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
@@ -850,7 +850,7 @@
     </tr>
     <tr>
      <td>Process Centre</td>
-      <td>Obstinate</td><td>Decisive</td><td>Process</td>
+      <td>Obstinate</td><td>1stGamma</td><td>Process</td>
       <td>EIE</td><td>LSI</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
@@ -956,7 +956,7 @@
     </tr>
     <tr>
     <td>Gamma Quadra</td>
-      <td>Democratic</td><td>Decisive</td><td>1stBeta</td>
+      <td>Democratic</td><td>1stGamma</td><td>1stBeta</td>
       <td>SEE</td><td>ILI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
@@ -966,7 +966,7 @@
     </tr>
     <tr>
      <td>Beta Quadra</td>
-      <td>Aristocratic</td><td>Decisive</td><td>1stDelta</td>
+      <td>Aristocratic</td><td>1stGamma</td><td>1stDelta</td>
       <td>EIE</td><td>LSI</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
@@ -1014,12 +1014,12 @@
     </tr>
     <tr>
     <td>Imprints</td>
-      <td>Constructivist</td><td>Negativist</td><td>Decisive</td>
+      <td>Constructivist</td><td>Negativist</td><td>1stGamma</td>
       <td>EIE</td><td>SLE</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
 	 <td>Templates</td>
-      <td>Emotivist</td><td>Positivist</td><td>Decisive</td>
+      <td>Emotivist</td><td>Positivist</td><td>1stGamma</td>
       <td>LSI</td><td>IEI</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
