@@ -1,5 +1,4 @@
 
-# Sidebar
 
 - Contents sidebar needs reconfiguring.
 	- Wrap the labels.
@@ -7,3 +6,4 @@
 - Content for other typologies.
 - Maybe be more inclusive so it isn't just a wiki; also a random blogpost
 - Cool diagrams.
+- Categoriuse my stuff better (i.e. relation subgroups --> -chotomies --)
