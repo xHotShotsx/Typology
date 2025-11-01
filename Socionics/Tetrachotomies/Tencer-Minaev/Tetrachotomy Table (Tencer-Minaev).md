@@ -259,7 +259,7 @@
     <tr>
     <td>Inert NT</td>
       <td>1stAbstract</td><td>Aristocratic</td><td>2ndInvolved</td>
-      <td>LII</td><td>EIE</td><td>LIE</td><td>EII</td>
+      <td>LSI</td><td>IEI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>SF "Visceral"</td>
