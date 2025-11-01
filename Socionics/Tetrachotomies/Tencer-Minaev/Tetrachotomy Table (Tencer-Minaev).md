@@ -317,17 +317,17 @@
     <tr>
     <td></td>
       <td>1stAbstract</td><td>Dynamic</td><td>1stGamma</td>
-      <td>IEI</td><td>ILI</td><td>LIE</td><td>LIE</td>
+      <td>IEI</td><td>ILI</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
 	 <td></td>
       <td>1stInvolved</td><td>Static</td><td>1stGamma</td>
-      <td>LSI</td><td>SLE</td><td>SEE</td><td>ESI</td>
+      <td>SLE</td><td>SEE</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
       <td>1stInvolved</td><td>Dynamic</td><td>1stAlpha</td>
-      <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
+      <td>SEI</td><td>ESE</td><td>EIE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>12</b></td>
