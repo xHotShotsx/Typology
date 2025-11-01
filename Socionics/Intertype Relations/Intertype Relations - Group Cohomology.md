@@ -22,11 +22,13 @@
 - $\mathcal{D}_i$ refers to any of the 16 dichotomy systems that respect the symmetry of all orbital dichotomies.
 - Its indexing is based on the order used by Varlawend, i.e. $\mathcal{D}_{14}$ denotes the Tencer-Minaev space of dichotomies and $\mathcal{D}_{15}$ denotes the Reinin space of dichotomies.
 
-### Some Group Notations
+## Some Group Notations
 
 - $\mathbb{S}$: There exists in Socionics the group that comprises all classical intertype relations (ITRs). This group's structure is isomorphic to $D_{8} \times C_{2}$ (the direct product of the dihedral group of order 8 and cyclic group of order 2), which is nonabelian.
 - $\mathfrak{D}$: This already has been defined. Its group structure is $E_{16}$ (elementary abelian group of order 16), which is also isomorphic to $C_2^4$.
 	- Note: $\mathcal{D}_i$ is any of the 16 dichotomy system, with $i \in \mathcal{D}$ specifying the dichotomy system.
 
+### Pedagogical Note
 
+- Conceptually, 
 
