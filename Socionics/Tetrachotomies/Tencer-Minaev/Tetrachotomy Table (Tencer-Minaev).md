@@ -578,17 +578,17 @@
     <tr>
     <td>Evaluatory Beta</td>
       <td>Democratic</td><td>2ndDelta</td><td>1stBeta</td>
-      <td>ESE</td><td>LII</td><td>SEE</td><td>SLI</td>
+      <td>ESE</td><td>LII</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
 	 <td>Beta Quadra</td>
       <td>Aristocratic</td><td>2ndBeta</td><td>1stBeta</td>
-      <td>LIE</td><td>ESI</td><td>LSE</td><td>EII</td>
+      <td>EIE</td><td>LSI</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
      <td>Delta Quadra</td>
       <td>Aristocratic</td><td>2ndDelta</td><td>1stDelta</td>
-      <td>ESE</td><td>LII</td><td>EIE</td><td>LSI</td>
+      <td>LSE</td><td>EII</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>21</b></td>
@@ -605,12 +605,12 @@
       <td>ILE</td><td>SEI</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
-    <td>Resistant to Stress</td>
+    <td>Trained by Stress</td>
       <td>Irrational</td><td>Rational</td><td>Result</td>
       <td>SLE</td><td>IEI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Trained by Stress</td>
+	 <td>Resistant Stress</td>
       <td>Rational</td><td>Irrational</td><td>Result</td>
       <td>ESE</td><td>LII</td><td>LIE</td><td>ESI</td>
     </tr>
