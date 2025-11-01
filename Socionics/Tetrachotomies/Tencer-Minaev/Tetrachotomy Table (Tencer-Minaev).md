@@ -716,19 +716,19 @@
       <td><b>QA</b></td><td><b>ID</b></td><td><b>QAID</b></td>
       </tr>
 	 <tr>
-	 <td>Si/Te Creative</td>
+	 <td>Si/Ti Creative</td>
       <td>2ndAlpha</td><td>2ndExternal</td><td>Extroverted</td>
-      <td>ILE</td><td>ESE</td><td>ESI</td><td>SLI</td>
+      <td>ILE</td><td>ESE</td><td>SLE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Ne/Fe Creative</td>
       <td>2ndAlpha</td><td>2ndInternal</td><td>Introverted</td>
-      <td>SEI</td><td>LSI</td><td>LIE</td><td>ESI</td>
+      <td>SEI</td><td>LII</td><td>IEI</td><td>EII</td>
     </tr>
     <tr>
 	 <td>Se/Te Creative</td>
       <td>2ndGamma</td><td>2ndExternal</td><td>Introverted</td>
-      <td>ESE</td><td>SLE</td><td>ILI</td><td>EII</td>
+      <td>LSI</td><td>ILI</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
      <td>Ni/Fi Creative</td>
