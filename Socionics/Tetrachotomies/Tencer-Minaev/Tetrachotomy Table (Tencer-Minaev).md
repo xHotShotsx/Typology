@@ -107,22 +107,22 @@
       <td><b>Q</b></td><td><b>AI</b></td><td><b>QAI</b></td>
       </tr>
 	 <tr>
-	 <td>Iiridescent HGopes</td>
+	 <td>Iridescent Hopes</td>
       <td>Asking</td><td>Democratic</td><td>Positivist</td>
-      <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
+      <td>ILE</td><td>IEI</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-    <td></td>
+    <td>Avoiding Failures</td>
       <td>Asking</td><td>Aristocratic</td><td>Negativist</td>
       <td>EIE</td><td>SLE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td></td>
+	 <td>Waiting</td>
       <td>Declaring</td><td>Democratic</td><td>Negativist</td>
       <td>SEI</td><td>LII</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-     <td></td>
+     <td>Realistic Plans</td>
       <td>Declaring</td><td>Aristocratic</td><td>Positivist</td>
       <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
     </tr>
