@@ -525,16 +525,16 @@
     <tr>
 	 <td></td>
       <td>1stExternal</td><td>1stAlpha</td><td>Introverted</td>
-      <td>SEI</td><td>ESE</td><td>EII</td><td>IEE</td>
+      <td>SEI</td><td>LII</td><td>LSI</td><td>SLI</td>
     </tr>
     <tr>
      <td></td>
       <td>1stExternal</td><td>1stGamma</td><td>Extroverted</td>
-      <td>EIE</td><td>IEI</td><td>SEE</td><td>ESI</td>
+      <td>SLE</td><td>SEE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>19</b></td>
-      <td rowspan="2"><b>Irrational Dual Axis / Planning Style</b></td>
+      <td rowspan="2"><b>Democratic Quadra and Aristocratic Occupation Groups</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/19.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
