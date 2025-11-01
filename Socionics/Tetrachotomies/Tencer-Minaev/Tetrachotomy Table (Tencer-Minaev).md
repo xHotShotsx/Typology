@@ -544,22 +544,22 @@
 	 <tr>
 	 <td>Alpha Quadra</td>
       <td>Democratic</td><td>2ndAlpha</td><td>1stAlpha</td>
-      <td>ILE</td><td>SEI</td><td>IEE</td><td>SLI</td>
+      <td>ILE</td><td>SEI</td><td>ESE</td><td>LII</td>
     </tr>
     <tr>
     <td>Gamma Quadra</td>
       <td>Democratic</td><td>2ndGamma</td><td>1stGamma</td>
-      <td>SLE</td><td>IEI</td><td>SEE</td><td>ILI</td>
+      <td>SEE</td><td>ILI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
 	 <td>Evaluatory Alpha</td>
       <td>Aristocratic</td><td>2ndAlpha</td><td>1stGamma</td>
-      <td>EIE</td><td>LSI</td><td>LIE</td><td>ESI</td>
+      <td>EIE</td><td>LSI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
      <td>Evaluatory Gamma</td>
       <td>Aristocratic</td><td>2ndGamma</td><td>1stAlpha</td>
-      <td>ESE</td><td>LII</td><td>LSE</td><td>EII</td>
+      <td>SLE</td><td>IEI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>20</b></td>
