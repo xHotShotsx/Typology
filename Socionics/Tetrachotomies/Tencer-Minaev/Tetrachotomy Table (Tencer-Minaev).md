@@ -930,12 +930,12 @@
     </tr>
     <tr>
 	 <td>Instruction</td>
-      <td>Aristocratic</td><td>2ndAbstract</td><td>2ndInternal</td>
+      <td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td>
       <td>LSI</td><td>IEI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
      <td>Exemplification</td>
-      <td>Aristocratic</td><td>2ndInvolved</td><td>2ndExternal</td>
+      <td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td>
       <td>EIE</td><td>SLE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
@@ -949,7 +949,7 @@
       </tr>
 	 <tr>
 	 <td>Alpha Quadra</td>
-      <td>Democratic</td><td>1stAlpha</td><td>1stDelta</td>
+      <td>Irrati</td><td>1stAlpha</td><td>1stDelta</td>
       <td>ILE</td><td>SEI</td><td>ESE</td><td>LII</td>
     </tr>
     <tr>
