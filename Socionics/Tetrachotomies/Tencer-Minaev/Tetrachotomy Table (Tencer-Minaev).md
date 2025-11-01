@@ -283,7 +283,7 @@
 	 <tr>
 	 <td>Anticipatory</td>
       <td>1stAbstract</td><td>2ndBeta</td><td>Positivist</td>
-      <td>ILE</td><td>LSI</td><td></td><td>EII</td>
+      <td>ILE</td><td>LSI</td><td>IEI</td><td>LIE</td>
     </tr>
     <tr>
     <td>Cautionary</td>
