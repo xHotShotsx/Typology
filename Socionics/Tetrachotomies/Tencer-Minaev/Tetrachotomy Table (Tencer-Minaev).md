@@ -143,17 +143,17 @@
     <tr>
     <td></td>
       <td>Asking</td><td>2ndInvolved</td><td>1stGamma</td>
-      <td></td><td>SLE</td><td>SEE</td><td>LIE</td>
+      <td>IEI</td><td>SEE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
 	 <td></td>
       <td>Declaring</td><td>2ndAbstract</td><td>1stGamma</td>
-      <td></td><td>IEI</td><td>IEE</td><td>SLI</td>
+      <td>SEI</td><td>ESE</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
      <td></td>
       <td>Declaring</td><td>2ndInvolved</td><td>1stAlpha</td>
-      <td>SEI</td><td>LII</td><td>EII</td><td>SLI</td>
+      <td>SEI</td><td>ESE</td><td>LSI</td><td>IEE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>6</b></td>
