@@ -931,7 +931,7 @@
     <tr>
 	 <td>N Creative</td>
       <td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td>
-      <td>LII</td><td>EIE</td><td></td><td>IEE</td>
+      <td>LII</td><td>EIE</td><td>LIE</td><td>E</td>
     </tr>
     <tr>
      <td>S Creative</td>
