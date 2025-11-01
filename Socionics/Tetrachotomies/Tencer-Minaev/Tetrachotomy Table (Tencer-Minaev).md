@@ -51,7 +51,7 @@
 	 <tr>
 	 <td></td>
       <td>Asking</td><td>1stInternal</td><td>2ndBeta</td>
-      <td>ILE</td><td>SLE</td><td>LIE</td><td>LSE</td>
+      <td>ILE</td><td>EIE</td><td>IEI</td><td>ESI</td>
     </tr>
     <tr>
     <td></td>
