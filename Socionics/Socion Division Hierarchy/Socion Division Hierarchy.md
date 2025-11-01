@@ -3,7 +3,7 @@
 
 ## 16/2: Dichotomy $\to$ Octad (Trait)
 
-## 16/4: Tetrachotomy $\to$ Tetrad (Small Group / Quaternion)
+## 16/4: Tetrachotomy $\to$ Tetrad / Quaternion
 
 ## 16/8: Octachotomy $\to$ Dyad
 
