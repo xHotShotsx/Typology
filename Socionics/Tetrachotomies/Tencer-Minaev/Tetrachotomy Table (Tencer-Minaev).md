@@ -543,12 +543,12 @@
       </tr>
 	 <tr>
 	 <td>Random</td>
-      <td>Irrational</td><td>2ndAlpha</td><td>1stAlpha</td>
+      <td>Democratic</td><td>2ndAlpha</td><td>1stAlpha</td>
       <td>ILE</td><td>SEI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Unpredictable</td>
-      <td>Irrational</td><td>2ndGamma</td><td>1stGamma</td>
+      <td>Demcoratic</td><td>2ndGamma</td><td>1stGamma</td>
       <td>SLE</td><td>IEI</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
