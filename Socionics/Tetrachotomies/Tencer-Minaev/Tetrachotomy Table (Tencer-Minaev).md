@@ -407,7 +407,7 @@
       <td>EIE</td><td>IEI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Inert ST</td>
+	 <td>Inert ST "Explication"</td>
       <td>1stExternal</td><td>Democratic</td><td>2ndInternal</td>
       <td>SEI</td><td>LII</td><td>SEE</td><td>LIE</td>
     </tr>
@@ -969,7 +969,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>34</b></td>
-      <td rowspan="2"><b>Aspiration</b></td>
+      <td rowspan="2"><b></b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/34.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -977,28 +977,28 @@
       <td><b>AD</b></td><td><b>QAI</b></td><td><b>QID</b></td>
       </tr>
 	 <tr>
-	 <td>Decorations</td>
+	 <td></td>
       <td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td>
       <td>ILE</td><td>ESE</td><td>LSI</td><td>IEI</td>
     </tr>
     <tr>
-    <td>Imprints</td>
+    <td></td>
       <td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td>
       <td>ILI</td><td>ESI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Templates</td>
+	 <td></td>
       <td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td>
       <td>SEE</td><td>LIE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
-     <td>Ideals</td>
+     <td></td>
       <td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td>
       <td>SEI</td><td>LII</td><td>EIE</td><td>SLE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>35</b></td>
-      <td rowspan="2"><b>Contentment Balance</b></td>
+      <td rowspan="2"><b></b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/35.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -1006,17 +1006,17 @@
       <td><b>ID</b></td><td><b>QAI</b></td><td><b>QAD</b></td>
       </tr>
 	 <tr>
-	 <td>Benevolent</td>
+	 <td></td>
       <td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td>
       <td>ILE</td><td>ESE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
-    <td>Imprints</td>
+    <td></td>
       <td>2ndExternal</td><td>Negativist</td><td>1stGamma</td>
       <td>EIE</td><td>SLE</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-	 <td>Templates</td>
+	 <td></td>
       <td>2ndInternal</td><td>Positivist</td><td>1stGamma</td>
       <td>LSI</td><td>IEI</td><td>SEE</td><td>LIE</td>
     </tr>
