@@ -258,12 +258,12 @@
     </tr>
     <tr>
     <td></td>
-      <td>1stAbstract</td><td>Democratic</td><td>2ndInvolved</td>
+      <td>1stAbstract</td><td>Aristocratic</td><td>2ndInvolved</td>
       <td>LII</td><td>EIE</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>1stInvolved</td><td>Aristocratic</td><td>2ndInvolved</td>
+      <td>1stInvolved</td><td>Democratic</td><td>2ndInvolved</td>
       <td>SEI</td><td>SLE</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
@@ -403,12 +403,12 @@
     </tr>
     <tr>
     <td>Constructors (T-base)</td>
-      <td>1stInternal</td><td>Democratic</td><td>2ndInternal</td>
+      <td>1stInternal</td><td>Aristocratic</td><td>2ndInternal</td>
       <td>LII</td><td>LSI</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
 	 <td>Diplomatic (F-creative)</td>
-      <td>1stExternal</td><td>Aristocratic</td><td>2ndInternal</td>
+      <td>1stExternal</td><td>Democratic</td><td>2ndInternal</td>
       <td>SEI</td><td>IEI</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
@@ -601,7 +601,7 @@
       </tr>
 	 <tr>
 	 <td>Frozen by Stress</td>
-      <td>Irrational</td><td>Democratic</td><td>Process</td>
+      <td>Irrational</td><td>Irrational</td><td>Process</td>
       <td>ILE</td><td>SEI</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
