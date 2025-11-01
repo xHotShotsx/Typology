@@ -235,7 +235,7 @@
     <tr>
 	 <td>F-base "Suggestion"</td>
       <td>1stInvolved</td><td>1stInternal</td><td>Aristocratic</td>
-      <td>LSI</td><td>SLE</td><td>LSE</td><td>SLI</td>
+      <td>ESE</td><td>EIE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
      <td>S-base "Sense"</td>
