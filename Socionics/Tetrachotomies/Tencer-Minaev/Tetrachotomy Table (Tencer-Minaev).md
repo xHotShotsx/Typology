@@ -447,7 +447,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>16</b></td>
-      <td rowspan="2"><b>Ego Rational Element / Form of Action</b></td>
+      <td rowspan="2"><b>Base Function Aristocratic Revision Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/16.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
