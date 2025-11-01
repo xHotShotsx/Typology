@@ -689,12 +689,12 @@
 	 <tr>
 	 <td>Ne/Ti Creative</td>
       <td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td>
-      <td>ILE</td><td>LSI</td><td>ESI</td><td>IEE</td>
+      <td>ILE</td><td>LII</td><td>SLE</td><td>EII</td>
     </tr>
     <tr>
     <td>Si/Fe Creative</td>
       <td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td>
-      <td>SEI</td><td>EIE</td><td>LIE</td><td>SLI</td>
+      <td>SEI</td><td>ESE</td><td></td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Se/Fi Creative</td>
@@ -733,7 +733,7 @@
     <tr>
      <td>Ni/Fi Creative</td>
       <td>2ndGamma</td><td>2ndInternal</td><td>Extroverted</td>
-      <td>LII</td><td>IEI</td><td>SEE</td><td>LSE</td>
+      <td>EIE</td><td>SEE</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>26</b></td>
