@@ -268,7 +268,7 @@
     </tr>
     <tr>
      <td></td>
-      <td>1stInvolved</td><td>Rational</td><td>2ndAbstract</td>
+      <td>1stInvolved</td><td>Aristocratic</td><td>2ndAbstract</td>
       <td>ESE</td><td>LSI</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
