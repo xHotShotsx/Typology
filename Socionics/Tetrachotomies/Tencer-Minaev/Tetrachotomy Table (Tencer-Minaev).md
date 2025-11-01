@@ -936,7 +936,7 @@
     <tr>
      <td>S Creative</td>
       <td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td>
-      <td>EIE</td><td>SLE</td><td>EII</td><td>SLI</td>
+      <td>ESE</td><td>LSI</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>33</b></td>
@@ -950,12 +950,12 @@
 	 <tr>
 	 <td>Judicious Irrational</td>
       <td>Irrational</td><td>1stAlpha</td><td>1stDelta</td>
-      <td>ILE</td><td>SEI</td><td>ESE</td><td>LII</td>
+      <td>ILE</td><td>SEI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Decisive Irrational</td>
       <td>Irrational</td><td>1stGamma</td><td>1stBeta</td>
-      <td>SEE</td><td>ILI</td><td>LIE</td><td>ESI</td>
+      <td>SLE</td><td>ILI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
 	 <td>Merry Rational</td>
