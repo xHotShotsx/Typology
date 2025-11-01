@@ -921,12 +921,12 @@
 	 <tr>
 	 <td>T Creative</td>
       <td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td>
-      <td>ILE</td><td>ESE</td><td>ILI</td><td>ESI</td>
+      <td>ILE</td><td>SLE</td><td>ILI</td><td>SLI</td>
     </tr>
     <tr>
     <td>F Creative</td>
       <td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td>
-      <td>SEI</td><td>LII</td><td>SEE</td><td>LIE</td>
+      <td>SEI</td><td>IEI</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>N Creative</td>
