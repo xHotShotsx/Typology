@@ -397,7 +397,7 @@
       <td><b>I</b></td><td><b>D</b></td><td><b>ID</b></td>
       </tr>
 	 <tr>
-	 <td>Inert NF</td>
+	 <td>Inert NF "Implication"</td>
       <td>1stInternal</td><td>Democratic</td><td>2ndExternal</td>
       <td>ILE</td><td>ESE</td><td>ILI</td><td>ESI</td>
     </tr>
