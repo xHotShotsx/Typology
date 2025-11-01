@@ -965,7 +965,7 @@
     <tr>
      <td>Serious Rational</td>
       <td>Rational</td><td>1stGamma</td><td>1stDelta</td>
-      <td>LIE</td><td>LSI</td><td>SLE</td><td>IEI</td>
+      <td>LIE</td><td>ESI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>34</b></td>
@@ -979,17 +979,17 @@
 	 <tr>
 	 <td></td>
       <td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td>
-      <td>ILE</td><td>ESE</td><td>LSI</td><td>IEI</td>
+      <td>ILE</td><td>LIE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
     <td></td>
       <td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td>
-      <td>ILI</td><td>ESI</td><td>LSE</td><td>IEE</td>
+      <td>LII</td><td>EIE</td><td>SLE</td><td>ILI</td>
     </tr>
     <tr>
 	 <td></td>
       <td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td>
-      <td>SEE</td><td>LIE</td><td>EII</td><td>SLI</td>
+      <td>ESE</td><td>LSI</td><td>IEI</td><td>SEE</td>
     </tr>
     <tr>
      <td></td>
