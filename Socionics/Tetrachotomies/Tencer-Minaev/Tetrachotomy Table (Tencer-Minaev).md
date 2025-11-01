@@ -224,23 +224,23 @@
       </tr>
 	 <tr>
 	 <td>N-base "Imagination"</td>
-      <td>1stAbstract</td><td>1stInternal</td><td>Democratic</td>
+      <td>1stAbstract</td><td>1stInternal</td><td>Irrational</td>
       <td>ILE</td><td>IEI</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
     <td>T-base "Calculation"</td>
-      <td>1stAbstract</td><td>1stExternal</td><td>Aristocratic</td>
+      <td>1stAbstract</td><td>1stExternal</td><td>Rational</td>
       <td>LII</td><td>LSI</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
 	 <td>F-base "Suggestion"</td>
-      <td>1stInvolved</td><td>1stInternal</td><td>Aristocratic</td>
-      <td>ESE</td><td>EIE</td><td>ESI</td><td>SLI</td>
+      <td>1stInvolved</td><td>1stInternal</td><td>Rational</td>
+      <td>ESE</td><td>EIE</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
      <td>S-base "Sense"</td>
-      <td>1stInvolved</td><td>1stExternal</td><td>Democratic</td>
-      <td>SEI</td><td>ESE</td><td>SEE</td><td>ESI</td>
+      <td>1stInvolved</td><td>1stExternal</td><td>Irrational</td>
+      <td>SEI</td><td>SLE</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>9</b></td>
