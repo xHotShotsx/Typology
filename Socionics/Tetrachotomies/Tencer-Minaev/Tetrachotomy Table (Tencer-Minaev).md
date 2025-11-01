@@ -673,7 +673,7 @@
       <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
-     <td></td>
+     <td>Serious Irrational</td>
       <td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td>
       <td>SEE</td><td>ILI</td><td>IEE</td><td>SLI</td>
     </tr>
