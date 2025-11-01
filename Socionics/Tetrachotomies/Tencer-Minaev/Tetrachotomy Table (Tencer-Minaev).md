@@ -563,7 +563,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>20</b></td>
-      <td rowspan="2"><b>Rational Dual Axis / Bio-Ideological Balance</b></td>
+      <td rowspan="2"><b>Democratic Occupation Groups and Aristocratic Quadra</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/20.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -571,22 +571,22 @@
       <td><b>D</b></td><td><b>QI</b></td><td><b>QID</b></td>
       </tr>
 	 <tr>
-	 <td>Self-Actualisation</td>
+	 <td>Evaluatory Delta</td>
       <td>Democratic</td><td>2ndBeta</td><td>1stDelta</td>
-      <td>ILE</td><td>SEI</td><td>SLE</td><td>IEI</td>
+      <td></td><td>SEI</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
-    <td>Social Success</td>
+    <td>Evaluatory Beta</td>
       <td>Democratic</td><td>2ndDelta</td><td>1stBeta</td>
       <td>SEE</td><td>ILI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Social Responsibility</td>
+	 <td>Beta Quadra</td>
       <td>Aristocratic</td><td>2ndBeta</td><td>1stBeta</td>
       <td>LIE</td><td>ESI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
-     <td>Spreading Principles</td>
+     <td>Delta Quadra</td>
       <td>Aristocratic</td><td>2ndDelta</td><td>1stDelta</td>
       <td>ESE</td><td>LII</td><td>EIE</td><td>LSI</td>
     </tr>
