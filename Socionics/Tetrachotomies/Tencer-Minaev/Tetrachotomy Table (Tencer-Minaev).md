@@ -955,17 +955,17 @@
     <tr>
     <td>Decisive Irrational</td>
       <td>Irrational</td><td>1stGamma</td><td>1stBeta</td>
-      <td>SLE</td><td>ILI</td><td>LIE</td><td>ESI</td>
+      <td>SLE</td><td>IEI</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
 	 <td>Merry Rational</td>
       <td>Rational</td><td>1stAlpha</td><td>1stBeta</td>
-      <td>LSE</td><td>EII</td><td>IEE</td><td>SLI</td>
+      <td>ESE</td><td>LII</td><td>EIE</td><td>LSI</td>
     </tr>
     <tr>
      <td>Serious Rational</td>
       <td>Rational</td><td>1stGamma</td><td>1stDelta</td>
-      <td>EIE</td><td>LSI</td><td>SLE</td><td>IEI</td>
+      <td>LIE</td><td>LSI</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>34</b></td>
