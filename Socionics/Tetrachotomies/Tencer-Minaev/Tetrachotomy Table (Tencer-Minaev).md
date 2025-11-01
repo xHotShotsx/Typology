@@ -820,7 +820,7 @@
     <tr>
      <td>Se/Fe Creative</td>
       <td>2ndDelta</td><td>2ndInvolved</td><td>Extroverted</td>
-      <td>LII</td><td>EIE</td><td>SEE</td><td>SLI</td>
+      <td>ESE</td><td>SEE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>29</b></td>
