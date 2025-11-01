@@ -994,7 +994,7 @@
     <tr>
      <td></td>
       <td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td>
-      <td>SEI</td><td>LII</td><td>EIE</td><td>SLE</td>
+      <td>SEI</td><td>ESI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>35</b></td>
@@ -1008,17 +1008,17 @@
 	 <tr>
 	 <td></td>
       <td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td>
-      <td>ILE</td><td>ESE</td><td>EII</td><td>SLI</td>
+      <td>ILE</td><td>ESE</td><td>LSI</td><td>SLI</td>
     </tr>
     <tr>
     <td></td>
       <td>2ndExternal</td><td>Negativist</td><td>1stGamma</td>
-      <td>EIE</td><td>SLE</td><td>ILI</td><td>ESI</td>
+      <td>SLE</td><td>ILI</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
 	 <td></td>
       <td>2ndInternal</td><td>Positivist</td><td>1stGamma</td>
-      <td>LSI</td><td>IEI</td><td>SEE</td><td>LIE</td>
+      <td>IEI</td><td>SEE</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
