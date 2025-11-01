@@ -776,12 +776,12 @@
 	 <tr>
 	 <td>Se/Ti Creative</td>
       <td>2ndBeta</td><td>Static</td><td>2ndExternal</td>
-      <td>ILE</td><td>SLE</td><td>ESI</td><td>EII</td>
+      <td>ILE</td><td>LSI</td><td>SLE</td><td>ESI</td>
     </tr>
     <tr>
     <td>Ni/Fe Creative</td>
       <td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td>
-      <td>SEI</td><td>IEI</td><td>LIE</td><td>LSE</td>
+      <td>SEI</td><td>EIE</td><td>IEI</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Ne/Fi Creative</td>
