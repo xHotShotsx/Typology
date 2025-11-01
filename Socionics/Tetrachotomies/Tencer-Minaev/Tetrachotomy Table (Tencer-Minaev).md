@@ -1023,7 +1023,7 @@
     <tr>
      <td></td>
       <td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td>
-      <td>SEI</td><td>LII</td><td>LSE</td><td>IEE</td>
+      <td>SEI</td><td>LII</td><td>EIE</td><td>IEE</td>
     </tr>
   </tbody>
 </table>
