@@ -455,28 +455,28 @@
       <td><b>I</b></td><td><b>QD</b></td><td><b>QID</b></td>
       </tr>
 	 <tr>
-	 <td>Ne/Fi Base</td>
+	 <td></td>
       <td>1stInternal</td><td>Static</td><td>1stDelta</td>
       <td>ILE</td><td>ESI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-    <td>Si/Te Base</td>
+    <td></td>
       <td>1stInternal</td><td>Dynamic</td><td>1stBeta</td>
       <td>ESE</td><td>EIE</td><td>IEI</td><td>ILI</td>
     </tr>
     <tr>
-	 <td>Ti/Se Base</td>
+	 <td></td>
       <td>1stExternal</td><td>Static</td><td>1stBeta</td>
       <td>LII</td><td>LSI</td><td>SLE</td><td>SEE</td>
     </tr>
     <tr>
-     <td>Fe/Ni Base</td>
+     <td></td>
       <td>1stExternal</td><td>Dynamic</td><td>1stDelta</td>
       <td>SEI</td><td>LIE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>17</b></td>
-      <td rowspan="2"><b>Implementation Groups</b></td>
+      <td rowspan="2"><b>Process Project Groups and Implementation Groups</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/17.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
