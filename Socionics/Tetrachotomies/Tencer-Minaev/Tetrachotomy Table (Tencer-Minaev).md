@@ -573,12 +573,12 @@
 	 <tr>
 	 <td>Evaluatory Delta</td>
       <td>Democratic</td><td>2ndBeta</td><td>1stDelta</td>
-      <td></td><td>SEI</td><td>SLE</td><td>IEI</td>
+      <td>ILE</td><td>SEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
     <td>Evaluatory Beta</td>
       <td>Democratic</td><td>2ndDelta</td><td>1stBeta</td>
-      <td>SEE</td><td>ILI</td><td>IEE</td><td>SLI</td>
+      <td>ESE</td><td>LII</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Beta Quadra</td>
