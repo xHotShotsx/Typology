@@ -30,5 +30,5 @@
 
 ### Pedagogical Note
 
-- Conceptually, $\mathfrak{D}$ represents the dichotomy space acting as an abelian module, while $\mathbb{S}$ represents the nonabelian intertype rela
+- Conceptually, $\mathfrak{D}$ represents the dichotomy space acting as an abelian module, while $\mathbb{S}$ represents the nonabelian ITR space upon which it acts via the homomorphism $\varphi : E_{16} \to \\text$.
 
