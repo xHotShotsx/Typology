@@ -269,11 +269,11 @@
     <tr>
      <td>Inert SF</td>
       <td>1stInvolved</td><td>Aristocratic</td><td>2ndAbstract</td>
-      <td>EIE</td>SLE<td></td><td>EII</td><td>LSE</td>
+      <td>EIE</td>SLE<td></td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>10</b></td>
-      <td rowspan="2"><b>Resource Attitude Shades</b></td>
+      <td rowspan="2"><b>Brakes Democratic Order Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/10.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -283,7 +283,7 @@
 	 <tr>
 	 <td>Anticipatory</td>
       <td>1stAbstract</td><td>2ndBeta</td><td>Positivist</td>
-      <td>ILE</td><td>IEI</td><td>LIE</td><td>EII</td>
+      <td>ILE</td><td>LSI</td><td></td><td>EII</td>
     </tr>
     <tr>
     <td>Cautionary</td>
