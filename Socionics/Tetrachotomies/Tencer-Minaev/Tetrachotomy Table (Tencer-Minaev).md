@@ -940,7 +940,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>33</b></td>
-      <td rowspan="2"><b>Quadra</b></td>
+      <td rowspan="2"><b>Accepting Axis</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/33.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -948,28 +948,28 @@
       <td><b>AI</b></td><td><b>QAD</b></td><td><b>QID</b></td>
       </tr>
 	 <tr>
-	 <td>Alpha Quadra</td>
+	 <td>Judicious Irrational</td>
       <td>Irrational</td><td>1stAlpha</td><td>1stDelta</td>
       <td>ILE</td><td>SEI</td><td>ESE</td><td>LII</td>
     </tr>
     <tr>
-    <td>Gamma Quadra</td>
+    <td>Decisive Irrational</td>
       <td>Irrational</td><td>1stGamma</td><td>1stBeta</td>
       <td>SEE</td><td>ILI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
-	 <td>Delta Quadra</td>
+	 <td>Merry Rational</td>
       <td>Rational</td><td>1stAlpha</td><td>1stBeta</td>
       <td>LSE</td><td>EII</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
-     <td>Beta Quadra</td>
+     <td>Serious Rational</td>
       <td>Rational</td><td>1stGamma</td><td>1stDelta</td>
       <td>EIE</td><td>LSI</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>34</b></td>
-      <td rowspan="2"><b></b></td>
+      <td rowspan="2"><b>Energetic Democratic OR</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/34.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
