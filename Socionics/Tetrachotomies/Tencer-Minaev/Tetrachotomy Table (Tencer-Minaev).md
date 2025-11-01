@@ -83,7 +83,7 @@
       <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
-    <td></td>
+    <td>Slackeners</td>
       <td>Asking</td><td>Aristocratic</td><td>Dynamic</td>
       <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
     </tr>
@@ -93,7 +93,7 @@
       <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
-     <td>Slackeners</td>
+     <td></td>
       <td>Declaring</td><td>Aristocratic</td><td>Static</td>
       <td>LSI</td><td>SLE</td><td>EII</td><td>IEE</td>
     </tr>
