@@ -757,12 +757,12 @@
     <tr>
 	 <td></td>
       <td>2ndGamma</td><td>1stDelta</td><td>Result</td>
-      <td>LIE</td><td>ESI</td><td>IEE</td><td>S</td>
+      <td>LIE</td><td>ESI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
      <td></td>
       <td>2ndGamma</td><td>1stBeta</td><td>Process</td>
-      <td>SEE</td><td>ILI</td><td>LSE</td><td>EII</td>
+      <td>ESE</td><td>LII</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>27</b></td>
