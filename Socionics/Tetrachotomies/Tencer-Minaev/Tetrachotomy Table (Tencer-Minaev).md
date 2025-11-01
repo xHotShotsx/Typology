@@ -708,7 +708,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>25</b></td>
-      <td rowspan="2"><b>(Undefined)</b></td>
+      <td rowspan="2"><b>Creative Function Democratic Order Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/25.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -716,22 +716,22 @@
       <td><b>QA</b></td><td><b>ID</b></td><td><b>QAID</b></td>
       </tr>
 	 <tr>
-	 <td></td>
+	 <td>Si/Te Creative</td>
       <td>2ndAlpha</td><td>2ndExternal</td><td>Extroverted</td>
-      <td>ILE</td><td>EIE</td><td>ESI</td><td>SLI</td>
+      <td>ILE</td><td>ESE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
-    <td></td>
+    <td>Ne/Fe Creative</td>
       <td>2ndAlpha</td><td>2ndInternal</td><td>Introverted</td>
       <td>SEI</td><td>LSI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
-	 <td></td>
+	 <td>Se/Te Creative</td>
       <td>2ndGamma</td><td>2ndExternal</td><td>Introverted</td>
       <td>ESE</td><td>SLE</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td></td>
+     <td>Ni/Fi Creative</td>
       <td>2ndGamma</td><td>2ndInternal</td><td>Extroverted</td>
       <td>LII</td><td>IEI</td><td>SEE</td><td>LSE</td>
     </tr>
