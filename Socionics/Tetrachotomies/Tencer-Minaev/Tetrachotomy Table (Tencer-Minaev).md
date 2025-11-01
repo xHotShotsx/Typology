@@ -288,17 +288,17 @@
     <tr>
     <td></td>
       <td>1stAbstract</td><td>2ndDelta</td><td>Negativist</td>
-      <td>LII</td><td>ILI</td><td>LSE</td><td>IEE</td>
+      <td>LII</td><td>ILI</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
 	 <td></td>
       <td>1stInvolved</td><td>2ndBeta</td><td>Negativist</td>
-      <td>SEI</td><td>SLE</td><td>SEE</td><td>ESI</td>
+      <td>SEI</td><td>ES</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
       <td>1stInvolved</td><td>2ndDelta</td><td>Positivist</td>
-      <td>ESE</td><td>LSI</td><td>SEE</td><td>SLI</td>
+      <td>ESE</td><td>SEE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>11</b></td>
