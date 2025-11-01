@@ -30,5 +30,5 @@
 
 ### Pedagogical Note
 
-- Conceptually, 
+- Conceptually, $\mathfrak{D}$ represents the dichotomy space acting as an abelian module, while $\mathbb{S}$ represents the nonabelian intertype rela
 
