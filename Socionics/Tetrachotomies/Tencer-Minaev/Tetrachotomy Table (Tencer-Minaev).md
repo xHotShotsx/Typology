@@ -737,7 +737,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>26</b></td>
-      <td rowspan="2"><b>Dual Axis (Asymmetric Process Centrality Result Passi</b></td>
+      <td rowspan="2"><b>Dual Axis (Asymmetric Process Centrality Result Passionarity)</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/26.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -766,7 +766,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>27</b></td>
-      <td rowspan="2"><b>(Undefined)</b></td>
+      <td rowspan="2"><b>Creative Function Aristocratic Revision Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/27.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -795,7 +795,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>28</b></td>
-      <td rowspan="2"><b>(Undefined)</b></td>
+      <td rowspan="2"><b>Creative Function Democratic Order Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/28.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
