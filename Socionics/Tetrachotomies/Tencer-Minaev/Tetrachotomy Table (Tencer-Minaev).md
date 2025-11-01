@@ -269,7 +269,7 @@
     <tr>
      <td>Inert SF "Exemplification"</td>
       <td>1stInvolved</td><td>Aristocratic</td><td>2ndAbstract</td>
-      <td>EIE</td>SLE<td></td><td>EII</td><td>SLI</td>
+      <td>EIE</td><td>SLE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>10</b></td>
