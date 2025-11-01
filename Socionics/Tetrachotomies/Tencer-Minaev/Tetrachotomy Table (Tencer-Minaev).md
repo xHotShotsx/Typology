@@ -650,7 +650,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>23</b></td>
-      <td rowspan="2"><b>Occupation Groups</b></td>
+      <td rowspan="2"><b>Producing Axis</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/23.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -660,7 +660,7 @@
 	 <tr>
 	 <td>Retention</td>
       <td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td>
-      <td>ILE</td><td>SEI</td><td>LIE</td><td>ESI</td>
+      <td></td><td>SEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
     <td>Comportment</td>
