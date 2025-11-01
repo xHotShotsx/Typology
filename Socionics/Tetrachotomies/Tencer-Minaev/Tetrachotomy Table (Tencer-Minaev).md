@@ -641,12 +641,12 @@
     <tr>
 	 <td>Integrating</td>
       <td>Aristocratic</td><td>Positivist</td><td>Introverted</td>
-      <td>ESE</td><td>LSI</td><td>LIE</td><td>EII</td>
+      <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
      <td>Shaping</td>
       <td>Aristocratic</td><td>Negativist</td><td>Extroverted</td>
-      <td>LII</td><td>EIE</td><td>ESI</td><td>LSE</td>
+	  <td>EIE</td><td>SLE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>23</b></td>
