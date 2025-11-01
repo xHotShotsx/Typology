@@ -398,22 +398,22 @@
       </tr>
 	 <tr>
 	 <td>Restructurers (T-creative)</td>
-      <td>1stInternal</td><td>Irrational</td><td>2ndExternal</td>
+      <td>1stInternal</td><td>Democratic</td><td>2ndExternal</td>
       <td>ILE</td><td>SLE</td><td>ILI</td><td>SLI</td>
     </tr>
     <tr>
     <td>Constructors (T-base)</td>
-      <td>1stInternal</td><td>Rational</td><td>2ndInternal</td>
+      <td>1stInternal</td><td>Democratic</td><td>2ndInternal</td>
       <td>LII</td><td>LSI</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
 	 <td>Diplomatic (F-creative)</td>
-      <td>1stExternal</td><td>Irrational</td><td>2ndInternal</td>
+      <td>1stExternal</td><td>Aristocratic</td><td>2ndInternal</td>
       <td>SEI</td><td>IEI</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
      <td>Guardians (F-base)</td>
-      <td>1stExternal</td><td>Rational</td><td>2ndExternal</td>
+      <td>1stExternal</td><td>Aristocratic</td><td>2ndExternal</td>
       <td>ESE</td><td>EIE</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
