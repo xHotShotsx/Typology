@@ -785,7 +785,7 @@
     </tr>
     <tr>
 	 <td>Ne/Fi Creative</td>
-      <td>2ndDelta</td><td>Static</td><td>2ndExternal</td>
+      <td>2ndDelta</td><td>Static</td><td>2ndExertnal</td>
       <td>LII</td><td>LSI</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
