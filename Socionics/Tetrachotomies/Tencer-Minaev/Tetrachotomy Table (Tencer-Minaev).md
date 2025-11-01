@@ -269,7 +269,7 @@
     <tr>
      <td>Inert SF</td>
       <td>1stInvolved</td><td>Aristocratic</td><td>2ndAbstract</td>
-      <td>ESE</td><td>LSI</td><td>ESI</td><td>LSE</td>
+      <td>EIE</td>SLE<td></td><td>EII</td><td>LSE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>10</b></td>
