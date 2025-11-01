@@ -30,5 +30,5 @@
 
 ### Pedagogical Note
 
-- Conceptually, $\mathfrak{D}$ represents the dichotomy space acting as an abelian module, while $\mathbb{S}$ represents the nonabelian ITR space upon which it acts via the homomorphism $\phi : \mathfrak{D} \to \text{Aut}(\mathbb{S})$.
+- Conceptually, $\mathfrak{D}$ represents the dichotomy space acting as an abelian module, while $\mathbb{S}$ represents the nonabelian ITR space upon which it acts via the homomorphism $\varphi : \mathfrak{D} \to \text{Aut}(\mathbb{S})$.
 
