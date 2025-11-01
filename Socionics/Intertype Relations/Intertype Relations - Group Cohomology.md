@@ -31,5 +31,5 @@
 
 # The Homomorphism
 
-- The action of the dichotomy spacer
+- The action of the dichotomy system on the ITR group is given by a homomorphism $\varphi : E_{16} \to \text{Aut}
 
