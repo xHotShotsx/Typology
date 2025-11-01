@@ -24,7 +24,8 @@
 
 ### Group Notations
 
-- There exists in Socionics the group that comprises all classical intertype relations (ITRs) denoted $\mathbb{S}$. This group's structure is isomorphic to $D_{8} \times C_{2}$. 
+- $\mathbb{S}$: There exists in Socionics the group that comprises all classical intertype relations (ITRs). This group's structure is isomorphic to $D_{8} \times C_{2}$.
+- 
 
 
 
