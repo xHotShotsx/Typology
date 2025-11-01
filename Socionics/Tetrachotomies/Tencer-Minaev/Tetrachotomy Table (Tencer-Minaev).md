@@ -228,12 +228,12 @@
       <td>ILE</td><td>LII</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
-    <td>S-base "Sense"</td>
+    <td>T-base "Sense"</td>
       <td>1stAbstract</td><td>1stExternal</td><td>Aristocratic</td>
       <td>EIE</td><td>IEI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>T</td>
+	 <td>F-base "S</td>
       <td>1stInvolved</td><td>1stInternal</td><td>Aristocratic</td>
       <td>LSI</td><td>SLE</td><td>LSE</td><td>SLI</td>
     </tr>
