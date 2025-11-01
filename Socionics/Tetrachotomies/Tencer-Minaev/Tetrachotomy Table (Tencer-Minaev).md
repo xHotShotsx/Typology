@@ -339,17 +339,17 @@
       <td><b>A</b></td><td><b>ID</b></td><td><b>AID</b></td>
       </tr>
 	 <tr>
-	 <td>Ideation Process</td>
+	 <td></td>
       <td>1stAbstract</td><td>2ndExternal</td><td>Process</td>
       <td>ILE</td><td>EIE</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-    <td>General Result</td>
+    <td></td>
       <td>1stAbstract</td><td>2ndInternal</td><td>Result</td>
       <td>LII</td><td>IEI</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Concrete Result</td>
+	 <td></td>
       <td>1stInvolved</td><td>2ndExternal</td><td>Result</td>
       <td>ESE</td><td>SLE</td><td>ESI</td><td>SLI</td>
     </tr>
