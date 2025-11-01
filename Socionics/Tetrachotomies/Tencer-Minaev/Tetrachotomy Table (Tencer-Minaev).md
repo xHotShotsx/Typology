@@ -476,7 +476,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>17</b></td>
-      <td rowspan="2"><b>Process Project Groups and Implementation Groups</b></td>
+      <td rowspan="2"><b>Process Project Groups and Result Implementation Groups</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/17.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -484,22 +484,22 @@
       <td><b>I</b></td><td><b>AD</b></td><td><b>AID</b></td>
       </tr>
 	 <tr>
-	 <td>Trans fem to mas</td>
+	 <td></td>
       <td>1stInternal</td><td>2ndAbstract</td><td>Process</td>
-      <td>ILE</td><td>LSI</td><td>ILI</td><td>LSE</td>
+      <td></td><td>LSI</td><td>ILI</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Most masculine</td>
+    <td></td>
       <td>1stInternal</td><td>2ndInvolved</td><td>Result</td>
       <td>LII</td><td>SLE</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Trans mas to fem</td>
+	 <td></td>
       <td>1stExternal</td><td>2ndAbstract</td><td>Result</td>
       <td>ESE</td><td>IEI</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
-     <td>Most feminine</td>
+     <td></td>
       <td>1stExternal</td><td>2ndInvolved</td><td>Process</td>
       <td>SEI</td><td>EIE</td><td>SEE</td><td>EII</td>
     </tr>
