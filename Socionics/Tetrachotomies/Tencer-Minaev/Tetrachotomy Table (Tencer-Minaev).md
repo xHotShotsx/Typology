@@ -375,17 +375,17 @@
     <tr>
     <td></td>
       <td>1stAbstract</td><td>1stBeta</td><td>Introverted</td>
-      <td>LII</td><td>LIE</td><td>EII</td><td>IEE</td>
+      <td>LII</td><td>LSI</td><td>IEI</td><td>ILI</td>
     </tr>
     <tr>
 	 <td></td>
       <td>1stInvolved</td><td>1stDelta</td><td>Introverted</td>
-      <td>SEI</td><td>ESE</td><td>LSI</td><td>SLE</td>
+      <td>SEI</td><td>ESI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
      <td></td>
       <td>1stInvolved</td><td>1stBeta</td><td>Extroverted</td>
-      <td>SEE</td><td>ESI</td><td>LSE</td><td>SLI</td>
+      <td>SEI</td><td>ESI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>14</b></td>
