@@ -839,7 +839,7 @@
     <tr>
     <td></td>
       <td>2ndBeta</td><td>1stGamma</td><td>Result</td>
-      <td>SEI</td><td>IEI</td><td>LIE</td><td>ESI</td>
+      <td>SLE</td><td>IEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
 	 <td></td>
@@ -849,7 +849,7 @@
     <tr>
      <td></td>
       <td>2ndDelta</td><td>1stGamma</td><td>Process</td>
-      <td>EIE</td><td>LSI</td><td>SEE</td><td>ILI</td>
+      <td>SEE</td><td>ILI</td><td>LSE</td><td>ILI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>30</b></td>
