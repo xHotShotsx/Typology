@@ -949,22 +949,22 @@
       </tr>
 	 <tr>
 	 <td>Alpha Quadra</td>
-      <td>Irrati</td><td>1stAlpha</td><td>1stDelta</td>
+      <td>Irrational</td><td>1stAlpha</td><td>1stDelta</td>
       <td>ILE</td><td>SEI</td><td>ESE</td><td>LII</td>
     </tr>
     <tr>
     <td>Gamma Quadra</td>
-      <td>Democratic</td><td>1stGamma</td><td>1stBeta</td>
+      <td>Irrational</td><td>1stGamma</td><td>1stBeta</td>
       <td>SEE</td><td>ILI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
 	 <td>Delta Quadra</td>
-      <td>Aristocratic</td><td>1stAlpha</td><td>1stBeta</td>
+      <td>Rational</td><td>1stAlpha</td><td>1stBeta</td>
       <td>LSE</td><td>EII</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
      <td>Beta Quadra</td>
-      <td>Aristocratic</td><td>1stGamma</td><td>1stDelta</td>
+      <td>Rational</td><td>1stGamma</td><td>1stDelta</td>
       <td>EIE</td><td>LSI</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
