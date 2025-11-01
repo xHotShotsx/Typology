@@ -25,7 +25,7 @@
 ### Some Group Notations
 
 - $\mathbb{S}$: There exists in Socionics the group that comprises all classical intertype relations (ITRs). This group's structure is isomorphic to $D_{8} \times C_{2}$ (the direct product of the dihedral group of order 8 and cyclic group of order 2), which is nonabelian.
-- $\mathfrak{D}$: This already has been defined. This is the abelian group of $E_{16}$ (elementary abelian group of order 16)
+- $\mathfrak{D}$: This already has been defined. This is the abelian group of $E_{16}$ (elementary abelian group of order 16), which is isomorphic to $C_2^4$.  
 
 
 
