@@ -41,7 +41,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>2</b></td>
-      <td rowspan="2"><b>Brakes </b></td>
+      <td rowspan="2"><b>Brakes Aristocratic Revision Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/2.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -99,7 +99,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>4</b></td>
-      <td rowspan="2"><b></b></td>
+      <td rowspan="2"><b>Club Displacem</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/4.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
