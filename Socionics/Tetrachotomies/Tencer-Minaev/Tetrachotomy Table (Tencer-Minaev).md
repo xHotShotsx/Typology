@@ -426,24 +426,24 @@
       <td><b>I</b></td><td><b>QA</b></td><td><b>QAI</b></td>
       </tr>
 	 <tr>
-	 <td>Acting</td>
+	 <td></td>
       <td>1stInternal</td><td>2ndAlpha</td><td>Positivist</td>
       <td>ILE</td><td>ESE</td><td>IEI</td><td>EII</td>
     </tr>
     <tr>
-    <td>Opposing</td>
+    <td></td>
       <td>1stInternal</td><td>2ndGamma</td><td>Negativist</td>
       <td>EIE</td><td>ILI</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Repelling from Others</td>
+	 <td></td>
       <td>1stExternal</td><td>2ndAlpha</td><td>Negativist</td>
-      <td>SEI</td><td>EIE</td><td>ESI</td><td>IEE</td>
+      <td>SEI</td><td>LII</td><td>SLE</td><td>LSE</td>
     </tr>
     <tr>
-     <td>Endearing</td>
+     <td></td>
       <td>1stExternal</td><td>2ndGamma</td><td>Positivist</td>
-      <td>ESE</td><td>IEI</td><td>SEE</td><td>EII</td>
+      <td>LSI</td><td>SEE</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>16</b></td>
