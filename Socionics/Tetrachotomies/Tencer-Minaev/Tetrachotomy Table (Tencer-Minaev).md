@@ -455,22 +455,22 @@
       <td><b>I</b></td><td><b>QD</b></td><td><b>QID</b></td>
       </tr>
 	 <tr>
-	 <td></td>
+	 <td>Ne/Fi Base</td>
       <td>1stInternal</td><td>Static</td><td>1stDelta</td>
       <td>ILE</td><td>LII</td><td>LSI</td><td>SLE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Si/Te Base</td>
       <td>1stInternal</td><td>Dynamic</td><td>1stBeta</td>
       <td>ILI</td><td>LIE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Ti/Se Base</td>
       <td>1stExternal</td><td>Static</td><td>1stBeta</td>
       <td>SEE</td><td>ESI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Fe/Ni Bas</td>
       <td>1stExternal</td><td>Dynamic</td><td>1stDelta</td>
       <td>SEI</td><td>ESE</td><td>EIE</td><td>IEI</td>
     </tr>
