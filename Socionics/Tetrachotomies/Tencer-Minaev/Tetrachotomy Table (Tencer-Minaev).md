@@ -515,20 +515,20 @@
 	 <tr>
 	 <td></td>
       <td>1stInternal</td><td>1stAlpha</td><td>Extroverted</td>
-      <td>ILE</td><td>LII</td><td>LSE</td><td>SLI</td>
+      <td>ILE</td><td>ESE</td><td>EIE</td><td>IEE</td>
     </tr>
     <tr>
     <td></td>
       <td>1stInternal</td><td>1stGamma</td><td>Introverted</td>
-      <td>LSI</td><td>SLE</td><td>ILI</td><td>LIE</td>
+      <td>IEI</td><td>ILI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
-	 <td>Support</td>
+	 <td></td>
       <td>1stExternal</td><td>1stAlpha</td><td>Introverted</td>
       <td>SEI</td><td>ESE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-     <td>Intrigue</td>
+     <td></td>
       <td>1stExternal</td><td>1stGamma</td><td>Extroverted</td>
       <td>EIE</td><td>IEI</td><td>SEE</td><td>ESI</td>
     </tr>
