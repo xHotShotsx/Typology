@@ -486,17 +486,17 @@
 	 <tr>
 	 <td></td>
       <td>1stInternal</td><td>2ndAbstract</td><td>Process</td>
-      <td>ILE</td><td></td><td>ILI</td><td>LSE</td>
+      <td>ILE</td><td>EIE</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
     <td></td>
       <td>1stInternal</td><td>2ndInvolved</td><td>Result</td>
-      <td>LII</td><td>SLE</td><td>LIE</td><td>SLI</td>
+      <td>ESE</td><td>IEI</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
 	 <td></td>
       <td>1stExternal</td><td>2ndAbstract</td><td>Result</td>
-      <td>ESE</td><td>IEI</td><td>ESI</td><td>IEE</td>
+      <td>LII</td><td>SLE</td><td></td><td>IEE</td>
     </tr>
     <tr>
      <td></td>
