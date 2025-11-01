@@ -26,7 +26,7 @@
 
 - $\mathbb{S}$: There exists in Socionics the group that comprises all classical intertype relations (ITRs). This group's structure is isomorphic to $D_{8} \times C_{2}$ (the direct product of the dihedral group of order 8 and cyclic group of order 2), which is nonabelian.
 - $\mathfrak{D}$: This already has been defined. Its group structure is $E_{16}$ (elementary abelian group of order 16), which is also isomorphic to $C_2^4$.
-	- Note: $\mathcal{D}_i$ is any of the 16 dichotomy spaces, with $i \in 
+	- Note: $\mathcal{D}_i$ is any of the 16 dichotomy system, with $i \in \mathcal{D}$ specifying the dichotomy system.
 
 
 
