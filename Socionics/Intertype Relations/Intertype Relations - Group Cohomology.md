@@ -31,5 +31,5 @@
 
 # The Homomorphism
 
-- The action of the dichotomy system on the ITR group is given by a homomorphism $\varphi : E_{16} \to \text{Aut}
+The action of the dichotomy system on the ITR group is given by a homomorphism $$\varphi : E_{16} \to \text{Aut}(D_8 \times C_2)$$
 
