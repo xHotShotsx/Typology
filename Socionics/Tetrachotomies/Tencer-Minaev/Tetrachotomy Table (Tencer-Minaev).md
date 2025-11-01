@@ -331,7 +331,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>12</b></td>
-      <td rowspan="2"><b>Project Groups</b></td>
+      <td rowspan="2"><b>Process Implementation Groups and Result Project Groups</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/12.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -356,11 +356,11 @@
     <tr>
      <td></td>
       <td>1stInvolved</td><td>2ndInternal</td><td>Process</td>
-      <td>SEI</td><td>LSI</td><td>SEE</td><td>LSE</td>
+      <td>SEI</td><td>EIE</td><td>SEE</td><td>EII</td>
     </tr>
     <tr>
       <td rowspan="6"><b>13</b></td>
-      <td rowspan="2"><b>Economic Role</b></td>
+      <td rowspan="2"><b>Base Function </b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/13.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
