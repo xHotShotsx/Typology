@@ -389,7 +389,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>14</b></td>
-      <td rowspan="2"><b>Rational Faculty / Reasoning / Argumentation Style</b></td>
+      <td rowspan="2"><b>Democratic Array Groups and Aristocratic Clubs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/14.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -397,12 +397,12 @@
       <td><b>I</b></td><td><b>D</b></td><td><b>ID</b></td>
       </tr>
 	 <tr>
-	 <td>Restructurers (T-creative)</td>
+	 <td>Inert NF</td>
       <td>1stInternal</td><td>Democratic</td><td>2ndExternal</td>
       <td>ILE</td><td>SLE</td><td>ILI</td><td>SLI</td>
     </tr>
     <tr>
-    <td>Constructors (T-base)</td>
+    <td>NF "Implicit"</td>
       <td>1stInternal</td><td>Aristocratic</td><td>2ndInternal</td>
       <td>LII</td><td>LSI</td><td>LIE</td><td>LSE</td>
     </tr>
@@ -412,7 +412,7 @@
       <td>SEI</td><td>IEI</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-     <td>Guardians (F-base)</td>
+     <td></td>
       <td>1stExternal</td><td>Aristocratic</td><td>2ndExternal</td>
       <td>ESE</td><td>EIE</td><td>ESI</td><td>EII</td>
     </tr>
