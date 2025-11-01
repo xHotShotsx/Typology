@@ -257,7 +257,7 @@
       <td>ILE</td><td>LII</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
-    <td>Inert NT</td>
+    <td>Inert NT "Instruction"</td>
       <td>1stAbstract</td><td>Aristocratic</td><td>2ndInvolved</td>
       <td>LSI</td><td>IEI</td><td>LSE</td><td>IEE</td>
     </tr>
@@ -267,7 +267,7 @@
       <td>SEI</td><td>ESE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
-     <td>Inert SF</td>
+     <td>Inert SF "Exemplification"</td>
       <td>1stInvolved</td><td>Aristocratic</td><td>2ndAbstract</td>
       <td>EIE</td>SLE<td></td><td>EII</td><td>SLI</td>
     </tr>
@@ -911,7 +911,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>32</b></td>
-      <td rowspan="2"><b>Array Groups</b></td>
+      <td rowspan="2"><b>Creative Faculty</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/32.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -919,22 +919,22 @@
       <td><b>AI</b></td><td><b>AD</b></td><td><b>ID</b></td>
       </tr>
 	 <tr>
-	 <td>Implication</td>
+	 <td>I</td>
       <td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td>
       <td>ILE</td><td>ESE</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-    <td>Explication</td>
+    <td></td>
       <td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td>
       <td>SEI</td><td>LII</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-	 <td>Instruction</td>
+	 <td></td>
       <td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td>
       <td>LSI</td><td>IEI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-     <td>Exemplification</td>
+     <td></td>
       <td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td>
       <td>EIE</td><td>SLE</td><td>EII</td><td>SLI</td>
     </tr>
@@ -1021,7 +1021,7 @@
       <td>LSI</td><td>IEI</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-     <td>Ideals</td>
+     <td></td>
       <td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td>
       <td>SEI</td><td>LII</td><td>LSE</td><td>IEE</td>
     </tr>
