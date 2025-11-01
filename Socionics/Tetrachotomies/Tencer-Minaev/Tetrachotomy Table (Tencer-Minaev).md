@@ -607,12 +607,12 @@
     <tr>
     <td>Trained by Stress</td>
       <td>Irrational</td><td>Rational</td><td>Result</td>
-      <td>SLE</td><td>IEI</td><td>IEE</td><td>SLI</td>
+      <td>ESE</td><td>LII</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
 	 <td>Resistant Stress</td>
       <td>Rational</td><td>Irrational</td><td>Result</td>
-      <td>ESE</td><td>LII</td><td>LIE</td><td>ESI</td>
+      <td>SLE</td><td>IEI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
      <td>Vulnerable to Stress</td>
@@ -621,7 +621,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>22</b></td>
-      <td rowspan="2"><b>Club Displacement / Activity Orientation Shift / Social Orientation</b></td>
+      <td rowspan="2"><b>Positivity Groups</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/22.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -629,7 +629,7 @@
       <td><b>D</b></td><td><b>QAI</b></td><td><b>QAID</b></td>
       </tr>
 	 <tr>
-	 <td>Iridescent Hopes</td>
+	 <td></td>
       <td>Democratic</td><td>Positivist</td><td>Extroverted</td>
       <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
     </tr>
