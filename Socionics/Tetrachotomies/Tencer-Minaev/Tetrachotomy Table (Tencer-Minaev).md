@@ -658,17 +658,17 @@
       <td><b>QA</b></td><td><b>QI</b></td><td><b>AI</b></td>
       </tr>
 	 <tr>
-	 <td></td>
+	 <td>Merry Irrational</td>
       <td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td>
       <td>ILE</td><td>SEI</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
-    <td></td>
+    <td>Judicious Rational</td>
       <td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td>
       <td>ESE</td><td>LII</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
-	 <td></td>
+	 <td>Decisive Rational</td>
       <td>2ndGamma</td><td>2ndBeta</td><td>Rational</td>
       <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
     </tr>
