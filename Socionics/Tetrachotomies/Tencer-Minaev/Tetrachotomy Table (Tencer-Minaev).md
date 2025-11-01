@@ -404,10 +404,10 @@
     <tr>
     <td>NF "Implicit"</td>
       <td>1stInternal</td><td>Aristocratic</td><td>2ndInternal</td>
-      <td></td><td>LSI</td><td>LIE</td><td>LSE</td>
+      <td>EIE</td><td>SLE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Diplomatic (F-creative)</td>
+	 <td>Inert ST</td>
       <td>1stExternal</td><td>Democratic</td><td>2ndInternal</td>
       <td>SEI</td><td>IEI</td><td>SEE</td><td>IEE</td>
     </tr>
