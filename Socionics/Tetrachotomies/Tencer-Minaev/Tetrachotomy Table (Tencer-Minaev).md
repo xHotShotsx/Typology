@@ -230,7 +230,7 @@
     <tr>
     <td>T-base "Calculation"</td>
       <td>1stAbstract</td><td>1stExternal</td><td>Aristocratic</td>
-      <td>LII</td><td>LSI</td><td>EII</td><td>IEE</td>
+      <td>LII</td><td>LSI</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
 	 <td>F-base "Suggestion"</td>
