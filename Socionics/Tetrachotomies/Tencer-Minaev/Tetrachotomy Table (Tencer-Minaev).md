@@ -486,7 +486,7 @@
 	 <tr>
 	 <td></td>
       <td>1stInternal</td><td>2ndAbstract</td><td>Process</td>
-      <td></td><td>LSI</td><td>ILI</td><td>LSE</td>
+      <td>ILE</td><td></td><td>ILI</td><td>LSE</td>
     </tr>
     <tr>
     <td></td>
