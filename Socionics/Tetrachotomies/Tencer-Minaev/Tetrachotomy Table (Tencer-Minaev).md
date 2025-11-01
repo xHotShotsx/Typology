@@ -66,7 +66,7 @@
     <tr>
      <td></td>
       <td>Declaring</td><td>1stExternal</td><td>2ndBeta</td>
-      <td>SEI</td><td>IEI</td><td>ESI</td><td>EII</td>
+      <td>SEI</td><td>LSI</td><td>SLE</td><td>LIE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>3</b></td>
