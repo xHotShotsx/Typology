@@ -786,12 +786,12 @@
     <tr>
 	 <td>Ne/Fi Creative</td>
       <td>2ndDelta</td><td>Static</td><td>2ndExertnal</td>
-      <td>LII</td><td>SEE</td><td></td><td>IEE</td>
+      <td>LII</td><td>SEE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
      <td>Si/Te Creative</td>
       <td>2ndDelta</td><td>Dynamic</td><td>2ndInternal</td>
-      <td>ESE</td><td>EIE</td><td>ILI</td><td>SLI</td>
+      <td>ESE</td><td>ILI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>28</b></td>
