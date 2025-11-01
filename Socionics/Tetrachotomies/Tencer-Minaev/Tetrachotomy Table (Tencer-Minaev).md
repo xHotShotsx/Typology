@@ -254,20 +254,20 @@
 	 <tr>
 	 <td>NT "Cerebral"</td>
       <td>1stAbstract</td><td>Democratic</td><td>2ndAbstract</td>
-      <td>ILE</td><td>IEI</td><td>ILI</td><td>LIE</td>
+      <td>ILE</td><td>LII</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
-    <td></td>
+    <td>Inert NT</td>
       <td>1stAbstract</td><td>Aristocratic</td><td>2ndInvolved</td>
       <td>LII</td><td>EIE</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
 	 <td>SF "Visceral"</td>
       <td>1stInvolved</td><td>Democratic</td><td>2ndInvolved</td>
-      <td>SEI</td><td>SLE</td><td>SEE</td><td>SLI</td>
+      <td>SEI</td><td>ESE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
-     <td></td>
+     <td>Inert SF</td>
       <td>1stInvolved</td><td>Aristocratic</td><td>2ndAbstract</td>
       <td>ESE</td><td>LSI</td><td>ESI</td><td>LSE</td>
     </tr>
