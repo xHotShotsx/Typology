@@ -665,17 +665,17 @@
     <tr>
     <td></td>
       <td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td>
-      <td>ESE</td><td>LSI</td><td>IEE</td><td>SLI</td>
+      <td>ESE</td><td>LII</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
 	 <td></td>
       <td>2ndGamma</td><td>2ndBeta</td><td>Rational</td>
-      <td>SLE</td><td>IEI</td><td>LSE</td><td>EII</td>
+      <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
      <td></td>
       <td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td>
-      <td>ESE</td><td>LII</td><td>SEE</td><td>ILI</td>
+      <td>SEE</td><td>ILI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>24</b></td>
