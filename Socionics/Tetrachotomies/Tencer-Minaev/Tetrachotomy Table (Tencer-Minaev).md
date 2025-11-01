@@ -107,7 +107,7 @@
       <td><b>Q</b></td><td><b>AI</b></td><td><b>QAI</b></td>
       </tr>
 	 <tr>
-	 <td></td>
+	 <td>Iiridescent HGopes</td>
       <td>Asking</td><td>Democratic</td><td>Positivist</td>
       <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
     </tr>
