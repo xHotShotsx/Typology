@@ -281,22 +281,22 @@
       <td><b>A</b></td><td><b>QI</b></td><td><b>QAI</b></td>
       </tr>
 	 <tr>
-	 <td>Anticipatory</td>
+	 <td></td>
       <td>1stAbstract</td><td>2ndBeta</td><td>Positivist</td>
       <td>ILE</td><td>LSI</td><td>IEI</td><td>LIE</td>
     </tr>
     <tr>
-    <td>Cautionary</td>
+    <td></td>
       <td>1stAbstract</td><td>2ndDelta</td><td>Negativist</td>
-      <td>LII</td><td>EIE</td><td>ILI</td><td>IEE</td>
+      <td>LII</td><td>ILI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Preservative</td>
+	 <td></td>
       <td>1stInvolved</td><td>2ndBeta</td><td>Negativist</td>
       <td>SEI</td><td>SLE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
-     <td>Acquisitive</td>
+     <td></td>
       <td>1stInvolved</td><td>2ndDelta</td><td>Positivist</td>
       <td>ESE</td><td>LSI</td><td>SEE</td><td>SLI</td>
     </tr>
