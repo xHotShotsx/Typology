@@ -360,7 +360,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>13</b></td>
-      <td rowspan="2"><b>Base Function </b></td>
+      <td rowspan="2"><b>Base Function Democratic Order Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/13.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -368,22 +368,22 @@
       <td><b>A</b></td><td><b>QID</b></td><td><b>QAID</b></td>
       </tr>
 	 <tr>
-	 <td>Inventor</td>
+	 <td></td>
       <td>1stAbstract</td><td>1stDelta</td><td>Extroverted</td>
       <td>ILE</td><td>LII</td><td>EIE</td><td>IEI</td>
     </tr>
     <tr>
-    <td>Negotiator</td>
+    <td></td>
       <td>1stAbstract</td><td>1stBeta</td><td>Introverted</td>
       <td>ILI</td><td>LIE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Gatherer</td>
+	 <td></td>
       <td>1stInvolved</td><td>1stDelta</td><td>Introverted</td>
       <td>SEI</td><td>ESE</td><td>LSI</td><td>SLE</td>
     </tr>
     <tr>
-     <td>Processor</td>
+     <td></td>
       <td>1stInvolved</td><td>1stBeta</td><td>Extroverted</td>
       <td>SEE</td><td>ESI</td><td>LSE</td><td>SLI</td>
     </tr>
