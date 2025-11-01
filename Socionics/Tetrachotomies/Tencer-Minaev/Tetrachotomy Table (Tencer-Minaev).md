@@ -548,17 +548,17 @@
     </tr>
     <tr>
     <td>Unpredictable</td>
-      <td>Demcoratic</td><td>2ndGamma</td><td>1stGamma</td>
+      <td>Democratic</td><td>2ndGamma</td><td>1stGamma</td>
       <td>SLE</td><td>IEI</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
 	 <td>Controlling</td>
-      <td>Rational</td><td>2ndAlpha</td><td>1stGamma</td>
+      <td>Aristocratic</td><td>2ndAlpha</td><td>1stGamma</td>
       <td>EIE</td><td>LSI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
      <td>Conscientious</td>
-      <td>Rational</td><td>2ndGamma</td><td>1stAlpha</td>
+      <td>Aristocratic</td><td>2ndGamma</td><td>1stAlpha</td>
       <td>ESE</td><td>LII</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
