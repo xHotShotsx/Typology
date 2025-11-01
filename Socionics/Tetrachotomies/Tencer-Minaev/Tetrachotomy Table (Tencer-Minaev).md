@@ -109,12 +109,12 @@
 	 <tr>
 	 <td>Iridescent Hopes</td>
       <td>Asking</td><td>Democratic</td><td>Positivist</td>
-      <td>ILE</td><td>IEI</td><td>SEE</td><td>LIE</td>
+      <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Avoiding Failures</td>
       <td>Asking</td><td>Aristocratic</td><td>Negativist</td>
-      <td>EIE</td><td>SLE</td><td>LSE</td><td>IEE</td>
+      <td>LII</td><td>EIE</td><td>ESI</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Waiting</td>
