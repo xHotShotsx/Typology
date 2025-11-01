@@ -824,7 +824,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>29</b></td>
-      <td rowspan="2"><b>Social Progress Group</b></td>
+      <td rowspan="2"><b>Dual Axis (Asymmetric Process Passionarity Result Centrality)</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/29.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -832,22 +832,22 @@
       <td><b>QI</b></td><td><b>QAD</b></td><td><b>AID</b></td>
       </tr>
 	 <tr>
-	 <td>Process Periphery</td>
+	 <td></td>
       <td>2ndBeta</td><td>1stAlpha</td><td>Process</td>
       <td>ILE</td><td>SEI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
-    <td>Result Centre</td>
+    <td></td>
       <td>2ndBeta</td><td>1stGamma</td><td>Result</td>
       <td>SLE</td><td>IEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
-	 <td>Result Periphery</td>
+	 <td></td>
       <td>2ndDelta</td><td>1stAlpha</td><td>Result</td>
       <td>ESE</td><td>LII</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
-     <td>Process Centre</td>
+     <td></td>
       <td>2ndDelta</td><td>1stGamma</td><td>Process</td>
       <td>EIE</td><td>LSI</td><td>SEE</td><td>ILI</td>
     </tr>
