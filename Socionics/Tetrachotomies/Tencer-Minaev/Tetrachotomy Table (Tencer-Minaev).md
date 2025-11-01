@@ -542,22 +542,22 @@
       <td><b>D</b></td><td><b>QA</b></td><td><b>QAD</b></td>
       </tr>
 	 <tr>
-	 <td>Random</td>
+	 <td>Alpha Quadra</td>
       <td>Democratic</td><td>2ndAlpha</td><td>1stAlpha</td>
       <td>ILE</td><td>SEI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
-    <td>Unpredictable</td>
+    <td>Gamma Quadra</td>
       <td>Democratic</td><td>2ndGamma</td><td>1stGamma</td>
       <td>SLE</td><td>IEI</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
-	 <td>Controlling</td>
+	 <td>Evaluatory Alpha</td>
       <td>Aristocratic</td><td>2ndAlpha</td><td>1stGamma</td>
       <td>EIE</td><td>LSI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
-     <td>Conscientious</td>
+     <td>Evaluatory Gamma</td>
       <td>Aristocratic</td><td>2ndGamma</td><td>1stAlpha</td>
       <td>ESE</td><td>LII</td><td>LSE</td><td>EII</td>
     </tr>
