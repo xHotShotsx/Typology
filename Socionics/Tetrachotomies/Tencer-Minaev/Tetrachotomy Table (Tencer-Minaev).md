@@ -606,17 +606,17 @@
     </tr>
     <tr>
     <td>Resistant to Stress</td>
-      <td>Irrational</td><td>Aristocratic</td><td>Result</td>
+      <td>Irrational</td><td>Rational</td><td>Result</td>
       <td>SLE</td><td>IEI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Trained by Stress</td>
-      <td>Rational</td><td>Democratic</td><td>Result</td>
+      <td>Rational</td><td>Irrational</td><td>Result</td>
       <td>ESE</td><td>LII</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
      <td>Vulnerable to Stress</td>
-      <td>Rational</td><td>Aristocratic</td><td>Process</td>
+      <td>Rational</td><td>Rational</td><td>Process</td>
       <td>EIE</td><td>LSI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
@@ -862,17 +862,17 @@
       </tr>
 	 <tr>
 	 <td>Reorienters</td>
-      <td>Static</td><td>Democratic</td><td>Extroverted</td>
+      <td>Static</td><td>Irrational</td><td>Extroverted</td>
       <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
     <td>Foundationalists</td>
-      <td>Static</td><td>Aristocratic</td><td>Introverted</td>
+      <td>Static</td><td>Rational</td><td>Introverted</td>
       <td>LSI</td><td>SLE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Sharpeners</td>
-      <td>Dynamic</td><td>Democratic</td><td>Introverted</td>
+      <td>Dynamic</td><td>Irrational</td><td>Introverted</td>
       <td>SEI</td><td>ESE</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
