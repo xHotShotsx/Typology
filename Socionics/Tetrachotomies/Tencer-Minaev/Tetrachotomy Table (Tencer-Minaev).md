@@ -834,12 +834,12 @@
 	 <tr>
 	 <td></td>
       <td>2ndBeta</td><td>1stAlpha</td><td>Process</td>
-      <td>ILE</td><td>SEI</td><td>LSE</td><td>EII</td>
+      <td>ILE</td><td>SEI</td><td>EIE</td><td>LSI</td>
     </tr>
     <tr>
     <td></td>
       <td>2ndBeta</td><td>1stGamma</td><td>Result</td>
-      <td>SLE</td><td>IEI</td><td>LIE</td><td>ESI</td>
+      <td>SEI</td><td>IEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
 	 <td></td>
