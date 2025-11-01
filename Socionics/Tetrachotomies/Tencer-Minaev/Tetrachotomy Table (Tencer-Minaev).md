@@ -629,22 +629,22 @@
       <td><b>D</b></td><td><b>QAI</b></td><td><b>QAID</b></td>
       </tr>
 	 <tr>
-	 <td></td>
+	 <td>Approaching</td>
       <td>Democratic</td><td>Positivist</td><td>Extroverted</td>
-      <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
+      <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-    <td>Waiting</td>
+    <td>Abstaining</td>
       <td>Democratic</td><td>Negativist</td><td>Introverted</td>
-      <td>SEI</td><td>SLE</td><td>ESI</td><td>LSE</td>
+      <td>SEI</td><td>LII</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-	 <td>Realistic Plans</td>
+	 <td>Integrating</td>
       <td>Aristocratic</td><td>Positivist</td><td>Introverted</td>
       <td>ESE</td><td>LSI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
-     <td>Avoiding Failures</td>
+     <td>Shaping</td>
       <td>Aristocratic</td><td>Negativist</td><td>Extroverted</td>
       <td>LII</td><td>EIE</td><td>ESI</td><td>LSE</td>
     </tr>
