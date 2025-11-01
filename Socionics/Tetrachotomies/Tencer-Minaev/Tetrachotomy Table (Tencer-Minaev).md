@@ -399,12 +399,12 @@
 	 <tr>
 	 <td>Inert NF</td>
       <td>1stInternal</td><td>Democratic</td><td>2ndExternal</td>
-      <td>ILE</td><td>SLE</td><td>ILI</td><td>SLI</td>
+      <td>ILE</td><td>ESE</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
     <td>NF "Implicit"</td>
       <td>1stInternal</td><td>Aristocratic</td><td>2ndInternal</td>
-      <td>LII</td><td>LSI</td><td>LIE</td><td>LSE</td>
+      <td></td><td>LSI</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
 	 <td>Diplomatic (F-creative)</td>
@@ -412,7 +412,7 @@
       <td>SEI</td><td>IEI</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-     <td></td>
+     <td>ST "Explicit"</td>
       <td>1stExternal</td><td>Aristocratic</td><td>2ndExternal</td>
       <td>ESE</td><td>EIE</td><td>ESI</td><td>EII</td>
     </tr>
