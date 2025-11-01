@@ -1,2 +1,1 @@
 # Typology
-Get tampons immediately!!!!!!
