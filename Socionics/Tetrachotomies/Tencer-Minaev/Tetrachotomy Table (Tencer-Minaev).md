@@ -385,7 +385,7 @@
     <tr>
      <td></td>
       <td>1stInvolved</td><td>1stBeta</td><td>Extroverted</td>
-      <td>SEI</td><td>ESI</td><td>LSE</td><td>SLI</td>
+      <td>ESE</td><td>EIE</td><td>SLE</td><td>SEE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>14</b></td>
