@@ -664,12 +664,12 @@
     </tr>
     <tr>
     <td>Comportment</td>
-      <td>2ndAlpha</td><td>2ndDelta</td><td>Rati</td>
+      <td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td>
       <td>EIE</td><td>LSI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Attainment</td>
-      <td>2ndGamma</td><td>2ndBeta</td><td>Aristocratic</td>
+      <td>2ndGamma</td><td>2ndBeta</td><td>Rational</td>
       <td>SLE</td><td>IEI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
@@ -920,7 +920,7 @@
       </tr>
 	 <tr>
 	 <td>Implication</td>
-      <td>Democratic</td><td>2ndAbstract</td><td>2ndExternal</td>
+      <td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td>
       <td>ILE</td><td>ESE</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
