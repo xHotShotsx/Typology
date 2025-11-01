@@ -496,16 +496,16 @@
     <tr>
 	 <td></td>
       <td>1stExternal</td><td>2ndAbstract</td><td>Result</td>
-      <td>LII</td><td>SLE</td><td></td><td>IEE</td>
+      <td>LII</td><td>SLE</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
      <td></td>
       <td>1stExternal</td><td>2ndInvolved</td><td>Process</td>
-      <td>SEI</td><td>EIE</td><td>SEE</td><td>EII</td>
+      <td>SEI</td><td>LSI</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>18</b></td>
-      <td rowspan="2"><b>Self Actualisation</b></td>
+      <td rowspan="2"><b>Base Function Aristocratic Order Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/18.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -513,12 +513,12 @@
       <td><b>I</b></td><td><b>QAD</b></td><td><b>QAID</b></td>
       </tr>
 	 <tr>
-	 <td>Creation</td>
+	 <td></td>
       <td>1stInternal</td><td>1stAlpha</td><td>Extroverted</td>
       <td>ILE</td><td>LII</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
-    <td>Competition</td>
+    <td></td>
       <td>1stInternal</td><td>1stGamma</td><td>Introverted</td>
       <td>LSI</td><td>SLE</td><td>ILI</td><td>LIE</td>
     </tr>
