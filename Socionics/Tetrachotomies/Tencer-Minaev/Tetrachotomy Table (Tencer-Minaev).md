@@ -694,17 +694,17 @@
     <tr>
     <td>Si/Fe Creative</td>
       <td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td>
-      <td>SEI</td><td>ESE</td><td></td><td>SLI</td>
+      <td>SEI</td><td>ESE</td><td>IEI</td><td>LSE</td>
     </tr>
     <tr>
 	 <td>Se/Fi Creative</td>
       <td>2ndGamma</td><td>Static</td><td>2ndInvolved</td>
-      <td>LII</td><td>SLE</td><td>SEE</td><td>EII</td>
+      <td>LSI</td><td>SEE</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
      <td>Ni/Te Creative</td>
       <td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td>
-      <td>ESE</td><td>IEI</td><td>ILI</td><td>LSE</td>
+      <td>ESE</td><td>ILI</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>25</b></td>
@@ -737,7 +737,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>26</b></td>
-      <td rowspan="2"><b>(Undefined)</b></td>
+      <td rowspan="2"><b>Dual Axis (Asymmetric Process Centrality Result Passi</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/26.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
