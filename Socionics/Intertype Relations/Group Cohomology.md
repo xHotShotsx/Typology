@@ -24,7 +24,7 @@
 
 ### Group Notations
 
-- There exists in Socionics the group that comprises all classical intertype relations (ITRs) denoted $\mathbb{S}
+- There exists in Socionics the group that comprises all classical intertype relations (ITRs) denoted $\mathbb{S}$. This group's structure is isomorphic to 
 
 
 
