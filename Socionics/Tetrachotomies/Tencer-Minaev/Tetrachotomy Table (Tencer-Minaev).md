@@ -572,22 +572,22 @@
       </tr>
 	 <tr>
 	 <td>Self-Actualisation</td>
-      <td>Irrational</td><td>2ndBeta</td><td>1stDelta</td>
+      <td>Democratic</td><td>2ndBeta</td><td>1stDelta</td>
       <td>ILE</td><td>SEI</td><td>SLE</td><td>IEI</td>
     </tr>
     <tr>
     <td>Social Success</td>
-      <td>Irrational</td><td>2ndDelta</td><td>1stBeta</td>
+      <td>Democratic</td><td>2ndDelta</td><td>1stBeta</td>
       <td>SEE</td><td>ILI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Social Responsibility</td>
-      <td>Rational</td><td>2ndBeta</td><td>1stBeta</td>
+      <td>Aristocratic</td><td>2ndBeta</td><td>1stBeta</td>
       <td>LIE</td><td>ESI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
      <td>Spreading Principles</td>
-      <td>Rational</td><td>2ndDelta</td><td>1stDelta</td>
+      <td>Aristocratic</td><td>2ndDelta</td><td>1stDelta</td>
       <td>ESE</td><td>LII</td><td>EIE</td><td>LSI</td>
     </tr>
     <tr>
@@ -630,12 +630,12 @@
       </tr>
 	 <tr>
 	 <td>Iridescent Hopes</td>
-      <td>Irrational</td><td>Positivist</td><td>Extroverted</td>
+      <td>Democratic</td><td>Positivist</td><td>Extroverted</td>
       <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Waiting</td>
-      <td>Irrational</td><td>Negativist</td><td>Introverted</td>
+      <td>D</td><td>Negativist</td><td>Introverted</td>
       <td>SEI</td><td>SLE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
