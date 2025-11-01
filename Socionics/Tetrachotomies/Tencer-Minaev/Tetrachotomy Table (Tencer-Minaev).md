@@ -128,7 +128,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>5</b></td>
-      <td rowspan="2"><b>Ener</b></td>
+      <td rowspan="2"><b>Energy Democratic Revision Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/5.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -138,12 +138,12 @@
 	 <tr>
 	 <td></td>
       <td>Asking</td><td>2ndAbstract</td><td>1stAlpha</td>
-      <td>ILE</td><td>ESE</td><td>LSE</td><td>IEE</td>
+      <td>ILE</td><td>LII</td><td>LSI</td><td>IEE</td>
     </tr>
     <tr>
     <td></td>
       <td>Asking</td><td>2ndInvolved</td><td>1stGamma</td>
-      <td>EIE</td><td>SLE</td><td>SEE</td><td>LIE</td>
+      <td></td><td>SLE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
 	 <td></td>
