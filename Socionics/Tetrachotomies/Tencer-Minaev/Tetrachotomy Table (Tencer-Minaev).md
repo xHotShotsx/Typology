@@ -774,22 +774,22 @@
       <td><b>QI</b></td><td><b>QD</b></td><td><b>ID</b></td>
       </tr>
 	 <tr>
-	 <td></td>
+	 <td>Se/Ti Creative</td>
       <td>2ndBeta</td><td>Static</td><td>2ndExternal</td>
       <td>ILE</td><td>SLE</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
-    <td></td>
+    <td>Ni/Fe Creative</td>
       <td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td>
       <td>SEI</td><td>IEI</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
-	 <td></td>
+	 <td>Ne/Fi Creative</td>
       <td>2ndDelta</td><td>Static</td><td>2ndExternal</td>
       <td>LII</td><td>LSI</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
-     <td></td>
+     <td>Si/Te Creative</td>
       <td>2ndDelta</td><td>Dynamic</td><td>2ndInternal</td>
       <td>ESE</td><td>EIE</td><td>ILI</td><td>SLI</td>
     </tr>
@@ -803,12 +803,12 @@
       <td><b>QI</b></td><td><b>AD</b></td><td><b>QAID</b></td>
       </tr>
 	 <tr>
-	 <td></td>
+	 <td>Ne/Te Creative</td>
       <td>2ndBeta</td><td>2ndAbstract</td><td>Extroverted</td>
       <td>ILE</td><td>IEI</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
-    <td></td>
+    <td>Ni/Ti Creative</td>
       <td>2ndBeta</td><td>2ndInvolved</td><td>Introverted</td>
       <td>SEI</td><td>SLE</td><td>LIE</td><td>EII</td>
     </tr>
