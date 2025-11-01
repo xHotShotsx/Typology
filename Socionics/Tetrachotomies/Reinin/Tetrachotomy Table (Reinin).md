@@ -455,22 +455,22 @@
       <td><b>T</b></td><td><b>EP</b></td><td><b>ETP</b></td>
       </tr>
 	 <tr>
-	 <td>System Org</td>
+	 <td>System Organiser (Ti)</td>
       <td>Logical</td><td>Static</td><td>Merry</td>
       <td>ILE</td><td>LII</td><td>LSI</td><td>SLE</td>
     </tr>
     <tr>
-    <td>Passionate (4d-Fe)</td>
+    <td>Business Optimiser (Te)</td>
       <td>Logical</td><td>Dynamic</td><td>Serious</td>
       <td>ILI</td><td>LIE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Cold-blooded (4d-Ti)</td>
+	 <td>Behaviour Styliser (Fi)</td>
       <td>Ethical</td><td>Static</td><td>Serious</td>
       <td>SEE</td><td>ESI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-     <td>Sincere (4d-Fi)</td>
+     <td>Mood Inspirer (Fe)</td>
       <td>Ethical</td><td>Dynamic</td><td>Merry</td>
       <td>SEI</td><td>ESE</td><td>EIE</td><td>IEI</td>
     </tr>
