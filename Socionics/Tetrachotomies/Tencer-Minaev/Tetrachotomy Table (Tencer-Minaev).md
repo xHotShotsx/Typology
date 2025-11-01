@@ -453,9 +453,12 @@
       </tr>
       <tr>
       <td><b>I</b></td><td><b>QD</b></td><td><b>QID</b></td>
-      </tr><td>Uniqueness (4d-Ne)</td>
+      </tr>
+      <tr>
+      <td>Uniqueness (4d-Ne)</td>
       <td>Extroverted</td><td>1stAbstract</td><td>2ndAlpha</td>
       <td>ILE</td><td>EIE</td><td>LIE</td><td>IEE</td>
+      </tr>
 	 <tr>
 	 <td></td>
       <td>1stInternal</td><td>Static</td><td>1stDelta</td>
