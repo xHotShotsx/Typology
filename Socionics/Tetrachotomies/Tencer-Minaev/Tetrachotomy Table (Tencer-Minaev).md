@@ -223,17 +223,17 @@
       <td><b>A</b></td><td><b>I</b></td><td><b>AI</b></td>
       </tr>
 	 <tr>
-	 <td>N-base "</td>
+	 <td>N-base "Imagination"</td>
       <td>1stAbstract</td><td>1stInternal</td><td>Democratic</td>
       <td>ILE</td><td>LII</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
-    <td>Humanitarian</td>
+    <td>S-base "Sense"</td>
       <td>1stAbstract</td><td>1stExternal</td><td>Aristocratic</td>
       <td>EIE</td><td>IEI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Pragmatist</td>
+	 <td>T</td>
       <td>1stInvolved</td><td>1stInternal</td><td>Aristocratic</td>
       <td>LSI</td><td>SLE</td><td>LSE</td><td>SLI</td>
     </tr>
