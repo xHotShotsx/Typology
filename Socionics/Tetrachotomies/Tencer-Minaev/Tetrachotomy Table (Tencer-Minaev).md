@@ -244,7 +244,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>9</b></td>
-      <td rowspan="2"><b>Irrational Faculty / Perceptual Groups / Time Strategy</b></td>
+      <td rowspan="2"><b>Democratic Clubs and Aristocratic Array Groups</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/9.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
