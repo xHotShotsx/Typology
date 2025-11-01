@@ -679,7 +679,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>24</b></td>
-      <td rowspan="2"><b>(Undefined)</b></td>
+      <td rowspan="2"><b>Creative Function Democratic Revision Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/24.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -687,22 +687,22 @@
       <td><b>QA</b></td><td><b>QD</b></td><td><b>AD</b></td>
       </tr>
 	 <tr>
-	 <td></td>
+	 <td>Ne/Ti Creative</td>
       <td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td>
       <td>ILE</td><td>LSI</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
-    <td></td>
+    <td>Si/Fe Creative</td>
       <td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td>
       <td>SEI</td><td>EIE</td><td>LIE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td></td>
+	 <td>Se/Fi Creative</td>
       <td>2ndGamma</td><td>Static</td><td>2ndInvolved</td>
       <td>LII</td><td>SLE</td><td>SEE</td><td>EII</td>
     </tr>
     <tr>
-     <td></td>
+     <td>Ni/Te Creative</td>
       <td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td>
       <td>ESE</td><td>IEI</td><td>ILI</td><td>LSE</td>
     </tr>
