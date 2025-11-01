@@ -460,17 +460,17 @@
       <td>ILE</td><td>ESI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-    <td></td>
+    <td>Ni/Fe Base</td>
       <td>1stInternal</td><td>Dynamic</td><td>1stBeta</td>
       <td>ESE</td><td>EIE</td><td>IEI</td><td>ILI</td>
     </tr>
     <tr>
-	 <td></td>
+	 <td>Se/Ti Base</td>
       <td>1stExternal</td><td>Static</td><td>1stBeta</td>
       <td>LII</td><td>LSI</td><td>SLE</td><td>SEE</td>
     </tr>
     <tr>
-     <td></td>
+     <td>Si/Te Base</td>
       <td>1stExternal</td><td>Dynamic</td><td>1stDelta</td>
       <td>SEI</td><td>LIE</td><td>LSE</td><td>SLI</td>
     </tr>
@@ -513,22 +513,22 @@
       <td><b>I</b></td><td><b>QAD</b></td><td><b>QAID</b></td>
       </tr>
 	 <tr>
-	 <td></td>
+	 <td>Ne/Fe Base</td>
       <td>1stInternal</td><td>1stAlpha</td><td>Extroverted</td>
       <td>ILE</td><td>ESE</td><td>EIE</td><td>IEE</td>
     </tr>
     <tr>
-    <td></td>
+    <td>Ni/Fi Base</td>
       <td>1stInternal</td><td>1stGamma</td><td>Introverted</td>
       <td>IEI</td><td>ILI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
-	 <td></td>
+	 <td>Si/Ti Base</td>
       <td>1stExternal</td><td>1stAlpha</td><td>Introverted</td>
       <td>SEI</td><td>LII</td><td>LSI</td><td>SLI</td>
     </tr>
     <tr>
-     <td></td>
+     <td>Se/Fe Base</td>
       <td>1stExternal</td><td>1stGamma</td><td>Extroverted</td>
       <td>SLE</td><td>SEE</td><td>LIE</td><td>LSE</td>
     </tr>
