@@ -635,17 +635,17 @@
     </tr>
     <tr>
     <td>Waiting</td>
-      <td>D</td><td>Negativist</td><td>Introverted</td>
+      <td>Democratic</td><td>Negativist</td><td>Introverted</td>
       <td>SEI</td><td>SLE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
 	 <td>Realistic Plans</td>
-      <td>Rational</td><td>Positivist</td><td>Introverted</td>
+      <td>Aristocratic</td><td>Positivist</td><td>Introverted</td>
       <td>ESE</td><td>LSI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
      <td>Avoiding Failures</td>
-      <td>Rational</td><td>Negativist</td><td>Extroverted</td>
+      <td>Aristocratic</td><td>Negativist</td><td>Extroverted</td>
       <td>LII</td><td>EIE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
@@ -659,12 +659,12 @@
       </tr>
 	 <tr>
 	 <td>Retention</td>
-      <td>2ndAlpha</td><td>2ndBeta</td><td>Democratic</td>
+      <td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td>
       <td>ILE</td><td>SEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
     <td>Comportment</td>
-      <td>2ndAlpha</td><td>2ndDelta</td><td>Aristocratic</td>
+      <td>2ndAlpha</td><td>2ndDelta</td><td>Rati</td>
       <td>EIE</td><td>LSI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
@@ -674,7 +674,7 @@
     </tr>
     <tr>
      <td>Lucidity</td>
-      <td>2ndGamma</td><td>2ndDelta</td><td>Democratic</td>
+      <td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td>
       <td>ESE</td><td>LII</td><td>SEE</td><td>ILI</td>
     </tr>
     <tr>
