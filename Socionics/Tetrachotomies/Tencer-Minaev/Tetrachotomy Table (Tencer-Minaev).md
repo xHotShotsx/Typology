@@ -926,12 +926,12 @@
     <tr>
     <td>F Creative</td>
       <td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td>
-      <td>SEI</td><td>IEI</td><td>SEE</td><td>LIE</td>
+      <td>SEI</td><td>IEI</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>N Creative</td>
       <td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td>
-      <td>LSI</td><td>IEI</td><td>LSE</td><td>IEE</td>
+      <td>LII</td><td>EIE</td><td></td><td>IEE</td>
     </tr>
     <tr>
      <td>S Creative</td>
