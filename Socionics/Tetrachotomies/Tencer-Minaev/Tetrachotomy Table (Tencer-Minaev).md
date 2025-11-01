@@ -805,17 +805,17 @@
 	 <tr>
 	 <td>Ne/Te Creative</td>
       <td>2ndBeta</td><td>2ndAbstract</td><td>Extroverted</td>
-      <td>ILE</td><td>IEI</td><td>ESI</td><td>LSE</td>
+      <td>ILE</td><td>EIE</td><td>SLE</td><td>LIE</td>
     </tr>
     <tr>
     <td>Ni/Ti Creative</td>
       <td>2ndBeta</td><td>2ndInvolved</td><td>Introverted</td>
-      <td>SEI</td><td>SLE</td><td>LIE</td><td>EII</td>
+      <td>SEI</td><td>LSI</td><td>IEI</td><td>ESI</td>
     </tr>
     <tr>
 	 <td>Si/Fi Creative</td>
       <td>2ndDelta</td><td>2ndAbstract</td><td>Introverted</td>
-      <td>ESE</td><td>LSI</td><td>ILI</td><td>IEE</td>
+      <td>LII</td><td>ILI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
      <td>Se/Fe Creative</td>
