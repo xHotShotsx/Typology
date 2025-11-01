@@ -288,12 +288,12 @@
     <tr>
     <td></td>
       <td>1stAbstract</td><td>2ndDelta</td><td>Negativist</td>
-      <td>LII</td><td>ILI</td><td>LIE</td><td>LSE</td>
+      <td>LII</td><td>ILI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td></td>
       <td>1stInvolved</td><td>2ndBeta</td><td>Negativist</td>
-      <td>SEI</td><td>ES</td><td>ESI</td><td>EII</td>
+      <td>SEI</td><td>EIE</td><td>SLE</td><td>ESI</td>
     </tr>
     <tr>
      <td></td>
@@ -302,7 +302,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>11</b></td>
-      <td rowspan="2"><b>Ego Irrational Element / Romance Style / Psychoanalytic Groups</b></td>
+      <td rowspan="2"><b>Base Function Democratic Revision Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/11.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -310,22 +310,22 @@
       <td><b>A</b></td><td><b>QD</b></td><td><b>QAD</b></td>
       </tr>
 	 <tr>
-	 <td>Childlike (Ne)</td>
+	 <td></td>
       <td>1stAbstract</td><td>Static</td><td>1stAlpha</td>
       <td>ILE</td><td>LII</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-    <td>Victim (Ni)</td>
+    <td>)</td>
       <td>1stAbstract</td><td>Dynamic</td><td>1stGamma</td>
       <td>EIE</td><td>IEI</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
-	 <td>Aggressor (Se)</td>
+	 <td></td>
       <td>1stInvolved</td><td>Static</td><td>1stGamma</td>
       <td>LSI</td><td>SLE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
-     <td>Caring (Si)</td>
+     <td></td>
       <td>1stInvolved</td><td>Dynamic</td><td>1stAlpha</td>
       <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
     </tr>
