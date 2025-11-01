@@ -225,12 +225,12 @@
 	 <tr>
 	 <td>N-base "Imagination"</td>
       <td>1stAbstract</td><td>1stInternal</td><td>Democratic</td>
-      <td>ILE</td><td>LII</td><td>ILI</td><td>LIE</td>
+      <td>ILE</td><td>IEI</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
     <td>T-base "Calculation"</td>
       <td>1stAbstract</td><td>1stExternal</td><td>Aristocratic</td>
-      <td>EIE</td><td>IEI</td><td>EII</td><td>IEE</td>
+      <td>LII</td><td>LSI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>F-base "Suggestion"</td>
