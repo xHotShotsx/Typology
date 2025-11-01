@@ -148,7 +148,7 @@
     <tr>
 	 <td></td>
       <td>Declaring</td><td>2ndAbstract</td><td>1stGamma</td>
-      <td>SEI</td><td>SLE</td><td></td><td>SLI</td>
+      <td>SLE</td><td>ILI</td><td>LIE</td><td>EIIJ</td>
     </tr>
     <tr>
      <td></td>
