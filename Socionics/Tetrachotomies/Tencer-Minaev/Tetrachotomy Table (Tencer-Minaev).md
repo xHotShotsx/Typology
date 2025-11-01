@@ -863,7 +863,7 @@
 	 <tr>
 	 <td>Flexible Manoeuvring</td>
       <td>Static</td><td>Irrational</td><td>Extroverted</td>
-      <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
+      <td>ILE</td><td>SLE</td><td>SEE</td><td>IEE</td>
     </tr>
     <tr>
     <td>Balanced Stable</td>
@@ -873,12 +873,12 @@
     <tr>
 	 <td>Receptive Adaptive</td>
       <td>Dynamic</td><td>Irrational</td><td>Introverted</td>
-      <td>SEI</td><td>ESE</td><td>ILI</td><td>LIE</td>
+      <td></td><td>ESE</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
-     <td>:L</td>
+     <td>Linear Assertive</td>
       <td>Dynamic</td><td>Rational</td><td>Extroverted</td>
-      <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
+      <td>ESE</td><td>EIE</td><td>LIE</td><td>LSE</td>
     </tr>
     <tr>
       <td rowspan="6"><b>31</b></td>
