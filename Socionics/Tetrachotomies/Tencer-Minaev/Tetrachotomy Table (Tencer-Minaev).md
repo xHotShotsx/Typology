@@ -925,7 +925,7 @@
     </tr>
     <tr>
     <td>Explication</td>
-      <td>Democratic</td><td>2ndInvolved</td><td>2ndInternal</td>
+      <td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td>
       <td>SEI</td><td>LII</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
