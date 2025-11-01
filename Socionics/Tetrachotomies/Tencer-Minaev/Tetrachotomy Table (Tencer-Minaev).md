@@ -138,7 +138,7 @@
 	 <tr>
 	 <td></td>
       <td>Asking</td><td>2ndAbstract</td><td>1stAlpha</td>
-      <td>ILE</td><td>LII</td><td>LSI</td><td>IEE</td>
+      <td>ILE</td><td>LII</td><td>EIE</td><td>SLI</td>
     </tr>
     <tr>
     <td></td>
@@ -148,7 +148,7 @@
     <tr>
 	 <td></td>
       <td>Declaring</td><td>2ndAbstract</td><td>1stGamma</td>
-      <td>LSI</td><td>IEI</td><td>ILI</td><td>ESI</td>
+      <td></td><td>IEI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
      <td></td>
