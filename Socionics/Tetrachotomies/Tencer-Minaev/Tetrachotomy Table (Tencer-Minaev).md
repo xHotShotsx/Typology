@@ -262,7 +262,7 @@
       <td>LII</td><td>EIE</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
-	 <td></td>
+	 <td>SF "Visceral"</td>
       <td>1stInvolved</td><td>Democratic</td><td>2ndInvolved</td>
       <td>SEI</td><td>SLE</td><td>SEE</td><td>SLI</td>
     </tr>
@@ -853,7 +853,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>30</b></td>
-      <td rowspan="2"><b>Challenge Response Groups</b></td>
+      <td rowspan="2"><b>Temperament</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/30.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -877,7 +877,7 @@
     </tr>
     <tr>
      <td>Slackeners</td>
-      <td>Dynamic</td><td>Aristocratic</td><td>Extroverted</td>
+      <td>Dynamic</td><td>Rational</td><td>Extroverted</td>
       <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
