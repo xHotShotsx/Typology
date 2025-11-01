@@ -868,12 +868,12 @@
     <tr>
     <td>Balanced Stable</td>
       <td>Static</td><td>Rational</td><td>Introverted</td>
-      <td>LSI</td><td>SLE</td><td>EII</td><td>IEE</td>
+      <td>LII</td><td>LSI</td><td>ESI</td><td>EII</td>
     </tr>
     <tr>
 	 <td>Receptive Adaptive</td>
       <td>Dynamic</td><td>Irrational</td><td>Introverted</td>
-      <td></td><td>ESE</td><td>ILI</td><td>LIE</td>
+      <td>SEI</td><td>IEI</td><td>ILI</td><td>SLI</td>
     </tr>
     <tr>
      <td>Linear Assertive</td>
