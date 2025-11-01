@@ -969,7 +969,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>34</b></td>
-      <td rowspan="2"><b>Energetic Democratic OR</b></td>
+      <td rowspan="2"><b>Energetic Democratic Order Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/34.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -998,7 +998,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>35</b></td>
-      <td rowspan="2"><b></b></td>
+      <td rowspan="2"><b>Energy Aristocratic Order </b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/35.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
