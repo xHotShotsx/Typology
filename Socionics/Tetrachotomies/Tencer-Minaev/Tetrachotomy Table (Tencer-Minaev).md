@@ -919,22 +919,22 @@
       <td><b>AI</b></td><td><b>AD</b></td><td><b>ID</b></td>
       </tr>
 	 <tr>
-	 <td>I</td>
+	 <td>T Creative</td>
       <td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td>
       <td>ILE</td><td>ESE</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-    <td></td>
+    <td>F Creative</td>
       <td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td>
       <td>SEI</td><td>LII</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-	 <td></td>
+	 <td>N Creative</td>
       <td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td>
       <td>LSI</td><td>IEI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-     <td></td>
+     <td>S Creative</td>
       <td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td>
       <td>EIE</td><td>SLE</td><td>EII</td><td>SLI</td>
     </tr>
@@ -998,7 +998,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>35</b></td>
-      <td rowspan="2"><b>Energy Aristocratic Order </b></td>
+      <td rowspan="2"><b>Energy Aristocratic Order Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/35.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
