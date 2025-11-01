@@ -370,12 +370,12 @@
 	 <tr>
 	 <td></td>
       <td>1stAbstract</td><td>1stDelta</td><td>Extroverted</td>
-      <td>ILE</td><td>LII</td><td>EIE</td><td>IEI</td>
+      <td>ILE</td><td>LIE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
     <td></td>
       <td>1stAbstract</td><td>1stBeta</td><td>Introverted</td>
-      <td>ILI</td><td>LIE</td><td>EII</td><td>IEE</td>
+      <td>LII</td><td>LIE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
 	 <td></td>
