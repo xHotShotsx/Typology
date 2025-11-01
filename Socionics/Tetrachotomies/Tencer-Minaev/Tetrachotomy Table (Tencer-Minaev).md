@@ -457,22 +457,22 @@
 	 <tr>
 	 <td>Ne/Fi Base</td>
       <td>1stInternal</td><td>Static</td><td>1stDelta</td>
-      <td>ILE</td><td>LII</td><td>LSI</td><td>SLE</td>
+      <td>ILE</td><td>ESI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
     <td>Si/Te Base</td>
       <td>1stInternal</td><td>Dynamic</td><td>1stBeta</td>
-      <td>ILI</td><td>LIE</td><td>LSE</td><td>SLI</td>
+      <td>ESE</td><td>EIE</td><td>IEI</td><td>ILI</td>
     </tr>
     <tr>
 	 <td>Ti/Se Base</td>
       <td>1stExternal</td><td>Static</td><td>1stBeta</td>
-      <td>SEE</td><td>ESI</td><td>EII</td><td>IEE</td>
+      <td>LII</td><td>LSI</td><td>SLE</td><td>SEE</td>
     </tr>
     <tr>
-     <td>Fe/Ni Bas</td>
+     <td>Fe/Ni Base</td>
       <td>1stExternal</td><td>Dynamic</td><td>1stDelta</td>
-      <td>SEI</td><td>ESE</td><td>EIE</td><td>IEI</td>
+      <td>SEI</td><td>LIE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
       <td rowspan="6"><b>17</b></td>
