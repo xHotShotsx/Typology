@@ -418,7 +418,7 @@
     </tr>
     <tr>
       <td rowspan="6"><b>15</b></td>
-      <td rowspan="2"><b>Excitable </b></td>
+      <td rowspan="2"><b>Excitable Aristocratic Order Pairs</b></td>
       <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/15.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -428,17 +428,17 @@
 	 <tr>
 	 <td>Acting</td>
       <td>1stInternal</td><td>2ndAlpha</td><td>Positivist</td>
-      <td>ILE</td><td>LSI</td><td>LIE</td><td>SLI</td>
+      <td>ILE</td><td>ESE</td><td>IEI</td><td>EII</td>
     </tr>
     <tr>
     <td>Opposing</td>
       <td>1stInternal</td><td>2ndGamma</td><td>Negativist</td>
-      <td>LII</td><td>SLE</td><td>ILI</td><td>LSE</td>
+      <td>EIE</td><td>ILI</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Repelling from Others</td>
       <td>1stExternal</td><td>2ndAlpha</td><td>Negativist</td>
-      <td>SEE</td><td>EIE</td><td>ESI</td><td>IEE</td>
+      <td>SEI</td><td>EIE</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
      <td>Endearing</td>
