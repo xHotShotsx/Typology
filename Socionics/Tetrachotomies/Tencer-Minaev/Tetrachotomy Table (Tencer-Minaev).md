@@ -813,12 +813,12 @@
       <td>SEI</td><td>SLE</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
-	 <td></td>
+	 <td>Si/Fi Creative</td>
       <td>2ndDelta</td><td>2ndAbstract</td><td>Introverted</td>
       <td>ESE</td><td>LSI</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
-     <td></td>
+     <td>Se/Fe Creative</td>
       <td>2ndDelta</td><td>2ndInvolved</td><td>Extroverted</td>
       <td>LII</td><td>EIE</td><td>SEE</td><td>SLI</td>
     </tr>
@@ -861,22 +861,22 @@
       <td><b>QD</b></td><td><b>AI</b></td><td><b>QAID</b></td>
       </tr>
 	 <tr>
-	 <td>Reorienters</td>
+	 <td>Flexible Manoeuvring</td>
       <td>Static</td><td>Irrational</td><td>Extroverted</td>
       <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
-    <td>Foundationalists</td>
+    <td>Balanced Stable</td>
       <td>Static</td><td>Rational</td><td>Introverted</td>
       <td>LSI</td><td>SLE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Sharpeners</td>
+	 <td>Receptive Adaptive</td>
       <td>Dynamic</td><td>Irrational</td><td>Introverted</td>
       <td>SEI</td><td>ESE</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
-     <td>Slackeners</td>
+     <td>:L</td>
       <td>Dynamic</td><td>Rational</td><td>Extroverted</td>
       <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
     </tr>
