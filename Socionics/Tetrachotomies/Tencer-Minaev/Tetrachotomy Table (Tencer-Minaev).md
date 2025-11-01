@@ -312,12 +312,12 @@
 	 <tr>
 	 <td></td>
       <td>1stAbstract</td><td>Static</td><td>1stAlpha</td>
-      <td>ILE</td><td>LII</td><td>EII</td><td>IEE</td>
+      <td>ILE</td><td>LII</td><td>IEI</td><td>LSE</td>
     </tr>
     <tr>
-    <td>)</td>
+    <td></td>
       <td>1stAbstract</td><td>Dynamic</td><td>1stGamma</td>
-      <td>EIE</td><td>IEI</td><td>ILI</td><td>LIE</td>
+      <td>IEI</td><td>ILI</td><td>LIE</td><td>LIE</td>
     </tr>
     <tr>
 	 <td></td>
