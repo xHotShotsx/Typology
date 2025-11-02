@@ -62,6 +62,8 @@ $H^0(\mathcal{D}_{i}, \mathbb{S})$ is the 0th cohomology group associated with t
 $I_{\mathcal{D}_i}$ is an abelian subgroup of $\mathbb{S}$ and is isomorphic to $\mathbb{Z}_2^n$. We can therefore treat it as an $\mathbb{F}_2$-module in its own right.
 
 
+## Nopn
+
 ## Universal Invariant Core
 
 The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}$$
