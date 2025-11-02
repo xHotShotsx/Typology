@@ -82,7 +82,7 @@ $q = (0, 0, 0, 1)$
 $x = (1, 0, 0, 0)$
 
 
-#### Noninvariant Coset of $I_{\mathcal{D}_{{15}}}$
+#### $r I_{\mathcal{D}_{{15}}}$
 ##### For Irrational Types
 
 $S = (1, 0, 1, 1)$
