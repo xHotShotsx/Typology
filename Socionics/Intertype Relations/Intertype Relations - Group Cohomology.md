@@ -55,4 +55,4 @@ The action of the dichotomy system on the ITR group is given by a homomorphism $
 
 # $H^0$ (0th cohomology)
 
-$H^0(\mathcal{D}_{i}, \mathbb{S})$ is the 0th cohomology of when a dichotomy system $\mathcal{D}_i$ acts on the classical group of intertype relations $\mathbb{S}$. 
+$H^0(\mathcal{D}_{i}, \mathbb{S})$ is the 0th cohomology of when a dichotomy system $\mathcal{D}_i$ acts on the classical group of intertype relations $\mathbb{S}$. This is, by def
