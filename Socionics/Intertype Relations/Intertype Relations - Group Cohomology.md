@@ -28,6 +28,37 @@
 - $\mathfrak{D}$: This already has been defined. Its group structure is $E_{16}$ (elementary abelian group of order 16), which is also isomorphic to $C_2^4$.
 	- Note: $\mathcal{D}_i$ is any of the 16 dichotomy systems, with $i \in \mathcal{D}$ specifying the dichotomy system.
 
+### Elements of $\mathbb{S}$:
+
+$e$ = identity
+**
+
+e = identity
+d = dual
+a = activator
+m = mirror
+g = superego
+c = conflictor
+q = quasi-identical
+
+x = extinguishment
+
+S = supervisor
+
+B = benefactor
+
+k = kindred
+
+h = semidual, or half-dual
+
+s = supervisee
+
+b = beneficiary
+
+l = business, or lookalike
+
+i = mirage, or illusory**
+
 
 # The Homomorphism
 
