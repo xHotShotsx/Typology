@@ -68,6 +68,14 @@ $I_{\mathcal{D}_i}$ is an abelian subgroup of $\mathbb{S}$ and is isomorphic to 
 The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}$$
 This "identity-superego" pair is fixed by all $\mathfrak{D}$-modules. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} = \bigcap_{i}H^0(\mathcal{D}_{i}, \mathbb{S})$$
 
+e=(0, 0, 0, 0)
+d=(1, 1, 1, 0)
+g=(0, 1, 1, 0)
+x=(1, 0, 0, 0)
+k=(1, 0, 0, 1)
+h=(0, 1, 1, 1)$
+$l = (1, 1, 1, 1)$
+$i = (0, 0, 0, 1)$
 ## Reinin Space ($\mathcal{D}_{15}$)
 ### Generators Used: (E, N, T, P)
 #### $I_{\mathcal{D}_{15}}$ (Democratic/Aristocratic)
