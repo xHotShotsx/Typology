@@ -60,7 +60,7 @@ $I_{\mathcal{D}_i}$ is an abelian subgroup of $\mathbb{S}$ and is isomorphic to 
 
 ## Universal Invariant Core
 
-The universal invariant core of $\mathbb{S}$ preserved by all $
+The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{univ} := <e, g> $$
 
 
 
