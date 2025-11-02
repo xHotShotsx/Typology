@@ -59,7 +59,7 @@ The action of the dichotomy system on the ITR group is given by a homomorphism $
 # $H^0$ (0th cohomology)
 
 $H^0(\mathcal{D}_{i}, \mathbb{S})$ is the 0th cohomology group associated with the action of a dichotomy system $\mathcal{D}_{i}$ on the classical group of intertype relations $\mathbb{S}$. It is, by definition, the subgroup of all elements of $\mathbb{S}$ that are invariant under the action of $\mathcal{D}_{i}$ through the homomorphism $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$. This can be denoted as $I_{\mathcal{D}_{i}}$. Formally, this is denoted: $$I_{\mathcal{D}_i} := H^0(\mathcal{D_{i}, \mathbb{S}}) := \{r \in \mathbb{S} \ | \ \varphi(d)(r) = r, \ \forall d \in \mathcal{D}_{i}\}.$$
-The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: $$r I_{\mathcal{D}_{i} := }$$ 
+The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: $$r I_{\mathcal{D}_{i}} := $$ 
 
 $I_{\mathcal{D}_i}$ is an abelian subgroup of $\mathbb{S}$ and is isomorphic to $\mathbb{Z}_2^n$. We can therefore treat it as an $\mathbb{F}_2$-module in its own right.
 
