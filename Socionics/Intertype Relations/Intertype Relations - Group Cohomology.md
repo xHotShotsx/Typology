@@ -83,6 +83,9 @@ $i = (0, 0, 0, 1)$
 
 #### $r I_{\mathcal{D}_{14}}$
 ##### For Democratic Types
+$$
+$$
+$$
 
 
 ## Reinin Space ($\mathcal{D}_{15}$)
