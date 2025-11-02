@@ -71,6 +71,11 @@ This "identity-superego" pair is fixed by all $\mathfrak{D}$-modules. It's the p
 ### Generators Used: (E, N, T, P)
 #### $I_{\mathcal{D}_{15}}$ (Democratic/Aristocratic)
 
-$e = ()$
+$e = (0, 0, 0, 0)$
+$d = (1, 1, 1, 0)$
+$a = (0, 1, 1, 1)$
+$m = (1, 0, 0, 1)$
+$g = (0, 1, 1, 0)$
+$c = 
 
 
