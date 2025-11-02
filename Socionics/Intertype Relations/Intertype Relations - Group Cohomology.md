@@ -81,7 +81,9 @@ $h = (0, 1, 1, 1)$
 $l = (1, 1, 1, 1)$
 $i = (0, 0, 0, 1)$
 
-#### $
+#### $r I_{\mathcal{D}_{14}}$
+##### For Democratic Types
+
 
 ## Reinin Space ($\mathcal{D}_{15}$)
 ### Generators Used: (E, N, T, P)
