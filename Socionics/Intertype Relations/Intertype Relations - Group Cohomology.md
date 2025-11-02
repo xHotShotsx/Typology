@@ -59,3 +59,5 @@ $H^0(\mathcal{D}_{i}, \ \mathbb{S})$ is the 0th cohomology group associated with
 $I_{\mathcal{D}_i}$ is an abelian subgroup of $\mathbb{S}$ and is isomorphic to $\mathbb{Z}_2^n$. We can therefore treat it as an $\mathbb{F}_2$-module in its own right.
 
 
+
+
