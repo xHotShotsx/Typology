@@ -69,6 +69,7 @@ The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is
 This "identity-superego" pair is fixed by all $\mathfrak{D}$-modules. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} = \bigcap_{i}H^0(\mathcal{D}_{i}, \mathbb{S})$$
 
 
+## Tencer-Minaev Space ($\mathcal{D}_{14}}$)
 $e = (0, 0, 0, 0)$
 $d = (1, 1, 1, 0)$
 $g = (0, 1, 1, 0)$
@@ -77,6 +78,7 @@ $k = (1, 0, 0, 1)$
 $h = (0, 1, 1, 1)$
 $l = (1, 1, 1, 1)$
 $i = (0, 0, 0, 1)$
+
 ## Reinin Space ($\mathcal{D}_{15}$)
 ### Generators Used: (E, N, T, P)
 #### $I_{\mathcal{D}_{15}}$ (Democratic/Aristocratic)
