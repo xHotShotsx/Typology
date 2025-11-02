@@ -55,4 +55,4 @@ The action of the dichotomy system on the ITR group is given by a homomorphism $
 
 # $H^0$ (0th cohomology)
 
-$H^0$ 
+$H^0(\mathcal{D})$ 
