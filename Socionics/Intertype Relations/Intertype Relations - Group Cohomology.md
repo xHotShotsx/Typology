@@ -60,8 +60,8 @@ $I_{\mathcal{D}_i}$ is an abelian subgroup of $\mathbb{S}$ and is isomorphic to 
 
 ## Universal Invariant Core
 
-The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{univ} := \langle e, g \rangle \cong \mathbb{Z}_{2}$$
-This "identity-superego" pair is fixed by all $E_{16}$-modules. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$
+The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}$$
+This "identity-superego" pair is fixed by all $E_{16}$-modules. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} $$
 
 
 
