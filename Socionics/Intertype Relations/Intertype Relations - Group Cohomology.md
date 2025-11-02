@@ -81,6 +81,7 @@ $q = (0, 0, 0, 1)$
 $x = (1, 0, 0, 0)$
 
 
-#### Noninvariant Coset
+#### Noninvariant Coset of $I_{\mathcal{D}_{{15}}}$
+
 
 
