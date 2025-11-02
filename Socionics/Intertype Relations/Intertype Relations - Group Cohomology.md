@@ -72,6 +72,7 @@ This "identity-superego" pair is fixed by all $\mathfrak{D}$-modules. It's the p
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
+
 $e = (0, 0, 0, 0)$
 $d = (1, 1, 1, 0)$
 $g = (0, 1, 1, 0)$
@@ -83,6 +84,7 @@ $i = (0, 0, 0, 1)$
 
 #### $r I_{\mathcal{D}_{14}}$
 ##### For Democratic Types
+
 $a=(1, 1, 0, 0)$
 $m = (0, 0, 1, 0)$
 $c = (0, 1, 0, 0)$
@@ -93,6 +95,7 @@ $s = (1, 0, 1, 1)$
 $b = (0, 1, 0, 1)$
 
 ##### For Aristocratic Types
+
 $a=(1, 0, 1, 0)$
 $m = (0, 1, 0, 0)$
 $c = (0, 0, 1, 0)$
