@@ -81,7 +81,7 @@ $h = (0, 1, 1, 1)$
 $l = (1, 1, 1, 1)$
 $i = (0, 0, 0, 1)$
 
-
+#### $
 
 ## Reinin Space ($\mathcal{D}_{15}$)
 ### Generators Used: (E, N, T, P)
