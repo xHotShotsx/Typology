@@ -11,14 +11,17 @@
 
 ### Subscript Notation
 ### $\mathfrak{d}$
+
 - A dichotomy $\mathfrak{d}$ is $\{\mathfrak{d}_{0}, \mathfrak{d}_{1}\}$ where $\mathfrak{d}_0$ and $\mathfrak{d}_1$ are compliments inside a boolean lattice.
 - Since the boolean lattice of dichotomies is isomorphic to the vector space over $\mathbb{F}_{2}$, XOR addition naturally defines the group operation assigning 0 and 1 values to each dichotomy.
 - For historical reasons, we will let ILE be the 0 vector.
 
 ### $\mathfrak{D}$
+
 - $\mathfrak{D}_{i}$ is any dichotomy that is preserved within a dichotomy space $\mathfrak{D}$, such that $\mathfrak{D}_i$ is any $\mathfrak{d} \in \mathfrak{D}$.
 
 ### $\mathcal{D}$
+
 - $\mathcal{D}_i$ refers to any of the 16 dichotomy systems that respect the symmetry of all orbital dichotomies.
 - Its indexing is based on the order used by Varlawend, i.e. $\mathcal{D}_{14}$ denotes the Tencer-Minaev space of dichotomies and $\mathcal{D}_{15}$ denotes the Reinin space of dichotomies.
 
