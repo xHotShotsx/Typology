@@ -68,8 +68,7 @@ The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is
 This "identity-superego" pair is fixed by all $\mathfrak{D}$-modules. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} = \bigcap_{i}H^0(\mathcal{D}_{i}, \mathbb{S})$$
 
 ## $I_{\mathcal{D}_{15}}$ (Democratic/Aristocratic)
-
-
+### Generators 
 
 
 
