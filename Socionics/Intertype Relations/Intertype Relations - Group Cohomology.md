@@ -45,7 +45,7 @@ $h$ = semidual, or half-dual
 $s$ = supervisee
 $b$ = beneficiary
 $l$ = business, or lookalike
-i$ = mirage, or illusory
+$i$ = mirage, or illusory
 
 
 # The Homomorphism
