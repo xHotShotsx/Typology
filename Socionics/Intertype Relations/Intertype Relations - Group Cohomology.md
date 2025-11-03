@@ -83,7 +83,14 @@ $d = (1, 1, 0, 0)$
 
 ##### For  -X5 Types
 
-$x = (1, 0, 0, 0)$
+$x = (1, 1, 0, 0)$
+$d = (1, 0, 1, 0)$
+
+#### Y8
+##### For +Y8 Types
+
+$b = (0, 1, 0, 1)$
+$B = (0,)
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
