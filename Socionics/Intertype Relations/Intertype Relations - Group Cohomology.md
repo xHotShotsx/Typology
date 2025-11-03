@@ -97,7 +97,16 @@ $B = (0, 0, 1, 1)$
 $b = (0, 0, 1, 1)$
 $B = (0, 1, 0, 1)$
 
-#####
+#### Z1
+##### For +Z1 Types
+
+$s = (1, 1, 1, 1)$
+$S = (1, 0, 0, 1)$
+
+##### For -Z1 Types
+
+$s = (1, 0, 0, 1)$
+$S = (1, )
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
