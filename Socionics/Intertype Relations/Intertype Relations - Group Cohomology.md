@@ -138,7 +138,9 @@ $c = (1, 0, 1, 1)$
 
 ##### For $-\Gamma 4$ Types
 
-$m = 
+$m = (1, 0, 1, 1)$
+$c = (1, 1, 0, 1)$
+
 
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
