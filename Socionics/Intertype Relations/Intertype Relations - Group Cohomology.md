@@ -120,15 +120,17 @@ $i = (1, 0, 0, 0)$
 $h = (1, 1, 1, 0))$
 
 #### B2
-##### For +B2 Types
+##### For $+B2$ Types
 
 $k = (0, 0, 1, 0)$
-$l = (0, 0, 1, 0)$
+$l = (0, 1, 0, 0)$
 
-##### For -B2 Types
+##### For $-B2$ Types
 
 $k = (0, 1, 0, 0)$
 $l = (0, 0, 1, 0)$
+
+#### $\Gamma 1$   
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
