@@ -90,7 +90,14 @@ $d = (1, 0, 1, 0)$
 ##### For +Y8 Types
 
 $b = (0, 1, 0, 1)$
-$B = (0,)
+$B = (0, 0, 1, 1)$
+
+##### For -Y8 Types
+
+$b = (0, 0, 1, 1)$
+$B = (0, 1, 0, 1)$
+
+#####
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
