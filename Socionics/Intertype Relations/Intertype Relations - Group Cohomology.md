@@ -130,9 +130,15 @@ $l = (0, 1, 0, 0)$
 $k = (0, 1, 0, 0)$
 $l = (0, 0, 1, 0)$
 
-#### $\Gamma 1$
-##### For $+\Gamma 1$ Types
+#### $\Gamma 4$
+##### For $+\Gamma 4$ Types
 
+$m = (1, 1, 0, 1)$
+$c = (1, 0, 1, 1)$
+
+##### For $-\Gamma 4$ Types
+
+$m = 
 
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
