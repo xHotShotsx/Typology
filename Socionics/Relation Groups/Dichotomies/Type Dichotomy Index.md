@@ -158,7 +158,7 @@ $\emptyset$ = Valid/Null
 
 ### 1st order dichotomy
 
-Q - Questim/Declatum or Asking/Declaring
+Q - Questim/Declatim or Asking/Declaring
 
 A - 1st Abstract/1st Involved
 
