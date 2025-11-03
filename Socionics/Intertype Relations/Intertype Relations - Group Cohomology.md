@@ -71,6 +71,8 @@ This "identity-superego" pair is fixed by all $\mathfrak{D}$-modules. It's the p
 ### Generators Used: (E, D, L, P)
 #### $I_{\mathcal{D}_1}$ (Same Superego)
 
+$e = (0, 0, 0, 0)$
+$g = (0, 1, 1, 0)$
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
