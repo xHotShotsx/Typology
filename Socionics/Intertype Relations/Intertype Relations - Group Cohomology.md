@@ -111,7 +111,18 @@ $S = (1, 1, 1, 1)$
 #### A2
 ##### For +A2 Types
 
-$i = (1, 1, 1, )
+$i = (1, 1, 1, 0)$
+$h = (1, 0, 0, 0)$
+
+##### For -A2 Types
+
+$i = (1, 0, 0, 0)$
+$h = (1, 1, 1, 0))$
+
+#### B2
+##### For +B2 Types
+
+$k = 
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
