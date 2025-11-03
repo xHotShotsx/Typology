@@ -143,11 +143,14 @@ $c = (1, 1, 0, 1)$
 
 #### $\Delta 1$
 ##### For $+\Delta 1$ Types
+
 $q = (0, 0, 0, 1)$
 $a = (0, 1, 1, 1)$
 
-##### For 
+##### For $-\Delta 1$ Types
 
+$q = (0, 1, 1, 1)$
+$a = (0, 0, 0, 1)$
 
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
@@ -185,6 +188,7 @@ $S = (1, 0, 1, 1)$
 $B = (0, 1, 0, 1)$
 $s = (1, 1, 0, 1)$
 $b = (0, 1, 0, 1)$
+
 
 ## Reinin Space ($\mathcal{D}_{15}$)
 ### Generators Used: (E, N, T, P)
