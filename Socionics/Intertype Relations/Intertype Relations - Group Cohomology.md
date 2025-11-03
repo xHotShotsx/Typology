@@ -81,7 +81,7 @@ $g = (0, 1, 1, 0)$
 $x = (1, 0, 1, 0)$
 $d = (1, 1, 0, 0)$
 
-##### For  -X5 Types
+##### For  $-X5$ Types
 
 $x = (1, 1, 0, 0)$
 $d = (1, 0, 1, 0)$
@@ -130,7 +130,10 @@ $l = (0, 1, 0, 0)$
 $k = (0, 1, 0, 0)$
 $l = (0, 0, 1, 0)$
 
-#### $\Gamma 1$   
+#### $\Gamma 1$
+##### For $+\Gamma 1$ Types
+
+
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
