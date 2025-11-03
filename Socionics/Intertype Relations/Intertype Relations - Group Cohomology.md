@@ -75,7 +75,13 @@ $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_1}$ (Selector = Across Superego)
-#### 
+#### X5
+##### For +X5 Types
+
+$x = (1, 0, 1, 0)$
+$d = (1, 1, 0, 0)$
+
+
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
