@@ -67,7 +67,7 @@ $I_{\mathcal{D}_i}$ is an abelian subgroup of $\mathbb{S}$ and is isomorphic to 
 
 The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}$$
 This "identity-superego" pair is fixed by all $\mathfrak{D}$-modules. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} = \bigcap_{i}H^0(\mathcal{D}_{i}, \mathbb{S})$$
-
+## IP 
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
