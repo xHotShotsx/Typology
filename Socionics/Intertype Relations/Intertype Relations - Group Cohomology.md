@@ -106,7 +106,12 @@ $S = (1, 0, 0, 1)$
 ##### For -Z1 Types
 
 $s = (1, 0, 0, 1)$
-$S = (1, )
+$S = (1, 1, 1, 1)$
+
+#### A2
+##### For +A2 Types
+
+$i = (1, 1, 1, )
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
