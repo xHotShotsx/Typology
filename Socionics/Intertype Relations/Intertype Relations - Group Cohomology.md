@@ -122,7 +122,13 @@ $h = (1, 1, 1, 0))$
 #### B2
 ##### For +B2 Types
 
-$k = 
+$k = (0, 0, 1, 0)$
+$l = (0, 0, 1, 0)$
+
+##### For -B2 Types
+
+$k = (0, 1, 0, 0)$
+$l = (0, 0, 1, 0)$
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
