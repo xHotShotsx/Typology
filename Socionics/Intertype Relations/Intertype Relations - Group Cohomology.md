@@ -164,6 +164,7 @@ $g=(0, 1, 1, 0)$
 $k=(0, 0, 1, 0)$
 $l=(0, 1, 0, 0)$
 
+#### $r I_$
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
