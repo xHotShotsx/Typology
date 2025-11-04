@@ -176,10 +176,11 @@ $i = (1, 0, 0, 0)$
 ###### For Rational Types
 
 $x = (1, 1, 0, 0)$
-$d = (1, 0, 0, 0)$
-$h = (1, 1, 1, 0)$
-$i = (1, 0, 0, 0)$
+$d = (1, 0, 1, 0)$
+$h = (1, 0, 0, 0)$
+$i = (1, 1, 1, 0)$
 
+##### Positivist/Negativist
 
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
