@@ -182,11 +182,33 @@ $i = (1, 1, 1, 0)$
 
 ##### Positivist/Negativist
 ###### For Positivist Types
+
 $a = (0, 1, 1, 1)$
 $q = (0, 0, 0, 1)$
 $B = (0, 0, 1, 1)$
 $b = (0, 1, 0, 1)$
 
+###### For Negativist Types
+
+$a = (0, 1, 1, 1)$
+$q = (0, 0, 0, 1)$
+$B = (0, 0, 1, 1)$
+$b = (0, 1, 0, 1)$
+
+##### Asking/Declaring
+###### For Asking Types
+
+$S = (1, 0, 0, 1)$
+$s = (1, 1, 1, 1)$
+$m = (1, 1, 0, 1)$
+$c = (1, 0, 1, 1)$
+
+###### For Declaring Types
+
+$S = (1, 0, 0, 1)$
+$s = (1, 1, 1, 1)$
+$m = (1, 1, 0, 1)$
+$c = (1, 0, 1, 1)$
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
