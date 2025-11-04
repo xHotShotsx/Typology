@@ -181,6 +181,11 @@ $h = (1, 0, 0, 0)$
 $i = (1, 1, 1, 0)$
 
 ##### Positivist/Negativist
+###### For Positivist Types
+$a = (0, 1, 1, 1)$
+$q = (0, 0, 0, 1)$
+$B = (0, 0, 1, 1)$
+$b = (0, 1, 0, 1)$
 
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
