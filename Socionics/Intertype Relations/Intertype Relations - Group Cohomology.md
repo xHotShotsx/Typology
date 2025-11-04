@@ -244,7 +244,16 @@ $d = (1, 0, 0, 0)$
 $k = (0, 1, 0, 0)$
 $l = (0, 0, 1, 0)$
 
+###### For Rational Types
+
+$x = (1, 0, 0, 0)$
+$d = (1, 1, 1, 0)$
+$k = (0, 0, 1, 0)$
+$l = (0, 1, 0, 0)$
+
+##### Static/Dynamic
 ######
+
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
