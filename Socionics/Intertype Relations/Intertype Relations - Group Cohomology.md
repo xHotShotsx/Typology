@@ -215,7 +215,7 @@ $c = (1. 1, 1, 1)$
 $q = (0, 0, 0, 1)$
 $x = (1, 0, 0, 0)$
 
-#### $r I_{\mathcal{D}_{{15}}}$
+#### $r I_{\mathcal{D}_{{15}}}$ (Selector = Irrational/Rational)
 ##### For Irrational Types
 
 $S = (1, 0, 1, 1)$
