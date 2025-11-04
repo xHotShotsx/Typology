@@ -157,7 +157,12 @@ $a = (0, 0, 0, 1)$
 
 ## Semidual Mirage HEF ($\mathcal{D}_{2}$)
 ### Generators Used: (E, L, S, P)
+#### $I_{\mathcal{D}_{2}}$ (Temperament)
 
+e=(0, 0, 0, 0)
+g=(0, 1, 1, 0)
+k=(0, 0, 1, 0)
+l=(0, 1, 0, 0)$
 
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
