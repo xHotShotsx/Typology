@@ -220,7 +220,8 @@ $g = (0, 1, 1, 0)$
 $h = (1, 1, 0, 0)$
 $i = (1, 0, 1, 0)$
 
-#### $r I_{\mathcal{D}_{3}}$ 
+#### $r I_{\mathcal{D}_{3}}$ (Selectors across Temperament)
+##### Extroversion
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
