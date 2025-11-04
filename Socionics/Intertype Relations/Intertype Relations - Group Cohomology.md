@@ -127,29 +127,29 @@ $h = (1, 1, 1, 0))$
 $k = (0, 0, 1, 0)$
 $l = (0, 1, 0, 0)$
 
-##### For $-B2$ Types
+###### For $-B2$ Types
 
 $k = (0, 1, 0, 0)$
 $l = (0, 0, 1, 0)$
 
-#### $\Gamma 4$
-##### For $+\Gamma 4$ Types
+##### $\Gamma 4$
+###### For $+\Gamma 4$ Types
 
 $m = (1, 1, 0, 1)$
 $c = (1, 0, 1, 1)$
 
-##### For $-\Gamma 4$ Types
+###### For $-\Gamma 4$ Types
 
 $m = (1, 0, 1, 1)$
 $c = (1, 1, 0, 1)$
 
-#### $\Delta 1$
-##### For $+\Delta 1$ Types
+##### $\Delta 1$
+###### For $+\Delta 1$ Types
 
 $q = (0, 0, 0, 1)$
 $a = (0, 1, 1, 1)$
 
-##### For $-\Delta 1$ Types
+###### For $-\Delta 1$ Types
 
 $q = (0, 1, 1, 1)$
 $a = (0, 0, 0, 1)$
@@ -159,15 +159,17 @@ $a = (0, 0, 0, 1)$
 ### Generators Used: (E, L, S, P)
 #### $I_{\mathcal{D}_{2}}$ (Temperament)
 
-$e=(0, 0, 0, 0)$
-$g=(0, 1, 1, 0)$
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$e = (0, 0, 0, 0)$
+$g = (0, 1, 1, 0)$
+$k = (0, 0, 1, 0)$
+$l = (0, 1, 0, 0)$
 
 #### $r I_{\mathcal{D}_{2}}$ (Selectors across Displacement)
 ##### Irrational/Rational
 ###### For Irrational Types
 
+$x = (1, 0, 1, 0)$
+$d = 
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
