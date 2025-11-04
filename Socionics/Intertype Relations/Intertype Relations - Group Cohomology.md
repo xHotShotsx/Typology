@@ -159,10 +159,10 @@ $a = (0, 0, 0, 1)$
 ### Generators Used: (E, L, S, P)
 #### $I_{\mathcal{D}_{2}}$ (Temperament)
 
-e=(0, 0, 0, 0)
-g=(0, 1, 1, 0)
-k=(0, 0, 1, 0)
-l=(0, 1, 0, 0)$
+$e=(0, 0, 0, 0)$
+$g=(0, 1, 1, 0)$
+$k=(0, 0, 1, 0)$
+$l=(0, 1, 0, 0)$
 
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
@@ -178,7 +178,7 @@ $h = (0, 1, 1, 1)$
 $l = (1, 1, 1, 1)$
 $i = (0, 0, 0, 1)$
 
-#### $r I_{\mathcal{D}_{14}}$
+#### $r I_{\mathcal{D}_{14}}$ (Selector = Democratic/Aristocratic)
 ##### For Democratic Types
 
 $a=(1, 1, 0, 0)$
