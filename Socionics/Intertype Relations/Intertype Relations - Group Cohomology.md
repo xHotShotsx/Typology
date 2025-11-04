@@ -236,7 +236,15 @@ $q = (0, 1, 1, 1)$
 $S = (1, 0, 1, 1)$
 $s = (1, 1, 0, 1)$
 
-##### 
+##### Irrational/Rational
+###### For Irrational Types
+
+$x = (1, 1, 1, 0)$
+$d = (1, 0, 0, 0)$
+$k = (0, 1, 0, 0)$
+$l = (0, 0, 1, 0)$
+
+######
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
