@@ -221,7 +221,15 @@ $h = (1, 1, 0, 0)$
 $i = (1, 0, 1, 0)$
 
 #### $r I_{\mathcal{D}_{3}}$ (Selectors across Temperament)
-##### Extroversion
+##### Extroversion/Introversion
+###### For Extroverted Types
+
+$a = (0, 1, 1, 1)$
+$q = (0, 0, 0, 1)$
+$S = (1, 1, 0, 1)$
+$s = (1, 0, 1, 1)$
+
+######
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
