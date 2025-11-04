@@ -76,7 +76,7 @@ This "identity-superego" pair is fixed by all $\mathfrak{D}$-modules. It's the p
 $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_1}$ (Selector = Across Superego)
+#### $r I_{\mathcal{D}_1}$ (Selectors across Superego)
 ##### $X5$
 ###### For $+X5$ Types
 
@@ -173,7 +173,9 @@ $d = (1, 1, 0, 0)$
 $h = (1, 1, 1, 0)$
 $i = (1, 0, 0, 0)$
 
-###### For
+###### For Rational Types
+
+$x = 
 
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
