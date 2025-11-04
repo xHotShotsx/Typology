@@ -212,7 +212,8 @@ $c = (1, 1, 0, 1)$
 
 
 ## Kindred Business HEF ($\mathcal{D}_{3}$)
-### 
+### Generators Used: (E, I, S, P)
+#### $I_{\mathcal{D}_{3}}$ 
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
