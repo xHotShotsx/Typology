@@ -252,7 +252,11 @@ $k = (0, 0, 1, 0)$
 $l = (0, 1, 0, 0)$
 
 ##### Static/Dynamic
-######
+###### For Static Types
+
+$m = (1, 0, 0, 1)$
+$c = (1, 1, 1, 1)$
+$B = (0, 1, 0, 1)$
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
