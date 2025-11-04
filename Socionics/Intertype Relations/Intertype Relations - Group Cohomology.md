@@ -205,11 +205,14 @@ $c = (1, 0, 1, 1)$
 
 ###### For Declaring Types
 
-$S = (1, 0, 0, 1)$
-$s = (1, 1, 1, 1)$
-$m = (1, 1, 0, 1)$
-$c = (1, 0, 1, 1)$
+$S = (1, 1, 1, 1)$
+$s = (1, 0, 0, 1)$
+$m = (1, 0, 1, 1)$
+$c = (1, 1, 0, 1)$
 
+
+## Kindred Business HEF ($\mathcal{D}_{3}$)
+### 
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
