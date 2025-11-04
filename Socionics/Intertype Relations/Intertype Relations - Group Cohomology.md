@@ -169,7 +169,12 @@ $l = (0, 1, 0, 0)$
 ###### For Irrational Types
 
 $x = (1, 0, 1, 0)$
-$d = 
+$d = (1, 1, 0, 0)$
+$h = (1, 1, 1, 0)$
+$i = (1, 0, 0, 0)$
+
+###### For
+
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
