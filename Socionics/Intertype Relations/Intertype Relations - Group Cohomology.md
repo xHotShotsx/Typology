@@ -229,8 +229,14 @@ $q = (0, 0, 0, 1)$
 $S = (1, 1, 0, 1)$
 $s = (1, 0, 1, 1)$
 
-######
+###### For Introverted Types
 
+$a = (0, 0, 0, 1)$
+$q = (0, 1, 1, 1)$
+$S = (1, 0, 1, 1)$
+$s = (1, 1, 0, 1)$
+
+##### 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
