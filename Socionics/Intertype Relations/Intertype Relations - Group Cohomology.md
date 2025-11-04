@@ -155,7 +155,9 @@ $q = (0, 1, 1, 1)$
 $a = (0, 0, 0, 1)$
 
 
-## 
+## Semidual Mirage HEF ($\mathcal{D}_{2}$)
+### Generators Used: (E, L, S, P)
+
 
 
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
