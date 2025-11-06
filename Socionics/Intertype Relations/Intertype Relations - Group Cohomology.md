@@ -266,6 +266,9 @@ $c = (1, 0, 0, 1)$
 $B = (0, 1, 0, 1)$
 $b = (0, 0, 1, 1)$
 
+
+## EP R
+
 ## Tencer-Minaev Space ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
