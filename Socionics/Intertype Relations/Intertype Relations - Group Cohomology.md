@@ -267,9 +267,10 @@ $B = (0, 1, 0, 1)$
 $b = (0, 0, 1, 1)$
 
 
-## EP R
+## EP Result Compass Process HEF ($\mathcal{D}_{4}$)
+### Generators Used: (E, C, I, P)
 
-## Tencer-Minaev Space ($\mathcal{D}_{14}$)
+## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
 
@@ -306,7 +307,7 @@ $s = (1, 1, 0, 1)$
 $b = (0, 1, 0, 1)$
 
 
-## Reinin Space ($\mathcal{D}_{15}$)
+## Reinin ($\mathcal{D}_{15}$)
 ### Generators Used: (E, N, T, P)
 #### $I_{\mathcal{D}_{15}}$ (Democratic/Aristocratic)
 
