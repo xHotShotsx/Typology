@@ -269,6 +269,8 @@ $b = (0, 0, 1, 1)$
 
 ## EP Result Compass Process HEF ($\mathcal{D}_{4}$)
 ### Generators Used: (E, C, I, P)
+#### $I_{\mathcal{D}_4}$ (Superego)
+
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
