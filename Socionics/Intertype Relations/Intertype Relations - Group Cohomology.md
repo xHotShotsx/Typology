@@ -337,18 +337,18 @@ $l=(0, 1, 0, 0)$
 $m=(1, 1, 0, 1)$
 $c=(1, 0, 1, 1)$
 
-##### For $-\Gamma 1$ Types
+###### For $-\Gamma 1$ Types
 
 $m=(1, 0, 1, 1)$
 $c=(1, 1, 0, 1)$
 
-#### $\Delta 2$
-##### For $+\Delta 2$ Types
+##### $\Delta 2$
+###### For $+\Delta 2$ Types
 
 $q=(0, 0, 0, 1)$
 $a=(0, 1, 1, 1)$
 
-##### For $-\Delta 2$ Types
+###### For $-\Delta 2$ Types
 
 $q=(0, 1, 1, 1)$
 $a=(0, 0, 0, 1)$
