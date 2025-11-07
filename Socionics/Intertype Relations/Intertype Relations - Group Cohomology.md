@@ -623,13 +623,13 @@ $g = (0, 1, 1, 0)$
 ##### Extroversion/Introversion
 ###### For Extroverted Types
 
-a=(0, 0, 0, 1)
-q=(0, 1, 1, 1)
+$a=(0, 0, 0, 1)$
+$q=(0, 1, 1, 1)$
 
 ###### For Introverted Types
 
-a=(0, 1, 1, 1)
-q=(0, 0, 0, 1)
+$a=(0, 1, 1, 1)$
+$q=(0, 0, 0, 1)$
 
 ##### Irrational/Rational
 ###### For Irrational Types
@@ -645,13 +645,13 @@ $b=(0, 0, 1, 1)$
 ##### Static/Dynamic
 ###### For Static Types
 
-k=(0, 1, 0, 0)
-l=(0, 0, 1, 0)
+$k=(0, 1, 0, 0)$
+$l=(0, 0, 1, 0)$
 
 ###### For Dynamic Types
 
-k=(0, 0, 1, 0)
-l=(0, 1, 0, 0)
+$k=(0, 0, 1, 0)$
+$l=(0, 1, 0, 0)$
 
 #### Democratic/Aristocratic
 ###### For Democratic Types
@@ -696,6 +696,7 @@ $c=(1, 0, 1, 1)$
 
 $m=(1, 0, 1, 1)$
 $c=(1, 1, 0, 1)$
+
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
