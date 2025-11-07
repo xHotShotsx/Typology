@@ -356,6 +356,10 @@ $a=(0, 0, 0, 1)$
 
 ## Parallel Club Quadra Charged Rationality ($\mathcal{D}_{5}$)
 ### Generators Used: (E, A, C, P)
+#### $I_{\mathcal{D}_{5}}$ (Superego)
+
+$e = (0, 0, 0, 0)$
+$g = ($
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
