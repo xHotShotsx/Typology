@@ -454,29 +454,29 @@ $g = (0, 1, 1, 0)$
 x=(1, 1, 0, 0)
 d=(1, 0, 1, 0)
 
-##### For -X6 Types
+##### For $-X6$ Types
 
 x=(1, 0, 1, 0)
 d=(1, 1, 0, 0)
 
-#### Y6
-##### For +Y6 Types
+#### $Y6$
+##### For $+Y6$ Types
 
 b=(0, 0, 0, 1)
 B=(0, 1, 1, 1)
 
-##### For -Y6 Types
+##### For $-Y6$ Types
 
 b=(0, 1, 1, 1)
 B=(0, 0, 0, 1)
 
-#### Z4
-##### For +Z4 Types
+#### $Z4$
+##### For $+Z4$ Types
 
 s=(1, 0, 1, 1)
 S=(1, 1, 0, 1)
 
-##### For -Z4 Types
+##### For $-Z4$ Types
 
 s=(1, 1, 0, 1)
 S=(1, 0, 1, 1)
@@ -510,34 +510,23 @@ l=(0, 0, 1, 0)
 m=(1, 1, 1, 1)
 c=(1, 0, 0, 1)
 
-  
-
 ##### For -Γ1 Types
 
 m=(1, 0, 0, 1)
-
 c=(1, 1, 1, 1)
 
-  
-
 #### Δ1
-
 ##### For +Δ1 Types
 
 q=(0, 1, 0, 1)
-
 a=(0, 0, 1, 1)
-
-  
 
 ##### For -Δ1 Types
 
 q=(0, 0, 1, 1)
-
 a=(0, 1, 0, 1)
 
-  
-**
+
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
