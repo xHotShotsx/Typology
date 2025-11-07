@@ -71,7 +71,7 @@ This "identity-superego" pair is fixed by all $\mathfrak{D}$-modules. It's the p
 
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
 ### Generators Used: (E, D, L, P)
-#### $I_{\mathcal{D}_1}$ (Same Superego)
+#### $I_{\mathcal{D}_1}$ (Superego)
 
 $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
