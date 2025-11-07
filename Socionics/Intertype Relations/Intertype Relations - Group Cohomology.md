@@ -409,35 +409,35 @@ $b=(0, 1, 1, 1)$
 ##### Positivist/Negativist
 ###### For Positivist Types
 
-a=(0, 0, 1, 1)
-q=(0, 1, 0, 1)
+$a=(0, 0, 1, 1)$
+$q=(0, 1, 0, 1)$
 
 ###### For Negativist Types
 
-a=(0, 1, 0, 1)
-q=(0, 0, 1, 1)
+$a=(0, 1, 0, 1)$
+$q=(0, 0, 1, 1)$
 
 ##### Process/Result
 ###### For Process Types
 
-x=(1, 1, 0, 0)
-d=(1, 0, 1, 0)
+$x=(1, 1, 0, 0)$
+$d=(1, 0, 1, 0)$
 
 ###### For Result Types
 
-x=(1, 0, 1, 0)
-d=(1, 1, 0, 0)
+x=(1, 0, 1, 0)$
+d=(1, 1, 0, 0)$
 
 ##### Asking/Declaring
 ###### For Asking Types
 
-h=(1, 1, 1, 0)
-i=(1, 0, 0, 0)
+$h=(1, 1, 1, 0)$
+$i=(1, 0, 0, 0)$
 
 ###### For Declaring Types
 
-h=(1, 0, 0, 0)
-i=(1, 1, 1, 0)**
+$h=(1, 0, 0, 0)$
+$i=(1, 1, 1, 0)$
 
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
