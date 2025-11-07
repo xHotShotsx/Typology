@@ -425,8 +425,8 @@ $d=(1, 0, 1, 0)$
 
 ###### For Result Types
 
-x=(1, 0, 1, 0)$
-d=(1, 1, 0, 0)$
+$x=(1, 0, 1, 0)$
+$d=(1, 1, 0, 0)$
 
 ##### Asking/Declaring
 ###### For Asking Types
