@@ -532,7 +532,10 @@ $a=(0, 1, 0, 1)$
 $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}}$
+#### $r I_{\mathcal{D}_{7}}$ (Selectors across Superego)
+##### $X1$
+###### For $+X1$ Types
+
 
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
