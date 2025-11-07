@@ -551,63 +551,62 @@ $d=(1, 0, 1, 0)$
 $b=(0, 1, 0, 1)$
 $B=(0, 0, 1, 1)$
 
-##### For $-Y3$ Types
+###### For $-Y3$ Types
 
 $b=(0, 0, 1, 1)$
 $B=(0, 1, 0, 1)$
 
-#### $Z7$
-##### For $+Z7$ Types
+##### $Z7$
+###### For $+Z7$ Types
 
 $s=(1, 0, 0, 1)$
 $S=(1, 1, 1, 1)$
 
-##### For $-Z7$ Types
+###### For $-Z7$ Types
 
 $s=(1, 1, 1, 1)$
 $S=(1, 0, 0, 1)$
 
-#### $A5$
-##### For $+A5$ Types
+##### $A5$
+###### For $+A5$ Types
 
 $i=(1, 1, 1, 0)$
 $h=(1, 0, 0, 0)$
 
-##### For $-A5$ Types
+###### For $-A5$ Types
 
 $i=(1, 0, 0, 0)$
 $h=(1, 1, 1, 0)$
 
-#### $B8$
-##### For $+B8$ Types
+##### $B8$
+###### For $+B8$ Types
 
 $k=(0, 1, 0, 0)$
 $l=(0, 0, 1, 0)$
 
-##### For $-B8$ Types
+###### For $-B8$ Types
 
 $k=(0, 0, 1, 0)$
 $l=(0, 1, 0, 0)$
 
-#### $\Gamma 4$
-##### For $+\Gamma 4$ Types
+##### $\Gamma 4$
+###### For $+\Gamma 4$ Types
 
 $m=(1, 1, 0, 1)$
 $c=(1, 0, 1, 1)$
 
-##### For $-\Gamma 4$ Types
+###### For $-\Gamma 4$ Types
 
 $m=(1, 0, 1, 1)$
 $c=(1, 1, 0, 1)$
 
-#### $\Delta 2$
-
-##### For $+\Delta 2$ Types
+##### $\Delta 2$
+###### For $+\Delta 2$ Types
 
 $q=(0, 0, 0, 1)$
 $a=(0, 1, 1, 1)$
 
-##### For $-\Delta 2$ Types
+###### For $-\Delta 2$ Types
 
 $q=(0, 1, 1, 1)$
 $a=(0, 0, 0, 1)$
