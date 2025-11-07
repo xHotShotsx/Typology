@@ -526,7 +526,11 @@ $q=(0, 0, 1, 1)$
 $a=(0, 1, 0, 1)$
 
 
-## EJ Compass Result HEF ($\mathcal{}$)
+## EJ Compass Result HEF ($\mathcal{D}_{7}$)
+### Generators Used: (E, L, A, P)
+#### $I\$
+$e = (0, 0, 0, 0)$
+
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
