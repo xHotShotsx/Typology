@@ -681,37 +681,23 @@ i=(1, 1, 1, 0)
 ###### For Process Types
 
 x=(1, 0, 1, 0)
-
 d=(1, 1, 0, 0)
 
-  
-
-##### For Result Types
+###### For Result Types
 
 x=(1, 1, 0, 0)
-
 d=(1, 0, 1, 0)
 
-  
+##### Asking/Declaring
+###### For Asking Types
 
-#### Asking/Declaring
+$m=(1, 1, 0, 1)
+$c=(1, 0, 1, 1)
 
-##### For Asking Types
+###### For Declaring Types
 
-m=(1, 1, 0, 1)
-
-c=(1, 0, 1, 1)
-
-  
-
-##### For Declaring Types
-
-m=(1, 0, 1, 1)
-
-c=(1, 1, 0, 1)
-
-**
-
+$m=(1, 0, 1, 1)$
+$c=(1, 1, 0, 1)$
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
