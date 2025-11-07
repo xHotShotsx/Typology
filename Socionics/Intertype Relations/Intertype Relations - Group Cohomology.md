@@ -395,59 +395,52 @@ c=(1, 0, 0, 1)
 m=(1, 0, 0, 1)
 c=(1, 1, 1, 1)
 
-#### Democratic/Aristocratic
-##### For Democratic Types
+##### Democratic/Aristocratic
+###### For Democratic Types
 
 B=(0, 1, 1, 1)
 b=(0, 0, 0, 1)
 
-##### For Aristocratic Types
+###### For Aristocratic Types
 
 B=(0, 0, 0, 1)
 b=(0, 1, 1, 1)
 
-#### Positivist/Negativist
-##### For Positivist Types
+##### Positivist/Negativist
+###### For Positivist Types
 
 a=(0, 0, 1, 1)
 
 q=(0, 1, 0, 1)
 
-##### For Negativist Types
+###### For Negativist Types
 
 a=(0, 1, 0, 1)
 q=(0, 0, 1, 1)
 
-#### Process/Result
-##### For Process Types
+##### Process/Result
+###### For Process Types
 
 x=(1, 1, 0, 0)
 
 d=(1, 0, 1, 0)
 
-##### For Result Types
+###### For Result Types
 
 x=(1, 0, 1, 0)
-
 d=(1, 1, 0, 0)
 
-  
-
-#### Asking/Declaring
-
-##### For Asking Types
+##### Asking/Declaring
+###### For Asking Types
 
 h=(1, 1, 1, 0)
-
 i=(1, 0, 0, 0)
 
-  
-
-##### For Declaring Types
+###### For Declaring Types
 
 h=(1, 0, 0, 0)
-
 i=(1, 1, 1, 0)**
+
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
