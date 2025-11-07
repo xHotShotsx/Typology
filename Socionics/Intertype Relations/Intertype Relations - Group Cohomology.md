@@ -440,6 +440,7 @@ $h=(1, 0, 0, 0)$
 $i=(1, 1, 1, 0)$
 
 
+## 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
