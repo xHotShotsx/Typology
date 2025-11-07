@@ -362,7 +362,13 @@ $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_5}$ (Selectors across Superego)
-##### Extroverte
+##### Extroverted/Introverted
+###### For Extroverted Types
+
+$k = (0, 0, 1, 0)$
+$l = (0, 1, 0, 0)$
+
+###
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
