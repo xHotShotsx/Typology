@@ -620,47 +620,31 @@ $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_8}$ (Selectors across Superego)
-**
-
-#### Extroversion/Introversion
-
-##### For Extroverted Types
+##### Extroversion/Introversion
+###### For Extroverted Types
 
 a=(0, 0, 0, 1)
-
 q=(0, 1, 1, 1)
 
-  
-  
-
-##### For Introverted Types
+###### For Introverted Types
 
 a=(0, 1, 1, 1)
-
 q=(0, 0, 0, 1)
 
-  
-
-#### Irrational/Rational
-
-##### For Irrational Types
+##### Irrational/Rational
+###### For Irrational Types
 
 B=(0, 0, 1, 1)
-
 b=(0, 1, 0, 1)
 
   
 
-##### For Rational Types
+###### For Rational Types
 
 B=(0, 1, 0, 1)
-
 b=(0, 0, 1, 1)
 
-  
-
-#### Static/Dynamic
-
+##### Static/Dynamic
 ##### For Static Types
 
 k=(0, 1, 0, 0)
