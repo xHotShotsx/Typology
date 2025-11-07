@@ -645,60 +645,40 @@ B=(0, 1, 0, 1)
 b=(0, 0, 1, 1)
 
 ##### Static/Dynamic
-##### For Static Types
+###### For Static Types
 
 k=(0, 1, 0, 0)
-
 l=(0, 0, 1, 0)
 
-  
-  
-
-##### For Dynamic Types
+###### For Dynamic Types
 
 k=(0, 0, 1, 0)
-
 l=(0, 1, 0, 0)
 
-  
-
 #### Democratic/Aristocratic
-
-##### For Democratic Types
+###### For Democratic Types
 
 S=(1, 1, 1, 1)
-
 s=(1, 0, 0, 1)
 
-  
-
-##### For Aristocratic Types
+###### For Aristocratic Types
 
 S=(1, 0, 0, 1)
-
 s=(1, 1, 1, 1)
 
-  
-
-#### Positivist/Negativist
-
-##### For Positivist Types
+##### Positivist/Negativist
+###### For Positivist Types
 
 h=(1, 1, 1, 0)
-
 i=(1, 0, 0, 0)
 
-  
-
-##### For Negativist Types
+###### For Negativist Types
 
 h=(1, 0, 0, 0)
-
 i=(1, 1, 1, 0)
 
-#### Process/Result
-
-##### For Process Types
+##### Process/Result
+###### For Process Types
 
 x=(1, 0, 1, 0)
 
