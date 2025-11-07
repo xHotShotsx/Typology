@@ -622,7 +622,6 @@ $g = (0, 1, 1, 0)$
 #### $r I_{\mathcal{D}_8}$ (Selectors across Superego)
 
 
-
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
