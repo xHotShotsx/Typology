@@ -528,8 +528,11 @@ $a=(0, 1, 0, 1)$
 
 ## EJ Compass Result HEF ($\mathcal{D}_{7}$)
 ### Generators Used: (E, L, A, P)
-#### $I\$
+#### $I_{\mathcal{D}_{7}}$ (Superego)
 $e = (0, 0, 0, 0)$
+$g = (0, 1, 1, 0)$
+
+#### $r I_{\mathcal{D}}$
 
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
