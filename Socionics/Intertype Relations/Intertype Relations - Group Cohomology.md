@@ -376,41 +376,40 @@ $l = (0, 0, 1, 0)$
 ##### Irrational/Rational
 ###### For Irrational Types
 
-S=(1, 1, 0, 1)
-s=(1, 0, 1, 1)
+$S=(1, 1, 0, 1)$
+$s=(1, 0, 1, 1)$
 
 ###### For Rational Types
 
-S=(1, 0, 1, 1)
-s=(1, 1, 0, 1)
+$S=(1, 0, 1, 1)$
+$s=(1, 1, 0, 1)$
 
 ##### Static/Dynamic
 ###### For Static Types
 
-m=(1, 1, 1, 1)
-c=(1, 0, 0, 1)
+$m=(1, 1, 1, 1)$
+$c=(1, 0, 0, 1)$
 
 ###### For Dynamic Types
 
-m=(1, 0, 0, 1)
-c=(1, 1, 1, 1)
+$m=(1, 0, 0, 1)$
+$c=(1, 1, 1, 1)$
 
 ##### Democratic/Aristocratic
 ###### For Democratic Types
 
-B=(0, 1, 1, 1)
-b=(0, 0, 0, 1)
+$B=(0, 1, 1, 1)$
+$b=(0, 0, 0, 1)$
 
 ###### For Aristocratic Types
 
-B=(0, 0, 0, 1)
-b=(0, 1, 1, 1)
+$B=(0, 0, 0, 1)$
+$b=(0, 1, 1, 1)$
 
 ##### Positivist/Negativist
 ###### For Positivist Types
 
 a=(0, 0, 1, 1)
-
 q=(0, 1, 0, 1)
 
 ###### For Negativist Types
@@ -422,7 +421,6 @@ q=(0, 0, 1, 1)
 ###### For Process Types
 
 x=(1, 1, 0, 0)
-
 d=(1, 0, 1, 0)
 
 ###### For Result Types
