@@ -817,24 +817,24 @@ l=(0, 1, 0, 0)
 k=(0, 1, 0, 0)
 l=(0, 0, 1, 0)
 
-#### Γ7
-##### For +Γ7 Types
+#### $\Gamma 7$
+##### For $+\Gamma 7$ Types
 
 m=(1, 1, 0, 1)
 c=(1, 0, 1, 1)
 
-##### For -Γ7 Types
+##### For $-\Gamma 7$ Types
 
 m=(1, 0, 1, 1)
 c=(1, 1, 0, 1)
 
-#### Δ3
-##### For +Δ3 Types
+#### $\Delta 3$
+##### For $+\Delta 3$ Types
 
 q=(0, 0, 1, 1)
 a=(0, 1, 0, 1)
 
-##### For -Δ3 Types
+##### For $-\Delta 3$ Types
 
 q=(0, 1, 0, 1)
 a=(0, 0, 1, 1)
