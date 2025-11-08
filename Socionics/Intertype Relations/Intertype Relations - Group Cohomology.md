@@ -902,46 +902,31 @@ l=(0, 0, 1, 0)
 ##### For -B8 Types
 
 k=(0, 0, 1, 0)
-
 l=(0, 1, 0, 0)
 
-  
-
 #### Γ6
-
 ##### For +Γ6 Types
 
 m=(1, 1, 0, 1)
-
 c=(1, 0, 1, 1)
 
-  
-
-##### For -Γ6 Types
+##### For $-\Gamma 6$ Types
 
 m=(1, 0, 1, 1)
-
 c=(1, 1, 0, 1)
 
-  
-
-#### Δ4
-
-##### For +Δ4 Types
+#### $\Delta 4$
+##### For $+\Delta 4$ Types
 
 q=(0, 0, 1, 1)
-
 a=(0, 1, 0, 1)
 
-  
-
-##### For -Δ4 Types
+##### For $-\Delta 4$ Types
 
 q=(0, 1, 0, 1)
-
 a=(0, 0, 1, 1)
 
-**
+
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
