@@ -700,7 +700,12 @@ $c=(1, 1, 0, 1)$
 
 ## Activation Quasi-Identity HEF ($\mathcal{D}_{9}$)
 ### Generators Used: (E, S, I, P)
-#### $I_{{\mathcal{D}_{9}}}$ 
+#### $I_{{\mathcal{D}_{9}}}$ (Challenge Response)
+
+$e = (0, 0, 0, 0)$
+$g = (0, 1, 1, 0)$
+$m = (1, 0, 1, 1)$
+$
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
