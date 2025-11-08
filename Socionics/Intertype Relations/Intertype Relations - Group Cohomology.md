@@ -762,57 +762,57 @@ $e = (0, 0, 0, 0)$
 $g  = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{10}}$ (Selectors across Superego)
-##### X1
-###### For +X1 Types
+##### $X1$
+###### For $+X1$ Types
 
 x=(1, 1, 1, 0)
 d=(1, 0, 0, 0)
 
-##### For -X1 Types
+##### For $-X1$ Types
 
 x=(1, 0, 0, 0)
 d=(1, 1, 1, 0)
 
-#### Y8
-##### For +Y8 Types
+#### $Y8$
+##### For $+Y8$ Types
 
 b=(0, 1, 1, 1)
 B=(0, 0, 0, 1)
 
-##### For -Y8 Types
+##### For $-Y8$ Types
 
 b=(0, 0, 0, 1)
 B=(0, 1, 1, 1)
 
-#### Z1
-##### For +Z1 Types
+#### $Z1$
+##### For $+Z1$ Types
 
 s=(1, 0, 0, 1)
 S=(1, 1, 1, 1)
 
-##### For -Z1 Types
+##### For $-Z1$ Types
 
 s=(1, 1, 1, 1)
 S=(1, 0, 0, 1)
 
-#### A5
+#### $A5$
 ##### For +A5 Types
 
 i=(1, 1, 0, 0)
 h=(1, 0, 1, 0)
 
-##### For -A5 Types
+##### For $-A5$ Types
 
 i=(1, 0, 1, 0)
 h=(1, 1, 0, 0)
 
-#### B4
-##### For +B4 Types
+#### $B4$
+##### For $+B4$ Types
 
 k=(0, 0, 1, 0)
 l=(0, 1, 0, 0)
 
-##### For -B4 Types
+##### For $-B4$ Types
 
 k=(0, 1, 0, 0)
 l=(0, 0, 1, 0)
