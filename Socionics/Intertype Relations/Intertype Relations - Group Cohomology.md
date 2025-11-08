@@ -733,7 +733,7 @@ $a = (0, 0, 0, 1)$
 
 ###### For Aristocratic Types
 
-
+$
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
