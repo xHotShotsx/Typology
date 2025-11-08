@@ -724,8 +724,8 @@ $S = (1, 1, 1, 1)$
 $s = (1, 0, 0, 1)$
 
 ##### Democratic/Aristocratic
-
-
+###### For Democratic Types
+$x = (1, 1, 0)
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
