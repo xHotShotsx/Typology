@@ -842,7 +842,7 @@ $a=(0, 0, 1, 1)$
 
 ## EJ Result Compass Process HEF ($\mathcal{D}_{11}$)
 ### Generators Used: (E, D, A, P)
-#### $I $
+#### $I_{\mathcal{D}_{11}}$ ()
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
