@@ -930,6 +930,10 @@ $a=(0, 0, 1, 1)$
 ### Generators Used: (E, I, S, P)
 #### $I_{\mathcal{D}_{12}}$ (Positivity Groups)
 
+$e = (0, 1, 0, 0)$
+$g = (0, 0, 1, 0)$
+$q = (0, 0, 0, 1)$
+$a = 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
