@@ -733,7 +733,15 @@ $a = (0, 0, 0, 1)$
 
 ###### For Aristocratic Types
 
-$
+$x = (1, 0, 1, 0)$
+$d = (0, 0, 0, 1)$
+$q = (0, 0, 0, 1)$
+$a = (0, 1, 1, 1)$
+
+##### Positivist/Negativist
+###### For Positivist Types
+
+$h = ()
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
