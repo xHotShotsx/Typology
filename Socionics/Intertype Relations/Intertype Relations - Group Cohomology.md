@@ -991,78 +991,78 @@ $g = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{13}}$ (Selectors across Superego)
 ##### $X2$
-##### For $+X2$ Types
+###### For $+X2$ Types
 
 $x=(1, 0, 0, 0)$
 $d=(1, 1, 1, 0)$
 
-##### For $-X2$ Types
+###### For $-X2$ Types
 
-x=(1, 1, 1, 0)
-d=(1, 0, 0, 0)
+$x=(1, 1, 1, 0)$
+$d=(1, 0, 0, 0)$
 
-#### $Y3$
-##### For $+Y3$ Types
+##### $Y3$
+###### For $+Y3$ Types
 
-b=(0, 0, 0, 1)
-B=(0, 1, 1, 1)
+$b=(0, 0, 0, 1)$
+$B=(0, 1, 1, 1)$
 
-##### For $-Y3$ Types
+###### For $-Y3$ Types
 
 b=(0, 1, 1, 1)
 B=(0, 0, 0, 1)
 
-##### $Z7$
-##### For $+Z7$ Types
+###### $Z7$
+###### For $+Z7$ Types
 
 s=(1, 0, 0, 1)
 S=(1, 1, 1, 1)
 
-##### For $-Z7$ Types
+###### For $-Z7$ Types
 
 s=(1, 1, 1, 1)
 S=(1, 0, 0, 1)
 
-#### $A6$
-##### For $+A6$ Types
+##### $A6$
+###### For $+A6$ Types
 
 i=(1, 1, 0, 0)
 h=(1, 0, 1, 0)
 
-##### For $-A6$ Types
+###### For $-A6$ Types
 
 i=(1, 0, 1, 0)
 h=(1, 1, 0, 0)
 
-#### $B2$
-##### For $+B2$ Types
+##### $B2$
+###### For $+B2$ Types
 
 k=(0, 0, 1, 0)
 l=(0, 1, 0, 0)
 
-##### For $-B2$ Types
+###### For $-B2$ Types
 
 k=(0, 1, 0, 0)
 l=(0, 0, 1, 0)
 
-#### $\Gamma 6$
-##### For $+\Gamma 6$ Types
+##### $\Gamma 6$
+###### For $+\Gamma 6$ Types
 
 m=(1, 0, 1, 1)
 c=(1, 1, 0, 1)
 
-##### For $-\Gamma 6$ Types
+###### For $-\Gamma 6$ Types
 
 m=(1, 1, 0, 1)
 c=(1, 0, 1, 1)
 
-#### $\Delta 3$
-##### For $+\Delta 3$ Types
+##### $\Delta 3$
+###### For $+\Delta 3$ Types
 
 q=(0, 0, 1, 1)
 a=(0, 1, 0, 1)
 
-##### For $-\Delta 3$ Types
+###### For $-\Delta 3$ Types
 
 q=(0, 1, 0, 1)
 a=(0, 0, 1, 1)
