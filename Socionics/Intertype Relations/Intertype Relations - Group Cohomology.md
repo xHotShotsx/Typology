@@ -748,8 +748,13 @@ $B = (0, 0, 1, 1)$
 
 ###### For Negativist Types
 
+$h = (1, 1, 1, 0)$
+$i = (1, 0, 0, 0)$
+$b = (0, 1, 0, 1)$
+$B = (0, 0, 1, 1)$
 
 
+## 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
