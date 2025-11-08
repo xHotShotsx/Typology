@@ -1143,6 +1143,6 @@ $i = (1, 1, 0, 0)$
 
 
 $$\text{Valid} := \begin{cases}
-1 & \text{if} \ r \in \mathbb{S} \\
-0 & \text{if} \ r \notin \mathbb{S} \\
+1 & \text{if} \ t \in T \\
+0 & \text{if} \ t \notin T \\
 \end{cases}$$ 
