@@ -716,7 +716,11 @@ $l = (0, 1, 0, 0)$
 $S = (1, 0, 0, 1)$
 $s = (1, 1, 1, 1)$
 
+###### For Introverted Types
 
+$k = (0, 1, 0, 0)$
+$l = (0, 0, 1, 0)$
+$$
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
