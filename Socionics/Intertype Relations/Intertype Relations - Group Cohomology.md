@@ -1142,4 +1142,6 @@ $l = (0, 0, 1, 0)$
 $i = (1, 1, 0, 0)$
 
 
-$$\text{Valid} := \case{r \in \mathbb{S}$$ 
+$$\text{Valid} := \begin{cases}
+0 
+\end{cases}$$ 
