@@ -991,30 +991,28 @@ $g = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{13}}$ (Selectors across Superego)
 ##### $X2$
-##### For +X2 Types
+##### For $+X2$ Types
 
-x=(1, 0, 0, 0)
-d=(1, 1, 1, 0)
+$x=(1, 0, 0, 0)$
+$d=(1, 1, 1, 0)$
 
-##### For -X2 Types
+##### For $-X2$ Types
 
 x=(1, 1, 1, 0)
 d=(1, 0, 0, 0)
 
-#### Y3
-##### For +Y3 Types
+#### $Y3$
+##### For $+Y3$ Types
 
 b=(0, 0, 0, 1)
 B=(0, 1, 1, 1)
 
-##### For -Y3 Types
+##### For $-Y3$ Types
 
 b=(0, 1, 1, 1)
 B=(0, 0, 0, 1)
 
-  
-
-#### Z7
+##### Z7
 ##### For +Z7 Types
 
 s=(1, 0, 0, 1)
