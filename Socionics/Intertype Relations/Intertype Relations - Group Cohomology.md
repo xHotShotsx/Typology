@@ -620,7 +620,7 @@ $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_8}$ (Selectors across Superego)
-##### Extroversion/Introversion
+##### Extroverted/Introverted
 ###### For Extroverted Types
 
 $a=(0, 0, 0, 1)$
@@ -700,14 +700,15 @@ $c=(1, 1, 0, 1)$
 
 ## Activation Quasi-Identity HEF ($\mathcal{D}_{9}$)
 ### Generators Used: (E, S, I, P)
-#### $I_{{\mathcal{D}_{9}}}$ (Challenge Response)
+#### $I_{{\mathcal{D}_{9}}}$ (Challenge Response Groups)
 
 $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 $m = (1, 0, 1, 1)$
 $c = (1, 1, 0, 1)$
 
-#### $r I_{\mathcal{D}_9}$ (Selectotors across )
+#### $r I_{\mathcal{D}_9}$ (Selectors across Positivity Groups)
+##### Extroverted/Introverted
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
