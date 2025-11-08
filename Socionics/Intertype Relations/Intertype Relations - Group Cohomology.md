@@ -983,6 +983,7 @@ $s = (1, 0, 1, 1)$
 
 
 ## IP Process Compass Result HEF ($\mathcal{D}_{13}$)
+### 
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
