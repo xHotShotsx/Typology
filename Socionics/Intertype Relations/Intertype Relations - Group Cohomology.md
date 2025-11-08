@@ -1142,4 +1142,4 @@ $l = (0, 0, 1, 0)$
 $i = (1, 1, 0, 0)$
 
 
-$\text{Valid} := r 
+$$\text{Valid} := r \in \mathbb{S}$$ 
