@@ -1162,56 +1162,56 @@ x=(1, 1, 1, 0)
 d=(1, 0, 0, 0)
 
 #### $Y3$
-##### For +Y3 Types
+##### For $+Y3$ Types
 
 b=(0, 1, 1, 1)
 B=(0, 0, 0, 1)
 
-##### For -Y3 Types
+##### For $-Y3$ Types
 
 b=(0, 0, 0, 1)
 B=(0, 1, 1, 1)
 
-#### Z4
-##### For +Z4 Types
+#### $Z4$
+##### For $+Z4$ Types
 
 s=(1, 0, 0, 1)
 S=(1, 1, 1, 1)
 
-##### For -Z4 Types
+##### For $-Z4$ Types
 
 s=(1, 1, 1, 1)
 S=(1, 0, 0, 1)
 
-#### A2
-##### For +A2 Types
+#### $A2$
+##### For $+A2$ Types
 
 i=(1, 0, 1, 0)
 h=(1, 1, 0, 0)
 
-##### For -A2 Types
+##### For $-A2$ Types
 
 i=(1, 1, 0, 0)
 h=(1, 0, 1, 0)
 
-#### B6
-##### For +B6 Types
+#### $B6$
+##### For $+B6$ Types
 
 k=(0, 1, 0, 0)
 l=(0, 0, 1, 0)
 
-##### For -B6 Types
+##### For $-B6$ Types
 
 k=(0, 0, 1, 0)
 l=(0, 1, 0, 0)
 
-#### Γ7
-##### For +Γ7 Types
+#### $\Gamma 7$
+##### For $+\Gamma 7$ Types
 
 m=(1, 0, 1, 1)
 c=(1, 1, 0, 1)
 
-##### For -Γ7 Types
+##### For $-\Gamma 7$ Types
 
 m=(1, 1, 0, 1)
 c=(1, 0, 1, 1)
