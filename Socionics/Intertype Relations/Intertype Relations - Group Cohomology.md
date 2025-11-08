@@ -754,7 +754,9 @@ $b = (0, 1, 0, 1)$
 $B = (0, 0, 1, 1)$
 
 
-## 
+## IJ Result Compass Process HEF ($\mathcal{D}_{9}$)
+### Generators Used: (E, D, A, P)
+#### 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
