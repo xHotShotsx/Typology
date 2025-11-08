@@ -758,7 +758,10 @@ $B = (0, 0, 1, 1)$
 ### Generators Used: (E, D, A, P)
 #### $I_{\mathcal{D}_{10}}$ (Superego)
 
-$
+$e = (0, 0, 0, 0)$
+$g  = (0, 1, 1, 0)$
+
+####
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
