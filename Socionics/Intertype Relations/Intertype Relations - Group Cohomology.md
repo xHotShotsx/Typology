@@ -935,7 +935,7 @@ $g = (0, 0, 1, 0)$
 $q = (0, 0, 0, 1)$
 $a = (0, 1, 1, 1)$
 
-##### $r I_{\mat}$
+##### $r I_{\mathcal{D}_{12}}$ ()
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
