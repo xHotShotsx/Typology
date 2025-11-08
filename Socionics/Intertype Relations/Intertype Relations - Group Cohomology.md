@@ -951,7 +951,16 @@ $l = (0, 1, 0, 0)$
 $B = (0, 1, 0, 0)$
 $b = (0, 0, 1, 1)$
 
-##### Democratic/Aristrocratic
+##### Democratic/Aristocratic
+###### For Democratic Types
+
+$m = (1, 1, 1, 1)$
+$c = (1, 0, 0, 1)$
+$x = (1, 1, 1, 0)$
+$d = (1, 0, 0, 0)$
+
+###### For Aristocratic Types
+
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
