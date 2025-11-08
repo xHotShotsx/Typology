@@ -1143,5 +1143,6 @@ $i = (1, 1, 0, 0)$
 
 
 $$\text{Valid} := \begin{cases}
-0 & \text{if} \ r \in \mathbb{S}
+1 & \text{if} \ r \in \mathbb{S} \\
+0 & \text{if} \ r \notin \mathbb{S} \\
 \end{cases}$$ 
