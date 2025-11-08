@@ -1144,4 +1144,8 @@ $i = (1, 1, 0, 0)$
 
 ## EP Process Compass Result HEF ($\mathcal{D}_{16}$)
 ### Generators Used: (E, S, I, P)
-####
+#### $I_{\mathcal{D}_{16}}$ (Superego)
+
+$e = (0, 0, 0, 0)$
+$g = (0, 1, 1, 0)$
+
