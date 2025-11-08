@@ -1150,18 +1150,18 @@ $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{16}}$ (Selectors across Superego)
-##### X2
-###### For +X2 Types
+##### $X2$
+###### For $+X2$ Types
 
 x=(1, 0, 0, 0)
 d=(1, 1, 1, 0)
 
-###### For -X2 Types
+###### For $-X2$ Types
 
 x=(1, 1, 1, 0)
 d=(1, 0, 0, 0)
 
-#### Y3
+#### $Y3$
 ##### For +Y3 Types
 
 b=(0, 1, 1, 1)
