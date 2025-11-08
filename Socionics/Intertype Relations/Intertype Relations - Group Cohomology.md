@@ -928,7 +928,7 @@ $a=(0, 0, 1, 1)$
 
 ## Mirror Conflict HEF ($\mathcal{D}_{12}$)
 ### Generators Used: (E, I, S, P)
-#### 
+#### $I_{\mathcal{D}_{12}}$ 
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
