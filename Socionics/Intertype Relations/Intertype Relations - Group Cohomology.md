@@ -926,6 +926,9 @@ $q=(0, 1, 0, 1)$
 $a=(0, 0, 1, 1)$
 
 
+## Mirror Conflict HEF ($\mathcal{D}_{12}$)
+### Gw
+
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
