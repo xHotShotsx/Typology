@@ -842,7 +842,12 @@ $a=(0, 0, 1, 1)$
 
 ## EJ Result Compass Process HEF ($\mathcal{D}_{11}$)
 ### Generators Used: (E, D, A, P)
-#### $I_{\mathcal{D}_{11}}$ ()
+#### $I_{\mathcal{D}_{11}}$ (Superego)
+
+$e = (0, 0, 0, 0)$
+$g= (0, 1, 1, 0)$
+
+#### $r I_{\mathcal{D}_{11}}$ 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
