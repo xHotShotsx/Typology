@@ -698,6 +698,9 @@ $m=(1, 0, 1, 1)$
 $c=(1, 1, 0, 1)$
 
 
+## Activation Quasi-Identity HEF ($\mathcal{D}_{9}$)
+### Generators Use 
+
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
