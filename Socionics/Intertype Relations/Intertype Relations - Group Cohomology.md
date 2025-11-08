@@ -709,6 +709,14 @@ $c = (1, 1, 0, 1)$
 
 #### $r I_{\mathcal{D}_9}$ (Selectors across Positivity Groups)
 ##### Extroverted/Introverted
+###### For Extroverted Types
+
+$k = (0,, 0, 1, 0)$
+$l = (0, 1, 0, 0)$
+$S = (1, 0, 0, 1)$
+$s = (1, 1, 1, 1)$
+
+
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
