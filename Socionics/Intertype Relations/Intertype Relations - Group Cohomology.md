@@ -1142,4 +1142,6 @@ $l = (0, 0, 1, 0)$
 $i = (1, 1, 0, 0)$
 
 
-## EP Process Compass Result HEF 
+## EP Process Compass Result HEF ($\mathcal{D}_{16}$)
+### Generators Used: (E, S, I, P)
+####
