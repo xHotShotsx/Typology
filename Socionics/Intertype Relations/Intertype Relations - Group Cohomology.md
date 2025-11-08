@@ -1149,4 +1149,5 @@ $i = (1, 1, 0, 0)$
 $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{16}}$ (S)
+#### $r I_{\mathcal{D}_{16}}$ (Selectors across Superego)
+##### R
