@@ -849,52 +849,51 @@ $g= (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{11}}$ (Selectors across Superego)
 ##### $X1$
-##### For +X1 Types
+###### For $+X1$ Types
 
 x=(1, 1, 1, 0)
 d=(1, 0, 0, 0)
 
-##### For -X1 Types
+###### For $-X1$ Types
 
 x=(1, 0, 0, 0)
 d=(1, 1, 1, 0)
 
-#### Y1
-##### For +Y1 Types
+##### $Y1$
+###### For $+Y1$ Types
 
 b=(0, 1, 1, 1)
 B=(0, 0, 0, 1)
 
-##### For -Y1 Types
+###### For $-Y1$ Types
 
 b=(0, 0, 0, 1)
-
 B=(0, 1, 1, 1)
 
-#### $Z1$
-##### For $+Z1$ Types
+##### $Z1$
+###### For $+Z1$ Types
 
 s=(1, 0, 0, 1)
 S=(1, 1, 1, 1)
 
-##### For -$Z1$ Types
+###### For $-Z1$ Types
 
 s=(1, 1, 1, 1)
 S=(1, 0, 0, 1)
 
-#### $A1$
-##### For $+A1$ Types
+##### $A1$
+###### For $+A1$ Types
 
 i=(1, 0, 1, 0)
 h=(1, 1, 0, 0)
 
-##### For $-A1$ Types
+###### For $-A1$ Types
 
 i=(1, 1, 0, 0)
 h=(1, 0, 1, 0)
 
-#### $B8$
-##### For $+B8$ Types
+##### $B8$
+###### For $+B8$ Types
 
 k=(0, 1, 0, 0)
 l=(0, 0, 1, 0)
