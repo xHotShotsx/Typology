@@ -720,7 +720,12 @@ $s = (1, 1, 1, 1)$
 
 $k = (0, 1, 0, 0)$
 $l = (0, 0, 1, 0)$
-$$
+$S = (1, 1, 1, 1)$
+$s = (1, 0, 0, 1)$
+
+##### Democratic/Aristocratic
+
+
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
 ### Generators Used: (Q, A, I, D)
