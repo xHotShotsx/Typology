@@ -237,106 +237,38 @@
 {ILE SEI SLE LIE} ΧΑΝD {SEE ILI IEE ESE}
 -Z4 - {EII LSE EIE LSI SLI ESI LII IEI}
 
-  
-
 # System 3 + 12 (Benefit Rings)
 
 +Y7 - ILE+SLE HEF ΧΑΝD ILE+ESI HEF
-
-  
-
 {ILE LSI LSE SEI SLE LIE} ΧΑΝD {SEE EII EIE ILI IEE ESE}
-
-  
-
 -Y7 - {LII IEI ESI SLI}
 
-  
-  
-
 +Y6 - ILE+SLE HEF ΧΑΝD SEI+LIE HEF
-
-  
-
 {ILE SEI LIE IEI} ΧΑΝD {SEE ILI ESE SLI}
-
-  
-
 -Y6 - {SLE IEE EIE LSE LII LSI ESI EII}
 
-  
-  
-
 +Y5 - ILE+SLE HEF ΧΑΝD SLE+EII HEF
-
-  
-
 {ILE LSE SLE IEI LII LIE} ΧΑΝD {SEE EIE IEE SLI ESI ESE}
-
-  
-
 -Y5 - {SEI LSI ILI EII}
 
-  
-  
-
 +Y8 - ILE+SLE HEF ΧΑΝD EIE+SLI HEF
-
-  
-
 {ILE LSI LII LIE} ΧΑΝD {SEE EII ESI ESE}
-
 -Y8 - {SEI EIE ILI LSE IEI SLI SLE IEE}
 
-  
-  
-
 +Y3 - ILE+SLE HEF ΧΑΝD SEI+ESE HEF
-
-  
-
 {ILE SEI SLE LII} ΧΑΝD {SEE ILI ESI IEE}
-
-  
-
 -Y3 - {LIE SLI ESE IEI EII LSE EIE LSI}
 
-  
-  
-
 +Y2 - ILE+SLE HEF ΧΑΝD ILE+LII HEF
-
-  
-
 {LII IEI ILE LSI SEI LSE} ΧΑΝD {ESI SLI SEE EII ILI EIE}
-
-  
-
 -Y2 - {ESE SLE LIE IEE}
 
-  
-  
-
 +Y1 - ILE+SLE HEF ΧΑΝD EIE+IEI HEF
-
-  
-
 {ILE LSI SLE IEI} ΧΑΝD {SEE EII IEE SLI}
-
-  
-
 -Y1 - {LIE ESI LII ESE SEI ILI EIE LSE}
 
-  
-  
-
 +Y4 - ILE+SLE HEF ΧΑΝD EII+IEE HEF
-
-  
-
 {ILE LSE} ΧΑΝD {SEE EIE}
-
-  
 
 -Y4 - {ESE LIE SLE IEE LII LSI SEI ILI EII IEI SLI ESI}
 
