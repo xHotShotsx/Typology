@@ -621,107 +621,38 @@
 {LII IEI ILE} XAND {SEE SLI ESI}
 -ङ2 - {ESE LIE SLE IEE LSE EIE SEI LSI ILI EII}
 
-  
-  
-
 +ङ3 - Intuitive Result + EII HEF XAND Intuitive
-
-  
-
 {EII ILE ILI LII LIE IEI IEE} XAND {LSI SEE SEI ESI ESE SLI SLE}
-
-  
-
 -ङ3 - {EIE LSE}
 
-  
-  
-
 +ङ4 - Sensing Result + EII HEF XAND Intuitive
-
-  
-
 {ILE EII ILI} XAND {SEE LSI SEI}
-
 -ङ4 - {ESE LIE SLE IEE EIE LSE ESI LII IEI SLI}
 
-  
-  
-
 +ङ5 - Peripheral Result + SEI HEF XAND Intuitive
-
-  
-
 {ILE EIE EII IEE LII} XAND {SEE LSE LSI SLE ESI}
-
-  
-
 -ङ5 - {ESE LIE SEI ILI IEI SLI}
 
-  
-  
-
 +ङ6 - Central Result + SEI HEF XAND Intuitive
-
-  
-
 {EIE EII ILE IEI LIE} XAND {LSE LSI SEE SLI ESE}
-
-  
-
 -ङ6 - {SLE IEE LII SEI ESI ILI}
 
-  
-  
-
 +ङ7 - Ethical Result + EIE HEF XAND Intuitive
-
-  
-
 {EIE ILE ILI IEE IEI} XAND {LSE SEE SEI SLE SLI}
-
-  
-
 -ङ7 - {ESE LIE LII LSI ESI EII}
 
-  
-  
-
 +ङ8 - Logical Result + EIE HEF XAND Intuitive
-
-  
-
 {ILE EIE ILI LII LIE} XAND {ESE ESI LSE SEI SEE}
-
-  
-
 -ङ8 - {SLE IEE LSI IEI SLI EII}
-
-  
 
 # Systems 11 + 15 (Ji+)
 
 +च1 - Central Result + ILE HEF XAND Intuitive
-
-  
-
 {ILE IEI LIE} XAND {SEE SLI ESE}
-
-  
-
 -च1 - {SLE IEE EIE LSE LII ESI SEI LSI ILI EII}
 
-  
-  
-
 +च2 - Peripheral Result + ILE HEF XAND Intuitive
-
-  
-
 {ILE LII IEE} XAND {SEE ESI SLE}
-
-  
-
 -च2 - {ESE LSE LIE EIE SLI IEI SEI LSI ILI EII}
 
   
