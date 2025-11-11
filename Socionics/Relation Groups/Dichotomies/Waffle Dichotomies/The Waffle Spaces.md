@@ -305,108 +305,39 @@
 {ILE IEE LII ILI} XAND {SEE SLE ESI SEI}
 -Y3 - {LIE SLI ESE IEI EII LSE EIE LSI}
 
-  
-
 # Systems 5 + 15 (Supervision Rings)
 
 +Z6 - Ascending Positivists + Ethical Negativists XAND Intuitive
-
-  
-
 {ILE IEI EIE IEE} XAND {SEE SLI LSE SLE}
-
 -Z6 - {LSI EII ESE LIE SEI LSI ILI EII}
 
-  
-  
-
 +Z3 - Central Negativists + Intuitive Positivists XAND Intuitive
-
-  
-
 {ILE IEI LIE EII EIE ILI} XAND {SEE SLI ESE LSI LSE SEI}
-
-  
-
 -Z3 - {LII SLE ESI IEE}
 
-  
-  
-
 +Z8 - Peripheral Positivists + Intuitive Negativists XAND Intuitive
-
-  
-
 {ILE IEE EIE EII LII ILI} XAND {SEE SLE LSE LSI ESI SEI}
-
-  
-
 -Z8 - {ESE IEI LIE SLI}
 
-  
-  
-
 +Z1 - Ascending Negativists + Logical Positivists XAND Intuitive
-
-  
-
 {ILE LIE EIE LII} XAND {SEE ESE LSE ESI}
-
-  
-
 -Z1 - {SEI LSI ILI EII SLE IEI SLI IEE}
 
-  
-  
-
 +Z2 - Peripheral Negativists + Intuitive Positivists XAND Intuitive
-
-  
-
 {ILE LIE IEI EII LII IEE} XAND {SEE ESE SLI LSI ESI SLE}
-
-  
-
 -Z2 - {SEI EIE ILI LSE}
 
-  
-  
-
 +Z7 - Ascending Positivists + Logical Negativists XAND Intuitive
-
-  
-
 {ILE IEI LII ILI} XAND {SEE SLI ESI SEI}
-
-  
-
 -Z7 - {ESE LIE SLE IEE LSI EII EIE LSE}
 
-  
-  
-
 +Z4 - Descending Negativists + Logical Positivists XAND Intuitive
-
-  
-
 {ILE LIE ILI IEE} XAND {SEE ESE SLE SEI}
-
-  
-
 -Z4 - {EII LSE EIE LSI SLI ESI LII IEI}
 
-  
-  
-
 +Z5 - Peripheral Positivists + Sensing Negativists XAND Intuitive
-
-  
-
 {ILE EII} XAND {SEE LSI}
-
 -Z5 - {SEI LSI ILI EII SLE IEI SLI IEE}
-
-  
 
 # Systems 2 + 15 (Displacement Groups)
 
