@@ -189,67 +189,28 @@
 
 +Z5 - LIE+EII HEF ΧΑΝD SEI+ESE HEF
 {ILE EII} ΧΑΝD {SEE LSI}
-
-  
-
 -Z5 - {ESE LII SEI EIE SLE IEI LIE ILI ESI LSE IEE SLI}
 
-  
-  
-
 +Z6 - LIE+EII HEF ΧΑΝD ILE+LII HEF
-
-  
-
 {ILE LSE IEI IEE} ΧΑΝD {SEE EIE SLI SLE}
-
-  
-
 -Z6 - {LII ESI SEI ILI LIE ESE LSI EII}
 
-  
-  
-
 +Z7 - LIE+EII HEF ΧΑΝD EIE+IEI HEF
-
-  
-
 {ILE ILI IEI ESI} ΧΑΝD {SEE SEI SLI LII}
-
-  
-
 -Z7 - {ESE LIE SLE IEE LSI EII EIE LSE}
 
-  
-  
-
 +Z8 - LIE+EII HEF ΧΑΝD EII+IEE HEF
-
-  
-
 {IEE ESI EII ILE ILI LSE} ΧΑΝD {SLE LII LSI SEE SEI EIE}
-
-  
-
 -Z8 - {ESE LIE IEI SLI}
-
-  
 
 # Systems 3 + 9 (Supervision Rings)
 
 +Z7 - ILE+SLE HEF ΧΑΝD SEI+LII HEF
-
-  
-
 {ILE SEI LII IEI} ΧΑΝD {SEE ILI ESI SLI}
-
-  
-
 -Z7 - {ESE LIE SLE IEE EIE LSI LSE EII}
 
   
   
-
 +Z6 - ILE+SLE HEF ΧΑΝD IEI+EII HEF
 
   
