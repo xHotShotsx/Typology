@@ -539,143 +539,53 @@
 {ILE EIE EII} XAND {SEE LSE LSI}
 -ख7 - {ESE SLE LIE IEE LII IEI ESI SLI SEI ILI}
 
-  
-  
-
 +ख8 - Peripheral Result + EII HEF XAND Intuitive
-
-  
-
 {IEE LII EII ILE EIE} XAND {SLE ESI LSI SEE LSE}
-
-  
-
 -ख8 - {ESE LIE SEI IEI ILI SLI}
-
-  
 
 # Systems 6 + 15 (Je+)
 
 +ग1 - Ascending Process + IEE HEF XAND Intuitive
-
-  
-
 {IEE ILE EIE} XAND {SLE SEE EIE}
-
-  
-
 -ग1 - {ESE SLI LIE IEI LII LSI ESI EII SEI ILI}
 
-  
-  
-
 +ग2 - Intuitive Process + ESI HEF XAND Intuitive
-
-  
-
 {ILE ILI EII EIE LIE} XAND {ESE SEE SEI LSI LSE}
-
-  
-
 -ग2 - {SLE IEE LII IEI ESI SLI}
 
-  
-  
-
 +ग3 - Intuitive Process + LII HEF XAND Intuitive
-
-  
-
 {ILE ILI EII EIE LII IEE IEI} XAND {SEE SEI LSI LSE ESI SLI SLE}
-
-  
-
 -ग3 - {ESE LIE}
 
-  
-  
-
 +ग4 - Ascending Process + SLE HEF XAND Intuitive
-
-  
-
 {LII LIE IEI ILE EIE} XAND {SEE SLI ESE ESI LSE}
-
-  
-
 -ग4 - {SEI ILI SLE IEE LSI EII}
 
-  
-  
-
 +ग5 - Peripheral Process + SLI HEF XAND Intuitive
-
-  
-
 {ILE EII LIE LII IEE} XAND {SEE LSI ESE ESI SLE}
-
-  
-
 -ग5 - {EIE LSE SEI ILI IEI SLI}
 
-  
-  
-
 +ग6 - Logical Process + ESE HEF XAND Intuitive
-
-  
-
 {ILE ILI LII} XAND {SEE SEI ESI}
-
-  
-
 -ग6 - {ESE EIE LIE LSE SLE IEE LSI IEI SLI EII}
 
-  
-  
-
 +ग7 - Logical Process + LIE HEF XAND Intuitive
-
-  
-
 {ILE ILI IEI LIE IEE} XAND {SLE ESE SEE SEI SLI}
-
 -ग7 - {EIE LSE LII LSI ESI EII}
 
-  
-  
-
 +ग8 - Peripheral Process + IEI HEF XAND Intuitive
-
-  
-
 {ILE EII IEI} XAND {SEE LSI SLI}
-
-  
-
 -ग8 - {EIE LSE ESE SLE LIE IEE LII ESI SEI ILI}
-
-  
 
 # Systems 1 + 7 (Ji-)
 
 +य1 - Logical Process + ESI HEF XAND Intuitive
-
-  
-
 {LIE ILE ILI} XAND {ESE SEE SEI}
 
-  
-
 -य1 - {EIE SLE LSE IEE LII ESI LSI IEI EII SLI}
-
-  
-  
-
 +य2 - Ascending Process + SLI HEF XAND Intuitive
 
   
-
 {ILE EIE LIE LII IEE} XAND {SLE ESI ESE LSE SEE}
 
   
