@@ -209,93 +209,32 @@
 {ILE SEI LII IEI} ΧΑΝD {SEE ILI ESI SLI}
 -Z7 - {ESE LIE SLE IEE EIE LSI LSE EII}
 
-  
-  
 +Z6 - ILE+SLE HEF ΧΑΝD IEI+EII HEF
-
-  
-
 {ILE LSE SLE IEI} ΧΑΝD {SEE EIE IEE SLI}
-
-  
-
 -Z6 - {LSI EII ESE LIE SEI LSI ILI EII}
 
-  
-  
-
 +Z5 - ILE+SLE HEF ΧΑΝD EIE+IEE HEF
-
-  
-
 {ILE LSI} ΧΑΝD {SEE EII}
-
-  
-
 -Z5 - {ESE IEI LIE SLI SEI EIE ILI LSE IEE ESI LII SLE}
 
-  
-  
-
 +Z8 - ILE+SLE HEF ΧΑΝD ILE+ESE HEF
-
-  
-
 {SLE LII ILE LSI LSE SEI} ΧΑΝD {IEE ESI SEE EII EIE ILI}
-
-  
-
 -Z8 - {ESE IEI LIE SLI}
 
-  
-  
-
 +Z3 - ILE+SLE HEF ΧΑΝD ILE+LIE HEF
-
-  
-
 {ILE SEI LSI LSE LIE IEI} ΧΑΝD {SEE ILI EII EIE ESE SLI}
-
-  
-
 -Z3 - {LII SLE ESI IEE}
 
-  
-
 +Z2 - ILE+SLE HEF ΧΑΝD EIE+SLE HEF
-
-  
-
 {ILE LSI SLE IEI LII LIE} ΧΑΝD {SEE EII IEE SLI ESI ESE}
-
-  
-
 -Z2 - {SEI EIE ILI LSE}
 
-  
-  
-
 +Z1 - ILE+SLE HEF ΧΑΝD EII+SLI HEF
-
-  
-
 {ILE LSE LIE LII} ΧΑΝD {SEE EIE ESE ESI}
-
-  
-
 -Z1 - {SEI LSI ILI EII SLE IEI SLI IEE}
 
-  
-  
-
 +Z4 - ILE+SLE HEF ΧΑΝD SEI+ESI HEF
-
-  
-
 {ILE SEI SLE LIE} ΧΑΝD {SEE ILI IEE ESE}
-
-  
-
 -Z4 - {EII LSE EIE LSI SLI ESI LII IEI}
 
   
