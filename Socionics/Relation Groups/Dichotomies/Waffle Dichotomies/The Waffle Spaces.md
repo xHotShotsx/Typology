@@ -445,121 +445,45 @@
 
 +Δ1 - ILE+ESI HEF ΧΑΝD Intuitive
 {ILE LIE} ΧΑΝD {SEE ESE}
-
-  
-
 -Δ1 - {ILI SEI LII ESI LSE EII IEE SLI SLE EIE LSI IEI}
 
-  
-  
-
 +Δ2 - SEI+LIE HEF ΧΑΝD Intuitive
-
-  
-
 {ILE EII EIE IEI LIE IEE} ΧΑΝD {SEE LSI LSE SLI ESE SLE}
-
-  
-
 -Δ2 - {SEI LII ILI ESI}
 
-  
-  
-
 +Δ3 - SLE+EII HEF ΧΑΝD Intuitive
-
-  
-
 {LIE LII IEI EII ILE ILI} ΧΑΝD {ESE ESI SLI LSI SEE SEI}
-
-  
-
 -Δ3 - {SLE EIE IEE LSE}
 
-  
-  
-
 +Δ4 - EIE+SLI HEF ΧΑΝD Intuitive
-
-  
-
 {ILE EIE ILI IEE LII LIE} ΧΑΝD {SEE LSE SEI SLE ESI ESE}
-
-  
-
 -Δ4 - {IEI LSI SLI EII}
 
-  
-  
-
 +Δ5 - SEI+ESE HEF ΧΑΝD Intuitive
-
-  
-
 {ILE EII EIE LII} ΧΑΝD {SEE LSI LSE ESI}
-
 -Δ5 - {SEI ESE SLE SLI ILI LIE IEE IEI}
 
-  
-  
-
 +Δ6 - ILE+LII HEF ΧΑΝD Intuitive
-
-  
-
 {ILE LII IEI IEE} ΧΑΝD {SEE ESI SLI SLE}
-
-  
-
 -Δ6 - {LSI LSE SEI ESE EII EIE ILI LIE}
 
-  
-  
-
 +Δ7 - EIE+IEI HEF ΧΑΝD Intuitive
-
-  
-
 {EIE ILI ILE IEI} ΧΑΝD {SLI SEE SEI LSE}
-
-  
-
 -Δ7 - {LII LIE EII IEE SLE LSI ESE ESI}
 
-  
-  
-
 +Δ8 - EII+IEE HEF ΧΑΝD Intuitive
-
-  
-
 {EII ILE ILI IEE} ΧΑΝD {LSI SEE SEI SLE}
-
-  
-
 -Δ8 - {LII EIE LIE IEI ESI LSE ESE SLI}
-
-  
 
 # Systems 1 + 15 (Pe+)
 
 +फ1 - Intuitive XAND Descending Result + EII HEF
-
-  
-
 {ILE ILI EII LIE IEE} XAND {ESE SLE LSI SEI SEE}
-
-  
-
 -फ1 - {LII ESI IEI SLI EIE LSE}
-
-  
-  
 
 +फ2 - Intuitive XAND Logical Result + SEI HEF
 
   
-
 {LII LIE ILE EII EIE} XAND {SEE ESE ESI LSI LSE}
 
   
