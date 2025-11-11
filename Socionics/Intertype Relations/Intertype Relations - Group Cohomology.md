@@ -1229,4 +1229,8 @@ $a=(0, 0, 1, 1)$
 
 # Further Reading
 
+1. [[The Waffle Spaces]]
+
+# References
+
 1. 
