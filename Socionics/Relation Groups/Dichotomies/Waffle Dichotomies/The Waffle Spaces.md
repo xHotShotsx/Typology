@@ -269,112 +269,40 @@
 
 +Y4 - ILE+SLE HEF ΧΑΝD EII+IEE HEF
 {ILE LSE} ΧΑΝD {SEE EIE}
-
 -Y4 - {ESE LIE SLE IEE LII LSI SEI ILI EII IEI SLI ESI}
-
-  
 
 # Systems 8 + 15 (Benefit Rings)
 
 +Y6 - Logical Extroverts + Central Introverts XAND Intuitive
-
-  
-
 {ILE LIE IEI ILI} XAND {SEE ESE SLI SEI}
-
-  
-
 -Y6 - {EIE LSE SLE IEE LII LSI ESI EII}
 
-  
-  
-
 +Y5 - Intuitive Extroverts + Ascending Introverts XAND Intuitive
-
-  
-
 {ILE EIE LIE IEE LII IEI} XAND {SEE LSE ESE SLE ESI SLI}
-
-  
-
 -Y5 - {SEI LSI ILI EII}
 
-  
-  
-
 +Y8 - Logical Extroverts + Peripheral Introverts XAND Intuitive
-
-  
-
 {ILE LIE LII EII} XAND {SEE ESE ESI LSI}
-
-  
-
 -Y8 - {ILI SEI SLI IEI SLE LSE EIE IEE}
 
-  
-  
-
 +Y7 - Intuitive Extroverts + Descending Introverts XAND Intuitive
-
-  
-
 {ILE LIE EIE IEE ILI EII} XAND {SEE ESE LSE SLE SEI LSI}
-
-  
-
 -Y7 - {LII IEI ESI SLI}
 
-  
-  
-
 +Y2 - Ascending Introverts + Intuitive Introverts XAND Intuitive
-
-  
-
 {ILE EIE LII EII IEI ILI} XAND {SEE LSE ESI LSI SLI SEI}
-
-  
-
 -Y2 - {ESE SLE LIE IEE}
 
-  
-  
-
 +Y1 - Peripheral Extroverts + Ethical Introverts XAND Intuitive
-
-  
-
 {ILE IEE EII IEI} XAND {SEE SLE LSI SLI}
-
-  
-
 -Y1 - {LIE ESI LII ESE SEI ILI EIE LSE}
 
-  
-  
-
 +Y4 - Ascending Extroverts + Sensing Introverts XAND Intuitive
-
-  
-
 {ILE EIE} XAND {SEE LSE}
-
-  
-
 -Y4 - {ESE LIE SLE IEE LII LSI SEI ILI EII IEI SLI ESI}
 
-  
-  
-
 +Y3 - Peripheral Extroverts + Logical Introverts XAND Intuitive
-
-  
-
 {ILE IEE LII ILI} XAND {SEE SLE ESI SEI}
-
-  
-
 -Y3 - {LIE SLI ESE IEI EII LSE EIE LSI}
 
   
