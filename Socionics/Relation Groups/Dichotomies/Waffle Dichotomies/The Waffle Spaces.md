@@ -342,107 +342,36 @@
 # Systems 2 + 15 (Displacement Groups)
 
 +A1 - Intuitive ΧΑΝD LIE+EII HEF
-
-  
-
 {EII ILE ILI LIE IEI IEE} ΧΑΝD {LSI SEE SEI ESE SLI SLE}
-
-  
-
 -A1 - {ESI LSE EIE LII}
 
-  
-  
-
 +A2 - Intuitive ΧΑΝD SEI+SLE HEF
-
-  
-
 {ILE EII EIE LII LIE IEI} ΧΑΝD {SEE LSI LSE ESI ESE SLI}
-
-  
-
 -A2 - {SEI SLE ILI IEE}
 
-  
-  
-
 +A3 - Intuitive ΧΑΝD ILE+SLI HEF
-
-  
-
 {ILE LII LIE IEI} ΧΑΝD {SEE ESI ESE SLI}
-
-  
-
 -A3 - {SEI ILI LSI EII SLE EIE LSE IEE}
 
-  
-  
-
 +A4 - Intuitive ΧΑΝD EIE+ESI HEF
-
-  
-
 {ILE EIE ILI LIE} ΧΑΝD {SEE LSE SEI ESE}
-
-  
-
 -A4 - {SLE IEE LII ESI LSI IEI SLI EII}
 
-  
-  
-
 +A5 - Intuitive ΧΑΝD LII+EIE HEF
-
-  
-
 {LII IEE IEI ILE ILI EIE} ΧΑΝD {ESI SLE SLI SEE SEI LSE}
-
-  
-
 -A5 - {ESE LSI LIE EII}
 
-  
-  
-
 +A6 - Intuitive ΧΑΝD ILE+IEI HEF
-
-  
-
 {IEI ILE} ΧΑΝD {SLI SEE}
-
-  
-
 -A6 - {ESE LSI LIE EII LII SEI SLE EIE ILI ESI LSE IEE}
 
-  
-  
-
 +A7 - Intuitive ΧΑΝD SEI+IEE HEF
-
-  
-
 {ILE EII EIE IEE} ΧΑΝD {SEE LSI LSE SLE}
-
-  
-
 -A7 - {ESE LII LIE ESI IEI SLI SEI ILI}
 
-  
-  
-
 +A8 - Intuitive ΧΑΝD ESE+EII HEF
-
-  
-
 {LII ILI ILE EII} ΧΑΝD {ESI SEI SEE LSI}
-
-  
-
 -A8 - {ESE LIE IEI SLI EIE LSE SLE IEE}
-
-  
 
 # Systems 3 + 15 (Temperament)
 
