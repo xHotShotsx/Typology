@@ -482,93 +482,32 @@
 -फ1 - {LII ESI IEI SLI EIE LSE}
 
 +फ2 - Intuitive XAND Logical Result + SEI HEF
-
-  
 {LII LIE ILE EII EIE} XAND {SEE ESE ESI LSI LSE}
-
-  
-
 -फ2 - {SEI ILI IEE SLE IEI SLI}
 
-  
-  
-
 +फ3 - Intuitive XAND Intuitive Result + ILE HEF
-
-  
-
 {ILE LII LIE IEI IEE} XAND {SEE ESI ESE SLI SLE}
-
-  
-
 -फ3 - {LSE LSI SEI ILI EII EIE}
 
-  
-  
-
 +फ4 - Intuitive XAND Central Result + EIE HEF
-
-  
-
 {ILE ILI EIE IEI LIE} XAND {SEE SEI LSE SLI ESE}
-
-  
-
 -फ4 - {LII ESI LSI EII SLE IEE}
 
-  
-  
-
 +फ5 - Intuitive XAND Peripheral Result + EIE HEF
-
-  
-
 {LII IEE ILE EIE ILI} XAND {ESI SLE SEE LSE SEI}
-
-  
-
 -फ5 - {LSI EII ESE SLI LIE IEI}
 
-  
-  
-
 +फ6 - Intuitive XAND Sensing Result + ILE HEF
-
-  
-
 {ILE} XAND {SEE}
-
-  
-
 -फ6 - {ESE LIE LII SEI ILI ESI SLE EIE IEE LSE EII LSI SLI IEI}
 
-  
-  
-
 +फ7 - Intuitive XAND Ethical Result + SEI HEF
-
-  
-
 {ILE EII EIE IEI IEE} XAND {SEE LSI LSE SLI SLE}
-
-  
-
 -फ7 - {LII LIE ESE ESI SEI ILI}
 
-  
-  
-
 +फ8 - Intuitive XAND Ascending Result + EII HEF
-
-  
-
 {EII ILI ILE LII IEI} XAND {LSI SEI SEE ESI SLI}
-
-  
-
 -फ8 - {IEE LIE ESE SLE LSE EIE}
-
-  
 
 # Systems 4 + 15 (Pi-)
 
