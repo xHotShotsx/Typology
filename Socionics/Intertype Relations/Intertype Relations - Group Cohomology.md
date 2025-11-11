@@ -1234,3 +1234,4 @@ $a=(0, 0, 1, 1)$
 # References
 
 1. 
+2. Tencer, I. (2024). "The Mathematics of Socionics"
