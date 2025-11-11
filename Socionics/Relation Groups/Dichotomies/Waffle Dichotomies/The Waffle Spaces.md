@@ -32,7 +32,6 @@
 {EIE, IEI, ILE, LIE} ΧΑΝD {LSE, SLI, SEE, ESE}
 -X7 - {SEI, LII, ESI, ILI, SLE, LSI, IEE, EII}
 
-
 # Systems 5 + 8 (Stress Resistance)
 
 +X5 - Ascending Positivists + Ethical Negativists ΧΑΝD Logical Extraverts + Peripheral Introverts
@@ -740,25 +739,9 @@
 -ज6 - {IEI SLI}
 
 +ज7 - ESE HEF + Ascending Process XAND Intuitive
-
-
 {LII ILE EIE} XAND {ESI SEE LSE}
-
-  
-
 -ज7 - {SLI IEI SEI LSI ILI EII ESE SLE LIE IEE}
 
-  
-  
-
 +ज8 - SLI HEF + Ascending Process XAND Intuitive
-
-  
-
 {LIE LII IEE ILE EIE} XAND {ESE ESI SLE SEE LSE}
-
-  
-
 -ज8 - {SEI ILI LSI IEI SLI EII}
-
-**
