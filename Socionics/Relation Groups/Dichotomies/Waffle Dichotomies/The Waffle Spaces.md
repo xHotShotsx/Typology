@@ -376,105 +376,36 @@
 # Systems 3 + 15 (Temperament)
 
 +B1 - Intuitive ΧΑΝD ILE+SLE HEF
-
-  
-
 {ILE LII LIE IEI} ΧΑΝD {SEE ESI ESE SLI}
-
 -B1 - {LSI EII SEI ILI SLE EIE LSE IEE}
 
-  
-  
-
 +B2 - Intuitive ΧΑΝD SEI+SLI HEF
-
-  
-
 {ILE EII EIE LII LIE IEE} ΧΑΝD {SEE LSI LSE ESI ESE SLE}
-
-  
-
 -B2 - {SEI IEI ILI SLI}
 
-  
-  
-
 +B3 - Intuitive + ESI+EII HEF
-
-  
-
 {EII ILE LIE ILI} ΧΑΝD {LSI ESE SEE SEI}
-
-  
-
 -B3 - {LSE ESI SLE SLI EIE LII IEE IEI}
 
-  
-  
-
 +B4 - Intuitive ΧΑΝD EIE+LIE HEF
-
-  
-
 {EIE ILE ILI LIE IEI IEE} ΧΑΝD {LSE SEE SEI ESE SLI SLE}
-
-  
-
 -B4 - {LII LSI ESI EII}
 
-  
-  
-
 +B5 - Intuitive ΧΑΝD SEI+IEI HEF
-
-  
-
 {ILE EII EIE IEI} ΧΑΝD {SEE LSI LSE SLI}
-
-  
-
 -B5 - {ESE LIE LII ESI SLE IEE SEI ILI}
 
-  
-  
-
 +B6 - Intuitive ΧΑΝD ILE+IEE HEF
-
-  
-
 {ILE IEE} ΧΑΝD {SLE SEE}
-
-  
-
 -B6 - {ESE LIE EIE LSE LII SEI ILI ESI IEI SLI EII SLI}
 
-  
-  
-
 +B7 - Intuitive ΧΑΝD ESE+EIE HEF
-
-  
-
 {LII ILI ILE EIE} ΧΑΝD {ESI SEI SEE LSE}
-
-  
-
 -B7 - {ESE SLE SLI IEI IEE LIE LSI EII}
 
-  
-  
-
 +B8 - Intuitive ΧΑΝD LII+EII HEF
-
-  
-
 {ILE EII ILI IEE LII IEI} ΧΑΝD {SEE LSI SLE ESI SLI}
-
-  
-
 -B8 - {ESE EIE LIE LSE}
-
-  
 
 # Systems 9 + 15 (Challenge Response Groups)
 
