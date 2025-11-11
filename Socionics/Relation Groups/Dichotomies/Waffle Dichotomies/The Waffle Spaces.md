@@ -36,65 +36,23 @@
 # Systems 5 + 8 (Stress Resistance)
 
 +X5 - Ascending Positivists + Ethical Negativists ΧΑΝD Logical Extraverts + Peripheral Introverts
-
-  
-
 {ILE SEI} ΧΑΝD {SEE ILI}
-
-  
-
 -X5 - {ESE LII LIE ESI LSI EIE SLE IEI LSE EII IEE SLI}
 
-  
-  
-
 +X6 - Ascending Positivists + Ethical Negativists ΧΑΝD Intuitive Extroverts + Ascending Introverts
-
-  
-
 {ILE SEI IEI LSI EIE IEE} ΧΑΝD {SEE ILI EII SLI LSE SLE}
-
-  
-
 -X6 - {LII ESE ESI LIE}
 
-  
-  
-
 +X8 - Ascending Positivists + Ethical Negativists ΧΑΝD Logical Extroverts + Central Introverts
-
-  
-
 {ILE IEI LSI ESI} ΧΑΝD {SEE SLI EII LII}
-
-  
-
 -X8 - {SEI, ESE, ILI, LIE, SLE, EIE, IEE, LSE}
 
-  
-  
-
 +X3 - Ascending Positivists + Ethical Negativists ΧΑΝD Intuitive Extroverts + Descending Introverts
-
-  
-
 {ILE EIE IEE ESI} ΧΑΝD {SEE SLE LSE LII}
-
-  
-
 -X3 - {ESE, SEI, ILI, LIE, IEI, LSI, EII, SLI}
 
-  
-  
-
 +X7 - Ascending Positivists + Ethical Negativists ΧΑΝD Ascending Extroverts + Intuitive Introverts
-
-  
-
 {ILE ESE IEI EIE} ΧΑΝD {SEE LIE SLI LSE}
-
-  
-
 -X7 - {SEI, LII, ESI, ILI, SLE, LSI, IEE, EII}
 
   
