@@ -655,137 +655,48 @@
 {ILE LII IEE} XAND {SEE ESI SLE}
 -च2 - {ESE LSE LIE EIE SLI IEI SEI LSI ILI EII}
 
-  
-  
-
 +च3 - Logical Result + EII HEF XAND Intuitive
-
-  
-
 {LII LIE EII ILE EIE} XAND {ESI ESE LSI SEE LSE}
-
-  
-
 -च3 - {SLE IEE SEI ILI LSI EII}
 
-  
-  
-
 +च4 - Ethical Result + EII HEF XAND Intuitive
-
-  
-
 {IEI IEE EII ILE EIE} XAND {SEE LSE SLE LSI SLI}
-
-  
-
 -च4 - {LII SEI ILI ESI ESE LIE}
 
-  
-  
-
 +च5 - Ascending Result + SEI HEF XAND Intuitive
-
-  
-
 {ILE EIE EII LII IEI} XAND {SEE LSE LSI ESI SLI}
-
-  
-
 -च5 - {ESE LIE SLE IEE SEI ILI}
 
-  
-  
-
 +च6 - Descending Result + SEI HEF XAND Intuitive
-
-  
-
 {LIE IEE EIE EII ILE} XAND {ESE SLE LSE LSI SEE}
-
-  
-
 -च6 - {LII IEI ESI SLI SEI ILI}
 
-  
-  
-
 +च7 - Sensing Result + EIE HEF XAND Intuitive
-
-  
-
 {ILE EIE ILI} XAND {SEI LSE SEE}
-
-  
-
 -च7 - {ESE LII SLE IEI LIE ESI IEE SLI LSI EII}
 
-  
-  
-
 +च8 - Intuitive Result + EIE HEF XAND Intuitive
-
-  
-
 {ILE EIE ILI LII LIE IEE IEI} XAND {SEE LSE SEI ESI ESE SLE SLI}
-
-  
-
 -च8 - {LSI EII}
-
-  
 
 # System 13 + 15 (Pe-)
 
 +घ1 - SLI HEF + Logical Process XAND Intuitive
-
-  
-
 {ILE ILI LIE LII IEE} XAND {SEE SEI ESE ESI SLE}
-
 -घ1 - {EIE LSE LSI IEI SLI EII}
 
-  
-  
-
 +घ2 - IEI HEF + Logical Process XAND Intuitive
-
-  
-
 {ILE ILI IEI} XAND {SEE SEI SLI}
-
-  
-
 -घ2 - {LII LSI ESI EII SLE IEE EIE LSE ESE LIE}
 
-  
-  
-
 +घ3 - LIE HEF + Peripheral Process XAND Intuitive
-
-  
-
 {LIE IEE IEI ILE EII} XAND {ESE SLE SLI SEE LSI}
-
-  
-
 -घ3 - {LII SEI ILI ESI EIE LSE}
 
-  
-  
-
 +घ4 - ESE HEF + Peripheral Process XAND Intuitive
-
-  
-
 {ILE EII LII} XAND {SEE LSI ESI}
-
-  
-
 -घ4 - {ESE LIE SLE IEE LSE EIE SEI SLI IEI ILI}
 
-  
-  
 
 +घ5 - IEE HEF + Intuitive Process XAND Intuitive
 
