@@ -1,9 +1,7 @@
 # Reinin + Tencer-Minaev (Stress Resistance)
 
 +X1 - Intuitive ΧΑΝD 1stAbstract
-
 {ILE, LII, ILI, LIE, IEE, IEI} ΧΑΝD {SLE, SLI, SEE, SEI, ESE, ESI}
-
 -X1 - {EIE, LSI, LSE, EII}
 
 
@@ -13,78 +11,27 @@
 
 +X2 - Intuitive ΧΑΝD 2ndAbstract
 {ILE, LII, ILI, LIE, EIE, EII} ΧΑΝD {ESE, SEI, SEE, ESI, LSE, LSI}
-
-  
-
 -X2 - {IEE, IEI, SLE, SLI}
 
-  
-  
-
 +X8 - Intuitive ΧΑΝD 2ndAlpha
-
-  
-
 {ILE, LII, EII, IEI} ΧΑΝD {SEE, ESI, LSI, SLI}
-
-  
-
 -X8 - {SEI, ESE, ILI, LIE, SLE, EIE, IEE, LSE}
 
-  
-  
-
 +X6 - Intuitive ΧΑΝD 1stInternal
-
-  
-
 {ILE, IEE, EII, EIE, IEI, ILI} ΧΑΝD {SLE, SLI, LSI, LSE, SEI, SEE}
-
-  
-
 -X6 - {LII, ESE, LIE, ESI}
 
-  
-  
-
 +X4 - Intuitive ΧΑΝD 1stDelta
-
-  
-
 {ILE, IEE, EII, LIE} ΧΑΝD {SLE, LSI, ESE, SEE}
-
-  
-
 -X4 - {EIE, IEI, SLI, LSE, LII, SEI, ILI, ESI}
 
-  
-  
-
 +X5 - Intuitive ΧΑΝD 2ndExternal
-
-  
-
 {ILE, ILI} ΧΑΝD {SEI, SEE}
-
-  
-
 -X5 - {ESE, LII, LIE, ESI, SLE, LSI, EIE, IEI, IEE, EII, SLI, LSE}
 
-  
-  
-
 +X7 - Intuitive ΧΑΝD 2ndBeta
-
-  
-
 {EIE, IEI, ILE, LIE} ΧΑΝD {LSE, SLI, SEE, ESE}
-
-  
-
 -X7 - {SEI, LII, ESI, ILI, SLE, LSI, IEE, EII}
-
-  
-
 {EIE IEE ILE IEI} ΧΑΝD {SLI SEE SLE LSE}
 
   
