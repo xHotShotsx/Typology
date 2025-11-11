@@ -410,114 +410,40 @@
 # Systems 9 + 15 (Challenge Response Groups)
 
 +Γ1 - SEI+LII HEF ΧΑΝD Intuitive
-
-  
-
 {ILE EIE EII IEE IEI LII} ΧΑΝD {SEE LSE LSI SLE SLI ESI}
-
-  
-
 -Γ1 - {SEI ESE ILI LIE}
 
-  
-  
-
 +Γ2 - IEI+EII HEF ΧΑΝD Intuitive
-
-  
-
 {IEI EII ILE ILI} ΧΑΝD {SLI LSI SEE SEI}
-
-  
-
 -Γ2 - {SLE ESI ESE LSE IEE LII LIE EIE}
 
-  
-  
-
 +Γ3 - EIE+IEE HEF ΧΑΝD Intuitive
-
-  
-
 {ILE ILI EIE IEE} ΧΑΝD {SLE SEE SEI LSE}
-
-  
-
 -Γ3 - {ESI SLI ESE LSI LII IEI LIE EII}
 
-  
-  
-
 +Γ4 - ILE+ESE HEF ΧΑΝD Intuitive
-
-  
-
 {ILE LII} ΧΑΝD {ESI SEE}
-
-  
-
 -Γ4 - {ESE SEI LIE ILI LSI EIE SLE IEI LSE IEE EII SLI}
 
-  
-  
-
 +Γ5 - ILE+LIE HEF ΧΑΝD Intuitive
-
-  
-
 {ILE LIE IEI IEE} ΧΑΝD {SEE ESE SLI SLE}
-
-  
-
 -Γ5 - {SEI LSI LSE ESI LII ILI EII EIE}
 
-  
-  
-
 +Γ6 - EIE+SLE HEF ΧΑΝD Intuitive
-
-  
-
 {ILE ILI EIE LII LIE IEI} ΧΑΝD {SEE SEI LSE ESI ESE SLI}
-
-  
-
 -Γ6 - {SLE LSI IEE EII}
 
-  
-  
-
 +Γ7 - EII+SLI HEF ΧΑΝD Intuitive
-
-  
-
 {ILE EII ILI LII LIE IEE} ΧΑΝD {SEE ESI LSI SEI ESE SLE}
-
-  
-
 -Γ7 - {EIE IEI LSE SLI}
 
-  
-  
-
 +Γ8 - SEI+ESI HEF ΧΑΝD Intuitive
-
-  
-
 {ILE EII EIE LIE} ΧΑΝD {SEE LSI LSE ESE}
-
-  
-
 -Γ8 - {SEI ESI SLE SLI ILI LII IEE IEI}
-
-  
 
 # Systems 12 + 15 (Positivity Groups)
 
 +Δ1 - ILE+ESI HEF ΧΑΝD Intuitive
-
-  
-
 {ILE LIE} ΧΑΝD {SEE ESE}
 
   
