@@ -166,73 +166,28 @@
 -Y7 - {LII IEI ESI SLI}
 
 +Y8 - LIE+EII HEF ΧΑΝD SEI+ESI HEF
-
-  
-
 {LIE ESI EII ILE} ΧΑΝD {ESE LII LSI SEE}
-
-  
-
 -Y8 - {IEI IEE SLI SLE SEI LSE ILI EIE}
 
 # Systems 2 + 12 (Supervision Rings)
 
 +Z1 - LIE+EII HEF ΧΑΝD ILE+ESI HEF
-
-  
-
 {ILE LSE LIE ESI} ΧΑΝD {LII ESE SEE EIE}
-
-  
-
 -Z1 - {SEI LSI ILI EII SLE IEI SLI IEE}
 
-  
-  
-
 +Z2 - LIE+EII HEF ΧΑΝD SEI+LIE HEF
-
-  
-
 {EII ILE LIE ESI IEI IEE} ΧΑΝD {SLE SLI LII ESE SEE LSI}
-
-  
-
 -Z2 - {SEI ILI EIE LSE}
 
-  
-  
-
 +Z3 - LIE+EII HEF ΧΑΝD SLE+EII HEF
-
-  
-
 {EII ILI ILE LSE LIE IEI} ΧΑΝD {ESE SLI LSI SEE SEI EIE}
-
-  
-
 -Z3 - {LII SLE ESI IEE}
 
-  
-  
-
 +Z4 - LIE+EII HEF ΧΑΝD EIE+SLI HEF
-
-  
-
 {ILI ILE LIE IEE} ΧΑΝD {ESE SLE SEE SEI}
-
-  
-
 -Z4 - {EII LSE EIE LSI SLI ESI LII IEI}
 
-  
-  
-
 +Z5 - LIE+EII HEF ΧΑΝD SEI+ESE HEF
-
-  
-
 {ILE EII} ΧΑΝD {SEE LSI}
 
   
