@@ -4,7 +4,6 @@
 {ILE, LII, ILI, LIE, IEE, IEI} ΧΑΝD {SLE, SLI, SEE, SEI, ESE, ESI}
 -X1 - {EIE, LSI, LSE, EII}
 
-
 +X3 - Intuitive ΧΑΝD 1stAlpha
 {ILE, LII, IEE, EIE} ΧΑΝD {SEE, ESI, SLE, LSE}
 -X3 - {ESE, SEI, ILI, LIE, IEI, LSI, EII, SLI}
@@ -32,9 +31,7 @@
 +X7 - Intuitive ΧΑΝD 2ndBeta
 {EIE, IEI, ILE, LIE} ΧΑΝD {LSE, SLI, SEE, ESE}
 -X7 - {SEI, LII, ESI, ILI, SLE, LSI, IEE, EII}
-{EIE IEE ILE IEI} ΧΑΝD {SLI SEE SLE LSE}
 
-  
 
 # Systems 5 + 8 (Stress Resistance)
 
