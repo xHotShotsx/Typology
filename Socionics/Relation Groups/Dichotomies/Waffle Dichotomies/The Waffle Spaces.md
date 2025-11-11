@@ -119,74 +119,27 @@
 {ILE LSE SEI LSI SLE SLI} ΧΑΝD {SEE EIE ILI EII IEE IEI}
 -X6 - {ESI LII LIE ESE}
 
-  
-  
-
 +X2 - ILE+ESI HEF ΧΑΝD ILE+LIE HEF
-
-  
-
 {ILE LSI SEI LSE LIE ESI} ΧΑΝD {SEE EII ILI EIE ESE LII}
-
-  
-
 -X2 - {SLE IEI IEE SLI}
 
-  
-  
-
 +X4 - ILE+ESI HEF ΧΑΝD EIE+SLE HEF
-
-  
-
 {ILE LSI SLE LIE} ΧΑΝD {SEE EII IEE ESE}
-
-  
-
 -X4 - {EIE LSE IEI SLI LII SEI ESI ILI}
 
-  
-  
-
 +X7 - ILE+ESI HEF ΧΑΝD EII+SLI HEF
-
-  
-
 {ILE LSE SLI LIE} ΧΑΝD {SEE EIE IEI ESE}
-
-  
-
 -X7 - {SLE IEE SEI ILI LSI EII ESI LII}
 
-  
-  
-
 +X1 - ILE+ESI HEF ΧΑΝD SEI+ESI HEF
-
-  
-
 {ILE SEI ESI LIE SLE SLI} ΧΑΝD {SEE ILI LII ESE IEE IEI}
-
-  
-
 -X1 - {LSI EIE LSE EII}
-
-  
 
 # Systems 2 + 9 (Benefit Rings)
 
 +Y1 - LIE+EII HEF ΧΑΝD SEI+LII HEF
-
-  
-
 {EII ILE IEI IEE} ΧΑΝD {LSI SEE SLI SLE}
-
-  
-
 -Y1 - {LIE ESI LII ESE SEI ILI EIE LSE}
-
-  
-  
 
 +Y2 - LIE+EII HEF ΧΑΝD IEI+EII HEF
 
