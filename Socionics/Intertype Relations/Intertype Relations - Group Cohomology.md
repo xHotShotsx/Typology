@@ -1235,3 +1235,4 @@ $a=(0, 0, 1, 1)$
 
 1. Newman, M. (2023). *"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*. https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
 2. Tencer, I. (2024). *"The Mathematics of Socionics"*. https://sedecology.com/math. [Date accessed: 11/11/2025].
+3. 
