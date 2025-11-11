@@ -1233,5 +1233,5 @@ $a=(0, 0, 1, 1)$
 
 # References
 
-1. 
+1. Newman, M. (2023). "There are 1"
 2. Tencer, I. (2024). "The Mathematics of Socionics". https:www//sedecology.com/math. [Date accessed: 11/11/2025].
