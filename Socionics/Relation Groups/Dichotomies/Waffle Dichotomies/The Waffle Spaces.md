@@ -79,20 +79,10 @@
 
 +X8 - ILE+SLE HEF ΧΑΝD LII+EIE HEF
 {ILE LSI LII IEI} ΧΑΝD {SEE EII ESI SLI}
-
 -X8 - {SEI, ESE, ILI, LIE, SLE, EIE, IEE, LSE} 
 
-  
-  
-
 +X2 - ILE+SLE HEF ΧΑΝD ILE+SLI HEF
-
-  
-
 {ILE LSI LSE SEI LIE LII} ΧΑΝD {SEE EII EIE ILI ESE ESI}
-
-  
-
 -X2 - {SLI IEI SLE IEE}
 
   
