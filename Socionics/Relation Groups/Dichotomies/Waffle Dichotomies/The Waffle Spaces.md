@@ -85,110 +85,38 @@
 {ILE LSI LSE SEI LIE LII} ΧΑΝD {SEE EII EIE ILI ESE ESI}
 -X2 - {SLI IEI SLE IEE}
 
-  
-
-{EII ILE ILI LIE IEI IEE} ΧΑΝD {LSI SEE SEI ESE SLI SLE} / {LSE ESI EIE 
-
 +X4 - ILE+SLE HEF ΧΑΝD EIE+ESI HEF
-
-  
-
 {ILE LSI SLE LIE} ΧΑΝD {SEE EII IEE ESE}
-
-  
-
 -X4 - {SEI LII ILI ESI EIE SLI LSE IEI}
 
-  
-  
-
 +X6 - ILE+SLE HEF ΧΑΝD ILE+IEI HEF
-
-  
-
 {ILE LSI LSE SEI IEI SLE} ΧΑΝD {SEE EII EIE ILI SLI IEE}
-
-  
-
 -X6 - {ESE LII LIE ESI}
 
-  
-  
-
 +X3 - ILE+SLE HEF ΧΑΝD ESE+EII HEF
-
-  
-
 {ILE LSE SLE LII} ΧΑΝD {SEE EIE IEE ESI}
-
-  
-
 -X3 - {SEI LSI IEI ILI SLI EII ESE LIE}
 
-  
-  
-
 +X1 - ILE+SLE HEF ΧΑΝD SEI+SLE HEF
-
-  
-
 {ILE SEI SLE IEI LIE LII} ΧΑΝD {SEE ILI IEE SLI ESE ESI}
-
-  
-
 -X1 - {EIE LSI LSE EII}
-
-  
 
 # Systems 9 + 12 (Stress Resistance)
 
 +X5 - ILE+ESI HEF ΧΑΝD SEI+LII HEF
-
-  
-
 {ILE SEI} ΧΑΝD {SEE ILI}
-
-  
-
 -X5 - {ESE LII LSI EIE SLE IEI ESI LIE IEE SLI LSE EII}
 
-  
-  
-
 +X3 - ILE+ESI HEF ΧΑΝD IEI+EII HEF
-
-  
-
 {ILE LSE ESI SLE} ΧΑΝD {SEE EIE LII IEE}
-
-  
-
 -X3 - {SEI ILI LSI IEI SLI EII ESE LIE}
 
-  
-  
-
 +X8 - ILE+ESI HEF ΧΑΝD EIE+IEE HEF
-
-  
-
 {ILE ESI SLI LSI} ΧΑΝD {SEE LII IEI EII}
-
-  
-
 -X8 - {ESE EIE SLE LSE IEE LIE SEI ILI}
 
-  
-  
-
 +X6 - ILE+ESI HEF ΧΑΝD ILE+ESE HEF
-
-  
-
 {ILE LSE SEI LSI SLE SLI} ΧΑΝD {SEE EIE ILI EII IEE IEI}
-
-  
-
 -X6 - {ESI LII LIE ESE}
 
   
