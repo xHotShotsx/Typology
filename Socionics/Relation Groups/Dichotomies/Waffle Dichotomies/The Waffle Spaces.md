@@ -512,89 +512,31 @@
 # Systems 4 + 15 (Pi-)
 
 +ख1 - Central Result + EII HEF XAND Intuitive
-
-  
-
 {EII ILE ILI IEI LIE} XAND {LSI SEE SEI SLI ESE}
-
-  
-
 -ख2 - {LSE EIE SLE ESI IEE LII}
 
-  
-  
-
 +ख2 - Intuitive Result + SEI HEF XAND Intuitive
-
-  
-
 {LII LIE IEI IEE ILE EIE EII} XAND {ESI ESE SLI SLE SEE LSE LSI}
-
 -ख2 - {SEI ILI}
 
-  
-  
-
 +ख3 - Logical Result + ILE HEF XAND Intuitive
-
-  
-
 {LII LIE ILE} XAND {SEE ESE ESI}
-
-  
-
 -ख3 - {SEI ILI EIE IEE SLE LSE EII IEI LSI SLI}
 
-  
-  
-
 +ख4 - Descending Result + EIE HEF XAND Intuitive
-
-  
-
 {ILE EIE ILI LIE IEE} XAND {SEE LSE SEI ESE SLE}
-
-  
-
 -ख4 - {LII ESI LSI IEI SLI EII}
 
-  
-  
-
 +ख5 - Ascending Result + EIE HEF XAND Intuitive
-
-  
-
 {LII IEI EIE ILE ILI} XAND {ESI SLI LSE SEE SEI}
-
-  
-
 -ख5 - {ESE LIE SLE IEE SEI ILI}
 
-  
-  
-
 +ख6 - Ethical Result + ILE HEF XAND Intuitive
-
-  
-
 {IEI IEE ILE} XAND {SLI SLE SEE}
-
-  
-
 -ख6 - {ESE LIE LSE EIE LII LSI ILI ESI SEI EII}
 
-  
-  
-
 +ख7 - Sensing Result + SEI HEF XAND Intuitive
-
-  
-
 {ILE EIE EII} XAND {SEE LSE LSI}
-
-  
-
 -ख7 - {ESE SLE LIE IEE LII IEI ESI SLI SEI ILI}
 
   
