@@ -697,139 +697,50 @@
 {ILE EII LII} XAND {SEE LSI ESI}
 -घ4 - {ESE LIE SLE IEE LSE EIE SEI SLI IEI ILI}
 
-
 +घ5 - IEE HEF + Intuitive Process XAND Intuitive
-
-  
-
 {IEE ILI ILE EIE EII} XAND {SLE SEI SEE LSE LSI}
-
-  
-
 -घ5 - {LII ESI IEI SLI ESE LIE}
 
-  
-  
-
 +घ6 - SLE HEF + Intuitive Process XAND Intuitive
-
-  
-
 {LII LIE IEI ILE ILI EIE EII} XAND {ESI ESE SLI SEE SEI LSE LSI}
-
-  
-
 -घ6 - {SLE IEE}
 
-  
-  
-
 +घ7 - LII HEF + Ascending Process XAND Intuitive
-
-  
-
 {LII IEI IEE ILE EIE} XAND {LSE SEE SLE SLI ESI}
-
-  
-
 -घ7 - {ESE LIE SEI ILI LSI EII}
 
-  
-  
-
 +घ8 - ESI HEF + Ascending Process XAND Intuitive
-
-  
-
 {LIE ILE EIE} XAND {ESE SEE LSE}
-
 -घ8 - {SLE IEE LII SEI LSI IEI ILI ESI EII SLI}
-
-  
 
 # Systems 15 + 16 (Pi+)
 
 +ज1 - SLE HEF + Logical Process XAND Intuitive
-
-  
-
-{ILE ILI LIE IEI LII} XAND {SEE SEI ESE SLI ESI}
-
-  
-
+{ILE ILI LIE IEI LII} XAND {SEE SEI ESE SLI ESI
 -ज1 - {SLE EIE LSE IEE IEI SLI}
 
-  
-  
-
 +ज2 - IEE HEF + Logical Process XAND Intuitive
-
-  
-
 {ILE ILI IEE} XAND {SEE SEI SLE}
-
-  
-
 -ज2 - {ESE EIE LIE LSE LII ESI LSI IEI SLI EII}
 
-  
-  
-
 +ज3 - ESI HEF + Peripheral Process XAND Intuitive
-
-  
-
 {LIE ILE EII} XAND {ESE SEE LSI}
-
-  
-
 -ज3 - {EIE LSE SLE IEE SEI ILI LII IEI ESI SLI}
 
-  
-  
-
 +ज4 - LII HEF + Peripheral Process XAND Intuitive
-
-  
-
 {LII IEE IEI ILE EII} XAND {ESI SLE SLI SEE LSI}
-
-  
-
 -ज4 - {SEI ILI EIE ESE LIE LSE}
 
-  
-  
-
 +ज5 - IEI HEF + Intuitive Process XAND Intuitive
-
-  
-
 {IEI ILE ILI EIE EII} XAND {SLI SEE SEI LSE LSI}
-
-  
-
 -ज5 - {ESE LIE IEE SLE LII ESI}
 
-  
-  
-
 +ज6 - SLI HEF + Intuitive Process XAND Intuitive
-
-  
-
 {LIE LII IEE ILE EIE ILI EII} XAND {SLE ESI ESE SEE LSE SEI LSI}
-
-  
-
 -ज6 - {IEI SLI}
-
-  
-  
 
 +ज7 - ESE HEF + Ascending Process XAND Intuitive
 
-  
 
 {LII ILE EIE} XAND {ESI SEE LSE}
 
