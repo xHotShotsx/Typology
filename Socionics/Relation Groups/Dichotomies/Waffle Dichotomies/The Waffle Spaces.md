@@ -55,82 +55,30 @@
 {ILE ESE IEI EIE} ΧΑΝD {SEE LIE SLI LSE}
 -X7 - {SEI, LII, ESI, ILI, SLE, LSI, IEE, EII}
 
-  
-  
-
 +X1 - Ascending Positivists + Ethical Negativists ΧΑΝD Peripheral Extroverts + Ethical Introverts
-
-  
-
 {ILE ESE SEI ESI IEI IEE} ΧΑΝD {LIE SEE SLI LII ILI SLE}
-
-  
-
 -X1 - {EIE, LSI, LSE, EII}
 
-  
-  
-
 +X2 - Ascending Positivists + Ethical Negativists ΧΑΝD Ascending Extroverts + Sensing Introverts
-
-  
-
 {ILE ESE LSI EIE SEI ESI} ΧΑΝD {LIE SEE EII LSE LII ILI}
-
-  
-
 -X2 - {IEI IEE SLE SLI}
 
-  
-  
-
 +X4 - Ascending Positivists + Ethical Negativists ΧΑΝD Peripheral Extroverts + Logical Introverts
-
-  
-
 {ILE ESE LSI IEE} ΧΑΝD {LIE SEE EII SLE}
-
-  
-
 -X4 - {EIE, IEI, SLI, LSE, LII, SEI, ILI, ESI}
-
-  
 
 # Systems 2 + 3 (Stress Resistance)
 
 +X7 - ILE+SLE HEF ΧΑΝD LIE+EII HEF
-
-  
-
 {ILE LSE LIE IEI} ΧΑΝD {EIE SLI ESE SEE}
-
-  
-
 -X7 - {ILI EII SLE ESI LSI IEE LII SEI}
 
-  
-  
-
 +X5 - ILE+SLE HEF ΧΑΝD SEI+IEE HEF
-
-  
-
 {ILE SEI} ΧΑΝD {ILI SEE}
-
-  
-
 -X5 - {ESE LII LIE ESI SLE LSI IEI EIE IEE EII LSE SLI}
 
-  
-  
-
 +X8 - ILE+SLE HEF ΧΑΝD LII+EIE HEF
-
-  
-
 {ILE LSI LII IEI} ΧΑΝD {SEE EII ESI SLI}
-
-  
 
 -X8 - {SEI, ESE, ILI, LIE, SLE, EIE, IEE, LSE} 
 
