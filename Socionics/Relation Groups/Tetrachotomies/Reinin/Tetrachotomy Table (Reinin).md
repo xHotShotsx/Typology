@@ -1033,4 +1033,4 @@
 # Further Reading
 
 - https://www.wikisocion.net/en/index.php/Small_groups
-- 
+- https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0
