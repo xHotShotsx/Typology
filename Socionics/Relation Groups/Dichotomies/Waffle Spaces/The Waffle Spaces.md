@@ -748,4 +748,6 @@
 
 # Further Reading
 
-- 
+- https://docs.google.com/document/d/106N6CmPL-TSP9Agiz3k3O6TipV4PGCTzDiRBq5kEJH4/edit?tab=t.0
+- https://docs.google.com/document/d/1eUAgz0jGMhZtet6X9RMLikWBRMm_E-WiIejZWCKcl8U/edit?tab=t.0
+- https://docs.google.com/document/d/1039F7gtNp-DnoEL5PsWgBxAkVQsxMRF2a_Dbn6tqCGk/edit?tab=t.0
