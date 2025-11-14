@@ -1031,3 +1031,6 @@
 ****
 
 # Further Reading
+
+- https://www.wikisocion.net/en/index.php/Small_groups
+- 

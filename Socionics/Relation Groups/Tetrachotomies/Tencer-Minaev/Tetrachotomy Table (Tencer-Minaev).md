@@ -1028,3 +1028,7 @@
   </tbody>
 </table>
 </div>
+
+# Further Reading
+
+- https://docs.google.com/document/d/1JUrEAXb-WwSXvY6tONL06JiZLfDuyoKcaqQFKSLz5pw/edit?tab=t.0#heading=h.f9ext3ddcdod
