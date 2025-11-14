@@ -1,4 +1,3 @@
-
 # Brief Disclaimer
 
 The numeric codes assigned to dichotomies other than maybe the X space are arbitrary, and even the letter assignments are based on order of discovery.

@@ -745,3 +745,7 @@
 +ज8 - SLI HEF + Ascending Process XAND Intuitive
 {LIE LII IEE ILE EIE} XAND {ESE ESI SLE SEE LSE}
 -ज8 - {SEI ILI LSI IEI SLI EII}
+
+# Further Reading
+
+- 
