@@ -1228,7 +1228,7 @@ $a=(0, 0, 1, 1)$
 # $H^{1}$ (1st cohomology)
 
 For the cohomology of classical ITRs, we first define: $$\mathbf{V}_{i} := \text{the vector space over } \mathbb{F}^4_{2} \text{ associated with a dichotomy system } \mathcal{D}_{i}.$$
-$H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is nonabelian, we define an induced homomorphism. If the dichotomy action on classical relations is defined by the homomorphism $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the induced action on dichotomy vectors is given by the homomorphism $\psi : \mathcal{D}_{i} \to \text{Aut}(\mathbf{V}_{i})$, where a system of dichotomies acts on the automorphisms of the dichotomy algebra. Thus, the 1st cohomology is $H^1(\mathcal{D}_i, \mathbf{V}_{i})$.
+$H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is nonabelian, we define an induced homomorphism. If the dichotomy action on classical relations is defined by the homomorphism $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the induced action on dichotomy vectors is given by the homomorphism $\psi : \mathcal{D}_{i} \to \text{Aut}(\mathbf{V}_{i})$, where a system of dichotomies acts on the automorphisms of the vector space . Thus, the 1st cohomology is $H^1(\mathcal{D}_i, \mathbf{V}_{i})$.
 
 # References
 
