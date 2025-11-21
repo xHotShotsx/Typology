@@ -1229,7 +1229,7 @@ $a=(0, 0, 1, 1)$
 
 # $H^{1}$ (1st cohomology)
 
-$H^1(G, A)$ where $G$ ios
+$H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is not abelian, we 
 
 # References
 
