@@ -1232,7 +1232,7 @@ $H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\math
 
 ## Generating $\mathcal{R}_{i}$
 
-- 
+- For $H^1(G, A)$ 
 
 # References
 
