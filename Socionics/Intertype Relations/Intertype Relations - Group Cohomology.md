@@ -1237,7 +1237,7 @@ For $H^1(G, A)$ for a fixed dichotomy system $\mathcal{D}_i$, let:
 - $A := \mathbf{V}_i$ be the abelian module
 - $\psi : \mathcal{D}_i \to \text{Aut}(\mathbf{V}_i)$ be a representation $\psi : \mathcal{D}_{i} \to GL(4,2)$
 
-The cocycles produce a map $$f : \mathbb{S} \longrightarrow \math\mathbf{}$$
+The map is produced by the  $$f : \mathbb{S} \longrightarrow \mathbf{V}_{i}$$
 
 # References
 
