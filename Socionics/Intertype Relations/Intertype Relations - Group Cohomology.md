@@ -27,7 +27,7 @@
 
 ## Some Group Notations
 
-- $\mathbb{S}$: There exists in Socionics the group that comprises all classical intertype relations (ITRs). This group's structure is isomorphic to $D_{8} \times C_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2), which is nonabelian.
+- $\mathbb{S}$: There exists in Socionics the group that comprises all classical Intertype Relations (ITRs). This group's structure is isomorphic to $D_{8} \times C_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2), which is nonabelian.
 - $\mathfrak{D}$: This already has been defined. Its group structure is $E_{16}$ (elementary abelian group of order 16), which is also isomorphic to $C_2^4$.
 	- Note: $\mathcal{D}_i$ is any of the 16 dichotomy systems, with $i \in \mathcal{D}$ specifying the dichotomy system.
 
@@ -1231,7 +1231,7 @@ $a=(0, 0, 1, 1)$
 
 $H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is nonabelian, we define an induced homomorphism. If the dichotomy action on classical relations is defined by the homomorphism $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the induced action on dichotomy vectors is given by the homomorphism $\psi : \mathcal{D}_{i} \to \text{Aut}(\mathfrak{D})$, where a system of dichotomies acts on the automorphisms of the dichotomy algebra. Thus, the 1st cohomology is $H^1(\mathcal{D}_i, \mathfrak{D})$ where a dichotomy system $\mathcal{D}_i$ acts on the dichotomy algebra $\mathfrak{D}$, treated as a module.
 
-For the cohomology of 
+For the cohomology of classical ITRs
 
 # References
 
