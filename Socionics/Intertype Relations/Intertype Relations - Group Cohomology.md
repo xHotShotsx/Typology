@@ -1238,7 +1238,9 @@ For $H^1(G, A)$ for a fixed dichotomy system $\mathcal{D}_i$, let:
 - $\rho : G \to \text{Aut}(A)$, the induced action of classical relations on vector coordinates.
 
 A 1-cocyle is a map $f : G \to A$ satisfying $$f(gh) = f(g)+g \cdot f(h)$$where the dot denotes the action $\rho(g)$. The cocycle defines a subgroup of $A$:
-$$\mathcal{R}_{i} := \mathrm{Im}(f) = \{f(g) \mid g \in G\} \leq A$$and the kernel of $f$ is: $$K_{f} := \mathrm{ker}(f) = \{g \in G \mid f(g) = 0\}.$$Then $G/K_{f} \cong \mathcal{R}_i(f)$. If $\mathcal{R}_i(f) = A$, then $\mathcal{R}_i(f) \cong \mathbb{F}^4_2$. The "modern" group of relationships for a dichotomy system $\mathcal{D}_i$ is defined as: $$\mathcal{R}_{i} := \mathcal{R}_{i}(f) = \mathrm{Im}(f) \leq A.$$ Equivalently, one may define $\mathcal{R}_i$ as the quotient $G / K_f$.
+$$\mathcal{R}_{i} := \mathrm{Im}(f) = \{f(g) \mid g \in G\} \leq A$$and the kernel of $f$ is: $$K_{f} := \mathrm{ker}(f) = \{g \in G \mid f(g) = 0\}.$$Because $f$ is a homomorphism up to twisting, we obtain: $\frac{G}{K_{f}}$
+
+Equivalently, one may define $\mathcal{R}_i$ as the quotient $G / K_f$.
 
 # References
 
