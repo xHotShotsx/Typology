@@ -55,6 +55,8 @@ $i$ = mirage, or illusory
 
 The action of the dichotomy system on the ITR group is given by a homomorphism $$\varphi : E_{16} \longrightarrow \text{Aut}(D_8 \times C_2).$$In the context of Socionic structure, we regard $E_{16}$ as the dichotomy algebra $\mathfrak{D}$, and $D_8 \times C_2$ as the ITR space $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as $$\varphi : \mathfrak{D} \longrightarrow \text{Aut}(\mathbb{S}),$$representing how the dichotomy system acts on the classical group of intertype relations.
 
+# 
+
 
 # $H^0$ (0th cohomology)
 
