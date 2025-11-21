@@ -1237,7 +1237,7 @@ For $H^1(G, A)$ for a fixed dichotomy system $\mathcal{D}_i$, let:
 - $A := \mathbf{V}_i$ be the abelian module
 - $\psi : \mathcal{D}_i \to \text{Aut}(\mathbf{V}_i)$ be a representation $\psi : \mathcal{D}_{i} \to GL(4,2)$
 
-The map is produced by the cocycles $$f : \mathbb{S} \longrightarrow \mathbf{V}_{i}$$ whose image is denoted by $\mathcal{R}_i$. More rigorously, by taking a cocycle $f \in Z^1(G, A)$ so $f(gh) = f(g) + g \cdot f(h)$.
+The map is produced by the cocycles $$f : \mathbb{S} \longrightarrow \mathbf{V}_{i}$$ whose image is denoted by $\mathcal{R}_i$. More rigorously, by taking a cocycle $f \in Z^1(G, A)$ so $f(gh) = f(g) + g \cdot f(h)$. The image subgroup is defined as: $$\mathcal{R}_{i}(f) := \mathrm{Im}(f)$$
 
 # References
 
