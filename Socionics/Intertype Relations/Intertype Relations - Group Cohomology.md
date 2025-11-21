@@ -1227,6 +1227,8 @@ $q=(0, 1, 0, 1)$
 $a=(0, 0, 1, 1)$
 
 
+# H
+
 # References
 
 1. Newman, M. (2023). *"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*. https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html. Date accessed: 11/11/2025.
