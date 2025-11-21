@@ -57,13 +57,13 @@ The action of the dichotomy system on the ITR group is given by a homomorphism $
 
 # Fixed Point Subgroup, $I_{\mathcal{D}_i}$
 
-For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb)$ is  The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. More rigorously, this is defined as the following: $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathcal{D}_{i}} := \{r \in \mathbb{S} \mid \varphi(d)(r) = r, \ \forall d \in \mathcal{D}_{i}\}.$$
+For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is exactly the fixed subgroup $ The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. More rigorously, this is defined as the following: $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathcal{D}_{i}} := \{r \in \mathbb{S} \mid \varphi(d)(r) = r, \ \forall d \in \mathcal{D}_{i}\}.$$
 The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: $$r I_{\mathcal{D}_{i}} = I_{\mathcal{D}_{i}} r = \{rs \mid s \in I_{\mathcal{D}_{i}}\}, \quad r \in \mathbb{S}$$ 
 $I_{\mathcal{D}_i}$ is an abelian subgroup of $\mathbb{S}$ and is isomorphic to $\mathbb{Z}_2^n$. We can therefore treat it as an $\mathbb{F}_2$-module in its own right.
 
 ## Universal Invariant Core
 
-The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}$$
+The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}^1$$
 This "identity-superego" dyad is fixed by all $\mathfrak{D}$-modules. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}$$
 
 
