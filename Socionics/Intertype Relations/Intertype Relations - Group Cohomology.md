@@ -1229,7 +1229,7 @@ $a=(0, 0, 1, 1)$
 
 # $H^{1}$ (1st cohomology)
 
-$H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is nonabelian, we define an induced homomorphism. If the dichotomy action on classical relations is defined by the homomorphism $\varphi : \mathcal{D}
+$H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is nonabelian, we define an induced homomorphism. If the dichotomy action on classical relations is defined by the homomorphism $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the induced action on dichotomy vectors is given by the homomorphism $\var$
 
 # References
 
