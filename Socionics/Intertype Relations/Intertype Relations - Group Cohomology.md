@@ -1229,7 +1229,7 @@ $a=(0, 0, 1, 1)$
 
 # $H^{1}$ (1st cohomology)
 
-
+$H^1(\, \mathbb{S})$ 
 
 # References
 
