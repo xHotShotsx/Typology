@@ -1237,7 +1237,9 @@ For $H^1(G, A)$ for a fixed dichotomy system $\mathcal{D}_i$, let:
 - $A := \mathbf{V}_i$, the 4-dimensional abelian module associated with $\mathcal{D}_i$ 
 - $\rho : G \to \text{Aut}(A)$, the induced action of classical relations on vector coordinates.
 
-A 1-cocyle is a map $f : G \to A$ satisfying $$f(gh) = f(g)+g \cdot f(h)$$whose image is denoted by $\mathcal{R}_i$. This can be expressed more rigorously, by taking a cocycle $f \in Z^1(G, A)$ so $f(gh) = f(g) + g \cdot f(h)$. The image subgroup is defined as: $$\mathcal{R}_{i}(f) := \mathrm{Im}(f) = \{f(g) \mid g \in G\} \leq A$$ and the kernel subgroup as: $$K_{f} := \mathrm{ker}(f) = \{g \in G \mid f(g) = 0\}.$$ Then $G/K_{f} \cong \mathcal{R}_i(f)$. If $\mathcal{R}_i(f) = A$, then $\mathcal{R}_i(f) \cong \mathbb{F}^4_2$. The "modern" group of relationships for a dichotomy system $\mathcal{D}_i$ is defined as: $$\mathcal{R}_{i} := \mathcal{R}_{i}(f) = \mathrm{Im}(f) \leq A.$$ Equivalently, one may define $\mathcal{R}_i$ as the quotient $G / K_f$.
+A 1-cocyle is a map $f : G \to A$ satisfying $$f(gh) = f(g)+g \cdot f(h)$$ where the dot denotes the action $\rho(g)$.
+
+$$\mathcal{R}_{i}(f) := \mathrm{Im}(f) = \{f(g) \mid g \in G\} \leq A$$ and the kernel subgroup as: $$K_{f} := \mathrm{ker}(f) = \{g \in G \mid f(g) = 0\}.$$ Then $G/K_{f} \cong \mathcal{R}_i(f)$. If $\mathcal{R}_i(f) = A$, then $\mathcal{R}_i(f) \cong \mathbb{F}^4_2$. The "modern" group of relationships for a dichotomy system $\mathcal{D}_i$ is defined as: $$\mathcal{R}_{i} := \mathcal{R}_{i}(f) = \mathrm{Im}(f) \leq A.$$ Equivalently, one may define $\mathcal{R}_i$ as the quotient $G / K_f$.
 
 # References
 
