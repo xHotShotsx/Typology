@@ -1227,7 +1227,9 @@ $q=(0, 1, 0, 1)$
 $a=(0, 0, 1, 1)$
 
 
-# H
+# $H^{1}$ (1st cohomology)
+
+
 
 # References
 
