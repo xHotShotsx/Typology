@@ -1232,7 +1232,8 @@ $H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\math
 
 ## Generating $\mathcal{R}_{i}$
 
-- For $H^1(G, A)$ 
+For $H^1(G, A)$ for a fixed dichotomy system $\mathcal{D}_i$, let:
+- $G := \mathbb{S}$ (acts on types)
 
 # References
 
