@@ -68,7 +68,7 @@ This "identity-superego" dyad is fixed by all $\mathfrak{D}$-modules. It's the p
 
 # The Selector
 
-The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for 
+The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system acts on the Socion group   
 
 
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
