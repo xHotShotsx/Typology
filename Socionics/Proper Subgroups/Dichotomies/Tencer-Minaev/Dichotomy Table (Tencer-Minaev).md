@@ -39,12 +39,12 @@ $U = \{V_{3}, V_{4}, C_{3}, C_{4}\}$
 
 ### Accepting Set
 
-$Ac = \{A_{1}, A_{2}, D_{1}, D_{2}\}$
+$I = \{A_{1}, A_{2}, D_{1}, D_{2}\}$
 
 
 ### Producing Set
 
-$Pr = \{A_{3}, A_{4}, D_{3}, D_{4}\}$
+$R = \{A_{3}, A_{4}, D_{3}, D_{4}\}$
 
 
 ### Faculty Set
@@ -67,9 +67,9 @@ $Z = \{V_{1}, V_{3}, C_{1}, C_{3}\}$
 $\mathcal{O} = \{V_{1}, V_{2}, V_{3}, V_{4}, C_{1}, C_{2}, C_{3}, C_{4}\}$
 
 
-### Non-Orbital / Cardinal / Wall Set - $(A \cup D) \notin \mathcal{O}$
+### Non-Orbital / Cardinal / Wall Set - $(A \cup D) \in \mathcal{W}$
 
-$¬\mathcal{O} = \{A_{1}, A_{2}, A_{3}, A_{4}, D_{1}, D_{2}, D_{3}, D_{4}\}$
+$\mathcal{W} = \{A_{1}, A_{2}, A_{3}, A_{4}, D_{1}, D_{2}, D_{3}, D_{4}\}$
 
 
 ### Level One Set

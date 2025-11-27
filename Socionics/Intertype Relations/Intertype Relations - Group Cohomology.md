@@ -1,4 +1,4 @@
-# Some Useful Sets
+****# Some Useful Sets
 ## Dichotomy Classification Hierarchy
 
 - $\mathfrak{d}$ = a dichotomy.
@@ -62,7 +62,7 @@ The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: $$r I_{\m
 
 ## Universal Invariant Core
 
-The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}^1$$
+The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}$$
 This "identity-superego" dyad is fixed by all $\mathfrak{D}$-modules. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}$$
 
 
@@ -1227,7 +1227,7 @@ $a=(0, 0, 1, 1)$
 
 # $H^{1}$ (1st cohomology)
 
-For the cohomology of classical ITRs, we first define: $$\mathbf{V}_{i} := \text{the vector space over } \mathbb{F}^4_{2} \text{ associated with a dichotomy system } \mathcal{D}_{i}.$$
+For the cohomology of classical ITRs, we first define: $$\mathbf{V}_{i} := \text{the vector space } \mathbb{Z}^4_{2} \text{ that acts on a dichotomy system } \mathcal{D}_{i}.$$
 $H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is nonabelian, we define an induced homomorphism. If the dichotomy action on classical relations is defined by the homomorphism $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the induced action on dichotomy vectors is given by the homomorphism $\psi : \mathcal{D}_{i} \to \text{Aut}(\mathbf{V}_{i})$, where a system of dichotomies acts on the automorphisms of the vector space $\mathbf{V}_i$ constructed from a dichotomy system $\mathcal{D}_i$.
 
 ## Generating $\mathcal{R}_{i}$
@@ -1237,7 +1237,7 @@ For $H^1(G, A)$ for a fixed dichotomy system $\mathcal{D}_i$, let:
 - $A := \mathbf{V}_i$, the 4-dimensional abelian module associated with $\mathcal{D}_i$ 
 - $\rho : G \to \text{Aut}(A)$, the induced action of classical relations on vector coordinates.
 
-A 1-cocyle is a map $f : G \to A$ satisfying $$f(gh) = f(g)+g \cdot f(h)$$where the dot denotes the action $\rho(g)$. The cocycle defines a subgroup of $A$:
+A 1-cocyle is an affine map $f : G \to A$ satisfying $$f(gh) = f(g)+g \cdot f(h)$$where the dot denotes the action $\rho(g)$. The cocycle defines a subgroup of $A$:
 $$\mathcal{R}_{i} := \mathrm{Im}(f) = \{f(g) \mid g \in G\} \leq A$$and the kernel of $f$ is: $$K_{f} := \mathrm{ker}(f) = \{g \in G \mid f(g) = 0\}.$$Because $f$ is a homomorphism up to twisting, we obtain: $$G / K_{f} \cong R_{i}$$If the cocycle is surjective, then: $$\mathcal{R}_i = A \cong \mathbb{F}^4_{2}.$$
 The induced group $\mathcal{R}_i$ is the relation group associated with the dichotomy system $\mathcal{D}_i$. Different cocycles in the same cohomology class produce the same $\mathcal{R}_i$.
 
