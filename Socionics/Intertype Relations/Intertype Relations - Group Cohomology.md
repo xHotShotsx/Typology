@@ -72,8 +72,8 @@ The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \m
 
 For a dichotomy system $\mathcal{D}_i$, let:
 - $Q := \frac{\mathbb{S}}{I}$ be the set of cosets of the invariant subgroup
-- A selector dichotomy, defined by $D$
-- A function: $$\sigma_{D}$$
+- A selector dichotomy, $D$
+- A function: $$\sigma_{D} : T \to \{0, 1\}$$
 
 
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
