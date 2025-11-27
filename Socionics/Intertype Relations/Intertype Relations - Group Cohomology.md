@@ -68,7 +68,7 @@ This "identity-superego" dyad is fixed by all $\mathfrak{D}$-modules. It's the p
 
 # The Selector
 
-The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathfrak{D}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns is two  a given coset $r I_{\mathcal{D}_i}$ it decomposes it into two sets of vectors, and the action of which vector a relation $r \in \mathbb{S}$ gets sent to is determined by whether a boolean trait of the dichotomy describes the type $t \in T$.
+The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathfrak{D}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to a coset in $r I_{\mathcal{D}_i}$, two possible  the action of which vector a relation $r \in \mathbb{S}$ gets sent to is determined by whether a boolean trait of the dichotomy describes the type $t \in T$.
 
 
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
