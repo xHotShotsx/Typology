@@ -74,7 +74,7 @@ For a dichotomy system $\mathcal{D}_i$, let:
 - $Q := \frac{\mathbb{S}}{I}$ be the set of cosets of the invariant subgroup
 - A selector dichotomy, $D$
 - A function: $$\sigma_{D} : T \to \{0, 1\}.$$
-A selector acts on a coset 
+A selector acts on a coset $C_j \in r I$ via its pair of 
 
 
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
