@@ -65,6 +65,8 @@ The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: $$r I_{\m
 The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}$$
 This "identity-superego" dyad is fixed by all $\mathfrak{D}$-modules. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}$$
 
+# The Selec
+
 
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
 ### Generators Used: (E, D, L, P)
@@ -1243,7 +1245,7 @@ The induced group $\mathcal{R}_i$ is the relation group associated with the dich
 
 # References
 
-1. Newman, M. (2023). [*"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*.]() https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html. Date accessed: 11/11/2025.
+1. Newman, M. (2023). [*"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*.](https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html)  Date accessed: 11/11/2025.
 2. Tencer, I. (2024). [*"The Mathematics of Socionics"*.](https://sedecology.com/math) Date accessed: 11/11/2025.
 
 ## Further Reading
