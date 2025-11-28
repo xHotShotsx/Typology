@@ -75,7 +75,7 @@ For a dichotomy system $\mathcal{D}_i$, let:
 - A selector dichotomy, $D$
 - A function: $$\sigma_{D} : T \to \{0, 1\}.$$
 A selector acts on a coset $C_j \in r I$ via its pair of assigned vectors: $$ C_{j} \rightarrowtail (a_{j,0}, {a_{j,1}}) \in \mathbf{V}_{i} \times \mathbf{V}_{i}$$where $\mathbf{V}_{i}$ is the vector space $\mathbb{Z}^4_2$ that acts on the dichotomy space $\mathcal{D}_i$. The type $t$ chooses between them: $$ f_{D}(C_{j}, t) = \\begin{cases}
-a_{j,0} \quad if \sigma_{D}(t) = 0 
+a_{j,0} \quad if \sigma_{D}(t) = 0 // a_{j,1} \quad if \sigma_{D}(t) 
 \end{cases}$$
 
 
