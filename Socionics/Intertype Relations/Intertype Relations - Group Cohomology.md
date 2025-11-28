@@ -80,6 +80,8 @@ a_{j,0} \quad \text{if } \sigma_{D}(t) = 0, \\ a_{j,1} \quad \text{if } \sigma_{
 In our framing, every type $t \in T$ can be defined by a 4-bit coordinate when fixing a dichotomy system, so that: $$\chi(t) = (\mathfrak{d}_{1}(t), \mathfrak{d}_{2}(t), \mathfrak{d}_{3}(t), \mathfrak{d}_{4}(t)) \in \mathbb{Z}^4_{2}, \quad \mathfrak{d} \in \mathfrak{D}$$where $\mathfrak{d}_i(t) \in \{0, 1\}$ is the trait value of $t$ on the $i$-th dichotomy.
 
 
+
+
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
 ### Generators Used: (E, D, L, P)
 #### $I_{\mathcal{D}_1}$ (Superego)
