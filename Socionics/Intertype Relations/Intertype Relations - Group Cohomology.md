@@ -74,7 +74,9 @@ For a dichotomy system $\mathcal{D}_i$, let:
 - $Q := \frac{\mathbb{S}}{I}$ be the set of cosets of the invariant subgroup
 - A selector dichotomy, $D$
 - A function: $$\sigma_{D} : T \to \{0, 1\}.$$
-A selector acts on a coset $C_j \in r I$ via its pair of assigned vectors: $$ C_{j} \rightarrowtail (a_{j,0}, {a_{j,1}}) \in \mathbf{V}_{i} \times \mathbf{V}_{i}$$where $\mathbf{V}_{i}$ is the vector space $\mathbb{Z}^4_2$ that acts on the dichotomy space $\mathcal{D}_i$
+A selector acts on a coset $C_j \in r I$ via its pair of assigned vectors: $$ C_{j} \rightarrowtail (a_{j,0}, {a_{j,1}}) \in \mathbf{V}_{i} \times \mathbf{V}_{i}$$where $\mathbf{V}_{i}$ is the vector space $\mathbb{Z}^4_2$ that acts on the dichotomy space $\mathcal{D}_i$. The type $t$ chooses between them: $$ f_{D}(C_{j}, t) = \\begin{cases}
+
+\end{cases}$$
 
 
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
