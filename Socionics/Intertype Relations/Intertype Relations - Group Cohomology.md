@@ -92,6 +92,7 @@ We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0,
 ### The Intersection
 
 Let each selector define a partition: $$ T = T_{s,0} \sqcup T_{s,1}. $$
+Then the selector intersection is the common refinement: $$\mathcal{P}_{i} = \big$$
 
 
 # The Representation Map
