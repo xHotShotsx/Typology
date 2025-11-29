@@ -1273,7 +1273,7 @@ The induced group $\mathcal{R}_i$ is the relation group associated with the dich
 
 ## $E_{16}$ Set Models
 
-A set model can be described as a function model represented as a set, with a function being an element of the set. What I mean by an "$E_{16}$ set model" is a set model that precisely models a $C_2^4$ group, which is the vector space associated with the dichotomy system, so the vector space on these models as they do .
+A set model can be described as a function model represented as a set, with a function being an element of the set. What I mean by an "$E_{16}$ set model" is a set model that precisely models a $C_2^4$ group, which in this case is the vector space associated with the dichotomy system, so the vector space acts on these models, as they do on the set of types, $T$. Theoretically, there are up to 16 set models that can be constructed
 
 
 # References
