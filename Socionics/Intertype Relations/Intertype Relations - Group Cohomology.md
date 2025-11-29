@@ -93,7 +93,7 @@ We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0,
 
 Let each selector dichotomy $D_s \in \mathcal{S}_i$ induces a partition: $$ T = T_{s,0} \sqcup T_{s,1}. $$
 Then the common refinement of these partitions is $$\mathcal{P}_{i} = \left\{ \bigcap_{s=1}^{m-1} T_{s,\sigma_{s}}(t) \;\middle|\; t \in T \right\}. $$
-Equivalently, $$\mathcal{P}_{i}= T/\mathrm{ker}(\sigma),$$where $$\sigma : T \longrightarrow \mathbb{Z}_{2}^m-1$$
+Equivalently, $$\mathcal{P}_{i}= T/\mathrm{ker}(\sigma),$$where $$\sigma : T \longrightarrow \mathbb{Z}_{2}^{m-1}, \quad t \mapsto (\sigma_{1}(t), \dots, \sigmsa)$$
 
 
 # The Representation Map
