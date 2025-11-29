@@ -112,7 +112,7 @@ $d \mapsto (1, 1, 0, 0)$
 
 ###### For  $-X5$ Types
 
-$x = (1, 1, 0, 0)$
+$x \mapsto (1, 1, 0, 0)$
 $d \mapsto (1, 0, 1, 0)$
 
 ##### $Y8$
@@ -140,13 +140,13 @@ $S = (1, 1, 1, 1)$
 ##### $A2$
 ###### For $+A2$ Types
 
-$i = (1, 1, 1, 0)$
-$h = (1, 0, 0, 0)$
+$i \mapsto (1, 1, 1, 0)$
+$h \mapsto (1, 0, 0, 0)$
 
 ###### For $-A2$ Types
 
-$i = (1, 0, 0, 0)$
-$h = (1, 1, 1, 0))$
+$i \mapsto (1, 0, 0, 0)$
+$h \mapsto (1, 1, 1, 0))$
 
 ##### $B2$
 ###### For $+B2$ Types
@@ -187,7 +187,7 @@ $a = (0, 0, 0, 1)$
 #### $I_{\mathcal{D}_{2}}$ (Temperament)
 
 $e \mapsto (0, 0, 0, 0)$
-$g = (0, 1, 1, 0)$
+$g \mapsto (0, 1, 1, 0)$
 $k = (0, 0, 1, 0)$
 $l = (0, 1, 0, 0)$
 
@@ -195,17 +195,17 @@ $l = (0, 1, 0, 0)$
 ##### Irrational/Rational
 ###### For Irrational Types
 
-$x = (1, 0, 1, 0)$
-$d = (1, 1, 0, 0)$
-$h = (1, 1, 1, 0)$
-$i = (1, 0, 0, 0)$
+$x \mapsto (1, 0, 1, 0)$
+$d \mapsto (1, 1, 0, 0)$
+$h \mapsto (1, 1, 1, 0)$
+$i \mapsto (1, 0, 0, 0)$
 
 ###### For Rational Types
 
-$x = (1, 1, 0, 0)$
-$d = (1, 0, 1, 0)$
-$h = (1, 0, 0, 0)$
-$i = (1, 1, 1, 0)$
+$x \mapsto (1, 1, 0, 0)$
+$d \mapsto (1, 0, 1, 0)$
+$h \mapsto (1, 0, 0, 0)$
+$i \mapsto (1, 1, 1, 0)$
 
 ##### Positivist/Negativist
 ###### For Positivist Types
@@ -243,9 +243,9 @@ $c = (1, 1, 0, 1)$
 #### $I_{\mathcal{D}_{3}}$ (Displacement)
 
 $e \mapsto (0, 0, 0, 0)$
-$g = (0, 1, 1, 0)$
-$h = (1, 1, 0, 0)$
-$i = (1, 0, 1, 0)$
+$g \mapsto (0, 1, 1, 0)$
+$h \mapsto (1, 1, 0, 0)$
+$i \mapsto (1, 0, 1, 0)$
 
 #### $r I_{\mathcal{D}_{3}}$ ($\bigcap{\mathcal{S}_{i}} =$ Temperament)
 ##### Extroversion/Introversion
@@ -266,15 +266,15 @@ $s = (1, 1, 0, 1)$
 ##### Irrational/Rational
 ###### For Irrational Types
 
-$x = (1, 1, 1, 0)$
-$d = (1, 0, 0, 0)$
+$x \mapsto (1, 1, 1, 0)$
+$d \mapsto (1, 0, 0, 0)$
 $k = (0, 1, 0, 0)$
 $l = (0, 0, 1, 0)$
 
 ###### For Rational Types
 
-$x = (1, 0, 0, 0)$
-$d = (1, 1, 1, 0)$
+$x \mapsto (1, 0, 0, 0)$
+$d \mapsto (1, 1, 1, 0)$
 $k = (0, 0, 1, 0)$
 $l = (0, 1, 0, 0)$
 
@@ -299,7 +299,7 @@ $b = (0, 0, 1, 1)$
 #### $I_{\mathcal{D}_4}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
-$g = (0, 1, 1, 0)$
+$g \mapsto (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{4}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 
@@ -386,7 +386,7 @@ $a=(0, 0, 0, 1)$
 #### $I_{\mathcal{D}_{5}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
-$g = (0, 1, 1, 0)$
+$g \mapsto (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_5}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### Extroverted/Introverted
@@ -472,7 +472,7 @@ $i=(1, 1, 1, 0)$
 #### $I_{\mathcal{D}_6}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
-$g = (0, 1, 1, 0)$
+$g \mapsto (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_6}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X6$
@@ -558,7 +558,7 @@ $a=(0, 1, 0, 1)$
 #### $I_{\mathcal{D}_{7}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
-$g = (0, 1, 1, 0)$
+$g \mapsto (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{7}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X1$
@@ -644,7 +644,7 @@ $a=(0, 0, 0, 1)$
 #### $I_{\mathcal{D}_{8}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
-$g = (0, 1, 1, 0)$
+$g \mapsto (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_8}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### Extroverted/Introverted
@@ -730,7 +730,7 @@ $c=(1, 1, 0, 1)$
 #### $I_{{\mathcal{D}_{9}}}$ (Challenge Response Groups)
 
 $e \mapsto (0, 0, 0, 0)$
-$g = (0, 1, 1, 0)$
+$g \mapsto (0, 1, 1, 0)$
 $m = (1, 0, 1, 1)$
 $c = (1, 1, 0, 1)$
 
@@ -753,30 +753,30 @@ $s = (1, 0, 0, 1)$
 ##### Democratic/Aristocratic
 ###### For Democratic Types
 
-$x = (1, 1, 0, 0)$
-$d = (0, 1, 1, 1)$
+$x \mapsto (1, 1, 0, 0)$
+$d \mapsto (0, 1, 1, 1)$
 $q = (0, 1, 1, 1)$
 $a = (0, 0, 0, 1)$
 
 ###### For Aristocratic Types
 
-$x = (1, 0, 1, 0)$
-$d = (0, 0, 0, 1)$
+$x \mapsto (1, 0, 1, 0)$
+$d \mapsto (0, 0, 0, 1)$
 $q = (0, 0, 0, 1)$
 $a = (0, 1, 1, 1)$
 
 ##### Positivist/Negativist
 ###### For Positivist Types
 
-$h = (1, 1, 1, 0)$
-$i = (1, 0, 0, 0)$
+$h \mapsto (1, 1, 1, 0)$
+$i \mapsto (1, 0, 0, 0)$
 $b = (0, 1, 0, 1)$
 $B = (0, 0, 1, 1)$
 
 ###### For Negativist Types
 
-$h = (1, 1, 1, 0)$
-$i = (1, 0, 0, 0)$
+$h \mapsto (1, 1, 1, 0)$
+$i \mapsto (1, 0, 0, 0)$
 $b = (0, 1, 0, 1)$
 $B = (0, 0, 1, 1)$
 
@@ -958,7 +958,7 @@ $a=(0, 0, 1, 1)$
 #### $I_{\mathcal{D}_{12}}$ (Positivity Groups)
 
 $e \mapsto (0, 1, 0, 0)$
-$g = (0, 0, 1, 0)$
+$g \mapsto (0, 0, 1, 0)$
 $q = (0, 0, 0, 1)$
 $a = (0, 1, 1, 1)$
 
@@ -983,28 +983,28 @@ $b = (0, 0, 1, 1)$
 
 $m = (1, 1, 1, 1)$
 $c = (1, 0, 0, 1)$
-$x = (1, 1, 1, 0)$
-$d = (1, 0, 0, 0)$
+$x \mapsto (1, 1, 1, 0)$
+$d \mapsto (1, 0, 0, 0)$
 
 ###### For Aristocratic Types
 
 $m = (1, 0, 0, 1)$
 $c = (1, 1, 1, 1)$
-$x = (1, 0, 0, 0)$
-$d = (1, 1, 1, 0)$
+$x \mapsto (1, 0, 0, 0)$
+$d \mapsto (1, 1, 1, 0)$
 
 ##### Asking/Declaring
 ###### For Asking Types
 
-$h = (1, 0, 1, 0)$
-$i = (1, 1, 0, 0)$
+$h \mapsto (1, 0, 1, 0)$
+$i \mapsto (1, 1, 0, 0)$
 $S = (1, 1, 0, 1)$
 $s = (1, 0, 1, 1)$
 
 ###### For Declaring Types
 
-$h = (1, 0, 1, 0)$
-$i = (1, 1, 0, 0)$
+$h \mapsto (1, 0, 1, 0)$
+$i \mapsto (1, 1, 0, 0)$
 $S = (1, 1, 0, 1)$
 $s = (1, 0, 1, 1)$
 
@@ -1014,7 +1014,7 @@ $s = (1, 0, 1, 1)$
 #### $I_{\mathcal{D}_{13}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
-$g = (0, 1, 1, 0)$
+$g \mapsto (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{13}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X2$
@@ -1100,13 +1100,13 @@ $a=(0, 0, 1, 1)$
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
 
 $e \mapsto (0, 0, 0, 0)$
-$d = (1, 1, 1, 0)$
-$g = (0, 1, 1, 0)$
-$x = (1, 0, 0, 0)$
+$d \mapsto (1, 1, 1, 0)$
+$g \mapsto (0, 1, 1, 0)$
+$x \mapsto (1, 0, 0, 0)$
 $k = (1, 0, 0, 1)$
-$h = (0, 1, 1, 1)$
+$h \mapsto (0, 1, 1, 1)$
 $l = (1, 1, 1, 1)$
-$i = (0, 0, 0, 1)$
+$i \mapsto (0, 0, 0, 1)$
 
 #### $r I_{\mathcal{D}_{14}}$ ($D_{s} =$ Democratic/Aristocratic)
 ##### For Democratic Types
@@ -1137,13 +1137,13 @@ $b = (0, 1, 0, 1)$
 #### $I_{\mathcal{D}_{15}}$ (Democratic/Aristocratic)
 
 $e \mapsto (0, 0, 0, 0)$
-$d = (1, 1, 1, 0)$
+$d \mapsto (1, 1, 1, 0)$
 $a = (0, 1, 1, 1)$
 $m = (1, 0, 0, 1)$
-$g = (0, 1, 1, 0)$
+$g \mapsto (0, 1, 1, 0)$
 $c = (1. 1, 1, 1)$
 $q = (0, 0, 0, 1)$
-$x = (1, 0, 0, 0)$
+$x \mapsto (1, 0, 0, 0)$
 
 #### $r I_{\mathcal{D}_{{15}}}$ ($D_{s} =$ Irrational/Rational)
 ##### For Irrational Types
@@ -1151,22 +1151,22 @@ $x = (1, 0, 0, 0)$
 $S = (1, 0, 1, 1)$
 $B = (0, 1, 0, 1)$
 $k = (0, 0, 1, 0)$
-$h = (1, 1, 0, 0)$
+$h \mapsto (1, 1, 0, 0)$
 $s = (1, 1, 0, 1)$
 $b = (0, 0, 1, 1)$
 $l = (0, 1, 0, 0)$
-$i = (1, 0, 1, 0)$
+$i \mapsto (1, 0, 1, 0)$
 
 ##### For Rational Types
 
 $S = (1, 1, 0, 1)$
 $B = (0, 0, 1, 1)$
 $k = (0, 1, 0, 0)$
-$h = (1, 0, 1, 0)$
+$h \mapsto (1, 0, 1, 0)$
 $s = (1, 0, 1, 1)$
 $b = (0, 1, 0, 1)$
 $l = (0, 0, 1, 0)$
-$i = (1, 1, 0, 0)$
+$i \mapsto (1, 1, 0, 0)$
 
 
 ## EP Process Compass Result HEF ($\mathcal{D}_{16}$)
@@ -1174,7 +1174,7 @@ $i = (1, 1, 0, 0)$
 #### $I_{\mathcal{D}_{16}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
-$g = (0, 1, 1, 0)$
+$g \mapsto (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{16}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X2$
@@ -1268,7 +1268,7 @@ For $H^1(G, A)$ for a fixed dichotomy system $\mathcal{D}_i$, let:
 - $\rho : G \to \text{Aut}(A)$, the induced action of classical relations on vector coordinates.
 
 A 1-cocyle is an affine map $f : G \to A$ satisfying $$f(gh) = f(g)+g \cdot f(h)$$where the dot denotes the action $\rho(g)$. The cocycle defines a subgroup of $A$:
-$$\mathcal{R}_{i} := \mathrm{Im}(f) = \{f(g) \mid g \in G\} \leq A$$and the kernel of $f$ is: $$K_{f} := \mathrm{ker}(f) = \{g \in G \mid f(g) = 0\}.$$Because $f$ is a homomorphism up to twisting, we obtain: $$G / K_{f} \cong \mathcal{R}_{i}$$If the cocycle is surjective, then: $$\mathcal{R}_i = A \cong \mathbb{Z}^4_{2}.$$
+$$\mathcal{R}_{i} := \mathrm{Im}(f) = \{f(g) \mid g \in G\} \leq A$$and the kernel of $f$ is: $$K_{f} := \mathrm{ker}(f) = \{g \in G \mid f(g) = 0\}.$$Because $f$ is a homomorphism up to twisting, we obtain: $$G / K_{f} \cong \mathcal{R}_{i}$$If the cocycle is surjective, then: $$\mathcal{R}_i \mapsto A \cong \mathbb{Z}^4_{2}.$$
 The induced group $\mathcal{R}_i$ is the relation group associated with the dichotomy system $\mathcal{D}_i$. Different cocycles in the same cohomology class produce the same $\mathcal{R}_i$.
 
 
