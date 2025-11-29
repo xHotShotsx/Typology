@@ -118,24 +118,24 @@ $d \mapsto (1, 0, 1, 0)$
 ##### $Y8$
 ###### For $+Y8$ Types
 
-$b = (0, 1, 0, 1)$
-$B = (0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
 
 ###### For $-Y8$ Types
 
-$b = (0, 0, 1, 1)$
-$B = (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
 
 ##### $Z1$
 ###### For $+Z1$ Types
 
-$s = (1, 1, 1, 1)$
-$S = (1, 0, 0, 1)$
+$S \mapsto (1, 1, 1, 1)$
+$S \mapsto (1, 0, 0, 1)$
 
 ###### For $-Z1$ Types
 
-$s = (1, 0, 0, 1)$
-$S = (1, 1, 1, 1)$
+$S \mapsto (1, 0, 0, 1)$
+$S \mapsto (1, 1, 1, 1)$
 
 ##### $A2$
 ###### For $+A2$ Types
@@ -174,12 +174,12 @@ $c \mapsto (1, 1, 0, 1)$
 ###### For $+\Delta 1$ Types
 
 $q \mapsto (0, 0, 0, 1)$
-$q \mapsto (0, 1, 1, 1)$
+$a \mapsto (0, 1, 1, 1)$
 
 ###### For $-\Delta 1$ Types
 
 $q \mapsto (0, 1, 1, 1)$
-$q \mapsto (0, 0, 0, 1)$
+$a \mapsto (0, 0, 0, 1)$
 
 
 ## Semidual Mirage HEF ($\mathcal{D}_{2}$)
@@ -210,30 +210,30 @@ $i \mapsto (1, 1, 1, 0)$
 ##### Positivist/Negativist
 ###### For Positivist Types
 
-$q \mapsto (0, 1, 1, 1)$
+$a \mapsto (0, 1, 1, 1)$
 $q \mapsto (0, 0, 0, 1)$
-$B = (0, 0, 1, 1)$
-$b = (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
 
 ###### For Negativist Types
 
-$q \mapsto (0, 1, 1, 1)$
+$a \mapsto (0, 1, 1, 1)$
 $q \mapsto (0, 0, 0, 1)$
-$B = (0, 0, 1, 1)$
-$b = (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
 
 ##### Asking/Declaring
 ###### For Asking Types
 
-$S = (1, 0, 0, 1)$
-$s = (1, 1, 1, 1)$
+$S \mapsto (1, 0, 0, 1)$
+$S \mapsto (1, 1, 1, 1)$
 $m \mapsto (1, 1, 0, 1)$
 $c \mapsto (1, 0, 1, 1)$
 
 ###### For Declaring Types
 
-$S = (1, 1, 1, 1)$
-$s = (1, 0, 0, 1)$
+$S \mapsto (1, 1, 1, 1)$
+$S \mapsto (1, 0, 0, 1)$
 $m \mapsto (1, 0, 1, 1)$
 $c \mapsto (1, 1, 0, 1)$
 
@@ -251,17 +251,17 @@ $i \mapsto (1, 0, 1, 0)$
 ##### Extroversion/Introversion
 ###### For Extroverted Types
 
-$q \mapsto (0, 1, 1, 1)$
+$a \mapsto (0, 1, 1, 1)$
 $q \mapsto (0, 0, 0, 1)$
-$S = (1, 1, 0, 1)$
-$s = (1, 0, 1, 1)$
+$S \mapsto (1, 1, 0, 1)$
+$S \mapsto (1, 0, 1, 1)$
 
 ###### For Introverted Types
 
-$q \mapsto (0, 0, 0, 1)$
+$a \mapsto (0, 0, 0, 1)$
 $q \mapsto (0, 1, 1, 1)$
-$S = (1, 0, 1, 1)$
-$s = (1, 1, 0, 1)$
+$S \mapsto (1, 0, 1, 1)$
+$S \mapsto (1, 1, 0, 1)$
 
 ##### Irrational/Rational
 ###### For Irrational Types
@@ -283,15 +283,15 @@ $l \mapsto (0, 1, 0, 0)$
 
 $m \mapsto (1, 0, 0, 1)$
 $c \mapsto (1, 1, 1, 1)$
-$B = (0, 0, 1, 1)$
-$b = (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
 
 ###### For Dynamic Types
 
 $m \mapsto (1, 1, 1, 1)$
 $c \mapsto (1, 0, 0, 1)$
-$B = (0, 1, 0, 1)$
-$b = (0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
 
 
 ## EP Result Compass Process HEF ($\mathcal{D}_{4}$)
@@ -740,15 +740,15 @@ $c \mapsto (1, 1, 0, 1)$
 
 $k \mapsto (0,, 0, 1, 0)$
 $l \mapsto (0, 1, 0, 0)$
-$S = (1, 0, 0, 1)$
-$s = (1, 1, 1, 1)$
+$S \mapsto (1, 0, 0, 1)$
+$S \mapsto (1, 1, 1, 1)$
 
 ###### For Introverted Types
 
 $k \mapsto (0, 1, 0, 0)$
 $l \mapsto (0, 0, 1, 0)$
-$S = (1, 1, 1, 1)$
-$s = (1, 0, 0, 1)$
+$S \mapsto (1, 1, 1, 1)$
+$S \mapsto (1, 0, 0, 1)$
 
 ##### Democratic/Aristocratic
 ###### For Democratic Types
@@ -756,29 +756,29 @@ $s = (1, 0, 0, 1)$
 $x \mapsto (1, 1, 0, 0)$
 $d \mapsto (0, 1, 1, 1)$
 $q \mapsto (0, 1, 1, 1)$
-$q \mapsto (0, 0, 0, 1)$
+$a \mapsto (0, 0, 0, 1)$
 
 ###### For Aristocratic Types
 
 $x \mapsto (1, 0, 1, 0)$
 $d \mapsto (0, 0, 0, 1)$
 $q \mapsto (0, 0, 0, 1)$
-$q \mapsto (0, 1, 1, 1)$
+$a \mapsto (0, 1, 1, 1)$
 
 ##### Positivist/Negativist
 ###### For Positivist Types
 
 $h \mapsto (1, 1, 1, 0)$
 $i \mapsto (1, 0, 0, 0)$
-$b = (0, 1, 0, 1)$
-$B = (0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
 
 ###### For Negativist Types
 
 $h \mapsto (1, 1, 1, 0)$
 $i \mapsto (1, 0, 0, 0)$
-$b = (0, 1, 0, 1)$
-$B = (0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
 
 
 ## IJ Result Compass Process HEF ($\mathcal{D}_{9}$)
@@ -960,7 +960,7 @@ $a=(0, 0, 1, 1)$
 $e \mapsto (0, 1, 0, 0)$
 $g \mapsto (0, 0, 1, 0)$
 $q \mapsto (0, 0, 0, 1)$
-$q \mapsto (0, 1, 1, 1)$
+$a \mapsto (0, 1, 1, 1)$
 
 #### $r I_{\mathcal{D}_{12}}$ ($\bigcap{\mathcal{S}_{i}} =$ Challenge Response Groups)
 ##### Static/Dynamic
@@ -968,15 +968,15 @@ $q \mapsto (0, 1, 1, 1)$
 
 $k \mapsto (0, 1, 0, 0)$
 $l \mapsto (0, 0, 1, 0)$
-$B = (0, 0, 1, 0)$
-$b = (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 0)$
+$B \mapsto (0, 1, 0, 1)$
 
 ###### For Dynamic Types
 
 $k \mapsto (0, 0, 1, 0)$
 $l \mapsto (0, 1, 0, 0)$
-$B = (0, 1, 0, 0)$
-$b = (0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 0)$
+$B \mapsto (0, 0, 1, 1)$
 
 ##### Democratic/Aristocratic
 ###### For Democratic Types
@@ -998,15 +998,15 @@ $d \mapsto (1, 1, 1, 0)$
 
 $h \mapsto (1, 0, 1, 0)$
 $i \mapsto (1, 1, 0, 0)$
-$S = (1, 1, 0, 1)$
-$s = (1, 0, 1, 1)$
+$S \mapsto (1, 1, 0, 1)$
+$S \mapsto (1, 0, 1, 1)$
 
 ###### For Declaring Types
 
 $h \mapsto (1, 0, 1, 0)$
 $i \mapsto (1, 1, 0, 0)$
-$S = (1, 1, 0, 1)$
-$s = (1, 0, 1, 1)$
+$S \mapsto (1, 1, 0, 1)$
+$S \mapsto (1, 0, 1, 1)$
 
 
 ## IP Process Compass Result HEF ($\mathcal{D}_{13}$)
@@ -1115,10 +1115,10 @@ $a=(1, 1, 0, 0)$
 $m \mapsto (0, 0, 1, 0)$
 $c \mapsto (0, 1, 0, 0)$
 $q \mapsto (1, 0, 1, 0)$
-$S = (1, 1, 0, 1)$
-$B = (0, 0, 1, 1)$
-$s = (1, 0, 1, 1)$
-$b = (0, 1, 0, 1)$
+$S \mapsto (1, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
+$S \mapsto (1, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
 
 ##### For Aristocratic Types
 
@@ -1126,10 +1126,10 @@ $a=(1, 0, 1, 0)$
 $m \mapsto (0, 1, 0, 0)$
 $c \mapsto (0, 0, 1, 0)$
 $q \mapsto (1, 1, 0, 0)$
-$S = (1, 0, 1, 1)$
-$B = (0, 1, 0, 1)$
-$s = (1, 1, 0, 1)$
-$b = (0, 1, 0, 1)$
+$S \mapsto (1, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
+$S \mapsto (1, 1, 0, 1)$
+$B \mapsto (0, 1, 0, 1)$
 
 
 ## Reinin ($\mathcal{D}_{15}$)
@@ -1138,7 +1138,7 @@ $b = (0, 1, 0, 1)$
 
 $e \mapsto (0, 0, 0, 0)$
 $d \mapsto (1, 1, 1, 0)$
-$q \mapsto (0, 1, 1, 1)$
+$a \mapsto (0, 1, 1, 1)$
 $m \mapsto (1, 0, 0, 1)$
 $g \mapsto (0, 1, 1, 0)$
 $c \mapsto (1. 1, 1, 1)$
@@ -1148,23 +1148,23 @@ $x \mapsto (1, 0, 0, 0)$
 #### $r I_{\mathcal{D}_{{15}}}$ ($D_{s} =$ Irrational/Rational)
 ##### For Irrational Types
 
-$S = (1, 0, 1, 1)$
-$B = (0, 1, 0, 1)$
+$S \mapsto (1, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
 $k \mapsto (0, 0, 1, 0)$
 $h \mapsto (1, 1, 0, 0)$
-$s = (1, 1, 0, 1)$
-$b = (0, 0, 1, 1)$
+$S \mapsto (1, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
 $l \mapsto (0, 1, 0, 0)$
 $i \mapsto (1, 0, 1, 0)$
 
 ##### For Rational Types
 
-$S = (1, 1, 0, 1)$
-$B = (0, 0, 1, 1)$
+$S \mapsto (1, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
 $k \mapsto (0, 1, 0, 0)$
 $h \mapsto (1, 0, 1, 0)$
-$s = (1, 0, 1, 1)$
-$b = (0, 1, 0, 1)$
+$S \mapsto (1, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
 $l \mapsto (0, 0, 1, 0)$
 $i \mapsto (1, 1, 0, 0)$
 
