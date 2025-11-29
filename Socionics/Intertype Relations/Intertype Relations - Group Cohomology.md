@@ -110,7 +110,7 @@ For each dichotomy system $\mathcal{D}_i$, we fix a representation map $$\Phi_{i
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_1}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
+#### $r I_{\mathcal{D}_1}$ ($\mathcal{P}_{i} =$ Superego)
 ##### $X5$
 ###### For $+X5$ Types
 
@@ -198,7 +198,7 @@ $g \mapsto (0, 1, 1, 0)$
 $k \mapsto (0, 0, 1, 0)$
 $l \mapsto (0, 1, 0, 0)$
 
-#### $r I_{\mathcal{D}_{2}}$ ($\bigcap{\mathcal{S}_{i}} =$ Displacement)
+#### $r I_{\mathcal{D}_{2}}$ ($\mathcal{P}_{i} =$ Displacement)
 ##### Irrational/Rational
 ###### For Irrational Types
 
@@ -254,7 +254,7 @@ $g \mapsto (0, 1, 1, 0)$
 $h \mapsto (1, 1, 0, 0)$
 $i \mapsto (1, 0, 1, 0)$
 
-#### $r I_{\mathcal{D}_{3}}$ ($\bigcap{\mathcal{S}_{i}} =$ Temperament)
+#### $r I_{\mathcal{D}_{3}}$ ($\mathcal{P}_{i} =$ Temperament)
 ##### Extroversion/Introversion
 ###### For Extroverted Types
 
@@ -308,7 +308,7 @@ $b \mapsto (0, 0, 1, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{4}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
+#### $r I_{\mathcal{D}_{4}}$ ($\mathcal{P}_{i} =$ Superego)
 
 ##### $X5$
 ###### For $+X5$ Types
@@ -395,7 +395,7 @@ $a \mapsto (0, 0, 0, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_5}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
+#### $r I_{\mathcal{D}_5}$ ($\mathcal{P}_{i} =$ Superego)
 ##### Extroverted/Introverted
 ###### For Extroverted Types
 
@@ -481,7 +481,7 @@ $i \mapsto (1, 1, 1, 0)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_6}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
+#### $r I_{\mathcal{D}_6}$ ($\mathcal{P}_{i} =$ Superego)
 ##### $X6$
 ###### For $+X6$ Types
 
@@ -567,7 +567,7 @@ $a \mapsto (0, 1, 0, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{7}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
+#### $r I_{\mathcal{D}_{7}}$ ($\mathcal{P}_{i} =$ Superego)
 ##### $X1$
 ###### For $+X1$ Types
 
@@ -653,7 +653,7 @@ $a \mapsto (0, 0, 0, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_8}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
+#### $r I_{\mathcal{D}_8}$ ($\mathcal{P}_{i} =$ Superego)
 ##### Extroverted/Introverted
 ###### For Extroverted Types
 
@@ -741,7 +741,7 @@ $g \mapsto (0, 1, 1, 0)$
 $m \mapsto (1, 0, 1, 1)$
 $c \mapsto  (1, 1, 0, 1)$
 
-#### $r I_{\mathcal{D}_9}$ ($\bigcap{\mathcal{S}_{i}} =$ Positivity Groups)
+#### $r I_{\mathcal{D}_9}$ ($\mathcal{P}_{i} =$ Positivity Groups)
 ##### Extroverted/Introverted
 ###### For Extroverted Types
 
@@ -795,7 +795,7 @@ $B \mapsto (0, 0, 1, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{10}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
+#### $r I_{\mathcal{D}_{10}}$ ($\mathcal{P}_{i} =$ Superego)
 ##### $X1$
 ###### For $+X1$ Types
 
@@ -881,7 +881,7 @@ $a \mapsto (0, 0, 1, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto  (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{11}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
+#### $r I_{\mathcal{D}_{11}}$ ($\mathcal{P}_{i} =$ Superego)
 ##### $X1$
 ###### For $+X1$ Types
 
@@ -969,7 +969,7 @@ $g \mapsto (0, 0, 1, 0)$
 $q \mapsto  (0, 0, 0, 1)$
 $a \mapsto  (0, 1, 1, 1)$
 
-#### $r I_{\mathcal{D}_{12}}$ ($\bigcap{\mathcal{S}_{i}} =$ Challenge Response Groups)
+#### $r I_{\mathcal{D}_{12}}$ ($\mathcal{P}_{i} =$ Challenge Response Groups)
 ##### Static/Dynamic
 ###### For Static Types
 
@@ -1023,7 +1023,7 @@ $s \mapsto (1, 0, 1, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{13}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
+#### $r I_{\mathcal{D}_{13}}$ ($\mathcal{P}_{i} =$ Superego)
 ##### $X2$
 ###### For $+X2$ Types
 
@@ -1183,7 +1183,7 @@ $i \mapsto (1, 1, 0, 0)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{16}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
+#### $r I_{\mathcal{D}_{16}}$ ($\mathcal{P}_{i} =$ Superego)
 ##### $X2$
 ###### For $+X2$ Types
 
