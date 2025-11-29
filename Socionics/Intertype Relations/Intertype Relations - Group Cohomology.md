@@ -283,15 +283,15 @@ $l \mapsto (0, 1, 0, 0)$
 
 $m \mapsto (1, 0, 0, 1)$
 $c \mapsto  (1, 1, 1, 1)$
-$B = (0, 0, 1, 1)$
-$b = (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
+$b \mapsto (0, 1, 0, 1)$
 
 ###### For Dynamic Types
 
 $m \mapsto (1, 1, 1, 1)$
 $c \mapsto  (1, 0, 0, 1)$
-$B = (0, 1, 0, 1)$
-$b = (0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
+$b \mapsto (0, 0, 1, 1)$
 
 
 ## EP Result Compass Process HEF ($\mathcal{D}_{4}$)
@@ -306,23 +306,23 @@ $g \mapsto (0, 1, 1, 0)$
 ##### $X5$
 ###### For $+X5$ Types
 
-$x=(1, 0, 1, 0)$
-$d=(1, 1, 0, 0)$
+$x\mapsto(1, 0, 1, 0)$
+$d\mapsto(1, 1, 0, 0)$
 
 ###### For $-X5$ Types
 
-$x=(1, 1, 0, 0)$
-$d=(1, 0, 1, 0)$
+$x\mapsto(1, 1, 0, 0)$
+$d\mapsto(1, 0, 1, 0)$
 
 ##### $Y1$
 ###### For $+Y1$ Types
 
-$b=(0, 1, 0, 1)$
-$B=(0, 0, 1, 1)$
+$b\mapsto(0, 1, 0, 1)$
+$B\mapsto(0, 0, 1, 1)$
 
 ###### For $-Y1$ Types
 
-$b=(0, 0, 1, 1)$
+$b\mapsto(0, 0, 1, 1)$
 $B=(0, 1, 0, 1)$
 
 ##### $Z6$
