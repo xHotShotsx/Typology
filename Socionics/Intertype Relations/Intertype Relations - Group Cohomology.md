@@ -1284,7 +1284,7 @@ Prominent examples of such $E_{16}$-set models include Model L and Model W, whic
 Functions are the positions in a functional schema; monadic elements are the informational atoms that occupy these positions. For a dichotomy system $\mathcal{D}_i$, let $P_i$ denote the set of functions for an $i$ model and $\mathcal{E}$ the set of monadic elements. The functional configuration space is $X_i = \mathcal{E}^{P_{i}}$, with the induced relation group $\mathcal{R}_i$ acting via $\rho_i : \mathcal{R}_{i} \curvearrowright X_{i}$. A functional layout for a type $t$ is an element $L_i(t) \in X_{i}$. A bijection $\Theta_i : T \to X_{i}$ is equivariant iff $$\Theta_{i}(r \cdot t) = \rho_{i}(r)(\Theta_{i}(t)), \quad \forall r \in \mathcal{R}_{i}.$$
 When this holds, the type-level transformations and the functional-layout transformations are isomorphic; applying a relation has the same effect as applying it to the layout itself.
 
-For example, in Model L, applying the operator $A3$ to the type permutes the elements in the subgroup $$ 
+For example, in Model L, applying the operator $A3$ to the type permutes the elements in the subgroup $$\{A1, A3\} $$
 
 
 
