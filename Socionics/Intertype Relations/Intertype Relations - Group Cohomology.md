@@ -1277,7 +1277,7 @@ A set model is a set equipped with a well-defined action of some group. In the p
 
 For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathcal{R}_i$ acts on a corresponding set model. Thus, an $E_{16}$-set model is a pair $$ (X_{i}, \rho_{i}), \quad \rho_{i} : \mathcal{R}_{i} \curvearrowright X_{i}$$where $X_i$ is the underlying set and $\rho_i$ is the group action.
 
-Since there are 16 dichotomy systems, there are correspondingly up to 16 possible $E_{16}$-set models, each associated to its induced relation group $\mathcal{R}_i$.
+Since there are 16 dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}\}$, there are correspondingly up to 16 possible $E_{16}$-set models ($$), each associated to its induced relation group $\mathcal{R}_i$.
 
 Prominent examples of such $E_{16}$-set models include Model L and Model W, which realise different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
 
