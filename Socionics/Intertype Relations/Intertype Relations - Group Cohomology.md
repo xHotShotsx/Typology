@@ -92,7 +92,9 @@ We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0,
 The intersection of all selector dichotomies in a given dichotomy system can be defined as: $$ \bigcap{\mathcal{S}_{i}} := \bigcap_{D_{s} \in \mathcal{S}_{i}}{\mathrm{Fix}(D_{s})}.$$
 
 
-# $\Phi_{i} : \mathbb{S} \to \mathbf{V}_{i}$
+# The Map
+
+
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
 ### Generators Used: (E, D, L, P)
 #### $I_{\mathcal{D}_1}$ (Superego)
