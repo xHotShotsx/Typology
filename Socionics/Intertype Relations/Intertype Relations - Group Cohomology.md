@@ -94,7 +94,7 @@ The intersection of all selector dichotomies in a given dichotomy system can be 
 
 # The Representation Map
 
-For each dichotomy system, let the representation map between the Socion group and the vector space associated with a dichotomy system be $$\Phi_{i} : \mathbb{S} \longrightarrow \mathbf{V}_{i}.$$
+For each dichotomy system $\mathcal{D}_i$, we fix a representation map $$\Phi_{i} : \mathbb{S} \longrightarrow \mathbf{V}_{i}$$whichq a
 
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
 ### Generators Used: (E, D, L, P)
