@@ -339,12 +339,12 @@ $S=(1, 1, 1, 1)$
 ##### $A6$
 ###### For $+A6$ Types
 
-$i=(1, 0, 0, 0)$
+$i \mapsto (1, 0, 0, 0)$
 $h \mapsto (1, 1, 1, 0)$
 
 ###### For $-A6$ Types
 
-$i=(1, 1, 1, 0)$
+$i \mapsto (1, 1, 1, 0)$
 $h \mapsto (1, 0, 0, 0)$
 
 ##### $B6$
@@ -403,13 +403,13 @@ $l \mapsto (0, 0, 1, 0)$
 ##### Irrational/Rational
 ###### For Irrational Types
 
-$S=(1, 1, 0, 1)$
-$s=(1, 0, 1, 1)$
+$S\mapsto(1, 1, 0, 1)$
+$s\mapsto(1, 0, 1, 1)$
 
 ###### For Rational Types
 
-$S=(1, 0, 1, 1)$
-$s=(1, 1, 0, 1)$
+$\mapsto(1, 0, 1, 1)$
+$s\mapsto(1, 1, 0, 1)$
 
 ##### Static/Dynamic
 ###### For Static Types
@@ -425,13 +425,13 @@ $c \mapsto (1, 1, 1, 1)$
 ##### Democratic/Aristocratic
 ###### For Democratic Types
 
-$B=(0, 1, 1, 1)$
-$b=(0, 0, 0, 1)$
+$B\mapsto(0, 1, 1, 1)$
+$b\mapsto(0, 0, 0, 1)$
 
 ###### For Aristocratic Types
 
-$B=(0, 0, 0, 1)$
-$b=(0, 1, 1, 1)$
+$B\mapsto(0, 0, 0, 1)$
+$b\mapsto0, 1, 1, 1)$
 
 ##### Positivist/Negativist
 ###### For Positivist Types
@@ -459,12 +459,12 @@ $d \mapsto (1, 1, 0, 0)$
 ###### For Asking Types
 
 $h \mapsto (1, 1, 1, 0)$
-$i=(1, 0, 0, 0)$
+$i \mapsto (1, 0, 0, 0)$
 
 ###### For Declaring Types
 
 $h \mapsto (1, 0, 0, 0)$
-$i=(1, 1, 1, 0)$
+$i \mapsto (1, 1, 1, 0)$
 
 
 ## IJ Process Compass Result HEF ($\mathcal{D}_{6}$)
@@ -511,12 +511,12 @@ $S=(1, 0, 1, 1)$
 #### $A1$
 ##### For $+A1$ Types
 
-$i=(1, 1, 1, 0)$
+$i \mapsto (1, 1, 1, 0)$
 $h \mapsto (1, 0, 0, 0)$
 
 ##### For $-A1$ Types
 
-$i=(1, 0, 0, 0)$
+$i \mapsto (1, 0, 0, 0)$
 $h \mapsto (1, 1, 1, 0)$
 
 #### $B4$
@@ -597,12 +597,12 @@ $S=(1, 0, 0, 1)$
 ##### $A5$
 ###### For $+A5$ Types
 
-$i=(1, 1, 1, 0)$
+$i \mapsto (1, 1, 1, 0)$
 $h \mapsto (1, 0, 0, 0)$
 
 ###### For $-A5$ Types
 
-$i=(1, 0, 0, 0)$
+$i \mapsto (1, 0, 0, 0)$
 $h \mapsto (1, 1, 1, 0)$
 
 ##### $B8$
@@ -695,12 +695,12 @@ $s=(1, 1, 1, 1)$
 ###### For Positivist Types
 
 $h \mapsto (1, 1, 1, 0)$
-$i=(1, 0, 0, 0)$
+$i \mapsto (1, 0, 0, 0)$
 
 ###### For Negativist Types
 
 $h \mapsto (1, 0, 0, 0)$
-$i=(1, 1, 1, 0)$
+$i \mapsto (1, 1, 1, 0)$
 
 ##### Process/Result
 ###### For Process Types
@@ -825,12 +825,12 @@ $S=(1, 0, 0, 1)$
 #### $A5$
 ##### For +A5 Types
 
-$i=(1, 1, 0, 0)$
+$i \mapsto (1, 1, 0, 0)$
 $h \mapsto (1, 0, 1, 0)$
 
 ##### For $-A5$ Types
 
-$i=(1, 0, 1, 0)$
+$i \mapsto (1, 0, 1, 0)$
 $h \mapsto (1, 1, 0, 0)$
 
 #### $B4$
@@ -911,12 +911,12 @@ $S=(1, 0, 0, 1)$
 ##### $A1$
 ###### For $+A1$ Types
 
-$i=(1, 0, 1, 0)$
+$i \mapsto (1, 0, 1, 0)$
 $h \mapsto (1, 1, 0, 0)$
 
 ###### For $-A1$ Types
 
-$i=(1, 1, 0, 0)$
+$i \mapsto (1, 1, 0, 0)$
 $h \mapsto (1, 0, 1, 0)$
 
 ##### $B8$
@@ -1053,12 +1053,12 @@ $S=(1, 0, 0, 1)$
 ##### $A6$
 ###### For $+A6$ Types
 
-$i=(1, 1, 0, 0)$
+$i \mapsto (1, 1, 0, 0)$
 $h \mapsto (1, 0, 1, 0)$
 
 ###### For $-A6$ Types
 
-$i=(1, 0, 1, 0)$
+$i \mapsto (1, 0, 1, 0)$
 $h \mapsto (1, 1, 0, 0)$
 
 ##### $B2$
@@ -1213,12 +1213,12 @@ $S=(1, 0, 0, 1)$
 ##### $A2$
 ###### For $+A2$ Types
 
-$i=(1, 0, 1, 0)$
+$i \mapsto (1, 0, 1, 0)$
 $h \mapsto (1, 1, 0, 0)$
 
 ###### For $-A2$ Types
 
-$i=(1, 1, 0, 0)$
+$i \mapsto (1, 1, 0, 0)$
 $h \mapsto (1, 0, 1, 0)$
 
 ##### $B6$
