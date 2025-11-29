@@ -1145,7 +1145,7 @@ $c \mapsto  (1. 1, 1, 1)$
 $q \mapsto  (0, 0, 0, 1)$
 $x \mapsto (1, 0, 0, 0)$
 
-$i \mapsto (1, 0, )$
+$\text{ILE} : i \mapsto (1, 0, 1, 0)$
 
 #### $r I_{\mathcal{D}_{{15}}}$ ($D_{s} =$ Irrational/Rational)
 ##### For Irrational Types
