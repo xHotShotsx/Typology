@@ -110,7 +110,7 @@ For each dichotomy system $\mathcal{D}_i$, we fix a representation map $$\Phi_{i
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_1}$ ($\mathcal{P}_{i} =$ Superego)
+#### $r I_{\mathcal{D}_1}$ ($\mathcal{P}_{1} =$ Superego)
 ##### $X5$
 ###### For $+X5$ Types
 
@@ -198,7 +198,7 @@ $g \mapsto (0, 1, 1, 0)$
 $k \mapsto (0, 0, 1, 0)$
 $l \mapsto (0, 1, 0, 0)$
 
-#### $r I_{\mathcal{D}_{2}}$ ($\mathcal{P}_{i} =$ Displacement)
+#### $r I_{\mathcal{D}_{2}}$ ($\mathcal{P}_{2} =$ Displacement)
 ##### Irrational/Rational
 ###### For Irrational Types
 
@@ -254,7 +254,7 @@ $g \mapsto (0, 1, 1, 0)$
 $h \mapsto (1, 1, 0, 0)$
 $i \mapsto (1, 0, 1, 0)$
 
-#### $r I_{\mathcal{D}_{3}}$ ($\mathcal{P}_{i} =$ Temperament)
+#### $r I_{\mathcal{D}_{3}}$ ($\mathcal{P}_{3} =$ Temperament)
 ##### Extroversion/Introversion
 ###### For Extroverted Types
 
@@ -308,7 +308,7 @@ $b \mapsto (0, 0, 1, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{4}}$ ($\mathcal{P}_{i} =$ Superego)
+#### $r I_{\mathcal{D}_{4}}$ ($\mathcal{P}_{4} =$ Superego)
 
 ##### $X5$
 ###### For $+X5$ Types
@@ -395,7 +395,7 @@ $a \mapsto (0, 0, 0, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_5}$ ($\mathcal{P}_{i} =$ Superego)
+#### $r I_{\mathcal{D}_5}$ ($\mathcal{P}_{i_{5} =$ Superego)
 ##### Extroverted/Introverted
 ###### For Extroverted Types
 
