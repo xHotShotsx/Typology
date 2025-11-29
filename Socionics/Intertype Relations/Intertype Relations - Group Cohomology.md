@@ -94,7 +94,7 @@ The intersection of all selector dichotomies in a given dichotomy system can be 
 
 # The Representation Map
 
-For each dichotomy system $\mathcal{D}_i$, we fix a representation map $$\Phi_{i} : \mathbb{S} \longrightarrow \mathbf{V}_{i}$$which assigns to each intertype relation a 4-bit vector in the dichotomy space $\mathbf{V_{i} \cong \mathbb{Z}^4_{2}}$. The map $\Phi_i$ should be read as an affine (selector dependent representation). Equivalently, one may write $\Phi_i(v) = v_0 + f_i(v)$ where $f_i$ is a 1-cocycle $f_i : \mathbb{S} \to \mathbf{V}_{i}$ for the $\mathbb{S}$ action on $\mathbf{V}_{i}$.
+For each dichotomy system $\mathcal{D}_i$, we fix a representation map $$\Phi_{i} : \mathbb{S} \longrightarrow \mathbf{V}_{i}$$which assigns to each intertype relation a 4-bit vector in the dichotomy space $\mathbf{V_{i} \cong \mathbb{Z}^4_{2}}$. The map $\Phi_i$ should be read as an affine (selector dependent representation). Equivalently, one may write $\Phi_i(v) = v_0 + f_i(v)$ where $f_i$ is a 1-cocycle $f_i : \mathbb{S} \to \mathbf{V}_{i}$ for the $\mathbb{S}$ action on $\mathbf{V}_{i}$. More will be discussed on this later.
 
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
 ### Generators Used: (E, D, L, P)
