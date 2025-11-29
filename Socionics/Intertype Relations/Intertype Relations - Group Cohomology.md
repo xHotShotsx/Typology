@@ -1273,13 +1273,13 @@ The induced group $\mathcal{R}_i$ is the relation group associated with the dich
 
 ## $E_{16}$ Set Models
 
-A set model is a pair ($X, G$) consisting of a set $X$ together with a left action of a group $G$. In the present framework, an $E_{16}$ set model is any set model that carries an action of the group which is the vector space representation associated with a given dichotomy system.
+A set model is a pair ($X, G$) consisting of a set $X$ together with a left action of a group $G$. In the present framework, an $E_{16}$ set model is any set model that carries an action of the group which is the vector space representation associated with a given dichotomy system. For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathcal{R}_i$ acts on a corresponding set model. 
 
-For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathcal{R}_i$ acts on a corresponding set model. Thus, an $E_{16}$-set model is a pair $$ (X_{i}, \rho_{i}), \quad \rho_{i} : \mathcal{R}_{i} \curvearrowright X_{i}$$where $X_i$ is the underlying set and $\rho_i$ is the group action.
+Formally, an $E_{16}$-set model is a pair $$ (X_{i}, \rho_{i}), \quad \rho_{i} : \mathcal{R}_{i} \curvearrowright X_{i}$$where $X_i$ is the underlying set and $\rho_i$ is the group action.
 
 Since there are 16 dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}\}$, there are correspondingly up to 16 possible $E_{16}$-set models ($X_{i}, \rho_{i}$), each associated to its induced relation group $\mathcal{R}_i$.
 
-Prominent examples of such $E_{16}$-set models include Model L and Model W, which realise different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
+Prominent examples of such $E_{16}$-set models include Model L and Model W, which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
 
 
 
