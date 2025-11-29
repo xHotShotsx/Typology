@@ -186,7 +186,7 @@ $a = (0, 0, 0, 1)$
 ### Generators Used: (E, L, S, P)
 #### $I_{\mathcal{D}_{2}}$ (Temperament)
 
-$e = (0, 0, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 $k = (0, 0, 1, 0)$
 $l = (0, 1, 0, 0)$
@@ -242,7 +242,7 @@ $c = (1, 1, 0, 1)$
 ### Generators Used: (E, I, S, P)
 #### $I_{\mathcal{D}_{3}}$ (Displacement)
 
-$e = (0, 0, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 $h = (1, 1, 0, 0)$
 $i = (1, 0, 1, 0)$
@@ -298,7 +298,7 @@ $b = (0, 0, 1, 1)$
 ### Generators Used: (E, C, I, P)
 #### $I_{\mathcal{D}_4}$ (Superego)
 
-$e = (0, 0, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{4}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
@@ -385,7 +385,7 @@ $a=(0, 0, 0, 1)$
 ### Generators Used: (E, A, C, P)
 #### $I_{\mathcal{D}_{5}}$ (Superego)
 
-$e = (0, 0, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_5}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
@@ -471,7 +471,7 @@ $i=(1, 1, 1, 0)$
 ### Generators Used: (E, A, I, P)
 #### $I_{\mathcal{D}_6}$ (Superego)
 
-$e = (0, 0, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_6}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
@@ -557,7 +557,7 @@ $a=(0, 1, 0, 1)$
 ### Generators Used: (E, L, A, P)
 #### $I_{\mathcal{D}_{7}}$ (Superego)
 
-$e = (0, 0, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{7}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
@@ -643,7 +643,7 @@ $a=(0, 0, 0, 1)$
 ### Generators Used: (E, L, I, P)
 #### $I_{\mathcal{D}_{8}}$ (Superego)
 
-$e = (0, 0, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_8}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
@@ -729,7 +729,7 @@ $c=(1, 1, 0, 1)$
 ### Generators Used: (E, S, I, P)
 #### $I_{{\mathcal{D}_{9}}}$ (Challenge Response Groups)
 
-$e = (0, 0, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 $m = (1, 0, 1, 1)$
 $c = (1, 1, 0, 1)$
@@ -785,7 +785,7 @@ $B = (0, 0, 1, 1)$
 ### Generators Used: (E, D, A, P)
 #### $I_{\mathcal{D}_{10}}$ (Superego)
 
-$e = (0, 0, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$
 $g  = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{10}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
@@ -871,7 +871,7 @@ $a=(0, 0, 1, 1)$
 ### Generators Used: (E, D, A, P)
 #### $I_{\mathcal{D}_{11}}$ (Superego)
 
-$e = (0, 0, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$
 $g= (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{11}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
@@ -957,7 +957,7 @@ $a=(0, 0, 1, 1)$
 ### Generators Used: (E, I, S, P)
 #### $I_{\mathcal{D}_{12}}$ (Positivity Groups)
 
-$e = (0, 1, 0, 0)$
+$e \mapsto (0, 1, 0, 0)$
 $g = (0, 0, 1, 0)$
 $q = (0, 0, 0, 1)$
 $a = (0, 1, 1, 1)$
@@ -1013,7 +1013,7 @@ $s = (1, 0, 1, 1)$
 ### Generators Used: (E, S, I, P)
 #### $I_{\mathcal{D}_{13}}$ (Superego)
 
-$e = (0, 0, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{13}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
@@ -1099,7 +1099,7 @@ $a=(0, 0, 1, 1)$
 ### Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
 
-$e = (0, 0, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$
 $d = (1, 1, 1, 0)$
 $g = (0, 1, 1, 0)$
 $x = (1, 0, 0, 0)$
@@ -1136,7 +1136,7 @@ $b = (0, 1, 0, 1)$
 ### Generators Used: (E, N, T, P)
 #### $I_{\mathcal{D}_{15}}$ (Democratic/Aristocratic)
 
-$e = (0, 0, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$
 $d = (1, 1, 1, 0)$
 $a = (0, 1, 1, 1)$
 $m = (1, 0, 0, 1)$
@@ -1173,7 +1173,7 @@ $i = (1, 1, 0, 0)$
 ### Generators Used: (E, S, I, P)
 #### $I_{\mathcal{D}_{16}}$ (Superego)
 
-$e = (0, 0, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{16}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
