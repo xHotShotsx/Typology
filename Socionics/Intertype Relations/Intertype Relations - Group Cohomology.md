@@ -33,22 +33,22 @@
 
 ### Elements of $\mathbb{S}$:
 
-$e$ = identity
-$d$ = dual
-$a$ = activator
-$m$ = mirror
-$g$ = superego
-$c$ = conflict
-$q$ = quasi-identical
-$x$ = extinguishment
-$S$ = supervisor
-$B$ = benefactor
-$k$ = kindred
-$h$ = semidual, or half-dual
-$s$ = supervisee
-$b$ = beneficiary
-$l$ = business, or lookalike
-$i$ = mirage, or illusory
+$e \quad$  identity, or identical
+$d$  dual
+$a$ activator
+$m$ mirror
+$g$ superego
+$c$ conflict
+$q$ quasi-identical
+$x$ extinguishment
+$S$ supervisor
+$B$ benefactor
+$k$ kindred
+$h$ semidual, or half-dual
+$s$ supervisee
+$b$ beneficiary
+$l$ business, or lookalike
+$i$ mirage, or illusory
 
 
 # The Homomorphism
@@ -113,7 +113,7 @@ $d \mapsto (1, 1, 0, 0)$
 ###### For  $-X5$ Types
 
 $x = (1, 1, 0, 0)$
-$d = (1, 0, 1, 0)$
+$d \mapsto (1, 0, 1, 0)$
 
 ##### $Y8$
 ###### For $+Y8$ Types
