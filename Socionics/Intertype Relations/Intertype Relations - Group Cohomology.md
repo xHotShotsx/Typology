@@ -94,7 +94,7 @@ The intersection of all selector dichotomies in a given dichotomy system can be 
 
 # The Representation Map
 
-For each dichotomy system $\mathcal{D}_i$, we fix a representation map $$\Phi_{i} : \mathbb{S} \longrightarrow \mathbf{V}_{i}$$whichq a
+For each dichotomy system $\mathcal{D}_i$, we fix a representation map $$\Phi_{i} : \mathbb{S} \longrightarrow \mathbf{V}_{i}$$which assigns to each intertype relation a 4-bit vector in the dichotomy space $\mathbf{V_{i} \cong \mathbb{Z}^4_{2}}$. The map $\Phi_i
 
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
 ### Generators Used: (E, D, L, P)
