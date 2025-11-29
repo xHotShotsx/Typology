@@ -1281,7 +1281,7 @@ Since there are 16 dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}
 
 Prominent examples of such $E_{16}$-set models include Model L and Model W, which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
 
-Functions are the positions in a functional schema; monadic elements are the informational atoms that occupy these positions. For a dichotomy system $\mathcal{D}_i$, let $P_i$ denote the set of functions for an $i$ model and $\mathcal{E}$ the set of monadic elements. The functional configuration space is $X_i = \mathcal{E}^{P_{i}}$, with the induced relation group $\mathcal{R}_i$ acting via $\rho_i : \mathcal{R}_{i} \curvearrowright X_{i}$. A functional layout for a type $t$ is an element $L_i(t) \in X_{i}$. A bijection $\Phi 
+Functions are the positions in a functional schema; monadic elements are the informational atoms that occupy these positions. For a dichotomy system $\mathcal{D}_i$, let $P_i$ denote the set of functions for an $i$ model and $\mathcal{E}$ the set of monadic elements. The functional configuration space is $X_i = \mathcal{E}^{P_{i}}$, with the induced relation group $\mathcal{R}_i$ acting via $\rho_i : \mathcal{R}_{i} \curvearrowright X_{i}$. A functional layout for a type $t$ is an element $L_i(t) \in X_{i}$. A bijection $\Phi_i$ 
 
 
 
