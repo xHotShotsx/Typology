@@ -1276,6 +1276,8 @@ The induced group $\mathcal{R}_i$ is the relation group associated with the dich
 A set model can be described as a function model represented as a set, with a function being an element of the set. What I mean by an "$E_{16}$ set model" is a set model that precisely models a $C_2^4$ group, which in this case is the vector space associated with the dichotomy system, so the vector space acts on these models, as they do on the set of types, $T$. Theoretically, there are up to 16 set models that can be constructed, as there is a total of 16 dichotomy systems.
 
 
+
+
 # References
 
 1. Newman, M. (2023). [*"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*.](https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html)  Date accessed: 11/11/2025.
