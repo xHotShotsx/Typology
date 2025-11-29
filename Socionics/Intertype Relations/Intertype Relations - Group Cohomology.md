@@ -219,21 +219,21 @@ $b \mapsto (0, 1, 0, 1)$
 
 $a \mapsto  (0, 1, 1, 1)$
 $q \mapsto  (0, 0, 0, 1)$
-$B = (0, 0, 1, 1)$
-$b = (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
+$b \mapsto (0, 1, 0, 1)$
 
 ##### Asking/Declaring
 ###### For Asking Types
 
-$S = (1, 0, 0, 1)$
-$s = (1, 1, 1, 1)$
+$S \mapsto (1, 0, 0, 1)$
+$s \mapsto (1, 1, 1, 1)$
 $m \mapsto (1, 1, 0, 1)$
 $c \mapsto  (1, 0, 1, 1)$
 
 ###### For Declaring Types
 
-$S = (1, 1, 1, 1)$
-$s = (1, 0, 0, 1)$
+$S \mapsto (1, 1, 1, 1)$
+$s \mapsto (1, 0, 0, 1)$
 $m \mapsto (1, 0, 1, 1)$
 $c \mapsto  (1, 1, 0, 1)$
 
@@ -253,15 +253,15 @@ $i \mapsto (1, 0, 1, 0)$
 
 $a \mapsto  (0, 1, 1, 1)$
 $q \mapsto  (0, 0, 0, 1)$
-$S = (1, 1, 0, 1)$
-$s = (1, 0, 1, 1)$
+$S \mapsto (1, 1, 0, 1)$
+$s \mapsto (1, 0, 1, 1)$
 
 ###### For Introverted Types
 
 $a \mapsto  (0, 0, 0, 1)$
 $q \mapsto  (0, 1, 1, 1)$
-$S = (1, 0, 1, 1)$
-$s = (1, 1, 0, 1)$
+$S \mapsto (1, 0, 1, 1)$
+$s \mapsto (1, 1, 0, 1)$
 
 ##### Irrational/Rational
 ###### For Irrational Types
