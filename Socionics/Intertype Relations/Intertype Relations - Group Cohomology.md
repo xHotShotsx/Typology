@@ -1271,6 +1271,10 @@ A 1-cocyle is an affine map $f : G \to A$ satisfying $$f(gh) = f(g)+g \cdot f(h)
 $$\mathcal{R}_{i} := \mathrm{Im}(f) = \{f(g) \mid g \in G\} \leq A$$and the kernel of $f$ is: $$K_{f} := \mathrm{ker}(f) = \{g \in G \mid f(g) = 0\}.$$Because $f$ is a homomorphism up to twisting, we obtain: $$G / K_{f} \cong \mathcal{R}_{i}$$If the cocycle is surjective, then: $$\mathcal{R}_i = A \cong \mathbb{Z}^4_{2}.$$
 The induced group $\mathcal{R}_i$ is the relation group associated with the dichotomy system $\mathcal{D}_i$. Different cocycles in the same cohomology class produce the same $\mathcal{R}_i$.
 
+## $E_{16}$ Set Models
+
+A set model can be represented 
+
 
 # References
 
