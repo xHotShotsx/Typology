@@ -1282,6 +1282,8 @@ Since there are 16 dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}
 
 Prominent examples of such $E_{16}$-set models include Model L and Model W, which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
 
+### Hierarchy of Functions
+
 
 
 
