@@ -741,7 +741,7 @@ $c \mapsto  (1, 1, 0, 1)$
 $k \mapsto (0,, 0, 1, 0)$
 $l \mapsto (0, 1, 0, 0)$
 $S \mapsto (1, 0, 0, 1)$
-$s = (1, 1, 1, 1)$
+$s \mapsto (1, 1, 1, 1)$
 
 ###### For Introverted Types
 
@@ -770,23 +770,23 @@ $a \mapsto  (0, 1, 1, 1)$
 
 $h \mapsto (1, 1, 1, 0)$
 $i \mapsto (1, 0, 0, 0)$
-$b = (0, 1, 0, 1)$
-$B = (0, 0, 1, 1)$
+$b \mapsto (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
 
 ###### For Negativist Types
 
 $h \mapsto (1, 1, 1, 0)$
 $i \mapsto (1, 0, 0, 0)$
-$b = (0, 1, 0, 1)$
-$B = (0, 0, 1, 1)$
+$b \mapsto (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
 
 
-## IJ Result Compass Process HEF ($\mathcal{D}_{9}$)
+## IJ Result Compass Process HEF ($\mathcal{D}_{10}$)
 ### Generators Used: (E, D, A, P)
 #### $I_{\mathcal{D}_{10}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
-$g  = (0, 1, 1, 0)$
+$g \mapsto (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{10}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X1$
@@ -803,7 +803,7 @@ $d \mapsto (1, 1, 1, 0)$
 #### $Y8$
 ##### For $+Y8$ Types
 
-$b=(0, 1, 1, 1)$
+$b\mapsto(0, 1, 1, 1)$
 $B=(0, 0, 0, 1)$
 
 ##### For $-Y8$ Types
