@@ -1,4 +1,4 @@
-****# Some Useful Sets
+# Some Useful Sets
 ## Dichotomy Classification Hierarchy
 
 - $\mathfrak{d}$ = a dichotomy.
@@ -12,7 +12,7 @@
 ### Subscript Notation
 ### $\mathfrak{d}$
 
-- A dichotomy $\mathfrak{d}$ is $\{\mathfrak{d}_{0}, \mathfrak{d}_{1}\}$ where $\mathfrak{d}_0$ and $\mathfrak{d}_1$ are compliments inside a boolean lattice, $L$.
+- A dichotomy $\mathfrak{d}$ is $\{\mathfrak{d}_{0}, \mathfrak{d}_{1}\}$ where $\mathfrak{d}_0$ and $\mathfrak{d}_1$ are compliments inside a boolean lattice.
 - Since the boolean lattice of dichotomies is isomorphic to the vector space over $\mathbb{F}_{2}$, XOR addition naturally defines the group operation assigning 0 and 1 values to each dichotomy.
 - For historical reasons, we will let ILE be the 0 vector.
 
@@ -27,7 +27,7 @@
 
 ## Some Group Notations
 
-- $\mathbb{S}$: There exists in Socionics the group that comprises all classical Intertype Relations (ITRs). This group's structure is isomorphic to $D_{8} \times C_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2), which is nonabelian.
+- $\mathbb{S}$: There exists in Socionics the group that comprises all classical Intertype Relations (ITRs). This group's structure is isomorphic to $D_{8} \times C_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2), which is nonabelian. Also referred to as the "Socion" group.
 - $\mathfrak{D}$: This already has been defined. Its group structure is $E_{16}$ (elementary abelian group of order 16), which is also isomorphic to $C_2^4$.
 	- Note: $\mathcal{D}_i$ is any of the 16 dichotomy systems, with $i \in \mathcal{D}$ specifying the dichotomy system.
 
@@ -58,7 +58,7 @@ The action of the dichotomy system on the ITR group is given by a homomorphism $
 
 # Fixed Point Subgroup, $I_{\mathcal{D}_i}$
 
-The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is exactly the fixed subgroup $\mathbb{S}^{\mathcal{D}_{i}}$. More rigorously, this is defined as the following: $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathcal{D}_{i}} := \{r \in \mathbb{S} \mid \varphi(d)(r) = r, \ \forall d \in \mathcal{D}_{i}\}.$$
+The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathcal{D}_{i}}$. More rigorously, this is defined as the following: $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathcal{D}_{i}} := \{r \in \mathbb{S} \mid \varphi(d)(r) = r, \ \forall d \in \mathcal{D}_{i}\}.$$
 The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: $$r I_{\mathcal{D}_{i}} = I_{\mathcal{D}_{i}} r = \{rs \mid s \in I_{\mathcal{D}_{i}}\}, \quad r \in \mathbb{S}$$
 
 ## Universal Invariant Core
@@ -68,20 +68,31 @@ This "identity-superego" dyad is fixed by all $\mathfrak{D}$-modules. It's the p
 
 # The Selector
 
-The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathfrak{D}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to a coset in $r I_{\mathcal{D}_i}$, two possible sets of vectors in the representation space. For a given type $t \in T$, the selector determines which of these two vectors is chosen, based on whether the corresponding boolean trait of the dichotomy holds true for $t$. Thus, a selector dichotomy is the rule that splits each non-invariant coset into type-dependent vector assignments.
+The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathfrak{D}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to a coset in $r I_{\mathcal{D}_i}$, is two possible vectors in the representation space. For a given type $t \in T$, the selector determines which of these two vectors is chosen, based on whether the corresponding boolean trait of the dichotomy holds for $t$. Thus, a selector dichotomy is the rule that splits each non-invariant coset into type-dependent vector assignments.
 
-For a dichotomy system $\mathcal{D}_i$, let:
-- $Q := \frac{\mathbb{S}}{I}$ be the set of cosets of the invariant subgroup
-- A selector dichotomy, $D$
-- A function: $$\sigma_{D} : T \to \{0, 1\}.$$
-A selector acts on a coset $C_j \in r I$ via its pair of assigned vectors: $$ C_{j} \rightarrowtail (a_{j,0}, {a_{j,1}}) \in \mathbf{V}_{i} \times \mathbf{V}_{i}$$where $\mathbf{V}_{i}$ is the vector space $\mathbb{Z}^4_2$ that acts on the dichotomy space $\mathcal{D}_i$. The type $t$ chooses between them: $$ f_{D}(C_{j}, t) = \begin{cases}
-a_{j,0} \quad \text{if } \sigma_{D}(t) = 0, \\ a_{j,1} \quad \text{if } \sigma_{D}(t) = 1.
+## Formal Definition
+
+Let:
+- $\mathcal{D}_i$ be a dichotomy system, 
+- $Q := \mathbb{S} / I_{\mathcal{D}_{i}}$ be the set of cosets of the invariant subgroup,
+- $\mathcal{S}_{i} := \{D_{1}, D_{2}, \dots, D_{m-1}\}$, be the set of selector dichotomies of the dichotomy system $\mathcal{D}_i$,
+- $D_s \in \mathcal{S}_i$ is a selector dichotomy,
+- $\sigma_{s} : T \to \{0, 1\}$, the selector function.
+
+A selector acts on a coset $C_j \in Q$ via its pair of assigned vectors: $$ C_{j} \longmapsto (a_{j,0}^{(s)}, {a_{j,1}^{(s)}}) \in \mathbf{V}_{i} \times \mathbf{V}_{i},$$where ${a_{j,0}^{(s)}}$ is the chosen vector when $\sigma_{s}(t) = 0$,
+where $a_{j,1}^{(s)}$ is the vector chosen when $\sigma_{s}(t) = 1$,
+and where $\mathbf{V}_{i} \cong \mathbb{Z}_2^4$ is the representation space associated with the dichotomy system $\mathcal{D}_i$. 
+
+Thus, for any type $t$: $$ f_{D_{s}}(C_{j}, t) = \begin{cases}
+a_{j,0}^{(s)}, \quad \text{if } \sigma_{s}(t) = 0, \\ a_{j,1}^{(s)}, \quad \text{if } \sigma_{s}(t) = 1.
 \end{cases}$$
-In our framing, every type $t \in T$ can be defined by a 4-bit coordinate when fixing a dichotomy system, so that: $$\chi(t) = (\mathfrak{d}_{1}(t), \mathfrak{d}_{2}(t), \mathfrak{d}_{3}(t), \mathfrak{d}_{4}(t)) \in \mathbb{Z}^4_{2}, \quad \mathfrak{d} \in \mathfrak{D}$$where $\mathfrak{d}_i(t) \in \{0, 1\}$ is the trait value of $t$ on the $i$-th dichotomy.
+In our framing, every type $t \in T$ can be defined by a 4-bit coordinate when fixing a dichotomy system, so that: $$\chi(t) = (\mathfrak{D}_{1}(t), \mathfrak{D}_{2}(t), \mathfrak{D}_{3}(t), \mathfrak{D}_{4}(t)) \in \mathbb{Z}^4_{2}$$where $\mathfrak{D}_i(t) \in \{0, 1\}$ is the trait value of $t$ on the $i$-th dichotomy.
 
-To simplify matters, we will let $t_0 := \text{ILE}$, and let it be the zero vector, so that $$\chi(t_{0}) = (0, 0, 0, 0)$$then for any other type $t$ the selector bit vector is defined by $$\sigma(t)=\chi(t)-\chi(t_{0}) = \chi(t)$$
+We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0, 0)$$then for any other type $t$ the selector bit vector is defined by $$\chi(t)-\chi(t_{0}) = \chi(t).$$
+The intersection of all selector dichotomies in a given dichotomy system can be defined as: $$ \bigcap{\mathcal{S}_{i}} := \bigcap_{D_{s} \in \mathcal{S}_{i}}{\mathrm{Fix}(D_{s})}.$$
 
 
+# $\Phi : \mathbb{S}$
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
 ### Generators Used: (E, D, L, P)
 #### $I_{\mathcal{D}_1}$ (Superego)
@@ -89,7 +100,7 @@ To simplify matters, we will let $t_0 := \text{ILE}$, and let it be the zero vec
 $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_1}$ (Selectors across Superego)
+#### $r I_{\mathcal{D}_1}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X5$
 ###### For $+X5$ Types
 
@@ -177,7 +188,7 @@ $g = (0, 1, 1, 0)$
 $k = (0, 0, 1, 0)$
 $l = (0, 1, 0, 0)$
 
-#### $r I_{\mathcal{D}_{2}}$ (Selectors across Displacement)
+#### $r I_{\mathcal{D}_{2}}$ ($\bigcap{\mathcal{S}_{i}} =$ Displacement)
 ##### Irrational/Rational
 ###### For Irrational Types
 
@@ -233,7 +244,7 @@ $g = (0, 1, 1, 0)$
 $h = (1, 1, 0, 0)$
 $i = (1, 0, 1, 0)$
 
-#### $r I_{\mathcal{D}_{3}}$ (Selectors across Temperament)
+#### $r I_{\mathcal{D}_{3}}$ ($\bigcap{\mathcal{S}_{i}} =$ Temperament)
 ##### Extroversion/Introversion
 ###### For Extroverted Types
 
@@ -287,7 +298,7 @@ $b = (0, 0, 1, 1)$
 $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{4}}$ (Selectors across Superego)
+#### $r I_{\mathcal{D}_{4}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 
 ##### $X5$
 ###### For $+X5$ Types
@@ -374,7 +385,7 @@ $a=(0, 0, 0, 1)$
 $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_5}$ (Selectors across Superego)
+#### $r I_{\mathcal{D}_5}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### Extroverted/Introverted
 ###### For Extroverted Types
 
@@ -460,7 +471,7 @@ $i=(1, 1, 1, 0)$
 $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_6}$ (Across Superego)
+#### $r I_{\mathcal{D}_6}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X6$
 ###### For $+X6$ Types
 
@@ -546,7 +557,7 @@ $a=(0, 1, 0, 1)$
 $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{7}}$ (Selectors across Superego)
+#### $r I_{\mathcal{D}_{7}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X1$
 ###### For $+X1$ Types
 
@@ -632,7 +643,7 @@ $a=(0, 0, 0, 1)$
 $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_8}$ (Selectors across Superego)
+#### $r I_{\mathcal{D}_8}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### Extroverted/Introverted
 ###### For Extroverted Types
 
@@ -720,7 +731,7 @@ $g = (0, 1, 1, 0)$
 $m = (1, 0, 1, 1)$
 $c = (1, 1, 0, 1)$
 
-#### $r I_{\mathcal{D}_9}$ (Selectors across Positivity Groups)
+#### $r I_{\mathcal{D}_9}$ ($\bigcap{\mathcal{S}_{i}} =$ Positivity Groups)
 ##### Extroverted/Introverted
 ###### For Extroverted Types
 
@@ -774,7 +785,7 @@ $B = (0, 0, 1, 1)$
 $e = (0, 0, 0, 0)$
 $g  = (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{10}}$ (Selectors across Superego)
+#### $r I_{\mathcal{D}_{10}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X1$
 ###### For $+X1$ Types
 
@@ -860,7 +871,7 @@ $a=(0, 0, 1, 1)$
 $e = (0, 0, 0, 0)$
 $g= (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{11}}$ (Selectors across Superego)
+#### $r I_{\mathcal{D}_{11}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X1$
 ###### For $+X1$ Types
 
@@ -948,7 +959,7 @@ $g = (0, 0, 1, 0)$
 $q = (0, 0, 0, 1)$
 $a = (0, 1, 1, 1)$
 
-##### $r I_{\mathcal{D}_{12}}$ (Selectors across Challenge Response Groups)
+#### $r I_{\mathcal{D}_{12}}$ ($\bigcap{\mathcal{S}_{i}} =$ Challenge Response Groups)
 ##### Static/Dynamic
 ###### For Static Types
 
@@ -1002,7 +1013,7 @@ $s = (1, 0, 1, 1)$
 $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{13}}$ (Selectors across Superego)
+#### $r I_{\mathcal{D}_{13}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X2$
 ###### For $+X2$ Types
 
@@ -1094,7 +1105,7 @@ $h = (0, 1, 1, 1)$
 $l = (1, 1, 1, 1)$
 $i = (0, 0, 0, 1)$
 
-#### $r I_{\mathcal{D}_{14}}$ (Selector = Democratic/Aristocratic)
+#### $r I_{\mathcal{D}_{14}}$ ($D_{s} =$ Democratic/Aristocratic)
 ##### For Democratic Types
 
 $a=(1, 1, 0, 0)$
@@ -1131,7 +1142,7 @@ $c = (1. 1, 1, 1)$
 $q = (0, 0, 0, 1)$
 $x = (1, 0, 0, 0)$
 
-#### $r I_{\mathcal{D}_{{15}}}$ (Selector = Irrational/Rational)
+#### $r I_{\mathcal{D}_{{15}}}$ ($D_{s} =$ Irrational/Rational)
 ##### For Irrational Types
 
 $S = (1, 0, 1, 1)$
@@ -1162,7 +1173,7 @@ $i = (1, 1, 0, 0)$
 $e = (0, 0, 0, 0)$
 $g = (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{16}}$ (Selectors across Superego)
+#### $r I_{\mathcal{D}_{16}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X2$
 ###### For $+X2$ Types
 
