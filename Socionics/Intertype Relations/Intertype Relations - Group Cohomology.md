@@ -1273,14 +1273,9 @@ The induced group $\mathcal{R}_i$ is the relation group associated with the dich
 
 ## $E_{16}$ Set Models
 
-```
-```A set model can be described as a function model represented as a set, with a function being an element of the set. What I mean by an "$E_{16}$ set model" is a set model that precisely models a $C_2^4$ group, which in this case is the vector space associated with the dichotomy system, so the induced relation groups from a dichotomy system, $\mathcal{R}_i$. Theoretically, there are up to 16 set models that can be constructed, as there is a total of 16 dichotomy systems, so for each dichotomy system $\mathcal{D}_i$ there is a set model that is acted upon by its corresponding induced relation group. Examples of $E_{16}$ set models include both Model L ($\mathcal{M}_{15}$) and Model W.
-```
-
 A set model is a set equipped with a well-defined action of some group. In the present framework, an $E_{16}$ set model is a set model that carries an action of the group which is the vector space representation associated with a given dichotomy system.
 
-For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathcal{R}_i$ acts on a corresponding set model. Thus, an $E_{16}$-set model is a pair $$ (X_{i}, \rho_{i}), \quad \rho_{i} : \mathcal{R}_{i} \curvearrowright X_{i}$$
-where 
+For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathcal{R}_i$ acts on a corresponding set model. Thus, an $E_{16}$-set model is a pair $$ (X_{i}, \rho_{i}), \quad \rho_{i} : \mathcal{R}_{i} \curvearrowright X_{i}$$where $X_i$ is the underlying set and $\rho_
 
 
 
