@@ -1141,7 +1141,7 @@ $d \mapsto (1, 1, 1, 0)$
 $a \mapsto  (0, 1, 1, 1)$
 $m \mapsto (1, 0, 0, 1)$
 $g \mapsto (0, 1, 1, 0)$
-$c \mapsto  (1. 1, 1, 1)$
+$c \mapsto  (1, 1, 1, 1)$
 $q \mapsto  (0, 0, 0, 1)$
 $x \mapsto (1, 0, 0, 0)$
 
