@@ -56,7 +56,7 @@ $i$ = mirage, or illusory
 The action of the dichotomy system on the ITR group is given by a homomorphism $$\varphi : E_{16} \longrightarrow \text{Aut}(D_8 \times C_2).$$In the context of Socionic structure, we regard $E_{16}$ as the dichotomy algebra $\mathfrak{D}$, and $D_8 \times C_2$ as the ITR space $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as $$\varphi : \mathfrak{D} \longrightarrow \text{Aut}(\mathbb{S}),$$representing how the dichotomy system acts on the classical group of intertype relations, or $$\varphi : \mathcal{D}_{i} \longrightarrow \text{Aut}(\mathbb{S})$$ for any one of the 16 "Varlawend" spaces.
 
 
-# Fixed Point Subgroup, $I_{\mathcal{D}_i}$
+# Fixed Point Subgroup
 
 The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathcal{D}_{i}}$. More rigorously, this is defined as the following: $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathcal{D}_{i}} := \{r \in \mathbb{S} \mid \varphi(d)(r) = r, \ \forall d \in \mathcal{D}_{i}\}.$$
 The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: $$r I_{\mathcal{D}_{i}} = I_{\mathcal{D}_{i}} r = \{rs \mid s \in I_{\mathcal{D}_{i}}\}, \quad r \in \mathbb{S}$$
@@ -92,7 +92,7 @@ We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0,
 The intersection of all selector dichotomies in a given dichotomy system can be defined as: $$ \bigcap{\mathcal{S}_{i}} := \bigcap_{D_{s} \in \mathcal{S}_{i}}{\mathrm{Fix}(D_{s})}.$$
 
 
-# The Map
+# The Representation Map
 
 
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
