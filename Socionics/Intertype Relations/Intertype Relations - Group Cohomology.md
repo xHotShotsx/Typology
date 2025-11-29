@@ -1286,7 +1286,7 @@ When this holds, the type-level transformations and the functional-layout transf
 
 For example, in Model L, applying the operator $A_{3}$ to the type permutes the elements in the subgroup $$\{A_{1}, A_{3}\} \subseteq \mathcal{R}_{i},$$together with all of its cosets in the $\mathcal{R}_i$-space.
 
-Under the equivariant bijection $\Theta_i$, this corresponds exactly to the same permutation acting on the ILE's functional layout: the functions occupying positions inside that subgroup (and their associated cosets) are swapped in the set model by the action $\rho_{i}(A_{3})$. Thus, $$A_{3} \cdot t \text{ and}$$
+Under the equivariant bijection $\Theta_i$, this corresponds exactly to the same permutation acting on the ILE's functional layout: the functions occupying positions inside that subgroup (and their associated cosets) are swapped in the set model by the action $\rho_{i}(A_{3})$. Thus, $$A_{3} \cdot t \quad \text{and} \quad \rho_{i}(A_{3}) \cdot $$
 
 
 
