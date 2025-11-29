@@ -340,45 +340,45 @@ $S=(1, 1, 1, 1)$
 ###### For $+A6$ Types
 
 $i=(1, 0, 0, 0)$
-$h=(1, 1, 1, 0)$
+$h \mapsto (1, 1, 1, 0)$
 
 ###### For $-A6$ Types
 
 $i=(1, 1, 1, 0)$
-$h=(1, 0, 0, 0)$
+$h \mapsto (1, 0, 0, 0)$
 
 ##### $B6$
 ###### For $+B6$ Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ###### For $-B6$ Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ##### $\Gamma 1$
 ###### For $+\Gamma 1$ Types
 
-$m=(1, 1, 0, 1)$
-$c=(1, 0, 1, 1)$
+$m \mapsto (1, 1, 0, 1)$
+$c \mapsto (1, 0, 1, 1)$
 
 ###### For $-\Gamma 1$ Types
 
-$m=(1, 0, 1, 1)$
-$c=(1, 1, 0, 1)$
+$m \mapsto (1, 0, 1, 1)$
+$c \mapsto (1, 1, 0, 1)$
 
 ##### $\Delta 2$
 ###### For $+\Delta 2$ Types
 
-$q=(0, 0, 0, 1)$
-$a=(0, 1, 1, 1)$
+$q \mapsto (0, 0, 0, 1)$
+$a \mapsto (0, 1, 1, 1)$
 
 ###### For $-\Delta 2$ Types
 
-$q=(0, 1, 1, 1)$
-$a=(0, 0, 0, 1)$
+$q \mapsto (0, 1, 1, 1)$
+$a \mapsto (0, 0, 0, 1)$
 
 
 ## Parallel Club Quadra Charged Rationality ($\mathcal{D}_{5}$)
@@ -414,13 +414,13 @@ $s=(1, 1, 0, 1)$
 ##### Static/Dynamic
 ###### For Static Types
 
-$m=(1, 1, 1, 1)$
-$c=(1, 0, 0, 1)$
+$m \mapsto (1, 1, 1, 1)$
+$c \mapsto (1, 0, 0, 1)$
 
 ###### For Dynamic Types
 
-$m=(1, 0, 0, 1)$
-$c=(1, 1, 1, 1)$
+$m \mapsto (1, 0, 0, 1)$
+$c \mapsto (1, 1, 1, 1)$
 
 ##### Democratic/Aristocratic
 ###### For Democratic Types
@@ -436,13 +436,13 @@ $b=(0, 1, 1, 1)$
 ##### Positivist/Negativist
 ###### For Positivist Types
 
-$a=(0, 0, 1, 1)$
-$q=(0, 1, 0, 1)$
+$a \mapsto (0, 0, 1, 1)$
+$q \mapsto (0, 1, 0, 1)$
 
 ###### For Negativist Types
 
-$a=(0, 1, 0, 1)$
-$q=(0, 0, 1, 1)$
+$a \mapsto (0, 1, 0, 1)$
+$q \mapsto (0, 0, 1, 1)$
 
 ##### Process/Result
 ###### For Process Types
@@ -458,12 +458,12 @@ $d \mapsto (1, 1, 0, 0)$
 ##### Asking/Declaring
 ###### For Asking Types
 
-$h=(1, 1, 1, 0)$
+$h \mapsto (1, 1, 1, 0)$
 $i=(1, 0, 0, 0)$
 
 ###### For Declaring Types
 
-$h=(1, 0, 0, 0)$
+$h \mapsto (1, 0, 0, 0)$
 $i=(1, 1, 1, 0)$
 
 
@@ -512,45 +512,45 @@ $S=(1, 0, 1, 1)$
 ##### For $+A1$ Types
 
 $i=(1, 1, 1, 0)$
-$h=(1, 0, 0, 0)$
+$h \mapsto (1, 0, 0, 0)$
 
 ##### For $-A1$ Types
 
 $i=(1, 0, 0, 0)$
-$h=(1, 1, 1, 0)$
+$h \mapsto (1, 1, 1, 0)$
 
 #### $B4$
 ##### For $+B4$ Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ##### For $-B4$ Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 #### $\Gamma 1$
 ##### For $+\Gamma 1$ Types
 
-$m=(1, 1, 1, 1)$
-$c=(1, 0, 0, 1)$
+$m \mapsto (1, 1, 1, 1)$
+$c \mapsto (1, 0, 0, 1)$
 
 ##### For $-\Gamma 1$ Types
 
-$m=(1, 0, 0, 1)$
-$c=(1, 1, 1, 1)$
+$m \mapsto (1, 0, 0, 1)$
+$c \mapsto (1, 1, 1, 1)$
 
 #### $\Delta 1$
 ##### For $+\Delta 1$ Types
 
-$q=(0, 1, 0, 1)$
-$a=(0, 0, 1, 1)$
+$q \mapsto (0, 1, 0, 1)$
+$a \mapsto (0, 0, 1, 1)$
 
 ##### For $-\Delta 1$ Types
 
-$q=(0, 0, 1, 1)$
-$a=(0, 1, 0, 1)$
+$q \mapsto (0, 0, 1, 1)$
+$a \mapsto (0, 1, 0, 1)$
 
 
 ## EJ Compass Result HEF ($\mathcal{D}_{7}$)
@@ -598,45 +598,45 @@ $S=(1, 0, 0, 1)$
 ###### For $+A5$ Types
 
 $i=(1, 1, 1, 0)$
-$h=(1, 0, 0, 0)$
+$h \mapsto (1, 0, 0, 0)$
 
 ###### For $-A5$ Types
 
 $i=(1, 0, 0, 0)$
-$h=(1, 1, 1, 0)$
+$h \mapsto (1, 1, 1, 0)$
 
 ##### $B8$
 ###### For $+B8$ Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ###### For $-B8$ Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ##### $\Gamma 4$
 ###### For $+\Gamma 4$ Types
 
-$m=(1, 1, 0, 1)$
-$c=(1, 0, 1, 1)$
+$m \mapsto (1, 1, 0, 1)$
+$c \mapsto (1, 0, 1, 1)$
 
 ###### For $-\Gamma 4$ Types
 
-$m=(1, 0, 1, 1)$
-$c=(1, 1, 0, 1)$
+$m \mapsto (1, 0, 1, 1)$
+$c \mapsto (1, 1, 0, 1)$
 
 ##### $\Delta 2$
 ###### For $+\Delta 2$ Types
 
-$q=(0, 0, 0, 1)$
-$a=(0, 1, 1, 1)$
+$q \mapsto (0, 0, 0, 1)$
+$a \mapsto (0, 1, 1, 1)$
 
 ###### For $-\Delta 2$ Types
 
-$q=(0, 1, 1, 1)$
-$a=(0, 0, 0, 1)$
+$q \mapsto (0, 1, 1, 1)$
+$a \mapsto (0, 0, 0, 1)$
 
 
 ## Perpendicular Club Quadra Vertedness ($\mathcal{D}_{8}$)
@@ -650,13 +650,13 @@ $g \mapsto (0, 1, 1, 0)$
 ##### Extroverted/Introverted
 ###### For Extroverted Types
 
-$a=(0, 0, 0, 1)$
-$q=(0, 1, 1, 1)$
+$a \mapsto (0, 0, 0, 1)$
+$q \mapsto (0, 1, 1, 1)$
 
 ###### For Introverted Types
 
-$a=(0, 1, 1, 1)$
-$q=(0, 0, 0, 1)$
+$a \mapsto (0, 1, 1, 1)$
+$q \mapsto (0, 0, 0, 1)$
 
 ##### Irrational/Rational
 ###### For Irrational Types
@@ -672,13 +672,13 @@ $b=(0, 0, 1, 1)$
 ##### Static/Dynamic
 ###### For Static Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ###### For Dynamic Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 #### Democratic/Aristocratic
 ###### For Democratic Types
@@ -694,12 +694,12 @@ $s=(1, 1, 1, 1)$
 ##### Positivist/Negativist
 ###### For Positivist Types
 
-$h=(1, 1, 1, 0)$
+$h \mapsto (1, 1, 1, 0)$
 $i=(1, 0, 0, 0)$
 
 ###### For Negativist Types
 
-$h=(1, 0, 0, 0)$
+$h \mapsto (1, 0, 0, 0)$
 $i=(1, 1, 1, 0)$
 
 ##### Process/Result
@@ -716,13 +716,13 @@ $d \mapsto (1, 0, 1, 0)$
 ##### Asking/Declaring
 ###### For Asking Types
 
-$m=(1, 1, 0, 1)$
-$c=(1, 0, 1, 1)$
+$m \mapsto (1, 1, 0, 1)$
+$c \mapsto (1, 0, 1, 1)$
 
 ###### For Declaring Types
 
-$m=(1, 0, 1, 1)$
-$c=(1, 1, 0, 1)$
+$m \mapsto (1, 0, 1, 1)$
+$c \mapsto (1, 1, 0, 1)$
 
 
 ## Activation Quasi-Identity HEF ($\mathcal{D}_{9}$)
@@ -826,45 +826,45 @@ $S=(1, 0, 0, 1)$
 ##### For +A5 Types
 
 $i=(1, 1, 0, 0)$
-$h=(1, 0, 1, 0)$
+$h \mapsto (1, 0, 1, 0)$
 
 ##### For $-A5$ Types
 
 $i=(1, 0, 1, 0)$
-$h=(1, 1, 0, 0)$
+$h \mapsto (1, 1, 0, 0)$
 
 #### $B4$
 ##### For $+B4$ Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ##### For $-B4$ Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 #### $\Gamma 7$
 ##### For $+\Gamma 7$ Types
 
-$m=(1, 1, 0, 1)$
-$c=(1, 0, 1, 1)$
+$m \mapsto (1, 1, 0, 1)$
+$c \mapsto (1, 0, 1, 1)$
 
 ##### For $-\Gamma 7$ Types
 
-$m=(1, 0, 1, 1)$
-$c=(1, 1, 0, 1)$
+$m \mapsto (1, 0, 1, 1)$
+$c \mapsto (1, 1, 0, 1)$
 
 #### $\Delta 3$
 ##### For $+\Delta 3$ Types
 
-$q=(0, 0, 1, 1)$
-$a=(0, 1, 0, 1)$
+$q \mapsto (0, 0, 1, 1)$
+$a \mapsto (0, 1, 0, 1)$
 
 ##### For $-\Delta 3$ Types
 
-$q=(0, 1, 0, 1)$
-$a=(0, 0, 1, 1)$
+$q \mapsto (0, 1, 0, 1)$
+$a \mapsto (0, 0, 1, 1)$
 
 
 ## EJ Result Compass Process HEF ($\mathcal{D}_{11}$)
@@ -912,45 +912,45 @@ $S=(1, 0, 0, 1)$
 ###### For $+A1$ Types
 
 $i=(1, 0, 1, 0)$
-$h=(1, 1, 0, 0)$
+$h \mapsto (1, 1, 0, 0)$
 
 ###### For $-A1$ Types
 
 $i=(1, 1, 0, 0)$
-$h=(1, 0, 1, 0)$
+$h \mapsto (1, 0, 1, 0)$
 
 ##### $B8$
 ###### For $+B8$ Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ###### For $-B8$ Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ##### $\Gamma 6$
 ###### For $+\Gamma 6$ Types
 
-$m=(1, 1, 0, 1)$
-$c=(1, 0, 1, 1)$
+$m \mapsto (1, 1, 0, 1)$
+$c \mapsto (1, 0, 1, 1)$
 
 ###### For $-\Gamma 6$ Types
 
-$m=(1, 0, 1, 1)$
-$c=(1, 1, 0, 1)$
+$m \mapsto (1, 0, 1, 1)$
+$c \mapsto (1, 1, 0, 1)$
 
 ##### $\Delta 4$
 ###### For $+\Delta 4$ Types
 
-$q=(0, 0, 1, 1)$
-$a=(0, 1, 0, 1)$
+$q \mapsto (0, 0, 1, 1)$
+$a \mapsto (0, 1, 0, 1)$
 
 ###### For $-\Delta 4$ Types
 
-$q=(0, 1, 0, 1)$
-$a=(0, 0, 1, 1)$
+$q \mapsto (0, 1, 0, 1)$
+$a \mapsto (0, 0, 1, 1)$
 
 
 ## Mirror Conflict HEF ($\mathcal{D}_{12}$)
@@ -1054,45 +1054,45 @@ $S=(1, 0, 0, 1)$
 ###### For $+A6$ Types
 
 $i=(1, 1, 0, 0)$
-$h=(1, 0, 1, 0)$
+$h \mapsto (1, 0, 1, 0)$
 
 ###### For $-A6$ Types
 
 $i=(1, 0, 1, 0)$
-$h=(1, 1, 0, 0)$
+$h \mapsto (1, 1, 0, 0)$
 
 ##### $B2$
 ###### For $+B2$ Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ###### For $-B2$ Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ##### $\Gamma 6$
 ###### For $+\Gamma 6$ Types
 
-$m=(1, 0, 1, 1)$
-$c=(1, 1, 0, 1)$
+$m \mapsto (1, 0, 1, 1)$
+$c \mapsto (1, 1, 0, 1)$
 
 ###### For $-\Gamma 6$ Types
 
-$m=(1, 1, 0, 1)$
-$c=(1, 0, 1, 1)$
+$m \mapsto (1, 1, 0, 1)$
+$c \mapsto (1, 0, 1, 1)$
 
 ##### $\Delta 3$
 ###### For $+\Delta 3$ Types
 
-$q=(0, 0, 1, 1)$
-$a=(0, 1, 0, 1)$
+$q \mapsto (0, 0, 1, 1)$
+$a \mapsto (0, 1, 0, 1)$
 
 ###### For $-\Delta 3$ Types
 
-$q=(0, 1, 0, 1)$
-$a=(0, 0, 1, 1)$
+$q \mapsto (0, 1, 0, 1)$
+$a \mapsto (0, 0, 1, 1)$
 
 
 ## Tencer-Minaev ($\mathcal{D}_{14}$)
@@ -1111,7 +1111,7 @@ $i \mapsto (0, 0, 0, 1)$
 #### $r I_{\mathcal{D}_{14}}$ ($D_{s} =$ Democratic/Aristocratic)
 ##### For Democratic Types
 
-$a=(1, 1, 0, 0)$
+$a \mapsto (1, 1, 0, 0)$
 $m \mapsto (0, 0, 1, 0)$
 $c \mapsto  (0, 1, 0, 0)$
 $q \mapsto  (1, 0, 1, 0)$
@@ -1122,7 +1122,7 @@ $b = (0, 1, 0, 1)$
 
 ##### For Aristocratic Types
 
-$a=(1, 0, 1, 0)$
+$a \mapsto (1, 0, 1, 0)$
 $m \mapsto (0, 1, 0, 0)$
 $c \mapsto  (0, 0, 1, 0)$
 $q \mapsto  (1, 1, 0, 0)$
@@ -1214,45 +1214,45 @@ $S=(1, 0, 0, 1)$
 ###### For $+A2$ Types
 
 $i=(1, 0, 1, 0)$
-$h=(1, 1, 0, 0)$
+$h \mapsto (1, 1, 0, 0)$
 
 ###### For $-A2$ Types
 
 $i=(1, 1, 0, 0)$
-$h=(1, 0, 1, 0)$
+$h \mapsto (1, 0, 1, 0)$
 
 ##### $B6$
 ###### For $+B6$ Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ###### For $-B6$ Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ##### $\Gamma 7$
 ###### For $+\Gamma 7$ Types
 
-$m=(1, 0, 1, 1)$
-$c=(1, 1, 0, 1)$
+$m \mapsto (1, 0, 1, 1)$
+$c \mapsto (1, 1, 0, 1)$
 
 ###### For $-\Gamma 7$ Types
 
-$m=(1, 1, 0, 1)$
-$c=(1, 0, 1, 1)$
+$m \mapsto (1, 1, 0, 1)$
+$c \mapsto (1, 0, 1, 1)$
 
 ##### $\Delta 4$
 ###### For $+\Delta 4$ Types
 
-$q=(0, 0, 1, 1)$
-$a=(0, 1, 0, 1)$
+$q \mapsto (0, 0, 1, 1)$
+$a \mapsto (0, 1, 0, 1)$
 
 ###### For $-\Delta 4$ Types
 
-$q=(0, 1, 0, 1)$
-$a=(0, 0, 1, 1)$
+$q \mapsto (0, 1, 0, 1)$
+$a \mapsto (0, 0, 1, 1)$
 
 
 # $H^{1}$ (1st cohomology)
