@@ -1279,7 +1279,7 @@ For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathca
 
 Since there are 16 dichotomy systems, there are correspondingly up to 16 possible $E_{16}$-set models, each associated to its induced relation group $\mathcal{R}_i$.
 
-Examples of such $E_{16}$-set models include Model L and Model W, which realise different $\mathbb{Z}^4_2$ actions on their underlying functional layouts.
+Examples of such $E_{16}$-set models include Model L and Model W, $X_{15}$ and $X_{14}$, respectively, which realise different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
 
 
 
