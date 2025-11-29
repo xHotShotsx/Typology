@@ -408,7 +408,7 @@ $s\mapsto(1, 0, 1, 1)$
 
 ###### For Rational Types
 
-$\mapsto(1, 0, 1, 1)$
+$S\mapsto(1, 0, 1, 1)$
 $s\mapsto(1, 1, 0, 1)$
 
 ##### Static/Dynamic
