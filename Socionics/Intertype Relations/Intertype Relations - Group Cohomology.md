@@ -91,7 +91,7 @@ In our framing, every type $t \in T$ can be defined by a 4-bit coordinate when f
 We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0, 0)$$then for any other type $t$ the selector bit vector is defined by $$\chi(t)-\chi(t_{0}) = \chi(t).$$
 ### The Intersection
 
-Let each selector define a partition: $$ T = T_{s,0} \sqcap }  $$
+Let each selector define a partition: $$ T = T_{s,0} \sqcup T_{s,1}. $$
 
 
 # The Representation Map
