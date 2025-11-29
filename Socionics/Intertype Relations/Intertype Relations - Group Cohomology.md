@@ -89,7 +89,9 @@ a_{j,0}^{(s)}, \quad \text{if } \sigma_{s}(t) = 0, \\ a_{j,1}^{(s)}, \quad \text
 In our framing, every type $t \in T$ can be defined by a 4-bit coordinate when fixing a dichotomy system, so that: $$\chi(t) = (\mathfrak{D}_{1}(t), \mathfrak{D}_{2}(t), \mathfrak{D}_{3}(t), \mathfrak{D}_{4}(t)) \in \mathbb{Z}^4_{2}$$where $\mathfrak{D}_i(t) \in \{0, 1\}$ is the trait value of $t$ on the $i$-th dichotomy.
 
 We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0, 0)$$then for any other type $t$ the selector bit vector is defined by $$\chi(t)-\chi(t_{0}) = \chi(t).$$
-The intersection of all selector dichotomies in a given dichotomy system can be defined as: $$ \bigcap{\mathcal{S}_{i}} := \bigcap_{D_{s} \in \mathcal{S}_{i}}{\mathrm{Fix}(D_{s})}.$$
+### The Intersection
+
+Let each selector define a partition: $$T
 
 
 # The Representation Map
