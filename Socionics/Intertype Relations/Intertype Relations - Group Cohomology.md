@@ -1152,7 +1152,7 @@ $c \mapsto  (1, 1, 1, 1)$
 $q \mapsto  (0, 0, 0, 1)$
 $x \mapsto (1, 0, 0, 0)$
 
-#### $r I_{\mathcal{D}_{{15}}}$ ($D_{s} =$ Irrational/Rational)
+#### $r I_{\mathcal{D}_{{15}}}$ ($\mathcal{P}_{15} =$ Irrational/Rational)
 ##### For Irrational Types
 
 $S \mapsto (1, 0, 1, 1)$
@@ -1183,7 +1183,7 @@ $i \mapsto (1, 1, 0, 0)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{16}}$ ($\mathcal{P}_{i} =$ Superego)
+#### $r I_{\mathcal{D}_{16}}$ ($\mathcal{P}_{16} =$ Superego)
 ##### $X2$
 ###### For $+X2$ Types
 
