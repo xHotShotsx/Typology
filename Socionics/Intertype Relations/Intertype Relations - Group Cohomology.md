@@ -96,20 +96,19 @@ The intersection of all selector dichotomies in a given dichotomy system can be 
 
 For each dichotomy system, let the representation map between the Socion group and the vector space associated with a dichotomy system be $$\Phi_{i} : \mathbb{S} \longrightarrow \mathbf{V}_{i}.$$
 
-
 ## IP Result Compass HEF ($\mathcal{D}_{1}$)
 ### Generators Used: (E, D, L, P)
 #### $I_{\mathcal{D}_1}$ (Superego)
 
-$e = (0, 0, 0, 0)$
-$g = (0, 1, 1, 0)$
+$e \mapsto (0, 0, 0, 0)$
+$g \mapsto (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_1}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X5$
 ###### For $+X5$ Types
 
-$x = (1, 0, 1, 0)$
-$d = (1, 1, 0, 0)$
+$x \mapsto (1, 0, 1, 0)$
+$d \mapsto (1, 1, 0, 0)$
 
 ###### For  $-X5$ Types
 
