@@ -795,7 +795,7 @@ $B \mapsto (0, 0, 1, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{10}}$ ($\mathcal{P}_{i} =$ Superego)
+#### $r I_{\mathcal{D}_{10}}$ ($\mathcal{P}_{10} =$ Superego)
 ##### $X1$
 ###### For $+X1$ Types
 
