@@ -1271,7 +1271,7 @@ A 1-cocyle is an affine map $f : G \to A$ satisfying $$f(gh) = f(g)+g \cdot f(h)
 $$\mathcal{R}_{i} := \mathrm{Im}(f) = \{f(g) \mid g \in G\} \leq A$$and the kernel of $f$ is: $$K_{f} := \mathrm{ker}(f) = \{g \in G \mid f(g) = 0\}.$$Because $f$ is a homomorphism up to twisting, we obtain: $$G / K_{f} \cong \mathcal{R}_{i}$$If the cocycle is surjective, then: $$\mathcal{R}_i = A \cong \mathbb{Z}^4_{2}.$$
 The induced group $\mathcal{R}_i$ is the relation group associated with the dichotomy system $\mathcal{D}_i$. Different cocycles in the same cohomology class produce the same $\mathcal{R}_i$.
 
-## $E_{16}$ Set Models
+## $E_{16}$-Set Models
 
 A set model is a pair ($X, G$) consisting of a set $X$ together with a left action of a group $G$. In the present framework, an $E_{16}$ set model is any set model that carries an action of the group which is the vector space representation associated with a given dichotomy system. For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathcal{R}_i$ acts on a corresponding set model. 
 
