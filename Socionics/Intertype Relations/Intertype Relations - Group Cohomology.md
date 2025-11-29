@@ -481,7 +481,7 @@ $i \mapsto (1, 1, 1, 0)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_6}$ ($\mathcal{P}_{i} =$ Superego)
+#### $r I_{\mathcal{D}_6}$ ($\mathcal{P}_{6} =$ Superego)
 ##### $X6$
 ###### For $+X6$ Types
 
@@ -567,7 +567,7 @@ $a \mapsto (0, 1, 0, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{7}}$ ($\mathcal{P}_{i} =$ Superego)
+#### $r I_{\mathcal{D}_{7}}$ ($\mathcal{P}_{7} =$ Superego)
 ##### $X1$
 ###### For $+X1$ Types
 
@@ -653,7 +653,7 @@ $a \mapsto (0, 0, 0, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_8}$ ($\mathcal{P}_{i} =$ Superego)
+#### $r I_{\mathcal{D}_8}$ ($\mathcal{P}_{8} =$ Superego)
 ##### Extroverted/Introverted
 ###### For Extroverted Types
 
@@ -741,7 +741,7 @@ $g \mapsto (0, 1, 1, 0)$
 $m \mapsto (1, 0, 1, 1)$
 $c \mapsto  (1, 1, 0, 1)$
 
-#### $r I_{\mathcal{D}_9}$ ($\mathcal{P}_{i} =$ Positivity Groups)
+#### $r I_{\mathcal{D}_9}$ ($\mathcal{P}_{9} =$ Positivity Groups)
 ##### Extroverted/Introverted
 ###### For Extroverted Types
 
