@@ -1289,8 +1289,6 @@ For example, in Model L, applying the operator $A_{3}$ to the type permutes the 
 Under the equivariant bijection $\Theta_i$, this corresponds exactly to the same permutation acting on the ILE's functional layout: the functions occupying positions inside that subgroup (and their associated cosets) are swapped in the set model by the action $\rho_{i}(A_{3})$. Thus, $$A_{3} \cdot t \quad \text{and} \quad \rho_{i}(A_{3}) \cdot L_{i}(t)$$implement the same transformation in two different representations of the same underlying structure.
 
 
-
-
 # References
 
 1. Newman, M. (2023). [*"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*.](https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html)  Date accessed: 11/11/2025.
