@@ -323,13 +323,13 @@ $B\mapsto(0, 0, 1, 1)$
 ###### For $-Y1$ Types
 
 $b\mapsto(0, 0, 1, 1)$
-$B=(0, 1, 0, 1)$
+$B\mapsto(0, 1, 0, 1)$
 
 ##### $Z6$
 ###### For $+Z6$ Types
 
-$s=(1, 1, 1, 1)$
-$S=(1, 0, 0, 1)$
+$s\mapsto(1, 1, 1, 1)$
+$S\mapsto(1, 0, 0, 1)$
 
 ###### For $-Z6$ Types
 
@@ -447,13 +447,13 @@ $q=(0, 0, 1, 1)$
 ##### Process/Result
 ###### For Process Types
 
-$x=(1, 1, 0, 0)$
-$d=(1, 0, 1, 0)$
+$x \mapsto (1, 1, 0, 0)$
+$d \mapsto (1, 0, 1, 0)$
 
 ###### For Result Types
 
-$x=(1, 0, 1, 0)$
-$d=(1, 1, 0, 0)$
+$x \mapsto (1, 0, 1, 0)$
+$d \mapsto (1, 1, 0, 0)$
 
 ##### Asking/Declaring
 ###### For Asking Types
@@ -478,13 +478,13 @@ $g \mapsto (0, 1, 1, 0)$
 ##### $X6$
 ###### For $+X6$ Types
 
-$x=(1, 1, 0, 0)$
-$d=(1, 0, 1, 0)$
+$x \mapsto (1, 1, 0, 0)$
+$d \mapsto (1, 0, 1, 0)$
 
 ##### For $-X6$ Types
 
-$x=(1, 0, 1, 0)$
-$d=(1, 1, 0, 0)$
+$x \mapsto (1, 0, 1, 0)$
+$d \mapsto (1, 1, 0, 0)$
 
 #### $Y6$
 ##### For $+Y6$ Types
@@ -564,13 +564,13 @@ $g \mapsto (0, 1, 1, 0)$
 ##### $X1$
 ###### For $+X1$ Types
 
-$x=(1, 0, 1, 0)$
-$d=(1, 1, 0, 0)$
+$x \mapsto (1, 0, 1, 0)$
+$d \mapsto (1, 1, 0, 0)$
 
 ###### For $-X1$ Types
 
-$x=(1, 1, 0, 0)$
-$d=(1, 0, 1, 0)$
+$x \mapsto (1, 1, 0, 0)$
+$d \mapsto (1, 0, 1, 0)$
 
 ##### $Y3$
 ###### For $+Y3$ Types
@@ -705,13 +705,13 @@ $i=(1, 1, 1, 0)$
 ##### Process/Result
 ###### For Process Types
 
-$x=(1, 0, 1, 0)$
-$d=(1, 1, 0, 0)$
+$x \mapsto (1, 0, 1, 0)$
+$d \mapsto (1, 1, 0, 0)$
 
 ###### For Result Types
 
-$x=(1, 1, 0, 0)$
-$d=(1, 0, 1, 0)$
+$x \mapsto (1, 1, 0, 0)$
+$d \mapsto (1, 0, 1, 0)$
 
 ##### Asking/Declaring
 ###### For Asking Types
@@ -792,13 +792,13 @@ $g  = (0, 1, 1, 0)$
 ##### $X1$
 ###### For $+X1$ Types
 
-$x=(1, 1, 1, 0)$
-$d=(1, 0, 0, 0)$
+$x \mapsto (1, 1, 1, 0)$
+$d \mapsto (1, 0, 0, 0)$
 
 ##### For $-X1$ Types
 
-$x=(1, 0, 0, 0)$
-$d=(1, 1, 1, 0)$
+$x \mapsto (1, 0, 0, 0)$
+$d \mapsto (1, 1, 1, 0)$
 
 #### $Y8$
 ##### For $+Y8$ Types
@@ -872,19 +872,19 @@ $a=(0, 0, 1, 1)$
 #### $I_{\mathcal{D}_{11}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
-$g= (0, 1, 1, 0)$
+$g \mapsto  (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{11}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X1$
 ###### For $+X1$ Types
 
-$x=(1, 1, 1, 0)$
-$d=(1, 0, 0, 0)$
+$x \mapsto (1, 1, 1, 0)$
+$d \mapsto (1, 0, 0, 0)$
 
 ###### For $-X1$ Types
 
-$x=(1, 0, 0, 0)$
-$d=(1, 1, 1, 0)$
+$x \mapsto (1, 0, 0, 0)$
+$d \mapsto (1, 1, 1, 0)$
 
 ##### $Y1$
 ###### For $+Y1$ Types
@@ -1020,13 +1020,13 @@ $g \mapsto (0, 1, 1, 0)$
 ##### $X2$
 ###### For $+X2$ Types
 
-$x=(1, 0, 0, 0)$
-$d=(1, 1, 1, 0)$
+$x \mapsto (1, 0, 0, 0)$
+$d \mapsto (1, 1, 1, 0)$
 
 ###### For $-X2$ Types
 
-$x=(1, 1, 1, 0)$
-$d=(1, 0, 0, 0)$
+$x \mapsto (1, 1, 1, 0)$
+$d \mapsto (1, 0, 0, 0)$
 
 ##### $Y3$
 ###### For $+Y3$ Types
@@ -1180,13 +1180,13 @@ $g \mapsto (0, 1, 1, 0)$
 ##### $X2$
 ###### For $+X2$ Types
 
-$x=(1, 0, 0, 0)$
-$d=(1, 1, 1, 0)$
+$x \mapsto (1, 0, 0, 0)$
+$d \mapsto (1, 1, 1, 0)$
 
 ###### For $-X2$ Types
 
-$x=(1, 1, 1, 0)$
-$d=(1, 0, 0, 0)$
+$x \mapsto (1, 1, 1, 0)$
+$d \mapsto (1, 0, 0, 0)$
 
 ##### $Y3$
 ###### For $+Y3$ Types
