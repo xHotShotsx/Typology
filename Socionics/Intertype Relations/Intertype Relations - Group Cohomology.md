@@ -12,7 +12,7 @@
 ### Subscript Notation
 ### $\mathfrak{d}$
 
-- A dichotomy $\mathfrak{d}$ is $\{\mathfrak{d}_{0}, \mathfrak{d}_{1}\}$ where $\mathfrak{d}_0$ and $\mathfrak{d}_1$ are compliments inside a boolean lattice.
+- A dichotomy $\mathfrak{d}$ is $\{\mathfrak{d}_{0}, \mathfrak{d}_{1}\}$ where $\mathfrak{d}_0$ and $\mathfrak{d}_1$ are compliments inside a boolean lattice, $L$.
 - Since the boolean lattice of dichotomies is isomorphic to the vector space over $\mathbb{F}_{2}$, XOR addition naturally defines the group operation assigning 0 and 1 values to each dichotomy.
 - For historical reasons, we will let ILE be the 0 vector.
 
@@ -64,7 +64,7 @@ The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: $$r I_{\m
 ## Universal Invariant Core
 
 The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}$$
-This "identity-superego" dyad is fixed by all homomorphisms between the Socion group and dichotomy systems. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}$$
+This "identity-superego" dyad is fixed by all homomorphisms between the Socion group and a dichotomy system. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}$$
 
 # The Selector
 
