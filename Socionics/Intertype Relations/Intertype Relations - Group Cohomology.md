@@ -395,7 +395,7 @@ $a \mapsto (0, 0, 0, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_5}$ ($\mathcal{P}_{i_{5} =$ Superego)
+#### $r I_{\mathcal{D}_5}$ ($\mathcal{P}_{5} =$ Superego)
 ##### Extroverted/Introverted
 ###### For Extroverted Types
 
