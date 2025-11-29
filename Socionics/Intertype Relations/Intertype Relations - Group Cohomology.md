@@ -1272,6 +1272,7 @@ $$\mathcal{R}_{i} := \mathrm{Im}(f) = \{f(g) \mid g \in G\} \leq A$$and the kern
 The induced group $\mathcal{R}_i$ is the relation group associated with the dichotomy system $\mathcal{D}_i$. Different cocycles in the same cohomology class produce the same $\mathcal{R}_i$.
 
 ## $E_{16}$-Set Models
+### Introduction
 
 A set model is a pair ($X, G$) consisting of a set $X$ together with a left action of a group $G$. In the present framework, an $E_{16}$ set model is any set model that carries an action of the group which is the vector space representation associated with a given dichotomy system. For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathcal{R}_i$ acts on a corresponding set model. 
 
