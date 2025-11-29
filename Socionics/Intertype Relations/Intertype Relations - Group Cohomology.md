@@ -68,7 +68,7 @@ This "identity-superego" dyad is fixed by all $\mathfrak{D}$-modules. It's the p
 
 # The Selector
 
-The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathfrak{D}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to a coset in $r I_{\mathcal{D}_i}$, is two possible outputs in the representation space. For a given type $t \in T$, the selector determines which of these two vectors is chosen, based on whether the corresponding boolean trait of the dichotomy holds for $t$. Thus, a selector dichotomy is the rule that splits each non-invariant coset into type-dependent vector assignments.
+The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m \mapsto \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathfrak{D}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to a coset in $r I_{\mathcal{D}_i}$, is two possible outputs in the representation space. For a given type $t \in T$, the selector determines which of these two vectors is chosen, based on whether the corresponding boolean trait of the dichotomy holds for $t$. Thus, a selector dichotomy is the rule that splits each non-invariant coset into type-dependent vector assignments.
 
 ## Formal Definition
 
@@ -151,35 +151,35 @@ $h \mapsto (1, 1, 1, 0))$
 ##### $B2$
 ###### For $+B2$ Types
 
-$k = (0, 0, 1, 0)$
-$l = (0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ###### For $-B2$ Types
 
-$k = (0, 1, 0, 0)$
-$l = (0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ##### $\Gamma 4$
 ###### For $+\Gamma 4$ Types
 
-$m = (1, 1, 0, 1)$
-$c = (1, 0, 1, 1)$
+$m \mapsto (1, 1, 0, 1)$
+$c \mapsto (1, 0, 1, 1)$
 
 ###### For $-\Gamma 4$ Types
 
-$m = (1, 0, 1, 1)$
-$c = (1, 1, 0, 1)$
+$m \mapsto (1, 0, 1, 1)$
+$c \mapsto (1, 1, 0, 1)$
 
 ##### $\Delta 1$
 ###### For $+\Delta 1$ Types
 
-$q = (0, 0, 0, 1)$
-$a = (0, 1, 1, 1)$
+$q \mapsto (0, 0, 0, 1)$
+$q \mapsto (0, 1, 1, 1)$
 
 ###### For $-\Delta 1$ Types
 
-$q = (0, 1, 1, 1)$
-$a = (0, 0, 0, 1)$
+$q \mapsto (0, 1, 1, 1)$
+$q \mapsto (0, 0, 0, 1)$
 
 
 ## Semidual Mirage HEF ($\mathcal{D}_{2}$)
@@ -188,8 +188,8 @@ $a = (0, 0, 0, 1)$
 
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
-$k = (0, 0, 1, 0)$
-$l = (0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 #### $r I_{\mathcal{D}_{2}}$ ($\bigcap{\mathcal{S}_{i}} =$ Displacement)
 ##### Irrational/Rational
@@ -210,15 +210,15 @@ $i \mapsto (1, 1, 1, 0)$
 ##### Positivist/Negativist
 ###### For Positivist Types
 
-$a = (0, 1, 1, 1)$
-$q = (0, 0, 0, 1)$
+$q \mapsto (0, 1, 1, 1)$
+$q \mapsto (0, 0, 0, 1)$
 $B = (0, 0, 1, 1)$
 $b = (0, 1, 0, 1)$
 
 ###### For Negativist Types
 
-$a = (0, 1, 1, 1)$
-$q = (0, 0, 0, 1)$
+$q \mapsto (0, 1, 1, 1)$
+$q \mapsto (0, 0, 0, 1)$
 $B = (0, 0, 1, 1)$
 $b = (0, 1, 0, 1)$
 
@@ -227,15 +227,15 @@ $b = (0, 1, 0, 1)$
 
 $S = (1, 0, 0, 1)$
 $s = (1, 1, 1, 1)$
-$m = (1, 1, 0, 1)$
-$c = (1, 0, 1, 1)$
+$m \mapsto (1, 1, 0, 1)$
+$c \mapsto (1, 0, 1, 1)$
 
 ###### For Declaring Types
 
 $S = (1, 1, 1, 1)$
 $s = (1, 0, 0, 1)$
-$m = (1, 0, 1, 1)$
-$c = (1, 1, 0, 1)$
+$m \mapsto (1, 0, 1, 1)$
+$c \mapsto (1, 1, 0, 1)$
 
 
 ## Kindred Business HEF ($\mathcal{D}_{3}$)
@@ -251,15 +251,15 @@ $i \mapsto (1, 0, 1, 0)$
 ##### Extroversion/Introversion
 ###### For Extroverted Types
 
-$a = (0, 1, 1, 1)$
-$q = (0, 0, 0, 1)$
+$q \mapsto (0, 1, 1, 1)$
+$q \mapsto (0, 0, 0, 1)$
 $S = (1, 1, 0, 1)$
 $s = (1, 0, 1, 1)$
 
 ###### For Introverted Types
 
-$a = (0, 0, 0, 1)$
-$q = (0, 1, 1, 1)$
+$q \mapsto (0, 0, 0, 1)$
+$q \mapsto (0, 1, 1, 1)$
 $S = (1, 0, 1, 1)$
 $s = (1, 1, 0, 1)$
 
@@ -268,28 +268,28 @@ $s = (1, 1, 0, 1)$
 
 $x \mapsto (1, 1, 1, 0)$
 $d \mapsto (1, 0, 0, 0)$
-$k = (0, 1, 0, 0)$
-$l = (0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ###### For Rational Types
 
 $x \mapsto (1, 0, 0, 0)$
 $d \mapsto (1, 1, 1, 0)$
-$k = (0, 0, 1, 0)$
-$l = (0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ##### Static/Dynamic
 ###### For Static Types
 
-$m = (1, 0, 0, 1)$
-$c = (1, 1, 1, 1)$
+$m \mapsto (1, 0, 0, 1)$
+$c \mapsto (1, 1, 1, 1)$
 $B = (0, 0, 1, 1)$
 $b = (0, 1, 0, 1)$
 
 ###### For Dynamic Types
 
-$m = (1, 1, 1, 1)$
-$c = (1, 0, 0, 1)$
+$m \mapsto (1, 1, 1, 1)$
+$c \mapsto (1, 0, 0, 1)$
 $B = (0, 1, 0, 1)$
 $b = (0, 0, 1, 1)$
 
@@ -392,13 +392,13 @@ $g \mapsto (0, 1, 1, 0)$
 ##### Extroverted/Introverted
 ###### For Extroverted Types
 
-$k = (0, 0, 1, 0)$
-$l = (0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ###### For Introverted Types
 
-$k = (0, 1, 0, 0)$
-$l = (0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ##### Irrational/Rational
 ###### For Irrational Types
@@ -731,22 +731,22 @@ $c=(1, 1, 0, 1)$
 
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
-$m = (1, 0, 1, 1)$
-$c = (1, 1, 0, 1)$
+$m \mapsto (1, 0, 1, 1)$
+$c \mapsto (1, 1, 0, 1)$
 
 #### $r I_{\mathcal{D}_9}$ ($\bigcap{\mathcal{S}_{i}} =$ Positivity Groups)
 ##### Extroverted/Introverted
 ###### For Extroverted Types
 
-$k = (0,, 0, 1, 0)$
-$l = (0, 1, 0, 0)$
+$k \mapsto (0,, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 $S = (1, 0, 0, 1)$
 $s = (1, 1, 1, 1)$
 
 ###### For Introverted Types
 
-$k = (0, 1, 0, 0)$
-$l = (0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 $S = (1, 1, 1, 1)$
 $s = (1, 0, 0, 1)$
 
@@ -755,15 +755,15 @@ $s = (1, 0, 0, 1)$
 
 $x \mapsto (1, 1, 0, 0)$
 $d \mapsto (0, 1, 1, 1)$
-$q = (0, 1, 1, 1)$
-$a = (0, 0, 0, 1)$
+$q \mapsto (0, 1, 1, 1)$
+$q \mapsto (0, 0, 0, 1)$
 
 ###### For Aristocratic Types
 
 $x \mapsto (1, 0, 1, 0)$
 $d \mapsto (0, 0, 0, 1)$
-$q = (0, 0, 0, 1)$
-$a = (0, 1, 1, 1)$
+$q \mapsto (0, 0, 0, 1)$
+$q \mapsto (0, 1, 1, 1)$
 
 ##### Positivist/Negativist
 ###### For Positivist Types
@@ -959,37 +959,37 @@ $a=(0, 0, 1, 1)$
 
 $e \mapsto (0, 1, 0, 0)$
 $g \mapsto (0, 0, 1, 0)$
-$q = (0, 0, 0, 1)$
-$a = (0, 1, 1, 1)$
+$q \mapsto (0, 0, 0, 1)$
+$q \mapsto (0, 1, 1, 1)$
 
 #### $r I_{\mathcal{D}_{12}}$ ($\bigcap{\mathcal{S}_{i}} =$ Challenge Response Groups)
 ##### Static/Dynamic
 ###### For Static Types
 
-$k = (0, 1, 0, 0)$
-$l = (0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 $B = (0, 0, 1, 0)$
 $b = (0, 1, 0, 1)$
 
 ###### For Dynamic Types
 
-$k = (0, 0, 1, 0)$
-$l = (0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 $B = (0, 1, 0, 0)$
 $b = (0, 0, 1, 1)$
 
 ##### Democratic/Aristocratic
 ###### For Democratic Types
 
-$m = (1, 1, 1, 1)$
-$c = (1, 0, 0, 1)$
+$m \mapsto (1, 1, 1, 1)$
+$c \mapsto (1, 0, 0, 1)$
 $x \mapsto (1, 1, 1, 0)$
 $d \mapsto (1, 0, 0, 0)$
 
 ###### For Aristocratic Types
 
-$m = (1, 0, 0, 1)$
-$c = (1, 1, 1, 1)$
+$m \mapsto (1, 0, 0, 1)$
+$c \mapsto (1, 1, 1, 1)$
 $x \mapsto (1, 0, 0, 0)$
 $d \mapsto (1, 1, 1, 0)$
 
@@ -1103,18 +1103,18 @@ $e \mapsto (0, 0, 0, 0)$
 $d \mapsto (1, 1, 1, 0)$
 $g \mapsto (0, 1, 1, 0)$
 $x \mapsto (1, 0, 0, 0)$
-$k = (1, 0, 0, 1)$
+$k \mapsto (1, 0, 0, 1)$
 $h \mapsto (0, 1, 1, 1)$
-$l = (1, 1, 1, 1)$
+$l \mapsto (1, 1, 1, 1)$
 $i \mapsto (0, 0, 0, 1)$
 
 #### $r I_{\mathcal{D}_{14}}$ ($D_{s} =$ Democratic/Aristocratic)
 ##### For Democratic Types
 
 $a=(1, 1, 0, 0)$
-$m = (0, 0, 1, 0)$
-$c = (0, 1, 0, 0)$
-$q = (1, 0, 1, 0)$
+$m \mapsto (0, 0, 1, 0)$
+$c \mapsto (0, 1, 0, 0)$
+$q \mapsto (1, 0, 1, 0)$
 $S = (1, 1, 0, 1)$
 $B = (0, 0, 1, 1)$
 $s = (1, 0, 1, 1)$
@@ -1123,9 +1123,9 @@ $b = (0, 1, 0, 1)$
 ##### For Aristocratic Types
 
 $a=(1, 0, 1, 0)$
-$m = (0, 1, 0, 0)$
-$c = (0, 0, 1, 0)$
-$q = (1, 1, 0, 0)$
+$m \mapsto (0, 1, 0, 0)$
+$c \mapsto (0, 0, 1, 0)$
+$q \mapsto (1, 1, 0, 0)$
 $S = (1, 0, 1, 1)$
 $B = (0, 1, 0, 1)$
 $s = (1, 1, 0, 1)$
@@ -1138,11 +1138,11 @@ $b = (0, 1, 0, 1)$
 
 $e \mapsto (0, 0, 0, 0)$
 $d \mapsto (1, 1, 1, 0)$
-$a = (0, 1, 1, 1)$
-$m = (1, 0, 0, 1)$
+$q \mapsto (0, 1, 1, 1)$
+$m \mapsto (1, 0, 0, 1)$
 $g \mapsto (0, 1, 1, 0)$
-$c = (1. 1, 1, 1)$
-$q = (0, 0, 0, 1)$
+$c \mapsto (1. 1, 1, 1)$
+$q \mapsto (0, 0, 0, 1)$
 $x \mapsto (1, 0, 0, 0)$
 
 #### $r I_{\mathcal{D}_{{15}}}$ ($D_{s} =$ Irrational/Rational)
@@ -1150,22 +1150,22 @@ $x \mapsto (1, 0, 0, 0)$
 
 $S = (1, 0, 1, 1)$
 $B = (0, 1, 0, 1)$
-$k = (0, 0, 1, 0)$
+$k \mapsto (0, 0, 1, 0)$
 $h \mapsto (1, 1, 0, 0)$
 $s = (1, 1, 0, 1)$
 $b = (0, 0, 1, 1)$
-$l = (0, 1, 0, 0)$
+$l \mapsto (0, 1, 0, 0)$
 $i \mapsto (1, 0, 1, 0)$
 
 ##### For Rational Types
 
 $S = (1, 1, 0, 1)$
 $B = (0, 0, 1, 1)$
-$k = (0, 1, 0, 0)$
+$k \mapsto (0, 1, 0, 0)$
 $h \mapsto (1, 0, 1, 0)$
 $s = (1, 0, 1, 1)$
 $b = (0, 1, 0, 1)$
-$l = (0, 0, 1, 0)$
+$l \mapsto (0, 0, 1, 0)$
 $i \mapsto (1, 1, 0, 0)$
 
 
