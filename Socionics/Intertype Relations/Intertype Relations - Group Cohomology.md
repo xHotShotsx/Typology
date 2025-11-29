@@ -575,24 +575,24 @@ $d \mapsto (1, 0, 1, 0)$
 ##### $Y3$
 ###### For $+Y3$ Types
 
-$b=(0, 1, 0, 1)$
-$B=(0, 0, 1, 1)$
+$b\mapsto(0, 1, 0, 1)$
+$B\mapsto(0, 0, 1, 1)$
 
 ###### For $-Y3$ Types
 
-$b=(0, 0, 1, 1)$
-$B=(0, 1, 0, 1)$
+$b\mapsto(0, 0, 1, 1)$
+$B\mapsto(0, 1, 0, 1)$
 
 ##### $Z7$
 ###### For $+Z7$ Types
 
 $s\mapsto(1, 0, 0, 1)$
-$S=(1, 1, 1, 1)$
+$S\mapsto(1, 1, 1, 1)$
 
 ###### For $-Z7$ Types
 
-$s=(1, 1, 1, 1)$
-$S=(1, 0, 0, 1)$
+$s\mapsto(1, 1, 1, 1)$
+$S\mapsto(1, 0, 0, 1)$
 
 ##### $A5$
 ###### For $+A5$ Types
@@ -661,8 +661,8 @@ $q \mapsto (0, 0, 0, 1)$
 ##### Irrational/Rational
 ###### For Irrational Types
 
-$B=(0, 0, 1, 1)$
-$b=(0, 1, 0, 1)$
+$B\mapsto(0, 0, 1, 1)$
+$b\mapsto(0, 1, 0, 1)$
 
 ###### For Rational Types
 
