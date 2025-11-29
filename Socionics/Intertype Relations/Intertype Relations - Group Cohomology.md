@@ -872,7 +872,7 @@ $a=(0, 0, 1, 1)$
 #### $I_{\mathcal{D}_{11}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
-$g= (0, 1, 1, 0)$
+$g \mapsto (0, 1, 1, 0)$
 
 #### $r I_{\mathcal{D}_{11}}$ ($\bigcap{\mathcal{S}_{i}} =$ Superego)
 ##### $X1$
