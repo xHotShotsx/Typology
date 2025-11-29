@@ -1118,7 +1118,7 @@ $q \mapsto  (1, 0, 1, 0)$
 $S \mapsto (1, 1, 0, 1)$
 $B \mapsto (0, 0, 1, 1)$
 $s \mapsto (1, 0, 1, 1)$
-$b = (0, 1, 0, 1)$
+$b \mapsto (0, 1, 0, 1)$
 
 ##### For Aristocratic Types
 
@@ -1126,10 +1126,10 @@ $a \mapsto (1, 0, 1, 0)$
 $m \mapsto (0, 1, 0, 0)$
 $c \mapsto  (0, 0, 1, 0)$
 $q \mapsto  (1, 1, 0, 0)$
-$S = (1, 0, 1, 1)$
-$B = (0, 1, 0, 1)$
-$s = (1, 1, 0, 1)$
-$b = (0, 1, 0, 1)$
+$S \mapsto (1, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
+$s \mapsto (1, 1, 0, 1)$
+$b \mapsto (0, 1, 0, 1)$
 
 
 ## Reinin ($\mathcal{D}_{15}$)
@@ -1148,8 +1148,8 @@ $x \mapsto (1, 0, 0, 0)$
 #### $r I_{\mathcal{D}_{{15}}}$ ($D_{s} =$ Irrational/Rational)
 ##### For Irrational Types
 
-$S = (1, 0, 1, 1)$
-$B = (0, 1, 0, 1)$
+$S \mapsto (1, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
 $k \mapsto (0, 0, 1, 0)$
 $h \mapsto (1, 1, 0, 0)$
 $s = (1, 1, 0, 1)$
@@ -1159,12 +1159,12 @@ $i \mapsto (1, 0, 1, 0)$
 
 ##### For Rational Types
 
-$S = (1, 1, 0, 1)$
-$B = (0, 0, 1, 1)$
+$S \mapsto (1, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
 $k \mapsto (0, 1, 0, 0)$
 $h \mapsto (1, 0, 1, 0)$
-$s = (1, 0, 1, 1)$
-$b = (0, 1, 0, 1)$
+$s \mapsto (1, 0, 1, 1)$
+$b \mapsto (0, 1, 0, 1)$
 $l \mapsto (0, 0, 1, 0)$
 $i \mapsto (1, 1, 0, 0)$
 
