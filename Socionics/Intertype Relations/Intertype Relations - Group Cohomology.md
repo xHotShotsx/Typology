@@ -34,21 +34,21 @@
 ### Elements of $\mathbb{S}$:
 
 $e \quad$  identity, or identical
-$d$  dual
-$a$ activator
-$m$ mirror
-$g$ superego
-$c$ conflict
-$q$ quasi-identical
-$x$ extinguishment
-$S$ supervisor
-$B$ benefactor
-$k$ kindred
-$h$ semidual, or half-dual
-$s$ supervisee
-$b$ beneficiary
-$l$ business, or lookalike
-$i$ mirage, or illusory
+$d \quad$  dual
+$a \quad$ activator
+$m \quad$ mirror
+$g \quad$ superego
+$c \quad$ conflict
+$q \quad$ quasi-identical
+$x \quad$ extinguishment
+$S \quad$ supervisor
+$B \quad$ benefactor
+$k \quad$ kindred
+$h \quad$ semidual, or half-dual
+$s \quad$ supervisee
+$b \quad$ beneficiary
+$l \quad$ business, or lookalike
+$i \quad$ mirage, or illusory
 
 
 # The Homomorphism
