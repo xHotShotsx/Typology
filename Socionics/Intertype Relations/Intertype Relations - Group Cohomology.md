@@ -1279,7 +1279,7 @@ Formally, an $E_{16}$-set model is a pair $$ (X_{i}, \rho_{i}), \quad \rho_{i} :
 
 Since there are 16 dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}\}$, there are correspondingly up to 16 possible $E_{16}$-set models ($X_{i}, \rho_{i}$), each associated to its induced relation group $\mathcal{R}_i$.
 
-Prominent examples of such $E_{16}$-set models include Model L and Model W, which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
+Prominent examples of such $E_{16}$-set models include Model L and Model W, which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.![[Pasted image 20251129211844.png]]n
 
 
 
