@@ -906,7 +906,7 @@ $S\mapsto(1, 1, 1, 1)$
 ###### For $-Z1$ Types
 
 $s\mapsto(1, 1, 1, 1)$
-$S=(1, 0, 0, 1)$
+$S\mapsto(1, 0, 0, 1)$
 
 ##### $A1$
 ###### For $+A1$ Types
@@ -968,15 +968,15 @@ $a \mapsto  (0, 1, 1, 1)$
 
 $k \mapsto (0, 1, 0, 0)$
 $l \mapsto (0, 0, 1, 0)$
-$B = (0, 0, 1, 0)$
-$b = (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 0)$
+$b \mapsto (0, 1, 0, 1)$
 
 ###### For Dynamic Types
 
 $k \mapsto (0, 0, 1, 0)$
 $l \mapsto (0, 1, 0, 0)$
-$B = (0, 1, 0, 0)$
-$b = (0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 0)$
+$b \mapsto (0, 0, 1, 1)$
 
 ##### Democratic/Aristocratic
 ###### For Democratic Types
@@ -998,15 +998,15 @@ $d \mapsto (1, 1, 1, 0)$
 
 $h \mapsto (1, 0, 1, 0)$
 $i \mapsto (1, 1, 0, 0)$
-$S = (1, 1, 0, 1)$
-$s = (1, 0, 1, 1)$
+$S \mapsto (1, 1, 0, 1)$
+$s \mapsto (1, 0, 1, 1)$
 
 ###### For Declaring Types
 
 $h \mapsto (1, 0, 1, 0)$
 $i \mapsto (1, 1, 0, 0)$
-$S = (1, 1, 0, 1)$
-$s = (1, 0, 1, 1)$
+$S \mapsto (1, 1, 0, 1)$
+$s \mapsto (1, 0, 1, 1)$
 
 
 ## IP Process Compass Result HEF ($\mathcal{D}_{13}$)
