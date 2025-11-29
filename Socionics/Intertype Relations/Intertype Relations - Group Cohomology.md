@@ -1273,7 +1273,7 @@ The induced group $\mathcal{R}_i$ is the relation group associated with the dich
 
 ## $E_{16}$ Set Models
 
-A set model can be represented 
+A set model can be described as a function model 
 
 
 # References
