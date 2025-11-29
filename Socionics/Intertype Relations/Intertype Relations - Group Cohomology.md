@@ -1278,6 +1278,8 @@ A set model can be described as a function model represented as a set, with a fu
 
 
 
+
+
 # References
 
 1. Newman, M. (2023). [*"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*.](https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html)  Date accessed: 11/11/2025.
