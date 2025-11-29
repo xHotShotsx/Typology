@@ -666,8 +666,8 @@ $b\mapsto(0, 1, 0, 1)$
 
 ###### For Rational Types
 
-$B=(0, 1, 0, 1)$
-$b=(0, 0, 1, 1)$
+$B\mapsto(0, 1, 0, 1)$
+$b\mapsto(0, 0, 1, 1)$
 
 ##### Static/Dynamic
 ###### For Static Types
@@ -683,13 +683,13 @@ $l \mapsto (0, 1, 0, 0)$
 #### Democratic/Aristocratic
 ###### For Democratic Types
 
-$S=(1, 1, 1, 1)$
-$s=(1, 0, 0, 1)$
+$S\mapsto(1, 1, 1, 1)$
+$s\mapsto(1, 0, 0, 1)$
 
 ###### For Aristocratic Types
 
-$S=(1, 0, 0, 1)$
-$s=(1, 1, 1, 1)$
+$S\mapsto(1, 0, 0, 1)$
+$s\mapsto(1, 1, 1, 1)$
 
 ##### Positivist/Negativist
 ###### For Positivist Types
@@ -740,15 +740,15 @@ $c \mapsto  (1, 1, 0, 1)$
 
 $k \mapsto (0,, 0, 1, 0)$
 $l \mapsto (0, 1, 0, 0)$
-$S = (1, 0, 0, 1)$
+$S \mapsto (1, 0, 0, 1)$
 $s = (1, 1, 1, 1)$
 
 ###### For Introverted Types
 
 $k \mapsto (0, 1, 0, 0)$
 $l \mapsto (0, 0, 1, 0)$
-$S = (1, 1, 1, 1)$
-$s = (1, 0, 0, 1)$
+$S \mapsto (1, 1, 1, 1)$
+$s \mapsto (1, 0, 0, 1)$
 
 ##### Democratic/Aristocratic
 ###### For Democratic Types
