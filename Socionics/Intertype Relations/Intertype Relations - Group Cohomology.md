@@ -1275,7 +1275,9 @@ The induced group $\mathcal{R}_i$ is the relation group associated with the dich
 
 A set model is a set equipped with a well-defined action of some group. In the present framework, an $E_{16}$ set model is a set model that carries an action of the group which is the vector space representation associated with a given dichotomy system.
 
-For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathcal{R}_i$ acts on a corresponding set model. Thus, an $E_{16}$-set model is a pair $$ (X_{i}, \rho_{i}), \quad \rho_{i} : \mathcal{R}_{i} \curvearrowright X_{i}$$where $X_i$ is the underlying set and $\rho_
+For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathcal{R}_i$ acts on a corresponding set model. Thus, an $E_{16}$-set model is a pair $$ (X_{i}, \rho_{i}), \quad \rho_{i} : \mathcal{R}_{i} \curvearrowright X_{i}$$where $X_i$ is the underlying set and $\rho_i$ is the group action.
+
+Since there are 16 dichotomy systems, there are correspondingly up to 16 possible $E_16 
 
 
 
