@@ -881,7 +881,7 @@ $a \mapsto (0, 0, 1, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto  (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{11}}$ ($\mathcal{P}_{i} =$ Superego)
+#### $r I_{\mathcal{D}_{11}}$ ($\mathcal{P}_{11} =$ Superego)
 ##### $X1$
 ###### For $+X1$ Types
 
@@ -969,7 +969,7 @@ $g \mapsto (0, 0, 1, 0)$
 $q \mapsto  (0, 0, 0, 1)$
 $a \mapsto  (0, 1, 1, 1)$
 
-#### $r I_{\mathcal{D}_{12}}$ ($\mathcal{P}_{i} =$ Challenge Response Groups)
+#### $r I_{\mathcal{D}_{12}}$ ($\mathcal{P}_{12} =$ Challenge Response Groups)
 ##### Static/Dynamic
 ###### For Static Types
 
@@ -1023,7 +1023,7 @@ $s \mapsto (1, 0, 1, 1)$
 $e \mapsto (0, 0, 0, 0)$
 $g \mapsto (0, 1, 1, 0)$
 
-#### $r I_{\mathcal{D}_{13}}$ ($\mathcal{P}_{i} =$ Superego)
+#### $r I_{\mathcal{D}_{13}}$ ($\mathcal{P}_{13} =$ Superego)
 ##### $X2$
 ###### For $+X2$ Types
 
@@ -1115,7 +1115,7 @@ $h \mapsto (0, 1, 1, 1)$
 $l \mapsto (1, 1, 1, 1)$
 $i \mapsto (0, 0, 0, 1)$
 
-#### $r I_{\mathcal{D}_{14}}$ ($D_{s} =$ Democratic/Aristocratic)
+#### $r I_{\mathcal{D}_{14}}$ ($\mathcal{P}_{14} =$ Democratic/Aristocratic)
 ##### For Democratic Types
 
 $a \mapsto (1, 1, 0, 0)$
