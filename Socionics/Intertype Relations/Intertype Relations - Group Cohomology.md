@@ -306,24 +306,24 @@ $g \mapsto (0, 1, 1, 0)$
 ##### $X5$
 ###### For $+X5$ Types
 
-$x=(1, 0, 1, 0)$
-$d=(1, 1, 0, 0)$
+$x \mapsto(1, 0, 1, 0)$
+$d \mapsto(1, 1, 0, 0)$
 
 ###### For $-X5$ Types
 
-$x=(1, 1, 0, 0)$
-$d=(1, 0, 1, 0)$
+$x \mapsto(1, 1, 0, 0)$
+$d \mapsto(1, 0, 1, 0)$
 
 ##### $Y1$
 ###### For $+Y1$ Types
 
-$b=(0, 1, 0, 1)$
-$B=(0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
 
 ###### For $-Y1$ Types
 
-$b=(0, 0, 1, 1)$
-$B=(0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
 
 ##### $Z6$
 ###### For $+Z6$ Types
@@ -350,13 +350,13 @@ $h=(1, 0, 0, 0)$
 ##### $B6$
 ###### For $+B6$ Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ###### For $-B6$ Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ##### $\Gamma 1$
 ###### For $+\Gamma 1$ Types
@@ -425,13 +425,13 @@ $c=(1, 1, 1, 1)$
 ##### Democratic/Aristocratic
 ###### For Democratic Types
 
-$B=(0, 1, 1, 1)$
-$b=(0, 0, 0, 1)$
+$B \mapsto (0, 1, 1, 1)$
+$B \mapsto (0, 0, 0, 1)$
 
 ###### For Aristocratic Types
 
-$B=(0, 0, 0, 1)$
-$b=(0, 1, 1, 1)$
+$B \mapsto (0, 0, 0, 1)$
+$B \mapsto (0, 1, 1, 1)$
 
 ##### Positivist/Negativist
 ###### For Positivist Types
@@ -447,13 +447,13 @@ $q=(0, 0, 1, 1)$
 ##### Process/Result
 ###### For Process Types
 
-$x=(1, 1, 0, 0)$
-$d=(1, 0, 1, 0)$
+$x \mapsto(1, 1, 0, 0)$
+$d \mapsto(1, 0, 1, 0)$
 
 ###### For Result Types
 
-$x=(1, 0, 1, 0)$
-$d=(1, 1, 0, 0)$
+$x \mapsto(1, 0, 1, 0)$
+$d \mapsto(1, 1, 0, 0)$
 
 ##### Asking/Declaring
 ###### For Asking Types
@@ -478,24 +478,24 @@ $g \mapsto (0, 1, 1, 0)$
 ##### $X6$
 ###### For $+X6$ Types
 
-$x=(1, 1, 0, 0)$
-$d=(1, 0, 1, 0)$
+$x \mapsto(1, 1, 0, 0)$
+$d \mapsto(1, 0, 1, 0)$
 
 ##### For $-X6$ Types
 
-$x=(1, 0, 1, 0)$
-$d=(1, 1, 0, 0)$
+$x \mapsto(1, 0, 1, 0)$
+$d \mapsto(1, 1, 0, 0)$
 
 #### $Y6$
 ##### For $+Y6$ Types
 
-$b=(0, 0, 0, 1)$
-$B=(0, 1, 1, 1)$
+$B \mapsto (0, 0, 0, 1)$
+$B \mapsto (0, 1, 1, 1)$
 
 ##### For $-Y6$ Types
 
-$b=(0, 1, 1, 1)$
-$B=(0, 0, 0, 1)$
+$B \mapsto (0, 1, 1, 1)$
+$B \mapsto (0, 0, 0, 1)$
 
 #### $Z4$
 ##### For $+Z4$ Types
@@ -522,13 +522,13 @@ $h=(1, 1, 1, 0)$
 #### $B4$
 ##### For $+B4$ Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ##### For $-B4$ Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 #### $\Gamma 1$
 ##### For $+\Gamma 1$ Types
@@ -564,24 +564,24 @@ $g \mapsto (0, 1, 1, 0)$
 ##### $X1$
 ###### For $+X1$ Types
 
-$x=(1, 0, 1, 0)$
-$d=(1, 1, 0, 0)$
+$x \mapsto(1, 0, 1, 0)$
+$d \mapsto(1, 1, 0, 0)$
 
 ###### For $-X1$ Types
 
-$x=(1, 1, 0, 0)$
-$d=(1, 0, 1, 0)$
+$x \mapsto(1, 1, 0, 0)$
+$d \mapsto(1, 0, 1, 0)$
 
 ##### $Y3$
 ###### For $+Y3$ Types
 
-$b=(0, 1, 0, 1)$
-$B=(0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
 
 ###### For $-Y3$ Types
 
-$b=(0, 0, 1, 1)$
-$B=(0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
 
 ##### $Z7$
 ###### For $+Z7$ Types
@@ -608,13 +608,13 @@ $h=(1, 1, 1, 0)$
 ##### $B8$
 ###### For $+B8$ Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ###### For $-B8$ Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ##### $\Gamma 4$
 ###### For $+\Gamma 4$ Types
@@ -661,24 +661,24 @@ $q=(0, 0, 0, 1)$
 ##### Irrational/Rational
 ###### For Irrational Types
 
-$B=(0, 0, 1, 1)$
-$b=(0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
 
 ###### For Rational Types
 
-$B=(0, 1, 0, 1)$
-$b=(0, 0, 1, 1)$
+$B \mapsto (0, 1, 0, 1)$
+$B \mapsto (0, 0, 1, 1)$
 
 ##### Static/Dynamic
 ###### For Static Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ###### For Dynamic Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 #### Democratic/Aristocratic
 ###### For Democratic Types
@@ -705,13 +705,13 @@ $i=(1, 1, 1, 0)$
 ##### Process/Result
 ###### For Process Types
 
-$x=(1, 0, 1, 0)$
-$d=(1, 1, 0, 0)$
+$x \mapsto(1, 0, 1, 0)$
+$d \mapsto(1, 1, 0, 0)$
 
 ###### For Result Types
 
-$x=(1, 1, 0, 0)$
-$d=(1, 0, 1, 0)$
+$x \mapsto(1, 1, 0, 0)$
+$d \mapsto(1, 0, 1, 0)$
 
 ##### Asking/Declaring
 ###### For Asking Types
@@ -792,24 +792,24 @@ $g  = (0, 1, 1, 0)$
 ##### $X1$
 ###### For $+X1$ Types
 
-$x=(1, 1, 1, 0)$
-$d=(1, 0, 0, 0)$
+$x \mapsto(1, 1, 1, 0)$
+$d \mapsto(1, 0, 0, 0)$
 
 ##### For $-X1$ Types
 
-$x=(1, 0, 0, 0)$
-$d=(1, 1, 1, 0)$
+$x \mapsto(1, 0, 0, 0)$
+$d \mapsto(1, 1, 1, 0)$
 
 #### $Y8$
 ##### For $+Y8$ Types
 
-$b=(0, 1, 1, 1)$
-$B=(0, 0, 0, 1)$
+$B \mapsto (0, 1, 1, 1)$
+$B \mapsto (0, 0, 0, 1)$
 
 ##### For $-Y8$ Types
 
-$b=(0, 0, 0, 1)$
-$B=(0, 1, 1, 1)$
+$B \mapsto (0, 0, 0, 1)$
+$B \mapsto (0, 1, 1, 1)$
 
 #### $Z1$
 ##### For $+Z1$ Types
@@ -836,13 +836,13 @@ $h=(1, 1, 0, 0)$
 #### $B4$
 ##### For $+B4$ Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ##### For $-B4$ Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 #### $\Gamma 7$
 ##### For $+\Gamma 7$ Types
@@ -878,24 +878,24 @@ $g \mapsto (0, 1, 1, 0)$
 ##### $X1$
 ###### For $+X1$ Types
 
-$x=(1, 1, 1, 0)$
-$d=(1, 0, 0, 0)$
+$x \mapsto(1, 1, 1, 0)$
+$d \mapsto(1, 0, 0, 0)$
 
 ###### For $-X1$ Types
 
-$x=(1, 0, 0, 0)$
-$d=(1, 1, 1, 0)$
+$x \mapsto(1, 0, 0, 0)$
+$d \mapsto(1, 1, 1, 0)$
 
 ##### $Y1$
 ###### For $+Y1$ Types
 
-$b=(0, 1, 1, 1)$
-$B=(0, 0, 0, 1)$
+$B \mapsto (0, 1, 1, 1)$
+$B \mapsto (0, 0, 0, 1)$
 
 ###### For $-Y1$ Types
 
-$b=(0, 0, 0, 1)$
-$B=(0, 1, 1, 1)$
+$B \mapsto (0, 0, 0, 1)$
+$B \mapsto (0, 1, 1, 1)$
 
 ##### $Z1$
 ###### For $+Z1$ Types
@@ -922,13 +922,13 @@ $h=(1, 0, 1, 0)$
 ##### $B8$
 ###### For $+B8$ Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ###### For $-B8$ Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ##### $\Gamma 6$
 ###### For $+\Gamma 6$ Types
@@ -1020,24 +1020,24 @@ $g \mapsto (0, 1, 1, 0)$
 ##### $X2$
 ###### For $+X2$ Types
 
-$x=(1, 0, 0, 0)$
-$d=(1, 1, 1, 0)$
+$x \mapsto(1, 0, 0, 0)$
+$d \mapsto(1, 1, 1, 0)$
 
 ###### For $-X2$ Types
 
-$x=(1, 1, 1, 0)$
-$d=(1, 0, 0, 0)$
+$x \mapsto(1, 1, 1, 0)$
+$d \mapsto(1, 0, 0, 0)$
 
 ##### $Y3$
 ###### For $+Y3$ Types
 
-$b=(0, 0, 0, 1)$
-$B=(0, 1, 1, 1)$
+$B \mapsto (0, 0, 0, 1)$
+$B \mapsto (0, 1, 1, 1)$
 
 ###### For $-Y3$ Types
 
-$b=(0, 1, 1, 1)$
-$B=(0, 0, 0, 1)$
+$B \mapsto (0, 1, 1, 1)$
+$B \mapsto (0, 0, 0, 1)$
 
 ###### $Z7$
 ###### For $+Z7$ Types
@@ -1064,13 +1064,13 @@ $h=(1, 1, 0, 0)$
 ##### $B2$
 ###### For $+B2$ Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ###### For $-B2$ Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ##### $\Gamma 6$
 ###### For $+\Gamma 6$ Types
@@ -1180,24 +1180,24 @@ $g \mapsto (0, 1, 1, 0)$
 ##### $X2$
 ###### For $+X2$ Types
 
-$x=(1, 0, 0, 0)$
-$d=(1, 1, 1, 0)$
+$x \mapsto(1, 0, 0, 0)$
+$d \mapsto(1, 1, 1, 0)$
 
 ###### For $-X2$ Types
 
-$x=(1, 1, 1, 0)$
-$d=(1, 0, 0, 0)$
+$x \mapsto(1, 1, 1, 0)$
+$d \mapsto(1, 0, 0, 0)$
 
 ##### $Y3$
 ###### For $+Y3$ Types
 
-$b=(0, 1, 1, 1)$
-$B=(0, 0, 0, 1)$
+$B \mapsto (0, 1, 1, 1)$
+$B \mapsto (0, 0, 0, 1)$
 
 ###### For $-Y3$ Types
 
-$b=(0, 0, 0, 1)$
-$B=(0, 1, 1, 1)$
+$B \mapsto (0, 0, 0, 1)$
+$B \mapsto (0, 1, 1, 1)$
 
 ##### $Z4$
 ###### For $+Z4$ Types
@@ -1224,13 +1224,13 @@ $h=(1, 0, 1, 0)$
 ##### $B6$
 ###### For $+B6$ Types
 
-$k=(0, 1, 0, 0)$
-$l=(0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$
+$l \mapsto (0, 0, 1, 0)$
 
 ###### For $-B6$ Types
 
-$k=(0, 0, 1, 0)$
-$l=(0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$
+$l \mapsto (0, 1, 0, 0)$
 
 ##### $\Gamma 7$
 ###### For $+\Gamma 7$ Types
