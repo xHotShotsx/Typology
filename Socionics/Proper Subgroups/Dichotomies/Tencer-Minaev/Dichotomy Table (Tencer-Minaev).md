@@ -100,7 +100,7 @@ $\mathbb{U} = \{ V_{i}, A_{i}, D_{i}, C_{i} \mid i = 1,2,3,4 \}$
 ## Mathematical Correspondences
 ### Alphabetic Correspondences
 
-Let $$\mathcal{A} = \{ V_{1}, V_{2}, V_{3}, V_{4, }A_{1}, A_{2}, A_{3}, A_{4}, D_{1}, D_{2}, D_{3}, D_{4} \}$$
+Let $$\mathcal{A} = \{ V_{1}, V_{2}, V_{3}, V_{4, }A_{1}, A_{2}, A_{3}, A_{4}, D_{1}, D_{2}, D_{3}, D_{4}, C_{1}, C_{2}, C_{3}, C_{4} \}$$
 - We write $a \star b$ for the XNOR combination of alphabetic dichotomy codes.
 - In particular, $a^2 := a \star a$ always yields a vector-class element, since it is simply dichotomy multiplication.
 
