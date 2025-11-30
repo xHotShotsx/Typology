@@ -67,9 +67,9 @@ $Z = \{V_{1}, V_{3}, C_{1}, C_{3}\}$
 $\mathcal{O} = \{V_{1}, V_{2}, V_{3}, V_{4}, C_{1}, C_{2}, C_{3}, C_{4}\}$
 
 
-### Non-Orbital / Cardinal / Wall Set - $(A \cup D) \in \mathcal{W}$
+### Non-Orbital / Cardinal / Wall Set - $(A \cup D) \in W_{14}$
 
-$\mathcal{W} = \{A_{1}, A_{2}, A_{3}, A_{4}, D_{1}, D_{2}, D_{3}, D_{4}\}$
+$W_{14} = \{A_{1}, A_{2}, A_{3}, A_{4}, D_{1}, D_{2}, D_{3}, D_{4}\}$
 
 
 ### Level One Set
