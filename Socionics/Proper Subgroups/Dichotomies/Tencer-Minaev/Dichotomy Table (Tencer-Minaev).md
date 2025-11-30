@@ -136,7 +136,7 @@ $$x \star y = \begin{cases}
 x \quad \text{if } x = y = X_{1_{i}}, \\
 x \quad \text{if } y = V_{i}, \\
 C_{i} \quad \text{if } x = \kappa(y), \\
-X_{1_{i}} \quad \text{if } x = y \in \{A, D, C\}, \\
+X_{1_{i}} \quad \text{if } x = y \in \{X_{2}, X_{3}, X_{4}\}, \\
 \kappa(x) \quad \text{if } y=C_{i}. 
 \end{cases} $$
 
