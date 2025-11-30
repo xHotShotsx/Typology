@@ -70,7 +70,7 @@ The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: $$r I_{\m
 ## Universal Invariant Core
 
 The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}$$
-The "identity-superego" dyad is fixed by all homomorphisms between the Socion group and a dichotomy system. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}$$
+The superego dyad is fixed by all homomorphisms between the Socion group and a dichotomy system. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}$$
 
 # The Selector
 
@@ -97,8 +97,8 @@ In our framing, every type $t \in T$ can be defined by a 4-bit coordinate when f
 We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0, 0)$$then for any other type $t$ the selector bit vector is defined by $$\chi(t)-\chi(t_{0}) = \chi(t).$$
 ### The Intersection
 
-Let each selector dichotomy $D_s \in \mathcal{S}_i$ induces a partition: $$ T = T_{s,0} \sqcup T_{s,1}. $$
-Then the common refinement of these partitions is $$\mathcal{P}_{i} = \left\{ \bigcap_{s=1}^{m-1} T_{s,\sigma_{s}}(t) \;\middle|\; t \in T \right\}. $$
+Let each selector dichotomy $D_s \in \mathcal{S}_i$ induce a partition: $$ T = T_{s,0} \sqcup T_{s,1}. $$
+Then the common refinement of these partitions is: $$\mathcal{P}_{i} = \left\{ \bigcap_{s=1}^{m-1} T_{s,\sigma_{s}}(t) \;\middle|\; t \in T \right\}. $$
 Equivalently the refinement is the quotient of $T$ by the kernel of the selector signature map, $$\sigma : T \longrightarrow \mathbb{Z}_{2}^{m-1}, \quad t \mapsto (\sigma_{1}(t), \dots, \sigma_{m-1}(t)).$$Thus, $$\mathcal{P}_{i} = T/\mathrm{ker}(\sigma),$$and each equivalence class corresponds to a unique selector signature, yielding a $k$-chotomy within the dichotomy system $\mathcal{D}_i$.
 
 # The Representation Map
