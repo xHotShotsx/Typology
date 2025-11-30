@@ -98,8 +98,9 @@ $\mathbb{U} = \{ V_{i}, A_{i}, D_{i}, C_{i} \mid i = 1,2,3,4 \}$
 
 
 ## Mathematical Correspondences
+### Alphabetic Correspondences
 
-- Alphabetic classes 
+- We write $a \star b$ for the XNOR combination of alphabetic dichotomy codes. 
 
 
 
