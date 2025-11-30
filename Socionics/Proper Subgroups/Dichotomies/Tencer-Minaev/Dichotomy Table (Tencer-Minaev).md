@@ -128,7 +128,7 @@ $C \times a \nvDash a$
 Let: $$\begin{matrix}
 \mathcal{N} := \mathbb{U} \\ \mathcal{N} = X_{1} \sqcup X_{2} \sqcup X_{3} \sqcup X_{4}
 \end{matrix}$$
-A binary operation: $$ \star : \mathcal{N} \times \mathcal{N} \longrightarrow \mathcal{N}. $$
+The binary operation: $$ \star : \mathcal{N} \times \mathcal{N} \longrightarrow \mathcal{N}. $$
 
 ### Axioms Written as an Operation
 
