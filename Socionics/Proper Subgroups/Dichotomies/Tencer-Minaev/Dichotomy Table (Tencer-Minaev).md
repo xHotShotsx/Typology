@@ -104,7 +104,9 @@ Let: $$\begin{matrix}
 \mathcal{A} := \mathbb{U} \\ \mathcal{A} = V \sqcup A \sqcup D \sqcup C
 \end{matrix}$$
 We introduce a binary operation: $$ \star : \mathcal{A} \times \mathcal{A} = \mathcal{A} $$
-
+Complement map: $$\begin{matrix}
+\kappa : \mathcal{A} \longrightarrow \mathcal{A} 
+\end{matrix}$$
 
 
 $a^{2} \vDash V$
