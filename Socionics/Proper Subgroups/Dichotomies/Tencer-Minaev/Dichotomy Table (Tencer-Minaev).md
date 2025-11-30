@@ -113,7 +113,6 @@ $$x \star y = \begin{cases}
 V_{i} \quad \text{if } x = y, \\
 x \quad \text{if } y = V_{i}, \\
 C_{i} \quad \text{if } x = \kappa(y), \\
-V_{i} \quad \text{if } x = y \in \{A, D, C\}, \\
 \kappa(x) \quad \text{if } y=C_{i}. 
 \end{cases} $$
 
