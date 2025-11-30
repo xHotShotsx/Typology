@@ -112,7 +112,8 @@ This is an involution: $$\kappa(\kappa(x)) = x$$and it respects indices.
 $$x \star y = \begin{cases}
 x \quad \text{if } x = y, \\
 y \quad \text{if } y = V_{i}, \\
-x \quad \text{} 
+x \quad \text{if } y = V_{i}, \\
+ 
 \end{cases} $$
 
 
