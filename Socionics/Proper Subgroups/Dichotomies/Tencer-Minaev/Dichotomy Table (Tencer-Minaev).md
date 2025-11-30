@@ -103,7 +103,7 @@ $\mathbb{U} = \{ V_{i}, A_{i}, D_{i}, C_{i} \mid i = 1,2,3,4 \}$
 Let: $$\begin{matrix}
 \mathcal{A} := \mathbb{U} \\ \mathcal{A} = V \sqcup A \sqcup D \sqcup C
 \end{matrix}$$
-We introduce a binary operation: $$ \star : \mathcal{A} \times \mathcal{A} = \mathcal{A} $$
+We introduce a binary operation: $$ \star : \mathcal{A} \times \mathcal{A} \longrightarrow \mathcal{A} $$
 Complement map: $$\kappa : \mathcal{A} \longrightarrow \mathcal{A}, \quad \kappa^2 = \text{identity},$$such that: $$\kappa(V_{i}) = C_{i}, \quad \kappa(C_{i}) = V_{i}, \quad \kappa(A_{i}) = D_{i}, \quad \kappa(D_{i}) = A_{i}.$$
 This is an involution: $$\kappa(\kappa(x)) = x$$and it respects indices.
 
@@ -128,7 +128,7 @@ $C \times a \nvDash a$
 Let: $$\begin{matrix}
 \mathcal{N} := \mathbb{U} \\ \mathcal{N} = X_{1} \sqcup X_{2} \sqcup X_{3} \sqcup X_{4}
 \end{matrix}$$
-We introduce a binary operation: $$ \star : \mathcal{N} \times \mathcal{A} = \mathcal{A} $$
+A binary operation: $$ \star : \mathcal{N} \times \mathcal{N} \longrightarrow \mathcal{N} $$
 $n \vDash n$
 $n^{2} \vDash 1$
 $2 \times 3 \vDash 4$
