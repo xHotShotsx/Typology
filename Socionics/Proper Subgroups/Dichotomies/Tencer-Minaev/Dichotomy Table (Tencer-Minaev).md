@@ -105,7 +105,7 @@ Let: $$\begin{matrix}
 \end{matrix}$$
 We introduce a binary operation: $$ \star : \mathcal{A} \times \mathcal{A} = \mathcal{A} $$
 For any dichotomy codes $a, b \in \mathcal{A}$: $$a \star b = \begin{cases}
-
+V_{i}, 
 \end{cases}$$
 
 
