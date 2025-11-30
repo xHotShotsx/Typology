@@ -101,7 +101,7 @@ $\mathbb{U} = \{ V_{i}, A_{i}, D_{i}, C_{i} \mid i = 1,2,3,4 \}$
 ### Alphabetic Correspondences
 
 Let: $$\begin{matrix}
-\mathcal{A} := U \\ mn
+\mathcal{A} := \mathbb{U} \\ \mathcal{A} = V \sqcup 
 \end{matrix}$$
 - We write $a \star b$ for the XNOR combination of alphabetic dichotomy codes.
 - In particular, $a^2 := a \star a$ always yields a vector-class element, since it is simply dichotomy multiplication.
