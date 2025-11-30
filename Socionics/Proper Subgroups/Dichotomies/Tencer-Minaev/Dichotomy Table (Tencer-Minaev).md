@@ -116,12 +116,6 @@ C_{i} \quad \text{if } x = \kappa(y), \\
 \kappa(x) \quad \text{if } y = C_{i}. 
 \end{cases} $$
 
-
-$a^{2} \vDash V$
-$V \times a \vDash a$
-$a \times ¬a \vDash C$
-$C \times a \nvDash a$
-
 ### Numeric Correspondences
 
 Let: $$\begin{matrix}
