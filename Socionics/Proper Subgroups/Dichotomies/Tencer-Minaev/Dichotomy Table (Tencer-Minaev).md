@@ -133,9 +133,9 @@ The binary operation: $$ \star : \mathcal{N} \times \mathcal{N} \longrightarrow 
 
 $$x \star y = \begin{cases}
 X_{1_{i}} \quad \text{if } x = y, \\
-X_{2} \quad \text{if } y = X_{1_{i}}, \\
-C_{i} \quad \text{if } x = \kappa(y), \\
-\kappa(x) \quad \text{if } y=C_{i}. 
+X_{2_{i}} \quad \text{if } x = X_{1_{i}} \text{ and }, \\
+X_{3_{i}} \quad \text{if } x = \kappa(y), \\
+X_{4_{i}} \quad \text{if } y=C_{i}. 
 \end{cases} $$
 
 $n^{2} \vDash 1$
