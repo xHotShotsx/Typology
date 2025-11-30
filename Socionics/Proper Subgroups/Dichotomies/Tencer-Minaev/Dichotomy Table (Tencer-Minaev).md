@@ -132,7 +132,13 @@ A binary operation: $$ \star : \mathcal{N} \times \mathcal{N} \longrightarrow \m
 
 ### Axioms Written as an Operation
 
-
+$$x \star y = \begin{cases}
+x \quad \text{if } x = y = X_{1_{i}}, \\
+x \quad \text{if } y = V_{i}, \\
+C_{i} \quad \text{if } x = \kappa(y), \\
+V_{i} \quad \text{if } x = y \in \{A, D, C\}, \\
+\kappa(x) \quad \text{if } y=C_{i}. 
+\end{cases} $$
 $n \vDash n$
 $n^{2} \vDash 1$
 $2 \times 3 \vDash 4$
