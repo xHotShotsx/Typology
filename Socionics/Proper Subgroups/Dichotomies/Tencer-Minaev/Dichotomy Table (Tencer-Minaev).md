@@ -99,7 +99,7 @@ $\mathbb{U} = \{ V_{i}, A_{i}, D_{i}, C_{i} \mid i = 1,2,3,4 \}$
 
 ## Mathematical Correspondences
 
-- Alphabetic 
+- Alphabetic classes 
 
 
 
