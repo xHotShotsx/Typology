@@ -133,9 +133,8 @@ The binary operation: $$ \star : \mathcal{N} \times \mathcal{N} \longrightarrow 
 
 $$x \star y = \begin{cases}
 X_{1_{i}} \quad \text{if } x = y, \\
-x \quad \text{if } y = X_{1_{i}}, \\
+X_{2} \quad \text{if } y = X_{1_{i}}, \\
 C_{i} \quad \text{if } x = \kappa(y), \\
-X_{1_{i}} \quad \text{if } x = y \in \{X_{2}, X_{3}, X_{4}\}, \\
 \kappa(x) \quad \text{if } y=C_{i}. 
 \end{cases} $$
 
