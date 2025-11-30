@@ -130,7 +130,7 @@ Let: $$\begin{matrix}
 \end{matrix}$$
 The binary operation: $$ \star : \mathcal{N} \times \mathcal{N} \longrightarrow \mathcal{N}. $$
 
-### Axioms Written as an Operation
+#### Axioms Written as an Operation
 
 $$x \star y = \begin{cases}
 x \quad \text{if } x = y = X_{1_{i}}, \\
