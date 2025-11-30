@@ -76,7 +76,7 @@ Let:
 - $\mathcal{D}_i$ be a dichotomy system, 
 - $Q := \mathbb{S} / I_{\mathcal{D}_{i}}$ be the set of cosets of the invariant subgroup,
 - $\mathcal{S}_{i} := \{D_{1}, D_{2}, \dots, D_{m-1}\}$, be the set of selector dichotomies of the dichotomy system $\mathcal{D}_i$,
-- $D_s \in \mathcal{S}_i$ is a selector dichotomy,
+- $D_s \in \mathcal{S}_i$ be a selector dichotomy,
 - $\sigma_{s} : T \to \{0, 1\}$, the selector function.
 
 A selector acts on a coset $C_j \in Q$ via its pair of assigned vectors: $$ C_{j} \longmapsto (a_{j,0}^{(s)}, {a_{j,1}^{(s)}}) \in \mathbf{V}_{i} \times \mathbf{V}_{i},$$where ${a_{j,0}^{(s)}}$ is the chosen vector when $\sigma_{s}(t) = 0$,
