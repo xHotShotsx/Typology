@@ -113,7 +113,7 @@ $$x \star y = \begin{cases}
 V_{i} \quad \text{if } x = y, \\
 x \quad \text{if } y = V_{i}, \\
 C_{i} \quad \text{if } x = \kappa(y), \\
-\kappa(x) \quad \text{if } y=C_{i}. 
+\kappa(x) \quad \text{if } y = C_{i}. 
 \end{cases} $$
 
 
@@ -135,13 +135,9 @@ $$x \star y = \begin{cases}
 X_{1_{i}} \quad \text{if } x = y, \\
 X_{2_{i}} \quad \text{if } x = X_{1_{i}} \text{ and } y = X_{4_{i}}, \\
 X_{3_{i}} \quad \text{if } x = X_{2_{i}} \text{ and } y = X_{4_{i}}, \\
-X_{4_{i}} \quad \text{if } x = X_{2_{i}} \text{ and } y. 
+X_{4_{i}} \quad \text{if } x = X_{2_{i}} \text{ and } y = X_{3_{i}}. 
 \end{cases} $$
 
-$n^{2} \vDash 1$
-$2 \times 3 \vDash 4$
-$2 \times 4 \vDash 3$
-$3 \times 4 \vDash 2$
 
 # Additional Note
 
