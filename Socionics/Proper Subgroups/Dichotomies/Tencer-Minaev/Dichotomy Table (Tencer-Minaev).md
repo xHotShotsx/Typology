@@ -94,7 +94,7 @@ $X_{4} = \{V_{4}, A_{4}, D_{4}, C_{4}\}$
 
 ### Universal Set
 
-$\mathbb{U} = \{  \}$
+$\mathbb{U} = \{ V_{i}, A_{i}, D_{i}, C_{i} \mid i = 1,2,3,4 \}$
 
 
 ## Mathematical Correspondences
