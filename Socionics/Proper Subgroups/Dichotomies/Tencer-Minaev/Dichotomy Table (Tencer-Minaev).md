@@ -134,7 +134,7 @@ The binary operation: $$ \star : \mathcal{N} \times \mathcal{N} \longrightarrow 
 $$x \star y = \begin{cases}
 X_{1_{i}} \quad \text{if } x = y, \\
 X_{2_{i}} \quad \text{if } x = X_{1_{i}} \text{ and } y = X_{4_{i}}, \\
-X_{3_{i}} \quad \text{if } x = \kappa(y), \\
+X_{3_{i}} \quad \text{if } x = X_{}, \\
 X_{4_{i}} \quad \text{if } y=C_{i}. 
 \end{cases} $$
 
