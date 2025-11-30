@@ -139,7 +139,7 @@ C_{i} \quad \text{if } x = \kappa(y), \\
 V_{i} \quad \text{if } x = y \in \{A, D, C\}, \\
 \kappa(x) \quad \text{if } y=C_{i}. 
 \end{cases} $$
-$n \vDash n$
+
 $n^{2} \vDash 1$
 $2 \times 3 \vDash 4$
 $2 \times 4 \vDash 3$
