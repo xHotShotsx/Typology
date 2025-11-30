@@ -110,7 +110,7 @@ This is an involution: $$\kappa(\kappa(x)) = x$$and it respects indices.
 #### Axioms Written as an Operation
 
 $$x \star y = \begin{cases}
-x \quad \text{if } x = y = V_{i}, \\
+V_{i} \quad \text{if } x = y, \\
 x \quad \text{if } y = V_{i}, \\
 C_{i} \quad \text{if } x = \kappa(y), \\
 V_{i} \quad \text{if } x = y \in \{A, D, C\}, \\
