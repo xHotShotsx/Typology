@@ -113,7 +113,8 @@ $$x \star y = \begin{cases}
 x \quad \text{if } x = y, \\
 y \quad \text{if } y = V_{i}, \\
 x \quad \text{if } y = V_{i}, \\
-C_{i} \text{ }\text{ if } y = 
+C_{i} \text{ }\text{ if } x = \kappa(y), \\
+V_{i} \text{ }\\text{ if } 
 \end{cases} $$
 
 
