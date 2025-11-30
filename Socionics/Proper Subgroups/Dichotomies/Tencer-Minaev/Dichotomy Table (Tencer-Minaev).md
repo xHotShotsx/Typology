@@ -103,7 +103,7 @@ $\mathbb{U} = \{ V_{i}, A_{i}, D_{i}, C_{i} \mid i = 1,2,3,4 \}$
 Let: $$\begin{matrix}
 \mathcal{A} := \mathbb{U} \\ \mathcal{A} = V \sqcup A \sqcup D \sqcup C
 \end{matrix}$$
-
+We introduce a binary operation: $$ \star : \mathcal{A} \times \mathcal{A} = \mathcal{A} $$
 
 
 $a^{2} \vDash V$
