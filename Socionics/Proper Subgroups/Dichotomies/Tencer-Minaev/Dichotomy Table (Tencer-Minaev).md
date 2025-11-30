@@ -111,7 +111,6 @@ This is an involution: $$\kappa(\kappa(x)) = x$$and it respects indices.
 
 $$x \star y = \begin{cases}
 x \quad \text{if } x = y = V_{i}, \\
-y \quad \text{if } x = V_{i}, \\
 x \quad \text{if } y = V_{i}, \\
 C_{i} \quad \text{if } x = \kappa(y), \\
 V_{i} \quad \text{if } x = y \in \{A, D, C\}, \\
@@ -125,6 +124,11 @@ $a \times ¬a \vDash C$
 $C \times a \nvDash a$
 
 ### Numeric Correspondences
+
+Let: $$\begin{matrix}
+\mathcal{A} := \mathbb{U} \\ \mathcal{A} = V \sqcup A \sqcup D \sqcup C
+\end{matrix}$$
+We introduce a binary operation: $$ \star : \mathcal{A} \times \mathcal{A} = \mathcal{A} $$
 $n \vDash n$
 $n^{2} \vDash 1$
 $2 \times 3 \vDash 4$
