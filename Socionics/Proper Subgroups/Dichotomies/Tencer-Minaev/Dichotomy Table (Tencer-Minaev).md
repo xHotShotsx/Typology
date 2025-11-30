@@ -107,6 +107,12 @@ We introduce a binary operation: $$ \star : \mathcal{A} \times \mathcal{A} = \ma
 Complement map: $$\kappa : \mathcal{A} \longrightarrow \mathcal{A}, \quad \kappa^2 = \text{identity},$$such that: $$\kappa(V_{i}) = C_{i}, \quad \kappa(C_{i}) = V_{i}, \quad \kappa(A_{i}) = D_{i}, \quad \kappa(D_{i}) = A_{i}.$$
 This is an involution: $$\kappa(\kappa(x)) = x$$and it respects indices.
 
+#### Axioms Written as an Operation
+
+$$x \star y = \begin{cases}
+x \quad 
+\end{cases} $$
+
 
 $a^{2} \vDash V$
 $V \times a \vDash a$
