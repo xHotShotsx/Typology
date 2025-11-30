@@ -105,7 +105,7 @@ Let: $$\begin{matrix}
 \end{matrix}$$
 We introduce a binary operation: $$ \star : \mathcal{A} \times \mathcal{A} = \mathcal{A} $$
 Complement map: $$\begin{matrix}
-\kappa : \mathcal{A} \longrightarrow \mathcal{A}, \quad \kappa^2 = \text{identity}, \\ \kappa(V_{i}) = C_{i}, \quad \kappa(C_{i}) = V_{i}, \quad 
+\kappa : \mathcal{A} \longrightarrow \mathcal{A}, \quad \kappa^2 = \text{identity}, \\ \kappa(V_{i}) = C_{i}, \quad \kappa(C_{i}) = V_{i}, \quad \kappa(A_{i}) = D_{i}, \quad \kappa()
 \end{matrix}$$
 
 
