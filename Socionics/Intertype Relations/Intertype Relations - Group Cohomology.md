@@ -33,7 +33,7 @@
 
 ## Some Group Notations
 
-- $\mathbb{S}$: There exists in Socionics the group that comprises all classical Intertype Relations (ITRs). This group's structure is isomorphic to $D_{8} \times C_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2), which is nonabelian. Also referred to as the "Socion" group.
+- $\mathbb{S}$: This is th group that comprises all classical Intertype Relations (ITRs). This group's structure is isomorphic to $D_{8} \times C_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2), which is nonabelian. Also referred to as the "Socion" group.
 - $\mathfrak{D}$: This already has been defined. Its group structure is $E_{16}$ (elementary abelian group of order 16), which is also isomorphic to $C_2^4$.
 	- Note: $\mathcal{D}_i$ is any of the 16 dichotomy systems, with $i \in \mathcal{D}$ specifying the dichotomy system.
 
@@ -65,7 +65,7 @@ The action of the dichotomy system on the ITR group is given by a homomorphism $
 # Fixed Point Subgroup
 
 The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathcal{D}_{i}}$. More rigorously, this is defined as the following: $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathcal{D}_{i}} := \{r \in \mathbb{S} \mid \varphi(d)(r) = r, \ \forall d \in \mathcal{D}_{i}\}.$$
-The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: $$r I_{\mathcal{D}_{i}} = I_{\mathcal{D}_{i}} r = \{rs \mid s \in I_{\mathcal{D}_{i}}\}, \quad r \in \mathbb{S}$$
+The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: $$r I_{\mathcal{D}_{i}} = I_{\mathcal{D}_{i}} r = \{rs \mid s \in I_{\mathcal{D}_{i}}\}, \quad r \in \mathbb{S}.$$
 
 ## Universal Invariant Core
 
