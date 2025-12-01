@@ -103,7 +103,7 @@ Equivalently the refinement is the quotient of $T$ by the kernel of the selector
 
 # The Representation Map
 
-For each dichotomy system $\mathcal{D}_i$, we fix a representation map $$\Phi_{i} : \mathbb{S} \longrightarrow \mathbf{V}_{i}$$which assigns to each intertype relation a 4-bit vector in the dichotomy space $\mathbf{V_{i} \cong \mathbb{Z}^4_{2}}$. The map $\Phi_i$ should be read as an affine (selector dependent representation). Equivalently, one may write $\Phi_i(r) = v_0 + f_i(r)$ where:
+For each dichotomy system $\mathcal{D}_i$, we fix a representation map $$\Phi_{i} : \mathbb{S} \longrightarrow \mathbf{V}_{i}$$which assigns to each intertype relation a 4-bit vector in the dichotomy space $\mathbf{V_{i} \cong \mathbb{Z}^4_{2}}$. The map $\Phi_i$ should be read as affine (selector dependent representation). Equivalently, one may write $\Phi_i(r) = v_0 + f_i(r)$ where:
 - $v_0$ = baseline vector, and;
 - $f_i$ = 1-cocycle $f_i : \mathbb{S} \to \mathbf{V}_{i}$ for the $\mathbb{S}$ action on $\mathbf{V}_{i}$.
 
