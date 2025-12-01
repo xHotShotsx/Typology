@@ -8,7 +8,7 @@
 
 ## Footnote
 
-All partitions in this hiera
+All partitions in this hierarchy are assumed are assumed to be proper (equicardinal)
 # References
 
 - https://docs.google.com/document/d/1BsfFGHnjdUvMvIwNWy5DcLyZekq0G9EXGx_JIYi3RT4/edit?tab=t.0
