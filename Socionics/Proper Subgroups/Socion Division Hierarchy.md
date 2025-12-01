@@ -10,6 +10,7 @@
 ## 16/16: Hexadecachotomy $\to$ Monad (Sociotype)
 
 
+##
 # References
 
 - https://docs.google.com/document/d/1BsfFGHnjdUvMvIwNWy5DcLyZekq0G9EXGx_JIYi3RT4/edit?tab=t.0
