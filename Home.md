@@ -1,2 +1,2 @@
 
-Welcome to this wiki for Socionics!
+Work in progress...
