@@ -46,7 +46,7 @@ $m \quad$ mirror
 $g \quad$ superego
 $c \quad$ conflict
 $q \quad$ quasi-identical
-$x \quad$ extinguishment
+$x \quad$ extinguishment, or contrary
 $S \quad$ supervisor
 $B \quad$ benefactor
 $k \quad$ kindred
