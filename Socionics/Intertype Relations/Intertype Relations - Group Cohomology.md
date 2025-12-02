@@ -10,7 +10,7 @@
 - $\mathcal{D}$ = set of all identified dichotomy systems. NB This may be sometimes referred to as the "Varlawend" spaces.
 - $\mathcal{W}$ denotes the global collection of all wall (non-orbital) dichotomies appearing across the 16 dichotomy systems.
 
-### Subscript Notation
+### Indexing
 ### $\mathfrak{d}$
 
 - A dichotomy $\mathfrak{d}$ is $\{\mathfrak{d}_{0}, \mathfrak{d}_{1}\}$ where $\mathfrak{d}_0$ and $\mathfrak{d}_1$ are compliments inside a boolean lattice, $L$.
