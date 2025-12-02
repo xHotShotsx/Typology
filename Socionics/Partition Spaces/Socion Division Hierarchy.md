@@ -8,7 +8,7 @@
 
 ## Footnote
 
-All partitions in this hierarchy are assumed are assumed to be proper (equicardinal). Non-uniform divisions (e.g. 12/4, 10/6, 14/2 in the case of dichotomies) are treated and do not belong to the standard $k$-chotomy hierarchy.
+All partitions in this hierarchy are assumed are assumed to be proper (equicardinal). Non-uniform divisions (e.g. 12/4, 10/6, 14/2 in the case of dichotomies) are treated separately and do not belong to the standard $k$-chotomy hierarchy.
 
 # References
 
