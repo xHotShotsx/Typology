@@ -33,9 +33,9 @@
 
 ## Some Group Notations
 
-- $\mathbb{S}$: This is the group that comprises all classical Intertype Relations (ITRs). This group's structure is isomorphic to $D_{8} \times C_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2), which is nonabelian. This is also referred to as the "Socion" group.
+- $\mathbb{S}$: This is the group that comprises all classical Intertype Relations (ITRs). The structure of this group is isomorphic to $D_{8} \times C_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2), which is nonabelian. This is also referred to as the "Socion" group.
 - $\mathfrak{D}$: This already has been defined. Its group structure is $E_{16}$ (elementary abelian group of order 16), which is also isomorphic to $C_2^4$.
-	- Note: $\mathcal{D}_i$ is any of the 16 dichotomy systems, with $i \in \mathcal{D}$ specifying the system of dichotomies.
+	- Note: $\mathcal{D}_i$ is any of the 16 dichotomy systems, with $i \in \mathcal{D}$ specifying the dichotomy system.
 
 ### Elements of $\mathbb{S}$:
 
