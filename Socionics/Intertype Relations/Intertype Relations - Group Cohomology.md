@@ -14,7 +14,7 @@
 ### $\mathfrak{d}$
 
 - A dichotomy $\mathfrak{d}$ is $\{\mathfrak{d}_{0}, \mathfrak{d}_{1}\}$ where $\mathfrak{d}_0$ and $\mathfrak{d}_1$ are compliments inside a boolean lattice, $L$.
-- Since the boolean lattice of dichotomies is isomorphic to the vector space over $\mathbb{F}_{2}$, XOR addition naturally defines the group operation assigning 0 and 1 values to each dichotomy.
+- Since the boolean lattice of dichotomies is isomorphic to the vector space over $\mathbb{F}_{2}$, the addition of XOR naturally defines the group operation assigning values of 0 an to each dichotomy.
 - For historical reasons, we will let ILE be the 0 vector.
 
 ### $\mathfrak{D}$
