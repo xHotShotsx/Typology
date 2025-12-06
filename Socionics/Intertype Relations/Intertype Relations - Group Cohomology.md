@@ -60,7 +60,7 @@ $i \quad$ mirage, or illusory
 
 | **$\times$** | $e$ | $b$ | $g$ | $B$ | $k$ | $q$ | $l$ | $a$ | $x$ | $S$ | $d$ | $s$ | $i$ | $m$ | $h$ | $c$ |
 | :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|   **$e$**    |  e  |  b  |  g  |  B  |  k  |  q  |  l  |  a  |  x  |  S  |  d  |  s  |  i  |  m  |  h  |  c  |
+|   **$e$**    | $e$ | $b$ | $g$ | $B$ | $k$ | $q$ | $l$ | $a$ | $x$ | $S$ | $d$ | $s$ | $i$ | $m$ | $h$ | $c$ |
 |   **$b$**    |  b  |  g  |  B  |  e  |  q  |  l  |  a  |  k  |  S  |  d  |  s  |  x  |  m  |  h  |  c  |  i  |
 |   **$g$**    |  g  |  B  |  e  |  b  |  l  |  a  |  k  |  q  |  d  |  s  |  x  |  S  |  h  |  c  |  i  |  m  |
 |   **$B$**    |  B  |  e  |  b  |  g  |  a  |  k  |  q  |  l  |  s  |  x  |  S  |  d  |  c  |  i  |  m  |  h  |
@@ -73,9 +73,9 @@ $i \quad$ mirage, or illusory
 |   **$d$**    |  d  |  s  |  x  |  S  |  h  |  c  |  i  |  m  |  g  |  B  |  e  |  b  |  l  |  a  |  k  |  q  |
 |   **$s$**    |  s  |  x  |  S  |  d  |  c  |  i  |  m  |  h  |  B  |  e  |  b  |  g  |  a  |  k  |  q  |  l  |
 |   **$i$**    |  i  |  c  |  h  |  m  |  x  |  s  |  d  |  S  |  k  |  a  |  l  |  q  |  e  |  B  |  g  |  b  |
-|   $**m**$    |  m  |  i  |  c  |  h  |  S  |  x  |  s  |  d  |  q  |  k  |  a  |  l  |  b  |  e  |  B  |  g  |
-|   $**h**$    |  h  |  m  |  i  |  c  |  d  |  S  |  x  |  s  |  l  |  q  |  k  |  a  |  g  |  b  |  e  |  B  |
-|   $**c**$    |  c  |  h  |  m  |  i  |  s  |  d  |  S  |  x  |  a  |  l  |  q  |  k  |  B  |  g  |  b  |  e  |
+|   **$m$**    |  m  |  i  |  c  |  h  |  S  |  x  |  s  |  d  |  q  |  k  |  a  |  l  |  b  |  e  |  B  |  g  |
+|   **$h$**    |  h  |  m  |  i  |  c  |  d  |  S  |  x  |  s  |  l  |  q  |  k  |  a  |  g  |  b  |  e  |  B  |
+|   **$c$**    |  c  |  h  |  m  |  i  |  s  |  d  |  S  |  x  |  a  |  l  |  q  |  k  |  B  |  g  |  b  |  e  |
 
 
 
