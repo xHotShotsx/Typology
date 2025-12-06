@@ -58,7 +58,7 @@ $i \quad$ mirage, or illusory
 
 ### Cayley Table of $\mathbb{S}$:
 
-e | b | g | B | k | q | l | a | x | S | d | s | i | m
+$\times$ | e | b | g | B | k | q | l | a | x | S | d | s | i | m | h | 
 
 
 # The Homomorphism
