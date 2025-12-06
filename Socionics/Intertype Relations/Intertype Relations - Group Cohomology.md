@@ -56,7 +56,11 @@ $b \quad$ beneficiary
 $l \quad$ business, or lookalike
 $i \quad$ mirage, or illusory
 
-### Cayley Table of $\mathbb{S}$
+### Cayley Table of $\mathbb{S}$:
+
+$$ \begin{table}
+
+\end{table} $$
 
 
 # The Homomorphism
