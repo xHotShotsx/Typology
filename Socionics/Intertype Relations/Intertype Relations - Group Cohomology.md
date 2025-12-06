@@ -58,9 +58,7 @@ $i \quad$ mirage, or illusory
 
 ### Cayley Table of $\mathbb{S}$:
 
-$$ \begin{table}
 
-\end{table} $$
 
 
 # The Homomorphism
