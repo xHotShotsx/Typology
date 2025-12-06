@@ -58,7 +58,7 @@ $i \quad$ mirage, or illusory
 
 ### Cayley Table of $\mathbb{S}$:
 
-| **$\times$** |  e  |  b  |  g  |  B  |  k  |  q  |  l  |  a  |  x  |  S  |  d  |  s  |  i  |  m  |  h  |  c  |
+| **$\times$** | $e$ | $b$ | $g$ | $B$ | $k$ | $q$ | $l$ | $a$ | $x$ | $S$ | $d$ | $s$ | $i$ | $m$ |  h  |  c  |
 | :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |    **e**     |  e  |  b  |  g  |  B  |  k  |  q  |  l  |  a  |  x  |  S  |  d  |  s  |  i  |  m  |  h  |  c  |
 |    **b**     |  b  |  g  |  B  |  e  |  q  |  l  |  a  |  k  |  S  |  d  |  s  |  x  |  m  |  h  |  c  |  i  |
@@ -69,9 +69,9 @@ $i \quad$ mirage, or illusory
 |    **l**     |  l  |  q  |  k  |  a  |  g  |  b  |  e  |  B  |  h  |  m  |  i  |  c  |  d  |  S  |  x  |  s  |
 |    **a**     |  a  |  l  |  q  |  k  |  B  |  g  |  b  |  e  |  c  |  h  |  m  |  i  |  s  |  d  |  S  |  x  |
 |    **x**     |  x  |  S  |  d  |  s  |  i  |  m  |  h  |  c  |  e  |  b  |  g  |  B  |  k  |  q  |  l  |  a  |
-|    **S**     |  S  |  d  |  s  |  x  |     |  h  |  c  |  i  |  b  |  g  |  B  |  e  |  q  |  l  |  a  |  k  |
-|    **d**     |  d  |  s  |  x  |  S  |  h  |  c  |  i  |     |  g  |  B  |  e  |  b  |  l  |  a  |  k  |  q  |
-|    **s**     |  s  |  x  |  S  |  d  |  c  |  i  |     |  h  |  B  |  e  |  b  |  g  |  a  |  k  |  q  |  l  |
+|    **S**     |  S  |  d  |  s  |  x  |  m  |  h  |  c  |  i  |  b  |  g  |  B  |  e  |  q  |  l  |  a  |  k  |
+|    **d**     |  d  |  s  |  x  |  S  |  h  |  c  |  i  |  m  |  g  |  B  |  e  |  b  |  l  |  a  |  k  |  q  |
+|    **s**     |  s  |  x  |  S  |  d  |  c  |  i  |  m  |  h  |  B  |  e  |  b  |  g  |  a  |  k  |  q  |  l  |
 |    **i**     |  i  |  c  |  h  |  m  |  x  |  s  |  d  |  S  |  k  |  a  |  l  |  q  |  e  |  B  |  g  |  b  |
 |    **m**     |  m  |  i  |  c  |  h  |  S  |  x  |  s  |  d  |  q  |  k  |  a  |  l  |  b  |  e  |  B  |  g  |
 |    **h**     |  h  |  m  |  i  |  c  |  d  |  S  |  x  |  s  |  l  |  q  |  k  |  a  |  g  |  b  |  e  |  B  |
