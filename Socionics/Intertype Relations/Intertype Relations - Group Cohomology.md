@@ -72,10 +72,10 @@ $i \quad$ mirage, or illusory
 |    **S**     |  S  |  d  |  s  |  x  |     |     |     |     |  b  |  g  |  B  |  e  |     |     |     |     |
 |    **d**     |  d  |  s  |  x  |  S  |     |     |     |     |  g  |  B  |  e  |  b  |     |     |     |     |
 |    **s**     |  s  |  x  |  S  |  d  |     |     |     |     |  B  |  e  |  b  |  g  |     |     |     |     |
-|    **i**     |  i  |  c  |  h  |  m  |     |     |     |     |     |     |     |     |  e  |  B  |  g  |  b  |
-|    **m**     |  m  |  i  |  c  |  h  |     |     |     |     |     |     |     |     |  b  |  e  |  B  |  g  |
-|    **h**     |  h  |  m  |  i  |  c  |     |     |     |     |     |     |     |     |  g  |  b  |  e  |  B  |
-|    **c**     |  c  |  h  |  m  |  i  |     |     |     |     |     |     |     |     |  B  |  g  |  b  |  e  |
+|    **i**     |  i  |  c  |  h  |  m  |     |     |     |     |  k  |     |     |     |  e  |  B  |  g  |  b  |
+|    **m**     |  m  |  i  |  c  |  h  |     |     |     |     |  q  |  k  |     |     |  b  |  e  |  B  |  g  |
+|    **h**     |  h  |  m  |  i  |  c  |     |     |     |     |  l  |  q  |  k  |     |  g  |  b  |  e  |  B  |
+|    **c**     |  c  |  h  |  m  |  i  |     |     |     |     |  a  |  l  |  q  |  k  |  B  |  g  |  b  |  e  |
 
 
 
