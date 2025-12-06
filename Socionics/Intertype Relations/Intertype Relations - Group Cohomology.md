@@ -65,14 +65,14 @@ $i \quad$ mirage, or illusory
 |    **g**     |  g  |  B  |  e  |  b  |  l  |  a  |  k  |  q  |  d  |  s  |  x  |  S  |  h  |  c  |  i  |  m  |
 |    **B**     |  B  |  e  |  b  |  g  |  a  |  k  |  q  |  l  |  s  |  x  |  S  |  d  |  c  |  i  |  m  |  h  |
 |    **k**     |  k  |  a  |  l  |  q  |  e  |  B  |  g  |  b  |  i  |  c  |  h  |  m  |  x  |  s  |  d  |  S  |
-|    **q**     |  q  |  k  |  l  |  l  |  b  |  e  |  B  |  g  |  m  |  i  |     |     |     |     |     |     |
-|    **l**     |  l  |  q  |  k  |  a  |  g  |  b  |  e  |  B  |  h  |  m  |  i  |     |     |     |     |     |
+|    **q**     |  q  |  k  |  l  |  l  |  b  |  e  |  B  |  g  |  m  |  i  |  c  |  h  |     |     |     |     |
+|    **l**     |  l  |  q  |  k  |  a  |  g  |  b  |  e  |  B  |  h  |  m  |  i  |  c  |     |     |     |     |
 |    **a**     |  a  |  l  |  q  |  k  |  B  |  g  |  b  |  e  |  c  |  h  |  m  |  i  |     |     |     |     |
 |    **x**     |  x  |  S  |  d  |  s  |     |     |     |     |  e  |  b  |  g  |  B  |     |     |     |     |
 |    **S**     |  S  |  d  |  s  |  x  |     |     |     |     |  b  |  g  |  B  |  e  |     |     |     |     |
 |    **d**     |  d  |  s  |  x  |  S  |     |     |     |     |  g  |  B  |  e  |  b  |     |     |     |     |
 |    **s**     |  s  |  x  |  S  |  d  |     |     |     |     |  B  |  e  |  b  |  g  |     |     |     |     |
-|    **i**     |  i  |  c  |  h  |  m  |     |     |     |     |  k  |     |     |     |  e  |  B  |  g  |  b  |
+|    **i**     |  i  |  c  |  h  |  m  |     |     |     |     |  k  |  a  |  l  |  q  |  e  |  B  |  g  |  b  |
 |    **m**     |  m  |  i  |  c  |  h  |     |     |     |     |  q  |  k  |     |     |  b  |  e  |  B  |  g  |
 |    **h**     |  h  |  m  |  i  |  c  |     |     |     |     |  l  |  q  |  k  |     |  g  |  b  |  e  |  B  |
 |    **c**     |  c  |  h  |  m  |  i  |     |     |     |     |  a  |  l  |  q  |  k  |  B  |  g  |  b  |  e  |
