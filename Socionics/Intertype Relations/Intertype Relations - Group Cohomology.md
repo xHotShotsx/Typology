@@ -57,7 +57,6 @@ $l \quad$ business, or lookalike
 $i \quad$ mirage, or illusory
 
 ### Cayley Table of $\mathbb{S}$:
-S
 
 | **$\times$** | $e$ | $b$ | $g$ | $B$ | $k$ | $q$ | $l$ | $a$ | $x$ | $S$ | $d$ | $s$ | $i$ | $m$ | $h$ | $c$ |
 | :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
