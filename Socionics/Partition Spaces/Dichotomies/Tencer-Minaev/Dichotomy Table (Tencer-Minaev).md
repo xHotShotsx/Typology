@@ -126,10 +126,10 @@ The binary operation: $$ \star : \mathcal{N} \times \mathcal{N} \longrightarrow 
 #### Axioms Written as an Operation
 
 $$x \star y = \begin{cases}
-X_{1_{i}} \quad \text{if } x = y, \\
-X_{2_{i}} \quad \text{if } x = X_{1 \text{ and } y = X_{4_{i}}, \\
-X_{3_{i}} \quad \text{if } x = X_{2} \text{ and } y = X_{4_{i}}, \\
-X_{4_{i}} \quad \text{if } x = X_{2} \text{ and } y = X_{3_{i}}. 
+X_{1} \quad \text{if } x = y, \\
+X_{2} \quad \text{if } x = X_{1} \text{ and } y = X_{4}, \\
+X_{3} \quad \text{if } x = X_{2} \text{ and } y = X_{4}, \\
+X_{4} \quad \text{if } x = X_{2} \text{ and } y = X_{3}. 
 \end{cases} $$
 
 ## Cayley Table for $\mathcal{D}_{14}$
