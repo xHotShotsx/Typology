@@ -132,6 +132,7 @@ X_{3_{i}} \quad \text{if } x = X_{2_{i}} \text{ and } y = X_{4_{i}}, \\
 X_{4_{i}} \quad \text{if } x = X_{2_{i}} \text{ and } y = X_{3_{i}}. 
 \end{cases} $$
 
+# Cayley Table for $\mathcal{D}_14$
 
 # Additional Note
 
