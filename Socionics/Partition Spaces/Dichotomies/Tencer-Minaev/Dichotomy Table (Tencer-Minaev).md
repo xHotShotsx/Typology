@@ -153,6 +153,7 @@ X_{4_{i}} \quad \text{if } x = X_{2_{i}} \text{ and } y = X_{3_{i}}.
 |    $C_3$     | $C_3$ |  $C_4$  | $C_1$ | $C_2$ | $D_3$ | $D_4$ | $D_1$ | $D_2$ | $C_3$ | $C_4$ | $C_1$ | $C_2$ | $V_3$ | $V_4$ | $V_1$ | $V_2$ |
 |    $C_4$     | $C_4$ |  $C_3$  | $C_2$ | $C_1$ | $D_4$ | $D_3$ | $D_2$ | $D_1$ | $C_4$ | $C_3$ | $C_2$ | $C_1$ | $V_4$ | $V_3$ | $V_2$ | $V_1$ |
 
+
 # Additional Note
 
 - Also check out the dichotomy table for the Reinin space Kimani White and Andrew Joynton have mapped out: https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0.
