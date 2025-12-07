@@ -1298,7 +1298,7 @@ and $H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\
 For $H^1(G, A)$ for a fixed dichotomy system $\mathcal{D}_i$, let:
 - $G := \mathbb{S}$, the classical (nonabelian) Intertype Relations group,
 - $A := \mathbf{V}_i$, the 4-dimensional abelian module associated with $\mathcal{D}_i$, 
-- and $\rho : G \to \text{Aut}(A)$, the induced action of classical relations on vector coordinates.
+- $\rho : G \to \text{Aut}(A)$, the induced action of classical relations on vector coordinates.
 
 A 1-cocycle is an affine map $f : G \to A$ satisfying $$f(gh) = f(g)+g \cdot f(h)$$where the dot denotes the action $\rho(g)$. The cocycle defines a subgroup of $A$:
 $$\mathcal{R}_{i} := \mathrm{Im}(f) = \{f(g) \mid g \in G\} \leq A$$and the kernel of $f$ is: $$K_{f} := \mathrm{ker}(f) = \{g \in G \mid f(g) = 0\}.$$Because $f$ is a homomorphism up to twisting, we obtain: $$G / K_{f} \cong \mathcal{R}_{i}.$$If the cocycle is surjective, then: $$\mathcal{R}_i = A \cong \mathbb{Z}^4_{2}.$$
