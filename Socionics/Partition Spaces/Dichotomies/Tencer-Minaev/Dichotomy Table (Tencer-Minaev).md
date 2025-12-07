@@ -136,6 +136,39 @@ X_{4_{i}} \quad \text{if } x = X_{2_{i}} \text{ and } y = X_{3_{i}}.
 
 <table>
 	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
+	<tr>
+	</tr>
 </table>
 
 | **$\times$** | <span class="cell-vector"> $V_1$ </span> |                  $V_2$                   | $V_3$ | $V_4$ | $A_1$ | $A_2$ | $A_3$ | $A_4$ | $D_1$ | $D_2$ | $D_3$ | $D_4$ | $C_1$ | $C_2$ | $C_3$ | $C_4$ |
