@@ -37,7 +37,7 @@
 - $\mathfrak{D}$: This already has been defined. Its group structure is $E_{16}$ (elementary abelian group of order 16), which is also isomorphic to $C_2^4$.
 	- Note: $\mathcal{D}_i$ is any of the 16 dichotomy systems, with $i \in \mathcal{D}$ specifying the dichotomy system.
 
-### Elements of $\mathbb{S}$:
+### Elements of $\mathbb{S}$
 
 $e \quad$  identity, or identical
 $d \quad$  dual
@@ -56,7 +56,7 @@ $b \quad$ beneficiary
 $l \quad$ business, or lookalike
 $i \quad$ mirage, or illusory
 
-### Cayley Table of $\mathbb{S}$:
+### Cayley Table of $\mathbb{S}$
 
 | **$\times$** | $e$ | $b$ | $g$ | $B$ | $k$ | $q$ | $l$ | $a$ | $x$ | $S$ | $d$ | $s$ | $i$ | $m$ | $h$ | $c$ |
 | :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -1297,7 +1297,7 @@ and $H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\
 
 For $H^1(G, A)$ for a fixed dichotomy system $\mathcal{D}_i$, let:
 - $G := \mathbb{S}$, the classical (nonabelian) Intertype Relations group,
-- $A := \mathbf{V}_i$, the 4-dimensional abelian module associated with $\mathcal{D}_i$, 
+- $A := \mathbf{V}_i$, the 4-dimensional abelian module associated with $\mathcal{D}_i$,
 - $\rho : G \to \text{Aut}(A)$, the induced action of classical relations on vector coordinates.
 
 A 1-cocycle is an affine map $f : G \to A$ satisfying $$f(gh) = f(g)+g \cdot f(h)$$where the dot denotes the action $\rho(g)$. The cocycle defines a subgroup of $A$:
@@ -1307,7 +1307,7 @@ The induced group $\mathcal{R}_i$ is the relation group associated with the dich
 
 # $E_{16}$-Set Models
 
-A set model is a pair ($X, G$) consisting of a set $X$ together with a left action of a group $G$. In the present framework, an $E_{16}$-set model is any set model that carries an action of the group which is the vector space representation associated with a given dichotomy system. For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathcal{R}_i$ acts on a corresponding set model. 
+A set model is a pair ($X, G$) consisting of a set $X$ together with a left action of a group $G$. In the present framework, an $E_{16}$-set model is any set model that carries an action of the group, which is the vector space representation associated with a given dichotomy system. For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathcal{R}_i$ acts on a corresponding set model. 
 
 Formally, an $E_{16}$-set model is a pair $$ (X_{i}, \rho_{i}), \quad \rho_{i} : \mathcal{R}_{i} \curvearrowright X_{i}$$where $X_i$ is the underlying set and $\rho_i$ is the group action.
 
@@ -1318,7 +1318,7 @@ Prominent examples of such $E_{16}$-set models include Model L and Model W, whic
 Functions are the positions in a functional schema; monadic elements are the informational atoms that occupy these positions. For a dichotomy system $\mathcal{D}_i$, let $P_i$ denote the set of functions for an $i$ model and $\mathcal{E}$ the set of monadic elements. The functional configuration space is $X_i = \mathcal{E}^{P_{i}}$, with the induced relation group $\mathcal{R}_i$ acting via $\rho_i : \mathcal{R}_{i} \curvearrowright X_{i}$. A functional layout for a type $t$ is an element $L_i(t) \in X_{i}$. A bijection $\Theta_i : T \to X_{i}$ is equivariant if $$\Theta_{i}(r \cdot t) = \rho_{i}(r)(\Theta_{i}(t)), \quad \forall r \in \mathcal{R}_{i}.$$
 When this holds, the type-level transformations and the functional-layout transformations are isomorphic; applying a relation has the same effect as applying it to the layout itself.
 
-For example, in Model L, applying the operator $A_{3}$ to the type ILE permutes the elements in the subgroup $$\{A_{1}, A_{3}\} \subseteq \mathcal{R}_{i},$$together with all of its cosets in the $\mathcal{R}_i$-space, meaning that the new identity becomes $A_3(\text{ILE}) = \text{ILI}$ and all of the intertype relations transform accordingly by left multiplication with $A_{3}$.
+For example, in Model L, applying the operator $A_{3}$ to the type ILE permutes the elements in the subgroup $$\{A_{1}, A_{3}\} \subseteq \mathcal{R}_{15},$$together with all of its cosets in the $\mathcal{R}_{15}$-space, meaning that the new identity becomes $A_3(\text{ILE}) = \text{ILI}$ and all of the intertype relations transform accordingly by left multiplication with $A_{3}$.
 
 Under the equivariant bijection $\Theta_i$, this corresponds exactly to the same permutation acting on the ILE's functional layout: the functions occupying positions inside that subgroup (and their associated cosets) are swapped in the set model by the action $\rho_{i}(A_{3})$. Thus, $$A_{3} \cdot t \quad \text{and} \quad \rho_{i}(A_{3}) \cdot L_{i}(t)$$implement the same transformation in two different representations of the same underlying structure.
 
