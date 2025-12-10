@@ -464,7 +464,7 @@ $b\mapsto(0, 0, 0, 1)$
 ###### For Aristocratic Types
 
 $B\mapsto(0, 0, 0, 1)$
-$b\mapsto0, 1, 1, 1)$
+$b\mapsto (0, 1, 1, 1)$
 
 ##### Positivist/Negativist
 ###### For Positivist Types
@@ -771,7 +771,7 @@ $c \mapsto  (1, 1, 0, 1)$
 ##### Extroverted/Introverted
 ###### For Extroverted Types
 
-$k \mapsto (0,, 0, 1, 0)$
+$k \mapsto (0, 0, 1, 0)$
 $l \mapsto (0, 1, 0, 0)$
 $S \mapsto (1, 0, 0, 1)$
 $s \mapsto (1, 1, 1, 1)$
@@ -787,14 +787,14 @@ $s \mapsto (1, 0, 0, 1)$
 ###### For Democratic Types
 
 $x \mapsto (1, 1, 0, 0)$
-$d \mapsto (0, 1, 1, 1)$
+$d \mapsto (1, 0, 1, 0)$
 $q \mapsto  (0, 1, 1, 1)$
 $a \mapsto  (0, 0, 0, 1)$
 
 ###### For Aristocratic Types
 
 $x \mapsto (1, 0, 1, 0)$
-$d \mapsto (0, 0, 0, 1)$
+$d \mapsto (1, 1, 0, 0)$
 $q \mapsto  (0, 0, 0, 1)$
 $a \mapsto  (0, 1, 1, 1)$
 
@@ -925,7 +925,7 @@ $d \mapsto (1, 1, 1, 0)$
 $b\mapsto(0, 1, 1, 1)$
 $B\mapsto(0, 0, 0, 1)$
 
-###### For $-Y1$ Types
+###### For $-Y1$ Types 
 
 $b\mapsto(0, 0, 0, 1)$
 $B\mapsto(0, 1, 1, 1)$
@@ -1001,14 +1001,14 @@ $a \mapsto  (0, 1, 1, 1)$
 
 $k \mapsto (0, 1, 0, 0)$
 $l \mapsto (0, 0, 1, 0)$
-$B \mapsto (0, 0, 1, 0)$
+$B \mapsto (0, 0, 1, 1)$
 $b \mapsto (0, 1, 0, 1)$
 
 ###### For Dynamic Types
 
 $k \mapsto (0, 0, 1, 0)$
 $l \mapsto (0, 1, 0, 0)$
-$B \mapsto (0, 1, 0, 0)$
+$B \mapsto (0, 1, 0, 1)$
 $b \mapsto (0, 0, 1, 1)$
 
 ##### Democratic/Aristocratic
@@ -1162,7 +1162,7 @@ $q \mapsto  (1, 1, 0, 0)$
 $S \mapsto (1, 0, 1, 1)$
 $B \mapsto (0, 1, 0, 1)$
 $s \mapsto (1, 1, 0, 1)$
-$b \mapsto (0, 1, 0, 1)$
+$b \mapsto (0, 0, 1, 1)$
 
 
 ## Reinin ($\mathcal{D}_{15}$)
@@ -1315,12 +1315,12 @@ Since there are 16 dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}
 
 Prominent examples of such $E_{16}$-set models include Model L and Model W, which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
 
-Functions are the positions in a functional schema; monadic elements are the informational atoms that occupy these positions. For a dichotomy system $\mathcal{D}_i$, let $P_i$ denote the set of functions for an $i$ model and $\mathcal{E}$ the set of monadic elements. The functional configuration space is $X_i = \mathcal{E}^{P_{i}}$, with the induced relation group $\mathcal{R}_i$ acting via $\rho_i : \mathcal{R}_{i} \curvearrowright X_{i}$. A functional layout for a type $t$ is an element $L_i(t) \in X_{i}$. A bijection $\Theta_i : T \to X_{i}$ is equivariant if $$\Theta_{i}(r \cdot t) = \rho_{i}(r)(\Theta_{i}(t)), \quad \forall r \in \mathcal{R}_{i}.$$
+Functions are the positions in a functional schema; monadic (signed) elements are the informational atoms that occupy these positions. For a dichotomy system $\mathcal{D}_i$, let $P_i$ denote the set of functions for an $i$ model and $\mathcal{E}$ the set of monadic elements. The functional configuration space is $X_i = \mathcal{E}^{P_{i}}$, with the induced relation group $\mathcal{R}_i$ acting via $\rho_i : \mathcal{R}_{i} \curvearrowright X_{i}$. A functional layout for a type $t$ is an element $L_i(t) \in X_{i}$. A bijection $\Theta_i : T \to X_{i}$ is equivariant if $$\Theta_{i}(r \cdot t) = \rho_{i}(r)(\Theta_{i}(t)), \quad \forall r \in \mathcal{R}_{i}.$$
 When this holds, the type-level transformations and the functional-layout transformations are isomorphic; applying a relation has the same effect as applying it to the layout itself.
 
 For example, in Model L, applying the operator $A_{3}$ to the type ILE permutes the elements in the subgroup $$\{A_{1}, A_{3}\} \subseteq \mathcal{R}_{15},$$together with all of its cosets in the $\mathcal{R}_{15}$-space, meaning that the new identity becomes $A_3(\text{ILE}) = \text{ILI}$ and all of the intertype relations transform accordingly by left multiplication with $A_{3}$.
 
-Under the equivariant bijection $\Theta_i$, this corresponds exactly to the same permutation acting on the ILE's functional layout: the functions occupying positions inside that subgroup (and their associated cosets) are swapped in the set model by the action $\rho_{i}(A_{3})$. Thus, $$A_{3} \cdot t \quad \text{and} \quad \rho_{i}(A_{3}) \cdot L_{i}(t)$$implement the same transformation in two different representations of the same underlying structure.
+Under the equivariant bijection $\Theta_{15}$, this corresponds exactly to the same permutation acting on the ILE's functional layout: the functions occupying positions inside that subgroup (and their associated cosets) are swapped in the set model by the action $\rho_{15}(A_{3})$. Thus, $$A_{3} \cdot t \quad \text{and} \quad \rho_{15}(A_{3}) \cdot L_{15}(t)$$implement the same transformation in two different representations of the same underlying structure.
 
 
 # References
