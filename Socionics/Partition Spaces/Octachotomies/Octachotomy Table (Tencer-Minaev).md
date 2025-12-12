@@ -12,5 +12,5 @@
 #11 --> Aristocratic supervisees and democratic supervisors $\{ A_{1},C_{2} \}$
 #12 --> Democratic activators and aristocratic quasi identicals $\{ A_{1},B_{3} \}$
 #13 --> Democratic supervisees and aristocratic supervisors $\{ A_{1},B_{2} \}$
-#14 --> duals $\{ A_{1},D_{1} \}$
-#15 --> lookalikes 
+#14 --> duals $\{ A_{1},D_{3} \}$
+#15 --> lookalikes $\{ A_{1},D_{2} \}$
