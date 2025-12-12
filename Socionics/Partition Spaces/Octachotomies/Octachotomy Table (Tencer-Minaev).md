@@ -3,12 +3,12 @@
 #2 --> Democratic Mirrors and Aristocratic Conflictors
 #3 --> Aristocratic Benefactors and Democratic Beneficiaries
 #4 --> Aristocratic Mirrors and Democratic Conflictors
-#5 --> Democratic Benefactors and Aristoc Beneficiaries
+#5 --> Democratic Benefactors and Aristocratic Beneficiaries
 #6 --> Superego
-#7 --> Activators
+#7 --> Semi duals
 #8 --> Extinguishers
-#9 --> Mirrors
-#10 --> Rational semi duals and irrational mirages
+#9 --> Kindreds
+#10 --> Aristocratic Activators and 
 #11 --> Rational Supervisors and Irrational Supervisees
 #12 --> Irrational mirages and rational supervisees
 #13 --> irrational supervisees and rational supervisors
