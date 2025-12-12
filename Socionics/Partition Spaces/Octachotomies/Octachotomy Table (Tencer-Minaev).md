@@ -3,8 +3,8 @@
 #2 --> Democratic Mirrors and Aristocratic Conflictors $\{ A_{1},C_{1} \}$
 #3 --> Aristocratic Benefactors and Democratic Beneficiaries $\{ A_{1}, C_{4}\}$
 #4 --> Aristocratic Mirrors and Democratic Conflictors $\{ A_{1},B_{1} \}$
-#5 --> Democratic Benefactors and Aristocratic Beneficiaries
-#6 --> Superego
+#5 --> Democratic Benefactors and Aristocratic Beneficiaries $\{ A_{1},B_{4} \}$
+#6 --> Superego $\{ A_{1},D_{3} \}$
 #7 --> Semi duals
 #8 --> Extinguishers
 #9 --> Kindreds
