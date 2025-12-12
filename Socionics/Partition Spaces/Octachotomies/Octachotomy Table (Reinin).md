@@ -11,3 +11,5 @@
 #10 --> Rational semi duals and irrational mirages
 #11 --> Rational Supervisors and Irrational Supervisees
 #12 --> Irrational mirages and rational supervisees
+#13 --> irrational supervisees and rational supervisors
+#14
