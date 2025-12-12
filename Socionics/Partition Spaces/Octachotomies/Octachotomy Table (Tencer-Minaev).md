@@ -1,8 +1,8 @@
 
 #1 --> Mirages $\{ A_{1}, A_{4}\}$
 #2 --> Democratic Mirrors and Aristocratic Conflictors $\{ A_{1},C_{1} \}$
-#3 --> Aristocratic Benefactors and Democratic Beneficiaries $\{ A_{1}, \}$
-#4 --> Aristocratic Mirrors and Democratic Conflictors
+#3 --> Aristocratic Benefactors and Democratic Beneficiaries $\{ A_{1}, C_{4}\}$
+#4 --> Aristocratic Mirrors and Democratic Conflictors $\{ A_{1},B_{1} \}$
 #5 --> Democratic Benefactors and Aristocratic Beneficiaries
 #6 --> Superego
 #7 --> Semi duals
