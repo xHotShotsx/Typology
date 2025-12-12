@@ -1,6 +1,6 @@
 
-#1 --> Mirages $\{ A_{1}, A_{3}\}$
-#2 --> Democratic Mirrors and Aristocratic Conflictors
+#1 --> Mirages $\{ A_{1}, A_{4}\}$
+#2 --> Democratic Mirrors and Aristocratic Conflictors $\{ A_{1},A_{3} \}$
 #3 --> Aristocratic Benefactors and Democratic Beneficiaries
 #4 --> Aristocratic Mirrors and Democratic Conflictors
 #5 --> Democratic Benefactors and Aristocratic Beneficiaries
