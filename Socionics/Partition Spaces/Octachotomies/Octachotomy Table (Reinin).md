@@ -3,3 +3,5 @@
 #2 --> Irrational Kindreds and Rational Lookalikes
 #3 --> Rational Beneficiaries and Irrational Benefactors
 #4 --> Rational Kindreds and Irrational Lookalikes
+#5 --> Irrational Beneficiaries and Rational Benefactors
+#6 --> Superego
