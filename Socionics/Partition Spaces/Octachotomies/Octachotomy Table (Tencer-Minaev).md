@@ -2,8 +2,8 @@
 #1 --> Mirages
 #2 --> Democratic Mirrors and Aristocratic Conflictors
 #3 --> Aristocratic Benefactors and Democratic Beneficiaries
-#4 --> Rational Kindreds and Irrational Lookalikes
-#5 --> Irrational Beneficiaries and Rational Benefactors
+#4 --> Aristocratic Mirrors and Democratic Conflictors
+#5 --> Democratic Benefactors and Aristoc Beneficiaries
 #6 --> Superego
 #7 --> Activators
 #8 --> Extinguishers
