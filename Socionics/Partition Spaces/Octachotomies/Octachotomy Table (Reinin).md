@@ -6,4 +6,5 @@
 #5 --> Irrational Beneficiaries and Rational Benefactors
 #6 --> Superego
 #7 --> Activators
-#8 --> 
+#8 --> Mirrors
+#9 --> Rational Supervisors and Irrational Supervisees
