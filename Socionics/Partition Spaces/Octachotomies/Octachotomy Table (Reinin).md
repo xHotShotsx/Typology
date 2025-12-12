@@ -12,4 +12,5 @@
 #11 --> Rational Supervisors and Irrational Supervisees
 #12 --> Irrational mirages and rational supervisees
 #13 --> irrational supervisees and rational supervisors
-#14
+#14 --> duals
+#15 --> Conflictors
