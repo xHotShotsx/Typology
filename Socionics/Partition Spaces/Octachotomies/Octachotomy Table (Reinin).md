@@ -8,5 +8,5 @@
 #7 --> Activators
 #8 --> Extinguishers
 #9 --> Mirrors
-#10
-#9 --> Rational Supervisors and Irrational Supervisees
+#10 --> Rational semi duals and irrational mirages
+#11 --> Rational Supervisors and Irrational Supervisees
