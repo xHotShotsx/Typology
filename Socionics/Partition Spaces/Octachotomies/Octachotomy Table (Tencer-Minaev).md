@@ -9,8 +9,8 @@
 #8 --> Extinguishers $\{ A_{1}, A_{3} \}$
 #9 --> Kindreds $\{ A_{1},A_{2} \}$
 #10 --> Aristocratic activators and democratic quasi identicals $\{ A_{1}, C_{3}\}$
-#11 --> Aristocratic supervisees and democratic supervisors
-#12 --> Democratic activators and aristocratic quasi identicals
-#13 --> Democratic supervisees and aristocratic supervisors
+#11 --> Aristocratic supervisees and democratic supervisors $\{ A_{1},C_{2} \}$
+#12 --> Democratic activators and aristocratic quasi identicals $\{ A_{1},B_{3} \}$
+#13 --> Democratic supervisees and aristocratic supervisors $\{ A_{1},B_{3} \}$
 #14 --> duals
 #15 --> lookalikes
