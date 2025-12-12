@@ -8,7 +8,7 @@
 #7 --> Semi duals $\{ A_{1}D_{4} \}$
 #8 --> Extinguishers $\{ A_{1}, A_{3} \}$
 #9 --> Kindreds $\{ A_{1},A_{2} \}$
-#10 --> Aristocratic activators and democratic quasi identicals
+#10 --> Aristocratic activators and democratic quasi identicals $\{ A_{1}, C_{3}\}$
 #11 --> Aristocratic supervisees and democratic supervisors
 #12 --> Democratic activators and aristocratic quasi identicals
 #13 --> Democratic supervisees and aristocratic supervisors
