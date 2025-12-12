@@ -8,7 +8,7 @@
 #7 --> Semi duals
 #8 --> Extinguishers
 #9 --> Kindreds
-#10 --> Aristocratic Activators and 
+#10 --> Aristocratic Activators and Democratic Quasis
 #11 --> Rational Supervisors and Irrational Supervisees
 #12 --> Irrational mirages and rational supervisees
 #13 --> irrational supervisees and rational supervisors
