@@ -1,5 +1,5 @@
 
-#1 --> Mirages
+#1 --> Mirages $\{ A_{1}, \}$
 #2 --> Democratic Mirrors and Aristocratic Conflictors
 #3 --> Aristocratic Benefactors and Democratic Beneficiaries
 #4 --> Aristocratic Mirrors and Democratic Conflictors
@@ -11,6 +11,6 @@
 #10 --> Aristocratic activators and democratic quasi identicals
 #11 --> Aristocratic supervisees and democratic supervisors
 #12 --> Democratic activators and aristocratic quasi identicals
-#13 --> Democratic supervisees and aristocratic superv
+#13 --> Democratic supervisees and aristocratic supervisors
 #14 --> duals
-#15 --> Conflictors
+#15 --> lookalikes
