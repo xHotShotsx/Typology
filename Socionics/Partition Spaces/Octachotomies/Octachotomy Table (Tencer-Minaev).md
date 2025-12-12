@@ -1,7 +1,7 @@
 
 #1 --> Mirages
 #2 --> Democratic Mirrors and Aristocratic Conflictors
-#3 --> Aristocratic Benef
+#3 --> Aristocratic Benefactors and Democratic Beneficiaries
 #4 --> Rational Kindreds and Irrational Lookalikes
 #5 --> Irrational Beneficiaries and Rational Benefactors
 #6 --> Superego
