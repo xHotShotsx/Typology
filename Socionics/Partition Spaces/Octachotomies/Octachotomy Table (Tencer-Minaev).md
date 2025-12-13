@@ -14,3 +14,4 @@
 #13 --> Democratic supervisees and aristocratic supervisors $\{ A_{1},B_{2} \}$
 #14 --> duals $\{ A_{1},D_{3} \}$
 #15 --> lookalikes $\{ A_{1},D_{2} \}$
+
