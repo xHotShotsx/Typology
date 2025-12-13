@@ -16,7 +16,7 @@
 	      <td colspan="2" rowspan="8"></td>
 	      </tr>
 	      <tr>
-	      <td><b>E</b></td><td><b>N</b></td><td><b>EN</b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><
+	      <td><b>E</b></td><td><b>N</b></td><td><b>T</b></td><td><b></b></td><td><b></b></td><td><b></b></td><td><b></b></td>
 	      </tr>
 		 <tr>
 			 <td>Uniqueness (4d-Ne)</td>
