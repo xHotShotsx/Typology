@@ -10,7 +10,7 @@
 	</thead>
 	<tbody>
 	    <tr>
-	      <td rowspan="6"><b>1</b></td>
+	      <td rowspan="10"><b>1</b></td>
 	      <td rowspan="2"><b>Dimension (Irrational) / Stimulus Seeking / Immersed In</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Tetrachotomies/1.png" /></td>
 	      <td colspan="2" rowspan="8"></td>
