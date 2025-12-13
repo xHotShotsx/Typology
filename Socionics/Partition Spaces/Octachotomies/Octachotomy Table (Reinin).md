@@ -555,7 +555,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>T</b></td><td><b>P</b></td><td><b>EN</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>ENT</b></td>
+	      <td><b>T</b></td><td><b>P</b></td><td><b>EN</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
