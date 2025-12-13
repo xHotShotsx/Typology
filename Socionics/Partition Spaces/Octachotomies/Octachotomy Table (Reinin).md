@@ -20,8 +20,8 @@
 	      </tr>
 		 <tr>
 			 <td>Uniqueness (4d-Ne)</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td>
-		      <td>ILE</td><td>EIE</td><td>LIE</td><td>IEE</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>
+		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 		    <td>Prestige (4d-Se)</td>
