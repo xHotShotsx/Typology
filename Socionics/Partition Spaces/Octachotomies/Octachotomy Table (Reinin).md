@@ -257,7 +257,7 @@
 	    <tr>
 	      <td rowspan="10"><b>6</b></td>
 	      <td rowspan="2"><b>Super-egos</b></td>
-	      <td colspan="7"><img src="Images/Reinin/Octachotomies/1.png" /></td>
+	      <td colspan="7"><img src="Images/Reinin/Octachotomies/6.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -306,7 +306,7 @@
 	    <tr>
 	      <td rowspan="10"><b>7</b></td>
 	      <td rowspan="2"><b>Activators</b></td>
-	      <td colspan="7"><img src="Images/Reinin/Octachotomies/1.png" /></td>
+	      <td colspan="7"><img src="Images/Reinin/Octachotomies/7.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -355,7 +355,7 @@
 	    <tr>
 	      <td rowspan="10"><b>8</b></td>
 	      <td rowspan="2"><b>Extinguishers</b></td>
-	      <td colspan="7"><img src="Images/Reinin/Octachotomies/1.png" /></td>
+	      <td colspan="7"><img src="Images/Reinin/Octachotomies/8.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -404,7 +404,7 @@
 	    <tr>
 	      <td rowspan="10"><b>9</b></td>
 	      <td rowspan="2"><b>Mirrors</b></td>
-	      <td colspan="7"><img src="Images/Reinin/Octachotomies/1.png" /></td>
+	      <td colspan="7"><img src="Images/Reinin/Octachotomies/9.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -453,7 +453,7 @@
 	    <tr>
 	      <td rowspan="10"><b>10</b></td>
 	      <td rowspan="2"><b>Irrational Mirages and Rational Semi-duals</b></td>
-	      <td colspan="7"><img src="Images/Reinin/Octachotomies/1.png" /></td>
+	      <td colspan="7"><img src="Images/Reinin/Octachotomies/10.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -502,7 +502,7 @@
 	    <tr>
 	      <td rowspan="10"><b>11</b></td>
 	      <td rowspan="2"><b>Irrational Supervisees and Rational Supervisors</b></td>
-	      <td colspan="7"><img src="Images/Reinin/Octachotomies/1.png" /></td>
+	      <td colspan="7"><img src="Images/Reinin/Octachotomies/11.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -551,7 +551,7 @@
 	    <tr>
 	      <td rowspan="10"><b>12</b></td>
 	      <td rowspan="2"><b>Irrational Semi-duals and Rational Mirages</b></td>
-	      <td colspan="7"><img src="Images/Reinin/Octachotomies/1.png" /></td>
+	      <td colspan="7"><img src="Images/Reinin/Octachotomies/12.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -600,7 +600,7 @@
 	    <tr>
 	      <td rowspan="10"><b>13</b></td>
 	      <td rowspan="2"><b>Irrational Supervisors and Rational Supervisees</b></td>
-	      <td colspan="7"><img src="Images/Reinin/Octachotomies/1.png" /></td>
+	      <td colspan="7"><img src="Images/Reinin/Octachotomies/13.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -649,7 +649,7 @@
 	    <tr>
 	      <td rowspan="10"><b>14</b></td>
 	      <td rowspan="2"><b>Duals</b></td>
-	      <td colspan="7"><img src="Images/Reinin/Octachotomies/1.png" /></td>
+	      <td colspan="7"><img src="Images/Reinin/Octachotomies/14.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -698,7 +698,7 @@
 	    <tr>
 	      <td rowspan="10"><b>15</b></td>
 	      <td rowspan="2"><b>Conflictors</b></td>
-	      <td colspan="7"><img src="Images/Reinin/Octachotomies/1.png" /></td>
+	      <td colspan="7"><img src="Images/Reinin/Octachotomies/15.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
