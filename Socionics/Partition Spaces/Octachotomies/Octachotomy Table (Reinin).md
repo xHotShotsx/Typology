@@ -25,13 +25,13 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Intuitive</td><td>Logical</td><td>Farsighted</td><td>Obstinate</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>Introverted</td><td>Intuitive</td><td>Logical</td><td>Farsighted</td><td>Obstinate</td><td>Democratic</td><td>Negativist</td>
+		      <td>LII</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Sensory</td><td>Logical</td><td>Farsighted</td><td>Yielding</td><td>Aristocratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>Extroverted</td><td>Sensory</td><td>Logical</td><td>Farsighted</td><td>Yielding</td><td>Aristocratic</td><td>Negativist</td>
+		      <td>SLE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
@@ -45,17 +45,17 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Sensory</td><td>Ethical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Sensory</td><td>Ethical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Negativist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Ethical</td><td>Carefree</td><td>Obstinate</td><td>Aristocratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Ethical</td><td>Carefree</td><td>Obstinate</td><td>Aristocratic</td><td>Negativist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Intuitive</td><td>Ethical</td><td>Farsighted</td><td>Yielding</td><td>Aristocr</td><td>Positivist</td>
+		      <td>Introverted</td><td>Intuitive</td><td>Ethical</td><td>Farsighted</td><td>Yielding</td><td>Aristocratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
