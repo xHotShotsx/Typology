@@ -2,10 +2,10 @@
 <table style="width:100%; border-collapse:collapse;" class="tetra">
 	<thead>
 		<tr>
-			<th></th>
-			<th></th>
-			<th></th>
-			
+			<th>#</th>
+			<th>Octachotomy</th>
+			<th colspan="7">Dichotomy Heptad</th>
+			<th colspan="4"></th>
 		</tr>
 	</thead>
 </table>
