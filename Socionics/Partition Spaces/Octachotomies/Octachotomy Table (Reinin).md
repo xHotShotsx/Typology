@@ -158,7 +158,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>4</b></td>
-	      <td rowspan="2"><b></b></td>
+	      <td rowspan="2"><b>Irrational Lookalikes and Rational Kindreds</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Tetrachotomies/1.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -207,7 +207,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>5</b></td>
-	      <td rowspan="2"><b>Quasi Identicals</b></td>
+	      <td rowspan="2"><b>Irrational Beneficiaries and Rational Benefactors</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Tetrachotomies/1.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
