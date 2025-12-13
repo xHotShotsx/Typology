@@ -408,7 +408,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>N</b></td><td><b>T</b></td><td><b>ET</b></td><td><b>NT</b></td><td><b>ENP</b></td><td><b>ETP</b></td><td><b>NTP</b></td>
+	      <td><b>N</b></td><td><b>T</b></td><td><b>EP</b></td><td><b>NT</b></td><td><b>ENP</b></td><td><b>ETP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
@@ -702,7 +702,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>E</b></td><td><b>N</b></td><td><b>T</b></td><td><b>EN</b></td><td><b>ET</b></td><td><b>NT</b></td><td><b>ENT</b></td>
+	      <td><b>EN</b></td><td><b>ET</b></td><td><b>T</b></td><td><b>EN</b></td><td><b>ET</b></td><td><b>NT</b></td><td><b>ENT</b></td>
 	      </tr>
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
