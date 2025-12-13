@@ -56,7 +56,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Introverted</td><td>Intuitive</td><td>Ethical</td><td>Farsighted</td><td>Yielding</td><td>Aristocratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>IEI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>2</b></td>
