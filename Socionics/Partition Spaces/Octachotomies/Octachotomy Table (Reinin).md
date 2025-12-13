@@ -2,6 +2,10 @@
 <table style="width:100%; border-collapse:collapse;" class="tetra">
 	<thead>
 		<tr>
+			<th></th>
+			<th></th>
+			<th></th>
+			
 		</tr>
 	</thead>
 </table>
