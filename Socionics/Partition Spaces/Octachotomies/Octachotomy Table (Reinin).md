@@ -256,7 +256,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>6</b></td>
-	      <td rowspan="2"><b>Quasi Identicals</b></td>
+	      <td rowspan="2"><b>Super-egos</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Tetrachotomies/1.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -305,7 +305,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>7</b></td>
-	      <td rowspan="2"><b>Quasi Identicals</b></td>
+	      <td rowspan="2"><b>Activators</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Tetrachotomies/1.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -354,7 +354,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>8</b></td>
-	      <td rowspan="2"><b>Quasi Identicals</b></td>
+	      <td rowspan="2"><b>Extin</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Tetrachotomies/1.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
