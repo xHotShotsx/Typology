@@ -354,7 +354,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>8</b></td>
-	      <td rowspan="2"><b>Extin</b></td>
+	      <td rowspan="2"><b>Extinguishers</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Tetrachotomies/1.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -403,7 +403,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>9</b></td>
-	      <td rowspan="2"><b>Quasi Identicals</b></td>
+	      <td rowspan="2"><b>Mirrors</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Tetrachotomies/1.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
