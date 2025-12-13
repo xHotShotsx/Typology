@@ -24,19 +24,14 @@
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
-		     <td>Prestige (4d-Se)</td>
-		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td>
-		      <td>ESE</td><td>SLE</td>
+	    	  <td>(NT)e "Innovation"</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
-			  <td>Self-Confidence (4d-Ni)</td>
-		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td>
-		      <td>LII</td><td>EII</td>
-	    </tr>
-	    <tr>
-		      <td>Well-Being (4d-Si)</td>
-		      <td>Introverted</td><td>Sensory</td><td>Carefree</td>
-		      <td>SEI</td><td>LSI</td>
+	    	  <td>(NT)e "Innovation"</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
@@ -49,8 +44,19 @@
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
+	    	  <td>(NT)e "Innovation"</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
+	    	  <td>(NT)e "Innovation"</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>ILE</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(NT)e "Innovation"</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	</tbody>
 </table>
