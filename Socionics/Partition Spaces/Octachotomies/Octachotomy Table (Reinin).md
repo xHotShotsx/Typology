@@ -1,4 +1,6 @@
 <div>
+<table style="width:100%; border-collapse:collapse;" class="tetra">
+</table>
 </div>
 #1 --> Quasi identicals
 #2 --> Irrational Kindreds and Rational Lookalikes
