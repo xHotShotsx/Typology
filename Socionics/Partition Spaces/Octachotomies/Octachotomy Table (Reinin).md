@@ -20,7 +20,7 @@
 	      </tr>
 		 <tr>
 			 <td>Uniqueness (4d-Ne)</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
