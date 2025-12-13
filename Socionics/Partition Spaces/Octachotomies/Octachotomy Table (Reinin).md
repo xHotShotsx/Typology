@@ -11,7 +11,7 @@
 	<tbody>
 	    <tr>
 	      <td rowspan="10"><b>1</b></td>
-	      <td rowspan="2"><b>Q</b></td>
+	      <td rowspan="2"><b>Quasi Identicals</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Tetrachotomies/1.png" /></td>
 	      <td colspan="2" rowspan="8"></td>
 	      </tr>
@@ -19,7 +19,7 @@
 	      <td><b>E</b></td><td><b>N</b></td><td><b>T</b></td><td><b>EN</b></td><td><b>ET</b></td><td><b>NT</b></td><td><b>ENT</b></td>
 	      </tr>
 		 <tr>
-			 <td>Uniqueness (4d-Ne)</td>
+			 <td>(NT)e "Innovation"</td>
 		      <td>Extroverted</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
