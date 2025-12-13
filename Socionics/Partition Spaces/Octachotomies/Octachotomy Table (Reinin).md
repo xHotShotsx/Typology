@@ -13,7 +13,7 @@
 	      <td rowspan="10"><b>1</b></td>
 	      <td rowspan="2"><b>Quasi Identicals</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Tetrachotomies/1.png" /></td>
-	      <td colspan="2" rowspan="8"></td>
+	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
 	      <td><b>E</b></td><td><b>N</b></td><td><b>T</b></td><td><b>EN</b></td><td><b>ET</b></td><td><b>NT</b></td><td><b>ENT</b></td>
