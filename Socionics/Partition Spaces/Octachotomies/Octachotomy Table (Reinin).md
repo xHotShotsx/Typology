@@ -109,7 +109,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>3</b></td>
-	      <td rowspan="2"><b>Irrational Benefactors</b></td>
+	      <td rowspan="2"><b>Irrational Benefactors and Rational Benefactors</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Octachotomies/3.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -163,7 +163,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>E</b></td><td><b>N</b></td><td><b>T</b></td><td><b>EN</b></td><td><b>ET</b></td><td><b>NT</b></td><td><b>ENT</b></td>
+	      <td><b>E</b></td><td><b>T</b></td><td><b>P</b></td><td><b>ET</b></td><td><b>EP</b></td><td><b>TP</b></td><td><b>ENT</b></td>
 	      </tr>
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
