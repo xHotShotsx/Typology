@@ -13,7 +13,7 @@
 	      <td rowspan="6"><b>1</b></td>
 	      <td rowspan="2"><b>Dimension (Irrational) / Stimulus Seeking / Immersed In</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Tetrachotomies/1.png" /></td>
-	      <td colspan="4" rowspan="2"></td>
+	      <td colspan="2" rowspan="8"></td>
 	      </tr>
 	      <tr>
 	      <td><b>E</b></td><td><b>N</b></td><td><b>EN</b></td>
