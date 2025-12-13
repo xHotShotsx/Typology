@@ -24,17 +24,17 @@
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)i "Innovation"</td>
+	    	  <td>(NT)i "Comprehension"</td>
 		      <td>Introverted</td><td>Intuitive</td><td>Logical</td><td>Farsighted</td><td>Obstinate</td><td>Democratic</td><td>Negativist</td>
 		      <td>LII</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(ST)e "Innovation"</td>
+	    	  <td>(ST)e "Implementation"</td>
 		      <td>Extroverted</td><td>Sensory</td><td>Logical</td><td>Farsighted</td><td>Yielding</td><td>Aristocratic</td><td>Negativist</td>
 		      <td>SLE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(ST)i "Innovation"</td>
+	    	  <td>(ST)i "Observance"</td>
 		      <td>Introverted</td><td>Sensory</td><td>Logical</td><td>Carefree</td><td>Obstinate</td><td>Aristocratic</td><td>Positivist</td>
 		      <td>LSI</td><td>SLI</td>
 	    </tr>
