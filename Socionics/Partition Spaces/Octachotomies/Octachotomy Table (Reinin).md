@@ -24,37 +24,37 @@
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>(NT)i "Innovation"</td>
 		      <td>Introverted</td><td>Intuitive</td><td>Logical</td><td>Farsighted</td><td>Obstinate</td><td>Democratic</td><td>Negativist</td>
 		      <td>LII</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>(ST)e "Innovation"</td>
 		      <td>Extroverted</td><td>Sensory</td><td>Logical</td><td>Farsighted</td><td>Yielding</td><td>Aristocratic</td><td>Negativist</td>
 		      <td>SLE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>(ST)i "Innovation"</td>
 		      <td>Introverted</td><td>Sensory</td><td>Logical</td><td>Carefree</td><td>Obstinate</td><td>Aristocratic</td><td>Positivist</td>
 		      <td>LSI</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>(SF)e "Animation"</td>
 		      <td>Extroverted</td><td>Sensory</td><td>Ethical</td><td>Farsighted</td><td>Obstinate</td><td>Democratic</td><td>Positivist</td>
 		      <td>ESE</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>(SF)i "Harmonisation"</td>
 		      <td>Introverted</td><td>Sensory</td><td>Ethical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Negativist</td>
 		      <td>SEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>(NF)e "Incitation"</td>
 		      <td>Extroverted</td><td>Intuitive</td><td>Ethical</td><td>Carefree</td><td>Obstinate</td><td>Aristocratic</td><td>Negativist</td>
 		      <td>EIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>(NF)i "Narration"</td>
 		      <td>Introverted</td><td>Intuitive</td><td>Ethical</td><td>Farsighted</td><td>Yielding</td><td>Aristocratic</td><td>Positivist</td>
 		      <td>IEI</td><td>EII</td>
 	    </tr>
