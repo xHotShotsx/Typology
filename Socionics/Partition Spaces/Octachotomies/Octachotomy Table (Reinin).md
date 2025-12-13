@@ -109,7 +109,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>3</b></td>
-	      <td rowspan="2"><b>Irrational Benefactors and Rational Benefactors</b></td>
+	      <td rowspan="2"><b>Irrational Benefactors and Rational Beneficiaries</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Octachotomies/3.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
