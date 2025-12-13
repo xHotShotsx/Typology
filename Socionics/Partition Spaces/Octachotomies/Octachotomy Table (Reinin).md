@@ -38,6 +38,14 @@
 		      <td>Introverted</td><td>Sensory</td><td>Carefree</td>
 		      <td>SEI</td><td>LSI</td>
 	    </tr>
+	    <tr>
+	    </tr>
+	    <tr>
+	    </tr>
+	    <tr>
+	    </tr>
+	    <tr>
+	    </tr>
 	</tbody>
 </table>
 </div>
