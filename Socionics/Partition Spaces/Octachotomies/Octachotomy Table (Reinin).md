@@ -46,12 +46,12 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Introverted</td><td>Sensory</td><td>Ethical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Negativist</td>
-		      <td>SEI</td><td>LIE</td>
+		      <td>SEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Extroverted</td><td>Intuitive</td><td>Ethical</td><td>Carefree</td><td>Obstinate</td><td>Aristocratic</td><td>Negativist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>EIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
