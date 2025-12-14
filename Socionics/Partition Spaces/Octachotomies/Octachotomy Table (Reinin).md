@@ -319,11 +319,11 @@
 	    </tr>
 	    <tr>
 	    	  <td>Γi "Regard"</td>
-		      <td>Introverted</td><td>Democratic</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Δe "Illustration"</td>
+	    	  <td>Δe "Practice"</td>
 		      <td>Extroverted</td><td>Aristocratic</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LSE</td><td>IEE</td>
 	    </tr>
@@ -348,7 +348,7 @@
 		      <td>SEE</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Αe "Innovation"</td>
+	    	  <td>Αe "Description"</td>
 		      <td>Introverted</td><td>Democratic</td><td>Strategic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SEI</td><td>LII</td>
 	    </tr>
