@@ -167,8 +167,8 @@
 	      </tr>
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Logical</td><td>Irrational</td><td>Merry</td><td>Static</td><td></td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>Extroverted</td><td>Logical</td><td>Irrational</td><td>Yielding</td><td>Static</td><td>Constructivist</td><td>Merry</td>
+		      <td>ILE</td><td></td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
