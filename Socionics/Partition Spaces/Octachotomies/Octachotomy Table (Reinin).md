@@ -417,12 +417,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>st(ST) "Innovation"</td>
-		      <td>Sensory</td><td>Logical</td><td>Static</td><td>Aristocratic</td><td></td><td>Democratic</td><td>Positivist</td>
+		      <td>Sensory</td><td>Logical</td><td>Static</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Positivist</td>
 		      <td>LSI</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>st(NF) "Innovation"</td>
-		      <td>Intuitive</td><td>Ethical</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Intuitive</td><td>Ethical</td><td>Static</td><td>Aristocratic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>EII</td><td>IEE</td>
 	    </tr>
 	    <tr>
