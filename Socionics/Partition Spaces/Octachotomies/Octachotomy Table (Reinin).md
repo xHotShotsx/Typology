@@ -388,17 +388,17 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Sensory</td><td>Ethical</td><td>Rational</td><td>Democratic</td><td></td><td>Decisive</td><td>Positivist</td>
+		      <td>Sensory</td><td>Ethical</td><td>Rational</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Result</td>
 		      <td>ESE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Intuitive</td><td>Logical</td><td>Rational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Intuitive</td><td>Logical</td><td>Rational</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Result</td>
 		      <td>LII</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Sensory</td><td>Logical</td><td>Rational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Sensory</td><td>Logical</td><td>Rational</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Process</td>
 		      <td>LSI</td><td>LSE</td>
 	    </tr>
 	    <tr>
