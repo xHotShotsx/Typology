@@ -177,12 +177,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Ethical</td><td>Irrational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Serious</td>
+		      <td>Extroverted</td><td>Ethical</td><td>Irrational</td><td>Obstinate</td><td>Static</td><td>Emotivist</td><td>Serious</td>
 		      <td>SEE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Irrational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Merry</td>
+		      <td>Introverted</td><td>Ethical</td><td>Irrational</td><td>Carefree</td><td>Yielding</td><td>Emotivistr</td><td>Merry</td>
 		      <td>SEI</td><td>IEI</td>
 	    </tr>
 	    <tr>
@@ -202,7 +202,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Logical</td><td>Rational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Logical</td><td>Rational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Merry</td>
 		      <td>LII</td><td>LSI</td>
 	    </tr>
 	    <tr>
