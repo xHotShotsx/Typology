@@ -520,12 +520,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>dy(T>N) "Innovation"</td>
-		      <td>Intuitive</td><td>Dynamic</td><td>Yielding</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Result</td>
+		      <td>Intuitive</td><td>Dynamic</td><td>Yielding</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Result</td>
 		      <td>IEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(T>S) "Innovation"</td>
-		      <td>Sensory</td><td>Dynamic</td><td>Yielding</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Sensory</td><td>Dynamic</td><td>Yielding</td><td>Emotivist</td><td>Negativist</td><td>Democratic</td><td>Positivist</td>
 		      <td>SEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
