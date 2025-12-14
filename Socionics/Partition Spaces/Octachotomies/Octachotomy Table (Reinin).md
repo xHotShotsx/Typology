@@ -418,7 +418,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Sensory</td><td>Logical</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>LSI</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
