@@ -279,7 +279,7 @@
 		      <td>ESE</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Innovation"</td>
+	    	  <td>Ji- "Collation"</td>
 		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Democratic</td><td>Negativist</td><td>Result</td><td>Asking</td>
 		      <td>LII</td><td>ESI</td>
 	    </tr>
