@@ -231,7 +231,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Tactical</td><td>Decisive</td><td></td><td>Positivist</td>
+		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Tactical</td><td>Decisive</td><td>Result</td><td></td>
 		      <td>IEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
