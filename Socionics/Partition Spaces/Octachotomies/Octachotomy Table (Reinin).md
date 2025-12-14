@@ -529,9 +529,9 @@
 		      <td>SEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy "Innovation"</td>
+	    	  <td>dy(F>N) "Innovation"</td>
 		      <td>Intuitive</td><td>Dynamic</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>EIE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
