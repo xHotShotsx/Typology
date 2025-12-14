@@ -338,12 +338,12 @@
 		      <td>EIE</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Di "Innovation"</td>
 		      <td>Introverted</td><td>Aristocratic</td><td>Strategic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>EII</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>e "Innovation"</td>
 		      <td>Extroverted</td><td>Democratic</td><td>Strategic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SEE</td><td>LIE</td>
 	    </tr>
