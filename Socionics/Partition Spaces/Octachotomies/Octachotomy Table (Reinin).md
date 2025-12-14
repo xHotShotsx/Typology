@@ -509,12 +509,12 @@
 	      <td><b>N</b></td><td><b>EP</b></td><td><b>ET</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>NTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>st(F>N) "Innovation"</td>
+			  <td>st(F>N) "Notion"</td>
 		      <td>Intuitive</td><td>Static</td><td>Yielding</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Process</td>
 		      <td>ILE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(F>S) "Innovation"</td>
+	    	  <td>st(F>S) "Expedience"</td>
 		      <td>Sensory</td><td>Static</td><td>Yielding</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Result</td>
 		      <td>SLE</td><td>ESI</td>
 	    </tr>
@@ -529,12 +529,12 @@
 		      <td>SEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(F>N) "Innovation"</td>
+	    	  <td>dy(F>N) "Cogency"</td>
 		      <td>Intuitive</td><td>Dynamic</td><td>Obstinate</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Process</td>
 		      <td>EIE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(F>S) "Innovation"</td>
+	    	  <td>dy(F>S) "Ease"</td>
 		      <td>Sensory</td><td>Dynamic</td><td>Obstinate</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Result</td>
 		      <td>ESE</td><td>SLI</td>
 	    </tr>
