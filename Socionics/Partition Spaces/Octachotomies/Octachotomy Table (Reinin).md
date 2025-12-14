@@ -119,7 +119,7 @@
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
 		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Constructivist</td><td>Merry</td><td>Process</td><td>Asking</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>ILE</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
