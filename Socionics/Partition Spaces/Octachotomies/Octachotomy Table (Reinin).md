@@ -421,9 +421,9 @@
 		      <td>LSI</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>st(NF) "Innovation"</td>
 		      <td>Intuitive</td><td>Ethical</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>EII</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
