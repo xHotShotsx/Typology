@@ -123,7 +123,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Intuitive</td><td>Carefree</td><td>Emotivist</td><td>Serious</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Emotivist</td><td>Serious</td><td>Process</td><td>Declaring</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
