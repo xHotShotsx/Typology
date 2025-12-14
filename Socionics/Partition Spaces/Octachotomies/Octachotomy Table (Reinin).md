@@ -540,12 +540,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>st(T>N) "Innovation"</td>
-		      <td>Intuitive</td><td>Static</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Intuitive</td><td>Static</td><td>Obstinate</td><td>Emotivist</td><td>Negativ</td><td>Democratic</td><td>Result</td>
 		      <td>LII</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>st(T>S) "Innovation"</td>
-		      <td>Sensory</td><td>Static</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Sensory</td><td>Static</td><td>Obstinate</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Process</td>
 		      <td>LSI</td><td>SEE</td>
 	    </tr>
 	    <tr>
