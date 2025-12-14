@@ -460,12 +460,12 @@
 	      <td><b>N</b></td><td><b>P</b></td><td><b>ET</b></td><td><b>NP</b></td><td><b>ENT</b></td><td><b>ETP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>(NT)e "Innovation"</td>
+			  <td>?N "Innovation"</td>
 		      <td>Intuitive</td><td>Irrational</td><td>Yielding</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Asking</td>
 		      <td>ILE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td> "Innovation"</td>
 		      <td>Sensory</td><td>Irrational</td><td>Yielding</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Declaring</td>
 		      <td>SEI</td><td>SLE</td>
 	    </tr>
@@ -486,17 +486,17 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Sensory</td><td>Rational</td><td>Obstinate</td><td>Tactical</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Sensory</td><td>Rational</td><td>Obstinate</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Declaring</td>
 		      <td>ESE</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Intuitive</td><td>Irrational</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Intuitive</td><td>Irrational</td><td>Obstinate</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Declaring</td>
 		      <td>ILI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Sensory</td><td>Irrational</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Sensory</td><td>Irrational</td><td>Obstinate</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Asking</td>
 		      <td>SEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
