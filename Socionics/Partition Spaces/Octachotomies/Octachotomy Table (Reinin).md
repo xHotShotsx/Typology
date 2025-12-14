@@ -748,7 +748,7 @@
 </table>
 </div>
 
-# $$ f'-1(x) \to f(x)  $$
+# $$ f'-1(x) \to f(x) \sum_{n=1}^x x $$
 
 
 # References
