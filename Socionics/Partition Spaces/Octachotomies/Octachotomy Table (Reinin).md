@@ -485,17 +485,17 @@
 		      <td>LII</td><td>EIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>? "Innovation"</td>
+	    	  <td>!S "Innovation"</td>
 		      <td>Sensory</td><td>Rational</td><td>Obstinate</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Declaring</td>
 		      <td>ESE</td><td>LSI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>!N "Innovation"</td>
 		      <td>Intuitive</td><td>Irrational</td><td>Obstinate</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Declaring</td>
 		      <td>ILI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>?S "Innovation"</td>
 		      <td>Sensory</td><td>Irrational</td><td>Obstinate</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Asking</td>
 		      <td>SEE</td><td>SLI</td>
 	    </tr>
