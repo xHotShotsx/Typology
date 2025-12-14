@@ -363,7 +363,7 @@
 	      </tr>
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
-		      <td>Intuitive</td><td>Logical</td><td>Irrational</td><td>Democratic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Intuitive</td><td>Logical</td><td>Irrational</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Process</td>
 		      <td>ILE</td><td>ILI</td>
 	    </tr>
 	    <tr>
