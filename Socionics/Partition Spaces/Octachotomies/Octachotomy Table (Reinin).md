@@ -88,17 +88,17 @@
 		      <td>SEI</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Je(S.) "Interaction"</td>
 		      <td>Extroverted</td><td>Sensory</td><td>Rational</td><td>Farsighted</td><td>Dynamic</td><td>Tactical</td><td>Judicious</td>
 		      <td>ESE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Ji(S.) "Constitution"</td>
 		      <td>Introverted</td><td>Sensory</td><td>Rational</td><td>Carefree</td><td>Static</td><td>Tactical</td><td>Decisive</td>
 		      <td>LSI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Je(N.) "Discretion"</td>
 		      <td>Extroverted</td><td>Intuitive</td><td>Rational</td><td>Carefree</td><td>Dynamic</td><td>Strategic</td><td>Decisive</td>
 		      <td>EIE</td><td>LIE</td>
 	    </tr>
