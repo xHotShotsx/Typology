@@ -588,7 +588,7 @@
 		      <td>ESE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Innovation"</td>
+	    	  <td>P(T.)- "Instan"</td>
 		      <td>Logical</td><td>Irrational</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SLE</td><td>ILI</td>
 	    </tr>
