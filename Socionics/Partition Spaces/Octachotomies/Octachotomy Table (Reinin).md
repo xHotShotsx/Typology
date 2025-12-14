@@ -585,7 +585,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Ethical</td><td>Rational</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td></td><td>LIE</td>
+		      <td></td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
