@@ -397,7 +397,7 @@
 		      <td>LII</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(ST) ""</td>
+	    	  <td>J(ST) "Configuration"</td>
 		      <td>Sensory</td><td>Logical</td><td>Rational</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Process</td>
 		      <td>LSI</td><td>LSE</td>
 	    </tr>
@@ -411,7 +411,7 @@
 	      <td><b>N</b></td><td><b>T</b></td><td><b>EP</b></td><td><b>NT</b></td><td><b>ENP</b></td><td><b>ETP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>(NT)e "Innovation"</td>
+			  <td>st(NT) ""</td>
 		      <td>Intuitive</td><td>Logical</td><td>Static</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Asking</td>
 		      <td>ILE</td><td>LII</td>
 	    </tr>
