@@ -377,12 +377,12 @@
 		      <td>IEI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>P(SF) "Innovation"</td>
+	    	  <td>P(SF) "Innervation"</td>
 		      <td>Sensory</td><td>Ethical</td><td>Irrational</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Process</td>
 		      <td>SEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(NF) "Innovation"</td>
+	    	  <td>J(NF) "Essence"</td>
 		      <td>Intuitive</td><td>Ethical</td><td>Rational</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Process</td>
 		      <td>EIE</td><td>EII</td>
 	    </tr>
