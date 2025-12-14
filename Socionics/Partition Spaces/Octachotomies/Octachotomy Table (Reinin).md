@@ -250,7 +250,7 @@
 		      <td>SLE</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>?(T)i ""</td>
 		      <td>Introverted</td><td>Logical</td><td>Obstinate</td><td>Strategic</td><td>Judicious</td><td>Result</td><td>Asking</td>
 		      <td>LII</td><td>SLI</td>
 	    </tr>
