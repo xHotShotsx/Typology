@@ -123,7 +123,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Emotivist</td><td>Serious</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Constructivist</td><td>Serious</td><td>Process</td><td>Declaring</td>
 		      <td>LII</td><td>IEI</td>
 	    </tr>
 	    <tr>
@@ -143,18 +143,18 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Constructivist</td><td>Merry</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Emotivist</td><td>Merry</td><td>Process</td><td>Declaring</td>
 		      <td>SEI</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Constructivist</td><td>Serious</td><td>Result</td><td>Declaring</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>LIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Emotivist</td><td>Merry</td><td>Result</td><td>Asking</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>LII</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>4</b></td>
