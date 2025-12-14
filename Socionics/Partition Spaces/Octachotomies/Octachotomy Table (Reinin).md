@@ -216,42 +216,42 @@
 	      </tr>
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Logical</td><td>Yielding</td><td>Constructivist</td><td>Judicious</td><td>Process</td><td>Asking</td>
+		      <td>Extroverted</td><td>Logical</td><td>Yielding</td><td>Tactical</td><td>Judicious</td><td>Process</td><td>Asking</td>
 		      <td>ILE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Logical</td><td>Logical</td><td>Constructivist</td><td></td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Logical</td><td>Logical</td><td>Tactical</td><td></td><td>Democratic</td><td>Positivist</td>
 		      <td>ILI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Ethical</td><td>Logical</td><td>Constructivist</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Ethical</td><td>Logical</td><td>Tactical</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Logical</td><td>Constructivist</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Ethical</td><td>Logical</td><td>Tactical</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Ethical</td><td>Logical</td><td>Emotivist</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Ethical</td><td>Logical</td><td>Strategic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Logical</td><td>Emotivist</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Ethical</td><td>Logical</td><td>Strategic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Logical</td><td>Logical</td><td>Emotivist</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Logical</td><td>Logical</td><td>Strategic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Logical</td><td>Logical</td><td>Emotivist</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Logical</td><td>Logical</td><td>Strategic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
