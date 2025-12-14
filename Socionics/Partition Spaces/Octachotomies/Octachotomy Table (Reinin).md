@@ -68,7 +68,7 @@
 	      <td><b>E</b></td><td><b>N</b></td><td><b>P</b></td><td><b>EN</b></td><td><b>EP</b></td><td><b>NP</b></td><td><b>ENP</b></td>
 	      </tr>
 		 <tr>
-			  <td>(NT)e "Innovation"</td>
+			  <td>Ne "Imagination"</td>
 		      <td>Extroverted</td><td>Intuitive</td><td>Irrational</td><td>Carefree</td><td>Static</td><td>Tactical</td><td>Judicious</td>
 		      <td>ILE</td><td>IEE</td>
 	    </tr>
@@ -95,17 +95,17 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Introverted</td><td>Sensory</td><td>Rational</td><td>Carefree</td><td>Static</td><td>Tactical</td><td>Decisive</td>
-		      <td></td><td>LIE</td>
+		      <td>LSI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Extroverted</td><td>Intuitive</td><td>Rational</td><td>Carefree</td><td>Dynamic</td><td>Strategic</td><td>Decisive</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>EIE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Introverted</td><td>Intuitive</td><td>Rational</td><td>Farsighted</td><td>Static</td><td>Strategic</td><td>Judicious</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>LII</td><td>EII</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>3</b></td>
