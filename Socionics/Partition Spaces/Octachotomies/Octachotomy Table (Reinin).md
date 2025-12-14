@@ -240,12 +240,12 @@
 		      <td>EIE</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Sensibility"</td>
+	    	  <td>!(F)i "Sensibility"</td>
 		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Strategic</td><td>Judicious</td><td>Process</td><td>Declaring</td>
 		      <td>SEI</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>!(T)e ""</td>
 		      <td>Extroverted</td><td>Logical</td><td>Yielding</td><td>Strategic</td><td>Decisive</td><td>Result</td><td>Declaring</td>
 		      <td>SLE</td><td>LIE</td>
 	    </tr>
