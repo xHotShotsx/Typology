@@ -122,7 +122,7 @@
 		      <td>ILE</td><td>EIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(N)i "Innovation"</td>
+	    	  <td>!(N)i "Sagacity"</td>
 		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Constructivist</td><td>Serious</td><td>Process</td><td>Declaring</td>
 		      <td>ILI</td><td>EII</td>
 	    </tr>
