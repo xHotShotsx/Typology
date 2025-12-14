@@ -367,12 +367,12 @@
 		      <td>ILE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>P(ST) "Innovation"</td>
+	    	  <td>P(ST) "Modulation"</td>
 		      <td>Sensory</td><td>Logical</td><td>Irrational</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Result</td>
 		      <td>SLE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>P(NF) "Innovation"</td>
+	    	  <td>P(NF) ""</td>
 		      <td>Intuitive</td><td>Ethical</td><td>Irrational</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Result</td>
 		      <td>IEI</td><td>IEE</td>
 	    </tr>
