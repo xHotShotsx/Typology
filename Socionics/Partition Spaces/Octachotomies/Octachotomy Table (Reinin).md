@@ -289,12 +289,12 @@
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Ji+ "Innovation"</td>
 		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Aristocratic</td><td>Positivist</td><td>Process</td><td>Declaring</td>
 		      <td>LSI</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Pe- "Innovation"</td>
 		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Aristocratic</td><td>Negativist</td><td>Result</td><td>Declaring</td>
 		      <td>SLE</td><td>IEE</td>
 	    </tr>
