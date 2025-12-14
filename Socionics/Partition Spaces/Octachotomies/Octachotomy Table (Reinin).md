@@ -382,22 +382,22 @@
 		      <td>SEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT) "Innovation"</td>
+	    	  <td>J(NF) "Innovation"</td>
 		      <td>Intuitive</td><td>Ethical</td><td>Rational</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Process</td>
 		      <td>EIE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>J(SF) "Innovation"</td>
 		      <td>Sensory</td><td>Ethical</td><td>Rational</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Result</td>
 		      <td>ESE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>J(NT) "Innovation"</td>
 		      <td>Intuitive</td><td>Logical</td><td>Rational</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Result</td>
 		      <td>LII</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>J(ST) "Innovation"</td>
 		      <td>Sensory</td><td>Logical</td><td>Rational</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Process</td>
 		      <td>LSI</td><td>LSE</td>
 	    </tr>
