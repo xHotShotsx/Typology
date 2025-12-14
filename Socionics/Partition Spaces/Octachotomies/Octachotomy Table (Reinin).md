@@ -470,7 +470,7 @@
 		      <td>SEI</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>N- "Prognosis"</td>
+	    	  <td>J(N.)+ "Prudence"</td>
 		      <td>Intuitive</td><td>Rational</td><td>Yielding</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Declaring</td>
 		      <td>LIE</td><td>EII</td>
 	    </tr>
@@ -485,12 +485,12 @@
 		      <td>LII</td><td>EIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(S.)- "Innovation"</td>
+	    	  <td>J(S.)- "Presentation"</td>
 		      <td>Sensory</td><td>Rational</td><td>Obstinate</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Declaring</td>
 		      <td>ESE</td><td>LSI</td>
 	    </tr>
 	    <tr>
-	    	  <td>N- "Innovation"</td>
+	    	  <td>N- "Prognosis"</td>
 		      <td>Intuitive</td><td>Irrational</td><td>Obstinate</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Declaring</td>
 		      <td>ILI</td><td>IEE</td>
 	    </tr>
