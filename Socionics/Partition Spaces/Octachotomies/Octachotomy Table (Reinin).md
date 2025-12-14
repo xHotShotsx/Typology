@@ -182,17 +182,17 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Irrational</td><td>Carefree</td><td>Yielding</td><td>Emotivistr</td><td>Merry</td>
+		      <td>Introverted</td><td>Ethical</td><td>Irrational</td><td>Yielding</td><td>Yielding</td><td>Emotivist</td><td>Merry</td>
 		      <td>SEI</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Ethical</td><td>Rational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Merry</td>
+		      <td>Extroverted</td><td>Ethical</td><td>Rational</td><td>Obstinate</td><td>Yielding</td><td>Constructivist</td><td>Merry</td>
 		      <td>ESE</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Rational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Serious</td>
+		      <td>Introverted</td><td>Ethical</td><td>Rational</td><td>Yielding</td><td>Yielding</td><td>Constructivist</td><td>Serious</td>
 		      <td>ESI</td><td>EII</td>
 	    </tr>
 	    <tr>
