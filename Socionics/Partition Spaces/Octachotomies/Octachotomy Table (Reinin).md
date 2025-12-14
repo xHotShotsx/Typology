@@ -564,37 +564,37 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
+		      <td>Ethical</td><td>Irrational</td><td>Yielding</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>ILE</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(NT)e "Innovation"</td>
+		      <td>Logical</td><td>Rational</td><td>Yielding</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>ILE</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(NT)e "Innovation"</td>
+		      <td>Ethical</td><td>Rational</td><td>Yielding</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>ILE</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(NT)e "Innovation"</td>
+		      <td>Logical</td><td>Rational</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>ILE</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(NT)e "Innovation"</td>
+		      <td>Ethical</td><td>Rational</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>ILE</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(NT)e "Innovation"</td>
+		      <td>Logical</td><td>Irrational</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>ILE</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(NT)e "Innovation"</td>
 		      <td>Ethical</td><td>Irrational</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
-	    </tr>
-	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
-		      <td>Logical</td><td>Rational</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
-	    </tr>
-	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
-		      <td>Ethical</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
-	    </tr>
-	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
-		      <td>Logical</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
-	    </tr>
-	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
-		      <td>Ethical</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
-	    </tr>
-	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
-		      <td>Logical</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
-	    </tr>
-	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
-		      <td>Ethical</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
