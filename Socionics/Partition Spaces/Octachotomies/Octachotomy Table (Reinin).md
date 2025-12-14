@@ -294,12 +294,12 @@
 		      <td>LSI</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>Pe- "Innovation"</td>
+	    	  <td>Pe- "Intervention"</td>
 		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Aristocratic</td><td>Negativist</td><td>Result</td><td>Declaring</td>
 		      <td>SLE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Pi+ "Accession"</td>
 		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Aristocratic</td><td>Positivist</td><td>Result</td><td>Declaring</td>
 		      <td>IEI</td><td>SLI</td>
 	    </tr>
@@ -313,7 +313,7 @@
 	      <td><b>E</b></td><td><b>NT</b></td><td><b>NP</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>ETP</b></td>
 	      </tr>
 		 <tr>
-			  <td>(NT)e "Innovation"</td>
+			  <td>Ge "Innovation"</td>
 		      <td>Extroverted</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Merry</td>
 		      <td>ILE</td><td>ESE</td>
 	    </tr>
