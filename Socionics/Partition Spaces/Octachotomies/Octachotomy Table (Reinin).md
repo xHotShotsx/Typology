@@ -497,7 +497,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Sensory</td><td>Irrational</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td></td><td>LIE</td>
+		      <td>SEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>11</b></td>
