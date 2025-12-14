@@ -264,12 +264,12 @@
 	      <td><b>E</b></td><td><b>P</b></td><td><b>EP</b></td><td><b>NT</b></td><td><b>ENT</b></td><td><b>NTP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>(NT)e "Innovation"</td>
+			  <td>Pe+ "Generation"</td>
 		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Democratic</td><td>Positivist</td><td>Process</td><td>Asking</td>
 		      <td>ILE</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Pi- "Distilla"</td>
 		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Democratic</td><td>Negativist</td><td>Process</td><td>Declaring</td>
 		      <td>SEI</td><td>ILI</td>
 	    </tr>
