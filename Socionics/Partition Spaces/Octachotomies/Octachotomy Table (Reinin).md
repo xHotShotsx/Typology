@@ -475,12 +475,12 @@
 		      <td>LIE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Innovation"</td>
+	    	  <td>?S "Innovation"</td>
 		      <td>Sensory</td><td>Rational</td><td>Yielding</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Asking</td>
 		      <td>ESI</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>?N "Innovation"</td>
 		      <td>Intuitive</td><td>Rational</td><td>Obstinate</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Asking</td>
 		      <td>LII</td><td>EIE</td>
 	    </tr>
