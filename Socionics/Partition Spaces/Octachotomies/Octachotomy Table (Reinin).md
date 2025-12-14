@@ -220,12 +220,12 @@
 		      <td>ILE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(T)i ""</td>
+	    	  <td>!(T)i "Propensity"</td>
 		      <td>Introverted</td><td>Logical</td><td>Obstinate</td><td>Tactical</td><td>Decisive</td><td>Process</td><td>Declaring</td>
 		      <td>LSI</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>(NT)e ""</td>
 		      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td><td>Tactical</td><td>Judicious</td><td>Result</td><td>Declaring</td>
 		      <td>ESE</td><td>IEE</td>
 	    </tr>
