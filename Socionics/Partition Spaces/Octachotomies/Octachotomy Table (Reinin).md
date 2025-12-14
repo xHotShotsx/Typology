@@ -511,7 +511,7 @@
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
 		      <td>Intuitive</td><td>Static</td><td>Yielding</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Process</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>ILE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
