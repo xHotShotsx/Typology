@@ -339,7 +339,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>Δi "Assimilation"</td>
-		      <td>Introverted</td><td>Aristocratic</td><td>Strategic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Aristocratic</td><td>Strategic</td><td>Construct</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>EII</td><td>SLI</td>
 	    </tr>
 	    <tr>
