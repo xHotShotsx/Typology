@@ -608,8 +608,8 @@
 	      </tr>
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
-		      <td>Logical</td><td>Static</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Merry</td><td>Process</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>Logical</td><td>Static</td><td>Carefree</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Process</td>
+		      <td>ILE</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
