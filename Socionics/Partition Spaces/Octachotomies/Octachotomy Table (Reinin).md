@@ -295,12 +295,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Aristocratic</td><td>Negativist</td><td>Process</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Aristocratic</td><td>Negativist</td><td>Result</td><td>Declaring</td>
 		      <td>SLE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Aristocratic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Aristocratic</td><td>Positivist</td><td>Result</td><td>Declaring</td>
 		      <td>IEI</td><td>SLI</td>
 	    </tr>
 	    <tr>
