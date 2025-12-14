@@ -128,8 +128,8 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Emotivist</td><td>Merry</td><td>Result</td><td>Declaring</td>
-		      <td>SLE</td><td>LSE</td>
+		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Constructivist</td><td>Merry</td><td>Result</td><td>Declaring</td>
+		      <td>ESE</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
