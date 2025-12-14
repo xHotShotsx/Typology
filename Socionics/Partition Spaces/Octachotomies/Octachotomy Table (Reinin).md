@@ -559,8 +559,8 @@
 	      </tr>
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>Logical</td><td>Irrational</td><td>Yielding</td><td>Constructivist</td><td>Merry</td><td>Democratic</td><td>Positivist</td>
+		      <td>ILE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
