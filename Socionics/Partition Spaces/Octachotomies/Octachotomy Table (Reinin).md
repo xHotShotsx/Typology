@@ -319,12 +319,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>Γi "Regard"</td>
-		      <td>Introverted</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Serious</td>
 		      <td>ILI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Δe "Practice"</td>
-		      <td>Extroverted</td><td>Aristocratic</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td></td><td>Democratic</td><td>Positivist</td>
 		      <td>LSE</td><td>IEE</td>
 	    </tr>
 	    <tr>
