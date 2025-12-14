@@ -225,7 +225,7 @@
 		      <td>LSI</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e ""</td>
+	    	  <td>!(F)e "Vivacity"</td>
 		      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td><td>Tactical</td><td>Judicious</td><td>Result</td><td>Declaring</td>
 		      <td>ESE</td><td>IEE</td>
 	    </tr>
