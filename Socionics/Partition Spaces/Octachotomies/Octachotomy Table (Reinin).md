@@ -392,7 +392,7 @@
 		      <td>ESE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(NT) "Innovation"</td>
+	    	  <td>J(NT) "Articulation"</td>
 		      <td>Intuitive</td><td>Logical</td><td>Rational</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Result</td>
 		      <td>LII</td><td>LIE</td>
 	    </tr>
