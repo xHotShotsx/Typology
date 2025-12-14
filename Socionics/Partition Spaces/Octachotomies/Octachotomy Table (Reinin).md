@@ -148,7 +148,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Constructivist</td><td>Serious</td><td>Result</td><td>Declaring</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Emotivist</td><td>Serious</td><td>Result</td><td>Declaring</td>
 		      <td>LIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
