@@ -530,7 +530,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>dy(F>N) "Innovation"</td>
-		      <td>Intuitive</td><td>Dynamic</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Intuitive</td><td>Dynamic</td><td>Obstinate</td><td>Constructivist</td><td></td><td>Democratic</td><td>Positivist</td>
 		      <td>EIE</td><td>ILI</td>
 	    </tr>
 	    <tr>
