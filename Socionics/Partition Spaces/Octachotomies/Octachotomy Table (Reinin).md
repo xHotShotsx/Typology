@@ -558,12 +558,12 @@
 	      <td><b>T</b></td><td><b>P</b></td><td><b>EN</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>(NT)e "Innovation"</td>
+			  <td>P(T.)+ "Association"</td>
 		      <td>Logical</td><td>Irrational</td><td>Carefree</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Asking</td>
 		      <td>ILE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Innovation"</td>
+	    	  <td>P(F.)- "Elicitation"</td>
 		      <td>Ethical</td><td>Irrational</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SEI</td><td>IEE</td>
 	    </tr>
