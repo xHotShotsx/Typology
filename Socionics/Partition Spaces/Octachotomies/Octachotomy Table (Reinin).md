@@ -349,7 +349,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>Αe "Description"</td>
-		      <td>Introverted</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td></td><td>Judicious</td><td>Merry</td>
 		      <td>SEI</td><td>LII</td>
 	    </tr>
 	    <tr>
