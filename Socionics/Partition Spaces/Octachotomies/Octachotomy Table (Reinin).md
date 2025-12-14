@@ -411,17 +411,17 @@
 	      <td><b>N</b></td><td><b>T</b></td><td><b>EP</b></td><td><b>NT</b></td><td><b>ENP</b></td><td><b>ETP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>st(NT) ""</td>
+			  <td>st(NT) "Interpretation"</td>
 		      <td>Intuitive</td><td>Logical</td><td>Static</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Asking</td>
 		      <td>ILE</td><td>LII</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(ST) "Innovation"</td>
+	    	  <td>st(ST) "Performance"</td>
 		      <td>Sensory</td><td>Logical</td><td>Static</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Declaring</td>
 		      <td>LSI</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(NF) "Innovation"</td>
+	    	  <td>st(NF) "Ethos"</td>
 		      <td>Intuitive</td><td>Ethical</td><td>Static</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Declaring</td>
 		      <td>EII</td><td>IEE</td>
 	    </tr>
