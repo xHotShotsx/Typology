@@ -329,7 +329,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>Bi "Innovation"</td>
-		      <td>Introverted</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Yielding</td><td>Decisive</td><td>Merry</td>
+		      <td>Introverted</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Merry</td>
 		      <td>LSI</td><td>IEI</td>
 	    </tr>
 	    <tr>
