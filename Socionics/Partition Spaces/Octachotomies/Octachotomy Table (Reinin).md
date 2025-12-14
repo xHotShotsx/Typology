@@ -388,7 +388,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Sensory</td><td>Ethical</td><td>Rational</td><td>Democratic</td><td></td><td>Democratic</td><td>Positivist</td>
+		      <td>Sensory</td><td>Ethical</td><td>Rational</td><td>Democratic</td><td></td><td>Decisive</td><td>Positivist</td>
 		      <td>ESE</td><td>ESI</td>
 	    </tr>
 	    <tr>
