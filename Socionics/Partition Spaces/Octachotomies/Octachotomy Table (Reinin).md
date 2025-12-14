@@ -109,7 +109,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>3</b></td>
-	      <td rowspan="2"><b>Irrational Benefactors and Rational Beneficiaries</b></td>
+	      <td rowspan="2"><b>Irrational Benefactors with Rational Beneficiaries</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Octachotomies/3.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -124,7 +124,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Constructivist</td><td>Serious</td><td>Process</td><td>Declaring</td>
-		      <td>LII</td><td>IEI</td>
+		      <td>ILI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
@@ -207,7 +207,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>5</b></td>
-	      <td rowspan="2"><b>Irrational Beneficiaries and Rational Benefactors</b></td>
+	      <td rowspan="2"><b>Irrational Beneficiaries with Rational Benefactors</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Octachotomies/5.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -501,7 +501,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>11</b></td>
-	      <td rowspan="2"><b>Irrational Supervisees and Rational Supervisors</b></td>
+	      <td rowspan="2"><b>Irrational Supervisees with Rational Supervisors</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Octachotomies/11.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
