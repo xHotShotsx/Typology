@@ -524,7 +524,7 @@
 		      <td>IEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(T>S) "Innovation"</td>
+	    	  <td>dy(T>S) "Amenity"</td>
 		      <td>Sensory</td><td>Dynamic</td><td>Yielding</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Process</td>
 		      <td>SEI</td><td>LSE</td>
 	    </tr>
@@ -544,7 +544,7 @@
 		      <td>LII</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(T>S) "Innovation"</td>
+	    	  <td>st(T>S) "Determination"</td>
 		      <td>Sensory</td><td>Static</td><td>Obstinate</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Process</td>
 		      <td>LSI</td><td>SEE</td>
 	    </tr>
