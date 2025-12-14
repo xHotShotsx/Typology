@@ -460,7 +460,7 @@
 	      <td><b>N</b></td><td><b>P</b></td><td><b>ET</b></td><td><b>NP</b></td><td><b>ENT</b></td><td><b>ETP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>?N "Innovation"</td>
+			  <td>N+ "Semiosis"</td>
 		      <td>Intuitive</td><td>Irrational</td><td>Yielding</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Asking</td>
 		      <td>ILE</td><td>IEI</td>
 	    </tr>
