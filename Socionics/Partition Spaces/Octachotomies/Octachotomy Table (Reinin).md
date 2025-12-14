@@ -593,7 +593,7 @@
 		      <td>SLE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>P(F.)+ "Innovation"</td>
+	    	  <td>P(F.)+ "Ambition"</td>
 		      <td>Ethical</td><td>Irrational</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>IEI</td><td>SEE</td>
 	    </tr>
