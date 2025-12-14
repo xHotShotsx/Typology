@@ -573,7 +573,7 @@
 		      <td>LSI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>F- "Preference"</td>
 		      <td>Ethical</td><td>Rational</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>EIE</td><td>ESI</td>
 	    </tr>
@@ -585,17 +585,17 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Ethical</td><td>Rational</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td></td><td>IEI</td>
+		      <td>ESE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Logical</td><td>Irrational</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>SLE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Ethical</td><td>Irrational</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>IEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>13</b></td>
