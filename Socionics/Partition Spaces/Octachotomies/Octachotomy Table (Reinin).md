@@ -323,17 +323,17 @@
 		      <td>ILI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>e "Innovation"</td>
+	    	  <td>De "Innovation"</td>
 		      <td>Extroverted</td><td>Aristocratic</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LSE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Bi "Innovation"</td>
 		      <td>Introverted</td><td>Aristocratic</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LSI</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Be "Innovation"</td>
 		      <td>Extroverted</td><td>Aristocratic</td><td>Strategic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>EIE</td><td>SLE</td>
 	    </tr>
