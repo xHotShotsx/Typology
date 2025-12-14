@@ -472,7 +472,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Intuitive</td><td>Rational</td><td>Yielding</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td></td><td>EII</td>
+		      <td>LIE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
