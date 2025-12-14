@@ -485,7 +485,7 @@
 		      <td>LII</td><td>EIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(S.)- "Presentation"</td>
+	    	  <td>J(S.)+ "Presentation"</td>
 		      <td>Sensory</td><td>Rational</td><td>Obstinate</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Declaring</td>
 		      <td>ESE</td><td>LSI</td>
 	    </tr>
@@ -495,7 +495,7 @@
 		      <td>ILI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>S+ "Innovation"</td>
+	    	  <td>S+ "Kinesthesis"</td>
 		      <td>Sensory</td><td>Irrational</td><td>Obstinate</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Asking</td>
 		      <td>SEE</td><td>SLI</td>
 	    </tr>
