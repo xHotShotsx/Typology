@@ -437,7 +437,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>dy(SF) "Innovation"</td>
-		      <td>Sensory</td><td>Ethical</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Sensory</td><td>Ethical</td><td>Dynamic</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Declaring</td>
 		      <td>SEI</td><td>ESE</td>
 	    </tr>
 	    <tr>
