@@ -235,12 +235,12 @@
 		      <td>IEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(F)e "Innovation"</td>
+	    	  <td>?(F)e "Ardour"</td>
 		      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td><td>Strategic</td><td>Decisive</td><td>Process</td><td>Asking</td>
 		      <td>EIE</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>(NT)e ""</td>
 		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Strategic</td><td>Judicious</td><td>Process</td><td>Declaring</td>
 		      <td>SEI</td><td>EII</td>
 	    </tr>
