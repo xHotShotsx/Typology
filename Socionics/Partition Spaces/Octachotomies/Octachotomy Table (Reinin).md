@@ -334,7 +334,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>Βe "Demonstration"</td>
-		      <td>Extroverted</td><td>Aristocratic</td><td>Strategic</td><td>Carefree</td><td>Negativist</td><td>Decisive</td><td>Merry</td>
+		      <td>Extroverted</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Merry</td>
 		      <td>EIE</td><td>SLE</td>
 	    </tr>
 	    <tr>
