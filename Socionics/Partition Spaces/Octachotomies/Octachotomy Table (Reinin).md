@@ -73,17 +73,17 @@
 		      <td>ILE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Ni "Insight"</td>
 		      <td>Introverted</td><td>Intuitive</td><td>Irrational</td><td>Farsighted</td><td>Dynamic</td><td>Tactical</td><td>Decisive</td>
 		      <td>IEI</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Se "Drive"</td>
 		      <td>Extroverted</td><td>Sensory</td><td>Irrational</td><td>Farsighted</td><td>Static</td><td>Strategic</td><td>Decisive</td>
 		      <td>SLE</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Si "Sensation"</td>
 		      <td>Introverted</td><td>Sensory</td><td>Irrational</td><td>Carefree</td><td>Dynamic</td><td>Strategic</td><td>Judicious</td>
 		      <td>SEI</td><td>SLI</td>
 	    </tr>
