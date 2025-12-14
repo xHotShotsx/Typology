@@ -284,7 +284,7 @@
 		      <td>LII</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Je- "Elaboration"</td>
 		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Aristocratic</td><td>Negativist</td><td>Process</td><td>AAsking</td>
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
