@@ -137,22 +137,22 @@
 		      <td>ESI</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(S)e "Innovation"</td>
+	    	  <td>?(S)e "Innovation"</td>
 		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Emotivist</td><td>Serious</td><td>Process</td><td>Asking</td>
 		      <td>SEE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>!(S)i "Innovation"</td>
 		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Emotivist</td><td>Merry</td><td>Process</td><td>Declaring</td>
 		      <td>SEI</td><td>LSI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>!(N)e "Innovation"</td>
 		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Emotivist</td><td>Serious</td><td>Result</td><td>Declaring</td>
 		      <td>LIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>?(N)i "Innovation"</td>
 		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Emotivist</td><td>Merry</td><td>Result</td><td>Asking</td>
 		      <td>LII</td><td>IEI</td>
 	    </tr>
