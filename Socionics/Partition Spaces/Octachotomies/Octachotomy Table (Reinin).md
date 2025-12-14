@@ -318,12 +318,12 @@
 		      <td>ILE</td><td>ESE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Gi "Innovation"</td>
+	    	  <td>Γi "Innovation"</td>
 		      <td>Introverted</td><td>Democratic</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>De "Innovation"</td>
+	    	  <td>Δe "Innovation"</td>
 		      <td>Extroverted</td><td>Aristocratic</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LSE</td><td>IEE</td>
 	    </tr>
@@ -333,22 +333,22 @@
 		      <td>LSI</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Be "Innovation"</td>
+	    	  <td>Βe "Innovation"</td>
 		      <td>Extroverted</td><td>Aristocratic</td><td>Strategic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>EIE</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Di "Innovation"</td>
+	    	  <td>Δi "Innovation"</td>
 		      <td>Introverted</td><td>Aristocratic</td><td>Strategic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>EII</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>e "Innovation"</td>
+	    	  <td>Γe "Innovation"</td>
 		      <td>Extroverted</td><td>Democratic</td><td>Strategic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SEE</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Αe "Innovation"</td>
 		      <td>Introverted</td><td>Democratic</td><td>Strategic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SEI</td><td>LII</td>
 	    </tr>
