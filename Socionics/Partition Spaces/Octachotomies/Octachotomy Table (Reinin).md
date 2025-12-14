@@ -215,12 +215,12 @@
 	      <td><b>E</b></td><td><b>T</b></td><td><b>ET</b></td><td><b>NP</b></td><td><b>ENP</b></td><td><b>NTP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>(NT)e "Innovation"</td>
+			  <td>?(T)e "Competence"</td>
 		      <td>Extroverted</td><td>Logical</td><td>Yielding</td><td>Tactical</td><td>Judicious</td><td>Process</td><td>Asking</td>
 		      <td>ILE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>!(T)i ""</td>
 		      <td>Introverted</td><td>Logical</td><td>Obstinate</td><td>Tactical</td><td>Decisive</td><td>Process</td><td>Declaring</td>
 		      <td>LSI</td><td>ILI</td>
 	    </tr>
