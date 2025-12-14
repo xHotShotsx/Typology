@@ -123,17 +123,17 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Intuitive</td><td>Carefree</td><td>Emotivist</td><td>Serious</td><td>Process</td><td>Positivist</td>
+		      <td>Introverted</td><td>Intuitive</td><td>Carefree</td><td>Emotivist</td><td>Serious</td><td>Process</td><td>Declaring</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Sensory</td><td>Carefree</td><td>Emotivist</td><td>Merry</td><td>Result</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Sensory</td><td>Carefree</td><td>Emotivist</td><td>Merry</td><td>Result</td><td>Declaring</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Constructivist</td><td>Serious</td><td>Result</td><td>Positivist</td>
+		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Constructivist</td><td>Serious</td><td>Result</td><td>Asking</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
@@ -148,7 +148,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Farsighted</td><td>Constructivist</td><td>Yielding</td><td>Result</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Farsighted</td><td>Constructivist</td><td>Serious</td><td>Result</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
