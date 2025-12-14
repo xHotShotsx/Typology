@@ -589,7 +589,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>P(T.)- "Instantiation"</td>
-		      <td>Logical</td><td>Irrational</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Logical</td><td>Irrational</td><td>Farsighted</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Declaring</td>
 		      <td>SLE</td><td>ILI</td>
 	    </tr>
 	    <tr>
