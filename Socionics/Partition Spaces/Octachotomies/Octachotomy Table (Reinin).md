@@ -230,7 +230,7 @@
 		      <td>ESE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>?(F)i ""</td>
 		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Tactical</td><td>Decisive</td><td>Result</td><td>Asking</td>
 		      <td>IEI</td><td>ESI</td>
 	    </tr>
