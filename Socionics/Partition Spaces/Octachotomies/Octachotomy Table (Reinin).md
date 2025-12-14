@@ -426,22 +426,22 @@
 		      <td>EII</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(SF) "Innovation"</td>
+	    	  <td>st(SF) "Volition"</td>
 		      <td>Sensory</td><td>Ethical</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Asking</td>
 		      <td>SEE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(NF) "Innovation"</td>
+	    	  <td>dy(NF) "Aspiration"</td>
 		      <td>Intuitive</td><td>Ethical</td><td>Dynamic</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Asking</td>
 		      <td>EIE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(SF) "Innovation"</td>
+	    	  <td>dy(SF) "Aesthesis"</td>
 		      <td>Sensory</td><td>Ethical</td><td>Dynamic</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Declaring</td>
 		      <td>SEI</td><td>ESE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(NT) "Innovation"</td>
+	    	  <td>dy(NT) "Strategy"</td>
 		      <td>Intuitive</td><td>Logical</td><td>Dynamic</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Declaring</td>
 		      <td>ILI</td><td>LIE</td>
 	    </tr>
