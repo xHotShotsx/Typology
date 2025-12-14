@@ -428,22 +428,22 @@
 	    <tr>
 	    	  <td>st(SF) "Innovation"</td>
 		      <td>Sensory</td><td>Ethical</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>SEE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(NF) "Innovation"</td>
 		      <td>Intuitive</td><td>Ethical</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>EIE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(SF) "Innovation"</td>
 		      <td>Sensory</td><td>Ethical</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>SEI</td><td>ESE</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(NT) "Innovation"</td>
 		      <td>Intuitive</td><td>Logical</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>ILI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(ST) "Innovation"</td>
