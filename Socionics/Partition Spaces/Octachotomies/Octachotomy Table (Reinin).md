@@ -95,7 +95,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Introverted</td><td>Sensory</td><td>Rational</td><td>Carefree</td><td>Static</td><td>Tactical</td><td>Decisive</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td></td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
