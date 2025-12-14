@@ -313,28 +313,28 @@
 	      <td><b>E</b></td><td><b>NT</b></td><td><b>NP</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>ETP</b></td>
 	      </tr>
 		 <tr>
-			  <td>Ge "Innovation"</td>
+			  <td>Ae "Innovation"</td>
 		      <td>Extroverted</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Merry</td>
 		      <td>ILE</td><td>ESE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+	    	  <td> "Innovation"</td>
+		      <td>Extroverted</td><td>Democratic</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Strategic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
