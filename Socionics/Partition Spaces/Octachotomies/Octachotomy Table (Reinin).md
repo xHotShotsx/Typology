@@ -196,12 +196,12 @@
 		      <td>ESI</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Logical</td><td>Rational</td><td>Yielding</td><td>Dynamic</td><td>Democratic</td><td>Serious</td>
+	    	  <td>Te "Innovation"</td>
+		      <td>Extroverted</td><td>Logical</td><td>Rational</td><td>Yielding</td><td>Dynamic</td><td>Emotivist</td><td>Serious</td>
 		      <td>LIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Ti "Structure"</td>
 		      <td>Introverted</td><td>Logical</td><td>Rational</td><td>Obstinate</td><td>Static</td><td>Emotivist</td><td>Merry</td>
 		      <td>LII</td><td>LSI</td>
 	    </tr>
