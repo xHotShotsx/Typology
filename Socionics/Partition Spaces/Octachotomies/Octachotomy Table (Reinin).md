@@ -475,7 +475,7 @@
 		      <td>LIE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(S.)- "Presentation"</td>
+	    	  <td>J(S.)- "Customisation"</td>
 		      <td>Sensory</td><td>Rational</td><td>Yielding</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Asking</td>
 		      <td>ESI</td><td>LSE</td>
 	    </tr>
