@@ -588,12 +588,12 @@
 		      <td>ESE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>P(T.)- "Instan"</td>
+	    	  <td>P(T.)- "Instantiation"</td>
 		      <td>Logical</td><td>Irrational</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SLE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>P(F.)+ "Innovation"</td>
 		      <td>Ethical</td><td>Irrational</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>IEI</td><td>SEE</td>
 	    </tr>
