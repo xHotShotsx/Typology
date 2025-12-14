@@ -387,7 +387,7 @@
 		      <td>EIE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(SF) "Innovation"</td>
+	    	  <td>J(SF) "Demeanour"</td>
 		      <td>Sensory</td><td>Ethical</td><td>Rational</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Result</td>
 		      <td>ESE</td><td>ESI</td>
 	    </tr>
