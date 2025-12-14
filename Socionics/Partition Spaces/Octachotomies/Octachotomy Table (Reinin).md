@@ -231,12 +231,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Tactical</td><td>Decisive</td><td>Result</td><td></td>
+		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Tactical</td><td>Decisive</td><td>Result</td><td>Asking</td>
 		      <td>IEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Ethical</td><td>Logical</td><td>Strategic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td><td>Strategic</td><td>Decisive</td><td>Process</td><td>Asking</td>
 		      <td>EIE</td><td>SEE</td>
 	    </tr>
 	    <tr>
