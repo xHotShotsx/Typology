@@ -563,12 +563,12 @@
 		      <td>ILE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td> "Innovation"</td>
 		      <td>Ethical</td><td>Irrational</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SEI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>T+ "Formulation"</td>
 		      <td>Logical</td><td>Rational</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LSI</td><td>LIE</td>
 	    </tr>
@@ -578,7 +578,7 @@
 		      <td>EIE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>T- "Schematisation"</td>
 		      <td>Logical</td><td>Rational</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LII</td><td>LSE</td>
 	    </tr>
