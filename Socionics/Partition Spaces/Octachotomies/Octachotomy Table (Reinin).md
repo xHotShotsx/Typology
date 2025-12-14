@@ -172,7 +172,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Logical</td><td>Irrational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Logical</td><td>Irrational</td><td>Obstina</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILI</td><td>SLI</td>
 	    </tr>
 	    <tr>
@@ -183,27 +183,27 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Introverted</td><td>Ethical</td><td>Irrational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td></td><td>IEI</td>
+		      <td>SEI</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Extroverted</td><td>Ethical</td><td>Rational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>ESE</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Introverted</td><td>Ethical</td><td>Rational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>ESI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Extroverted</td><td>Logical</td><td>Rational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>LIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Introverted</td><td>Logical</td><td>Rational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>LII</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>5</b></td>
