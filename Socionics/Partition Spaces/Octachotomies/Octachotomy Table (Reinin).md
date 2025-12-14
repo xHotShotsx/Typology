@@ -570,12 +570,12 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Logical</td><td>Rational</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>LSI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Ethical</td><td>Rational</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>ILEJ</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
