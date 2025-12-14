@@ -465,17 +465,17 @@
 		      <td>ILE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>S- "Innovation"</td>
+	    	  <td>S- "Proprioception"</td>
 		      <td>Sensory</td><td>Irrational</td><td>Yielding</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Declaring</td>
 		      <td>SEI</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>N- "Innovation"</td>
+	    	  <td>N- "Prognosis"</td>
 		      <td>Intuitive</td><td>Rational</td><td>Yielding</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Declaring</td>
 		      <td>LIE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(S.)- "Innovation"</td>
+	    	  <td>J(S.)- "Presentation"</td>
 		      <td>Sensory</td><td>Rational</td><td>Yielding</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Asking</td>
 		      <td>ESI</td><td>LSE</td>
 	    </tr>
