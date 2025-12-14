@@ -117,27 +117,27 @@
 	      <td><b>E</b></td><td><b>N</b></td><td><b>EN</b></td><td><b>TP</b></td><td><b>ETP</b></td><td><b>NTP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>?(F)i "Innovation"</td>
+			  <td>?(N)e "Wit"</td>
 		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Constructivist</td><td>Merry</td><td>Process</td><td>Asking</td>
 		      <td>ILE</td><td>EIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>!(N)i "Innovation"</td>
 		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Constructivist</td><td>Serious</td><td>Process</td><td>Declaring</td>
 		      <td>ILI</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>!(S)e "Innovation"</td>
 		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Constructivist</td><td>Merry</td><td>Result</td><td>Declaring</td>
 		      <td>ESE</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>?(S)i "Innovation"</td>
 		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Constructivist</td><td>Serious</td><td>Result</td><td>Asking</td>
 		      <td>ESI</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>(S)e "Innovation"</td>
 		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Emotivist</td><td>Serious</td><td>Process</td><td>Asking</td>
 		      <td>SEE</td><td>LSE</td>
 	    </tr>
