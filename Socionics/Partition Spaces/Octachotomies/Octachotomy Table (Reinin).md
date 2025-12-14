@@ -397,7 +397,7 @@
 		      <td>LII</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(ST) "Innovation"</td>
+	    	  <td>J(ST) ""</td>
 		      <td>Sensory</td><td>Logical</td><td>Rational</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Process</td>
 		      <td>LSI</td><td>LSE</td>
 	    </tr>
