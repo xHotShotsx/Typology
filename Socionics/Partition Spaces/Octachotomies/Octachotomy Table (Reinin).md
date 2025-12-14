@@ -270,7 +270,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Democratic</td><td>Negativist</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Democratic</td><td>Negativist</td><td>Process</td><td>Declaring</td>
 		      <td>SEI</td><td>ILI</td>
 	    </tr>
 	    <tr>
