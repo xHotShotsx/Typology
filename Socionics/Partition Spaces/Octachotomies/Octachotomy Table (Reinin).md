@@ -74,37 +74,37 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Sensory</td><td>Irrational</td><td>Farsighted</td><td>Dynamic</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Sensory</td><td>Irrational</td><td>Farsighted</td><td>Dynamic</td><td>Tactical</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Sensory</td><td>Irrational</td><td>Farsighted</td><td>Static</td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Sensory</td><td>Irrational</td><td>Farsighted</td><td>Static</td><td>Strategic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Sensory</td><td>Irrational</td><td>Carefree</td><td>Dynamic</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Sensory</td><td>Irrational</td><td>Carefree</td><td>Dynamic</td><td>Strategic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Sensory</td><td>Rational</td><td>Farsighted</td><td>Dynamic</td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Sensory</td><td>Rational</td><td>Farsighted</td><td>Dynamic</td><td>Tactical</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Sensory</td><td>Rational</td><td>Carefree</td><td>Static</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Sensory</td><td>Rational</td><td>Carefree</td><td>Static</td><td>Tactical</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Rational</td><td>Carefree</td><td>Dynamic</td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Rational</td><td>Carefree</td><td>Dynamic</td><td>Strategic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Intuitive</td><td>Rational</td><td>Farsighted</td><td>Static</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Intuitive</td><td>Rational</td><td>Farsighted</td><td>Static</td><td>Strategic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
