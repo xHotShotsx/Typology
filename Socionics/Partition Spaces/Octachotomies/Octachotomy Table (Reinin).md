@@ -344,7 +344,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>Γe "Indication"</td>
-		      <td>Extroverted</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Positivist</td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Serious</td>
 		      <td>SEE</td><td>LIE</td>
 	    </tr>
 	    <tr>
