@@ -240,7 +240,7 @@
 		      <td>EIE</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e ""</td>
+	    	  <td>(NT)e "Sensibility"</td>
 		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Strategic</td><td>Judicious</td><td>Process</td><td>Declaring</td>
 		      <td>SEI</td><td>EII</td>
 	    </tr>
