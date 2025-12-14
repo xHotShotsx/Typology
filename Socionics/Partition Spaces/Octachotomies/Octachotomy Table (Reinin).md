@@ -539,14 +539,14 @@
 		      <td>ESE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>st() "Innovation"</td>
+	    	  <td>st(T>N) "Innovation"</td>
 		      <td>Intuitive</td><td>Static</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>LII</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>st() "Innovation"</td>
+	    	  <td>st(T>S) "Innovation"</td>
 		      <td>Sensory</td><td>Static</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>LSI</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>12</b></td>
