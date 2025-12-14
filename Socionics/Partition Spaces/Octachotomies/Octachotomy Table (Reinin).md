@@ -525,7 +525,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>dy(T>S) "Innovation"</td>
-		      <td>Sensory</td><td>Dynamic</td><td>Yielding</td><td>Emotivist</td><td>Negativist</td><td>Democratic</td><td>Positivist</td>
+		      <td>Sensory</td><td>Dynamic</td><td>Yielding</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Negativist</td>
 		      <td>SEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
