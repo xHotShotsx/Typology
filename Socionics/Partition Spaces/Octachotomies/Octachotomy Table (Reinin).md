@@ -448,7 +448,7 @@
 	    <tr>
 	    	  <td>dy(ST) "Innovation"</td>
 		      <td>Sensory</td><td>Logical</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>LSE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>10</b></td>
