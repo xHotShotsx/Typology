@@ -480,7 +480,7 @@
 		      <td>ESI</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(N.)- "Innovation"</td>
+	    	  <td>J(N.)- "Elocution"</td>
 		      <td>Intuitive</td><td>Rational</td><td>Obstinate</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Asking</td>
 		      <td>LII</td><td>EIE</td>
 	    </tr>
