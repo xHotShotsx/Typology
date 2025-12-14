@@ -509,7 +509,7 @@
 	      <td><b>N</b></td><td><b>EP</b></td><td><b>ET</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>NTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>(NT)e "Innovation"</td>
+			  <td>st(F>N) "Innovation"</td>
 		      <td>Intuitive</td><td>Static</td><td>Yielding</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Process</td>
 		      <td>ILE</td><td>EII</td>
 	    </tr>
