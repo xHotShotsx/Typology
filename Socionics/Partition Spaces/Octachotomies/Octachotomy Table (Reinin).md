@@ -269,7 +269,7 @@
 		      <td>ILE</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Pi- "Distilla"</td>
+	    	  <td>Pi- "Distillation"</td>
 		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Democratic</td><td>Negativist</td><td>Process</td><td>Declaring</td>
 		      <td>SEI</td><td>ILI</td>
 	    </tr>
