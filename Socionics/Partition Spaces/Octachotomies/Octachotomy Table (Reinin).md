@@ -372,7 +372,7 @@
 		      <td>SLE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>P(NF) ""</td>
+	    	  <td>P(NF) "Spiration"</td>
 		      <td>Intuitive</td><td>Ethical</td><td>Irrational</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Result</td>
 		      <td>IEI</td><td>IEE</td>
 	    </tr>
