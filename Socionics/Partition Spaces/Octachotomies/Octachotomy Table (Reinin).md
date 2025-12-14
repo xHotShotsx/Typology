@@ -432,7 +432,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>dy(NF) "Innovation"</td>
-		      <td>Intuitive</td><td>Ethical</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Intuitive</td><td>Ethical</td><td>Dynamic</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Asking</td>
 		      <td>EIE</td><td>IEI</td>
 	    </tr>
 	    <tr>
