@@ -519,7 +519,7 @@
 		      <td>SLE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(T>N) "Innovation"</td>
+	    	  <td>dy(T>N) "Feasibility"</td>
 		      <td>Intuitive</td><td>Dynamic</td><td>Yielding</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Result</td>
 		      <td>IEI</td><td>LIE</td>
 	    </tr>
@@ -539,7 +539,7 @@
 		      <td>ESE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(T>N) "Innovation"</td>
+	    	  <td>st(T>N) "Validity"</td>
 		      <td>Intuitive</td><td>Static</td><td>Obstinate</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Result</td>
 		      <td>LII</td><td>IEE</td>
 	    </tr>
