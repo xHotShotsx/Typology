@@ -446,7 +446,7 @@
 		      <td>ILI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(ST) "Innovation"</td>
+	    	  <td>dy(ST) "Utility"</td>
 		      <td>Sensory</td><td>Logical</td><td>Dynamic</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Asking</td>
 		      <td>LSE</td><td>SLI</td>
 	    </tr>
