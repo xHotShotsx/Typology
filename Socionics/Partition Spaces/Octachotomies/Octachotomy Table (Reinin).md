@@ -594,7 +594,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>P(F.)+ "Ambition"</td>
-		      <td>Ethical</td><td>Irrational</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Ethical</td><td>Irrational</td><td>Farsighted</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Asking</td>
 		      <td>IEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
@@ -613,7 +613,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Ethical</td><td>Intuitive</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Ethical</td><td>Static</td><td>Logical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
