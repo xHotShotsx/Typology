@@ -222,7 +222,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Introverted</td><td>Logical</td><td>Logical</td><td>Constructivist</td><td></td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>ILI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
