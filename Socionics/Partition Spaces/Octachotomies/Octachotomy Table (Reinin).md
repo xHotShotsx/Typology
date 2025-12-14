@@ -251,7 +251,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Logical</td><td>Obstinate</td><td>Strategic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Logical</td><td>Obstinate</td><td>Strategic</td><td>Judicious</td><td>Result</td><td>Asking</td>
 		      <td>LII</td><td>SLI</td>
 	    </tr>
 	    <tr>
