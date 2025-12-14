@@ -485,7 +485,7 @@
 		      <td>LII</td><td>EIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>? "Innovation"</td>
 		      <td>Sensory</td><td>Rational</td><td>Obstinate</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Declaring</td>
 		      <td>ESE</td><td>LSI</td>
 	    </tr>
