@@ -75,12 +75,12 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Introverted</td><td>Sensory</td><td>Irrational</td><td>Farsighted</td><td>Dynamic</td><td>Tactical</td><td>Decisive</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>SEI</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Extroverted</td><td>Sensory</td><td>Irrational</td><td>Farsighted</td><td>Static</td><td>Strategic</td><td>Decisive</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>SLE</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
