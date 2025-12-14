@@ -564,12 +564,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>P(F.)- "Elicitation"</td>
-		      <td>Ethical</td><td>Irrational</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Ethical</td><td>Irrational</td><td>Carefree</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Declaring</td>
 		      <td>SEI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>T+ "Formulation"</td>
-		      <td>Logical</td><td>Rational</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Logical</td><td>Rational</td><td>Carefree</td><td>Emotivist</td><td>Positiv</td><td>Democratic</td><td>Positivist</td>
 		      <td>LSI</td><td>LIE</td>
 	    </tr>
 	    <tr>
