@@ -318,12 +318,12 @@
 		      <td>ILE</td><td>ESE</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Innovation"</td>
+	    	  <td>Gi "Innovation"</td>
 		      <td>Introverted</td><td>Democratic</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>e "Innovation"</td>
 		      <td>Extroverted</td><td>Aristocratic</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LSE</td><td>IEE</td>
 	    </tr>
