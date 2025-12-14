@@ -176,12 +176,12 @@
 		      <td>ILI</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Pe(F.) "Motivation"</td>
 		      <td>Extroverted</td><td>Ethical</td><td>Irrational</td><td>Obstinate</td><td>Static</td><td>Emotivist</td><td>Serious</td>
 		      <td>SEE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Pi(F.) "Innovation"</td>
+	    	  <td>Pi(F.) "Impression"</td>
 		      <td>Introverted</td><td>Ethical</td><td>Irrational</td><td>Yielding</td><td>Dynamic</td><td>Emotivist</td><td>Merry</td>
 		      <td>SEI</td><td>IEI</td>
 	    </tr>
