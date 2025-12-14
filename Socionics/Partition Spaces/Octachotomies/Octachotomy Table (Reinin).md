@@ -560,12 +560,12 @@
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
 		      <td>Logical</td><td>Irrational</td><td>Yielding</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Asking</td>
-		      <td>ILE</td><td></td>
+		      <td>ILE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Ethical</td><td>Irrational</td><td>Yielding</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>SEI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
