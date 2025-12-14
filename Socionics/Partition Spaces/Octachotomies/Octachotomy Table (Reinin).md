@@ -74,8 +74,8 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Sensory</td><td>Irrational</td><td>Farsighted</td><td>Dynamic</td><td>Tactical</td><td>Decisive</td>
-		      <td>SEI</td><td>SLI</td>
+		      <td>Introverted</td><td>Intuitive</td><td>Irrational</td><td>Farsighted</td><td>Dynamic</td><td>Tactical</td><td>Decisive</td>
+		      <td>IEI</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
@@ -85,12 +85,12 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Introverted</td><td>Sensory</td><td>Irrational</td><td>Carefree</td><td>Dynamic</td><td>Strategic</td><td>Judicious</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>SEI</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Extroverted</td><td>Sensory</td><td>Rational</td><td>Farsighted</td><td>Dynamic</td><td>Tactical</td><td>Judicious</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>ESE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
