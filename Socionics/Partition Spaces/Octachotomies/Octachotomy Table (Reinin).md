@@ -313,17 +313,17 @@
 	      <td><b>E</b></td><td><b>NT</b></td><td><b>NP</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>ETP</b></td>
 	      </tr>
 		 <tr>
-			  <td>Ae "Innovation"</td>
+			  <td>Ae "Illustration"</td>
 		      <td>Extroverted</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Merry</td>
 		      <td>ILE</td><td>ESE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Γi "Innovation"</td>
+	    	  <td>Γi "Regard"</td>
 		      <td>Introverted</td><td>Democratic</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Δe "Innovation"</td>
+	    	  <td>Δe "Indiic"</td>
 		      <td>Extroverted</td><td>Aristocratic</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LSE</td><td>IEE</td>
 	    </tr>
