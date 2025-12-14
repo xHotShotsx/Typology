@@ -328,7 +328,7 @@
 		      <td>LSE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Bi "Innovation"</td>
+	    	  <td>Bi "Prescription"</td>
 		      <td>Introverted</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Merry</td>
 		      <td>LSI</td><td>IEI</td>
 	    </tr>
