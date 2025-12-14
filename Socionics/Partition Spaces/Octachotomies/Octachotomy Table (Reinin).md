@@ -320,7 +320,7 @@
 	    <tr>
 	    	  <td> "Innovation"</td>
 		      <td>Introverted</td><td>Democratic</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>ILI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
