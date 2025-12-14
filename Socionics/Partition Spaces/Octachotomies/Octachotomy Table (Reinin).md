@@ -324,12 +324,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>Δe "Practice"</td>
-		      <td>Extroverted</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td></td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Serious</td>
 		      <td>LSE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Bi "Innovation"</td>
-		      <td>Introverted</td><td>Aristocratic</td><td>Tactical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Yielding</td><td>Decisive</td><td>Merry</td>
 		      <td>LSI</td><td>IEI</td>
 	    </tr>
 	    <tr>
