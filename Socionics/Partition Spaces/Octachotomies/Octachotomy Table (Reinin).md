@@ -579,12 +579,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>T- "Schematisation"</td>
-		      <td>Logical</td><td>Rational</td><td>Farsighted</td><td>Emotivist</td><td></td><td>Democratic</td><td>Positivist</td>
+		      <td>Logical</td><td>Rational</td><td>Farsighted</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Asking</td>
 		      <td>LII</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>F+ "Esteem"</td>
-		      <td>Ethical</td><td>Rational</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Ethical</td><td>Rational</td><td>Farsighted</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Declaring</td>
 		      <td>ESE</td><td>EII</td>
 	    </tr>
 	    <tr>
