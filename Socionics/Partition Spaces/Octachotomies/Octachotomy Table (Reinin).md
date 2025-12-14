@@ -181,22 +181,22 @@
 		      <td>SEE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Pi(F.) "Innovation"</td>
 		      <td>Introverted</td><td>Ethical</td><td>Irrational</td><td>Yielding</td><td>Dynamic</td><td>Emotivist</td><td>Merry</td>
 		      <td>SEI</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Fe "Emotion"</td>
 		      <td>Extroverted</td><td>Ethical</td><td>Rational</td><td>Obstinate</td><td>Dynamic</td><td>Constructivist</td><td>Merry</td>
 		      <td>ESE</td><td>EIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Fi "Character"</td>
 		      <td>Introverted</td><td>Ethical</td><td>Rational</td><td>Yielding</td><td>Static</td><td>Constructivist</td><td>Serious</td>
 		      <td>ESI</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>Te "Innovation"</td>
+	    	  <td>Te "Application"</td>
 		      <td>Extroverted</td><td>Logical</td><td>Rational</td><td>Yielding</td><td>Dynamic</td><td>Emotivist</td><td>Serious</td>
 		      <td>LIE</td><td>LSE</td>
 	    </tr>
