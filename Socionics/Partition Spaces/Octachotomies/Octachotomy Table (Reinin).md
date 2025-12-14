@@ -245,7 +245,7 @@
 		      <td>SEI</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(T)e ""</td>
+	    	  <td>!(T)e "Enterprise"</td>
 		      <td>Extroverted</td><td>Logical</td><td>Yielding</td><td>Strategic</td><td>Decisive</td><td>Result</td><td>Declaring</td>
 		      <td>SLE</td><td>LIE</td>
 	    </tr>
