@@ -417,7 +417,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>st(ST) "Innovation"</td>
-		      <td>Sensory</td><td>Logical</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Sensory</td><td>Logical</td><td>Static</td><td>Aristocratic</td><td></td><td>Democratic</td><td>Positivist</td>
 		      <td>LSI</td><td>SLE</td>
 	    </tr>
 	    <tr>
