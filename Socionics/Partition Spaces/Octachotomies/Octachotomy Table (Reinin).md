@@ -525,17 +525,17 @@
 	    </tr>
 	    <tr>
 	    	  <td>dy(T>S) "Innovation"</td>
-		      <td>Sensory</td><td>Dynamic</td><td>Yielding</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Negativist</td>
+		      <td>Sensory</td><td>Dynamic</td><td>Yielding</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Process</td>
 		      <td>SEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(F>N) "Innovation"</td>
-		      <td>Intuitive</td><td>Dynamic</td><td>Obstinate</td><td>Constructivist</td><td></td><td>Democratic</td><td>Positivist</td>
+		      <td>Intuitive</td><td>Dynamic</td><td>Obstinate</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Process</td>
 		      <td>EIE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(F>S) "Innovation"</td>
-		      <td>Sensory</td><td>Dynamic</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Sensory</td><td>Dynamic</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Result</td>
 		      <td>ESE</td><td>SLI</td>
 	    </tr>
 	    <tr>
