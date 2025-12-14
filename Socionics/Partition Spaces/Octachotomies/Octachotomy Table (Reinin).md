@@ -166,12 +166,12 @@
 	      <td><b>E</b></td><td><b>T</b></td><td><b>P</b></td><td><b>ET</b></td><td><b>EP</b></td><td><b>TP</b></td><td><b>ETP</b></td>
 	      </tr>
 		 <tr>
-			  <td>(NT)e "Innovation"</td>
+			  <td>Pe(T.) "Operation"</td>
 		      <td>Extroverted</td><td>Logical</td><td>Irrational</td><td>Yielding</td><td>Static</td><td>Constructivist</td><td>Merry</td>
 		      <td>ILE</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Pi(T.) "Examination"</td>
 		      <td>Introverted</td><td>Logical</td><td>Irrational</td><td>Obstinate</td><td>Dynamic</td><td>Constructivist</td><td>Serious</td>
 		      <td>ILI</td><td>SLI</td>
 	    </tr>
