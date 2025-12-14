@@ -117,7 +117,7 @@
 	      <td><b>E</b></td><td><b>N</b></td><td><b>EN</b></td><td><b>TP</b></td><td><b>ETP</b></td><td><b>NTP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>(NT)e "Innovation"</td>
+			  <td>(IF) "Innovation"</td>
 		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Constructivist</td><td>Merry</td><td>Process</td><td>Asking</td>
 		      <td>ILE</td><td>EIE</td>
 	    </tr>
