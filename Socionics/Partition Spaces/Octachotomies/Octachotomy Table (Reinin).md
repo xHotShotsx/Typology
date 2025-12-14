@@ -748,6 +748,8 @@
 </table>
 </div>
 
+# $$ f'-1(x) \to f(x)  $$
+
 
 # References
 
