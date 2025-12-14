@@ -168,7 +168,7 @@
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
 		      <td>Extroverted</td><td>Logical</td><td>Irrational</td><td>Yielding</td><td>Static</td><td>Constructivist</td><td>Merry</td>
-		      <td>ILE</td><td></td>
+		      <td>ILE</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
@@ -217,7 +217,7 @@
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
 		      <td>Extroverted</td><td>Logical</td><td>Yielding</td><td>Tactical</td><td>Judicious</td><td>Process</td><td>Asking</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>ILE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
