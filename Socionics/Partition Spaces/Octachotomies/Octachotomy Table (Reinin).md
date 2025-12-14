@@ -569,17 +569,17 @@
 	    </tr>
 	    <tr>
 	    	  <td>T+ "Formulation"</td>
-		      <td>Logical</td><td>Rational</td><td>Carefree</td><td>Emotivist</td><td>Positiv</td><td>Democratic</td><td>Positivist</td>
+		      <td>Logical</td><td>Rational</td><td>Carefree</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Declaring</td>
 		      <td>LSI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>F- "Preference"</td>
-		      <td>Ethical</td><td>Rational</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Ethical</td><td>Rational</td><td>Carefree</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Asking</td>
 		      <td>EIE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>T- "Schematisation"</td>
-		      <td>Logical</td><td>Rational</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Logical</td><td>Rational</td><td>Farsighted</td><td>Emotivist</td><td></td><td>Democratic</td><td>Positivist</td>
 		      <td>LII</td><td>LSE</td>
 	    </tr>
 	    <tr>
