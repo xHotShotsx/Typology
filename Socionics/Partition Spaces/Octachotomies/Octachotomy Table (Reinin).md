@@ -367,22 +367,22 @@
 		      <td>ILE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>P(ST) "Innovation"</td>
 		      <td>Sensory</td><td>Logical</td><td>Irrational</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Result</td>
 		      <td>SLE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>P(NF) "Innovation"</td>
 		      <td>Intuitive</td><td>Ethical</td><td>Irrational</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Result</td>
 		      <td>IEI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>P(SF) "Innovation"</td>
 		      <td>Sensory</td><td>Ethical</td><td>Irrational</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Process</td>
 		      <td>SEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>(NT) "Innovation"</td>
 		      <td>Intuitive</td><td>Ethical</td><td>Rational</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Process</td>
 		      <td>EIE</td><td>EII</td>
 	    </tr>
