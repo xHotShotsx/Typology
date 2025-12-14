@@ -280,17 +280,17 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Democratic</td><td>Negativist</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Democratic</td><td>Negativist</td><td>Result</td><td>Asking</td>
 		      <td>LII</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Aristocratic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Aristocratic</td><td>Negativist</td><td>Process</td><td>AAsking</td>
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Aristocratic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Aristocratic</td><td>Proces</td><td>Democratic</td><td>Positivist</td>
 		      <td>LSI</td><td>EII</td>
 	    </tr>
 	    <tr>
