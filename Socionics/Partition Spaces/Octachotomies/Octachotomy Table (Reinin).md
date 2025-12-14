@@ -362,7 +362,7 @@
 	      <td><b>N</b></td><td><b>T</b></td><td><b>P</b></td><td><b>NT</b></td><td><b>NP</b></td><td><b>TP</b></td><td><b>NTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>P(NT) "Innovation"</td>
+			  <td>P(NT) "Conception"</td>
 		      <td>Intuitive</td><td>Logical</td><td>Irrational</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Process</td>
 		      <td>ILE</td><td>ILI</td>
 	    </tr>
