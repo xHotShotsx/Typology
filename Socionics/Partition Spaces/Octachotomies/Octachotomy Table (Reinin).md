@@ -519,17 +519,17 @@
 		      <td>SLE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Innovation"</td>
+	    	  <td>dy(T>N) "Innovation"</td>
 		      <td>Intuitive</td><td>Dynamic</td><td>Yielding</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>IEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>dy(T>S) "Innovation"</td>
 		      <td>Sensory</td><td>Dynamic</td><td>Yielding</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>SEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>dy "Innovation"</td>
 		      <td>Intuitive</td><td>Dynamic</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
