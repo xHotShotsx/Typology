@@ -442,12 +442,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>dy(NT) "Innovation"</td>
-		      <td>Intuitive</td><td>Logical</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Intuitive</td><td>Logical</td><td>Dynamic</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Declaring</td>
 		      <td>ILI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(ST) "Innovation"</td>
-		      <td>Sensory</td><td>Logical</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Sensory</td><td>Logical</td><td>Dynamic</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Asking</td>
 		      <td>LSE</td><td>SLI</td>
 	    </tr>
 	    <tr>
