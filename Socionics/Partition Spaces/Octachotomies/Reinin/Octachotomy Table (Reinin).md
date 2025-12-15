@@ -127,7 +127,7 @@
 		      <td>ILI</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(S)e "Innovation"</td>
+	    	  <td>!(S)e "Presence"</td>
 		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Constructivist</td><td>Merry</td><td>Result</td><td>Declaring</td>
 		      <td>ESE</td><td>SLE</td>
 	    </tr>
