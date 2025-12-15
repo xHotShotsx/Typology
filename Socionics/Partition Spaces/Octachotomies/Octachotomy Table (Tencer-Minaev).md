@@ -207,7 +207,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>5</b></td>
-	      <td rowspan="2"><b>Democratic Benefactors with Aristocratic Beneficia</b></td>
+	      <td rowspan="2"><b>Democratic Benefactors with Aristocratic Beneficiaries</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/5.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -305,7 +305,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>7</b></td>
-	      <td rowspan="2"><b>Activators</b></td>
+	      <td rowspan="2"><b>Semi-duals</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/7.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -403,7 +403,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>9</b></td>
-	      <td rowspan="2"><b>Mirrors</b></td>
+	      <td rowspan="2"><b>Kindreds</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/9.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -697,7 +697,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>15</b></td>
-	      <td rowspan="2"><b>Conflictors</b></td>
+	      <td rowspan="2"><b>Lookalikes</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/15.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
