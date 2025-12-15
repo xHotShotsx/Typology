@@ -21,7 +21,7 @@
 		 <tr>
 			  <td>(NT)e "Innovation"</td>
 		      <td>Asking</td><td>1stAbstract</td><td>1stInternal</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>ILE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)i "Comprehension"</td>
