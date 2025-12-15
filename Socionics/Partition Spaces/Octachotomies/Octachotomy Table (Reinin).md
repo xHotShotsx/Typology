@@ -731,12 +731,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>dy(N|F) "Innovation"</td>
-		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td></td>
+		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Declaring</td>
 		      <td>ESE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(S|T) "Innovation"</td>
-		      <td>Carefree</td><td>Yielding</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Carefree</td><td>Yielding</td><td>Dynamic</td><td>Democratic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
