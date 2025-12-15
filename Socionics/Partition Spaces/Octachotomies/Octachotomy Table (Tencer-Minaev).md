@@ -653,7 +653,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>D</b></td><td><b>QA</b></td><td><b>QI</b></td><td><b>AI</b></td><td><b>QA</b></td><td><b>ETP</b></td><td><b>NTP</b></td>
+	      <td><b>D</b></td><td><b>QA</b></td><td><b>QI</b></td><td><b>AI</b></td><td><b>QAD</b></td><td><b>QID</b></td><td><b>AID</b></td>
 	      </tr>
 		 <tr>
 			  <td>Pα "Meaning"</td>
@@ -702,7 +702,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>EN</b></td><td><b>ET</b></td><td><b>EP</b></td><td><b>NT</b></td><td><b>NP</b></td><td><b>TP</b></td><td><b>ENTP</b></td>
+	      <td><b>QA</b></td><td><b>QI</b></td><td><b>QD</b></td><td><b>AI</b></td><td><b>AD</b></td><td><b>ID</b></td><td><b>QAID</b></td>
 	      </tr>
 		 <tr>
 			  <td>?(N|F) "Ramification"</td>
