@@ -359,7 +359,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>N</b></td><td><b>T</b></td><td><b>P</b></td><td><b>NT</b></td><td><b>NP</b></td><td><b>TP</b></td><td><b>NTP</b></td>
+	      <td><b>A</b></td><td><b>I</b></td><td><b>D</b></td><td><b>AI</b></td><td><b>AD</b></td><td><b>ID</b></td><td><b>AID</b></td>
 	      </tr>
 		 <tr>
 			  <td>P(NT) "Conception"</td>
