@@ -11,7 +11,7 @@
 	<tbody>
 	    <tr>
 	      <td rowspan="10"><b>1</b></td>
-	      <td rowspan="2"><b>Quasi Identicals</b></td>
+	      <td rowspan="2"><b>Mirages</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/1.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -60,7 +60,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>2</b></td>
-	      <td rowspan="2"><b>Irrational Kindreds and Rational Lookalikes</b></td>
+	      <td rowspan="2"><b>Democratic Mirrors and Aristocratic Conflictors</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/2.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
