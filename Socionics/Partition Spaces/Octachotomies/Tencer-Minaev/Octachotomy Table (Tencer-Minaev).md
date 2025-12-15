@@ -93,17 +93,17 @@
 		      <td>EIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ji(S.) "Constitution"</td>
+	    	  <td>!(S|F) "Guardianship"</td>
 		      <td>Declaring</td><td>1stInvolved</td><td>Aristocratic</td><td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td><td>1stGamma</td>
 		      <td>SLE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>Je(N.) "Discretion"</td>
+	    	  <td>?(N|T) "Discretion"</td>
 		      <td>Asking</td><td>1stAbstract</td><td>Aristocratic</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>1stGamma</td>
 		      <td>IEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ji(N.) "Disposition"</td>
+	    	  <td> "Disposition"</td>
 		      <td>Declaring</td><td>1stAbstract</td><td>Aristocratic</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stAlpha</td>
 		      <td>LSI</td><td>IEE</td>
 	    </tr>
