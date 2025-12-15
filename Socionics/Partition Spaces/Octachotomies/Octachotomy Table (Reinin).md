@@ -725,22 +725,22 @@
 		      <td>LII</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(S|F) "Characterisation"</td>
+	    	  <td>?(S|F) "Characterisation"</td>
 		      <td>Carefree</td><td>Obstinate</td><td>Dynamic</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Asking</td>
 		      <td>EIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(N|F) "Gist"</td>
+	    	  <td>!(N|F) "Gist"</td>
 		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Declaring</td>
 		      <td>ESE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(S|T) "Exposition"</td>
+	    	  <td>!(S|T) "Exposition"</td>
 		      <td>Carefree</td><td>Yielding</td><td>Dynamic</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Declaring</td>
 		      <td>SEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(N|T) "Permutation"</td>
+	    	  <td>!(N|T) "Permutation"</td>
 		      <td>Farsighted</td><td>Yielding</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Emotivist</td><td>Asking</td>
 		      <td>IEI</td><td>LSE</td>
 	    </tr>
