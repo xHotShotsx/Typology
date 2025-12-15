@@ -44,12 +44,12 @@
 		      <td>SEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(SF)i "Harmonisation"</td>
+	    	  <td>S- "Vigilance"</td>
 		      <td>Declaring</td><td>1stInvolved</td><td>1stExternal</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>Negativist</td>
 		      <td>SEI</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NF)e "Incitation"</td>
+	    	  <td> "Incitation"</td>
 		      <td>Asking</td><td>1stAbstract</td><td>1stExternal</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>Negativist</td>
 		      <td>LII</td><td>LSE</td>
 	    </tr>
