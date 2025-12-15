@@ -50,12 +50,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NF)e "Incitation"</td>
-		      <td>Asking</td><td>1stAbstract</td><td>1stExternal</td><td>2ndAlpha</td><td>2ndDelta</td><td>Aristocratic</td><td>Negativist</td>
+		      <td>Asking</td><td>1stAbstract</td><td>1stExternal</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>Negativist</td>
 		      <td>EIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NF)i "Narration"</td>
-		      <td>Declaring</td><td>1stAbstract</td><td>1stExternal</td><td>2ndGamma</td><td>2ndBeta</td><td>Aristocratic</td><td>Positivist</td>
+		      <td>Declaring</td><td>1stAbstract</td><td>1stExternal</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>Positivist</td>
 		      <td>IEI</td><td>EII</td>
 	    </tr>
 	    <tr>
