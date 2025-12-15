@@ -678,7 +678,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Irrational</td><td>Farsighted</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>SEE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
