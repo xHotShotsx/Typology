@@ -668,12 +668,12 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Irrational</td><td>Farsighted</td><td>Yielding</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td></td><td>LIE</td>
+		      <td>SLE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Rational</td><td>Farsighted</td><td>Yielding</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>ESE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
