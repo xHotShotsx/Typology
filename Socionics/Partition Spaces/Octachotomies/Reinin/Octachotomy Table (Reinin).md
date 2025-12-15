@@ -427,7 +427,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>?(SF) "Volition"</td>
-		      <td>Sensory</td><td>Ethical</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Asking</td>
+		      <td>Sensory</td><td>Ethical</td><td>Static</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Asking</td>
 		      <td>SEE</td><td>ESI</td>
 	    </tr>
 	    <tr>
