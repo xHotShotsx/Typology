@@ -100,7 +100,7 @@
 	    <tr>
 	    	  <td>Je(N.) "Discretion"</td>
 		      <td>Asking</td><td>1stAbstract</td><td>Aristocratic</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>1stGamma</td>
-		      <td>EIE</td><td>LIE</td>
+		      <td></td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji(N.) "Disposition"</td>
