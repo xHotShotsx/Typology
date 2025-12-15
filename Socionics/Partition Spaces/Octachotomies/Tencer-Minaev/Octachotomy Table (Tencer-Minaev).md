@@ -51,7 +51,7 @@
 	    <tr>
 	    	  <td>(NF)e "Incitation"</td>
 		      <td>Asking</td><td>1stAbstract</td><td>1stExternal</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>Negativist</td>
-		      <td></td><td>IEE</td>
+		      <td>LII</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NF)i "Narration"</td>
