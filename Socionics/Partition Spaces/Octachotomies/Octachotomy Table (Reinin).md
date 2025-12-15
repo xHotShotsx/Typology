@@ -710,7 +710,7 @@
 		      <td>ILE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(S|F) ""</td>
+	    	  <td>st(S|F) "Typification"</td>
 		      <td>Farsighted</td><td>Yielding</td><td>Static</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Declaring</td>
 		      <td>SLE</td><td>EII</td>
 	    </tr>
@@ -725,7 +725,7 @@
 		      <td>LII</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(S|F) "Innovation"</td>
+	    	  <td>dy(S|F) "Characterisation"</td>
 		      <td>Carefree</td><td>Obstinate</td><td>Dynamic</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Asking</td>
 		      <td>EIE</td><td>SLI</td>
 	    </tr>
