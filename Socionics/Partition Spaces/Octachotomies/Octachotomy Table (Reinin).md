@@ -613,37 +613,37 @@
 	    </tr>
 	    <tr>
 	    	  <td>st(N>F) "Expectation"</td>
-		      <td>Ethical</td><td>Static</td><td>Carefree</td><td>Tactical</td><td>Negativis</td><td></td><td>Positivist</td>
+		      <td>Ethical</td><td>Static</td><td>Carefree</td><td>Tactical</td><td>Negativis</td><td>Serious</td><td>Result</td>
 		      <td>ESI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(S>T) "Appraisal"</td>
-		      <td>Logical</td><td>Dynamic</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Logical</td><td>Dynamic</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Result</td>
 		      <td>LIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(S>F) "Desire"</td>
-		      <td>Ethical</td><td>Dynamic</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Ethical</td><td>Dynamic</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Process</td>
 		      <td>SEI</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(N>T) "Task"</td>
-		      <td>Logical</td><td>Dynamic</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Logical</td><td>Dynamic</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Process</td>
 		      <td>ILI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(N>F) "Morale"</td>
-		      <td>Ethical</td><td>Dynamic</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Ethical</td><td>Dynamic</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Result</td>
 		      <td>ESE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>st(S>T) "Requirement"</td>
-		      <td>Logical</td><td>Static</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Logical</td><td>Static</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Result</td>
 		      <td>LII</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>st(S>F) "Conviction"</td>
-		      <td>Ethical</td><td>Static</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Ethical</td><td>Static</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Process</td>
 		      <td>SEE</td><td>EII</td>
 	    </tr>
 	    <tr>
