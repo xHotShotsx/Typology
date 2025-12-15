@@ -656,22 +656,22 @@
 	      <td><b>P</b></td><td><b>EN</b></td><td><b>ET</b></td><td><b>NT</b></td><td><b>ENP</b></td><td><b>ETP</b></td><td><b>NTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>Pα "Innovation"</td>
+			  <td>Pα "Meaning"</td>
 		      <td>Irrational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Process</td>
 		      <td>ILE</td><td>SEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Jγ "Innovation"</td>
+	    	  <td>Jγ "Priority"</td>
 		      <td>Rational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Result</td>
 		      <td>LIE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Pβ "Innovation"</td>
+	    	  <td>Pβ "Import"</td>
 		      <td>Irrational</td><td>Farsighted</td><td>Yielding</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Result</td>
 		      <td>SLE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Jδ "Innovation"</td>
+	    	  <td>Jδ "Value"</td>
 		      <td>Rational</td><td>Farsighted</td><td>Yielding</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Process</td>
 		      <td>LSE</td><td>EII</td>
 	    </tr>
