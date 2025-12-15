@@ -706,7 +706,7 @@
 	      </tr>
 		 <tr>
 			  <td>?(N|F) "Ramification"</td>
-		      <td>2ndAlpha</td><td>2ndBeta</td><td>Static</td><td>Democratic</td><td>2ndAbstract</td><td>2ndExternal</td><td>Extroverted</td>
+		      <td>2ndAlpha</td><td>2ndBeta</td><td>Static</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Extroverted</td>
 		      <td>ILE</td><td>ESI</td>
 	    </tr>
 	    <tr>
