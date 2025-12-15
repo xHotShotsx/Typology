@@ -612,12 +612,12 @@
 		      <td>ILE</td><td>LSI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT) "Innovation"</td>
+	    	  <td>st(N>F) "Innovation"</td>
 		      <td>Ethical</td><td>Static</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ESI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>dy(S>T) "Innovation"</td>
 		      <td>Logical</td><td>Dynamic</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LIE</td><td>SLI</td>
 	    </tr>
