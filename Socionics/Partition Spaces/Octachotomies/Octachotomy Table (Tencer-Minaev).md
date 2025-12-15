@@ -310,7 +310,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>E</b></td><td><b>NT</b></td><td><b>NP</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>ETP</b></td>
+	      <td><b>Q</b></td><td><b>AI</b></td><td><b>AD</b></td><td><b>ID</b></td><td><b>QAI</b></td><td><b>QAD</b></td><td><b>QID</b></td>
 	      </tr>
 		 <tr>
 			  <td>Ae "Illustration"</td>
