@@ -634,17 +634,17 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Ethical</td><td>Dynamic</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ESE</td><td>LIE</td>
+		      <td>ESE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Logical</td><td>Static</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>LII</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Ethical</td><td>Static</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td>EII</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>14</b></td>
