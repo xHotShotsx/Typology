@@ -408,7 +408,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>N</b></td><td><b>T</b></td><td><b>EP</b></td><td><b>NT</b></td><td><b>ENP</b></td><td><b>ETP</b></td><td><b>ENTP</b></td>
+	      <td><b>A</b></td><td><b>I</b></td><td><b>QD</b></td><td><b>NT</b></td><td><b>ENP</b></td><td><b>ETP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
 			  <td>?(NT) "Interpretation"</td>
