@@ -1307,9 +1307,9 @@ The induced group $\mathcal{R}_i$ is the relation group associated with the dich
 
 # $E_{16}$-Set Models
 
-A set model is a pair ($X, G$) consisting of a set $X$ together with a left action of a group $G$. In the present framework, an $E_{16}$-set model is any set model that carries an action of the group, which is the vector space representation associated with a given dichotomy system. For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathcal{R}_i$ acts on a corresponding set model. 
+A set model is a pair ($X, G$) consisting of a set $X$ together with a left action of a group $G$. In the present framework, an $E_{16}$-set model is any set model that carries an action of the group, which is the vector space representation associated with a given dichotomy system. For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathbf{V}_i$ acts on a corresponding set model. 
 
-Formally, an $E_{16}$-set model is a pair $$ (X_{i}, \rho_{i}), \quad \rho_{i} : \mathcal{R}_{i} \curvearrowright X_{i}$$where $X_i$ is the underlying set and $\rho_i$ is the group action.
+Formally, an $E_{16}$-set model is a pair $$ (X_{i}, \rho_{i}), \quad \rho_{i} : \mathbf{V}_{i} \curvearrowright X_{i}$$where $X_i$ is the underlying set and $\rho_i$ is the group action.
 
 Since there are 16 dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}\}$, there are correspondingly up to 16 possible $E_{16}$-set models ($X_{i}, \rho_{i}$), each associated to its induced relation group $\mathbf{V}_i$.
 
@@ -1318,7 +1318,7 @@ Prominent examples of such $E_{16}$-set models include Model L and Model W, whic
 Functions are the positions in a functional schema; monadic (signed) elements are the informational atoms that occupy these positions. For a dichotomy system $\mathcal{D}_i$, let $P_i$ denote the set of functions for an $i$ model and $\mathcal{E}$ the set of monadic elements. The functional configuration space is $X_i = \mathcal{E}^{P_{i}}$, with the induced relation group $\mathbf{V}_i$ acting via $\rho_i : \mathbf{V}_{i} \curvearrowright X_{i}$. A functional layout for a type $t$ is an element $L_i(t) \in X_{i}$. A bijection $\Theta_i : T \to X_{i}$ is equivariant if $$\Theta_{i}(v \cdot t) = \rho_{i}(v)(\Theta_{i}(t)), \quad \forall v \in \mathbf{V}_{i}.$$
 When this holds, the type-level transformations and the functional-layout transformations are isomorphic; applying a relation has the same effect as applying it to the layout itself.
 
-For example, in Model L, applying the operator $A_{3}$ to the type ILE permutes the elements in the subgroup $$\{A_{1}, A_{3}\} \subseteq \mathbf{V}_{15},$$together with all of its cosets in the $\mathcal{R}_{15}$-space, meaning that the new identity becomes $A_3(\text{ILE}) = \text{ILI}$ and all of the intertype relations transform accordingly by left multiplication with $A_{3}$.
+For example, in Model L, applying the operator $A_{3}$ to the type ILE permutes the elements in the subgroup $$\{A_{1}, A_{3}\} \subseteq \mathbf{V}_{15},$$together with all of its cosets in the $\mathbf{V}_{15}$-space, meaning that the new identity becomes $A_3(\text{ILE}) = \text{ILI}$ and all of the intertype relations transform accordingly by left multiplication with $A_{3}$.
 
 Under the equivariant bijection $\Theta_{15}$, this corresponds exactly to the same permutation acting on the ILE's functional layout: the functions occupying positions inside that subgroup (and their associated cosets) are swapped in the set model by the action $\rho_{15}(A_{3})$. Thus, $$A_{3} \cdot t \quad \text{and} \quad \rho_{15}(A_{3}) \cdot L_{15}(t)$$implement the same transformation in two different representations of the same underlying structure.
 
