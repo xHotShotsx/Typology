@@ -363,12 +363,12 @@
 	      </tr>
 		 <tr>
 			  <td>P(NT) "Conception"</td>
-		      <td>1stAbstract</td><td>1stInternal</td><td>Irrational</td><td>Democratic</td><td>2ndAbstract</td><td>2ndExternal</td><td>Process</td>
+		      <td>1stAbstract</td><td>1stInternal</td><td>Democratic</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Process</td>
 		      <td>ILE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(ST) "Modulation"</td>
-		      <td>1stInvolved</td><td>1stInternal</td><td>Irrational</td><td>Aristocratic</td><td>2ndInvolved</td><td>2ndExternal</td><td>Result</td>
+		      <td>1stInvolved</td><td>1stInternal</td><td>Democratic</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Result</td>
 		      <td>SLE</td><td>SLI</td>
 	    </tr>
 	    <tr>
