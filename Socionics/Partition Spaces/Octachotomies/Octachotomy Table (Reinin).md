@@ -426,27 +426,27 @@
 		      <td>EII</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(SF) "Volition"</td>
+	    	  <td>?(SF) "Volition"</td>
 		      <td>Sensory</td><td>Ethical</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Asking</td>
 		      <td>SEE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(NF) "Aspiration"</td>
+	    	  <td>?(NF) "Aspiration"</td>
 		      <td>Intuitive</td><td>Ethical</td><td>Dynamic</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Asking</td>
 		      <td>EIE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(SF) "Aesthesis"</td>
+	    	  <td>!(SF) "Aesthesis"</td>
 		      <td>Sensory</td><td>Ethical</td><td>Dynamic</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Declaring</td>
 		      <td>SEI</td><td>ESE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(NT) "Strategy"</td>
+	    	  <td>!(NT) "Strategy"</td>
 		      <td>Intuitive</td><td>Logical</td><td>Dynamic</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Declaring</td>
 		      <td>ILI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(ST) "Utility"</td>
+	    	  <td>?(ST) "Utility"</td>
 		      <td>Sensory</td><td>Logical</td><td>Dynamic</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Asking</td>
 		      <td>LSE</td><td>SLI</td>
 	    </tr>
@@ -705,22 +705,22 @@
 	      <td><b>EN</b></td><td><b>ET</b></td><td><b>EP</b></td><td><b>NT</b></td><td><b>NP</b></td><td><b>TP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>st(N|F) "Ramification"</td>
+			  <td>?(N|F) "Ramification"</td>
 		      <td>Carefree</td><td>Yielding</td><td>Static</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Asking</td>
 		      <td>ILE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(S|F) "Typification"</td>
+	    	  <td>!(S|F) "Typification"</td>
 		      <td>Farsighted</td><td>Yielding</td><td>Static</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Declaring</td>
 		      <td>SLE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(N|T) "Iteration"</td>
+	    	  <td>!(N|T) "Iteration"</td>
 		      <td>Carefree</td><td>Obstinate</td><td>Static</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Declaring</td>
 		      <td>LSI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(S|T) "Extrapolation"</td>
+	    	  <td>?(S|T) "Extrapolation"</td>
 		      <td>Farsighted</td><td>Obstinate</td><td>Static</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Asking</td>
 		      <td>LII</td><td>SEE</td>
 	    </tr>
