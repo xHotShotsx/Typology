@@ -65,7 +65,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>Q</b></td><td><b>A</b></td><td><b>D</b></td><td><b>QA</b></td><td><b>QD</b></td><td><b>AD</b></td><td><b>ENP</b></td>
+	      <td><b>Q</b></td><td><b>A</b></td><td><b>D</b></td><td><b>QA</b></td><td><b>QD</b></td><td><b>AD</b></td><td><b>QAD</b></td>
 	      </tr>
 		 <tr>
 			  <td>Ne "Imagination"</td>
@@ -114,7 +114,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>E</b></td><td><b>N</b></td><td><b>EN</b></td><td><b>TP</b></td><td><b>ETP</b></td><td><b>NTP</b></td><td><b>ENTP</b></td>
+	      <td><b>Q</b></td><td><b>A</b></td><td><b>QA</b></td><td><b>ID</b></td><td><b>QID</b></td><td><b>AID</b></td><td><b>QAID</b></td>
 	      </tr>
 		 <tr>
 			  <td>?(N)e "Wit"</td>
