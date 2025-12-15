@@ -637,7 +637,7 @@
 		      <td>ESE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(S>T) "Innovation"</td>
+	    	  <td>st(S>T) "Requirement"</td>
 		      <td>Logical</td><td>Static</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LII</td><td>SLE</td>
 	    </tr>
