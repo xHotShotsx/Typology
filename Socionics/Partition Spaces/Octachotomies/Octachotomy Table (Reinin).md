@@ -607,17 +607,17 @@
 	      <td><b>T</b></td><td><b>EP</b></td><td><b>EN</b></td><td><b>NP</b></td><td><b>ENT</b></td><td><b>ETP</b></td><td><b>NTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>st(N>T) "Presupposition"</td>
+			  <td>(N>T)+ "Presupposition"</td>
 		      <td>Logical</td><td>Static</td><td>Carefree</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Process</td>
 		      <td>ILE</td><td>LSI</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(N>F) "Expectation"</td>
+	    	  <td>(N>F)- "Expectation"</td>
 		      <td>Ethical</td><td>Static</td><td>Carefree</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Result</td>
 		      <td>ESI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(S>T) "Appraisal"</td>
+	    	  <td>(S>T) "Appraisal"</td>
 		      <td>Logical</td><td>Dynamic</td><td>Carefree</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Result</td>
 		      <td>LIE</td><td>SLI</td>
 	    </tr>
