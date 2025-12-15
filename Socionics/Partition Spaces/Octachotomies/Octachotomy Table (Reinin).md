@@ -617,32 +617,32 @@
 		      <td>ESI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(S>T) "Appraisal"</td>
+	    	  <td>(S>T)+ "Appraisal"</td>
 		      <td>Logical</td><td>Dynamic</td><td>Carefree</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Result</td>
 		      <td>LIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(S>F) "Desire"</td>
+	    	  <td>(S>F)- "Desire"</td>
 		      <td>Ethical</td><td>Dynamic</td><td>Carefree</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Process</td>
 		      <td>SEI</td><td>EIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(N>T) "Task"</td>
+	    	  <td>(N>T)- "Task"</td>
 		      <td>Logical</td><td>Dynamic</td><td>Farsighted</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Process</td>
 		      <td>ILI</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(N>F) "Morale"</td>
+	    	  <td>(N>F)+ "Morale"</td>
 		      <td>Ethical</td><td>Dynamic</td><td>Farsighted</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Result</td>
 		      <td>ESE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(S>T) "Requirement"</td>
+	    	  <td>(S>T)- "Requirement"</td>
 		      <td>Logical</td><td>Static</td><td>Farsighted</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Result</td>
 		      <td>LII</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(S>F) "Conviction"</td>
+	    	  <td>(S>F)+ "Conviction"</td>
 		      <td>Ethical</td><td>Static</td><td>Farsighted</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Process</td>
 		      <td>SEE</td><td>EII</td>
 	    </tr>
