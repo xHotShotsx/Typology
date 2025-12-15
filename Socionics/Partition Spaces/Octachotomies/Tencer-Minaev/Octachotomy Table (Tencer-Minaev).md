@@ -246,12 +246,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>!(T)e "Enterprise"</td>
-		      <td>Extroverted</td><td>1stInternal</td><td>2ndBeta</td><td>2ndInvolved</td><td>1stGamma</td><td>Result</td><td>Introverted</td>
+		      <td>Asking</td><td>1stInternal</td><td>2ndBeta</td><td>2ndInvolved</td><td>1stGamma</td><td>Result</td><td>Introverted</td>
 		      <td>SLE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(T)i "Acuity"</td>
-		      <td>Introverted</td><td>1stInternal</td><td>2ndDelta</td><td>2ndInvolved</td><td>1stAlpha</td><td>Result</td><td>Extroverted</td>
+		      <td>Declaring</td><td>1stInternal</td><td>2ndDelta</td><td>2ndInvolved</td><td>1stAlpha</td><td>Result</td><td>Extroverted</td>
 		      <td>LII</td><td>SLI</td>
 	    </tr>
 	    <tr>
@@ -265,42 +265,42 @@
 	      </tr>
 		 <tr>
 			  <td>Pe+ "Generation"</td>
-		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Democratic</td><td>Positivist</td><td>Process</td><td>Extroverted</td>
+		      <td>Asking</td><td>Irrational</td><td>Static</td><td>Democratic</td><td>Positivist</td><td>Process</td><td>Extroverted</td>
 		      <td>ILE</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pi- "Distillation"</td>
-		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Democratic</td><td>Negativist</td><td>Process</td><td>Introverted</td>
+		      <td>Declaring</td><td>Irrational</td><td>Dynamic</td><td>Democratic</td><td>Negativist</td><td>Process</td><td>Introverted</td>
 		      <td>SEI</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je+ "Discrimination"</td>
-		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Democratic</td><td>Positivist</td><td>Result</td><td>Introverted</td>
+		      <td>Asking</td><td>Rational</td><td>Dynamic</td><td>Democratic</td><td>Positivist</td><td>Result</td><td>Introverted</td>
 		      <td>ESE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji- "Collation"</td>
-		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Democratic</td><td>Negativist</td><td>Result</td><td>Extroverted</td>
+		      <td>Declaring</td><td>Rational</td><td>Static</td><td>Democratic</td><td>Negativist</td><td>Result</td><td>Extroverted</td>
 		      <td>LII</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je- "Elaboration"</td>
-		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Aristocratic</td><td>Negativist</td><td>Process</td><td>Extroverted</td>
+		      <td>Asking</td><td>Rational</td><td>Dynamic</td><td>Aristocratic</td><td>Negativist</td><td>Process</td><td>Extroverted</td>
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji+ "Innovation"</td>
-		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Aristocratic</td><td>Positivist</td><td>Process</td><td>Introverted</td>
+		      <td>Declaring</td><td>Rational</td><td>Static</td><td>Aristocratic</td><td>Positivist</td><td>Process</td><td>Introverted</td>
 		      <td>LSI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pe- "Intervention"</td>
-		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Aristocratic</td><td>Negativist</td><td>Result</td><td>Introverted</td>
+		      <td>Asking</td><td>Irrational</td><td>Static</td><td>Aristocratic</td><td>Negativist</td><td>Result</td><td>Introverted</td>
 		      <td>SLE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pi+ "Accession"</td>
-		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Aristocratic</td><td>Positivist</td><td>Result</td><td>Extroverted</td>
+		      <td>Declaring</td><td>Irrational</td><td>Dynamic</td><td>Aristocratic</td><td>Positivist</td><td>Result</td><td>Extroverted</td>
 		      <td>IEI</td><td>SLI</td>
 	    </tr>
 	    <tr>
@@ -314,27 +314,27 @@
 	      </tr>
 		 <tr>
 			  <td>Ae "Illustration"</td>
-		      <td>Extroverted</td><td>Democratic</td><td>2ndAbstract</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>1stDelta</td>
+		      <td>Asking</td><td>Democratic</td><td>2ndAbstract</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>1stDelta</td>
 		      <td>ILE</td><td>ESE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Γi "Regard"</td>
-		      <td>Introverted</td><td>Democratic</td><td>2ndAbstract</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stBeta</td>
+		      <td>Declaring</td><td>Democratic</td><td>2ndAbstract</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stBeta</td>
 		      <td>ILI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Δe "Practice"</td>
-		      <td>Extroverted</td><td>Aristocratic</td><td>2ndAbstract</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>1stBeta</td>
+		      <td>Asking</td><td>Aristocratic</td><td>2ndAbstract</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>1stBeta</td>
 		      <td>LSE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Bi "Prescription"</td>
-		      <td>Introverted</td><td>Aristocratic</td><td>2ndAbstract</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>1stDelta</td>
+		      <td>Declaring</td><td>Aristocratic</td><td>2ndAbstract</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>1stDelta</td>
 		      <td>LSI</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Βe "Demonstration"</td>
-		      <td>Extroverted</td><td>Aristocratic</td><td>2ndInvolved</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stDelta</td>
+		      <td>Declaring</td><td>Aristocratic</td><td>2ndInvolved</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stDelta</td>
 		      <td>EIE</td><td>SLE</td>
 	    </tr>
 	    <tr>
