@@ -686,12 +686,12 @@
 		      <td>ESE</td><td>LII</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Innovation"</td>
+	    	  <td>Pδ "Innovation"</td>
 		      <td>Irrational</td><td>Carefree</td><td>Obstinate</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Result</td>
 		      <td>IEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Jβ "Innovation"</td>
 		      <td>Rational</td><td>Carefree</td><td>Obstinate</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Process</td>
 		      <td>EIE</td><td>LSI</td>
 	    </tr>
@@ -705,22 +705,22 @@
 	      <td><b>EN</b></td><td><b>ET</b></td><td><b>EP</b></td><td><b>NT</b></td><td><b>NP</b></td><td><b>TP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>(NT)e "Innovation"</td>
+			  <td>st(N|F) "Innovation"</td>
 		      <td>Carefree</td><td>Yielding</td><td>Static</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Asking</td>
 		      <td>ILE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>st(S|F) "Innovation"</td>
 		      <td>Farsighted</td><td>Yielding</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SLE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>st(N|T) "Innovation"</td>
 		      <td>Carefree</td><td>Obstinate</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LSI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td> "Innovation"</td>
 		      <td>Farsighted</td><td>Obstinate</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LII</td><td>SEE</td>
 	    </tr>
