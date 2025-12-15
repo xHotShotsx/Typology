@@ -85,7 +85,7 @@
 	    <tr>
 	    	  <td>Si "Sensation"</td>
 		      <td>Declaring</td><td>1stInvolved</td><td>Democratic</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>1stAlpha</td>
-		      <td>SEI</td><td>ESI</td>
+		      <td>SEI</td><td>ESE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je(S.) "Interaction"</td>
