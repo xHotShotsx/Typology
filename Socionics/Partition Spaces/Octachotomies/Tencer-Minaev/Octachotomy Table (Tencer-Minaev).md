@@ -40,22 +40,22 @@
 	    </tr>
 	    <tr>
 	    	  <td>(SF)e "Animation"</td>
-		      <td>Extroverted</td><td>1stInvolved</td><td>Ethical</td><td>Farsighted</td><td>Obstinate</td><td>Democratic</td><td>Positivist</td>
+		      <td>Extroverted</td><td>1stInvolved</td><td>1stExternal</td><td>Farsighted</td><td>Obstinate</td><td>Democratic</td><td>Positivist</td>
 		      <td>ESE</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(SF)i "Harmonisation"</td>
-		      <td>Introverted</td><td>1stInvolved</td><td>Ethical</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Negativist</td>
+		      <td>Introverted</td><td>1stInvolved</td><td>1stExternal</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Negativist</td>
 		      <td>SEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NF)e "Incitation"</td>
-		      <td>Extroverted</td><td>1stAbstract</td><td>Ethical</td><td>Carefree</td><td>Obstinate</td><td>Aristocratic</td><td>Negativist</td>
+		      <td>Extroverted</td><td>1stAbstract</td><td>1stExternal</td><td>Carefree</td><td>Obstinate</td><td>Aristocratic</td><td>Negativist</td>
 		      <td>EIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NF)i "Narration"</td>
-		      <td>Introverted</td><td>1stAbstract</td><td>Ethical</td><td>Farsighted</td><td>Yielding</td><td>Aristocratic</td><td>Positivist</td>
+		      <td>Introverted</td><td>1stAbstract</td><td>1stExternal</td><td>Farsighted</td><td>Yielding</td><td>Aristocratic</td><td>Positivist</td>
 		      <td>IEI</td><td>EII</td>
 	    </tr>
 	    <tr>
@@ -177,22 +177,22 @@
 	    </tr>
 	    <tr>
 	    	  <td>Pe(F.) "Motivation"</td>
-		      <td>Extroverted</td><td>Ethical</td><td>Irrational</td><td>Obstinate</td><td>Static</td><td>Emotivist</td><td>Serious</td>
+		      <td>Extroverted</td><td>1stExternal</td><td>Irrational</td><td>Obstinate</td><td>Static</td><td>Emotivist</td><td>Serious</td>
 		      <td>SEE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pi(F.) "Impression"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Irrational</td><td>Yielding</td><td>Dynamic</td><td>Emotivist</td><td>Merry</td>
+		      <td>Introverted</td><td>1stExternal</td><td>Irrational</td><td>Yielding</td><td>Dynamic</td><td>Emotivist</td><td>Merry</td>
 		      <td>SEI</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Fe "Emotion"</td>
-		      <td>Extroverted</td><td>Ethical</td><td>Rational</td><td>Obstinate</td><td>Dynamic</td><td>Constructivist</td><td>Merry</td>
+		      <td>Extroverted</td><td>1stExternal</td><td>Rational</td><td>Obstinate</td><td>Dynamic</td><td>Constructivist</td><td>Merry</td>
 		      <td>ESE</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Fi "Character"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Rational</td><td>Yielding</td><td>Static</td><td>Constructivist</td><td>Serious</td>
+		      <td>Introverted</td><td>1stExternal</td><td>Rational</td><td>Yielding</td><td>Static</td><td>Constructivist</td><td>Serious</td>
 		      <td>ESI</td><td>EII</td>
 	    </tr>
 	    <tr>
@@ -226,22 +226,22 @@
 	    </tr>
 	    <tr>
 	    	  <td>!(F)e "Vivacity"</td>
-		      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td><td>Tactical</td><td>Judicious</td><td>Result</td><td>Declaring</td>
+		      <td>Extroverted</td><td>1stExternal</td><td>Obstinate</td><td>Tactical</td><td>Judicious</td><td>Result</td><td>Declaring</td>
 		      <td>ESE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(F)i "Predilection"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Tactical</td><td>Decisive</td><td>Result</td><td>Asking</td>
+		      <td>Introverted</td><td>1stExternal</td><td>Yielding</td><td>Tactical</td><td>Decisive</td><td>Result</td><td>Asking</td>
 		      <td>IEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(F)e "Ardour"</td>
-		      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td><td>Strategic</td><td>Decisive</td><td>Process</td><td>Asking</td>
+		      <td>Extroverted</td><td>1stExternal</td><td>Obstinate</td><td>Strategic</td><td>Decisive</td><td>Process</td><td>Asking</td>
 		      <td>EIE</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(F)i "Sensibility"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Strategic</td><td>Judicious</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>1stExternal</td><td>Yielding</td><td>Strategic</td><td>Judicious</td><td>Process</td><td>Declaring</td>
 		      <td>SEI</td><td>EII</td>
 	    </tr>
 	    <tr>
@@ -373,22 +373,22 @@
 	    </tr>
 	    <tr>
 	    	  <td>P(NF) "Spiration"</td>
-		      <td>1stAbstract</td><td>Ethical</td><td>Irrational</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Result</td>
+		      <td>1stAbstract</td><td>1stExternal</td><td>Irrational</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Result</td>
 		      <td>IEI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(SF) "Innervation"</td>
-		      <td>1stInvolved</td><td>Ethical</td><td>Irrational</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Process</td>
+		      <td>1stInvolved</td><td>1stExternal</td><td>Irrational</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Process</td>
 		      <td>SEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(NF) "Essence"</td>
-		      <td>1stAbstract</td><td>Ethical</td><td>Rational</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Process</td>
+		      <td>1stAbstract</td><td>1stExternal</td><td>Rational</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Process</td>
 		      <td>EIE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(SF) "Demeanour"</td>
-		      <td>1stInvolved</td><td>Ethical</td><td>Rational</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Result</td>
+		      <td>1stInvolved</td><td>1stExternal</td><td>Rational</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Result</td>
 		      <td>ESE</td><td>ESI</td>
 	    </tr>
 	    <tr>
@@ -422,22 +422,22 @@
 	    </tr>
 	    <tr>
 	    	  <td>?(NF) "Ethos"</td>
-		      <td>1stAbstract</td><td>Ethical</td><td>Static</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Declaring</td>
+		      <td>1stAbstract</td><td>1stExternal</td><td>Static</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Declaring</td>
 		      <td>EII</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(SF) "Volition"</td>
-		      <td>1stInvolved</td><td>Ethical</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Asking</td>
+		      <td>1stInvolved</td><td>1stExternal</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Asking</td>
 		      <td>SEE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(NF) "Aspiration"</td>
-		      <td>1stAbstract</td><td>Ethical</td><td>Dynamic</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Asking</td>
+		      <td>1stAbstract</td><td>1stExternal</td><td>Dynamic</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Asking</td>
 		      <td>EIE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(SF) "Aesthesis"</td>
-		      <td>1stInvolved</td><td>Ethical</td><td>Dynamic</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Declaring</td>
+		      <td>1stInvolved</td><td>1stExternal</td><td>Dynamic</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Declaring</td>
 		      <td>SEI</td><td>ESE</td>
 	    </tr>
 	    <tr>
@@ -564,7 +564,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>P(F.)- "Elicitation"</td>
-		      <td>Ethical</td><td>Irrational</td><td>Carefree</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Declaring</td>
+		      <td>1stExternal</td><td>Irrational</td><td>Carefree</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Declaring</td>
 		      <td>SEI</td><td>IEE</td>
 	    </tr>
 	    <tr>
@@ -574,7 +574,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>F- "Preference"</td>
-		      <td>Ethical</td><td>Rational</td><td>Carefree</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Asking</td>
+		      <td>1stExternal</td><td>Rational</td><td>Carefree</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Asking</td>
 		      <td>EIE</td><td>ESI</td>
 	    </tr>
 	    <tr>
@@ -584,7 +584,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>F+ "Esteem"</td>
-		      <td>Ethical</td><td>Rational</td><td>Farsighted</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Declaring</td>
+		      <td>1stExternal</td><td>Rational</td><td>Farsighted</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Declaring</td>
 		      <td>ESE</td><td>EII</td>
 	    </tr>
 	    <tr>
@@ -594,7 +594,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>P(F.)+ "Ambition"</td>
-		      <td>Ethical</td><td>Irrational</td><td>Farsighted</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Asking</td>
+		      <td>1stExternal</td><td>Irrational</td><td>Farsighted</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Asking</td>
 		      <td>IEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
@@ -613,7 +613,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(N>F)- "Expectation"</td>
-		      <td>Ethical</td><td>Static</td><td>Carefree</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Result</td>
+		      <td>1stExternal</td><td>Static</td><td>Carefree</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Result</td>
 		      <td>ESI</td><td>IEE</td>
 	    </tr>
 	    <tr>
@@ -623,7 +623,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(S>F)- "Desire"</td>
-		      <td>Ethical</td><td>Dynamic</td><td>Carefree</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Process</td>
+		      <td>1stExternal</td><td>Dynamic</td><td>Carefree</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Process</td>
 		      <td>SEI</td><td>EIE</td>
 	    </tr>
 	    <tr>
@@ -633,7 +633,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(N>F)+ "Morale"</td>
-		      <td>Ethical</td><td>Dynamic</td><td>Farsighted</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Result</td>
+		      <td>1stExternal</td><td>Dynamic</td><td>Farsighted</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Result</td>
 		      <td>ESE</td><td>IEI</td>
 	    </tr>
 	    <tr>
@@ -643,7 +643,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(S>F)+ "Conviction"</td>
-		      <td>Ethical</td><td>Static</td><td>Farsighted</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Process</td>
+		      <td>1stExternal</td><td>Static</td><td>Farsighted</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Process</td>
 		      <td>SEE</td><td>EII</td>
 	    </tr>
 	    <tr>
