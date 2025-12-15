@@ -142,17 +142,17 @@
 		      <td>SEE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(S)i "Innovation"</td>
+	    	  <td>!(S)i "Composure"</td>
 		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Emotivist</td><td>Merry</td><td>Process</td><td>Declaring</td>
 		      <td>SEI</td><td>LSI</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(N)e "Innovation"</td>
+	    	  <td>!(N)e "Ingenuity"</td>
 		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Emotivist</td><td>Serious</td><td>Result</td><td>Declaring</td>
 		      <td>LIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(N)i "Innovation"</td>
+	    	  <td>?(N)i "Erudition"</td>
 		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Emotivist</td><td>Merry</td><td>Result</td><td>Asking</td>
 		      <td>LII</td><td>IEI</td>
 	    </tr>
