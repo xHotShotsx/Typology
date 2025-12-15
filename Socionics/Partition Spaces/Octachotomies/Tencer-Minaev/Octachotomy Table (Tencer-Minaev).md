@@ -491,12 +491,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>N- "Prognosis"</td>
-		      <td>1stAbstract</td><td>Irrational</td><td>2ndDelta</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Introverted</td>
+		      <td>1stAbstract</td><td>Democratic</td><td>2ndDelta</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Introverted</td>
 		      <td>ILI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>S+ "Kinesthesis"</td>
-		      <td>1stInvolved</td><td>Irrational</td><td>2ndDelta</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Extroverted</td>
+		      <td>1stInvolved</td><td>Democratic</td><td>2ndDelta</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Extroverted</td>
 		      <td>SEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
