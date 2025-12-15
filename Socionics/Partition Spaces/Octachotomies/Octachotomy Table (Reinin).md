@@ -730,12 +730,12 @@
 		      <td>EIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Innovation"</td>
+	    	  <td>dy(N|F) "Innovation"</td>
 		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ESE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>dy(S|T) "Innovation"</td>
 		      <td>Carefree</td><td>Yielding</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SEI</td><td>LIE</td>
 	    </tr>
