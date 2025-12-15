@@ -742,7 +742,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Farsighted</td><td>Yielding</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ILE</td><td>LIE</td>
+		      <td></td><td>LIE</td>
 	    </tr>
 	</tbody>
 </table>
