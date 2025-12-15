@@ -622,17 +622,17 @@
 		      <td>LIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(S>F) "Innovation"</td>
+	    	  <td>dy(S>F) "Desire"</td>
 		      <td>Ethical</td><td>Dynamic</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SEI</td><td>EIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(N>T) "Innovation"</td>
+	    	  <td>dy(N>T) "Task"</td>
 		      <td>Logical</td><td>Dynamic</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILI</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(N>F) "Innovation"</td>
+	    	  <td>dy(N>F) "Morale"</td>
 		      <td>Ethical</td><td>Dynamic</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ESE</td><td>IEI</td>
 	    </tr>
