@@ -682,17 +682,17 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Rational</td><td>Farsighted</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Rational</td><td>Farsighted</td><td>Obstinate</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Result</td>
 		      <td>ESE</td><td>LII</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Irrational</td><td>Carefree</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Irrational</td><td>Carefree</td><td>Obstinate</td><td>Democratic</td><td>Judicious</td><td>Serious</td><td>Result</td>
 		      <td>IEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Rational</td><td>Carefree</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Rational</td><td>Carefree</td><td>Obstinate</td><td>Aristocratic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>EIE</td><td>LSI</td>
 	    </tr>
 	    <tr>
