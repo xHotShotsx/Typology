@@ -109,7 +109,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>3</b></td>
-	      <td rowspan="2"><b>Irrational Benefactors with Rational Beneficiaries</b></td>
+	      <td rowspan="2"><b>Democratic Beneficiaries with Aristocratic Benefactors</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/3.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -158,7 +158,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>4</b></td>
-	      <td rowspan="2"><b>Irrational Lookalikes and Rational Kindreds</b></td>
+	      <td rowspan="2"><b>Democratic  and Aristocratic Kindreds</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/4.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
