@@ -1293,17 +1293,6 @@ $a \mapsto (0, 0, 1, 1)$
 For the cohomology of classical ITRs, we first define: $$\mathbf{V}_{i} := \text{the vector space } \mathbb{Z}^4_{2} \text{ that acts on a dichotomy system } \mathcal{D}_{i},$$
 and $H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is nonabelian, we define an induced homomorphism. If the dichotomy action on classical relations is defined by the homomorphism $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the induced action on dichotomy vectors is given by the homomorphism $\psi : \mathcal{D}_{i} \to \text{Aut}(\mathbf{V}_{i})$, where a system of dichotomies acts on the automorphisms of the vector space $\mathbf{V}_i$ constructed from a dichotomy system $\mathcal{D}_i$.
 
-## Generating $\mathcal{R}_{i}$
-
-For $H^1(G, A)$ for a fixed dichotomy system $\mathcal{D}_i$, let:
-- $G := \mathbb{S}$, the classical (nonabelian) Intertype Relations group,
-- $A := \mathbf{V}_i$, the 4-dimensional abelian module associated with $\mathcal{D}_i$,
-- $\rho : G \to \text{Aut}(A)$, the induced action of classical relations on vector coordinates.
-
-A 1-cocycle is an affine map $f : G \to A$ satisfying $$f(gh) = f(g)+g \cdot f(h)$$where the dot denotes the action $\rho(g)$. The cocycle defines a subgroup of $A$:
-$$\mathcal{R}_{i} := \mathrm{Im}(f) = \{f(g) \mid g \in G\} \leq A$$and the kernel of $f$ is: $$K_{f} := \mathrm{ker}(f) = \{g \in G \mid f(g) = 0\}.$$Because $f$ is a homomorphism up to twisting, we obtain: $$G / K_{f} \cong \mathcal{R}_{i}.$$If the cocycle is surjective, then: $$\mathcal{R}_i = A \cong \mathbb{Z}^4_{2}.$$
-The induced group $\mathcal{R}_i$ is the relation group associated with the dichotomy system $\mathcal{D}_i$. Different cocycles in the same cohomology class produce the same $\mathcal{R}_i$. Moreover, different selectors correspond to different choices of cocycle representatives in the cohomology class: $$f'=f+\delta(\lambda).$$
-
 
 # $E_{16}$-Set Models
 
