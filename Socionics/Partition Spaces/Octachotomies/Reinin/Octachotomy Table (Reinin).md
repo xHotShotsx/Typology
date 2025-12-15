@@ -741,7 +741,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>?(N|T) "Permutation"</td>
-		      <td>Farsighted</td><td>Yielding</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Emotivist</td><td>Asking</td>
+		      <td>Farsighted</td><td>Yielding</td><td>Dynamic</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Asking</td>
 		      <td>IEI</td><td>LSE</td>
 	    </tr>
 	</tbody>

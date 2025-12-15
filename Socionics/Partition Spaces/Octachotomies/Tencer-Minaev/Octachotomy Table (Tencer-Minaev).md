@@ -721,7 +721,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>?(S|T) "Extrapolation"</td>
-		      <td>2ndGamma</td><td>2ndDelta</td><td>Static</td><td>Democratic</td><td>2ndInvolved</td><td>2ndInternal</td><td>Extroverted</td>
+		      <td>2ndGamma</td><td>2ndDelta</td><td>Static</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Extroverted</td>
 		      <td>LII</td><td>SEE</td>
 	    </tr>
 	    <tr>
@@ -731,17 +731,17 @@
 	    </tr>
 	    <tr>
 	    	  <td>!(N|F) "Gist"</td>
-		      <td>2ndGamma</td><td>2ndDelta</td><td>Dynamic</td><td>Democratic</td><td>2ndAbstract</td><td>2ndExternal</td><td>Introverted</td>
+		      <td>2ndGamma</td><td>2ndDelta</td><td>Dynamic</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Introverted</td>
 		      <td>ESE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S|T) "Exposition"</td>
-		      <td>2ndAlpha</td><td>2ndBeta</td><td>Dynamic</td><td>Democratic</td><td>2ndInvolved</td><td>2ndInternal</td><td>Introverted</td>
+		      <td>2ndAlpha</td><td>2ndBeta</td><td>Dynamic</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Introverted</td>
 		      <td>SEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(N|T) "Permutation"</td>
-		      <td>2ndGamma</td><td>2ndBeta</td><td>Dynamic</td><td>Democratic</td><td>2ndAbstract</td><td>2ndInternal</td><td>Extroverted</td>
+		      <td>2ndGamma</td><td>2ndBeta</td><td>Dynamic</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Extroverted</td>
 		      <td>IEI</td><td>LSE</td>
 	    </tr>
 	</tbody>
