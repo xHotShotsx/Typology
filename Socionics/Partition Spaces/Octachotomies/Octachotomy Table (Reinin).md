@@ -613,17 +613,17 @@
 	    </tr>
 	    <tr>
 	    	  <td>st(N>F) "Expectation"</td>
-		      <td>Ethical</td><td>Static</td><td>Carefree</td><td>Tactical</td><td>Negativis</td><td>Serious</td><td>Result</td>
+		      <td>Ethical</td><td>Static</td><td>Carefree</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Result</td>
 		      <td>ESI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(S>T) "Appraisal"</td>
-		      <td>Logical</td><td>Dynamic</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Result</td>
+		      <td>Logical</td><td>Dynamic</td><td>Carefree</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Result</td>
 		      <td>LIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(S>F) "Desire"</td>
-		      <td>Ethical</td><td>Dynamic</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Process</td>
+		      <td>Ethical</td><td>Dynamic</td><td>Carefree</td><td>Strategic</td><td>Negativist</td><td>Democratic</td><td>Process</td>
 		      <td>SEI</td><td>EIE</td>
 	    </tr>
 	    <tr>
