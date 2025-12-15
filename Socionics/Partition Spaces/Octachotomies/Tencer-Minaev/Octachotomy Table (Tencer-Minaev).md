@@ -78,17 +78,17 @@
 		      <td>ILI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(SF) "Drive"</td>
+	    	  <td>?(SF) "Antagonism"</td>
 		      <td>Asking</td><td>1stInvolved</td><td>Democratic</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stGamma</td>
 		      <td>SEE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Si "Sensation"</td>
+	    	  <td>!(SF) "Sensitivity"</td>
 		      <td>Declaring</td><td>1stInvolved</td><td>Democratic</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>1stAlpha</td>
 		      <td>SEI</td><td>ESE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Je(S.) "Interaction"</td>
+	    	  <td>?(S|F) "Enactment"</td>
 		      <td>Asking</td><td>1stInvolved</td><td>Aristocratic</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>1stAlpha</td>
 		      <td>EIE</td><td>SLI</td>
 	    </tr>
