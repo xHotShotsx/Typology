@@ -427,7 +427,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>?(SF) "Volition"</td>
-		      <td>1stInvolved</td><td>1stExternal</td><td>Static</td><td>Irrational</td><td>2ndBeta</td><td>Democratic</td><td>Extroverted</td>
+		      <td>1stInvolved</td><td>1stExternal</td><td>Static</td><td>Irrational</td><td>1stGamma</td><td>1stBeta</td><td>Extroverted</td>
 		      <td>SEE</td><td>ESI</td>
 	    </tr>
 	    <tr>
