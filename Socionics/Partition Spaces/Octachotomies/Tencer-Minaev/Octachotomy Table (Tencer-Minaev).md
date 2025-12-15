@@ -75,7 +75,7 @@
 	    <tr>
 	    	  <td>Ni "Insight"</td>
 		      <td>Declaring</td><td>1stAbstract</td><td>Democratic</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>1stGamma</td>
-		      <td>ILI</td><td>ILI</td>
+		      <td>ILI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Se "Drive"</td>
