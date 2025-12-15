@@ -731,7 +731,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>dy(N|F) "Innovation"</td>
-		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Constructivis</td><td>Positivist</td>
+		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td></td>
 		      <td>ESE</td><td>ILI</td>
 	    </tr>
 	    <tr>
