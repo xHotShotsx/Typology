@@ -46,12 +46,12 @@
 	    <tr>
 	    	  <td>(SF)i "Harmonisation"</td>
 		      <td>Declaring</td><td>1stInvolved</td><td>1stExternal</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>Negativist</td>
-		      <td>SLE</td><td>ESI</td>
+		      <td>SEI</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NF)e "Incitation"</td>
 		      <td>Asking</td><td>1stAbstract</td><td>1stExternal</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>Negativist</td>
-		      <td>EIE</td><td>IEE</td>
+		      <td></td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NF)i "Narration"</td>
