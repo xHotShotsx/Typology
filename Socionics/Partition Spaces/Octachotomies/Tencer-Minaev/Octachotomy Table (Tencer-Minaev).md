@@ -417,12 +417,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>!(ST) "Performance"</td>
-		      <td>1stInvolved</td><td>1stInternal</td><td>Static</td><td>Aristocratic</td><td>1stGamma</td><td>1stDelta</td><td>Introverted</td>
+		      <td>1stInvolved</td><td>1stInternal</td><td>Static</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Introverted</td>
 		      <td>LSI</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(NF) "Ethos"</td>
-		      <td>1stAbstract</td><td>1stExternal</td><td>Static</td><td>Aristocratic</td><td>1stAlpha</td><td>1stBeta</td><td>Introverted</td>
+		      <td>1stAbstract</td><td>1stExternal</td><td>Static</td><td>Rational</td><td>1stAlpha</td><td>1stBeta</td><td>Introverted</td>
 		      <td>EII</td><td>IEE</td>
 	    </tr>
 	    <tr>
@@ -432,12 +432,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>?(NF) "Aspiration"</td>
-		      <td>1stAbstract</td><td>1stExternal</td><td>Dynamic</td><td>Aristocratic</td><td>1stGamma</td><td>1stDelta</td><td>Extroverted</td>
+		      <td>1stAbstract</td><td>1stExternal</td><td>Dynamic</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Extroverted</td>
 		      <td>EIE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(SF) "Aesthesis"</td>
-		      <td>1stInvolved</td><td>1stExternal</td><td>Dynamic</td><td>Democratic</td><td>1stAlpha</td><td>1stDelta</td><td>Introverted</td>
+		      <td>1stInvolved</td><td>1stExternal</td><td>Dynamic</td><td>Ir</td><td>1stAlpha</td><td>1stDelta</td><td>Introverted</td>
 		      <td>SEI</td><td>ESE</td>
 	    </tr>
 	    <tr>
