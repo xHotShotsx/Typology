@@ -412,7 +412,7 @@
 	      </tr>
 		 <tr>
 			  <td>?(NT) "Interpretation"</td>
-		      <td>1stAbstract</td><td>1stInternal</td><td>Static</td><td>Democratic</td><td>1stAlpha</td><td>1stDelta</td><td>Extroverted</td>
+		      <td>1stAbstract</td><td>1stInternal</td><td>Static</td><td>Irrational</td><td>1stAlpha</td><td>1stDelta</td><td>Extroverted</td>
 		      <td>ILE</td><td>LII</td>
 	    </tr>
 	    <tr>
