@@ -534,17 +534,17 @@
 		      <td>EIE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(F>S) "Ease"</td>
+	    	  <td>(F>S)+ "Ease"</td>
 		      <td>Sensory</td><td>Dynamic</td><td>Obstinate</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Result</td>
 		      <td>ESE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(T>N) "Validity"</td>
+	    	  <td>(T>N)- "Validity"</td>
 		      <td>Intuitive</td><td>Static</td><td>Obstinate</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Result</td>
 		      <td>LII</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(T>S) "Determination"</td>
+	    	  <td>(T>S)+ "Determination"</td>
 		      <td>Sensory</td><td>Static</td><td>Obstinate</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Process</td>
 		      <td>LSI</td><td>SEE</td>
 	    </tr>
