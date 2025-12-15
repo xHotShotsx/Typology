@@ -285,7 +285,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>Je- "Elaboration"</td>
-		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Aristocratic</td><td>Negativist</td><td>Process</td><td>AAsking</td>
+		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Aristocratic</td><td>Negativist</td><td>Process</td><td>Asking</td>
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
