@@ -693,7 +693,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Rational</td><td>Carefree</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td></td><td>LIE</td>
+		      <td>EIE</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>15</b></td>
