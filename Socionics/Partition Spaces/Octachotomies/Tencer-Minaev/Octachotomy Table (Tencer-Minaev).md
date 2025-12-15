@@ -285,22 +285,22 @@
 	    </tr>
 	    <tr>
 	    	  <td>Je- "Elaboration"</td>
-		      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td><td>Irrational</td><td>Negativist</td><td>Process</td><td>Extroverted</td>
+		      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td><td>Rational</td><td>Negativist</td><td>Process</td><td>Extroverted</td>
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji+ "Innovation"</td>
-		      <td>Declaring</td><td>Rational</td><td>Static</td><td>Aristocratic</td><td>Positivist</td><td>Process</td><td>Introverted</td>
+		      <td>Declaring</td><td>Ar</td><td>Static</td><td>Rational</td><td>Positivist</td><td>Process</td><td>Introverted</td>
 		      <td>LSI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pe- "Intervention"</td>
-		      <td>Asking</td><td>Irrational</td><td>Static</td><td>Aristocratic</td><td>Negativist</td><td>Result</td><td>Introverted</td>
+		      <td>Asking</td><td>Irrational</td><td>Static</td><td>Rational</td><td>Negativist</td><td>Result</td><td>Introverted</td>
 		      <td>SLE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pi+ "Accession"</td>
-		      <td>Declaring</td><td>Irrational</td><td>Dynamic</td><td>Aristocratic</td><td>Positivist</td><td>Result</td><td>Extroverted</td>
+		      <td>Declaring</td><td>Irrational</td><td>Dynamic</td><td>Rational</td><td>Positivist</td><td>Result</td><td>Extroverted</td>
 		      <td>IEI</td><td>SLI</td>
 	    </tr>
 	    <tr>
