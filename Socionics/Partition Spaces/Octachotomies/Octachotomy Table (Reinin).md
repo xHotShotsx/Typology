@@ -256,7 +256,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>6</b></td>
-	      <td rowspan="2"><b>Super-egos</b></td>
+	      <td rowspan="2"><b>Superegos</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Octachotomies/6.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -452,7 +452,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>10</b></td>
-	      <td rowspan="2"><b>Irrational Mirages and Rational Semi-duals</b></td>
+	      <td rowspan="2"><b>Irrational Mirages and Rational Semi Duals</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Octachotomies/10.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -550,7 +550,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>12</b></td>
-	      <td rowspan="2"><b>Irrational Semi-duals and Rational Mirages</b></td>
+	      <td rowspan="2"><b>Irrational Semi Duals and Rational Mirages</b></td>
 	      <td colspan="7"><img src="Images/Reinin/Octachotomies/12.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>

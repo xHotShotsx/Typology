@@ -256,7 +256,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>6</b></td>
-	      <td rowspan="2"><b>Super-egos</b></td>
+	      <td rowspan="2"><b>Superegos</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/6.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -305,7 +305,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>7</b></td>
-	      <td rowspan="2"><b>Semi-duals</b></td>
+	      <td rowspan="2"><b>Semi Duals</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/7.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -501,7 +501,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>11</b></td>
-	      <td rowspan="2"><b>Democratic Supervisees with Rational Supervisors</b></td>
+	      <td rowspan="2"><b>Democratic Supervisors with Aristocratic Supervisees</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/11.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
