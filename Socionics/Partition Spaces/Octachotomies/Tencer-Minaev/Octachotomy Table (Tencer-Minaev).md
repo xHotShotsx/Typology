@@ -529,7 +529,7 @@
 		      <td>SEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(F>N) "Cogency"</td>
+	    	  <td>(F>N)- "Cogency"</td>
 		      <td>1stAbstract</td><td>Dynamic</td><td>2ndDelta</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Process</td>
 		      <td>EIE</td><td>ILI</td>
 	    </tr>
@@ -559,7 +559,7 @@
 	      </tr>
 		 <tr>
 			  <td>P(T.)+ "Association"</td>
-		      <td>1stInternal</td><td>Irrational</td><td>2ndAlpha</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Extroverted</td>
+		      <td>1stInternal</td><td>Democratic</td><td>2ndAlpha</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Extroverted</td>
 		      <td>ILE</td><td>SLI</td>
 	    </tr>
 	    <tr>

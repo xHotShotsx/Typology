@@ -529,7 +529,7 @@
 		      <td>SEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(F>N) "Cogency"</td>
+	    	  <td>(F>N)- "Cogency"</td>
 		      <td>Intuitive</td><td>Dynamic</td><td>Obstinate</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Process</td>
 		      <td>EIE</td><td>ILI</td>
 	    </tr>
