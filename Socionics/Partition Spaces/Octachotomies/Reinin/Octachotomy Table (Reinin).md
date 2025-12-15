@@ -300,7 +300,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>Pi+ "Accession"</td>
-		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Aristocratic</td><td>Positivist</td><td>Result</td><td>Declaring</td>
+		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Aristocratic</td><td>Positivist</td><td>Result</td><td>Asking</td>
 		      <td>IEI</td><td>SLI</td>
 	    </tr>
 	    <tr>
