@@ -682,7 +682,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
-		      <td>Rational</td><td>Farsighted</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positisivt</td>
+		      <td>Rational</td><td>Farsighted</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ESE</td><td>LII</td>
 	    </tr>
 	    <tr>
