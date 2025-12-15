@@ -501,7 +501,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>11</b></td>
-	      <td rowspan="2"><b>Irrational Supervisees with Rational Supervisors</b></td>
+	      <td rowspan="2"><b>Democratic Supervisees with Rational Supervisors</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/11.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -550,7 +550,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>12</b></td>
-	      <td rowspan="2"><b>Irrational Semi-duals and Rational Mirages</b></td>
+	      <td rowspan="2"><b>Democratic Activators and Aristocratic Quasi Identicals</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/12.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
