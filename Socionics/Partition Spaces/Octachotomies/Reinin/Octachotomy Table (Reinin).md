@@ -132,12 +132,12 @@
 		      <td>ESE</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(S)i "Innovation"</td>
+	    	  <td>?(S)i "Resilience"</td>
 		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Constructivist</td><td>Serious</td><td>Result</td><td>Asking</td>
 		      <td>ESI</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(S)e "Innovation"</td>
+	    	  <td>?(S)e "Efficacy"</td>
 		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Emotivist</td><td>Serious</td><td>Process</td><td>Asking</td>
 		      <td>SEE</td><td>LSE</td>
 	    </tr>
