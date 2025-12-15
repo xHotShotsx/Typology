@@ -452,7 +452,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>10</b></td>
-	      <td rowspan="2"><b>Irrational Mirages and Rational Semi-duals</b></td>
+	      <td rowspan="2"><b>Democratic Quasi Identicals and Aristocratic Activators</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/10.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
