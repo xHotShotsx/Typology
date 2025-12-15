@@ -622,27 +622,27 @@
 		      <td>LIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>dy(S>F) "Innovation"</td>
 		      <td>Ethical</td><td>Dynamic</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SEI</td><td>EIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>dy(N>T) "Innovation"</td>
 		      <td>Logical</td><td>Dynamic</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ILI</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>dy(N>F) "Innovation"</td>
 		      <td>Ethical</td><td>Dynamic</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ESE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>st(S>T) "Innovation"</td>
 		      <td>Logical</td><td>Static</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LII</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>st(S>F) "Innovation"</td>
 		      <td>Ethical</td><td>Static</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SEE</td><td>EII</td>
 	    </tr>
