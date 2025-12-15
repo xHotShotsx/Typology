@@ -613,7 +613,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>st(N>F) "Expectation"</td>
-		      <td>Ethical</td><td>Static</td><td>Carefree</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Ethical</td><td>Static</td><td>Carefree</td><td>Tactical</td><td>Negativis</td><td></td><td>Positivist</td>
 		      <td>ESI</td><td>IEE</td>
 	    </tr>
 	    <tr>
@@ -642,7 +642,7 @@
 		      <td>LII</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(S>F) "Innovation"</td>
+	    	  <td>st(S>F) "Conviction"</td>
 		      <td>Ethical</td><td>Static</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>SEE</td><td>EII</td>
 	    </tr>
