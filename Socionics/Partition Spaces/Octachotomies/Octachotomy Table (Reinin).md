@@ -638,12 +638,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>st(S>T) "Requirement"</td>
-		      <td>Logical</td><td>Static</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Merry</td><td>Result</td>
+		      <td>Logical</td><td>Static</td><td>Farsighted</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Result</td>
 		      <td>LII</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>st(S>F) "Conviction"</td>
-		      <td>Ethical</td><td>Static</td><td>Farsighted</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Process</td>
+		      <td>Ethical</td><td>Static</td><td>Farsighted</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Process</td>
 		      <td>SEE</td><td>EII</td>
 	    </tr>
 	    <tr>
