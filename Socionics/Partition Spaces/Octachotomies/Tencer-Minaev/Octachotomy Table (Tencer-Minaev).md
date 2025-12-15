@@ -89,22 +89,22 @@
 	    </tr>
 	    <tr>
 	    	  <td>Je(S.) "Interaction"</td>
-		      <td>Askingf</td><td>1stInvolved</td><td>Rational</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>1stAlpha</td>
+		      <td>Asking</td><td>1stInvolved</td><td>Rational</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>1stAlpha</td>
 		      <td>ESE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji(S.) "Constitution"</td>
-		      <td>Introverted</td><td>1stInvolved</td><td>Rational</td><td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td><td>1stGamma</td>
+		      <td>Declaring</td><td>1stInvolved</td><td>Rational</td><td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td><td>1stGamma</td>
 		      <td>LSI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je(N.) "Discretion"</td>
-		      <td>Extroverted</td><td>1stAbstract</td><td>Rational</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>1stGamma</td>
+		      <td>Asking</td><td>1stAbstract</td><td>Rational</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>1stGamma</td>
 		      <td>EIE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji(N.) "Disposition"</td>
-		      <td>Introverted</td><td>1stAbstract</td><td>Rational</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stAlpha</td>
+		      <td>Declaring</td><td>1stAbstract</td><td>Rational</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stAlpha</td>
 		      <td>LII</td><td>EII</td>
 	    </tr>
 	    <tr>
@@ -118,42 +118,42 @@
 	      </tr>
 		 <tr>
 			  <td>?(N)e "Wit"</td>
-		      <td>Extroverted</td><td>1stAbstract</td><td>2ndAlpha</td><td>2ndExternal</td><td>1stDelta</td><td>Process</td><td>Extroverted</td>
+		      <td>Asking</td><td>1stAbstract</td><td>2ndAlpha</td><td>2ndExternal</td><td>1stDelta</td><td>Process</td><td>Extroverted</td>
 		      <td>ILE</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N)i "Sagacity"</td>
-		      <td>Introverted</td><td>1stAbstract</td><td>2ndGamma</td><td>2ndExternal</td><td>1stBeta</td><td>Process</td><td>Introverted</td>
+		      <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td><td>2ndExternal</td><td>1stBeta</td><td>Process</td><td>Introverted</td>
 		      <td>ILI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S)e "Innovation"</td>
-		      <td>Extroverted</td><td>1stInvolved</td><td>2ndGamma</td><td>2ndExternal</td><td>1stDelta</td><td>Result</td><td>Introverted</td>
+		      <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td><td>2ndExternal</td><td>1stDelta</td><td>Result</td><td>Introverted</td>
 		      <td>ESE</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S)i "Innovation"</td>
-		      <td>Introverted</td><td>1stInvolved</td><td>2ndAlpha</td><td>2ndExternal</td><td>1stBeta</td><td>Result</td><td>Extroverted</td>
+		      <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td><td>2ndExternal</td><td>1stBeta</td><td>Result</td><td>Extroverted</td>
 		      <td>ESI</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S)e "Innovation"</td>
-		      <td>Extroverted</td><td>1stInvolved</td><td>2ndGamma</td><td>2ndInternal</td><td>1stBeta</td><td>Process</td><td>Extroverted</td>
+		      <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td><td>2ndInternal</td><td>1stBeta</td><td>Process</td><td>Extroverted</td>
 		      <td>SEE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S)i "Innovation"</td>
-		      <td>Introverted</td><td>1stInvolved</td><td>2ndAlpha</td><td>2ndInternal</td><td>1stDelta</td><td>Process</td><td>Introverted</td>
+		      <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td><td>2ndInternal</td><td>1stDelta</td><td>Process</td><td>Introverted</td>
 		      <td>SEI</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N)e "Innovation"</td>
-		      <td>Extroverted</td><td>1stAbstract</td><td>2ndAlpha</td><td>2ndInternal</td><td>1stBeta</td><td>Result</td><td>Introverted</td>
+		      <td>Asking</td><td>1stAbstract</td><td>2ndAlpha</td><td>2ndInternal</td><td>1stBeta</td><td>Result</td><td>Introverted</td>
 		      <td>LIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(N)i "Innovation"</td>
-		      <td>Introverted</td><td>1stAbstract</td><td>2ndGamma</td><td>2ndInternal</td><td>1stDelta</td><td>Result</td><td>Extroverted</td>
+		      <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td><td>2ndInternal</td><td>1stDelta</td><td>Result</td><td>Extroverted</td>
 		      <td>LII</td><td>IEI</td>
 	    </tr>
 	    <tr>
@@ -167,7 +167,7 @@
 	      </tr>
 		 <tr>
 			  <td>Pe(T.) "Operation"</td>
-		      <td>Extroverted</td><td>1stInternal</td><td>Irrational</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>1stDelta</td>
+		      <td>Asking</td><td>1stInternal</td><td>Irrational</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>1stDelta</td>
 		      <td>ILE</td><td>SLE</td>
 	    </tr>
 	    <tr>
