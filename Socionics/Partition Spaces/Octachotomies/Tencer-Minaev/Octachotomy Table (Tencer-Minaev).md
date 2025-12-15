@@ -667,12 +667,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>Pβ "Import"</td>
-		      <td>Democratic</td><td>2ndGamma</td><td>2ndBeta</td><td>Aristocratic</td><td>1stGamma</td><td>1stDelta</td><td>Result</td>
+		      <td>Democratic</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Result</td>
 		      <td>SLE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Jδ "Value"</td>
-		      <td>Aristocratic</td><td>2ndGamma</td><td>2ndBeta</td><td>Aristocratic</td><td>1stAlpha</td><td>1stBeta</td><td>Process</td>
+		      <td>Aristocratic</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>1stAlpha</td><td>1stBeta</td><td>Process</td>
 		      <td>LSE</td><td>EII</td>
 	    </tr>
 	    <tr>
@@ -682,17 +682,17 @@
 	    </tr>
 	    <tr>
 	    	  <td>Jα "Sign"</td>
-		      <td>Aristocratic</td><td>2ndGamma</td><td>2ndDelta</td><td>Democratic</td><td>1stAlpha</td><td>1stDelta</td><td>Result</td>
+		      <td>Aristocratic</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>1stAlpha</td><td>1stDelta</td><td>Result</td>
 		      <td>ESE</td><td>LII</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pδ "Potential"</td>
-		      <td>Democratic</td><td>2ndAlpha</td><td>2ndDelta</td><td>Aristocratic</td><td>1stAlpha</td><td>1stBeta</td><td>Result</td>
+		      <td>Democratic</td><td>2ndAlpha</td><td>2ndDelta</td><td>Irrational</td><td>1stAlpha</td><td>1stBeta</td><td>Result</td>
 		      <td>IEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Jβ "Significance"</td>
-		      <td>Aristocratic</td><td>2ndAlpha</td><td>2ndDelta</td><td>Aristocratic</td><td>1stGamma</td><td>1stDelta</td><td>Process</td>
+		      <td>Aristocratic</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Process</td>
 		      <td>EIE</td><td>LSI</td>
 	    </tr>
 	    <tr>
@@ -711,12 +711,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>!(S|F) "Typification"</td>
-		      <td>2ndGamma</td><td>2ndBeta</td><td>Static</td><td>Aristocratic</td><td>2ndInvolved</td><td>2ndExternal</td><td>Introverted</td>
+		      <td>2ndGamma</td><td>2ndBeta</td><td>Static</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Introverted</td>
 		      <td>SLE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N|T) "Iteration"</td>
-		      <td>2ndAlpha</td><td>2ndDelta</td><td>Static</td><td>Aristocratic</td><td>2ndAbstract</td><td>2ndInternal</td><td>Introverted</td>
+		      <td>2ndAlpha</td><td>2ndDelta</td><td>Static</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Introverted</td>
 		      <td>LSI</td><td>IEE</td>
 	    </tr>
 	    <tr>
@@ -726,7 +726,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>?(S|F) "Characterisation"</td>
-		      <td>2ndAlpha</td><td>2ndDelta</td><td>Dynamic</td><td>Aristocratic</td><td>2ndInvolved</td><td>2ndExternal</td><td>Extroverted</td>
+		      <td>2ndAlpha</td><td>2ndDelta</td><td>Dynamic</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Extroverted</td>
 		      <td>EIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
