@@ -656,17 +656,17 @@
 	      <td><b>P</b></td><td><b>EN</b></td><td><b>ET</b></td><td><b>NT</b></td><td><b>ENP</b></td><td><b>ETP</b></td><td><b>NTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>(NT)e "Innovation"</td>
+			  <td>Pα "Innovation"</td>
 		      <td>Irrational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Process</td>
 		      <td>ILE</td><td>SEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Jγ "Innovation"</td>
 		      <td>Rational</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Result</td>
 		      <td>LIE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td> "Innovation"</td>
 		      <td>Irrational</td><td>Farsighted</td><td>Yielding</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Result</td>
 		      <td>SLE</td><td>IEI</td>
 	    </tr>
@@ -742,7 +742,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Farsighted</td><td>Yielding</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td></td><td>LIE</td>
+		      <td>IEI</td><td>LSE</td>
 	    </tr>
 	</tbody>
 </table>
