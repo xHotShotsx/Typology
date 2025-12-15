@@ -735,7 +735,7 @@
 		      <td>ESE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(S|T) ""</td>
+	    	  <td>dy(S|T) "Exposition"</td>
 		      <td>Carefree</td><td>Yielding</td><td>Dynamic</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Declaring</td>
 		      <td>SEI</td><td>LIE</td>
 	    </tr>
