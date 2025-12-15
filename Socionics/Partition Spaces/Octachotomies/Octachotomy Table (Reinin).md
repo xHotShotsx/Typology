@@ -720,17 +720,17 @@
 		      <td>LSI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Innovation"</td>
+	    	  <td>st(S|T) "Innovation"</td>
 		      <td>Farsighted</td><td>Obstinate</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LII</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>dy(S|F) "Innovation"</td>
 		      <td>Carefree</td><td>Obstinate</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>EIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td> "Innovation"</td>
 		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>ESE</td><td>ILI</td>
 	    </tr>
