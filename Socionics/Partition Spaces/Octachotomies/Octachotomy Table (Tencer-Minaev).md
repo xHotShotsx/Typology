@@ -158,7 +158,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>4</b></td>
-	      <td rowspan="2"><b>Democratic  and Aristocratic Kindreds</b></td>
+	      <td rowspan="2"><b>Democratic Conflictors and Aristocratic Mirrors</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/4.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -207,7 +207,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>5</b></td>
-	      <td rowspan="2"><b>Irrational Beneficiaries with Rational Benefactors</b></td>
+	      <td rowspan="2"><b>Democratic Benefactors with Aristocratic Beneficia</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/5.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
