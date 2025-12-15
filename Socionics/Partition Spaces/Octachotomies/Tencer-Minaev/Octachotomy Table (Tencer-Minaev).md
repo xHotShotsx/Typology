@@ -461,32 +461,32 @@
 	      </tr>
 		 <tr>
 			  <td>N+ "Semiosis"</td>
-		      <td>1stAbstract</td><td>Irrational</td><td>2ndBeta</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Extroverted</td>
+		      <td>1stAbstract</td><td>Democratic</td><td>2ndBeta</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Extroverted</td>
 		      <td>ILE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>S- "Proprioception"</td>
-		      <td>1stInvolved</td><td>Irrational</td><td>2ndBeta</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Introverted</td>
+		      <td>1stInvolved</td><td>Democratic</td><td>2ndBeta</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Introverted</td>
 		      <td>SEI</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(N.)+ "Prudence"</td>
-		      <td>1stAbstract</td><td>Rational</td><td>2ndBeta</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Introverted</td>
+		      <td>1stAbstract</td><td>Aristocratic</td><td>2ndBeta</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Introverted</td>
 		      <td>LIE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(S.)- "Customisation"</td>
-		      <td>1stInvolved</td><td>Rational</td><td>2ndBeta</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Extroverted</td>
+		      <td>1stInvolved</td><td>Aristocratic</td><td>2ndBeta</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Extroverted</td>
 		      <td>ESI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(N.)- "Elocution"</td>
-		      <td>1stAbstract</td><td>Rational</td><td>2ndDelta</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Extroverted</td>
+		      <td>1stAbstract</td><td>Aristocratic</td><td>2ndDelta</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Extroverted</td>
 		      <td>LII</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(S.)+ "Presentation"</td>
-		      <td>1stInvolved</td><td>Rational</td><td>2ndDelta</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Introverted</td>
+		      <td>1stInvolved</td><td>Aristocratic</td><td>2ndDelta</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Introverted</td>
 		      <td>ESE</td><td>LSI</td>
 	    </tr>
 	    <tr>
