@@ -26,17 +26,17 @@
 	    <tr>
 	    	  <td>(NT)i "Comprehension"</td>
 		      <td>Declaring</td><td>1stAbstract</td><td>1stInternal</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>Negativist</td>
-		      <td>LII</td><td>ILI</td>
+		      <td>ILI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(ST)e "Implementation"</td>
 		      <td>Asking</td><td>1stInvolved</td><td>1stInternal</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>Negativist</td>
-		      <td>SLE</td><td>LSE</td>
+		      <td>EIE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(ST)i "Observance"</td>
 		      <td>Declaring</td><td>1stInvolved</td><td>1stInternal</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>Positivist</td>
-		      <td>LSI</td><td>SLI</td>
+		      <td></td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(SF)e "Animation"</td>
