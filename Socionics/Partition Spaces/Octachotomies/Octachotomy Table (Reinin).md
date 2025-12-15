@@ -514,17 +514,17 @@
 		      <td>ILE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>(F>S) "Expedience"</td>
+	    	  <td>(F>S)- "Expedience"</td>
 		      <td>Sensory</td><td>Static</td><td>Yielding</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Result</td>
 		      <td>SLE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(T>N) "Feasibility"</td>
+	    	  <td>(T>N)+ "Feasibility"</td>
 		      <td>Intuitive</td><td>Dynamic</td><td>Yielding</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Result</td>
 		      <td>IEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(T>S) "Amenity"</td>
+	    	  <td>(T>S)- "Amenity"</td>
 		      <td>Sensory</td><td>Dynamic</td><td>Yielding</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Process</td>
 		      <td>SEI</td><td>LSE</td>
 	    </tr>
