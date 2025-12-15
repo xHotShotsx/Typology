@@ -100,12 +100,12 @@
 	    <tr>
 	    	  <td>Je(N.) "Discretion"</td>
 		      <td>Asking</td><td>1stAbstract</td><td>Aristocratic</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>1stGamma</td>
-		      <td></td><td>LIE</td>
+		      <td>IEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji(N.) "Disposition"</td>
 		      <td>Declaring</td><td>1stAbstract</td><td>Aristocratic</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stAlpha</td>
-		      <td>LII</td><td>EII</td>
+		      <td>LSI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>3</b></td>
