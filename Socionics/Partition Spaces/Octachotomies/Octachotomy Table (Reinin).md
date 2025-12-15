@@ -711,12 +711,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>st(S|F) "Innovation"</td>
-		      <td>Farsighted</td><td>Yielding</td><td>Static</td><td>Aristocratic</td><td>Strategic</td><td>Construct</td><td>Positivist</td>
+		      <td>Farsighted</td><td>Yielding</td><td>Static</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Declaring</td>
 		      <td>SLE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>st(N|T) "Innovation"</td>
-		      <td>Carefree</td><td>Obstinate</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Carefree</td><td>Obstinate</td><td>Static</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Declaring</td>
 		      <td>LSI</td><td>IEE</td>
 	    </tr>
 	    <tr>
