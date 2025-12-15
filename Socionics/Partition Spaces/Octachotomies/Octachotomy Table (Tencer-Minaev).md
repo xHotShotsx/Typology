@@ -457,7 +457,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>A</b></td><td><b>D</b></td><td><b>QI</b></td><td><b>AD</b></td><td><b>QAI</b></td><td><b>ETP</b></td><td><b>ENTP</b></td>
+	      <td><b>A</b></td><td><b>D</b></td><td><b>QI</b></td><td><b>AD</b></td><td><b>QAI</b></td><td><b>ETP</b></td><td><b>QAID</b></td>
 	      </tr>
 		 <tr>
 			  <td>N+ "Semiosis"</td>
