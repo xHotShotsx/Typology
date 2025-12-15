@@ -103,7 +103,7 @@
 		      <td>IEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Disposition"</td>
+	    	  <td>!(N|T) "Revision"</td>
 		      <td>Declaring</td><td>1stAbstract</td><td>Aristocratic</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stAlpha</td>
 		      <td>LSI</td><td>IEE</td>
 	    </tr>
