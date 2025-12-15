@@ -56,7 +56,7 @@
 	    <tr>
 	    	  <td>(NF)i "Narration"</td>
 		      <td>Declaring</td><td>1stAbstract</td><td>1stExternal</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>Positivist</td>
-		      <td>IEI</td><td>EII</td>
+		      <td>LSI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>2</b></td>
