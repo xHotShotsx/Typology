@@ -506,7 +506,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>N</b></td><td><b>EP</b></td><td><b>ET</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>NTP</b></td>
+	      <td><b>A</b></td><td><b>QD</b></td><td><b>QI</b></td><td><b>ID</b></td><td><b>QAI</b></td><td><b>QAD</b></td><td><b>AID</b></td>
 	      </tr>
 		 <tr>
 			  <td>(F>N)+ "Notion"</td>
@@ -555,7 +555,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>T</b></td><td><b>P</b></td><td><b>EN</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>ENTP</b></td>
+	      <td><b>I</b></td><td><b>D</b></td><td><b>EN</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
 			  <td>P(T.)+ "Association"</td>
