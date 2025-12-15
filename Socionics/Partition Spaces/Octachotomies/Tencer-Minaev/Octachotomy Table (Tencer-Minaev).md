@@ -70,12 +70,12 @@
 		 <tr>
 			  <td>Ne "Imagination"</td>
 		      <td>Asking</td><td>1stAbstract</td><td>Democratic</td><td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td><td>1stAlpha</td>
-		      <td>ILE</td><td>IEE</td>
+		      <td>ILE</td><td>LII</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ni "Insight"</td>
 		      <td>Declaring</td><td>1stAbstract</td><td>Democratic</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>1stGamma</td>
-		      <td>IEI</td><td>ILI</td>
+		      <td>ILI</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Se "Drive"</td>
