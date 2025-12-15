@@ -666,27 +666,27 @@
 		      <td>LIE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Innovation"</td>
+	    	  <td>Pβ "Innovation"</td>
 		      <td>Irrational</td><td>Farsighted</td><td>Yielding</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Result</td>
 		      <td>SLE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Jδ "Innovation"</td>
 		      <td>Rational</td><td>Farsighted</td><td>Yielding</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Process</td>
 		      <td>LSE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Pγ "Innovation"</td>
 		      <td>Irrational</td><td>Farsighted</td><td>Obstinate</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Process</td>
 		      <td>SEE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>Jα "Innovation"</td>
 		      <td>Rational</td><td>Farsighted</td><td>Obstinate</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Result</td>
 		      <td>ESE</td><td>LII</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td> "Innovation"</td>
 		      <td>Irrational</td><td>Carefree</td><td>Obstinate</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Result</td>
 		      <td>IEE</td><td>SLI</td>
 	    </tr>
