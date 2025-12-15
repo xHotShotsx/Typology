@@ -721,17 +721,17 @@
 	    </tr>
 	    <tr>
 	    	  <td>st(S|T) "Innovation"</td>
-		      <td>Farsighted</td><td>Obstinate</td><td>Static</td><td>Democratic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Farsighted</td><td>Obstinate</td><td>Static</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Asking</td>
 		      <td>LII</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(S|F) "Innovation"</td>
-		      <td>Carefree</td><td>Obstinate</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Carefree</td><td>Obstinate</td><td>Dynamic</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Asking</td>
 		      <td>EIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>dy(N|F) "Innovation"</td>
-		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Constructivis</td><td>Positivist</td>
 		      <td>ESE</td><td>ILI</td>
 	    </tr>
 	    <tr>
