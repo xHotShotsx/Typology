@@ -41,12 +41,12 @@
 	    <tr>
 	    	  <td>(SF)e "Animation"</td>
 		      <td>Asking</td><td>1stInvolved</td><td>1stExternal</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>Positivist</td>
-		      <td></td><td>SEE</td>
+		      <td>SEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(SF)i "Harmonisation"</td>
 		      <td>Declaring</td><td>1stInvolved</td><td>1stExternal</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>Negativist</td>
-		      <td>SEI</td><td>ESI</td>
+		      <td>SLE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NF)e "Incitation"</td>
