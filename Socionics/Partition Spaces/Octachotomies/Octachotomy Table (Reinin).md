@@ -676,7 +676,7 @@
 		      <td>LSE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>Pγ "Innovation"</td>
+	    	  <td>Pγ "Purpose"</td>
 		      <td>Irrational</td><td>Farsighted</td><td>Obstinate</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Process</td>
 		      <td>SEE</td><td>ILI</td>
 	    </tr>
