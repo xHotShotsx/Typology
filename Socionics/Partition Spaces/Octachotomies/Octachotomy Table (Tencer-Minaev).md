@@ -599,7 +599,7 @@
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>13</b></td>
-	      <td rowspan="2"><b>Irrational Supervisors with Rational Supervisees</b></td>
+	      <td rowspan="2"><b>Democratic Supervisees with Aristocratic Supervisors</b></td>
 	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/13.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
