@@ -710,7 +710,7 @@
 		      <td>ILE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(S|F) "Gist"</td>
+	    	  <td>st(S|F) ""</td>
 		      <td>Farsighted</td><td>Yielding</td><td>Static</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Declaring</td>
 		      <td>SLE</td><td>EII</td>
 	    </tr>
@@ -720,7 +720,7 @@
 		      <td>LSI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(S|T) "Innovation"</td>
+	    	  <td>st(S|T) "Extrapolation"</td>
 		      <td>Farsighted</td><td>Obstinate</td><td>Static</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Asking</td>
 		      <td>LII</td><td>SEE</td>
 	    </tr>
@@ -730,17 +730,17 @@
 		      <td>EIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(N|F) "Innovation"</td>
+	    	  <td>dy(N|F) "Gist"</td>
 		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Declaring</td>
 		      <td>ESE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(S|T) "Innovation"</td>
+	    	  <td>dy(S|T) ""</td>
 		      <td>Carefree</td><td>Yielding</td><td>Dynamic</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Declaring</td>
 		      <td>SEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(N|T) "Innovation"</td>
+	    	  <td>dy(N|T) ""</td>
 		      <td>Farsighted</td><td>Yielding</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Emotivist</td><td>Asking</td>
 		      <td>IEI</td><td>LSE</td>
 	    </tr>
