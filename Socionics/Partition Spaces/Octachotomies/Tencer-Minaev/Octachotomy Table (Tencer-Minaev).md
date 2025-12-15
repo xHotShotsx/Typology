@@ -73,12 +73,12 @@
 		      <td>ILE</td><td>LII</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Insight"</td>
+	    	  <td>!(NT) "Investment"</td>
 		      <td>Declaring</td><td>1stAbstract</td><td>Democratic</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>1stGamma</td>
 		      <td>ILI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Se "Drive"</td>
+	    	  <td>?(SF) "Drive"</td>
 		      <td>Asking</td><td>1stInvolved</td><td>Democratic</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stGamma</td>
 		      <td>SEE</td><td>ESI</td>
 	    </tr>
