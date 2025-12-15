@@ -711,7 +711,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>st(S|F) "Innovation"</td>
-		      <td>Farsighted</td><td>Yielding</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Farsighted</td><td>Yielding</td><td>Static</td><td>Aristocratic</td><td>Strategic</td><td>Construct</td><td>Positivist</td>
 		      <td>SLE</td><td>EII</td>
 	    </tr>
 	    <tr>
@@ -740,7 +740,7 @@
 		      <td>SEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)e "Innovation"</td>
+	    	  <td>dy(N|T) "Innovation"</td>
 		      <td>Farsighted</td><td>Yielding</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>IEI</td><td>LSE</td>
 	    </tr>
