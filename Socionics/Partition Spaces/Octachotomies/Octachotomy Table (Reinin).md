@@ -715,7 +715,7 @@
 		      <td>SLE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(N|T) "Innovation"</td>
+	    	  <td>st(N|T) "Iteration"</td>
 		      <td>Carefree</td><td>Obstinate</td><td>Static</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Declaring</td>
 		      <td>LSI</td><td>IEE</td>
 	    </tr>
@@ -740,7 +740,7 @@
 		      <td>SEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>dy(N|T) ""</td>
+	    	  <td>dy(N|T) "Permutation"</td>
 		      <td>Farsighted</td><td>Yielding</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Emotivist</td><td>Asking</td>
 		      <td>IEI</td><td>LSE</td>
 	    </tr>
