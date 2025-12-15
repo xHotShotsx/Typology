@@ -732,7 +732,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td></td><td>LIE</td>
+		      <td>ESE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
