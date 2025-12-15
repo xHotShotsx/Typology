@@ -721,7 +721,7 @@
 	    </tr>
 	    <tr>
 	    	  <td>st(S|T) "Innovation"</td>
-		      <td>Farsighted</td><td>Obstinate</td><td>Static</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
+		      <td>Farsighted</td><td>Obstinate</td><td>Static</td><td>Democratic</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
 		      <td>LII</td><td>SEE</td>
 	    </tr>
 	    <tr>
