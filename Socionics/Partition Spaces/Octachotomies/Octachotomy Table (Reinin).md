@@ -681,17 +681,17 @@
 		      <td>SEE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Jα "Innovation"</td>
+	    	  <td>Jα "Sign"</td>
 		      <td>Rational</td><td>Farsighted</td><td>Obstinate</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Result</td>
 		      <td>ESE</td><td>LII</td>
 	    </tr>
 	    <tr>
-	    	  <td>Pδ "Innovation"</td>
+	    	  <td>Pδ "Potential"</td>
 		      <td>Irrational</td><td>Carefree</td><td>Obstinate</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Result</td>
 		      <td>IEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Jβ "Innovation"</td>
+	    	  <td>Jβ "Significance"</td>
 		      <td>Rational</td><td>Carefree</td><td>Obstinate</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Process</td>
 		      <td>EIE</td><td>LSI</td>
 	    </tr>
