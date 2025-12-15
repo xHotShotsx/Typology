@@ -80,12 +80,12 @@
 	    <tr>
 	    	  <td>Se "Drive"</td>
 		      <td>Asking</td><td>1stInvolved</td><td>Democratic</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stGamma</td>
-		      <td></td><td>SEE</td>
+		      <td>SEE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Si "Sensation"</td>
 		      <td>Declaring</td><td>1stInvolved</td><td>Democratic</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>1stAlpha</td>
-		      <td>SEI</td><td>SLI</td>
+		      <td>SEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je(S.) "Interaction"</td>
