@@ -270,22 +270,22 @@
 	    </tr>
 	    <tr>
 	    	  <td>Pi- "Distillation"</td>
-		      <td>Declaring</td><td>Democratic</td><td>Dynamic</td><td>Democratic</td><td>Negativist</td><td>Process</td><td>Introverted</td>
+		      <td>Declaring</td><td>Democratic</td><td>Dynamic</td><td>Irrational</td><td>Negativist</td><td>Process</td><td>Introverted</td>
 		      <td>SEI</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je+ "Discrimination"</td>
-		      <td>Asking</td><td>Rational</td><td>Dynamic</td><td>Democratic</td><td>Positivist</td><td>Result</td><td>Introverted</td>
+		      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td><td>Irrational</td><td>Positivist</td><td>Result</td><td>Introverted</td>
 		      <td>ESE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji- "Collation"</td>
-		      <td>Declaring</td><td>Rational</td><td>Static</td><td>Democratic</td><td>Negativist</td><td>Result</td><td>Extroverted</td>
+		      <td>Declaring</td><td>Aristocratic</td><td>Static</td><td>Irrational</td><td>Negativist</td><td>Result</td><td>Extroverted</td>
 		      <td>LII</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je- "Elaboration"</td>
-		      <td>Asking</td><td>Rational</td><td>Dynamic</td><td>Aristocratic</td><td>Negativist</td><td>Process</td><td>Extroverted</td>
+		      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td><td>Irrational</td><td>Negativist</td><td>Process</td><td>Extroverted</td>
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
