@@ -673,7 +673,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Rational</td><td>Farsighted</td><td>Yielding</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td>ESE</td><td>LII</td>
+		      <td>LSE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
@@ -683,7 +683,7 @@
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
 		      <td>Rational</td><td>Farsighted</td><td>Obstinate</td><td>Carefree</td><td>Yielding</td><td>Democratic</td><td>Positivist</td>
-		      <td></td><td></td>
+		      <td>ESE</td><td>LII</td>
 	    </tr>
 	    <tr>
 	    	  <td>(NT)e "Innovation"</td>
