@@ -90,7 +90,7 @@
 	    <tr>
 	    	  <td>Je(S.) "Interaction"</td>
 		      <td>Asking</td><td>1stInvolved</td><td>Aristocratic</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>1stAlpha</td>
-		      <td></td><td>LSE</td>
+		      <td>EIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji(S.) "Constitution"</td>
