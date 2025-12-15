@@ -705,12 +705,12 @@
 	      <td><b>EN</b></td><td><b>ET</b></td><td><b>EP</b></td><td><b>NT</b></td><td><b>NP</b></td><td><b>TP</b></td><td><b>ENTP</b></td>
 	      </tr>
 		 <tr>
-			  <td>st(N|F) "Innovation"</td>
+			  <td>st(N|F) "Ramification"</td>
 		      <td>Carefree</td><td>Yielding</td><td>Static</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Asking</td>
 		      <td>ILE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>st(S|F) "Innovation"</td>
+	    	  <td>st(S|F) "Gist"</td>
 		      <td>Farsighted</td><td>Yielding</td><td>Static</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Declaring</td>
 		      <td>SLE</td><td>EII</td>
 	    </tr>
