@@ -80,7 +80,7 @@
 	    <tr>
 	    	  <td>Se "Drive"</td>
 		      <td>Asking</td><td>1stInvolved</td><td>Democratic</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stGamma</td>
-		      <td>SLE</td><td>SEE</td>
+		      <td></td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Si "Sensation"</td>
