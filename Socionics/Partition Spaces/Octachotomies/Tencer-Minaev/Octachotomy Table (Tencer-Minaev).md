@@ -68,12 +68,12 @@
 	      <td><b>Q</b></td><td><b>A</b></td><td><b>D</b></td><td><b>QA</b></td><td><b>QD</b></td><td><b>AD</b></td><td><b>QAD</b></td>
 	      </tr>
 		 <tr>
-			  <td>Ne "Imagination"</td>
+			  <td>?(NT) "Formulation"</td>
 		      <td>Asking</td><td>1stAbstract</td><td>Democratic</td><td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td><td>1stAlpha</td>
 		      <td>ILE</td><td>LII</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ni "Insight"</td>
+	    	  <td> "Insight"</td>
 		      <td>Declaring</td><td>1stAbstract</td><td>Democratic</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>1stGamma</td>
 		      <td>ILI</td><td>LIE</td>
 	    </tr>
