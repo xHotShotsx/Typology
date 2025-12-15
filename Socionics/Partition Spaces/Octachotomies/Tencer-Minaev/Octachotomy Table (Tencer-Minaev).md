@@ -19,27 +19,27 @@
 	      <td><b>Q</b></td><td><b>A</b></td><td><b>I</b></td><td><b>QA</b></td><td><b>QI</b></td><td><b>AI</b></td><td><b>QAI</b></td>
 	      </tr>
 		 <tr>
-			  <td>(NT)e "Innovation"</td>
+			  <td>N+ "Genesis"</td>
 		      <td>Asking</td><td>1stAbstract</td><td>1stInternal</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>Positivist</td>
 		      <td>ILE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NT)i "Comprehension"</td>
+	    	  <td>N- "Foreboding"</td>
 		      <td>Declaring</td><td>1stAbstract</td><td>1stInternal</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>Negativist</td>
 		      <td>ILI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(ST)e "Implementation"</td>
+	    	  <td>F- "Disaffection"</td>
 		      <td>Asking</td><td>1stInvolved</td><td>1stInternal</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>Negativist</td>
 		      <td>EIE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(ST)i "Observance"</td>
+	    	  <td>F+ "Grace"</td>
 		      <td>Declaring</td><td>1stInvolved</td><td>1stInternal</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>Positivist</td>
 		      <td>ESE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>(SF)e "Animation"</td>
+	    	  <td>S+ "Indulgence"</td>
 		      <td>Asking</td><td>1stInvolved</td><td>1stExternal</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>Positivist</td>
 		      <td>SEE</td><td>SLI</td>
 	    </tr>
