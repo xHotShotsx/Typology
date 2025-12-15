@@ -95,7 +95,7 @@
 	    <tr>
 	    	  <td>Ji(S.) "Constitution"</td>
 		      <td>Declaring</td><td>1stInvolved</td><td>Aristocratic</td><td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td><td>1stGamma</td>
-		      <td>LSI</td><td>ESI</td>
+		      <td>SLE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je(N.) "Discretion"</td>
