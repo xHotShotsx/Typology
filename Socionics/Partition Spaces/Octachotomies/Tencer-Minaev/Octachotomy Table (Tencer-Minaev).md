@@ -222,7 +222,7 @@
 	    <tr>
 	    	  <td>!(T)i "Propensity"</td>
 		      <td>Declaring</td><td>1stInternal</td><td>2ndDelta</td><td>2ndAbstract</td><td>1stGamma</td><td>Process</td><td>Introverted</td>
-		      <td>LSI</td><td>ILI</td>
+		      <td></td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(F)e "Vivacity"</td>
