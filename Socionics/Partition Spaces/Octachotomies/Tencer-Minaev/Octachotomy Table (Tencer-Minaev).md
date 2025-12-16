@@ -276,12 +276,12 @@
 	    <tr>
 	    	  <td>Je+ "Discrimination"</td>
 		      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td><td>Irrational</td><td>Positivist</td><td>Result</td><td>Introverted</td>
-		      <td>ESE</td><td>LIE</td>
+		      <td>IEI</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji- "Collation"</td>
 		      <td>Declaring</td><td>Aristocratic</td><td>Static</td><td>Irrational</td><td>Negativist</td><td>Result</td><td>Extroverted</td>
-		      <td>LII</td><td>ESI</td>
+		      <td>SLE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je- "Elaboration"</td>
