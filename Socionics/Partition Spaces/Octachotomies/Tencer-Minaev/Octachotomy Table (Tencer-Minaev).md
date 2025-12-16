@@ -318,17 +318,17 @@
 		      <td>ILE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>P(T.)- ""</td>
+	    	  <td>P(T.)- "Anchoring"</td>
 		      <td>Declaring</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stBeta</td>
 		      <td>SLE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Δe "Practice"</td>
+	    	  <td>J(N.)- "Reverberation"</td>
 		      <td>Asking</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>1stBeta</td>
 		      <td>LII</td><td>EIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Bi "Prescription"</td>
+	    	  <td> "Prescription"</td>
 		      <td>Declaring</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>1stDelta</td>
 		      <td>LIE</td><td>EII</td>
 	    </tr>
