@@ -472,7 +472,7 @@
 	    <tr>
 	    	  <td>J(N.)+ "Prudence"</td>
 		      <td>1stAbstract</td><td>Aristocratic</td><td>2ndBeta</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Introverted</td>
-		      <td>LIE</td><td>EII</td>
+		      <td></td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(S.)- "Customisation"</td>
