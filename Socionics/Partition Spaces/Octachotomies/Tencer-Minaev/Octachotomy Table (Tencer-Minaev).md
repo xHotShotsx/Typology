@@ -127,9 +127,9 @@
 		      <td>LSI</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(S)e "Imposition"</td>
+	    	  <td>?(S)i ""</td>
 		      <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td><td>2ndExternal</td><td>1stDelta</td><td>Result</td><td>Introverted</td>
-		      <td>ESE</td><td>SLE</td>
+		      <td>ESI</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S)i ""</td>
