@@ -467,7 +467,7 @@
 	    <tr>
 	    	  <td>S- "Proprioception"</td>
 		      <td>1stInvolved</td><td>Democratic</td><td>2ndBeta</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Introverted</td>
-		      <td>SEI</td><td></td>
+		      <td>SEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(N.)+ "Prudence"</td>
