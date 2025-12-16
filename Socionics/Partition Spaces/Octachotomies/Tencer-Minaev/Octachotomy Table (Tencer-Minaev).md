@@ -433,7 +433,7 @@
 	    <tr>
 	    	  <td>?(NF) "Aspiration"</td>
 		      <td>1stAbstract</td><td>1stExternal</td><td>Dynamic</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Extroverted</td>
-		      <td></td><td>IEI</td>
+		      <td>LIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(SF) "Aesthesis"</td>
