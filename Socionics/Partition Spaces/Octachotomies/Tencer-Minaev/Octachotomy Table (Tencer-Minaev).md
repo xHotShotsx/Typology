@@ -320,7 +320,7 @@
 	    <tr>
 	    	  <td>Γi "Regard"</td>
 		      <td>Declaring</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stBeta</td>
-		      <td>ILI</td><td>ESI</td>
+		      <td>SLE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Δe "Practice"</td>
