@@ -274,7 +274,7 @@
 		      <td>SEI</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Je+ "Discrimination"</td>
+	    	  <td>Pi+ "Attunement"</td>
 		      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td><td>Irrational</td><td>Positivist</td><td>Result</td><td>Introverted</td>
 		      <td>IEI</td><td>SLI</td>
 	    </tr>
