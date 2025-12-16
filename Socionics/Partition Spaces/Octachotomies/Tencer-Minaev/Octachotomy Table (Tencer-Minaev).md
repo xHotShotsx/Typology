@@ -217,12 +217,12 @@
 		 <tr>
 			  <td>?(N)e "Enaction"</td>
 		      <td>Asking</td><td>1stInternal</td><td>2ndBeta</td><td>2ndAbstract</td><td>1stAlpha</td><td>Process</td><td>Extroverted</td>
-		      <td>ILE</td><td>LSE</td>
+		      <td>ILE</td><td>EIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(T)i "Propensity"</td>
+	    	  <td>!(N)i "Solicitude"</td>
 		      <td>Declaring</td><td>1stInternal</td><td>2ndDelta</td><td>2ndAbstract</td><td>1stGamma</td><td>Process</td><td>Introverted</td>
-		      <td></td><td>ILI</td>
+		      <td>ILI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(F)e "Vivacity"</td>
