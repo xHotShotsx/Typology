@@ -122,9 +122,9 @@
 		      <td>ILE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(N)i "Sagacity"</td>
+	    	  <td>!(T)i "Precaution"</td>
 		      <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td><td>2ndExternal</td><td>1stBeta</td><td>Process</td><td>Introverted</td>
-		      <td></td><td>EII</td>
+		      <td>LSI</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S)e "Innovation"</td>
