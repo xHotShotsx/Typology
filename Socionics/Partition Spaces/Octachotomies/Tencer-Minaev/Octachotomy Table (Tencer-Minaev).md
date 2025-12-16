@@ -137,9 +137,9 @@
 		      <td>ESE</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(S)e "Innovation"</td>
+	    	  <td>?(F)e "Innovation"</td>
 		      <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td><td>2ndInternal</td><td>1stBeta</td><td>Process</td><td>Extroverted</td>
-		      <td>SEE</td><td>LSE</td>
+		      <td>EIE</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S)i "Innovation"</td>
