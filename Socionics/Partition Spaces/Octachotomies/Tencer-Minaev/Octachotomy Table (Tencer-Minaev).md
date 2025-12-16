@@ -492,7 +492,7 @@
 	    <tr>
 	    	  <td>N- "Prognosis"</td>
 		      <td>1stAbstract</td><td>Democratic</td><td>2ndDelta</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Introverted</td>
-		      <td>ILI</td><td>IEE</td>
+		      <td>LI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>S+ "Kinesthesis"</td>
