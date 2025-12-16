@@ -348,7 +348,7 @@
 		      <td>IEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Αe "Description"</td>
+	    	  <td>P(F.)- "Avoidance"</td>
 		      <td>Declaring</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>1stDelta</td>
 		      <td>SEI</td><td>IEE</td>
 	    </tr>
