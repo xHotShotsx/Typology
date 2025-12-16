@@ -264,12 +264,12 @@
 	      <td><b>Q</b></td><td><b>D</b></td><td><b>QD</b></td><td><b>AI</b></td><td><b>QAI</b></td><td><b>AID</b></td><td><b>QAID</b></td>
 	      </tr>
 		 <tr>
-			  <td>Pe+ "Generation"</td>
+			  <td>Pe+ "Nonconformism"</td>
 		      <td>Asking</td><td>Democratic</td><td>Static</td><td>Irrational</td><td>Positivist</td><td>Process</td><td>Extroverted</td>
 		      <td>ILE</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Pi- "Distillation"</td>
+	    	  <td>Pi- "Inhibition"</td>
 		      <td>Declaring</td><td>Democratic</td><td>Dynamic</td><td>Irrational</td><td>Negativist</td><td>Process</td><td>Introverted</td>
 		      <td>SEI</td><td>ILI</td>
 	    </tr>
@@ -296,12 +296,12 @@
 	    <tr>
 	    	  <td>Pe- "Intervention"</td>
 		      <td>Asking</td><td>Democratic</td><td>Static</td><td>Rational</td><td>Negativist</td><td>Result</td><td>Introverted</td>
-		      <td>LII</td><td>IEE</td>
+		      <td>LII</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pi+ "Accession"</td>
 		      <td>Declaring</td><td>Democratic</td><td>Dynamic</td><td>Rational</td><td>Positivist</td><td>Result</td><td>Extroverted</td>
-		      <td>IEI</td><td>SLI</td>
+		      <td>ESE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>7</b></td>
