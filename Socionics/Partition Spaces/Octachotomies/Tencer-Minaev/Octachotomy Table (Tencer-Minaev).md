@@ -509,12 +509,12 @@
 	      <td><b>A</b></td><td><b>QD</b></td><td><b>QI</b></td><td><b>ID</b></td><td><b>QAI</b></td><td><b>QAD</b></td><td><b>AID</b></td>
 	      </tr>
 		 <tr>
-			  <td>(F>N)+ ""</td>
+			  <td>(N>T)+ "Theorisation"</td>
 		      <td>1stAbstract</td><td>Static</td><td>2ndBeta</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Process</td>
 		      <td>ILE</td><td>LSI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(F>S)- "Expedience"</td>
+	    	  <td>(S>F)- "Impression"</td>
 		      <td>1stInvolved</td><td>Static</td><td>2ndBeta</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Result</td>
 		      <td>SLE</td><td>ESI</td>
 	    </tr>
