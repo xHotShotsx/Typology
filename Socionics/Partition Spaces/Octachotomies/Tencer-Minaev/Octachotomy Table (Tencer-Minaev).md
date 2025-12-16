@@ -369,7 +369,7 @@
 	    <tr>
 	    	  <td>P(ST) "Modulation"</td>
 		      <td>1stInvolved</td><td>1stInternal</td><td>Democratic</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Result</td>
-		      <td>SLE</td><td>SLI</td>
+		      <td></td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(NF) "Spiration"</td>
