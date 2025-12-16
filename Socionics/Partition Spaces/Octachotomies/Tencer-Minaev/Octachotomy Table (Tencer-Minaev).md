@@ -367,12 +367,12 @@
 		      <td>ILE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>P(ST) "Modulation"</td>
+	    	  <td>J(SF) "Modulation"</td>
 		      <td>1stInvolved</td><td>1stInternal</td><td>Democratic</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Result</td>
 		      <td>ESE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>P(NF) "Spiration"</td>
+	    	  <td>J(NT) "Spiration"</td>
 		      <td>1stAbstract</td><td>1stExternal</td><td>Democratic</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Result</td>
 		      <td>LII</td><td>LIE</td>
 	    </tr>
@@ -392,14 +392,14 @@
 		      <td>ESE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(NT) "Articulation"</td>
+	    	  <td>P(NF) "Articulation"</td>
 		      <td>1stAbstract</td><td>1stInternal</td><td>Aristocratic</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Result</td>
 		      <td>IEI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(ST) "Configuration"</td>
+	    	  <td>J(NF) "Configuration"</td>
 		      <td>1stInvolved</td><td>1stInternal</td><td>Aristocratic</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Process</td>
-		      <td></td><td>LSE</td>
+		      <td>EIE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>9</b></td>
