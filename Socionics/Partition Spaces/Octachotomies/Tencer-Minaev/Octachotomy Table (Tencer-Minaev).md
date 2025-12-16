@@ -362,17 +362,17 @@
 	      <td><b>A</b></td><td><b>I</b></td><td><b>D</b></td><td><b>AI</b></td><td><b>AD</b></td><td><b>ID</b></td><td><b>AID</b></td>
 	      </tr>
 		 <tr>
-			  <td>P(NT) "Conception"</td>
+			  <td>P(NT) "Speculation"</td>
 		      <td>1stAbstract</td><td>1stInternal</td><td>Democratic</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Process</td>
 		      <td>ILE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(SF) "Modulation"</td>
+	    	  <td>J(SF) "Guarding"</td>
 		      <td>1stInvolved</td><td>1stInternal</td><td>Democratic</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Result</td>
 		      <td>ESE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(NT) "Spiration"</td>
+	    	  <td>J(NT) "Amplification"</td>
 		      <td>1stAbstract</td><td>1stExternal</td><td>Democratic</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Result</td>
 		      <td>LII</td><td>LIE</td>
 	    </tr>
@@ -382,7 +382,7 @@
 		      <td>SEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(NF) "Essence"</td>
+	    	  <td>J(NF) "Sensitivity"</td>
 		      <td>1stAbstract</td><td>1stExternal</td><td>Aristocratic</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Process</td>
 		      <td>EIE</td><td>EII</td>
 	    </tr>
