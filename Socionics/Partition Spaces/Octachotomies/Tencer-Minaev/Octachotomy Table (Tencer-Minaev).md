@@ -181,12 +181,12 @@
 		      <td>LII</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Pi(F.) "Impression"</td>
+	    	  <td>!(S|T) "Economisation"</td>
 		      <td>Declaring</td><td>1stExternal</td><td>Democratic</td><td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td><td>1stDelta</td>
 		      <td>SEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Fe "Emotion"</td>
+	    	  <td>?(ST) ""</td>
 		      <td>Asking</td><td>1stExternal</td><td>Aristocratic</td><td>2ndDelta</td><td>Dynamic</td><td>2ndExternal</td><td>1stDelta</td>
 		      <td>LSE</td><td>SLI</td>
 	    </tr>
