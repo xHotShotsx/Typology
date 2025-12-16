@@ -245,9 +245,9 @@
 		      <td>SEI</td><td>LSI</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(T)e ""</td>
+	    	  <td>?(F)i "Reckoning"</td>
 		      <td>Asking</td><td>1stInternal</td><td>2ndBeta</td><td>2ndInvolved</td><td>1stGamma</td><td>Result</td><td>Introverted</td>
-		      <td>SLE</td><td>LIE</td>
+		      <td>IEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(T)i "Acuity"</td>
