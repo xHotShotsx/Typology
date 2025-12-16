@@ -475,19 +475,19 @@
 		      <td>LSI</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Be ""</td>
+	    	  <td>Be "Projection"</td>
 		      <td>1stInvolved</td><td>Aristocratic</td><td>2ndBeta</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Extroverted</td>
 		      <td>EIE</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(N.)- "Elocution"</td>
+	    	  <td>De "Retooling"</td>
 		      <td>1stAbstract</td><td>Aristocratic</td><td>2ndDelta</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Extroverted</td>
-		      <td>LII</td><td>EIE</td>
+		      <td>LSE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(S.)+ "Presentation"</td>
 		      <td>1stInvolved</td><td>Aristocratic</td><td>2ndDelta</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Introverted</td>
-		      <td>ESE</td><td>LSI</td>
+		      <td></td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>N- "Prognosis"</td>
