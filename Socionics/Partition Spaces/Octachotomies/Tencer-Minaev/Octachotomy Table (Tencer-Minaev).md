@@ -315,7 +315,7 @@
 		 <tr>
 			  <td>Ae "Illustration"</td>
 		      <td>Asking</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>1stDelta</td>
-		      <td>ILE</td><td>ESE</td>
+		      <td>ILE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Γi "Regard"</td>
