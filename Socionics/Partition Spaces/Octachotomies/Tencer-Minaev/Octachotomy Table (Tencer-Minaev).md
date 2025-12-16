@@ -428,7 +428,7 @@
 	    <tr>
 	    	  <td> "Volition"</td>
 		      <td>1stInvolved</td><td>1stExternal</td><td>Static</td><td>Irrational</td><td>1stGamma</td><td>1stBeta</td><td>Extroverted</td>
-		      <td>SEE</td><td>ESI</td>
+		      <td>SLE</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(NF) "Aspiration"</td>
