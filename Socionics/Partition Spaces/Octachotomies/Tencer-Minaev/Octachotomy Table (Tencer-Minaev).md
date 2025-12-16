@@ -526,7 +526,7 @@
 	    <tr>
 	    	  <td>(T>S)- "Amenity"</td>
 		      <td>1stInvolved</td><td>Dynamic</td><td>2ndBeta</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Process</td>
-		      <td>SEI</td><td>LSE</td>
+		      <td></td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(F>N)- "Cogency"</td>
