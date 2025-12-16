@@ -171,7 +171,7 @@
 		      <td>ILE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(S|T) "Economisation"</td>
+	    	  <td>!(N|F) "Intimation"</td>
 		      <td>Declaring</td><td>1stInternal</td><td>Democratic</td><td>2ndDelta</td><td>Dynamic</td><td>2ndExternal</td><td>1stBeta</td>
 		      <td>ESE</td><td>ILI</td>
 	    </tr>
