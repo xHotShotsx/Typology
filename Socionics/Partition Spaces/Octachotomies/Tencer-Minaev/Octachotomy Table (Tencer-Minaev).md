@@ -198,7 +198,7 @@
 	    <tr>
 	    	  <td>Te "Application"</td>
 		      <td>Asking</td><td>1stInternal</td><td>Aristocratic</td><td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td><td>1stBeta</td>
-		      <td></td><td>LSE</td>
+		      <td>EIE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ti "Structure"</td>
