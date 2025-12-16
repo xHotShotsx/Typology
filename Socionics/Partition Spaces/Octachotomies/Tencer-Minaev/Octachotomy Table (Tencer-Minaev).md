@@ -392,7 +392,7 @@
 		      <td>SLE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>P(NF) "Articulation"</td>
+	    	  <td>P(NF) "Revelation"</td>
 		      <td>1stAbstract</td><td>1stInternal</td><td>Aristocratic</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Result</td>
 		      <td>IEI</td><td>IEE</td>
 	    </tr>
