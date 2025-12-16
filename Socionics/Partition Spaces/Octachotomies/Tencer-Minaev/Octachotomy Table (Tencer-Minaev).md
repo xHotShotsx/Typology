@@ -470,9 +470,9 @@
 		      <td>SEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(N.)+ "Prudence"</td>
+	    	  <td>Bi "Foreplanning"</td>
 		      <td>1stAbstract</td><td>Aristocratic</td><td>2ndBeta</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Introverted</td>
-		      <td></td><td>EII</td>
+		      <td>LSI</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(S.)- "Customisation"</td>
