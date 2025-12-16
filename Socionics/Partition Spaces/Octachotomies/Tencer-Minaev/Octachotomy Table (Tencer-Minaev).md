@@ -374,7 +374,7 @@
 	    <tr>
 	    	  <td>P(NF) "Spiration"</td>
 		      <td>1stAbstract</td><td>1stExternal</td><td>Democratic</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Result</td>
-		      <td></td><td>IEE</td>
+		      <td>LII</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(SF) "Innervation"</td>
