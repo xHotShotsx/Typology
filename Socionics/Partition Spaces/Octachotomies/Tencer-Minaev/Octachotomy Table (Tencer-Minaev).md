@@ -186,12 +186,12 @@
 		      <td>SEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(ST) ""</td>
+	    	  <td>?(ST) "Governance"</td>
 		      <td>Asking</td><td>1stExternal</td><td>Aristocratic</td><td>2ndDelta</td><td>Dynamic</td><td>2ndExternal</td><td>1stDelta</td>
 		      <td>LSE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Fi "Character"</td>
+	    	  <td></td>
 		      <td>Declaring</td><td>1stExternal</td><td>Aristocratic</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>1stBeta</td>
 		      <td>LSI</td><td>SLE</td>
 	    </tr>
