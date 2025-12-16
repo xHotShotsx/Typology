@@ -382,7 +382,7 @@
 		      <td>SEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(ST) "Sensitivity"</td>
+	    	  <td>J(ST) "Regulation"</td>
 		      <td>1stAbstract</td><td>1stExternal</td><td>Aristocratic</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Process</td>
 		      <td>LSI</td><td>LSE</td>
 	    </tr>
