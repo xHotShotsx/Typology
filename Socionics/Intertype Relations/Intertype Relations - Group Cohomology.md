@@ -28,7 +28,7 @@
 
 ### $\mathcal{W}$
 
-- For each dichotomy system $\mathcal{D}_i$, its wall subspace is $W_i{} \in \mathcal{W}$, fixing the wall-dichotomy set of a dichotomy system $\mathcal{D}_{i} \in \mathcal{D}$.
+- For each dichotomy system $\mathcal{D}_i$, its wall subspace is $W_i{} \subset \mathcal{W}$, fixing the wall-dichotomy set of a dichotomy system $\mathcal{D}_{i} \in \mathcal{D}$.
 
 
 ## Some Group Notations
