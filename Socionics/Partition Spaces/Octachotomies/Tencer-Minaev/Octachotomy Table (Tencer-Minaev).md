@@ -387,9 +387,9 @@
 		      <td>EIE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(SF) "Guarding"</td>
+	    	  <td>P(ST) "Embodiment"</td>
 		      <td>1stInvolved</td><td>1stExternal</td><td>Aristocratic</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Result</td>
-		      <td>SLE</td><td>ESI</td>
+		      <td>SLE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(NF) "Articulation"</td>
