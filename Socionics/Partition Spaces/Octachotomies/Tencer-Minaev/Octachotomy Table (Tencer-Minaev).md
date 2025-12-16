@@ -397,7 +397,7 @@
 		      <td>IEI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(NF) "Configuration"</td>
+	    	  <td>J(NF) "Sensitivity"</td>
 		      <td>1stInvolved</td><td>1stInternal</td><td>Aristocratic</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Process</td>
 		      <td>EIE</td><td>EII</td>
 	    </tr>
