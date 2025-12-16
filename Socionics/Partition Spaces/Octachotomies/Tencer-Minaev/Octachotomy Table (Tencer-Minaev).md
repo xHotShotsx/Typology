@@ -132,9 +132,9 @@
 		      <td>ESI</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(S)i ""</td>
+	    	  <td>!(S)e "Imposition"</td>
 		      <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td><td>2ndExternal</td><td>1stBeta</td><td>Result</td><td>Extroverted</td>
-		      <td>ESI</td><td>SLI</td>
+		      <td>ESE</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S)e "Innovation"</td>
