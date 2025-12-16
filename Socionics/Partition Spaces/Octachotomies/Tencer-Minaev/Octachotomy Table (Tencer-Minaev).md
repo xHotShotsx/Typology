@@ -225,9 +225,9 @@
 		      <td>ILI</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(F)e "Vivacity"</td>
+	    	  <td>?(T)i "Tessellation"</td>
 		      <td>Asking</td><td>1stExternal</td><td>2ndDelta</td><td>2ndAbstract</td><td>1stAlpha</td><td>Result</td><td>Introverted</td>
-		      <td>ESE</td><td>IEE</td>
+		      <td>LII</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(F)i "Predilection"</td>
