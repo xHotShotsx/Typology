@@ -350,7 +350,7 @@
 	    <tr>
 	    	  <td>Αe "Description"</td>
 		      <td>Declaring</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>1stDelta</td>
-		      <td>SEI</td><td>LII</td>
+		      <td>SEI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>8</b></td>
