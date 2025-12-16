@@ -325,7 +325,7 @@
 	    <tr>
 	    	  <td>Δe "Practice"</td>
 		      <td>Asking</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>1stBeta</td>
-		      <td>LSE</td><td>IEE</td>
+		      <td></td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Bi "Prescription"</td>
