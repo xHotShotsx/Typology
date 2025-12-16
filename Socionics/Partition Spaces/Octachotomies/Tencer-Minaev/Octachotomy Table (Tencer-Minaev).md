@@ -514,7 +514,7 @@
 		      <td>ILE</td><td>LSI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(S>F)- "Impression"</td>
+	    	  <td>(F>S)- ""</td>
 		      <td>1stInvolved</td><td>Static</td><td>2ndBeta</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Result</td>
 		      <td>SLE</td><td>ESI</td>
 	    </tr>
