@@ -235,9 +235,9 @@
 		      <td>SLE</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(F)e "Ardour"</td>
+	    	  <td>?(F)i "Reckoning"</td>
 		      <td>Asking</td><td>1stExternal</td><td>2ndDelta</td><td>2ndInvolved</td><td>1stGamma</td><td>Process</td><td>Extroverted</td>
-		      <td>EIE</td><td>SEE</td>
+		      <td>IEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(F)i "Sensibility"</td>
