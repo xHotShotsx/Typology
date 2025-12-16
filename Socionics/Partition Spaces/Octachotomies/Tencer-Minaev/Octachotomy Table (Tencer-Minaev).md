@@ -460,12 +460,12 @@
 	      <td><b>A</b></td><td><b>D</b></td><td><b>QI</b></td><td><b>AD</b></td><td><b>QAI</b></td><td><b>ETP</b></td><td><b>QAID</b></td>
 	      </tr>
 		 <tr>
-			  <td>N+ ""</td>
+			  <td>(NT)e "Enterp"</td>
 		      <td>1stAbstract</td><td>Democratic</td><td>2ndBeta</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Extroverted</td>
 		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(SF)i ""</td>
+	    	  <td>(SF)i "Withdrawal"</td>
 		      <td>1stInvolved</td><td>Democratic</td><td>2ndBeta</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Introverted</td>
 		      <td>SEI</td><td>ESI</td>
 	    </tr>
