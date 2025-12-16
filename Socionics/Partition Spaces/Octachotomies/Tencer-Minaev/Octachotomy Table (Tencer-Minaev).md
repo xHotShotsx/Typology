@@ -142,14 +142,14 @@
 		      <td>EIE</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(S)i "Innovation"</td>
+	    	  <td>!(S)i ""</td>
 		      <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td><td>2ndInternal</td><td>1stDelta</td><td>Process</td><td>Introverted</td>
 		      <td>SEI</td><td>LSI</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(N)e "Innovation"</td>
+	    	  <td>?(N)i "Pattern"</td>
 		      <td>Asking</td><td>1stAbstract</td><td>2ndAlpha</td><td>2ndInternal</td><td>1stBeta</td><td>Result</td><td>Introverted</td>
-		      <td>LIE</td><td>IEE</td>
+		      <td>LII</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(N)i "Innovation"</td>
