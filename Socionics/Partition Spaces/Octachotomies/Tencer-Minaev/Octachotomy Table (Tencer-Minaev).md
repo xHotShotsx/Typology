@@ -313,12 +313,12 @@
 	      <td><b>Q</b></td><td><b>AI</b></td><td><b>AD</b></td><td><b>ID</b></td><td><b>QAI</b></td><td><b>QAD</b></td><td><b>QID</b></td>
 	      </tr>
 		 <tr>
-			  <td>Ae "Illustration"</td>
+			  <td>P(T.)+ "Vitalisation"</td>
 		      <td>Asking</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>1stDelta</td>
 		      <td>ILE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Γi "Regard"</td>
+	    	  <td>P(T.)- ""</td>
 		      <td>Declaring</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stBeta</td>
 		      <td>SLE</td><td>ILI</td>
 	    </tr>
