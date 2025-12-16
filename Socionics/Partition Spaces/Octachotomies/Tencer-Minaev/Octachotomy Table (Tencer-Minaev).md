@@ -279,12 +279,12 @@
 		      <td>IEI</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ji- "Collation"</td>
+	    	  <td>Pe- "Subversion"</td>
 		      <td>Declaring</td><td>Aristocratic</td><td>Static</td><td>Irrational</td><td>Negativist</td><td>Result</td><td>Extroverted</td>
 		      <td>SLE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Je- "Elaboration"</td>
+	    	  <td>Je- "Conservation"</td>
 		      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td><td>Rational</td><td>Negativist</td><td>Process</td><td>Extroverted</td>
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
