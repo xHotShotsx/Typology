@@ -144,7 +144,7 @@
 	    <tr>
 	    	  <td>!(S)i ""</td>
 		      <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td><td>2ndInternal</td><td>1stDelta</td><td>Process</td><td>Introverted</td>
-		      <td>SEI</td><td>LSI</td>
+		      <td></td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(N)i "Pattern"</td>
