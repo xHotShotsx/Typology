@@ -201,7 +201,7 @@
 		      <td>EIE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ti ""</td>
+	    	  <td>!(NF) "Metanoia"</td>
 		      <td>Declaring</td><td>1stInternal</td><td>Aristocratic</td><td>2ndDelta</td><td>Static</td><td>2ndInternal</td><td>1stDelta</td>
 		      <td>EII</td><td>IEE</td>
 	    </tr>
