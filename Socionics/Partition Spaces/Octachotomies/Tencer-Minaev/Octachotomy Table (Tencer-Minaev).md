@@ -475,9 +475,9 @@
 		      <td>LSI</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(S.)- "Customisation"</td>
+	    	  <td>Be ""</td>
 		      <td>1stInvolved</td><td>Aristocratic</td><td>2ndBeta</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Extroverted</td>
-		      <td>ESI</td><td>LSE</td>
+		      <td>EIE</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(N.)- "Elocution"</td>
