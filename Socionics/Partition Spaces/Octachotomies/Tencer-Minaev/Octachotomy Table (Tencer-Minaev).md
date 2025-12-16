@@ -335,7 +335,7 @@
 	    <tr>
 	    	  <td>Βe "Demonstration"</td>
 		      <td>Asking</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stDelta</td>
-		      <td>EIE</td><td>SLE</td>
+		      <td>ESI</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Δi "Assimilation"</td>
