@@ -345,7 +345,7 @@
 	    <tr>
 	    	  <td>Γe "Indication"</td>
 		      <td>Asking</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>1stBeta</td>
-		      <td></td><td>LIE</td>
+		      <td>IEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Αe "Description"</td>
