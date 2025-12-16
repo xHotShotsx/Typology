@@ -152,9 +152,9 @@
 		      <td>LII</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(N)i "Innovation"</td>
+	    	  <td>!(T)e ""</td>
 		      <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td><td>2ndInternal</td><td>1stDelta</td><td>Result</td><td>Extroverted</td>
-		      <td>LII</td><td>IEI</td>
+		      <td>LIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>4</b></td>
