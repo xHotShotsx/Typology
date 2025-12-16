@@ -441,12 +441,12 @@
 		      <td>SEI</td><td>ESE</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(NT) "Strategy"</td>
+	    	  <td>Ni "Metamorphosis"</td>
 		      <td>1stAbstract</td><td>1stInternal</td><td>Dynamic</td><td>Irrational</td><td>1stGamma</td><td>1stBeta</td><td>Introverted</td>
 		      <td>IEI</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(ST) "Utility"</td>
+	    	  <td> "Utility"</td>
 		      <td>1stInvolved</td><td>1stInternal</td><td>Dynamic</td><td>Rational</td><td>1stAlpha</td><td>1stBeta</td><td>Extroverted</td>
 		      <td>LSE</td><td>SLI</td>
 	    </tr>
