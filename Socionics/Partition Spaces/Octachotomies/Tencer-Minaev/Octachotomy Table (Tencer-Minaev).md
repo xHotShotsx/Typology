@@ -166,17 +166,17 @@
 	      <td><b>Q</b></td><td><b>I</b></td><td><b>D</b></td><td><b>QI</b></td><td><b>QD</b></td><td><b>ID</b></td><td><b>QID</b></td>
 	      </tr>
 		 <tr>
-			  <td>Pe(T.) "Operation"</td>
+			  <td>?(N|F) "Disjunction"</td>
 		      <td>Asking</td><td>1stInternal</td><td>Democratic</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>1stDelta</td>
 		      <td>ILE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Pi(T.) "Examination"</td>
+	    	  <td>!(S|T) "Economisation"</td>
 		      <td>Declaring</td><td>1stInternal</td><td>Democratic</td><td>2ndDelta</td><td>Dynamic</td><td>2ndExternal</td><td>1stBeta</td>
 		      <td>ESE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Pe(F.) "Motivation"</td>
+	    	  <td> "Motivation"</td>
 		      <td>Asking</td><td>1stExternal</td><td>Democratic</td><td>2ndDelta</td><td>Static</td><td>2ndInternal</td><td>1stBeta</td>
 		      <td>LII</td><td>SEE</td>
 	    </tr>
