@@ -296,7 +296,7 @@
 	    <tr>
 	    	  <td>Pe- "Intervention"</td>
 		      <td>Asking</td><td>Democratic</td><td>Static</td><td>Rational</td><td>Negativist</td><td>Result</td><td>Introverted</td>
-		      <td></td><td>IEE</td>
+		      <td>LII</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pi+ "Accession"</td>
