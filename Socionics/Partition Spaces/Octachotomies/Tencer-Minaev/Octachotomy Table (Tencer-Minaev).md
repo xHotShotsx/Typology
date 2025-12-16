@@ -173,7 +173,7 @@
 	    <tr>
 	    	  <td>Pi(T.) "Examination"</td>
 		      <td>Declaring</td><td>1stInternal</td><td>Democratic</td><td>2ndDelta</td><td>Dynamic</td><td>2ndExternal</td><td>1stBeta</td>
-		      <td>ESE</td><td>SLI</td>
+		      <td>ESE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pe(F.) "Motivation"</td>
