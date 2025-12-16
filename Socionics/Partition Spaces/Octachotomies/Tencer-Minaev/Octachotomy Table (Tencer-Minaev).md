@@ -325,12 +325,12 @@
 	    <tr>
 	    	  <td>Δe "Practice"</td>
 		      <td>Asking</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>1stBeta</td>
-		      <td></td><td>IEE</td>
+		      <td>LII</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Bi "Prescription"</td>
 		      <td>Declaring</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>1stDelta</td>
-		      <td>LSI</td><td>IEI</td>
+		      <td>ILI</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Βe "Demonstration"</td>
