@@ -519,7 +519,7 @@
 		      <td>SLE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(T>N)+ "Feasibility"</td>
+	    	  <td>(T>N)+ "Strategy"</td>
 		      <td>1stAbstract</td><td>Dynamic</td><td>2ndBeta</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Result</td>
 		      <td>IEI</td><td>LIE</td>
 	    </tr>
