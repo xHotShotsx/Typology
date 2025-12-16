@@ -250,9 +250,9 @@
 		      <td>IEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(T)i "Acuity"</td>
+	    	  <td>!(F)e "Reframing"</td>
 		      <td>Declaring</td><td>1stInternal</td><td>2ndDelta</td><td>2ndInvolved</td><td>1stAlpha</td><td>Result</td><td>Extroverted</td>
-		      <td></td><td>SLI</td>
+		      <td>ESE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>6</b></td>
