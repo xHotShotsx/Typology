@@ -416,17 +416,17 @@
 		      <td>ILE</td><td>LII</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Performance"</td>
+	    	  <td>Fi "Valence"</td>
 		      <td>1stInvolved</td><td>1stInternal</td><td>Static</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Introverted</td>
-		      <td></td><td>SLE</td>
+		      <td>ESI</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(NF) "Ethos"</td>
+	    	  <td>Ti "Structure"</td>
 		      <td>1stAbstract</td><td>1stExternal</td><td>Static</td><td>Rational</td><td>1stAlpha</td><td>1stBeta</td><td>Introverted</td>
-		      <td>EII</td><td>IEE</td>
+		      <td>LII</td><td>LSI</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(SF) "Volition"</td>
+	    	  <td> "Volition"</td>
 		      <td>1stInvolved</td><td>1stExternal</td><td>Static</td><td>Irrational</td><td>1stGamma</td><td>1stBeta</td><td>Extroverted</td>
 		      <td>SEE</td><td>ESI</td>
 	    </tr>
