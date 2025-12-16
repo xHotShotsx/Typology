@@ -524,9 +524,9 @@
 		      <td>IEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(T>S)- "Amenity"</td>
+	    	  <td>(S>F)- ""</td>
 		      <td>1stInvolved</td><td>Dynamic</td><td>2ndBeta</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Process</td>
-		      <td></td><td>LSE</td>
+		      <td>SEI</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(F>N)- "Cogency"</td>
