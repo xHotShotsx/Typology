@@ -338,12 +338,12 @@
 		      <td>ESI</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Assimilation"</td>
+	    	  <td>J(S.)+ "Framing"</td>
 		      <td>Declaring</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>1stBeta</td>
 		      <td>ESE</td><td>LSI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Γe "Indication"</td>
+	    	  <td>P(F.)+ "Pioneering"</td>
 		      <td>Asking</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>1stBeta</td>
 		      <td>IEI</td><td>SEE</td>
 	    </tr>
