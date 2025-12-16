@@ -462,12 +462,12 @@
 		 <tr>
 			  <td>N+ "Semiosis"</td>
 		      <td>1stAbstract</td><td>Democratic</td><td>2ndBeta</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Extroverted</td>
-		      <td>ILE</td><td>IEI</td>
+		      <td>ILE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>S- "Proprioception"</td>
 		      <td>1stInvolved</td><td>Democratic</td><td>2ndBeta</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Introverted</td>
-		      <td>SEI</td><td>SLE</td>
+		      <td>SEI</td><td></td>
 	    </tr>
 	    <tr>
 	    	  <td>J(N.)+ "Prudence"</td>
