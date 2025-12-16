@@ -188,12 +188,12 @@
 	    <tr>
 	    	  <td>Fe "Emotion"</td>
 		      <td>Asking</td><td>1stExternal</td><td>Aristocratic</td><td>2ndDelta</td><td>Dynamic</td><td>2ndExternal</td><td>1stDelta</td>
-		      <td>ESE</td><td>EIE</td>
+		      <td>LSE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Fi "Character"</td>
 		      <td>Declaring</td><td>1stExternal</td><td>Aristocratic</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>1stBeta</td>
-		      <td>ESI</td><td>EII</td>
+		      <td></td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>Te "Application"</td>
