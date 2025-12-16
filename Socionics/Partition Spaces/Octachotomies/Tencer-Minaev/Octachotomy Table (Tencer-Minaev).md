@@ -215,7 +215,7 @@
 	      <td><b>Q</b></td><td><b>I</b></td><td><b>QI</b></td><td><b>AD</b></td><td><b>QAD</b></td><td><b>AID</b></td><td><b>QAID</b></td>
 	      </tr>
 		 <tr>
-			  <td>?(T)e "Competence"</td>
+			  <td>?(N)e "Enaction"</td>
 		      <td>Asking</td><td>1stInternal</td><td>2ndBeta</td><td>2ndAbstract</td><td>1stAlpha</td><td>Process</td><td>Extroverted</td>
 		      <td>ILE</td><td>LSE</td>
 	    </tr>
