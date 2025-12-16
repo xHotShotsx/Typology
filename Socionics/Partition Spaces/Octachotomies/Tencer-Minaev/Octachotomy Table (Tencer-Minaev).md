@@ -191,7 +191,7 @@
 		      <td>LSE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(ST) "Preserva"</td>
+	    	  <td>!(ST) "Preservation"</td>
 		      <td>Declaring</td><td>1stExternal</td><td>Aristocratic</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>1stBeta</td>
 		      <td>LSI</td><td>SLE</td>
 	    </tr>
