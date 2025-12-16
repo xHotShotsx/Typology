@@ -117,14 +117,14 @@
 	      <td><b>Q</b></td><td><b>A</b></td><td><b>QA</b></td><td><b>ID</b></td><td><b>QID</b></td><td><b>AID</b></td><td><b>QAID</b></td>
 	      </tr>
 		 <tr>
-			  <td>?(N)e "Wit"</td>
+			  <td>?(T)e "Streamlining"</td>
 		      <td>Asking</td><td>1stAbstract</td><td>2ndAlpha</td><td>2ndExternal</td><td>1stDelta</td><td>Process</td><td>Extroverted</td>
-		      <td>ILE</td><td>EIE</td>
+		      <td>ILE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N)i "Sagacity"</td>
 		      <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td><td>2ndExternal</td><td>1stBeta</td><td>Process</td><td>Introverted</td>
-		      <td>ILI</td><td>EII</td>
+		      <td></td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S)e "Innovation"</td>
