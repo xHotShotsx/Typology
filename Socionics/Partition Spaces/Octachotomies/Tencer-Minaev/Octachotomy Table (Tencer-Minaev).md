@@ -183,7 +183,7 @@
 	    <tr>
 	    	  <td>Pi(F.) "Impression"</td>
 		      <td>Declaring</td><td>1stExternal</td><td>Democratic</td><td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td><td>1stDelta</td>
-		      <td>SEI</td><td>IEI</td>
+		      <td></td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Fe "Emotion"</td>
