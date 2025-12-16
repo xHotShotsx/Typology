@@ -230,9 +230,9 @@
 		      <td>LII</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(F)i "Predilection"</td>
+	    	  <td>!(T)e "Command"</td>
 		      <td>Declaring</td><td>1stExternal</td><td>2ndBeta</td><td>2ndAbstract</td><td>1stGamma</td><td>Result</td><td>Extroverted</td>
-		      <td>IEI</td><td>ESI</td>
+		      <td>SLE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(F)e "Ardour"</td>
