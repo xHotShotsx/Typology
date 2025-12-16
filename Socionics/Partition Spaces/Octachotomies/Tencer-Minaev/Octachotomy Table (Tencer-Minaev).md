@@ -426,14 +426,14 @@
 		      <td>LII</td><td>LSI</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Volition"</td>
+	    	  <td>Se "Drive"</td>
 		      <td>1stInvolved</td><td>1stExternal</td><td>Static</td><td>Irrational</td><td>1stGamma</td><td>1stBeta</td><td>Extroverted</td>
 		      <td>SLE</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(NF) "Aspiration"</td>
 		      <td>1stAbstract</td><td>1stExternal</td><td>Dynamic</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Extroverted</td>
-		      <td>EIE</td><td>IEI</td>
+		      <td></td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(SF) "Aesthesis"</td>
