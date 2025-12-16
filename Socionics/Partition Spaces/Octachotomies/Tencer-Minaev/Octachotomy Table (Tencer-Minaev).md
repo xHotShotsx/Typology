@@ -431,12 +431,12 @@
 		      <td>SLE</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(NF) "Aspiration"</td>
+	    	  <td>Te "Application"</td>
 		      <td>1stAbstract</td><td>1stExternal</td><td>Dynamic</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Extroverted</td>
 		      <td>LIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(SF) "Aesthesis"</td>
+	    	  <td>Si "Somasensation"</td>
 		      <td>1stInvolved</td><td>1stExternal</td><td>Dynamic</td><td>Irrational</td><td>1stAlpha</td><td>1stDelta</td><td>Introverted</td>
 		      <td>SEI</td><td>ESE</td>
 	    </tr>
