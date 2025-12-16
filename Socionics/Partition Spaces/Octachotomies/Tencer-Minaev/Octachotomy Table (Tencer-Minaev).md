@@ -127,12 +127,12 @@
 		      <td>LSI</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(S)e "Innovation"</td>
+	    	  <td>!(S)e "Imposition"</td>
 		      <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td><td>2ndExternal</td><td>1stDelta</td><td>Result</td><td>Introverted</td>
 		      <td>ESE</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(S)i "Innovation"</td>
+	    	  <td>?(S)i ""</td>
 		      <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td><td>2ndExternal</td><td>1stBeta</td><td>Result</td><td>Extroverted</td>
 		      <td>ESI</td><td>SLI</td>
 	    </tr>
