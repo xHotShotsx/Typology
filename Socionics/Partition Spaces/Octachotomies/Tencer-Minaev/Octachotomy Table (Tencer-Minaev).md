@@ -235,14 +235,14 @@
 		      <td>SLE</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(F)i "Reckoning"</td>
+	    	  <td>?(S)e "Autonomy"</td>
 		      <td>Asking</td><td>1stExternal</td><td>2ndDelta</td><td>2ndInvolved</td><td>1stGamma</td><td>Process</td><td>Extroverted</td>
-		      <td>IEI</td><td>ESI</td>
+		      <td>SEE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(F)i "Sensibility"</td>
 		      <td>Declaring</td><td>1stExternal</td><td>2ndBeta</td><td>2ndInvolved</td><td>1stAlpha</td><td>Process</td><td>Introverted</td>
-		      <td>SEI</td><td>EII</td>
+		      <td></td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(T)e "Enterprise"</td>
