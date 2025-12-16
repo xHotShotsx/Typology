@@ -382,9 +382,9 @@
 		      <td>SEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(NF) "Sensitivity"</td>
+	    	  <td>J(ST) "Sensitivity"</td>
 		      <td>1stAbstract</td><td>1stExternal</td><td>Aristocratic</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Process</td>
-		      <td>EIE</td><td>EII</td>
+		      <td>LSI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(ST) "Embodiment"</td>
