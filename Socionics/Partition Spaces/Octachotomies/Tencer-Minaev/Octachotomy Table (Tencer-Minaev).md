@@ -127,7 +127,7 @@
 		      <td>LSI</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(S)i ""</td>
+	    	  <td>?(S)i "Groundedness"</td>
 		      <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td><td>2ndExternal</td><td>1stDelta</td><td>Result</td><td>Introverted</td>
 		      <td>ESI</td><td>SLI</td>
 	    </tr>
