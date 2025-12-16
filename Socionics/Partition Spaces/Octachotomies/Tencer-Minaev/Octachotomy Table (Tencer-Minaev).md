@@ -328,7 +328,7 @@
 		      <td>LII</td><td>EIE</td>
 	    </tr>
 	    <tr>
-	    	  <td> "Prescription"</td>
+	    	  <td>J(N.)+ ""</td>
 		      <td>Declaring</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>1stDelta</td>
 		      <td>LIE</td><td>EII</td>
 	    </tr>
