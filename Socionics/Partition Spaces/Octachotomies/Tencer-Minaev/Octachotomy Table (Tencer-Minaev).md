@@ -335,17 +335,17 @@
 	    <tr>
 	    	  <td>Βe "Demonstration"</td>
 		      <td>Asking</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stDelta</td>
-		      <td>ESI</td><td>SLE</td>
+		      <td>ESI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Δi "Assimilation"</td>
 		      <td>Declaring</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>1stBeta</td>
-		      <td>EII</td><td>SLI</td>
+		      <td>ESE</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Γe "Indication"</td>
 		      <td>Asking</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>1stBeta</td>
-		      <td>SEE</td><td>LIE</td>
+		      <td></td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Αe "Description"</td>
