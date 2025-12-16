@@ -377,7 +377,7 @@
 		      <td>LII</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>P(SF) "Innervation"</td>
+	    	  <td>P(SF) "Reactivity"</td>
 		      <td>1stInvolved</td><td>1stExternal</td><td>Democratic</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Process</td>
 		      <td>SEI</td><td>SEE</td>
 	    </tr>
@@ -387,9 +387,9 @@
 		      <td>EIE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(SF) "Demeanour"</td>
+	    	  <td>J(SF) "Guarding"</td>
 		      <td>1stInvolved</td><td>1stExternal</td><td>Aristocratic</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Result</td>
-		      <td>ESE</td><td>ESI</td>
+		      <td>SLE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(NF) "Articulation"</td>
