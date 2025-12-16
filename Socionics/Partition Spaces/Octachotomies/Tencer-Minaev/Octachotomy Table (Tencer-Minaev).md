@@ -446,7 +446,7 @@
 		      <td>IEI</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>EIE "Emotion"</td>
+	    	  <td>Fe "Emotion"</td>
 		      <td>1stInvolved</td><td>1stInternal</td><td>Dynamic</td><td>Rational</td><td>1stAlpha</td><td>1stBeta</td><td>Extroverted</td>
 		      <td>ESE</td><td>EIE</td>
 	    </tr>
