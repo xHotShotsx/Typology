@@ -193,12 +193,12 @@
 	    <tr>
 	    	  <td>Fi "Character"</td>
 		      <td>Declaring</td><td>1stExternal</td><td>Aristocratic</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>1stBeta</td>
-		      <td></td><td>EII</td>
+		      <td>LSI</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Te "Application"</td>
 		      <td>Asking</td><td>1stInternal</td><td>Aristocratic</td><td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td><td>1stBeta</td>
-		      <td>LIE</td><td>LSE</td>
+		      <td></td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ti "Structure"</td>
