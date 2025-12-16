@@ -411,14 +411,14 @@
 	      <td><b>A</b></td><td><b>I</b></td><td><b>QD</b></td><td><b>AI</b></td><td><b>QAD</b></td><td><b>QID</b></td><td><b>QAID</b></td>
 	      </tr>
 		 <tr>
-			  <td>?(NT) "Interpretation"</td>
+			  <td>Ne "Ideation"</td>
 		      <td>1stAbstract</td><td>1stInternal</td><td>Static</td><td>Irrational</td><td>1stAlpha</td><td>1stDelta</td><td>Extroverted</td>
 		      <td>ILE</td><td>LII</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(ST) "Performance"</td>
+	    	  <td> "Performance"</td>
 		      <td>1stInvolved</td><td>1stInternal</td><td>Static</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Introverted</td>
-		      <td>LSI</td><td>SLE</td>
+		      <td></td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(NF) "Ethos"</td>
