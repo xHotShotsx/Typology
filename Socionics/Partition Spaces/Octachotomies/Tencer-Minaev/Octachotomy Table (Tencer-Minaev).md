@@ -485,9 +485,9 @@
 		      <td>LSE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>J(S.)+ "Presentation"</td>
+	    	  <td>Di "Resonance"</td>
 		      <td>1stInvolved</td><td>Aristocratic</td><td>2ndDelta</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Introverted</td>
-		      <td></td><td>LSI</td>
+		      <td>EII</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>N- "Prognosis"</td>
