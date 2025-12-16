@@ -289,7 +289,7 @@
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ji+ "Innovation"</td>
+	    	  <td>Ji+ "Consolidation"</td>
 		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Aristocratic</td><td>Positivist</td><td>Process</td><td>Declaring</td>
 		      <td>LSI</td><td>EII</td>
 	    </tr>
