@@ -443,7 +443,7 @@
 	    <tr>
 	    	  <td>!(NT) "Strategy"</td>
 		      <td>1stAbstract</td><td>1stInternal</td><td>Dynamic</td><td>Irrational</td><td>1stGamma</td><td>1stBeta</td><td>Introverted</td>
-		      <td>ILI</td><td>LIE</td>
+		      <td>IEI</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(ST) "Utility"</td>
