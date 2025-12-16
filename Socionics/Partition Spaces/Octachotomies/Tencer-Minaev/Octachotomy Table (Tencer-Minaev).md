@@ -203,7 +203,7 @@
 	    <tr>
 	    	  <td>Ti "Structure"</td>
 		      <td>Declaring</td><td>1stInternal</td><td>Aristocratic</td><td>2ndDelta</td><td>Static</td><td>2ndInternal</td><td>1stDelta</td>
-		      <td>LII</td><td>LSI</td>
+		      <td>EII</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>5</b></td>
