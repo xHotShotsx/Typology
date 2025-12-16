@@ -394,12 +394,12 @@
 	    <tr>
 	    	  <td>J(NT) "Articulation"</td>
 		      <td>1stAbstract</td><td>1stInternal</td><td>Aristocratic</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Result</td>
-		      <td>LII</td><td>LIE</td>
+		      <td>IEI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(ST) "Configuration"</td>
 		      <td>1stInvolved</td><td>1stInternal</td><td>Aristocratic</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Process</td>
-		      <td>LSI</td><td>LSE</td>
+		      <td></td><td>LSE</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>9</b></td>
