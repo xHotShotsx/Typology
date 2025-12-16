@@ -286,7 +286,7 @@
 	    <tr>
 	    	  <td>Je- "Elaboration"</td>
 		      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td><td>Rational</td><td>Negativist</td><td>Process</td><td>Extroverted</td>
-		      <td>EIE</td><td>LSE</td>
+		      <td></td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji+ "Innovation"</td>
