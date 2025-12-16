@@ -495,7 +495,7 @@
 		      <td>LII</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>() "Kinesthesis"</td>
+	    	  <td>() ""</td>
 		      <td>1stInvolved</td><td>Democratic</td><td>2ndDelta</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Extroverted</td>
 		      <td>SEE</td><td>SLI</td>
 	    </tr>
