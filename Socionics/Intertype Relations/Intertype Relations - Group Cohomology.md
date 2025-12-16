@@ -1,4 +1,4 @@
-# Some Useful Sets
+# Foundational Objects and Notation
 ## Dichotomy Classification Hierarchy
 
 - $\mathfrak{d}$ = a dichotomy.
@@ -1323,3 +1323,4 @@ $a \mapsto (0, 0, 1, 1)$
 1. [[The Waffle Spaces]]
 2. [[The Waffle Spaces - A Brief Index]]
 3. [[Type Dichotomy Index]]
+4. Model W: https://docs.google.com/document/d/1zyG_1jSp5amzI_I3gHy_N1K8EeIFvx6ueT4FJ7GdLIw/edit?tab=t.0#heading=h.t2qbzyfy8mce
