@@ -735,14 +735,12 @@
 		      <td>ILI</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>
-	    	  
-			   "Exposition"</td>
+	    	  <td>Pi(F.) "Reception"</td>
 		      <td>2ndAlpha</td><td>2ndBeta</td><td>Dynamic</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Introverted</td>
 		      <td>SEI</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(N|T) "Permutation"</td>
+	    	  <td>Je(N.) "Appraisal"</td>
 		      <td>2ndGamma</td><td>2ndBeta</td><td>Dynamic</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Extroverted</td>
 		      <td>EIE</td><td>LIE</td>
 	    </tr>
