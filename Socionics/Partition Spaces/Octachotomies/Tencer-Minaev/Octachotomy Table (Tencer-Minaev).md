@@ -688,12 +688,12 @@
 	    <tr>
 	    	  <td>Pδ "Potential"</td>
 		      <td>Democratic</td><td>2ndAlpha</td><td>2ndDelta</td><td>Irrational</td><td>1stAlpha</td><td>1stBeta</td><td>Result</td>
-		      <td>es</td><td>SLI</td>
+		      <td>ESE</td><td>LII</td>
 	    </tr>
 	    <tr>
 	    	  <td>Jβ "Significance"</td>
 		      <td>Aristocratic</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Process</td>
-		      <td>EIE</td><td>LSI</td>
+		      <td></td><td>LSI</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>15</b></td>
