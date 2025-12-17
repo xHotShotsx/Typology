@@ -634,7 +634,7 @@
 	    <tr>
 	    	  <td>(N>F)+ "Morale"</td>
 		      <td>1stExternal</td><td>Dynamic</td><td>2ndGamma</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Result</td>
-		      <td>ESE</td><td>IEI</td>
+		      <td></td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(S>T)- "Requirement"</td>
