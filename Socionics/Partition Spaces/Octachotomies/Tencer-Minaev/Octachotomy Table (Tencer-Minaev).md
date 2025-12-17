@@ -622,9 +622,9 @@
 		      <td>ESE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(S>F)- "Desire"</td>
+	    	  <td>(T>S)- "Conservation"</td>
 		      <td>1stExternal</td><td>Dynamic</td><td>2ndAlpha</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Process</td>
-		      <td>SEI</td><td>EIE</td>
+		      <td>SEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(N>T)- "Task"</td>
