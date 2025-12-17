@@ -710,7 +710,7 @@
 		      <td>ILE</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(S|F) "Typification"</td>
+	    	  <td>Ji(S.) ""</td>
 		      <td>2ndGamma</td><td>2ndBeta</td><td>Static</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Introverted</td>
 		      <td>LSI</td><td>ESI</td>
 	    </tr>
@@ -737,12 +737,12 @@
 	    <tr>
 	    	  <td>!(S|T) "Exposition"</td>
 		      <td>2ndAlpha</td><td>2ndBeta</td><td>Dynamic</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Introverted</td>
-		      <td>SEI</td><td>LIE</td>
+		      <td>SEI</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(N|T) "Permutation"</td>
 		      <td>2ndGamma</td><td>2ndBeta</td><td>Dynamic</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Extroverted</td>
-		      <td>IEI</td><td>LSE</td>
+		      <td>EIE</td><td>LIE</td>
 	    </tr>
 	</tbody>
 </table>
