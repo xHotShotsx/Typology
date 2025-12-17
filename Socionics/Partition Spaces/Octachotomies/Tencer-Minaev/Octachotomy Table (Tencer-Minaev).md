@@ -666,12 +666,12 @@
 		      <td>SLE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Jg "Judgement"</td>
+	    	  <td>Jγ "Judgement"</td>
 		      <td>Democratic</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Result</td>
 		      <td>LIE</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Jb "Doctrine"</td>
+	    	  <td>Jβ "Doctrine"</td>
 		      <td>Aristocratic</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>1stAlpha</td><td>1stBeta</td><td>Process</td>
 		      <td>EIE</td><td>LSI</td>
 	    </tr>
@@ -681,17 +681,17 @@
 		      <td>SEE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Pd "Adaptation"</td>
+	    	  <td>Pδ "Adaptation"</td>
 		      <td>Aristocratic</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>1stAlpha</td><td>1stDelta</td><td>Result</td>
 		      <td>IEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ja "Potential"</td>
+	    	  <td>Jα "Curation"</td>
 		      <td>Democratic</td><td>2ndAlpha</td><td>2ndDelta</td><td>Irrational</td><td>1stAlpha</td><td>1stBeta</td><td>Result</td>
 		      <td>ESE</td><td>LII</td>
 	    </tr>
 	    <tr>
-	    	  <td>Jd "Significance"</td>
+	    	  <td>Jδ "Custodianship"</td>
 		      <td>Aristocratic</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Process</td>
 		      <td>LSE</td><td>EII</td>
 	    </tr>
