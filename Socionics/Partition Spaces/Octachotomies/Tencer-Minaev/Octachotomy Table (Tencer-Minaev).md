@@ -642,7 +642,7 @@
 		      <td>ESI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(T>S)+ "Conviction"</td>
+	    	  <td>(T>S)+ "Dissent"</td>
 		      <td>1stExternal</td><td>Static</td><td>2ndGamma</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Process</td>
 		      <td>LSI</td><td>SEE</td>
 	    </tr>
