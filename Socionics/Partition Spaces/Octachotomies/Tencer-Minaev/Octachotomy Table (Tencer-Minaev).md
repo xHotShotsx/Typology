@@ -568,7 +568,7 @@
 		      <td>SEI</td><td>LII</td>
 	    </tr>
 	    <tr>
-	    	  <td>T+ "Formulation"</td>
+	    	  <td>(NF)i "Edification"</td>
 		      <td>1stInternal</td><td>Aristocratic</td><td>2ndAlpha</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Introverted</td>
 		      <td>LSI</td><td>LIE</td>
 	    </tr>
