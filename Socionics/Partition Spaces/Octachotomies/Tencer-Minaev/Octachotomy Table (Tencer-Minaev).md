@@ -612,7 +612,7 @@
 		      <td>ILE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>(N>F)- "Expectation"</td>
+	    	  <td>(N>F)- ""</td>
 		      <td>1stExternal</td><td>Static</td><td>2ndAlpha</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Result</td>
 		      <td>ESI</td><td>IEE</td>
 	    </tr>
