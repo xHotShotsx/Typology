@@ -558,14 +558,14 @@
 	      <td><b>I</b></td><td><b>D</b></td><td><b>QA</b></td><td><b>ID</b></td><td><b>QAI</b></td><td><b>QAD</b></td><td><b>QAID</b></td>
 	      </tr>
 		 <tr>
-			  <td>?(N)e "Emanation"</td>
+			  <td>Ae "Enlivening"</td>
 		      <td>1stInternal</td><td>Democratic</td><td>2ndAlpha</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Extroverted</td>
 		      <td>ILE</td><td>ESE</td>
 	    </tr>
 	    <tr>
-	    	  <td>P(F.)- "Elicitation"</td>
+	    	  <td>Ai "Refinement"</td>
 		      <td>1stExternal</td><td>Democratic</td><td>2ndAlpha</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Introverted</td>
-		      <td>SEI</td><td></td>
+		      <td>SEI</td><td>LII</td>
 	    </tr>
 	    <tr>
 	    	  <td>T+ "Formulation"</td>
