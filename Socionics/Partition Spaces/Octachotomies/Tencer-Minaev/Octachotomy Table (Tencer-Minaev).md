@@ -570,15 +570,15 @@
 	    <tr>
 	    	  <td>(NF)i "Edification"</td>
 		      <td>1stInternal</td><td>Aristocratic</td><td>2ndAlpha</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Introverted</td>
-		      <td>LSI</td><td>LIE</td>
+		      <td>IEI</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>F- "Preference"</td>
+	    	  <td>(ST)e "Curtailing"</td>
 		      <td>1stExternal</td><td>Aristocratic</td><td>2ndAlpha</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Extroverted</td>
 		      <td>SLE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>T- "Schematisation"</td>
+	    	  <td>(NF)e "Embel"</td>
 		      <td>1stInternal</td><td>Aristocratic</td><td>2ndGamma</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Extroverted</td>
 		      <td>EIE</td><td>IEE</td>
 	    </tr>
