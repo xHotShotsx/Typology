@@ -686,14 +686,14 @@
 		      <td>IEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Pδ "Potential"</td>
+	    	  <td>Ja "Potential"</td>
 		      <td>Democratic</td><td>2ndAlpha</td><td>2ndDelta</td><td>Irrational</td><td>1stAlpha</td><td>1stBeta</td><td>Result</td>
 		      <td>ESE</td><td>LII</td>
 	    </tr>
 	    <tr>
-	    	  <td>Jβ "Significance"</td>
+	    	  <td>Jd "Significance"</td>
 		      <td>Aristocratic</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Process</td>
-		      <td></td><td>LSI</td>
+		      <td>LSE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>15</b></td>
