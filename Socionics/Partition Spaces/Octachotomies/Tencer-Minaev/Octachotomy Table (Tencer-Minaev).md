@@ -725,17 +725,19 @@
 		      <td>SEE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(S|F) "Characterisation"</td>
+	    	  <td>Je(S.) "Presentation"</td>
 		      <td>2ndAlpha</td><td>2ndDelta</td><td>Dynamic</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Extroverted</td>
 		      <td>ESE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(N|F) "Gist"</td>
+	    	  <td>Pi(T.) "Precaution"</td>
 		      <td>2ndGamma</td><td>2ndDelta</td><td>Dynamic</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Introverted</td>
 		      <td>ILI</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(S|T) "Exposition"</td>
+	    	  <td>
+	    	  
+			   "Exposition"</td>
 		      <td>2ndAlpha</td><td>2ndBeta</td><td>Dynamic</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Introverted</td>
 		      <td>SEI</td><td>IEI</td>
 	    </tr>
