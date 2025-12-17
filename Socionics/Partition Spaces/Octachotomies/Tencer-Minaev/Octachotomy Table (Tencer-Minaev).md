@@ -617,9 +617,9 @@
 		      <td>LII</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(S>T)+ "Appraisal"</td>
+	    	  <td>(N>F)+ "Idealism"</td>
 		      <td>1stInternal</td><td>Dynamic</td><td>2ndAlpha</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Result</td>
-		      <td></td><td>SLI</td>
+		      <td>ESE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(S>F)- "Desire"</td>
