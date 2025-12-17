@@ -536,7 +536,7 @@
 	    <tr>
 	    	  <td>(F>S)+ "Ease"</td>
 		      <td>1stInvolved</td><td>Dynamic</td><td>2ndDelta</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Result</td>
-		      <td>ESE</td><td>SLI</td>
+		      <td></td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(T>N)- "Validity"</td>
