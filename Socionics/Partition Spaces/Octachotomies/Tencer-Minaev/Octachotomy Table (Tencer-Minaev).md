@@ -609,7 +609,7 @@
 		 <tr>
 			  <td>(N>T)+ "Presupposition"</td>
 		      <td>1stInternal</td><td>Static</td><td>2ndAlpha</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Process</td>
-		      <td>ILE</td><td>LSI</td>
+		      <td>ILE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>(N>F)- "Expectation"</td>
