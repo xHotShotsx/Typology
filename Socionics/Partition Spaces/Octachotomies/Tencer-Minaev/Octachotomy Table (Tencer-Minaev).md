@@ -688,7 +688,7 @@
 	    <tr>
 	    	  <td>Pδ "Potential"</td>
 		      <td>Democratic</td><td>2ndAlpha</td><td>2ndDelta</td><td>Irrational</td><td>1stAlpha</td><td>1stBeta</td><td>Result</td>
-		      <td>IEE</td><td>SLI</td>
+		      <td>es</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Jβ "Significance"</td>
