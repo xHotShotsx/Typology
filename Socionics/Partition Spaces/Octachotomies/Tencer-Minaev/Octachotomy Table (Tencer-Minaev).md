@@ -666,7 +666,7 @@
 		      <td>SLE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Pβ "Import"</td>
+	    	  <td>Jg "Judgement"</td>
 		      <td>Democratic</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Result</td>
 		      <td>SLE</td><td>IEI</td>
 	    </tr>
