@@ -668,7 +668,7 @@
 	    <tr>
 	    	  <td>Jg "Judgement"</td>
 		      <td>Democratic</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Result</td>
-		      <td>SLE</td><td>IEI</td>
+		      <td>LIE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Jb "Doctrine"</td>
@@ -681,9 +681,9 @@
 		      <td>SEE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Jα "Sign"</td>
+	    	  <td>Pd "Adaptation"</td>
 		      <td>Aristocratic</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>1stAlpha</td><td>1stDelta</td><td>Result</td>
-		      <td>ESE</td><td>LII</td>
+		      <td>IEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pδ "Potential"</td>
