@@ -612,14 +612,14 @@
 		      <td>ILE</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>(T>S)+ "Dissent"</td>
+	    	  <td>(S>T)- "Compression"</td>
 		      <td>1stExternal</td><td>Static</td><td>2ndAlpha</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Result</td>
-		      <td></td><td>SEE</td>
+		      <td>LII</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(S>T)+ "Appraisal"</td>
 		      <td>1stInternal</td><td>Dynamic</td><td>2ndAlpha</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Result</td>
-		      <td>LIE</td><td>SLI</td>
+		      <td></td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(S>F)- "Desire"</td>
