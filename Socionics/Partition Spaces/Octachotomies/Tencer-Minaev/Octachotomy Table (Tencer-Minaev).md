@@ -531,7 +531,7 @@
 	    <tr>
 	    	  <td>(F>N)- "Cogency"</td>
 		      <td>1stAbstract</td><td>Dynamic</td><td>2ndDelta</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Process</td>
-		      <td></td><td>ILI</td>
+		      <td>ILI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(F>S)+ "Ease"</td>
