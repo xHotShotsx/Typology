@@ -661,9 +661,9 @@
 		      <td>ILE</td><td>SEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Jγ "Priority"</td>
+	    	  <td>Pβ "Manifestation"</td>
 		      <td>Aristocratic</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>1stGamma</td><td>1stBeta</td><td>Result</td>
-		      <td>LIE</td><td>ESI</td>
+		      <td>SLE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pβ "Import"</td>
