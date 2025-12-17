@@ -637,14 +637,14 @@
 		      <td>LIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(S>T)- "Requirement"</td>
+	    	  <td>(N>F)- "Opposition"</td>
 		      <td>1stInternal</td><td>Static</td><td>2ndGamma</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Result</td>
-		      <td>LII</td><td>SLE</td>
+		      <td>ESI</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(S>F)+ "Conviction"</td>
+	    	  <td>(T>S)+ "Conviction"</td>
 		      <td>1stExternal</td><td>Static</td><td>2ndGamma</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Process</td>
-		      <td>SEE</td><td>EII</td>
+		      <td>LSI</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>14</b></td>
