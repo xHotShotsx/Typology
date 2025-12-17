@@ -539,12 +539,12 @@
 		      <td>ESE</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(T>N)- "Validity"</td>
+	    	  <td>(T>N)- "Reconfiguration"</td>
 		      <td>1stAbstract</td><td>Static</td><td>2ndDelta</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Result</td>
 		      <td>LII</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(T>S)+ "Determination"</td>
+	    	  <td>(S>F)+ ""</td>
 		      <td>1stInvolved</td><td>Static</td><td>2ndDelta</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Process</td>
 		      <td>LSI</td><td>SEE</td>
 	    </tr>
