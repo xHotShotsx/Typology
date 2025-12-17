@@ -544,9 +544,9 @@
 		      <td>LII</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(S>F)+ ""</td>
+	    	  <td>(S>F)+ "Advocacy"</td>
 		      <td>1stInvolved</td><td>Static</td><td>2ndDelta</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Process</td>
-		      <td>LSI</td><td>SEE</td>
+		      <td>SEE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>12</b></td>
