@@ -656,7 +656,7 @@
 	      <td><b>D</b></td><td><b>QA</b></td><td><b>QI</b></td><td><b>AI</b></td><td><b>QAD</b></td><td><b>QID</b></td><td><b>AID</b></td>
 	      </tr>
 		 <tr>
-			  <td>Pα "Meaning"</td>
+			  <td>Pα "Discernment"</td>
 		      <td>Democratic</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>1stAlpha</td><td>1stDelta</td><td>Process</td>
 		      <td>ILE</td><td>SEI</td>
 	    </tr>
