@@ -607,7 +607,7 @@
 	      <td><b>I</b></td><td><b>QD</b></td><td><b>QA</b></td><td><b>AD</b></td><td><b>QAI</b></td><td><b>QID</b></td><td><b>AID</b></td>
 	      </tr>
 		 <tr>
-			  <td>(N>T)+ "Presupposition"</td>
+			  <td>(F>N)+ "Kindling"</td>
 		      <td>1stInternal</td><td>Static</td><td>2ndAlpha</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Process</td>
 		      <td>ILE</td><td>EII</td>
 	    </tr>
