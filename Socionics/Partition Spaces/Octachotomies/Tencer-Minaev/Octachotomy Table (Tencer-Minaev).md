@@ -629,7 +629,7 @@
 	    <tr>
 	    	  <td>(N>T)- "Task"</td>
 		      <td>1stInternal</td><td>Dynamic</td><td>2ndGamma</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Process</td>
-		      <td>ILI</td><td>LSE</td>
+		      <td></td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(N>F)+ "Morale"</td>
