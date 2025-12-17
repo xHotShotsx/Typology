@@ -480,12 +480,12 @@
 		      <td>EIE</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>De "Retooling"</td>
+	    	  <td>Δe "Retooling"</td>
 		      <td>1stAbstract</td><td>Aristocratic</td><td>2ndDelta</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Extroverted</td>
 		      <td>LSE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Di "Resonance"</td>
+	    	  <td>Δi "Resonance"</td>
 		      <td>1stInvolved</td><td>Aristocratic</td><td>2ndDelta</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Introverted</td>
 		      <td>EII</td><td>SLI</td>
 	    </tr>
@@ -588,12 +588,12 @@
 		      <td>LSI</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Gi "Reclusion"</td>
+	    	  <td>Γi "Reclusion"</td>
 		      <td>1stInternal</td><td>Democratic</td><td>2ndGamma</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Introverted</td>
 		      <td>ILI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ge "M"</td>
+	    	  <td>Γe "Mobilisation"</td>
 		      <td>1stExternal</td><td>Democratic</td><td>2ndGamma</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Extroverted</td>
 		      <td>SEE</td><td>LIE</td>
 	    </tr>
