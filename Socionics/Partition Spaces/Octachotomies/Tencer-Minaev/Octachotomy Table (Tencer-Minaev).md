@@ -632,9 +632,9 @@
 		      <td>EIE</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>(N>F)+ "Morale"</td>
+	    	  <td>(S>T)+ "Provision"</td>
 		      <td>1stExternal</td><td>Dynamic</td><td>2ndGamma</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Result</td>
-		      <td></td><td>IEI</td>
+		      <td>LIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(S>T)- "Requirement"</td>
