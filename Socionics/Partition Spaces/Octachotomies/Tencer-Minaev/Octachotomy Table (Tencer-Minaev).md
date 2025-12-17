@@ -712,7 +712,7 @@
 	    <tr>
 	    	  <td>!(S|F) "Typification"</td>
 		      <td>2ndGamma</td><td>2ndBeta</td><td>Static</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Introverted</td>
-		      <td>SLE</td><td>EII</td>
+		      <td></td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N|T) "Iteration"</td>
