@@ -575,17 +575,17 @@
 	    <tr>
 	    	  <td>F- "Preference"</td>
 		      <td>1stExternal</td><td>Aristocratic</td><td>2ndAlpha</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Extroverted</td>
-		      <td></td><td>ESI</td>
+		      <td>SLE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>T- "Schematisation"</td>
 		      <td>1stInternal</td><td>Aristocratic</td><td>2ndGamma</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Extroverted</td>
-		      <td>LII</td><td>LSE</td>
+		      <td>EIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>F+ "Esteem"</td>
 		      <td>1stExternal</td><td>Aristocratic</td><td>2ndGamma</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Introverted</td>
-		      <td>ESE</td><td>EII</td>
+		      <td></td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(T.)- "Instantiation"</td>
