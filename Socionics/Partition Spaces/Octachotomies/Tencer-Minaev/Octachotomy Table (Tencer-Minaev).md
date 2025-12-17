@@ -575,7 +575,7 @@
 	    <tr>
 	    	  <td>F- "Preference"</td>
 		      <td>1stExternal</td><td>Aristocratic</td><td>2ndAlpha</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Extroverted</td>
-		      <td>EIE</td><td>ESI</td>
+		      <td></td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>T- "Schematisation"</td>
