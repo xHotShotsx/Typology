@@ -627,9 +627,9 @@
 		      <td>SEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(N>T)- "Task"</td>
+	    	  <td>(F>N)- "Earnestness"</td>
 		      <td>1stInternal</td><td>Dynamic</td><td>2ndGamma</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Process</td>
-		      <td></td><td>LSE</td>
+		      <td>EIE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(N>F)+ "Morale"</td>
