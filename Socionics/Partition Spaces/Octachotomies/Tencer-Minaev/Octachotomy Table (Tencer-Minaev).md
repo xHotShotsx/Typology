@@ -585,17 +585,17 @@
 	    <tr>
 	    	  <td>F+ "Esteem"</td>
 		      <td>1stExternal</td><td>Aristocratic</td><td>2ndGamma</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Introverted</td>
-		      <td></td><td>EII</td>
+		      <td>LSI</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(T.)- "Instantiation"</td>
 		      <td>1stInternal</td><td>Democratic</td><td>2ndGamma</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Introverted</td>
-		      <td>SLE</td><td>ILI</td>
+		      <td>ILI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(F.)+ "Ambition"</td>
 		      <td>1stExternal</td><td>Democratic</td><td>2ndGamma</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Extroverted</td>
-		      <td>IEI</td><td>SEE</td>
+		      <td>SEE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	      <td rowspan="10"><b>13</b></td>
