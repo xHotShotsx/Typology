@@ -578,22 +578,22 @@
 		      <td>SLE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>(NF)e "Embel"</td>
+	    	  <td>(NF)e "Embellishment"</td>
 		      <td>1stInternal</td><td>Aristocratic</td><td>2ndGamma</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Extroverted</td>
 		      <td>EIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>F+ "Esteem"</td>
+	    	  <td>(ST)i "Consolidation"</td>
 		      <td>1stExternal</td><td>Aristocratic</td><td>2ndGamma</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Introverted</td>
 		      <td>LSI</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>P(T.)- "Instantiation"</td>
+	    	  <td>Gi "Reclusion"</td>
 		      <td>1stInternal</td><td>Democratic</td><td>2ndGamma</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Introverted</td>
 		      <td>ILI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>P(F.)+ "Ambition"</td>
+	    	  <td>Ge "M"</td>
 		      <td>1stExternal</td><td>Democratic</td><td>2ndGamma</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Extroverted</td>
 		      <td>SEE</td><td>LIE</td>
 	    </tr>
