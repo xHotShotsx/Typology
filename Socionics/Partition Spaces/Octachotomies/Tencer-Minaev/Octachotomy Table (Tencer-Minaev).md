@@ -710,17 +710,17 @@
 		      <td>ILE</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ji(S.) ""</td>
+	    	  <td>Ji(S.) "Conviction"</td>
 		      <td>2ndGamma</td><td>2ndBeta</td><td>Static</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Introverted</td>
 		      <td>LSI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>!(N|T) "Iteration"</td>
+	    	  <td>Ji(N.) "Integration"</td>
 		      <td>2ndAlpha</td><td>2ndDelta</td><td>Static</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Introverted</td>
 		      <td>LII</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>?(S|T) "Extrapolation"</td>
+	    	  <td>Pe(F.) "Deviation"</td>
 		      <td>2ndGamma</td><td>2ndDelta</td><td>Static</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Extroverted</td>
 		      <td>SEE</td><td>IEE</td>
 	    </tr>
