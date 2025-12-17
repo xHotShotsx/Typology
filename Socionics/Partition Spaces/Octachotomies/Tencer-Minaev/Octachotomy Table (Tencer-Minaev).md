@@ -676,7 +676,7 @@
 		      <td>EIE</td><td>LSI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Pγ "Purpose"</td>
+	    	  <td>Pγ "Circumspection"</td>
 		      <td>Democratic</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>1stGamma</td><td>1stBeta</td><td>Process</td>
 		      <td>SEE</td><td>ILI</td>
 	    </tr>
