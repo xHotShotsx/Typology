@@ -705,9 +705,9 @@
 	      <td><b>QA</b></td><td><b>QI</b></td><td><b>QD</b></td><td><b>AI</b></td><td><b>AD</b></td><td><b>ID</b></td><td><b>QAID</b></td>
 	      </tr>
 		 <tr>
-			  <td>?(N|F) "Ramification"</td>
+			  <td>Pe(T.) "Activation"</td>
 		      <td>2ndAlpha</td><td>2ndBeta</td><td>Static</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Extroverted</td>
-		      <td>ILE</td><td>ESI</td>
+		      <td>ILE</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S|F) "Typification"</td>
