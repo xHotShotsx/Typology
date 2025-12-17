@@ -671,9 +671,9 @@
 		      <td>SLE</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Jδ "Value"</td>
+	    	  <td>Jb "Doctrine"</td>
 		      <td>Aristocratic</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>1stAlpha</td><td>1stBeta</td><td>Process</td>
-		      <td>LSE</td><td>EII</td>
+		      <td>EIE</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pγ "Purpose"</td>
