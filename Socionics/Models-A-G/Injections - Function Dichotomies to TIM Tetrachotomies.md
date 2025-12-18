@@ -151,16 +151,16 @@
 
 #### For Waiting
 
-|       Function Dichotomy       |   TIM Tetrachotomy   |
-| :----------------------------: | :------------------: |
-|           Valid/Null           |    Process/Result    |
-|        Opening/Closing         | Rings of Supervision |
-|        Stable/Unstable         |  Stress Resistance   |
-|       External/Internal        |   Rings of Benefit   |
-|    Energetic/Informational     |     Waiting HEF      |
-|     Excitable/Inhibitable      |                      |
-| Impressionable/Unimpresionable |                      |
-|       Tensioned/Relaxed        |                      |
+|       Function Dichotomy       |   TIM Tetrachotomy    |
+| :----------------------------: | :-------------------: |
+|           Valid/Null           |    Process/Result     |
+|        Opening/Closing         | Rings of Supervision  |
+|        Stable/Unstable         |   Stress Resistance   |
+|       External/Internal        |   Rings of Benefit    |
+|    Energetic/Informational     |      Waiting HEF      |
+|     Excitable/Inhibitable      |  Realistic Plans HEF  |
+| Impressionable/Unimpresionable | Iridescent Hopes HEF  |
+|       Tensioned/Relaxed        | Avoiding Failures HEF |
 
 #### For Realistic Plans
 
