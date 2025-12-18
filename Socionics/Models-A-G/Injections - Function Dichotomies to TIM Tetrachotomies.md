@@ -171,8 +171,8 @@
 |        Stable/Unstable         |  Stress Resistance   |
 |       External/Internal        |   Rings of Benefit   |
 |    Energetic/Informational     | Realistic Plans HEF  |
-|     Excitable/Inhibitable      |                      |
-| Impressionable/Unimpresionable |                      |
+|     Excitable/Inhibitable      |     Waiting HEF      |
+| Impressionable/Unimpresionable | Iridescent Hopes HEF |
 |       Tensioned/Relaxed        |                      |
 
 #### For Avoiding Failures
