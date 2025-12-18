@@ -164,16 +164,16 @@
 
 #### For Realistic Plans
 
-|       Function Dichotomy       |   TIM Tetrachotomy   |
-| :----------------------------: | :------------------: |
-|           Valid/Null           |    Process/Result    |
-|        Opening/Closing         | Rings of Supervision |
-|        Stable/Unstable         |  Stress Resistance   |
-|       External/Internal        |   Rings of Benefit   |
-|    Energetic/Informational     | Realistic Plans HEF  |
-|     Excitable/Inhibitable      |     Waiting HEF      |
-| Impressionable/Unimpresionable |                      |
-|       Tensioned/Relaxed        |                      |
+|       Function Dichotomy       |   TIM Tetrachotomy    |
+| :----------------------------: | :-------------------: |
+|           Valid/Null           |    Process/Result     |
+|        Opening/Closing         | Rings of Supervision  |
+|        Stable/Unstable         |   Stress Resistance   |
+|       External/Internal        |   Rings of Benefit    |
+|    Energetic/Informational     |  Realistic Plans HEF  |
+|     Excitable/Inhibitable      |      Waiting HEF      |
+| Impressionable/Unimpresionable | Avoiding Failures HEF |
+|       Tensioned/Relaxed        | Iridescent Hopes HEF  |
 
 #### For Avoiding Failures
 
