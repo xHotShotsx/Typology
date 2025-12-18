@@ -207,5 +207,6 @@
 
 - [[Tetrachotomy Table (Reinin)]]
 - [[Tetrachotomy Table (Tencer-Minaev)]]
-- [Tetrachotomy Table ()](https://docs.google.com/document/d/1I6pyl4NzNdYKgeAwYfX0e8gVUAtQ8vu_lOL5HlYRMaw/edit?tab=t.0)
-- 
+- [Tetrachotomy Table (Semidual Mirage HEF)](https://docs.google.com/document/d/1I6pyl4NzNdYKgeAwYfX0e8gVUAtQ8vu_lOL5HlYRMaw/edit?tab=t.0)
+- [Tetrachotomy Table (Kindred Business HEF)](https://docs.google.com/document/d/1wFnnyy3WRPSyEKu_qo5ixroO1twwIi0-Kz08FtmBN84/edit?tab=t.0)
+- [Tetrachotomy ]
