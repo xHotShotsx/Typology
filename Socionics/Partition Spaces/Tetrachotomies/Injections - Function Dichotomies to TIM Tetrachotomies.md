@@ -211,23 +211,23 @@
 |        Opening/Closing         | Rings of Supervision |
 |        Stable/Unstable         |  Stress Resistance   |
 |       External/Internal        |   Rings of Benefit   |
-|    Energetic/Informational     |        Balan         |
+|    Energetic/Informational     |                      |
 |     Excitable/Inhibitable      |                      |
 | Impressionable/Unimpresionable |                      |
 |       Tensioned/Relaxed        |                      |
 
 #### For Balanced Stable Types
 
-|       Function Dichotomy       |   TIM Tetrachotomy   |
-| :----------------------------: | :------------------: |
-|           Valid/Null           |    Process/Result    |
-|        Opening/Closing         | Rings of Supervision |
-|        Stable/Unstable         |  Stress Resistance   |
-|       External/Internal        |   Rings of Benefit   |
-|    Energetic/Informational     |                      |
-|     Excitable/Inhibitable      |                      |
-| Impressionable/Unimpresionable |                      |
-|       Tensioned/Relaxed        |                      |
+|       Function Dichotomy       |    TIM Tetrachotomy    |
+| :----------------------------: | :--------------------: |
+|           Valid/Null           |     Process/Result     |
+|        Opening/Closing         |  Rings of Supervision  |
+|        Stable/Unstable         |   Stress Resistance    |
+|       External/Internal        |    Rings of Benefit    |
+|    Energetic/Informational     | Receptive Adaptive HEF |
+|     Excitable/Inhibitable      |  Balanced Stable HEF   |
+| Impressionable/Unimpresionable |                        |
+|       Tensioned/Relaxed        |                        |
 
 #### For Receptive Adaptive Types
 
