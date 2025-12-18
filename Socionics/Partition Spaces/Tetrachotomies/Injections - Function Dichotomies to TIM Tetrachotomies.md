@@ -203,4 +203,8 @@
 | Impressionable/Unimpresionable |                          |
 |       Tensioned/Relaxed        |                          |
 
-# Se
+# See Also
+
+- [[Tetrachotomy Table (Reinin)]]
+- [[Tetrachotomy Table (Tencer-Minaev)]]
+- 
