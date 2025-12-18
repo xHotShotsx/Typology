@@ -92,7 +92,6 @@
 |       Values/Tools        | $G_{1} \cap R_{3} \cap I_{1} \cap U_{3}$ |    Project Groups     |
 |    Automatic/Conscious    | $G_{1} \cap R_{4} \cap I_{2} \cap U_{3}$ |  Dispository Groups   |
 
-
 #### For Rational Types
 
 |    Function Dichotomy     |      TIM Tetrachotomy Construction       |   TIM Tetrachotomy    |
@@ -152,16 +151,16 @@
 
 #### For Waiting
 
-|       Function Dichotomy       |   TIM Tetrachotomy    |
-| :----------------------------: | :-------------------: |
-|           Valid/Null           |    Process/Result     |
-|        Opening/Closing         | Rings of Supervision  |
-|        Stable/Unstable         |   Stress Resistance   |
-|       External/Internal        |   Rings of Benefit    |
-|    Energetic/Informational     | Iridescent Hopes HEF  |
-|     Excitable/Inhibitable      | Avoiding Failures HEF |
-| Impressionable/Unimpresionable |      Waiting HEF      |
-|       Tensioned/Relaxed        |  Realistic Plans HEF  |
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |     Waiting HEF      |
+|     Excitable/Inhibitable      |                      |
+| Impressionable/Unimpresionable |                      |
+|       Tensioned/Relaxed        |                      |
 
 #### For Realistic Plans
 
@@ -176,4 +175,15 @@
 | Impressionable/Unimpresionable |      Waiting HEF      |
 |       Tensioned/Relaxed        |  Realistic Plans HEF  |
 
-#### For A
+#### For Avoiding Failures
+
+|       Function Dichotomy       |   TIM Tetrachotomy    |
+| :----------------------------: | :-------------------: |
+|           Valid/Null           |    Process/Result     |
+|        Opening/Closing         | Rings of Supervision  |
+|        Stable/Unstable         |   Stress Resistance   |
+|       External/Internal        |   Rings of Benefit    |
+|    Energetic/Informational     | Iridescent Hopes HEF  |
+|     Excitable/Inhibitable      | Avoiding Failures HEF |
+| Impressionable/Unimpresionable |      Waiting HEF      |
+|       Tensioned/Relaxed        |  Realistic Plans HEF  |
