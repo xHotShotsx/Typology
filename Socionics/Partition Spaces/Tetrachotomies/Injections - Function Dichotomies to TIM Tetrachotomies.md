@@ -246,6 +246,32 @@
 ### Activation Quasi Identity HEF
 #### For Approaching Types
 
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |                      |
+|     Excitable/Inhibitable      |                      |
+| Impressionable/Unimpresionable |                      |
+|       Tensioned/Relaxed        |                      |
+
+#### For Shaping Types
+
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |                      |
+|     Excitable/Inhibitable      |                      |
+| Impressionable/Unimpresionable |                      |
+|       Tensioned/Relaxed        |                      |
+
+#### For Abstaining Types
+
 
 
 # See Also
