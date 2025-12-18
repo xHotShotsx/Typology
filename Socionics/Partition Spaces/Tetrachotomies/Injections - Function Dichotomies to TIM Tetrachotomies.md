@@ -213,7 +213,7 @@
 |       External/Internal        |   Rings of Benefit   |
 |    Energetic/Informational     | Linear Assertive HEF |
 |     Excitable/Inhibitable      |                      |
-| Impressionable/Unimpresionable |                      |
+| Impressionable/Unimpresionable | Balanced Stable HEF  |
 |       Tensioned/Relaxed        |                      |
 
 #### For Balanced Stable Types
