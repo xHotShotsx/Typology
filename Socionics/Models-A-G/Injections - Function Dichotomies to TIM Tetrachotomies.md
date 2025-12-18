@@ -184,6 +184,6 @@
 |        Stable/Unstable         |   Stress Resistance   |
 |       External/Internal        |   Rings of Benefit    |
 |    Energetic/Informational     | Avoiding Failures HEF |
-|     Excitable/Inhibitable      |                       |
+|     Excitable/Inhibitable      | Iridescent Hopes HEF  |
 | Impressionable/Unimpresionable |                       |
 |       Tensioned/Relaxed        |                       |
