@@ -205,7 +205,8 @@
 
 # See Also
 
-- [Dichotomy Table (Reinin)]()
+- [Dichotomy Table (Reinin)](https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0#heading=h.1vmsoe7mj6yf)
+- [[Dichotomy Table (Tencer-Minaev)]]
 - [[Tetrachotomy Table (Reinin)]]
 - [[Tetrachotomy Table (Tencer-Minaev)]]
 - [Tetrachotomy Table (Semidual Mirage HEF)](https://docs.google.com/document/d/1I6pyl4NzNdYKgeAwYfX0e8gVUAtQ8vu_lOL5HlYRMaw/edit?tab=t.0)
