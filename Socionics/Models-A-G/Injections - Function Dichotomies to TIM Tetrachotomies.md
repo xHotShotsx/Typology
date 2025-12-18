@@ -147,5 +147,5 @@
 |       External/Internal        |   Rings of Benefit    |
 |    Energetic/Informational     | Iridescent Hopes HEF  |
 |     Excitable/Inhibitable      | Avoiding Failures HEF |
-| Impressionable/Unimpresionable |                       |
-|       Tensioned/Relaxed        |                       |
+| Impressionable/Unimpresionable |      Waiting HEF      |
+|       Tensioned/Relaxed        |  Realistic Plans HEF  |
