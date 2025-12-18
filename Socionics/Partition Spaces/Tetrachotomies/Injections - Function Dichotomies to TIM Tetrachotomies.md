@@ -296,7 +296,9 @@
 | Impressionable/Unimpresionable |                      |
 |       Tensioned/Relaxed        |                      |
 
-### 
+
+### Mirror Conflict HEF
+#### For Reorienters
 
 # See Also
 
