@@ -136,7 +136,7 @@
 
 ## Model G (Gulenko-Newman Dichotomies)
 ### Semidual Mirage HEF
-#### For Iridescent Hopes
+#### For Iridescent Hopes Types
 
 |       Function Dichotomy       |   TIM Tetrachotomy    |
 | :----------------------------: | :-------------------: |
@@ -149,7 +149,7 @@
 | Impressionable/Unimpresionable |      Waiting HEF      |
 |       Tensioned/Relaxed        |  Realistic Plans HEF  |
 
-#### For Waiting
+#### For Waiting Types
 
 |       Function Dichotomy       |   TIM Tetrachotomy    |
 | :----------------------------: | :-------------------: |
@@ -162,7 +162,7 @@
 | Impressionable/Unimpresionable | Iridescent Hopes HEF  |
 |       Tensioned/Relaxed        | Avoiding Failures HEF |
 
-#### For Realistic Plans
+#### For Realistic Plans Types
 
 |       Function Dichotomy       |   TIM Tetrachotomy    |
 | :----------------------------: | :-------------------: |
@@ -175,7 +175,7 @@
 | Impressionable/Unimpresionable | Avoiding Failures HEF |
 |       Tensioned/Relaxed        | Iridescent Hopes HEF  |
 
-#### For Avoiding Failures
+#### For Avoiding Failures Types
 
 |       Function Dichotomy       |   TIM Tetrachotomy    |
 | :----------------------------: | :-------------------: |
@@ -190,7 +190,7 @@
 
 
 ### Kindred Business HEF
-#### For 
+#### For Flexible Manoeuvring Types
 
 |       Function Dichotomy       |   TIM Tetrachotomy   |
 | :----------------------------: | :------------------: |
