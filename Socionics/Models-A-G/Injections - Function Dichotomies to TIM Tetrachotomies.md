@@ -172,7 +172,7 @@
 |       External/Internal        |   Rings of Benefit   |
 |    Energetic/Informational     | Realistic Plans HEF  |
 |     Excitable/Inhibitable      |     Waiting HEF      |
-| Impressionable/Unimpresionable | Iridescent Hopes HEF |
+| Impressionable/Unimpresionable |                      |
 |       Tensioned/Relaxed        |                      |
 
 #### For Avoiding Failures
