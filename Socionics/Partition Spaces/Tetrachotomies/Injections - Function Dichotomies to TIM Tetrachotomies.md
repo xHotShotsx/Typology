@@ -207,4 +207,4 @@
 
 - [[Tetrachotomy Table (Reinin)]]
 - [[Tetrachotomy Table (Tencer-Minaev)]]
-- 
+- [Tetrachotomy Table (Semidual Mirage HEF)] 
