@@ -149,3 +149,6 @@
 |     Excitable/Inhibitable      | Avoiding Failures HEF |
 | Impressionable/Unimpresionable |      Waiting HEF      |
 |       Tensioned/Relaxed        |  Realistic Plans HEF  |
+
+#### For Waiting
+
