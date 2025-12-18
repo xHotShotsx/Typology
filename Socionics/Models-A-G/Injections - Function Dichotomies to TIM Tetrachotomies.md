@@ -133,4 +133,4 @@
 |     Leading/Following     | $G_{1} \cap A_{2} \cap D_{4} \cap C_{3}$ | Dual Axis (Asymmetric Process Centrality Result Passionarity) |
 | Accelerating/Decelerating | $V_{1} \cap A_{3} \cap D_{1} \cap C_{3}$ |         Process Implementation, Result Project Groups         |
 |       Values/Tools        | $V_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
-|    Automatic/Conscious    | $V_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
+|    Automatic/Conscious    | $V_{1} \cap A_{3} \cap D_{1} \cap C_{3}$ |         Process Implementation, Result Project Groups         |
