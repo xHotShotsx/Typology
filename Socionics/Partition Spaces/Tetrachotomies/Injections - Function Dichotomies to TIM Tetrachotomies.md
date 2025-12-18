@@ -199,7 +199,7 @@
 |        Stable/Unstable         |    Stress Resistance     |
 |       External/Internal        |     Rings of Benefit     |
 |    Energetic/Informational     | Flexible Manoeuvring HEF |
-|     Excitable/Inhibitable      |                          |
+|     Excitable/Inhibitable      |   Linear Assertive HEF   |
 | Impressionable/Unimpresionable |                          |
 |       Tensioned/Relaxed        |                          |
 
