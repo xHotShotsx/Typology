@@ -81,17 +81,17 @@
 ### Reinin
 #### For Irrational Types
 
-|    Function Dichotomy     |      TIM Tetrachotomy Construction       |   TIM Tetrachotomy    |
-| :-----------------------: | :--------------------------------------: | :-------------------: |
-|        Valid/Null         |              $G_1 \cap U_3$              |    Process/Result     |
-|                           | $G_{1} \cap G_{2} \cap U_{3} \cap U_{4}$ | Rings of Supervision  |
-|      Opening/Closing      |     $G_1 \cap G_3 \cap U_1 \cap U_3$     |   Stress Resistance   |
-|      Stable/Unstable      | $G_{1} \cap G_{4} \cap U_{2} \cap U_{3}$ |   Rings of Benefit    |
-|     External/Internal     | $G_{1} \cap R_{1} \cap I_{3} \cap U_{3}$ | Implementation Groups |
-|     Leading/Following     | $G_{1} \cap R_{2} \cap I_{4} \cap U_{3}$ |  Respository Groups   |
-| Accelerating/Decelerating | $G_{1} \cap R_{3} \cap I_{1} \cap U_{3}$ |    Project Groups     |
-|       Values/Tools        | $G_{1} \cap R_{4} \cap I_{2} \cap U_{3}$ |  Dispository Groups   |
-|    Automatic/Conscious    |                                          |                       |
+| Function Dichotomy |      TIM Tetrachotomy Construction       |   TIM Tetrachotomy    |
+| :----------------: | :--------------------------------------: | :-------------------: |
+|     Valid/Null     |              $G_1 \cap U_3$              |    Process/Result     |
+|  Opening/Closing   | $G_{1} \cap G_{2} \cap U_{3} \cap U_{4}$ | Rings of Supervision  |
+|  Stable/Unstable   |     $G_1 \cap G_3 \cap U_1 \cap U_3$     |   Stress Resistance   |
+|     Externsal      | $G_{1} \cap G_{4} \cap U_{2} \cap U_{3}$ |   Rings of Benefit    |
+|                    | $G_{1} \cap R_{1} \cap I_{3} \cap U_{3}$ | Implementation Groups |
+|                    | $G_{1} \cap R_{2} \cap I_{4} \cap U_{3}$ |  Respository Groups   |
+|                    | $G_{1} \cap R_{3} \cap I_{1} \cap U_{3}$ |    Project Groups     |
+|                    | $G_{1} \cap R_{4} \cap I_{2} \cap U_{3}$ |  Dispository Groups   |
+
 
 #### For Rational Types
 
