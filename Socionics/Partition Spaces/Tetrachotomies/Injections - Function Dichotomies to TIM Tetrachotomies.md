@@ -207,5 +207,5 @@
 
 - [[Tetrachotomy Table (Reinin)]]
 - [[Tetrachotomy Table (Tencer-Minaev)]]
-- []
+- [Tetrachotomy Table ()](https://docs.google.com/document/d/1I6pyl4NzNdYKgeAwYfX0e8gVUAtQ8vu_lOL5HlYRMaw/edit?tab=t.0)
 - 
