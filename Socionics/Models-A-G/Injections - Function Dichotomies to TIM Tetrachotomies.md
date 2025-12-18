@@ -183,7 +183,7 @@
 |        Opening/Closing         | Rings of Supervision  |
 |        Stable/Unstable         |   Stress Resistance   |
 |       External/Internal        |   Rings of Benefit    |
-|    Energetic/Informational     | Iridescent Hopes HEF  |
-|     Excitable/Inhibitable      | Avoiding Failures HEF |
-| Impressionable/Unimpresionable |      Waiting HEF      |
-|       Tensioned/Relaxed        |  Realistic Plans HEF  |
+|    Energetic/Informational     | Avoiding Failures HEF |
+|     Excitable/Inhibitable      |                       |
+| Impressionable/Unimpresionable |                       |
+|       Tensioned/Relaxed        |                       |
