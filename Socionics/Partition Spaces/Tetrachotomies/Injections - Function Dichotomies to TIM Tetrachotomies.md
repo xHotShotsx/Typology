@@ -205,42 +205,42 @@
 
 #### For Linear Assertive Types
 
-|       Function Dichotomy       |     TIM Tetrachotomy     |
-| :----------------------------: | :----------------------: |
-|           Valid/Null           |      Process/Result      |
-|        Opening/Closing         |   Rings of Supervision   |
-|        Stable/Unstable         |    Stress Resistance     |
-|       External/Internal        |     Rings of Benefit     |
-|    Energetic/Informational     | Flexible Manoeuvring HEF |
-|     Excitable/Inhibitable      |   Linear Assertive HEF   |
-| Impressionable/Unimpresionable |  Receptive Adaptive HEF  |
-|       Tensioned/Relaxed        |   Balanced Stable HEF    |
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |                      |
+|     Excitable/Inhibitable      |                      |
+| Impressionable/Unimpresionable |                      |
+|       Tensioned/Relaxed        |                      |
 
 #### For Balanced Stable Types
 
-|       Function Dichotomy       |     TIM Tetrachotomy     |
-| :----------------------------: | :----------------------: |
-|           Valid/Null           |      Process/Result      |
-|        Opening/Closing         |   Rings of Supervision   |
-|        Stable/Unstable         |    Stress Resistance     |
-|       External/Internal        |     Rings of Benefit     |
-|    Energetic/Informational     | Flexible Manoeuvring HEF |
-|     Excitable/Inhibitable      |   Linear Assertive HEF   |
-| Impressionable/Unimpresionable |  Receptive Adaptive HEF  |
-|       Tensioned/Relaxed        |   Balanced Stable HEF    |
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |                      |
+|     Excitable/Inhibitable      |                      |
+| Impressionable/Unimpresionable |                      |
+|       Tensioned/Relaxed        |                      |
 
 #### For Receptive Adaptive Types
 
-|       Function Dichotomy       |     TIM Tetrachotomy     |
-| :----------------------------: | :----------------------: |
-|           Valid/Null           |      Process/Result      |
-|        Opening/Closing         |   Rings of Supervision   |
-|        Stable/Unstable         |    Stress Resistance     |
-|       External/Internal        |     Rings of Benefit     |
-|    Energetic/Informational     | Flexible Manoeuvring HEF |
-|     Excitable/Inhibitable      |   Linear Assertive HEF   |
-| Impressionable/Unimpresionable |  Receptive Adaptive HEF  |
-|       Tensioned/Relaxed        |   Balanced Stable HEF    |
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |                      |
+|     Excitable/Inhibitable      |                      |
+| Impressionable/Unimpresionable |                      |
+|       Tensioned/Relaxed        |                      |
 # See Also
 
 - [Dichotomy Table (Reinin)](https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0#heading=h.1vmsoe7mj6yf)
