@@ -84,7 +84,7 @@
 |    Function Dichotomy     |      TIM Tetrachotomy Construction       |   TIM Tetrachotomy    |
 | :-----------------------: | :--------------------------------------: | :-------------------: |
 |        Valid/Null         |              $G_1 \cap U_3$              |    Process/Result     |
-|        Valid/Null         | $G_{1} \cap G_{2} \cap U_{3} \cap U_{4}$ | Rings of Supervision  |
+|                           | $G_{1} \cap G_{2} \cap U_{3} \cap U_{4}$ | Rings of Supervision  |
 |      Opening/Closing      |     $G_1 \cap G_3 \cap U_1 \cap U_3$     |   Stress Resistance   |
 |      Stable/Unstable      | $G_{1} \cap G_{4} \cap U_{2} \cap U_{3}$ |   Rings of Benefit    |
 |     External/Internal     | $G_{1} \cap R_{1} \cap I_{3} \cap U_{3}$ | Implementation Groups |
