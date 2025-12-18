@@ -139,13 +139,13 @@
 ### Semidual Mirage HEF
 #### For Iridescent Hopes
 
-|    Function Dichotomy     |      TIM Tetrachotomy Construction       |                       TIM Tetrachotomy                        |
-| :-----------------------: | :--------------------------------------: | :-----------------------------------------------------------: |
-|        Valid/Null         |              $V_1 \cap C_3$              |                        Process/Result                         |
-|      Opening/Closing      | $V_{1} \cap V_{2} \cap C_{3} \cap C_{4}$ |                     Rings of Supervision                      |
-|      Stable/Unstable      |     $V_1 \cap V_3 \cap C_1 \cap C_3$     |                       Stress Resistance                       |
-|     External/Internal     | $V_{1} \cap V_{4} \cap C_{2} \cap C_{3}$ |                       Rings of Benefit                        |
-|     Leading/Following     | $V_{1} \cap A_{1} \cap D_{3} \cap C_{3}$ |         Process Project, Result Implementation Groups         |
-| Accelerating/Decelerating | $V_{1} \cap A_{2} \cap D_{4} \cap C_{3}$ | Dual Axis (Asymmetric Process Centrality Result Passionarity) |
-|       Values/Tools        | $V_{1} \cap A_{3} \cap D_{1} \cap C_{3}$ |         Process Implementation, Result Project Groups         |
-|    Automatic/Conscious    | $V_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |                      |
+|     Excitable/Inhibitable      |                      |
+| Impressionable/Unimpresionable |                      |
+|                                |                      |
