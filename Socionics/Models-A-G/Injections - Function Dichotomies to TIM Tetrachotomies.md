@@ -134,3 +134,6 @@
 |       Values/Tools        | $V_{1} \cap A_{3} \cap D_{1} \cap C_{3}$ |         Process Implementation, Result Project Groups         |
 |    Automatic/Conscious    | $V_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
 
+
+## Model G (Gulenko-Newman Dichotomies)
+### S
