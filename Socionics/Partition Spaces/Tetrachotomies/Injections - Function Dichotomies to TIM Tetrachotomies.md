@@ -272,6 +272,30 @@
 
 #### For Abstaining Types
 
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |                      |
+|     Excitable/Inhibitable      |                      |
+| Impressionable/Unimpresionable |                      |
+|       Tensioned/Relaxed        |                      |
+
+#### For Integrating Types
+
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |                      |
+|     Excitable/Inhibitable      |                      |
+| Impressionable/Unimpresionable |                      |
+|       Tensioned/Relaxed        |                      |
+
 
 
 # See Also
