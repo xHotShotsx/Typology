@@ -105,7 +105,7 @@
 | Accelerating/Decelerating | $G_{1} \cap R_{4} \cap I_{2} \cap U_{3}$ |  Dispository Groups   |
 |       Values/Tools        | $G_{1} \cap R_{1} \cap I_{3} \cap U_{3}$ | Implementation Groups |
 |    Automatic/Conscious    | $G_{1} \cap R_{2} \cap I_{4} \cap U_{3}$ |   Repository Groups   |
-|    Automatic/Conscious    |                                          |                       |
+
 
 ### Tencer-Minaev
 #### For Democratic Types
