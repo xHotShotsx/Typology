@@ -227,7 +227,7 @@
 |    Energetic/Informational     |  Receptive Adaptive HEF  |
 |     Excitable/Inhibitable      |   Balanced Stable HEF    |
 | Impressionable/Unimpresionable | Flexible Manoeuvring HEF |
-|       Tensioned/Relaxed        |                          |
+|       Tensioned/Relaxed        |   Linear Assertive HEF   |
 
 #### For Receptive Adaptive Types
 
