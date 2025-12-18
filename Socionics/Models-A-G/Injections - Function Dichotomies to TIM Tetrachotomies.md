@@ -19,7 +19,6 @@
 |     Valued/Subdued     | $G_{1} \cap R_{2} \cap I_{2} \cap U_{1}$ |          Quadra           |
 |     Inert/Contact      | $G_{1} \cap R_{3} \cap I_{3} \cap U_{1}$ |       Array Groups        |
 | Evaluatory/Situational | $G_{1} \cap R_{4} \cap I_{4} \cap U_{1}$ |     Occupation Groups     |
-|                        |                                          |                           |
 
 
 ## Model A (SCS)
