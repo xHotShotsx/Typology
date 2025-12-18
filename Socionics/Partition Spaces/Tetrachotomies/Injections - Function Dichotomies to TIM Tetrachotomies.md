@@ -238,7 +238,7 @@
 |        Stable/Unstable         |   Stress Resistance    |
 |       External/Internal        |    Rings of Benefit    |
 |    Energetic/Informational     | Receptive Adaptive HEF |
-|     Excitable/Inhibitable      |                        |
+|     Excitable/Inhibitable      |  Balanced Stable HEF   |
 | Impressionable/Unimpresionable |                        |
 |       Tensioned/Relaxed        |                        |
 
