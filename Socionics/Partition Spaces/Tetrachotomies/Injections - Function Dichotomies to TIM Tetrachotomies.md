@@ -200,8 +200,8 @@
 |       External/Internal        |     Rings of Benefit     |
 |    Energetic/Informational     | Flexible Manoeuvring HEF |
 |     Excitable/Inhibitable      |   Linear Assertive HEF   |
-| Impressionable/Unimpresionable |                          |
-|       Tensioned/Relaxed        |                          |
+| Impressionable/Unimpresionable |  Receptive Adaptive HEF  |
+|       Tensioned/Relaxed        |   Balanced Stable HEF    |
 
 # See Also
 
