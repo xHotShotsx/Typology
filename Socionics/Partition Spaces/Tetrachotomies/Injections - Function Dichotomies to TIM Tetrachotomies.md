@@ -244,6 +244,8 @@
 
 
 ### Activation Quasi Identity HEF
+#### For Approaching Types
+
 
 
 # See Also
