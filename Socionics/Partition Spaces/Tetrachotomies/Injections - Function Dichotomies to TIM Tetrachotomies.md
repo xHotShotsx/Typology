@@ -187,3 +187,7 @@
 |     Excitable/Inhibitable      | Iridescent Hopes HEF  |
 | Impressionable/Unimpresionable |  Realistic Plans HEF  |
 |       Tensioned/Relaxed        |      Waiting HEF      |
+
+
+### Kindred Business HEF
+
