@@ -252,7 +252,7 @@
 |        Opening/Closing         | Rings of Supervision |
 |        Stable/Unstable         |  Stress Resistance   |
 |       External/Internal        |   Rings of Benefit   |
-|    Energetic/Informational     |                      |
+|    Energetic/Informational     |   Approaching HEF    |
 |     Excitable/Inhibitable      |                      |
 | Impressionable/Unimpresionable |                      |
 |       Tensioned/Relaxed        |                      |
