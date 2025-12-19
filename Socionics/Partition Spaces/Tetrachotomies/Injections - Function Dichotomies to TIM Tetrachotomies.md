@@ -307,9 +307,9 @@
 |        Stable/Unstable         |  Stress Resistance   |
 |       External/Internal        |   Rings of Benefit   |
 |    Energetic/Informational     |   Reorienters HEF    |
-|     Excitable/Inhibitable      |                      |
+|     Excitable/Inhibitable      |    Slackeners HEF    |
 | Impressionable/Unimpresionable |    Sharpeners HEF    |
-|       Tensioned/Relaxed        |                      |
+|       Tensioned/Relaxed        | Foundationalists HEF |
 
 #### For Foundationalists
 
