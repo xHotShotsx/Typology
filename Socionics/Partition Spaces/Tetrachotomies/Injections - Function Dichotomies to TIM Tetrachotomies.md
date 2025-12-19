@@ -254,7 +254,7 @@
 |       External/Internal        |   Rings of Benefit   |
 |    Energetic/Informational     |   Approaching HEF    |
 |     Excitable/Inhibitable      |                      |
-| Impressionable/Unimpresionable |                      |
+| Impressionable/Unimpresionable |   Integrating HEF    |
 |       Tensioned/Relaxed        |                      |
 
 #### For Shaping Types
