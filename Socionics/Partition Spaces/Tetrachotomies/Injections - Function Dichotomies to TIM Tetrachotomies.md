@@ -332,7 +332,7 @@
 |        Opening/Closing         | Rings of Supervision |
 |        Stable/Unstable         |  Stress Resistance   |
 |       External/Internal        |   Rings of Benefit   |
-|    Energetic/Informational     |                      |
+|    Energetic/Informational     |    Sharpeners HEF    |
 |     Excitable/Inhibitable      |                      |
 | Impressionable/Unimpresionable |                      |
 |       Tensioned/Relaxed        |                      |
@@ -345,7 +345,7 @@
 |        Opening/Closing         | Rings of Supervision |
 |        Stable/Unstable         |  Stress Resistance   |
 |       External/Internal        |   Rings of Benefit   |
-|    Energetic/Informational     |                      |
+|    Energetic/Informational     |    Slackeners HEF    |
 |     Excitable/Inhibitable      |                      |
 | Impressionable/Unimpresionable |                      |
 |       Tensioned/Relaxed        |                      |
