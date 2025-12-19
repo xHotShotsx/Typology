@@ -266,8 +266,8 @@
 |        Stable/Unstable         |  Stress Resistance   |
 |       External/Internal        |   Rings of Benefit   |
 |    Energetic/Informational     |     Shaping HEF      |
-|     Excitable/Inhibitable      |                      |
-| Impressionable/Unimpresionable |                      |
+|     Excitable/Inhibitable      |   Approaching HEF    |
+| Impressionable/Unimpresionable |   Integrating HEF    |
 |       Tensioned/Relaxed        |    Abstaining HEF    |
 
 #### For Abstaining Types
