@@ -281,7 +281,7 @@
 |    Energetic/Informational     |    Abstaining HEF    |
 |     Excitable/Inhibitable      |                      |
 | Impressionable/Unimpresionable |                      |
-|       Tensioned/Relaxed        |                      |
+|       Tensioned/Relaxed        |     Shaping HEF      |
 
 #### For Integrating Types
 
