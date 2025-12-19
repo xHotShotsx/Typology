@@ -253,9 +253,9 @@
 |        Stable/Unstable         |  Stress Resistance   |
 |       External/Internal        |   Rings of Benefit   |
 |    Energetic/Informational     |   Approaching HEF    |
-|     Excitable/Inhibitable      |                      |
-| Impressionable/Unimpresionable |   Integrating HEF    |
-|       Tensioned/Relaxed        |                      |
+|     Excitable/Inhibitable      |     Shaping HEF      |
+| Impressionable/Unimpresionable |    Abstaining HEF    |
+|       Tensioned/Relaxed        |   Integrating HEF    |
 
 #### For Shaping Types
 
@@ -278,7 +278,7 @@
 |        Opening/Closing         | Rings of Supervision |
 |        Stable/Unstable         |  Stress Resistance   |
 |       External/Internal        |   Rings of Benefit   |
-|    Energetic/Informational     |                      |
+|    Energetic/Informational     |    Abstaining HEF    |
 |     Excitable/Inhibitable      |                      |
 | Impressionable/Unimpresionable |                      |
 |       Tensioned/Relaxed        |                      |
