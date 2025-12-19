@@ -322,7 +322,7 @@
 |    Energetic/Informational     | Foundationalists HEF |
 |     Excitable/Inhibitable      |    Sharpeners HEF    |
 | Impressionable/Unimpresionable |    Slackeners HEF    |
-|       Tensioned/Relaxed        |                      |
+|       Tensioned/Relaxed        |   Reorienters HEF    |
 
 #### For Sharpeners
 
