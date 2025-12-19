@@ -321,7 +321,7 @@
 |       External/Internal        |   Rings of Benefit   |
 |    Energetic/Informational     | Foundationalists HEF |
 |     Excitable/Inhibitable      |    Sharpeners HEF    |
-| Impressionable/Unimpresionable |                      |
+| Impressionable/Unimpresionable |    Slackeners HEF    |
 |       Tensioned/Relaxed        |                      |
 
 #### For Sharpeners
