@@ -333,9 +333,9 @@
 |        Stable/Unstable         |  Stress Resistance   |
 |       External/Internal        |   Rings of Benefit   |
 |    Energetic/Informational     |    Sharpeners HEF    |
-|     Excitable/Inhibitable      |                      |
-| Impressionable/Unimpresionable |                      |
-|       Tensioned/Relaxed        |                      |
+|     Excitable/Inhibitable      | Foundationalists HEF |
+| Impressionable/Unimpresionable |   Reorienters HEF    |
+|       Tensioned/Relaxed        |    Slackeners HEF    |
 
 #### For Slackeners
 
