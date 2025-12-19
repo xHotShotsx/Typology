@@ -320,7 +320,7 @@
 |        Stable/Unstable         |  Stress Resistance   |
 |       External/Internal        |   Rings of Benefit   |
 |    Energetic/Informational     | Foundationalists HEF |
-|     Excitable/Inhibitable      |                      |
+|     Excitable/Inhibitable      |    Sharpeners HEF    |
 | Impressionable/Unimpresionable |                      |
 |       Tensioned/Relaxed        |                      |
 
