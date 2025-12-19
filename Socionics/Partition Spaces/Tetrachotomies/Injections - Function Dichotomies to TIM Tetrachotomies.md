@@ -279,8 +279,8 @@
 |        Stable/Unstable         |  Stress Resistance   |
 |       External/Internal        |   Rings of Benefit   |
 |    Energetic/Informational     |    Abstaining HEF    |
-|     Excitable/Inhibitable      |                      |
-| Impressionable/Unimpresionable |                      |
+|     Excitable/Inhibitable      |   Integrating HEF    |
+| Impressionable/Unimpresionable |   Approaching HEF    |
 |       Tensioned/Relaxed        |     Shaping HEF      |
 
 #### For Integrating Types
@@ -294,7 +294,7 @@
 |    Energetic/Informational     |                      |
 |     Excitable/Inhibitable      |                      |
 | Impressionable/Unimpresionable |                      |
-|       Tensioned/Relaxed        |                      |
+|       Tensioned/Relaxed        |   Approaching HEF    |
 
 
 ### Mirror Conflict HEF
