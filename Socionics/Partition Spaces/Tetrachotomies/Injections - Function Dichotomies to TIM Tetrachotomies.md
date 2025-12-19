@@ -347,7 +347,7 @@
 |       External/Internal        |   Rings of Benefit   |
 |    Energetic/Informational     |    Slackeners HEF    |
 |     Excitable/Inhibitable      |                      |
-| Impressionable/Unimpresionable |                      |
+| Impressionable/Unimpresionable | Foundationalists HEF |
 |       Tensioned/Relaxed        |                      |
 
 
