@@ -308,7 +308,7 @@
 |       External/Internal        |   Rings of Benefit   |
 |    Energetic/Informational     |   Reorienters HEF    |
 |     Excitable/Inhibitable      |                      |
-| Impressionable/Unimpresionable |                      |
+| Impressionable/Unimpresionable |    Sharpeners HEF    |
 |       Tensioned/Relaxed        |                      |
 
 #### For Foundationalists
