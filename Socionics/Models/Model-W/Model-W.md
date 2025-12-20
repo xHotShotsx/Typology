@@ -23,6 +23,6 @@
   <div class="spacer"><br><small></small></div>
   <div class="cell">B2<br><small>"Regulating"</small></div>
   <div class="cell">B4<br><small>"Refracting"</small></div>
-  <div class="cell"><br><small></small></div>
+  <div class="spacer"><br><small></small></div>
 </div>
 
