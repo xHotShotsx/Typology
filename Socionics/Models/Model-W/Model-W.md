@@ -3,6 +3,7 @@
   <div class="cell"><br><small></small></div>
   <div class="cell">C2<br><small>Integrating</small></div>
   <div class="cell">C4<br><small>Executing</small></div>
+div class="cell">C2<br><small></small></div>
   <div class="cell">C1<br><small>Contesting</small></div>
   <div class="cell">C3<br><small>Configuring</small></div>
   <div class="cell">A1<br><small>Base</small></div>
