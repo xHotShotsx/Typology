@@ -1312,6 +1312,6 @@ $a \mapsto (0, 0, 1, 1)$
 - [[The Waffle Spaces]]
 - [[The Waffle Spaces - A Brief Index]]
 - [[TIM Dichotomy Index]]
-1. [Model L](https://docs.google.com/document/d/1pyD_Q46InssEXugneWDJUmXfev8856KDsRl2cFEy2Vk/edit?tab=t.0#heading=h.9bjcoj3jp24g)
-2. [Model W](https://docs.google.com/document/d/1zyG_1jSp5amzI_I3gHy_N1K8EeIFvx6ueT4FJ7GdLIw/edit?tab=t.0#heading=h.t2qbzyfy8mce)
-3. [ЮМП](https://docs.google.com/document/d/106N6CmPL-TSP9Agiz3k3O6TipV4PGCTzDiRBq5kEJH4/edit?tab=t.0)
+- [Model L](https://docs.google.com/document/d/1pyD_Q46InssEXugneWDJUmXfev8856KDsRl2cFEy2Vk/edit?tab=t.0#heading=h.9bjcoj3jp24g)
+- [Model W](https://docs.google.com/document/d/1zyG_1jSp5amzI_I3gHy_N1K8EeIFvx6ueT4FJ7GdLIw/edit?tab=t.0#heading=h.t2qbzyfy8mce)
+- [ЮМП](https://docs.google.com/document/d/106N6CmPL-TSP9Agiz3k3O6TipV4PGCTzDiRBq5kEJH4/edit?tab=t.0)
