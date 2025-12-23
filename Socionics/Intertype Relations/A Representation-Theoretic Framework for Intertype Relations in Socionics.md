@@ -130,7 +130,7 @@ We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0,
 
 **Remark.** Selector dichotomies are constrained by the universal invariant core underlying all dichotomy systems. This core preserves the full orbital structure through the Socion 2-cocycle, and any invariant subgroup $I_{\mathcal{D}_i}$ induced within a given dichotomy system is therefore purely orbital. Selector dichotomies may act either on orbital traits directly or on derived _waffle_ dichotomies, which arise from XOR combinations of wall dichotomies across different systems. However, selectors cannot introduce new wall traits within a system.
 
-### 6.1.1. The Intersection
+### 6.2. The Intersection
 
 Let each selector dichotomy $D_s \in \mathcal{S}_i$ induce a partition: $$ T = T_{s,0} \sqcup T_{s,1}. $$
 Then, the common refinement of these partitions is: $$\mathcal{P}_{i} = \left\{ \bigcap_{s=1}^{m-1} T_{s,\sigma_{s}}(t) \;\middle|\; t \in T \right\}. $$
