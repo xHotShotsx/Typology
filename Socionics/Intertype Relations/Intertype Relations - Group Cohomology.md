@@ -1,4 +1,7 @@
 # Introduction
+
+This pape
+
 ## Foundational Objects and Notation
 
 - $\mathfrak{d}$ = a dichotomy.
