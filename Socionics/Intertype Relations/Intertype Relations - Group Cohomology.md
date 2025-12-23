@@ -144,6 +144,8 @@ In our framing, every type $t \in T$ can be defined by a 4-bit coordinate when f
 We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0, 0)$$then for any other type $t$ the selector bit vector is defined by $$\chi(t)-\chi(t_{0}) = \chi(t).$$
 *Interpretation.* Selector dichotomies do not generate new relations. Rather, they choose among affine representatives of a fixed coset in $I_{\mathcal{D}_i}$, resolving ambiguity introduced by variance.
 
+**Remark.** Selector dichotomies 
+
 ### The Intersection
 
 Let each selector dichotomy $D_s \in \mathcal{S}_i$ induce a partition: $$ T = T_{s,0} \sqcup T_{s,1}. $$
