@@ -1,6 +1,6 @@
 # Introduction
 
-This paper studies dichotomy systems in Socionics via group actions and vector space representations. Each dichotomy system consists of a fixed set of wall dichotomies whose interactions generate orbital dichotomies through a Socion 2-cocycle. The set of intertype relations form a nonabelian group acting on types, while dichotomy systems 
+This paper studies dichotomy systems in Socionics via group actions and vector space representations. Each dichotomy system consists of a fixed set of wall dichotomies whose interactions generate orbital dichotomies through a Socion 2-cocycle. The set of intertype relations form a nonabelian group acting on types, while dichotomy systems induce abelian relation groups acting on both types and its derived models. Section 2 introduces the founda
 
 ## Foundational Objects and Notation
 
