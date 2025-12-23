@@ -123,8 +123,6 @@ Under the equivariant bijection $\Theta_{15}$, this corresponds exactly to the s
 
 The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathfrak{D}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to a coset in $r I_{\mathcal{D}_i}$, is two possible outputs in the representation space. For a given type $t \in T$, the selector determines which of these two vectors is chosen, based on whether the corresponding boolean trait of the dichotomy holds for $t$. Thus, a selector dichotomy is the rule that splits each non-invariant coset into type-dependent vector assignments.
 
-*Interpretation.* Selector dichotomies do not generate new relations. Rather, they choose among affine representatives of a fixed coset in $I_{\mathcal{D}_i}$, resolving ambiguity introduced by variance.
-
 ## Formal Definition
 
 Let:
@@ -144,6 +142,8 @@ a_{j,0}^{(s)}, \quad \text{if } \sigma_{s}(t) = 0, \\ a_{j,1}^{(s)}, \quad \text
 In our framing, every type $t \in T$ can be defined by a 4-bit coordinate when fixing a dichotomy system, so that: $$\chi(t) = (\mathfrak{D}_{1}(t), \mathfrak{D}_{2}(t), \mathfrak{D}_{3}(t), \mathfrak{D}_{4}(t)) \in \mathbb{Z}^4_{2}$$where $\mathfrak{D}_i(t) \in \{0, 1\}$ is the trait value of $t$ on the $i$-th dichotomy.
 
 We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0, 0)$$then for any other type $t$ the selector bit vector is defined by $$\chi(t)-\chi(t_{0}) = \chi(t).$$
+*Interpretation.* Selector dichotomies do not generate new relations. Rather, they choose among affine representatives of a fixed coset in $I_{\mathcal{D}_i}$, resolving ambiguity introduced by variance.
+
 ### The Intersection
 
 Let each selector dichotomy $D_s \in \mathcal{S}_i$ induce a partition: $$ T = T_{s,0} \sqcup T_{s,1}. $$
