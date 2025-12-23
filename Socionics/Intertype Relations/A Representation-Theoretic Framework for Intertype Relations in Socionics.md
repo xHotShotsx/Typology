@@ -67,8 +67,7 @@ $i \quad$ mirage, or illusory
 
 # 3. The Homomorphism
 
-The action of the dichotomy system on the ITR group is given by a homomorphism $$\varphi : E_{16} \longrightarrow \text{Aut}(D_8 \times C_2).$$In the context of Socionic structure, we regard $E_{16}$ as the dichotomy algebra $\mathfrak{D}$, and $D_8 \times C_2$ as the ITR space $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as $$\varphi : \mathfrak{D} \longrightarrow \text{Aut}(\mathbb{S}),$$representing how the dichotomy system acts on the classical group of intertype relations, or $$\varphi : \mathcal{D}_{i} \longrightarrow \text{Aut}(\mathbb{S})$$ for any one of the 16 "Varlawend" spaces.
-
+The action of the dichotomy system on the ITR group is given by a homomorphism $$\varphi : E_{16} \longrightarrow \text{Aut}(D_8 \times C_2).$$In the context of Socionic structure, we regard $E_{16}$ as the dichotomy algebra $\mathfrak{D}$, and $D_8 \times C_2$ as the ITR space $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as $$\varphi : \mathcal{D}_{i} \longrightarrow \text{Aut}(\mathbb{S}),$$representing how the dichotomy system acts on the classical group of intertype relations.
 
 ## 3.1. Fixed Point Subgroup
 
