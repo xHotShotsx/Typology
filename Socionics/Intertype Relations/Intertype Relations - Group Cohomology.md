@@ -341,8 +341,8 @@ $B \mapsto (0, 1, 0, 1)$
 $b \mapsto (0, 0, 1, 1)$
 
 
-## EP Result Compass Process HEF ($\mathcal{D}_{4}$)
-### Generators Used: (E, C, I, P)
+## 7.4. EP Result Compass Process HEF ($\mathcal{D}_{4}$)
+### 7.4.1. Generators Used: (E, C, I, P)
 #### $I_{\mathcal{D}_4}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
@@ -428,8 +428,8 @@ $q \mapsto (0, 1, 1, 1)$
 $a \mapsto (0, 0, 0, 1)$
 
 
-## Parallel Club Quadra Charged Rationality ($\mathcal{D}_{5}$)
-### Generators Used: (E, A, C, P)
+## 7.5. Parallel Club Quadra Charged Rationality ($\mathcal{D}_{5}$)
+### 7.5.1. Generators Used: (E, A, C, P)
 #### $I_{\mathcal{D}_{5}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
@@ -514,8 +514,8 @@ $h \mapsto (1, 0, 0, 0)$
 $i \mapsto (1, 1, 1, 0)$
 
 
-## IJ Process Compass Result HEF ($\mathcal{D}_{6}$)
-### Generators Used: (E, A, I, P)
+## 7.6. IJ Process Compass Result HEF ($\mathcal{D}_{6}$)
+### 7.6.1. Generators Used: (E, A, I, P)
 #### $I_{\mathcal{D}_6}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
@@ -600,8 +600,8 @@ $q \mapsto (0, 0, 1, 1)$
 $a \mapsto (0, 1, 0, 1)$
 
 
-## EJ Compass Result HEF ($\mathcal{D}_{7}$)
-### Generators Used: (E, L, A, P)
+## 7.1. EJ Compass Result HEF ($\mathcal{D}_{7}$)
+### 7.1.1 Generators Used: (E, L, A, P)
 #### $I_{\mathcal{D}_{7}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
