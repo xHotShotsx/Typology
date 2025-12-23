@@ -77,13 +77,13 @@ The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is
 The superego dyad is fixed by all homomorphisms between the Socion group and a dichotomy system. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}.$$
 
 
-# $H^{1}$ (First Cohomology)
+# 4. First Cohomology
 
 For the cohomology of classical ITRs, we first define: $$\mathbf{V}_{i} := \text{the vector space } \mathbb{Z}^4_{2} \text{ that acts on a dichotomy system } \mathcal{D}_{i},$$
 and $H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is nonabelian, we define an induced homomorphism. If the dichotomy action on classical relations is defined by the homomorphism $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the induced action on dichotomy vectors is given by the homomorphism $\psi : \mathcal{D}_{i} \to \text{Aut}(\mathbf{V}_{i})$, where a system of dichotomies acts on the automorphisms of the vector space $\mathbf{V}_i$ constructed from a dichotomy system $\mathcal{D}_i$. Because $\mathbb{S}$ does not admit a regular, faithful action compatible with all dichotomy systems, we instead work with the induced vector space $\mathbf{V}_{i}$, which captures only the dichotomy-relevant degrees of freedom. 
 
 
-# $E_{16}$-Set Models
+# 5. $E_{16}$-Set Models
 
 A set model is a pair ($X, G$) consisting of a set $X$ together with a left action of a group $G$. In the present framework, an $E_{16}$-set model is any set model that carries an action of the group, which is the vector space representation associated with a given dichotomy system. For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathbf{V}_i$ acts on a corresponding set model. 
 
@@ -101,11 +101,11 @@ For example, in Model L, applying the operator $A_{3}$ to the type ILE permutes 
 Under the equivariant bijection $\Theta_{15}$, this corresponds exactly to the same permutation acting on the ILE's functional layout: the functions occupying positions inside that subgroup (and their associated cosets) are swapped in the set model by the action $\rho_{15}(A_{3})$. Thus, $$A_{3} \cdot t \quad \text{and} \quad \rho_{15}(A_{3}) \cdot L_{15}(t)$$implement the same transformation in two different representations of the same underlying structure.
 
 
-# The Selector
+# 6. The Selector
 
 The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathcal{D}_{i}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to each coset in $r I_{\mathcal{D}_i}$, is two possible outputs in the representation space. For a given type $t \in T$, the selector determines which of these two vectors is chosen, based on whether the corresponding boolean trait of the dichotomy holds for $t$. Thus, a selector dichotomy is the rule that splits each non-invariant coset into type-dependent vector assignments.
 
-## Formal Definition
+## 6.1. Formal Definition
 
 Let:
 - $\mathcal{D}_i$ be a dichotomy system, 
@@ -130,13 +130,13 @@ We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0,
 
 **Remark.** Selector dichotomies are constrained by the universal invariant core underlying all dichotomy systems. This core preserves the full orbital structure via the Socion 2-cocycle, and any invariant subgroup $I_{\mathcal{D}_i}$ induced within a given dichotomy system is therefore purely orbital. Selector dichotomies may act either on orbital traits directly or on derived _waffle_ dichotomies, which arise from XOR combinations of wall dichotomies across different systems. However, selectors cannot introduce new wall traits within a system.
 
-### The Intersection
+### 6.1.1. The Intersection
 
 Let each selector dichotomy $D_s \in \mathcal{S}_i$ induce a partition: $$ T = T_{s,0} \sqcup T_{s,1}. $$
 Then, the common refinement of these partitions is: $$\mathcal{P}_{i} = \left\{ \bigcap_{s=1}^{m-1} T_{s,\sigma_{s}}(t) \;\middle|\; t \in T \right\}. $$
 Equivalently, the refinement is the quotient of $T$ by the kernel of the selector signature map, $$\sigma : T \longrightarrow \mathbb{Z}_{2}^{m-1}, \quad t \mapsto (\sigma_{1}(t), \dots, \sigma_{m-1}(t)).$$Therefore, $$\mathcal{P}_{i} = T/\mathrm{ker}(\sigma),$$and each equivalence class corresponds to a unique selector signature, yielding a $k$-chotomy within the dichotomy system $\mathcal{D}_i$.
 
-# The Representation Map
+# 7. The Representation Map
 
 For each dichotomy system $\mathcal{D}_i$, we fix a representation map $$\Phi_{i} : \mathbb{S} \longrightarrow \mathbf{V}_{i}$$which assigns to each intertype relation a 4-bit vector in the dichotomy space $\mathbf{V_{i} \cong \mathbb{Z}^4_{2}}$. The map $\Phi_i$ should be read as an affine (selector dependent) representation. Equivalently, one may write $\Phi_i(r) = v_0 + f_i(r)$ where:
 - $v_0$ = baseline vector, and;
