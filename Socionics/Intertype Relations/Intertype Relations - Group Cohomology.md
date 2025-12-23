@@ -1330,4 +1330,4 @@ $a \mapsto (0, 0, 1, 1)$
 2. [[The Waffle Spaces - A Brief Index]]
 3. [[TIM Dichotomy Index]]
 4. [Model L](https://docs.google.com/document/d/1pyD_Q46InssEXugneWDJUmXfev8856KDsRl2cFEy2Vk/edit?tab=t.0#heading=h.9bjcoj3jp24g)
-5. Model W: https://docs.google.com/document/d/1zyG_1jSp5amzI_I3gHy_N1K8EeIFvx6ueT4FJ7GdLIw/edit?tab=t.0#heading=h.t2qbzyfy8mce)
+5. [Model W](https://docs.google.com/document/d/1zyG_1jSp5amzI_I3gHy_N1K8EeIFvx6ueT4FJ7GdLIw/edit?tab=t.0#heading=h.t2qbzyfy8mce)
