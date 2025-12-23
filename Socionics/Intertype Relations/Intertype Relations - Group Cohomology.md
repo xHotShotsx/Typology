@@ -1,6 +1,6 @@
 # Introduction
 
-This pape
+This paper studies dichotomy systems in Socionics via group actions and vector space representations. Each dichotomy system consists of a fixed set of wall dichotomies whose interactions generate orbital
 
 ## Foundational Objects and Notation
 
