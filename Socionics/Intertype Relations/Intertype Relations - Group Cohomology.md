@@ -19,7 +19,7 @@ This paper studies dichotomy systems in Socionics via group actions and vector s
 - $\mathfrak{D}$: This already has been defined. Its group structure is $E_{16}$ (elementary abelian group of order 16), which is also isomorphic to $C_2^4$.
 	- Note: $\mathcal{D}_i$ is any of the 16 dichotomy systems, with $i \in \mathcal{D}$ specifying the dichotomy system.
 
-### Elements of $\mathbb{S}$
+### 2.1.2. Elements of $\mathbb{S}$
 
 $e \quad$  identity, or identical
 $d \quad$  dual
@@ -38,7 +38,7 @@ $b \quad$ beneficiary
 $l \quad$ business, or lookalike
 $i \quad$ mirage, or illusory
 
-### Cayley Table of $\mathbb{S}$
+### 2.1.3. Cayley Table of $\mathbb{S}$
 
 | **$\times$** | $e$ | $b$ | $g$ | $B$ | $k$ | $q$ | $l$ | $a$ | $x$ | $S$ | $d$ | $s$ | $i$ | $m$ | $h$ | $c$ |
 | :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -61,17 +61,17 @@ $i \quad$ mirage, or illusory
 
 
 
-# The Homomorphism
+# 3. The Homomorphism
 
 The action of the dichotomy system on the ITR group is given by a homomorphism $$\varphi : E_{16} \longrightarrow \text{Aut}(D_8 \times C_2).$$In the context of Socionic structure, we regard $E_{16}$ as the dichotomy algebra $\mathfrak{D}$, and $D_8 \times C_2$ as the ITR space $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as $$\varphi : \mathfrak{D} \longrightarrow \text{Aut}(\mathbb{S}),$$representing how the dichotomy system acts on the classical group of intertype relations, or $$\varphi : \mathcal{D}_{i} \longrightarrow \text{Aut}(\mathbb{S})$$ for any one of the 16 "Varlawend" spaces.
 
 
-# Fixed Point Subgroup
+## 3.1. Fixed Point Subgroup
 
 The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathcal{D}_{i}}$. More rigorously, this is defined as the following: $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathcal{D}_{i}} := \{r \in \mathbb{S} \mid \varphi(d)(r) = r, \ \forall d \in \mathcal{D}_{i}\}.$$
 The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: $$r I_{\mathcal{D}_{i}} = I_{\mathcal{D}_{i}} r = \{rs \mid s \in I_{\mathcal{D}_{i}}\}, \quad r \in \mathbb{S}.$$
 
-## Universal Invariant Core
+### 3.1.1. Universal Invariant Core
 
 The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}.$$
 The superego dyad is fixed by all homomorphisms between the Socion group and a dichotomy system. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}.$$
