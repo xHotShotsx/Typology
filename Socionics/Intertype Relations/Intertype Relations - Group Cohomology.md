@@ -208,7 +208,7 @@ $h \mapsto (1, 0, 0, 0)$
 ###### For $-A2$ Types
 
 $i \mapsto (1, 0, 0, 0)$
-$h \mapsto (1, 1, 1, 0))$
+$h \mapsto (1, 1, 1, 0)$
 
 ##### $B2$
 ###### For $+B2$ Types
