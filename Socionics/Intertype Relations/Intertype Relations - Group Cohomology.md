@@ -136,14 +136,15 @@ Let each selector dichotomy $D_s \in \mathcal{S}_i$ induce a partition: $$ T = T
 Then, the common refinement of these partitions is: $$\mathcal{P}_{i} = \left\{ \bigcap_{s=1}^{m-1} T_{s,\sigma_{s}}(t) \;\middle|\; t \in T \right\}. $$
 Equivalently, the refinement is the quotient of $T$ by the kernel of the selector signature map, $$\sigma : T \longrightarrow \mathbb{Z}_{2}^{m-1}, \quad t \mapsto (\sigma_{1}(t), \dots, \sigma_{m-1}(t)).$$Therefore, $$\mathcal{P}_{i} = T/\mathrm{ker}(\sigma),$$and each equivalence class corresponds to a unique selector signature, yielding a $k$-chotomy within the dichotomy system $\mathcal{D}_i$.
 
+
 # 7. The Representation Map
 
 For each dichotomy system $\mathcal{D}_i$, we fix a representation map $$\Phi_{i} : \mathbb{S} \longrightarrow \mathbf{V}_{i}$$which assigns to each intertype relation a 4-bit vector in the dichotomy space $\mathbf{V_{i} \cong \mathbb{Z}^4_{2}}$. The map $\Phi_i$ should be read as an affine (selector dependent) representation. Equivalently, one may write $\Phi_i(r) = v_0 + f_i(r)$ where:
 - $v_0$ = baseline vector, and;
 - $f_i$ = 1-cocycle $f_i : \mathbb{S} \to \mathbf{V}_{i}$ for the $\mathbb{S}$ action on $\mathbf{V}_{i}$.
 
-## IP Result Compass HEF ($\mathcal{D}_{1}$)
-### Generators Used: (E, D, L, P)
+## 7.1. IP Result Compass HEF ($\mathcal{D}_{1}$)
+### 7.1.1. Generators Used: (E, D, L, P)
 #### $I_{\mathcal{D}_1}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
@@ -228,8 +229,8 @@ $q \mapsto  (0, 1, 1, 1)$
 $a \mapsto  (0, 0, 0, 1)$
 
 
-## Semidual Mirage HEF ($\mathcal{D}_{2}$)
-### Generators Used: (E, L, S, P)
+## 7.2. Semidual Mirage HEF ($\mathcal{D}_{2}$)
+### 7.2.1. Generators Used: (E, L, S, P)
 #### $I_{\mathcal{D}_{2}}$ (Temperament)
 
 $e \mapsto (0, 0, 0, 0)$
@@ -284,8 +285,8 @@ $m \mapsto (1, 0, 1, 1)$
 $c \mapsto  (1, 1, 0, 1)$
 
 
-## Kindred Business HEF ($\mathcal{D}_{3}$)
-### Generators Used: (E, I, S, P)
+## 7.3. Kindred Business HEF ($\mathcal{D}_{3}$)
+### 7.3.1. Generators Used: (E, I, S, P)
 #### $I_{\mathcal{D}_{3}}$ (Displacement)
 
 $e \mapsto (0, 0, 0, 0)$
