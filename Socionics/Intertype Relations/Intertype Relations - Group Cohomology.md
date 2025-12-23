@@ -1001,7 +1001,7 @@ $a \mapsto (0, 0, 1, 1)$
 
 
 ## 7.12. Mirror Conflict HEF ($\mathcal{D}_{12}$)
-### Generators Used: (E, I, S, P)
+### 7.12.1. Generators Used: (E, I, S, P)
 #### $I_{\mathcal{D}_{12}}$ (Positivity Groups)
 
 $e \mapsto (0, 1, 0, 0)$
@@ -1056,8 +1056,8 @@ $S \mapsto (1, 1, 0, 1)$
 $s \mapsto (1, 0, 1, 1)$
 
 
-## IP Process Compass Result HEF ($\mathcal{D}_{13}$)
-### Generators Used: (E, S, I, P)
+## 7.13. IP Process Compass Result HEF ($\mathcal{D}_{13}$)
+### 7.13.1. Generators Used: (E, S, I, P)
 #### $I_{\mathcal{D}_{13}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
@@ -1142,8 +1142,8 @@ $q \mapsto (0, 1, 0, 1)$
 $a \mapsto (0, 0, 1, 1)$
 
 
-## Tencer-Minaev ($\mathcal{D}_{14}$)
-### Generators Used: (Q, A, I, D)
+## 7.14. Tencer-Minaev ($\mathcal{D}_{14}$)
+### 7.14.1. Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
 
 $e \mapsto (0, 0, 0, 0)$
@@ -1179,8 +1179,8 @@ $s \mapsto (1, 1, 0, 1)$
 $b \mapsto (0, 0, 1, 1)$
 
 
-## Reinin ($\mathcal{D}_{15}$)
-### Generators Used: (E, N, T, P)
+## 7.15. Reinin ($\mathcal{D}_{15}$)
+### 7.15.1. Generators Used: (E, N, T, P)
 #### $I_{\mathcal{D}_{15}}$ (Democratic/Aristocratic)
 
 $e \mapsto (0, 0, 0, 0)$
@@ -1216,8 +1216,8 @@ $l \mapsto (0, 0, 1, 0)$
 $i \mapsto (1, 1, 0, 0)$
 
 
-## EP Process Compass Result HEF ($\mathcal{D}_{16}$)
-### Generators Used: (E, S, I, P)
+## 7.16. EP Process Compass Result HEF ($\mathcal{D}_{16}$)
+### 7.1Generators Used: (E, S, I, P)
 #### $I_{\mathcal{D}_{16}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
