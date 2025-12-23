@@ -1,6 +1,6 @@
 # 1. Introduction
 
-This paper studies dichotomy systems in Socionics via group actions and vector space representations. Each dichotomy system consists of a fixed set of wall dichotomies whose interactions generate orbital dichotomies through a Socion 2-cocycle. The set of intertype relations form a nonabelian group acting on types, while dichotomy systems induce abelian relation groups acting on both types and its derived models. Section 2 introduces the foundational combinatorial objects; Section 3 develops the group-theoretic framework; Section 4 introduces selector dichotomies and induced relation groups.
+This paper studies dichotomy systems in Socionics via group actions and vector space representations. Each dichotomy system consists of a fixed set of wall dichotomies whose interactions generate orbital dichotomies through a Socion 2-cocycle. The set of intertype relations form a nonabelian group acting on types, while dichotomy systems induce abelian relation groups acting on both types and its derived models. Section 2 introduces the foundational combinatorial objects; Sections 3 and 4 develops the group-theoretic framework; Section 4 introduces selector dichotomies and induced relation groups.
 
 # 2. Foundational Objects and Notation
 
@@ -1217,7 +1217,7 @@ $i \mapsto (1, 1, 0, 0)$
 
 
 ## 7.16. EP Process Compass Result HEF ($\mathcal{D}_{16}$)
-### 7.1Generators Used: (E, S, I, P)
+### 7.16.1. Generators Used: (E, S, I, P)
 #### $I_{\mathcal{D}_{16}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$
@@ -1302,12 +1302,12 @@ $q \mapsto (0, 1, 0, 1)$
 $a \mapsto (0, 0, 1, 1)$
 
 
-# References
+# 8. References
 
 1. Newman, M. (2023). [*"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*.](https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html)  Date accessed: 11/11/2025.
 2. Tencer, I. (2024). [*"The Mathematics of Socionics"*.](https://sedecology.com/math) Date accessed: 11/11/2025.
 
-## Further Reading
+## 8.1. Further Reading
 
 1. [[The Waffle Spaces]]
 2. [[The Waffle Spaces - A Brief Index]]
