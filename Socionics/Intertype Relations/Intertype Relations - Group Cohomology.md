@@ -123,6 +123,8 @@ Under the equivariant bijection $\Theta_{15}$, this corresponds exactly to the s
 
 The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathfrak{D}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to a coset in $r I_{\mathcal{D}_i}$, is two possible outputs in the representation space. For a given type $t \in T$, the selector determines which of these two vectors is chosen, based on whether the corresponding boolean trait of the dichotomy holds for $t$. Thus, a selector dichotomy is the rule that splits each non-invariant coset into type-dependent vector assignments.
 
+*Interpretation.* Selector dichotomies do not generate new relations. Rather, they choose among affine representatives of a fixed coset in $I_\mathcal{D}
+
 ## Formal Definition
 
 Let:
