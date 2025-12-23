@@ -98,7 +98,7 @@ The superego dyad is fixed by all homomorphisms between the Socion group and a d
 # $H^{1}$ (First Cohomology)
 
 For the cohomology of classical ITRs, we first define: $$\mathbf{V}_{i} := \text{the vector space } \mathbb{Z}^4_{2} \text{ that acts on a dichotomy system } \mathcal{D}_{i},$$
-and $H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is nonabelian, we define an induced homomorphism. If the dichotomy action on classical relations is defined by the homomorphism $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the induced action on dichotomy vectors is given by the homomorphism $\psi : \mathcal{D}_{i} \to \text{Aut}(\mathbf{V}_{i})$, where a system of dichotomies acts on the automorphisms of the vector space $\mathbf{V}_i$ constructed from a dichotomy system $\mathcal{D}_i$. Because the Socion group 
+and $H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is nonabelian, we define an induced homomorphism. If the dichotomy action on classical relations is defined by the homomorphism $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the induced action on dichotomy vectors is given by the homomorphism $\psi : \mathcal{D}_{i} \to \text{Aut}(\mathbf{V}_{i})$, where a system of dichotomies acts on the automorphisms of the vector space $\mathbf{V}_i$ constructed from a dichotomy system $\mathcal{D}_i$. Because $\mathbb{S}$ does not admit a regular, faithful action compatible with all dichotomy systems, we instead work with the dichotomy system
 
 
 # $E_{16}$-Set Models
