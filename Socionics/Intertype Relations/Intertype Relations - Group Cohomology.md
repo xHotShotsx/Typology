@@ -93,7 +93,7 @@ Since there are 16 dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}
 
 Prominent examples of such $E_{16}$-set models include Model L and Model W, which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
 
-Functions are the positions in a functional schema; monadic (signed) elements are the informational atoms that occupy these positions. For a dichotomy system $\mathcal{D}_i$, let $P_i$ denote the set of functions for an $i$ model and $\mathcal{E}$ the set of monadic elements. The functional configuration space is $X_i = \mathcal{E}^{P_{i}}$, with the induced relation group $\mathbf{V}_i$ acting via $\rho_i : \mathbf{V}_{i} \curvearrowright X_{i}$. A functional layout for a type $t$ is an element $L_i(t) \in X_{i}$. A bijection $\Theta_i : T \to X_{i}$ is equivariant if $$\Theta_{i}(v \cdot t) = \rho_{i}(v)(\Theta_{i}(t)), \quad \forall v \in \mathbf{V}_{i}.$$
+Functions are the positions in a functional schema; monadic (signed) elements are the informational atoms that occupy these positions. For a dichotomy system $\mathcal{D}_i$, let $P_i$ denote the set of functions for an $i$ model and $\mathcal{E}$ the set of monadic elements. The functional configuration space is $X_i = \mathcal{E}^{P_{i}}$, with the induced relation group $\mathbf{V}_i$ acting through $\rho_i : \mathbf{V}_{i} \curvearrowright X_{i}$. A functional layout for a type $t$ is an element $L_i(t) \in X_{i}$. A bijection $\Theta_i : T \to X_{i}$ is equivariant if $$\Theta_{i}(v \cdot t) = \rho_{i}(v)(\Theta_{i}(t)), \quad \forall v \in \mathbf{V}_{i}.$$
 When this holds, the type-level transformations and the functional-layout transformations are isomorphic; applying a relation has the same effect as applying it to the layout itself. The action of $\mathbf{V}_{i}$ on types is abstract, since types are equivalence classes of trait configurations, whereas its action on set models is concrete, since it directly permutes positions or values in $X_i$.
 
 For example, in Model L, applying the operator $A_{3}$ to the type ILE permutes the elements in the subgroup $$\{A_{1}, A_{3}\} \subseteq \mathbf{V}_{15},$$together with all of its cosets in the $\mathbf{V}_{15}$-space, meaning that the new identity becomes $A_3(\text{ILE}) = \text{ILI}$ and all of the intertype relations transform accordingly by left multiplication with $A_{3}$.
@@ -114,7 +114,7 @@ Let:
 - $D_s \in \mathcal{S}_i$ be a selector dichotomy,
 - $\sigma_{s} : T \to \{0, 1\}$, the selector function.
 
-A selector acts on a coset $C_j \in Q$ via its pair of assigned vectors: $$ C_{j} \longmapsto (a_{j,0}^{(s)}, {a_{j,1}^{(s)}}) \in \mathbf{V}_{i} \times \mathbf{V}_{i},$$where ${a_{j,0}^{(s)}}$ is the chosen vector when $\sigma_{s}(t) = 0$,
+A selector acts on a coset $C_j \in Q$ through its pair of assigned vectors: $$ C_{j} \longmapsto (a_{j,0}^{(s)}, {a_{j,1}^{(s)}}) \in \mathbf{V}_{i} \times \mathbf{V}_{i},$$where ${a_{j,0}^{(s)}}$ is the chosen vector when $\sigma_{s}(t) = 0$,
 where $a_{j,1}^{(s)}$ is the vector chosen when $\sigma_{s}(t) = 1$,
 and where $\mathbf{V}_{i} \cong \mathbb{Z}_2^4$ is the representation space associated with the dichotomy system $\mathcal{D}_i$. 
 
@@ -128,7 +128,7 @@ We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0,
 
 *Interpretation.* Selector dichotomies do not generate new relations. Rather, they choose among affine representatives of a fixed coset in $I_{\mathcal{D}_i}$, resolving ambiguity introduced by variance.
 
-**Remark.** Selector dichotomies are constrained by the universal invariant core underlying all dichotomy systems. This core preserves the full orbital structure via the Socion 2-cocycle, and any invariant subgroup $I_{\mathcal{D}_i}$ induced within a given dichotomy system is therefore purely orbital. Selector dichotomies may act either on orbital traits directly or on derived _waffle_ dichotomies, which arise from XOR combinations of wall dichotomies across different systems. However, selectors cannot introduce new wall traits within a system.
+**Remark.** Selector dichotomies are constrained by the universal invariant core underlying all dichotomy systems. This core preserves the full orbital structure through the Socion 2-cocycle, and any invariant subgroup $I_{\mathcal{D}_i}$ induced within a given dichotomy system is therefore purely orbital. Selector dichotomies may act either on orbital traits directly or on derived _waffle_ dichotomies, which arise from XOR combinations of wall dichotomies across different systems. However, selectors cannot introduce new wall traits within a system.
 
 ### 6.1.1. The Intersection
 
