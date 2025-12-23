@@ -144,7 +144,7 @@ In our framing, every type $t \in T$ can be defined by a 4-bit coordinate when f
 We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0, 0)$$then for any other type $t$ the selector bit vector is defined by $$\chi(t)-\chi(t_{0}) = \chi(t).$$
 *Interpretation.* Selector dichotomies do not generate new relations. Rather, they choose among affine representatives of a fixed coset in $I_{\mathcal{D}_i}$, resolving ambiguity introduced by variance.
 
-**Remark.** Selector dichotomies are constrained by the universal invariant core underlying all dichotomy systems. This core preserves the full orbital structure via the Socion 2-cocycle, and any invariant subgroup $I_{\mathcal{D}_i}$ induced within a given dichotomy system is therefore purely orbital. Selector dichotomies may act either on orbital traits directly or on derived _waffle_ dichotomies, which arise 
+**Remark.** Selector dichotomies are constrained by the universal invariant core underlying all dichotomy systems. This core preserves the full orbital structure via the Socion 2-cocycle, and any invariant subgroup $I_{\mathcal{D}_i}$ induced within a given dichotomy system is therefore purely orbital. Selector dichotomies may act either on orbital traits directly or on derived _waffle_ dichotomies, which arise from XOR combinations of wall dichotomies across different systems. However, selectors cannot 
 
 ### The Intersection
 
