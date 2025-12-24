@@ -26,4 +26,4 @@
 Alpha Quadra: #87ceeb
 Beta Quadra: #ff3131
 Gamma Qaudra: #ffbf00
-Delta Quadra:
+Delta Quadra: #50c878
