@@ -1,6 +1,5 @@
 # Model A (Presence Cube)
 
-
 |                   TIM                   |                  Base                   |                Creative                 |                  Role                   |               Vulnerable                |               Suggestive                |               Mobilising                |                Ignoring                 |              Demonstrative              |
 | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
 | <span class="cell-alpha">**ILE**</span> | <span class="cell-alpha">**Ne+**</span> | <span class="cell-alpha">**Ti-**</span> | <span class="cell-alpha">**Se+**</span> | <span class="cell-alpha">**Fi-**</span> | <span class="cell-alpha">**Si-**</span> | <span class="cell-alpha">**Fe+**</span> | <span class="cell-alpha">**Ni-**</span> | <span class="cell-alpha">**Te+**</span> |
@@ -19,4 +18,7 @@
 | <span class="cell-delta">**EII**</span> | <span class="cell-delta">**Fi+**</span> | <span class="cell-delta">**Ne-**</span> | <span class="cell-delta">**Ti+**</span> | <span class="cell-delta">**Se-**</span> | <span class="cell-delta">**Te-**</span> | <span class="cell-delta">**Si+**</span> | <span class="cell-delta">**Fe-**</span> | <span class="cell-delta">**Ni+**</span> |
 | <span class="cell-delta">**IEE**</span> | <span class="cell-delta">**Ne-**</span> | <span class="cell-delta">**Fi+**</span> | <span class="cell-delta">**Se-**</span> | <span class="cell-delta">**Ti+**</span> | <span class="cell-delta">**Si+**</span> | <span class="cell-delta">**Te-**</span> | <span class="cell-delta">**Ni+**</span> | <span class="cell-delta">**Fe-**</span> |
 | <span class="cell-delta">**SLI**</span> | <span class="cell-delta">**Si+**</span> | <span class="cell-delta">**Te-**</span> | <span class="cell-delta">**Ni+**</span> | <span class="cell-delta">**Fe-**</span> | <span class="cell-delta">**Ne-**</span> | <span class="cell-delta">**Fi+**</span> | <span class="cell-delta">**Se-**</span> | <span class="cell-delta">**Ti+**</span> |
+
+
+# Model A (SCS)
 
