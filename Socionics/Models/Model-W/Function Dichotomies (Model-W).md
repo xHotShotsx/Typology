@@ -92,7 +92,7 @@
 </div>
 
 
-# <span style="color:#274c13">  </span> / Null
+# <span style="color:#274c13"> Bold </span> / D
 <div class="model-w-grid generator-V2">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
