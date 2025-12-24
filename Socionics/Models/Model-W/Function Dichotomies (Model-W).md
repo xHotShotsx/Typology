@@ -267,8 +267,8 @@
 </div>
 
 
-# <span style="color:#783f04"> Pertinent </span> / Incidental
-<div class="model-w-grid generator-C4">
+# <span style="color:#073763"> Situated </span> / Removed
+<div class="model-w-grid generator-D1">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
   <div class="cell cell-C4">C4<br><small>"Executing"</small></div>
@@ -297,7 +297,7 @@
 
 
 # <span style="color:#783f04"> Pertinent </span> / Incidental
-<div class="model-w-grid generator-C4">
+<div class="model-w-grid generator-A2">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
   <div class="cell cell-C4">C4<br><small>"Executing"</small></div>
@@ -326,7 +326,7 @@
 
 
 # <span style="color:#783f04"> Pertinent </span> / Incidental
-<div class="model-w-grid generator-C4">
+<div class="model-w-grid generator-D2">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
   <div class="cell cell-C4">C4<br><small>"Executing"</small></div>
@@ -355,7 +355,7 @@
 
 
 # <span style="color:#783f04"> Pertinent </span> / Incidental
-<div class="model-w-grid generator-C4">
+<div class="model-w-grid generator-A3">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
   <div class="cell cell-C4">C4<br><small>"Executing"</small></div>
@@ -384,7 +384,7 @@
 
 
 # <span style="color:#783f04"> Pertinent </span> / Incidental
-<div class="model-w-grid generator-C4">
+<div class="model-w-grid generator-D3">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
   <div class="cell cell-C4">C4<br><small>"Executing"</small></div>
@@ -413,7 +413,7 @@
 
 
 # <span style="color:#783f04"> Pertinent </span> / Incidental
-<div class="model-w-grid generator-C4">
+<div class="model-w-grid generator-A4">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
   <div class="cell cell-C4">C4<br><small>"Executing"</small></div>
@@ -442,7 +442,7 @@
 
 
 # <span style="color:#783f04"> Pertinent </span> / Incidental
-<div class="model-w-grid generator-C4">
+<div class="model-w-grid generator-D4">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
   <div class="cell cell-C4">C4<br><small>"Executing"</small></div>
