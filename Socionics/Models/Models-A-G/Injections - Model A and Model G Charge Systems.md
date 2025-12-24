@@ -26,4 +26,4 @@
 Alpha Quadra: 
 Beta Quadra:
 Gamma Qaudra:
-Deltra Quadra:
+Delta Quadra:
