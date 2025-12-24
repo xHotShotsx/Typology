@@ -32,11 +32,11 @@
 <div class="model-w-grid">
   <div class="spacer"><br><small></small></div>
   <div class="cell">s<br><small>"Integrating"</small></div>
-  <div class="cell">C4<br><small>"Executing"</small></div>
+  <div class="cell">B<br><small>"Executing"</small></div>
   <div class="spacer"><br><small></small></div>
   <div class="spacer"><br><small></small></div>
-  <div class="cell">C1<br><small>"Contesting"</small></div>
-  <div class="cell">C3<br><small>"Configuring"</small></div>
+  <div class="cell">m<br><small>"Contesting"</small></div>
+  <div class="cell"><br><small>"Configuring"</small></div>
   <div class="spacer"><br><small></small></div>
   <div class="cell">A1<br><small>"Base"</small></div>
   <div class="cell">A3<br><small>"Ignoring"</small></div>
