@@ -10,8 +10,8 @@
 <div class="model-w-grid">
 	<div class="V1">
 	  <div class="spacer"><br><small></small></div>
-	  <div class="cell">C2<br><small>"Integrating"</small></div>
-	  <div class="cell">C4<br><small>"Executing"</small></div>
+	  <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
+	  <div class="cell cell-C4">C4<br><small>"Executing"</small></div>
 	  <div class="spacer"><br><small></small></div>
 	  <div class="spacer"><br><small></small></div>
 	  <div class="cell">C1<br><small>"Contesting"</small></div>
