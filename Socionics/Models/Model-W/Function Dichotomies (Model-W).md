@@ -296,7 +296,7 @@
 </div>
 
 
-# <span style="color:#783f04"> Pertinent </span> / Incidental
+# <span style="color:#783f04"> Relational </span> / Isolating
 <div class="model-w-grid generator-A2">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -325,7 +325,7 @@
 </div>
 
 
-# <span style="color:#783f04"> Pertinent </span> / Incidental
+# <span style="color:#073763"> Oriented </span> / Unoriented
 <div class="model-w-grid generator-D2">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
