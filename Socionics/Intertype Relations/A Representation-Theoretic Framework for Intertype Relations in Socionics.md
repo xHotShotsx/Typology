@@ -19,7 +19,7 @@ This paper investigates dichotomy systems in Socionics through group actions and
 - $\mathfrak{D}$: This already has been defined. Its group structure is $E_{16}$ (elementary abelian group of order 16), which is also isomorphic to $C_2^4$.
 	- Note: $\mathcal{D}_i$ is any of the 16 dichotomy systems, with $i \in \mathcal{D}$ specifying the dichotomy system.
 
-**Axiom (Orbital Completeness).** Every dichotomy system $\mathcal{D}_i \in \mathcal{D}$ contains the full set of orbital dichotomies $\mathcal{O}$. These dichotomies are invariant across all systems and arise from the Socion 2-cocycle structure. The variation between systems occurs exclusively in their wall dichotomy subspaces $W_i \in \mathcal{W}$.
+**Axiom (Orbital Completeness).** Every dichotomy system $\mathcal{D}_i \in \mathcal{D}$ contains the full set of orbital dichotomies $\mathcal{O}$. These dichotomies are invariant across all systems and arise from the Socion 2-cocycle structure. The variation between systems occurs exclusively in their wall dichotomy subspaces $W_i \subset \mathcal{W}$.
 
 **Remark.** Classical intertype relations form a nonabelian group that does not admit a faithful, regular action compatible with all dichotomy systems. This obstruction motivates the passage to induced abelian representations and the use of cohomological methods, which isolate dichotomy-relevant degrees of freedom while preserving the universal orbital invariants.
 
