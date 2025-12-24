@@ -33,7 +33,7 @@
   <div class="cell cell-B4">B4<br><small>"Refracting"</small></div>
   <div class="spacer"><br><small></small></div>
 </div>
-
+# Pivotal / Contingent
 vector = #274c13 
 aristocratic = #660000
 democratic = #073763
