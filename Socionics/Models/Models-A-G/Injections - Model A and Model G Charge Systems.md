@@ -23,7 +23,7 @@
 | **SLI** | Si+  | Te-      | Ni+  | Fe-        | Ne-        | Fi+        | Se-      | Ti+           |
 
 
-Alpha Quadra: 
-Beta Quadra:
-Gamma Qaudra:
+Alpha Quadra: #87ceeb
+Beta Quadra: #ff3131
+Gamma Qaudra: #ffbf00
 Delta Quadra:
