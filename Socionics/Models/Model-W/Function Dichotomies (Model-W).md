@@ -7,4 +7,7 @@
 
 # <span style="color:rgb(52, 111, 79)">Valid</span> / Null
 
-vector = #
+vector = #274c13 
+aristocratic = #660000
+democratic = #073763
+converse = #783
