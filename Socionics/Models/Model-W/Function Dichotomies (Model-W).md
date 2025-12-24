@@ -179,7 +179,7 @@
 </div>
 
 
-# <span style="color:#783f04"> Bold </span> / Discrete
+# <span style="color:#274c13"> Default </span> / Alternate
 <div class="model-w-grid generator-V4">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
