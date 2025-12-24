@@ -22,3 +22,8 @@
 | **IEE** | Ne-  | Fi+      | Se-  | Ti+        | Si+        | Te-        | Ni+      | Fe-           |
 | **SLI** | Si+  | Te-      | Ni+  | Fe-        | Ne-        | Fi+        | Se-      | Ti+           |
 
+
+Alpha Quadra: 
+Beta Quadra:
+Gamma Qaudra:
+Deltra Quadra:
