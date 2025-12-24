@@ -238,8 +238,8 @@
 </div>
 
 
-# <span style="color:#660000"> Pertinent </span> / Incidental
-<div class="model-w-grid generator-C4">
+# <span style="color:#660000"> Interpretive </span> / Immediate
+<div class="model-w-grid generator-A1">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
   <div class="cell cell-C4">C4<br><small>"Executing"</small></div>
@@ -468,8 +468,3 @@
   <div class="cell cell-B4">B4<br><small>"Refracting"</small></div>
   <div class="spacer"><br><small></small></div>
 </div>
-
-vector = #274c13 
-aristocratic = #660000
-democratic = #073763
-converse = #783f04
