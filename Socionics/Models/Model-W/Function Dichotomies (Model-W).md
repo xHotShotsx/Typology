@@ -383,7 +383,7 @@
 </div>
 
 
-# <span style="color:#783f04"> Modifying </span> / Preserving
+# <span style="color:#073763"> Modifying </span> / Preserving
 <div class="model-w-grid generator-D3">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -441,7 +441,7 @@
 </div>
 
 
-# <span style="color:#783f04"> Pertinent </span> / Incidental
+# <span style="color:#073763"> Generative </span> / Conservative
 <div class="model-w-grid generator-D4">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
