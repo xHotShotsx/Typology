@@ -8,7 +8,7 @@
 # <span style="color:#274c13"> Valid</span> / Null
 
 <div class="model-w-grid">
-	<div>
+	<div class="V1">
 	  <div class="spacer"><br><small></small></div>
 	  <div class="cell">C2<br><small>"Integrating"</small></div>
 	  <div class="cell">C4<br><small>"Executing"</small></div>
@@ -33,6 +33,7 @@
 	  <div class="cell">B2<br><small>"Regulating"</small></div>
 	  <div class="cell">B4<br><small>"Refracting"</small></div>
 	  <div class="spacer"><br><small></small></div>
+  </div>
 </div>
 
 vector = #274c13 
