@@ -43,16 +43,16 @@
   <div class="cell">g<br><small>"Role"</small></div>
   <div class="cell">d<br><small>"Suggestive"</small></div>
   <div class="cell">k<br><small>"Reinforcing"</small></div>
-  <div class="cell"><br><small>"Distorting"</small></div>
-  <div class="cell">D2<br><small>"Modulating"</small></div>
-  <div class="cell">D4<br><small>"Calibrating"</small></div>
+  <div class="cell">i<br><small>"Distorting"</small></div>
+  <div class="cell">l<br><small>"Modulating"</small></div>
+  <div class="cell">h<br><small>"Calibrating"</small></div>
   <div class="spacer"><br><small></small></div>
-  <div class="cell">B1<br><small>"Disposing"</small></div>
-  <div class="cell">B3<br><small>"Channelling"</small></div>
+  <div class="cell">c<br><small>"Disposing"</small></div>
+  <div class="cell">a<br><small>"Channelling"</small></div>
   <div class="spacer"><br><small></small></div>
   <div class="spacer"><br><small></small></div>
-  <div class="cell">B2<br><small>"Regulating"</small></div>
-  <div class="cell">B4<br><small>"Refracting"</small></div>
+  <div class="cell">S<br><small>"Regulating"</small></div>
+  <div class="cell">b<br><small>"Refracting"</small></div>
   <div class="spacer"><br><small></small></div>
 </div>
 
