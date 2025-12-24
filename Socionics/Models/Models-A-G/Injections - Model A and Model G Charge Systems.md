@@ -21,9 +21,3 @@
 | **EII** | Fi+  | Ne-      | Ti+  | Se-        | Te-        | Si+        | Fe-      | Ni+           |
 | **IEE** | Ne-  | Fi+      | Se-  | Ti+        | Si+        | Te-        | Ni+      | Fe-           |
 | **SLI** | Si+  | Te-      | Ni+  | Fe-        | Ne-        | Fi+        | Se-      | Ti+           |
-
-
-Alpha Quadra: #87ceeb
-Beta Quadra: #ff3131
-Gamma Qaudra: #ffbf00
-Delta Quadra: #50c878
