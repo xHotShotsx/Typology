@@ -14,10 +14,10 @@
 | <span class="cell-beta">**SLE**</span>  | Se-                                 | Ti+      | Ne-  | Fi+        | Ni+        | Fe-        | Si+      | Te-           |
 | <span class="cell-beta">**IEI**</span>  | Ni+                                 | Fe-      | Si+  | Te-        | Se-        | Ti+        | Ne-      | Fi+           |
 | <span class="cell-gamma">**SEE**</span> | Se+                                 | Fi-      | Ne+  | Ti-        | Ni-        | Te+        | Si-      | Fe+           |
-| **ILI**</span>                          | Ni-                                 | Te+      | Si-  | Fe+        | Se+        | Fi-        | Ne+      | Ti-           |
-| **LIE**</span>                          | Te+                                 | Ni-      | Fe+  | Si-        | Fi-        | Se+        | Ti-      | Ne+           |
-| **ESI**</span>                          | Fi-                                 | Se+      | Ti-  | Ne+        | Te+        | Ni-        | Fe+      | Si-           |
-| **LSE**</span>                          | Te-                                 | Si+      | Fe-  | Ni+        | Fi+        | Ne-        | Ti+      | Se-           |
-| **EII**</span?                          | Fi+                                 | Ne-      | Ti+  | Se-        | Te-        | Si+        | Fe-      | Ni+           |
-| **IEE**                                 | Ne-                                 | Fi+      | Se-  | Ti+        | Si+        | Te-        | Ni+      | Fe-           |
-| **SLI**                                 | Si+                                 | Te-      | Ni+  | Fe-        | Ne-        | Fi+        | Se-      | Ti+           |
+| <span class="cell-gamma">**ILI**</span> | Ni-                                 | Te+      | Si-  | Fe+        | Se+        | Fi-        | Ne+      | Ti-           |
+| <span class="cell-gamma">**LIE**</span> | Te+                                 | Ni-      | Fe+  | Si-        | Fi-        | Se+        | Ti-      | Ne+           |
+| <span class="cell-gamma">**ESI**</span> | Fi-                                 | Se+      | Ti-  | Ne+        | Te+        | Ni-        | Fe+      | Si-           |
+| <span class="cell-delta">**LSE**</span> | Te-                                 | Si+      | Fe-  | Ni+        | Fi+        | Ne-        | Ti+      | Se-           |
+| <span class="cell-delta">**EII**</span> | Fi+                                 | Ne-      | Ti+  | Se-        | Te-        | Si+        | Fe-      | Ni+           |
+| <span class="cell-delta">**IEE**</span> | Ne-                                 | Fi+      | Se-  | Ti+        | Si+        | Te-        | Ni+      | Fe-           |
+| <span class="cell-delta">**SLI**</span> | Si+                                 | Te-      | Ni+  | Fe-        | Ne-        | Fi+        | Se-      | Ti+           |
