@@ -6,7 +6,6 @@
 | **Does Not Position Aristocratic Information** | <span class="cell-democratic"> $D$<br><br>Democratic Dichotomy<br><span style="text-align:left; display:block;"><br>1. Situated / Removed<br>2. Oriented / Unoriented<br>3. Modifying / Preserving<br>4. Generative / Conservative<br></span><br></span> |         <span class="cell-converse"> $C$<br><br>Converse Dichotomy<br><span style="text-align:left; display:block;"><br>1. Pivotal / Contingent<br>2. Bold / Discrete<br>3. Constitutive / Extrinsic<br>4. Pertinent / Incidental<br></span><br></span>         |
 
 # <span style="color:#274c13"> Valid </span> / Null
-
 <div class="model-w-grid generator-V1">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -63,8 +62,8 @@
   <div class="spacer"><br><small></small></div>
 </div>
 
-# <span style="color:#274c13"> Explicit </span> / Implicit
 
+# <span style="color:#274c13"> Explicit </span> / Implicit
 <div class="model-w-grid generator-V2">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -92,8 +91,8 @@
   <div class="spacer"><br><small></small></div>
 </div>
 
-#  
 
+# <span style="color:#274c13">  </span> / Null
 <div class="model-w-grid generator-V2">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
