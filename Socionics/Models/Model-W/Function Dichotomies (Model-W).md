@@ -121,8 +121,8 @@
 </div>
 
 
-# <span style="color:#"> Central </span> / Radial
-<div class="model-w-grid generator-C2">
+# <span style="color:#274c13"> Central </span> / Radial
+<div class="model-w-grid generator-V3">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
   <div class="cell cell-C4">C4<br><small>"Executing"</small></div>
@@ -151,7 +151,7 @@
 
 
 # <span style="color:#783f04"> Bold </span> / Discrete
-<div class="model-w-grid generator-C2">
+<div class="model-w-grid generator-C3">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
   <div class="cell cell-C4">C4<br><small>"Executing"</small></div>
@@ -180,7 +180,7 @@
 
 
 # <span style="color:#783f04"> Bold </span> / Discrete
-<div class="model-w-grid generator-C2">
+<div class="model-w-grid generator-V4">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
   <div class="cell cell-C4">C4<br><small>"Executing"</small></div>
