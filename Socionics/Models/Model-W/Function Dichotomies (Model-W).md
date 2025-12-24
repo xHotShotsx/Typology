@@ -354,7 +354,7 @@
 </div>
 
 
-# <span style="color:#783f04"> Positional </span> / Locational
+# <span style="color:#660000"> Positional </span> / Locational
 <div class="model-w-grid generator-A3">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -412,7 +412,7 @@
 </div>
 
 
-# <span style="color:#783f04"> Temporal </span> / Atemporal
+# <span style="color:#660000"> Temporal </span> / Atemporal
 <div class="model-w-grid generator-A4">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
