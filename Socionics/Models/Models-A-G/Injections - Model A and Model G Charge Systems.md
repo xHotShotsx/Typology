@@ -5,10 +5,10 @@
 |     |      |          |      |            |            |            |          |               |
 | --- | ---- | -------- | ---- | ---------- | ---------- | ---------- | -------- | ------------- |
 | TIM | Base | Creative | Role | Vulnerable | Suggestive | Mobilising | Ignoring | Demonstrative |
-| ILE | ?Ne+ | ?Ti-     | ?Se+ | ?Fi-       | !Si-       | !Fe+       | !Ni-     | !Te+          |
-| SEI | !Si- | !Fe+     | !Ni- | !Te+       | ?Ne+       | ?Ti-       | ?Se+     | ?Fi-          |
-| ESE | !Fe+ | !Si-     | !Te+ | !Ni-       | ?Ti-       | ?Ne+       | ?Fi-     | ?Se+          |
-| LII | ?Ti- | ?Ne+     | ?Fi- | Se-?       | !Fe+       | !Si-       | !Te+     | !Ni-          |
+| ILE | Ne+  | Ti-      | Se+  | Fi-        | Si-        | Fe+        | Ni-      | Te+           |
+| SEI | Si-  | Fe+      | Ni-  | Te+        | Ne+        | Ti-        | Se+      | Fi-           |
+| ESE | Fe+  | Si-      | Te+  | Ni-        | Ti-        | Ne+        | Fi-      | Se+           |
+| LII | ?Ti- | ?Ne+     | Fi-  | Se-        | Fe+        | Si-        | Te+      | Ni-           |
 | EIE | ?Fe- | ?Ni+     | ?Te- | ?Si+       | !Ti+       | !Se-       | !Fi+     | !Ne-          |
 | LSI | !Ti+ | !Se-     | !Fi+ | !Ne-       | ?Fe-       | ?Ni+       | ?Te-     | ?Si+          |
 | SLE | !Se- | !Ti+     | !Ne- | !Fi+       | ?Ni+       | ?Fe-       | ?Si+     | ?Te-          |
