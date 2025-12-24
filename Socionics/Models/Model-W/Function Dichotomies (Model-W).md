@@ -150,7 +150,7 @@
 </div>
 
 
-# <span style="color:#783f04"> Bold </span> / Discrete
+# <span style="color:#783f04"> Constitutive </span> / Extrinsic
 <div class="model-w-grid generator-C3">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
