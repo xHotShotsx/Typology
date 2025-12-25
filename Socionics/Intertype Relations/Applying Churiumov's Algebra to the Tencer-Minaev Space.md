@@ -80,4 +80,9 @@ $$ \begin{bmatrix}
 # References / Further Reading
 
 - [Chruiumov's Algebra](https://docs.google.com/spreadsheets/d/1uejonVgJo2rMb62Yx_HkQzTtwaH8VKJTnSRpEDpSmdA/edit?gid=0#gid=0)
+- [Generations Theory](https://docs.google.com/document/d/1vSZVxhlCVXF-mhwMvK2mctld9IZb09_OZslNHwCN570/edit?tab=t.0#heading=h.5cn4lt5zf25a)
+
+
+# See Also
+
 - 
