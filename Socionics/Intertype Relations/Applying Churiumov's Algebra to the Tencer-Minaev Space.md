@@ -1,4 +1,5 @@
-# $\mathbf{V}_{14}$ with ILE = basis vector
+# Assumption: ILE = Basis Vector
+## $\mathbf{V}_{14}$
 
 | Questim | 1st-Abstract | 1st-Internal | Democratic |
 | :-----: | :----------: | :----------: | :--------: |
@@ -18,3 +19,5 @@
 |    0    |      0       |      1       |     0      |
 |    0    |      0       |      0       |     1      |
 |    0    |      0       |      0       |     0      |
+
+# ITR 
