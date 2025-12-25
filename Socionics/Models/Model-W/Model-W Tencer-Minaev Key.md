@@ -49,3 +49,10 @@ _(Absorptive/Directive)_
 $A_3$
 2ndExternal/2ndInternal
 _(Structuring/Expansive)_
+
+$A_4$
+2ndBeta/2ndDelta
+_(Projective/Reflective)_
+
+
+#
