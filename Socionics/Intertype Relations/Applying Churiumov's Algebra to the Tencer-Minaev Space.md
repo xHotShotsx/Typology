@@ -1,5 +1,5 @@
-# Assumption: ILE = Base Vector
-## $\mathbf{V}_{14}$ (Encoded using XNOR Logic)
+# Assumption: ILE = Base Vector of 1
+## $\mathbf{V}_{14}$
 
 | Questim | 1st-Abstract | 1st-Internal | Democratic |
 | :-----: | :----------: | :----------: | :--------: |
