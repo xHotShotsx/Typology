@@ -86,3 +86,5 @@ $$ \begin{pmatrix}
 # See Also
 
 - [[Dichotomy Table (Tencer-Minaev)]]
+- [[A Representation-Theoretic Framework for Intertype Relations in Socionics]]
+- [[TIM Dichotomy Index]]
