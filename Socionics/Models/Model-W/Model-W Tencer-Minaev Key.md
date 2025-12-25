@@ -55,4 +55,12 @@ $A_4$
 _(Projective/Reflective)_
 
 
-#
+# Democratic Dichotomies
+
+$D_1$
+1stAbstract/1stInvolved
+_(Conceptual/Experiential)_
+
+$D_2$
+1stAlpha/1stGamma
+_(Systemic/Pragma)_
