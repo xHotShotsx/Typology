@@ -23,7 +23,7 @@ This paper investigates dichotomy systems in Socionics through group actions and
 
 **Remark.** Classical intertype relations form a nonabelian group that does not admit a faithful, regular action compatible with all dichotomy systems. This obstruction motivates the passage to induced abelian representations and the use of cohomological methods, which isolate dichotomy-relevant degrees of freedom while preserving the universal orbital invariants.
 
-### 2.1.2. Elements of $\mathbb{S}$
+### 2.1.1. Elements of $\mathbb{S}$
 
 $e \quad$  identity, or identical
 $d \quad$  dual
@@ -42,7 +42,7 @@ $b \quad$ beneficiary
 $l \quad$ business, or lookalike
 $i \quad$ mirage, or illusory
 
-### 2.1.3. Cayley Table of $\mathbb{S}$
+### 2.1.2. Cayley Table of $\mathbb{S}$
 
 | **$\times$** | $e$ | $b$ | $g$ | $B$ | $k$ | $q$ | $l$ | $a$ | $x$ | $S$ | $d$ | $s$ | $i$ | $m$ | $h$ | $c$ |
 | :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -126,7 +126,7 @@ a_{j,0}^{(s)}, \quad \text{if } \sigma_{s}(t) = 0, \\ a_{j,1}^{(s)}, \quad \text
 \end{cases}$$
 In our framing, every type $t \in T$ can be defined by a 4-bit coordinate when fixing a dichotomy system, so that: $$\chi(t) = (\mathfrak{D}_{1}(t), \mathfrak{D}_{2}(t), \mathfrak{D}_{3}(t), \mathfrak{D}_{4}(t)) \in \mathbb{Z}^4_{2}$$where $\mathfrak{D}_i(t) \in \{0, 1\}$ is the trait value of $t$ on the $i$-th dichotomy.
 
-We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0, 0)$$then for any other type $t$ the selector bit vector is defined by $$\chi(t) = \chi(t) = \chi(t).$$
+We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0, 0)$$then for any other type $t$ the selector bit vector is defined by $$\chi(t) = \chi(t) - \chi(t_{0}).$$
 **Selector admissibility axiom.** A dichotomy $D$ is a valid selector for a dichotomy system $\mathcal{D}_i$ iff the induced selector function $\sigma_D$ is constant on $I_{\mathcal{D}_i}$. Consequently, all selector dichotomies are either orbital or bilinear (waffle) dichotomies.
 
 **Clarifying remark.** Under the selector admissibility axiom, selector dichotomies act only on the vector coordinates associated with the wall (non-orbital) dichotomies, while all orbital dichotomies are preserved. In particular, a selector resolves ambiguity among affine representatives by choosing between wall-dependent components of a coset, without altering the orbital structure fixed by the universal invariant core.
