@@ -1,6 +1,6 @@
 # Preface
 
-- The information elements can be defined by the intersection of the infort
+- The set of information elements can be defined by the intersection of the dichotomies from a system of dichotomies where the 
 
 # Tencer-Minaev System ($\mathcal{D}_{14}$)
 
