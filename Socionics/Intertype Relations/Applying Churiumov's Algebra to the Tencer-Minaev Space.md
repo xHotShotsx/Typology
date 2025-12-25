@@ -71,5 +71,6 @@
 
 $$ \begin{bmatrix}
 \text{ILE} & \text{SEI} & \text{SLI} & \text{IEE} \\
-\text{LSE} & \text{}
+\text{LSE} & \text{EII} & \text{ESI} & \text{LIE} \\
+\text{IEI} & \text{SLE} & \text{SEE} & \text{ILI}
 \end{bmatrix} $$
