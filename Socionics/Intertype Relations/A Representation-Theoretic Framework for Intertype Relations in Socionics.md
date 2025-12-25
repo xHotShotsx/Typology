@@ -141,6 +141,8 @@ Let each selector dichotomy $D_s \in \mathcal{S}_i$ induce a partition: $$ T = T
 Then, the common refinement of these partitions is: $$\mathcal{P}_{i} = \left\{ \bigcap_{s=1}^{m-1} T_{s,\sigma_{s}}(t) \;\middle|\; t \in T \right\}. $$
 Equivalently, the refinement is the quotient of $T$ by the kernel of the selector signature map, $$\sigma : T \longrightarrow \mathbb{Z}_{2}^{m-1}, \quad t \mapsto (\sigma_{1}(t), \dots, \sigma_{m-1}(t)).$$Therefore, $$\mathcal{P}_{i} = T/\mathrm{ker}(\sigma),$$and each equivalence class corresponds to a unique selector signature, yielding a $k$-chotomy within the dichotomy system $\mathcal{D}_i$.
 
+**Remark.** The selectort 
+
 
 # 7. The Representation Map
 
