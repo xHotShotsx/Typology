@@ -1,5 +1,5 @@
 # Assumption: ILE = Basis Vector
-## $\mathbf{V}_{14}$
+## $\mathbf{V}_{14}$ (Encoded using XNOR Logic)
 
 | Questim | 1st-Abstract | 1st-Internal | Democratic |
 | :-----: | :----------: | :----------: | :--------: |
@@ -20,4 +20,7 @@
 |    0    |      0       |      0       |     1      |
 |    0    |      0       |      0       |     0      |
 
-# ITR 
+
+
+## ITR to Dichotomy Correspondences
+
