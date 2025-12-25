@@ -1,6 +1,6 @@
 # Preface
 
-- The set of information elements can be defined by the intersection of a heptad of dichotomies from a system of dichotomies where the kindred relationship is invariant when mapped to a vector constructed by a dichotomy system. For more information on which , check out Section 7 of [[A Representation-Theoretic Framework for Intertype Relations in Socionics]].
+- The set of information elements can be defined by the intersection of a heptad of dichotomies from a system of dichotomies where the kindred relationship is invariant when mapped to a vector constructed by a dichotomy system, and thus defin. For more information on which Intertype Relations are invariant relative to a dichotomy system, check out Section 7 of [[A Representation-Theoretic Framework for Intertype Relations in Socionics]].
 
 # Tencer-Minaev System ($\mathcal{D}_{14}$)
 
