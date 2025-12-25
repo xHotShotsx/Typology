@@ -43,4 +43,9 @@ $A_1$
 _(Imaginative/Concrete)_
 
 $A_{2}$
-1s
+1stDelta/1stBeta
+_(Absorptive/Directive)_
+
+$A_3$
+2ndExternal/2ndInternal
+_(Structuring/Expansive)_
