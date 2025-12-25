@@ -77,3 +77,7 @@ $$ \begin{bmatrix}
 \end{bmatrix} $$
 
 
+# References / Further Reading
+
+- [Chruiumov's Algebra](https://docs.google.com/spreadsheets/d/1uejonVgJo2rMb62Yx_HkQzTtwaH8VKJTnSRpEDpSmdA/edit?gid=0#gid=0)
+- 
