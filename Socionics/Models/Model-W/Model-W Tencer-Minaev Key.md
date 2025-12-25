@@ -16,7 +16,6 @@ $V_4$
 Asking/Declaring
 _(Divergent/Convergent)_
 
-vs
 
 # Converse Dichotomies
 
@@ -25,4 +24,13 @@ Irrational/Rational
 _(same)_
 
 $C_2$
-Extr
+Extroversion/Introversion
+_(same)_
+
+$C_3$
+Process/Result
+_(Evolutive/Involutive)_
+
+$C_{4}$
+Positivist/Negativist
+_(Constructive/Corrective)_
