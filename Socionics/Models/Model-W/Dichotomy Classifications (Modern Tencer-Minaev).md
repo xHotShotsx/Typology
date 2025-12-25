@@ -161,6 +161,6 @@ X_{4} \quad \text{if } x = X_{2} \text{ and } y = X_{3}.
 
 # Additional Note
 
-- Also check out the dichotomy table for the Reinin space Kimani White and Andrew Joynton have mapped out: https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0.
+- Also check out the modern dichotomy classifications table for the Reinin space Kimani White and Andrew Joynton have mapped out: https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0.
 - And for an alternate arrangement of the Tencer-Minaev (TM) Table, check out Kimani White's iteration of the table, accessible here: https://docs.google.com/document/d/1YTDf0oXVmxGEDrOLUyqZZz2lOIDw76yuWAA3ppjHMH0/edit?tab=t.0#heading=h.100owmjgo0e.
 - For those wanting to know the octadic sets that are emergent from these dichotomy traits: https://docs.google.com/document/d/1twvmo5SmLomTsG7uQwQP5NJKOUhpcK-qQIv787K8Tjk/edit?tab=t.0.
