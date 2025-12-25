@@ -1,6 +1,6 @@
 # Preface
 
-- The information dichotomies can be defined by the 
+- The information elements can be defined by the intersection of the infort
 
 # Tencer-Minaev System ($\mathcal{D}_{14}$)
 
