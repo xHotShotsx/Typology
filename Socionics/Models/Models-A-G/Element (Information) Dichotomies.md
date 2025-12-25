@@ -1,6 +1,6 @@
 # Preface
 
-- The set of information elements can be defined via dichotomy systems under which the kindred intertype relation is invariant when mapped to a vector space induced by the system. Although all 16 "Varlawend" dichotomy systems preserve the orbital 2-cocycle, orbital preservation alone is insuffici
+- The set of information elements can be defined via dichotomy systems under which the kindred intertype relation is invariant when mapped to a vector space induced by the system. Although all 16 "Varlawend" dichotomy systems preserve the orbital 2-cocycle, orbital preservation alone is insufficient to guarantee kindred invariance. Among these systems, only two fix the kindred relation. In each of these systems, a heptad of dichotomies suffices 
 - Alternatively, if you isolate the information metabolism elements (IMEs) as a unique set then there will still be 7 dichotomies, per system of dichotomies, in order to differentiate them distinctly.
 
 
