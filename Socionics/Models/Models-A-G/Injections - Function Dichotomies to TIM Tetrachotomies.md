@@ -2,10 +2,10 @@
 
 - The tautological function dichotomy, namely Valid/Null, will inject into a dichotomy of TIM, and not a tetrachotomy.
 - The division hierarchy for 8 function models once injections are applicable are:
-	- Function Monochotomy (Valid/Null) --> TIM Dichotomy
-	- Function Dichotomy --> TIM Tetrachotomy
-	- Function Tetrachotomy --> TIM Octachotomy
-	- Function Octachotomy --> TIM Hexadecachotomy 
+	- Function Monochotomy (Valid/Null) $\longrightarrow$ TIM Dichotomy
+	- Function Dichotomy $\longrightarrow$  TIM Tetrachotomy
+	- Function Tetrachotomy $\longrightarrow$  TIM Octachotomy
+	- Function Octachotomy $\longrightarrow$  TIM Hexadecachotomy 
 
 ## Model A (Presence Cube)
 
