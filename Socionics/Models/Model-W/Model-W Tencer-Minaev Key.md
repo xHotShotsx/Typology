@@ -72,3 +72,8 @@ _(Clarifying/Transformative)_
 $D_4$
 2ndAlpha/2ndGamma
 _(Formative/Emergent)_
+
+
+# Additional Note
+
+- For the 'Model-L Reinin Key', I would suggest you check out Kimani White's [Model-L Reinin Key]
