@@ -1,6 +1,6 @@
 # Preface
 
-- The set of information elements can be defined by the intersection of a heptad of dichotomies from a system of dichotomies where the 
+- The set of information elements can be defined by the intersection of a heptad of dichotomies from a system of dichotomies where the kindred relationship is invariant to the 
 
 # Tencer-Minaev System ($\mathcal{D}_{14}$)
 
