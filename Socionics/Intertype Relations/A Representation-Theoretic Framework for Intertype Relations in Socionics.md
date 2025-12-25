@@ -1,6 +1,6 @@
 # 1. Introduction
 
-This paper investigates dichotomy systems in Socionics through group actions and vector space representations. Each dichotomy system consists of a fixed set of wall dichotomies whose interactions generate orbital dichotomies through a Socion 2-cocycle. The set of intertype relations form a nonabelian group acting on types, while dichotomy systems induce abelian relation groups acting on both types and its derived models. Section 2 introduces the foundational combinatorial objects. Sections 3 and 4 develop the group-theoretic framework. Section 5 introduces set models derived from the vector space associated with the dichotomy systems. Section 6 introduces selector dichopt. Section 7 defines the representation map that maps intertype relations to vectors.
+This paper investigates dichotomy systems in Socionics through group actions and vector space representations. Each dichotomy system consists of a fixed set of wall dichotomies whose interactions generate orbital dichotomies through a Socion 2-cocycle. The set of intertype relations form a nonabelian group acting on types, while dichotomy systems induce abelian relation groups acting on both types and its derived models. Section 2 introduces the foundational combinatorial objects. Sections 3 and 4 develop the group-theoretic framework. Section 5 introduces set models derived from the vector space associated with the dichotomy systems. Section 6 introduces the selector dichotomies. Section 7 defines the representation map that maps intertype relations to vectors.
 
 # 2. Foundational Objects and Notation
 
@@ -126,7 +126,7 @@ a_{j,0}^{(s)}, \quad \text{if } \sigma_{s}(t) = 0, \\ a_{j,1}^{(s)}, \quad \text
 \end{cases}$$
 In our framing, every type $t \in T$ can be defined by a 4-bit coordinate when fixing a dichotomy system, so that: $$\chi(t) = (\mathfrak{D}_{1}(t), \mathfrak{D}_{2}(t), \mathfrak{D}_{3}(t), \mathfrak{D}_{4}(t)) \in \mathbb{Z}^4_{2}$$where $\mathfrak{D}_i(t) \in \{0, 1\}$ is the trait value of $t$ on the $i$-th dichotomy.
 
-We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0, 0)$$then for any other type $t$ the selector bit vector is defined by $$\chi(t)-\chi(t_{0}) = \chi(t).$$
+We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0, 0)$$then for any other type $t$ the selector bit vector is defined by $$\chi(t) = \chi(t) = \chi(t).$$
 **Selector admissibility axiom.** A dichotomy $D$ is a valid selector for a dichotomy system $\mathcal{D}_i$ iff the induced selector function $\sigma_D$ is constant on $I_{\mathcal{D}_i}$. Consequently, all selector dichotomies are either orbital or bilinear (waffle) dichotomies.
 
 **Clarifying remark.** Under the selector admissibility axiom, selector dichotomies act only on the vector coordinates associated with the wall (non-orbital) dichotomies, while all orbital dichotomies are preserved. In particular, a selector resolves ambiguity among affine representatives by choosing between wall-dependent components of a coset, without altering the orbital structure fixed by the universal invariant core.
