@@ -11,4 +11,6 @@
 # Semidual Mirage HEF System ($\mathcal{D}_2$)
 
 1. Extroversion / Introversion
-2. 
+2. Irrational / Rational
+3. Static/Dynamic
+4. 
