@@ -1,4 +1,4 @@
-# Type Vector Space 
+# $\mathbf{V}_{14}$ with ILE = basis vector
 
 | Questim | 1st-Abstract | 1st-Internal | Democratic |
 | :-----: | :----------: | :----------: | :--------: |
@@ -18,7 +18,3 @@
 |    0    |      0       |      1       |     0      |
 |    0    |      0       |      0       |     1      |
 |    0    |      0       |      0       |     0      |
-
-
-
-**
