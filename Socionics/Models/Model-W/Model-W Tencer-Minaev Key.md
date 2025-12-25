@@ -13,4 +13,16 @@ Democratic/Aristocratic
 _(Descriptive/Prescriptive)_
 
 $V_4$
-Asking/D
+Asking/Declaring
+_(Divergent/Convergent)_
+
+vs
+
+# Converse Dichotomies
+
+$C_{1}$
+Irrational/Rational
+_(same)_
+
+$C_2$
+Extr
