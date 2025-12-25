@@ -1,4 +1,4 @@
-# Assumption: ILE = Basis Vector
+# Assumption: ILE = Base Vector
 ## $\mathbf{V}_{14}$ (Encoded using XNOR Logic)
 
 | Questim | 1st-Abstract | 1st-Internal | Democratic |
@@ -44,4 +44,4 @@
 |  0000  | SLE  |  Look-a-like   | 2nd-External |
 
 
-## 
+## Type by 
