@@ -69,4 +69,6 @@
 
 ## Hadamard Matrix Order for the Tencer-Minaev Space
 
-$$ qmatri $$
+$$ [\begin{matrix}
+\text{ILE} & \text{SEI} & \text{SLI} &
+\end{matrix}] $$
