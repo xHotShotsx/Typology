@@ -1,3 +1,7 @@
+# Preface
+
+- The information dichotomies can be defined by the 
+
 # Tencer-Minaev System ($\mathcal{D}_{14}$)
 
 1. Extroversion / Introversion
