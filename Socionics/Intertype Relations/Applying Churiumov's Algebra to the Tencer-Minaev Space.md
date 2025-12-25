@@ -67,4 +67,6 @@
 | LSI |  1  |  0  |  0  |  1  |  0  |  1  |  1  |  0  |  0  |  1  |  1  |  0  |  1  |  0  |  0  |  1  |  s  |
 
 
-## Hadamard Matrix 
+## Hadamard Matrix Order for the Tencer-Minaev Space
+
+$$ qmatri $$
