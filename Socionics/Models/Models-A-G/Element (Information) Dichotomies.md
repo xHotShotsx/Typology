@@ -1,7 +1,7 @@
 # Preface
 
 - The set of information elements can be defined via dichotomy systems under which the kindred intertype relation is invariant when mapped to a vector space induced by the system. Although all 16 "Varlawend" dichotomy systems preserve the orbital 2-cocycle, orbital preservation alone is insufficient to guarantee kindred invariance. Among these systems, only two ($\mathcal{D}_{2}$ and $\mathcal{D}_{14}$) fix the kindred relation. In each of these systems, a heptad of dichotomies suffices to distinguish the information metabolism elements (IMEs) uniquely. For more information on which relationships are invariant when mapped to the vector space, check out Section 7 of [[A Representation-Theoretic Framework for Intertype Relations in Socionics]].
-- Side Note: 
+- **Side Note:** HEF = High Energy Function. These correspond to the Energetic functions of Model-G, which is a Gulenko-Newman trait. For more information 
 
 
 # Semidual Mirage HEF System ($\mathcal{D}_2$)
