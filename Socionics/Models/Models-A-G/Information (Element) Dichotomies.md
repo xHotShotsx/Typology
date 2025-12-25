@@ -13,4 +13,6 @@
 1. Extroversion / Introversion
 2. Irrational / Rational
 3. Static/Dynamic
-4. 
+4. LIE+EII HEF / ESE+LSI HEF
+5. SEI+IEE HEF / SLE+ILI HEF
+6. LII+ESE HEF / ESI+LSE HJE
