@@ -1,7 +1,8 @@
 # Preface
 
 - The set of information elements can be defined by the intersection of a heptad of dichotomies from a system of dichotomies where the kindred relationship is invariant when mapped to a vector in the vector space constructed by a dichotomy system. For more information on which Intertype Relations are invariant relative to a dichotomy system, check out Section 7 of [[A Representation-Theoretic Framework for Intertype Relations in Socionics]].
-- Alternatively, if you isolate the information metabolism elements (IMEs) as a unique set then there will still be 7 dichotomies in order to differentiste  them distinctly.
+- Alternatively, if you isolate the information metabolism elements (IMEs) as a unique set then there will still be 7 dichotomies, per system of in order to differentiste them distinctly.
+- Here, I will present 
 
 # Tencer-Minaev System ($\mathcal{D}_{14}$)
 
