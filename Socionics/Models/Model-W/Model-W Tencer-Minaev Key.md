@@ -34,3 +34,13 @@ _(Evolutive/Involutive)_
 $C_{4}$
 Positivist/Negativist
 _(Constructive/Corrective)_
+
+
+# Aristocratic Dichotomies
+
+$A_1$
+1stInternal/1stExternal
+_(Imaginative/Concrete)_
+
+$A_{2}$
+1s
