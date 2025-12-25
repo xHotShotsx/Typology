@@ -63,4 +63,12 @@ _(Conceptual/Experiential)_
 
 $D_2$
 1stAlpha/1stGamma
-_(Systemic/Pragma)_
+_(Systemic/Pragmatic)_
+
+$D_3$
+2ndAbstract/2ndInvolved
+_(Clarifying/Transformative)_
+
+$D_4$
+2ndAlpha/2ndGamma
+_(Formative/Emergent)_
