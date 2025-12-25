@@ -69,6 +69,7 @@
 
 ## Hadamard Matrix Order for the Tencer-Minaev Space
 
-$$ [\begin{matrix}
-\text{ILE} & \text{SEI} & \text{SLI} &
-\end{matrix}] $$
+$$ \begin{bmatrix}
+\text{ILE} & \text{SEI} & \text{SLI} & \text{IEE} \\
+\text{LSE} & \text{}
+\end{bmatrix} $$
