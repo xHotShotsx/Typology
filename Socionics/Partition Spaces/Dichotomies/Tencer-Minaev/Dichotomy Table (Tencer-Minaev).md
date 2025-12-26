@@ -178,7 +178,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > [!octad-v]
 > ### Vector Octads ($V$)
 > Valid/Null ($V_{1}$)
-> Valid ($V_{1,0}$) =  
+> Valid ($V_{1,0}$) = $T$ for the set of types and $\mathcal{E}$ for the set of monadic (signed) elements. 
 > 
 
 > [!octad-c]
