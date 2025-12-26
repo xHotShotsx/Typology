@@ -176,7 +176,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 
 ## Orbital / Ordinal Octads ($\mathcal{O}$)
 > [!octad-v]
-> ### Vector Octad ($V$)
+> ### Vector Octads ($V$)
 > 
 
 
