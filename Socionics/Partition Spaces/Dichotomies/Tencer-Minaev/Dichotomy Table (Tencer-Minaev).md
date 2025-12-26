@@ -236,12 +236,12 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $C_{3,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LSE}, \mathrm{EII} \}$
 > $C_{3,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{?Te^-}, \mathrm{!Fi^+} \}$
 > 
-> $C_{3,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
-> $C_{3,1}^{\mathcal{E}} = \{ \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
+> $C_{3,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{IEE}, \mathrm{SLI} \}$
+> $C_{3,1}^{\mathcal{E}} = \{ \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
 > 
 > #### Positivist/Negativist ($C_{4}$)
 > 
-> $C_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{SLI} \}$
+> $C_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{ESE}, \mathrm{LSI}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{SLI} \}$
 > $C_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{?Si^+} \}$
 > 
 > $V_{4,1}^T = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{EII}, \mathrm{IEE} \}$
