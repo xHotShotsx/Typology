@@ -218,7 +218,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 >#### Irrational/Rational ($C_1$)
 >
 >$C_{1,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{IEE}, \mathrm{SLI} \}$
->$C_{1,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{} \}$
+>$C_{1,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
+>
+>$C_{1,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{} \}$
 >
 > #### Static/Dynamic ($V_{2}$)
 > 
