@@ -77,9 +77,9 @@
 | Evaluatory/Situational | $V_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
 
 
-### Gulenko-Newman Dichotomies
-#### Reinin
-##### For Irrational Types
+## Model G (Humanitarian Socionics)
+### Reinin
+#### For Irrational Types
 
 |    Function Dichotomy     |      TIM Tetrachotomy Construction       |   TIM Tetrachotomy    |
 | :-----------------------: | :--------------------------------------: | :-------------------: |
@@ -92,7 +92,7 @@
 |       Values/Tools        | $G_{1} \cap R_{3} \cap I_{1} \cap U_{3}$ |    Project Groups     |
 |    Automatic/Conscious    | $G_{1} \cap R_{4} \cap I_{2} \cap U_{3}$ |  Dispository Groups   |
 
-##### For Rational Types
+#### For Rational Types
 
 |    Function Dichotomy     |      TIM Tetrachotomy Construction       |   TIM Tetrachotomy    |
 | :-----------------------: | :--------------------------------------: | :-------------------: |
@@ -134,9 +134,9 @@
 |    Automatic/Conscious    | $V_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
 
 
-## Model G Humanitarian Socionics (Gulenko-Newman Dichotomies)
-### Semidual Mirage HEF
-#### For Iridescent Hopes Types
+### Gulenko-Newman Dichotomies
+#### Semidual Mirage HEF
+##### For Iridescent Hopes Types
 
 |       Function Dichotomy       |   TIM Tetrachotomy    |
 | :----------------------------: | :-------------------: |
@@ -149,7 +149,7 @@
 | Impressionable/Unimpresionable |      Waiting HEF      |
 |       Tensioned/Relaxed        |  Realistic Plans HEF  |
 
-#### For Waiting Types
+##### For Waiting Types
 
 |       Function Dichotomy       |   TIM Tetrachotomy    |
 | :----------------------------: | :-------------------: |
@@ -162,7 +162,7 @@
 | Impressionable/Unimpresionable | Iridescent Hopes HEF  |
 |       Tensioned/Relaxed        | Avoiding Failures HEF |
 
-#### For Realistic Plans Types
+##### For Realistic Plans Types
 
 |       Function Dichotomy       |   TIM Tetrachotomy    |
 | :----------------------------: | :-------------------: |
@@ -175,7 +175,7 @@
 | Impressionable/Unimpresionable | Avoiding Failures HEF |
 |       Tensioned/Relaxed        | Iridescent Hopes HEF  |
 
-#### For Avoiding Failures Types
+##### For Avoiding Failures Types
 
 |       Function Dichotomy       |   TIM Tetrachotomy    |
 | :----------------------------: | :-------------------: |
@@ -189,8 +189,8 @@
 |       Tensioned/Relaxed        |      Waiting HEF      |
 
 
-### Kindred Business HEF
-#### For Flexible Manoeuvring Types
+#### Kindred Business HEF
+##### For Flexible Manoeuvring Types
 
 |       Function Dichotomy       |     TIM Tetrachotomy     |
 | :----------------------------: | :----------------------: |
@@ -203,7 +203,7 @@
 | Impressionable/Unimpresionable |  Receptive Adaptive HEF  |
 |       Tensioned/Relaxed        |   Balanced Stable HEF    |
 
-#### For Linear Assertive Types
+##### For Linear Assertive Types
 
 |       Function Dichotomy       |     TIM Tetrachotomy     |
 | :----------------------------: | :----------------------: |
@@ -216,7 +216,7 @@
 | Impressionable/Unimpresionable |   Balanced Stable HEF    |
 |       Tensioned/Relaxed        |  Receptive Adaptive HEF  |
 
-#### For Balanced Stable Types
+##### For Balanced Stable Types
 
 |       Function Dichotomy       |     TIM Tetrachotomy     |
 | :----------------------------: | :----------------------: |
