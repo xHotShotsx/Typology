@@ -195,7 +195,8 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > 
 > Dynamic ($V_{2,1}$) = $\nabla$
 > 
-> $V_{2,1} = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{}  \}$
+> $V_{2,1} = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{SLI}  \}$
+> $V_{2,1} = \{ \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Fe^-}, \mathrm{}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{SLI}  \}$
 
 
 > [!octad-c]
