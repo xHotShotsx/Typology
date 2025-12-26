@@ -190,7 +190,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > 
 > Static ($V_{2,0}$) = $\square$
 > 
-> $V_{2,0} =  
+> $V_{2,0} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{EII} \}$ 
 
 
 > [!octad-c]
