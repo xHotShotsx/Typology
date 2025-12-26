@@ -216,7 +216,11 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > 
 > Asking ($V_{4,0}$) = $?$
 >
-> $V_{4,0} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{} \}$
+> $V_{4,0} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{SLI} \}$
+> 
+> Declaring ($V_{4,1}$) = $!$
+> 
+> $V_{4,1} = $
 > 
 
 
