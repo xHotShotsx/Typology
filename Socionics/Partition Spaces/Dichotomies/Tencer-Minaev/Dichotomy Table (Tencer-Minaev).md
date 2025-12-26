@@ -225,8 +225,8 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 >
 > #### Extroversion/Introversion ($C_{2}$)
 > 
-> $C_{2,0}^T = \{ \mathrm{ILE}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{EII}, \mathrm{IEE} \}$
-> $C_{2,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{?Ti^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$
+> $C_{2,0}^T = \{ \mathrm{ILE}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{IEE} \}$
+> $C_{2,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Fe^+}, \mathrm{?Fe^-}, \mathrm{!Se^-}, \mathrm{?Se^+}, \mathrm{!Te^+}, \mathrm{?Te^-}, \mathrm{!Ne^-} \}$
 > 
 > $C_{2,1}^T = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{SLI}  \}$
 > $C_{2,1}^{\mathcal{E}} = \{ \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{!Ni^-}, \mathrm{!Te^-}, \mathrm{?Te^+}, \mathrm{?Si^+}  \}$
