@@ -111,7 +111,8 @@ $$ \mathfrak{d}(t) := \begin{cases}
 1 \quad \text{if } t \notin \mathfrak{t}_{1} 
 \end{cases} $$
 
-We fix the sociotype ILE as the reference element and identify it with the zero vector. Accordingly, for every dichotomy $\mathfrak{d}$, the assignment of valeus for 0 and 1 is chosen so that $\mathfrak{d}(\mathrm{ILE}) = 0$. All trait values and vector representations are therefore understood relative to this basepoint. Under this convention, every $t \in T$ is represented by a binary vector encoding its deviation from the ILE across the
+We fix the sociotype ILE as the reference element and identify it with the zero vector. Accordingly, for every dichotomy $\mathfrak{d}$, the assignment of values for 0 and 1 is chosen so that $\mathfrak{d}(\mathrm{ILE}) = 0$. All trait values and vector representations are therefore understood relative to this basepoint. Under this convention, every $t \in T$ is represented by a binary vector encoding its deviation from the ILE across the fixed dichotomy system.
+
 
 ## Mathematical Correspondences
 ### Alphabetic Correspondences
