@@ -169,7 +169,7 @@ Since $V_{1}$ is not a dichotomy (proper), the sets that are derived from it are
 Let a dichotomy be a partition: $$\mathfrak{d} = \{ \mathfrak{t}_{0}, \mathfrak{t}_{1} \}, \quad \mathfrak{t}_{0} \sqcup \mathfrak{t}_{1} = T$$The dichotomy function: $$ \mathfrak{d} : T \to \mathbb{Z}_{2} $$by
 $$ \mathfrak{d}(t) := \begin{cases}
 0 \quad \text{if } t \in \mathfrak{t}_{0} \\
-1 \quad \text{if } t \notin \mathfrak{t}_{1} 
+1 \quad \text{if } t \in \mathfrak{t}_{1} 
 \end{cases} $$
 
 We fix the sociotype ILE as the reference element and identify it with the zero vector. Accordingly, for every dichotomy $\mathfrak{d}$, the assignment of values for $0$ and $1$ is chosen so that $\mathfrak{d}(\mathrm{ILE}) = 0$. All trait values and vector representations are therefore understood relative to this basepoint. Under this convention, every type $t \in T$ is represented by a binary vector encoding its deviation from the ILE across the fixed dichotomy system.
@@ -184,7 +184,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $V_{1,0} = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
 > $V_{1,0} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
 > 
-> Null 
+> Null ($V_{1,1}$) = $\emptyset$
+> 
+> #
 
 
 > [!octad-c]
