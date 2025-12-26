@@ -21,7 +21,7 @@
 | Evaluatory/Situational | $G_{1} \cap R_{4} \cap I_{4} \cap U_{1}$ |     Occupation Groups     |
 
 
-## Model A (SCS)
+## Model A (Classical Socionics)
 ### Reinin
 #### For Irrational Types
 
@@ -77,7 +77,7 @@
 | Evaluatory/Situational | $V_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
 
 
-## Model G
+## Model G (Humanitarian Socionics)
 ### Reinin
 #### For Irrational Types
 
