@@ -186,7 +186,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > 
 > Null ($V_{1,1}$) = $\emptyset$
 > 
-> #
+> #### Static/Dynamic ($V_{2}$)
+> 
+> 
 
 
 > [!octad-c]
