@@ -102,18 +102,6 @@ $X_{4} = \{V_{4}, A_{4}, D_{4}, C_{4}\}$
 $\mathbb{U} = \{ V_{i}, A_{i}, D_{i}, C_{i} \mid i = 1,2,3,4 \}$
 
 
-# IM Octads Index
-## Formal Representation of the Octadic Sets
-
-Let a dichotomy be a partition: $$\mathfrak{d} = \{ \mathfrak{t}_{0}, \mathfrak{t}_{1} \}, \quad \mathfrak{t}_{0} \sqcup \mathfrak{t}_{1} = T$$The dichotomy function: $$ \mathfrak{d} : T \to \mathbb{Z}_{2} $$by
-$$ \mathfrak{d}(t) := \begin{cases}
-0 \quad \text{if } t \in \mathfrak{t}_{0} \\
-1 \quad \text{if } t \notin \mathfrak{t}_{1} 
-\end{cases} $$
-
-We fix the sociotype ILE as the reference element and identify it with the zero vector. Accordingly, for every dichotomy $\mathfrak{d}$, the assignment of values for 0 and 1 is chosen so that $\mathfrak{d}(\mathrm{ILE}) = 0$. All trait values and vector representations are therefore understood relative to this basepoint. Under this convention, every $t \in T$ is represented by a binary vector encoding its deviation from the ILE across the fixed dichotomy system.
-
-
 ## Mathematical Correspondences
 ### Alphabetic Correspondences
 
@@ -169,6 +157,21 @@ X_{4} \quad \text{if } x = X_{2} \text{ and } y = X_{3}.
 |   <span class="cell-converse">$C_2$</span>   |   <span class="cell-converse">$C_2$</span>   |   <span class="cell-converse">$C_1$</span>   |   <span class="cell-converse">$C_4$</span>   |   <span class="cell-converse">$C_3$</span>   |  <span class="cell-democratic">$D_2$</span>  |  <span class="cell-democratic">$D_1$</span>  |  <span class="cell-democratic">$D_4$</span>  |  <span class="cell-democratic">$D_3$</span>  | <span class="cell-aristocratic">$A_2$</span> | <span class="cell-aristocratic">$A_1$</span> | <span class="cell-aristocratic">$A_4$</span> | <span class="cell-aristocratic">$A_3$</span> |    <span class="cell-vector">$V_2$</span>    |    <span class="cell-vector">$V_1$</span>    |    <span class="cell-vector">$V_4$</span>    |    <span class="cell-vector">$V_3$</span>    |
 |   <span class="cell-converse">$C_3$</span>   |   <span class="cell-converse">$C_3$</span>   |   <span class="cell-converse">$C_4$</span>   |   <span class="cell-converse">$C_1$</span>   |   <span class="cell-converse">$C_2$</span>   |  <span class="cell-democratic">$D_3$</span>  |  <span class="cell-democratic">$D_4$</span>  |  <span class="cell-democratic">$D_1$</span>  |  <span class="cell-democratic">$D_2$</span>  | <span class="cell-aristocratic">$A_3$</span> | <span class="cell-aristocratic">$A_4$</span> | <span class="cell-aristocratic">$A_1$</span> | <span class="cell-aristocratic">$A_2$</span> |    <span class="cell-vector">$V_3$</span>    |    <span class="cell-vector">$V_4$</span>    |    <span class="cell-vector">$V_1$</span>    |    <span class="cell-vector">$V_2$</span>    |
 |   <span class="cell-converse">$C_4$</span>   |   <span class="cell-converse">$C_4$</span>   |   <span class="cell-converse">$C_3$</span>   |   <span class="cell-converse">$C_2$</span>   |   <span class="cell-converse">$C_1$</span>   |  <span class="cell-democratic">$D_4$</span>  |  <span class="cell-democratic">$D_3$</span>  |  <span class="cell-democratic">$D_2$</span>  |  <span class="cell-democratic">$D_1$</span>  | <span class="cell-aristocratic">$A_4$</span> | <span class="cell-aristocratic">$A_3$</span> | <span class="cell-aristocratic">$A_2$</span> | <span class="cell-aristocratic">$A_1$</span> |    <span class="cell-vector">$V_4$</span>    |    <span class="cell-vector">$V_3$</span>    |    <span class="cell-vector">$V_2$</span>    |    <span class="cell-vector">$V_1$</span>    |
+
+
+# IM Octads Index
+## Notation
+
+Let a dichotomy be a partition: $$\mathfrak{d} = \{ \mathfrak{t}_{0}, \mathfrak{t}_{1} \}, \quad \mathfrak{t}_{0} \sqcup \mathfrak{t}_{1} = T$$The dichotomy function: $$ \mathfrak{d} : T \to \mathbb{Z}_{2} $$by
+$$ \mathfrak{d}(t) := \begin{cases}
+0 \quad \text{if } t \in \mathfrak{t}_{0} \\
+1 \quad \text{if } t \notin \mathfrak{t}_{1} 
+\end{cases} $$
+
+We fix the sociotype ILE as the reference element and identify it with the zero vector. Accordingly, for every dichotomy $\mathfrak{d}$, the assignment of values for 0 and 1 is chosen so that $\mathfrak{d}(\mathrm{ILE}) = 0$. All trait values and vector representations are therefore understood relative to this basepoint. Under this convention, every $t \in T$ is represented by a binary vector encoding its deviation from the ILE across the fixed dichotomy system.
+
+##
+
 
 
 # Additional Note
