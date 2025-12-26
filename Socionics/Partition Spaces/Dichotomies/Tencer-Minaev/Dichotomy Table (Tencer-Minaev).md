@@ -106,7 +106,8 @@ $\mathbb{U} = \{ V_{i}, A_{i}, D_{i}, C_{i} \mid i = 1,2,3,4 \}$
 ## Formal Representation of the Octadic Sets
 
 $$ X_{i}(t) := \begin{cases}
-0 \quad \text{if } x \in
+0 \quad \text{if } t \in X_{i} \\
+1 \quad \text{if } t \notin X_{i} 
 \end{cases} $$
 
 
