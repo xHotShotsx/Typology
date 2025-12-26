@@ -206,9 +206,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > 
 > $V_{3,0} = \{ \mathrm{!Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-} \}$
 > 
-> Aristocratic ($V_{3,1}$)
+> Aristocratic ($V_{3,1}$) = $\forall$
 > 
-> 
+> $V_{3,1} = \{ \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LSE}, \}$
 > 
 
 
