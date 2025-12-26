@@ -105,12 +105,12 @@ $\mathbb{U} = \{ V_{i}, A_{i}, D_{i}, C_{i} \mid i = 1,2,3,4 \}$
 # IM Octads Index
 ## Formal Representation of the Octadic Sets
 
-- Let a dichotomy be a partition: $$\mathfrak{d}_i = \{ \mathfrak{t}_{i,0}, \mathfrak{t}_{i,1} \}, \quad \mathfrak{t}_{i,0} \sqcup \mathfrak{t}_{i,1} = T$$
+Let a dichotomy be a partition: $$\mathfrak{d}_i = \{ \mathfrak{t}_{i,0}, \mathfrak{t}_{i,1} \}, \quad \mathfrak{t}_{i,0} \sqcup \mathfrak{t}_{i,1} = T$$
 - The dichotomy function: $$ \mathfrak{d}_{i} : T \to \mathbb{Z}_{2} $$ by
 $$ \mathfrak{d}_{i}(t) := \begin{cases}
 0 \quad \text{if } t \in \mathfrak{t}_{i,0} \\
 1 \quad \text{if } t \notin \mathfrak{t}_{i,1} 
-\end{cases} $$ where the type $t$ is assigned to the ILE.
+\end{cases} $$
 
 
 ## Mathematical Correspondences
