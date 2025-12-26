@@ -102,6 +102,9 @@ $X_{4} = \{V_{4}, A_{4}, D_{4}, C_{4}\}$
 $\mathbb{U} = \{ V_{i}, A_{i}, D_{i}, C_{i} \mid i = 1,2,3,4 \}$
 
 
+# IM Octads Index
+
+
 ## Mathematical Correspondences
 ### Alphabetic Correspondences
 
