@@ -184,7 +184,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > ### Converse Octads ($C$)
 
 
-## Wall 
+## Wall / Cardinal / Non-Orbital Octads ($W_{14}$)
+> [!octad-a]
+> Converse Octads ($A$)
 
 
 
