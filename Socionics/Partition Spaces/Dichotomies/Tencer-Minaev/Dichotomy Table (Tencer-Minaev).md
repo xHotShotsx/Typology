@@ -175,7 +175,7 @@ $$ \mathfrak{d}(t) := \begin{cases}
 We fix the sociotype ILE as the reference element and identify it with the zero vector. Accordingly, for every dichotomy $\mathfrak{d}$, the assignment of values for $0$ and $1$ is chosen so that $\mathfrak{d}(\mathrm{ILE}) = 0$. All trait values and vector representations are therefore understood relative to this basepoint. Under this convention, every type $t \in T$ is represented by a binary vector encoding its deviation from the ILE across the fixed dichotomy system.
 
 ## Orbital / Ordinal Octads ($\mathcal{O}$)
-### <span style="color:rgb(52, 111, 79)"> Vector Octads ($V$) </span>
+### <span style="color:#2741c3"> Vector Octads ($V$) </span>
 
 
 
