@@ -110,7 +110,7 @@ $\mathbb{U} = \{ V_{i}, A_{i}, D_{i}, C_{i} \mid i = 1,2,3,4 \}$
 $$ \mathfrak{d}_{i}(t) := \begin{cases}
 0 \quad \text{if } t \in \mathfrak{t}_{i,0} \\
 1 \quad \text{if } t \notin \mathfrak{t}_{i,1} 
-\end{cases} $$ where I
+\end{cases} $$ where ILE is the zero vector: $$  $$
 
 
 ## Mathematical Correspondences
