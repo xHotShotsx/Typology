@@ -202,7 +202,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > 
 > Democratic ($V_{3,0}$) = $\exists
 > 
-> $V_{3,0} = \{  \}$
+> $V_{3,0} = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI} \}$
 > 
 
 
