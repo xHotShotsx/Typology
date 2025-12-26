@@ -187,25 +187,18 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > Null ($V_{1,1}$) = $\emptyset$
 > 
 > #### Static/Dynamic ($V_{2}$)
-
 > 
 > $V_{2,0} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{EII}, \mathrm{IEE} \}$
 > $V_{2,0} = \{ \mathrm{?Ne^+}, \mathrm{?Ti^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$
-> 
-> Dynamic ($V_{2,1}$) = $\nabla$
 > 
 > $V_{2,1} = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{SLI}  \}$
 > $V_{2,1} = \{ \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{!Ni^-}, \mathrm{!Te^-}, \mathrm{?Te^+}, \mathrm{?Si^+}  \}$
 > 
 > #### Democratic/Aristocratic ($V_3$)
 > 
-> Democratic ($V_{3,0}$) = $\exists$
-> 
 > $V_{3,0} = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI} \}$
 > 
 > $V_{3,0} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-} \}$
-> 
-> Aristocratic ($V_{3,1}$) = $\forall$
 > 
 > $V_{3,1} = \{ \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
 > 
@@ -213,14 +206,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > 
 > #### Asking/Declaring ($V_{4}$)
 > 
-> Asking ($V_{4,0}$) = $?$
->
 > $V_{4,0} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{SLI} \}$
 > 
 > $V_{4,0} = \{ \mathrm{?Ne^+},  \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{?Si^+} \}$
-> 
-> Declaring ($V_{4,1}$) = $!$
-> 
 > $V_{4,1} = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{EII}, \mathrm{IEE} \}$
 > 
 > $V_{4,1} = \{ \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$
