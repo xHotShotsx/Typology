@@ -218,7 +218,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 >
 > $V_{4,0} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{SLI} \}$
 > 
-> $V_{4,0} = \{ \mathrm{?Ne^+} \}$
+> $V_{4,0} = \{ \mathrm{?Ne^+},  \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{?Si^+} \}$
 > 
 > Declaring ($V_{4,1}$) = $!$
 > 
