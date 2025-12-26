@@ -214,7 +214,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > 
 > #### Asking/Declaring ($V_{4}$)
 > 
-> Asking ($
+> Asking ($V_{4,0}$) = $?$
+>
+>
 > 
 
 
