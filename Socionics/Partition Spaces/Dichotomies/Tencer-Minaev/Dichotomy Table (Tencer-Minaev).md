@@ -247,7 +247,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > [!octad-a]
 > Aristocratic Octads ($A$)
 > 
-> #### Irrational/Rational ($A_1$)
+> #### 1stInternal/1stExternal ($A_1$)
 >
 >$A_{1,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{IEE}, \mathrm{SLI} \}$
 >$A_{1,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
@@ -255,7 +255,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 >$A_{1,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{EII} \}$
 >$A_{1,1}^{\mathcal{E}} = \{ \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Fi^+} \}$
 >
-> #### Extroversion/Introversion ($A_{2}$)
+> ####  ($A_{2}$)
 > 
 > $A_{2,0}^T = \{ \mathrm{ILE}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{IEE} \}$
 > $A_{2,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Fe^+}, \mathrm{?Fe^-}, \mathrm{!Se^-}, \mathrm{?Se^+}, \mathrm{!Te^+}, \mathrm{?Te^-}, \mathrm{!Ne^-} \}$
