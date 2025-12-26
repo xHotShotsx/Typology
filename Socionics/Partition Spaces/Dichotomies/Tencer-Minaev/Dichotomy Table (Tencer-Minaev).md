@@ -180,7 +180,11 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > Valid/Null ($V_{1}$) - 
 > 
 
+> [!octad-c]
+> ### Converse Octads ($C$)
 
+
+## Wall 
 
 
 
