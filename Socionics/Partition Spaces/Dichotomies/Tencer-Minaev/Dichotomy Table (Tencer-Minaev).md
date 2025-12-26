@@ -190,9 +190,6 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 
 > [!octad-d]
 > Democratic Octads ($D$)
->
-
-
 
 
 # Additional Note
