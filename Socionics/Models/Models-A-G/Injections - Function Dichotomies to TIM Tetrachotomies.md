@@ -77,9 +77,9 @@
 | Evaluatory/Situational | $V_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
 
 
-## Model G (Humanitarian Socionics)
-### Reinin
-#### For Irrational Types
+### Gulenko-Newman Dichotomies
+#### Reinin
+##### For Irrational Types
 
 |    Function Dichotomy     |      TIM Tetrachotomy Construction       |   TIM Tetrachotomy    |
 | :-----------------------: | :--------------------------------------: | :-------------------: |
@@ -92,7 +92,7 @@
 |       Values/Tools        | $G_{1} \cap R_{3} \cap I_{1} \cap U_{3}$ |    Project Groups     |
 |    Automatic/Conscious    | $G_{1} \cap R_{4} \cap I_{2} \cap U_{3}$ |  Dispository Groups   |
 
-#### For Rational Types
+##### For Rational Types
 
 |    Function Dichotomy     |      TIM Tetrachotomy Construction       |   TIM Tetrachotomy    |
 | :-----------------------: | :--------------------------------------: | :-------------------: |
@@ -134,7 +134,7 @@
 |    Automatic/Conscious    | $V_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
 
 
-## Model G (Gulenko-Newman Dichotomies)
+## Model G Humanitarian Socionics (Gulenko-Newman Dichotomies)
 ### Semidual Mirage HEF
 #### For Iridescent Hopes Types
 
