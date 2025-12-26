@@ -229,7 +229,7 @@
 | Impressionable/Unimpresionable | Flexible Manoeuvring HEF |
 |       Tensioned/Relaxed        |   Linear Assertive HEF   |
 
-#### For Receptive Adaptive Types
+##### For Receptive Adaptive Types
 
 |       Function Dichotomy       |     TIM Tetrachotomy     |
 | :----------------------------: | :----------------------: |
@@ -243,8 +243,8 @@
 |       Tensioned/Relaxed        |   Linear Assertive HEF   |
 
 
-### Activation Quasi Identity HEF
-#### For Approaching Types
+#### Activation Quasi Identity HEF
+##### For Approaching Types
 
 |       Function Dichotomy       |   TIM Tetrachotomy   |
 | :----------------------------: | :------------------: |
@@ -257,7 +257,7 @@
 | Impressionable/Unimpresionable |    Abstaining HEF    |
 |       Tensioned/Relaxed        |   Integrating HEF    |
 
-#### For Shaping Types
+##### For Shaping Types
 
 |       Function Dichotomy       |   TIM Tetrachotomy   |
 | :----------------------------: | :------------------: |
@@ -270,7 +270,7 @@
 | Impressionable/Unimpresionable |   Integrating HEF    |
 |       Tensioned/Relaxed        |    Abstaining HEF    |
 
-#### For Abstaining Types
+##### For Abstaining Types
 
 |       Function Dichotomy       |   TIM Tetrachotomy   |
 | :----------------------------: | :------------------: |
@@ -283,7 +283,7 @@
 | Impressionable/Unimpresionable |   Approaching HEF    |
 |       Tensioned/Relaxed        |     Shaping HEF      |
 
-#### For Integrating Types
+##### For Integrating Types
 
 |       Function Dichotomy       |   TIM Tetrachotomy   |
 | :----------------------------: | :------------------: |
@@ -297,8 +297,8 @@
 |       Tensioned/Relaxed        |   Approaching HEF    |
 
 
-### Mirror Conflict HEF
-#### For Reorienters
+#### Mirror Conflict HEF
+##### For Reorienters
 
 |       Function Dichotomy       |   TIM Tetrachotomy   |
 | :----------------------------: | :------------------: |
@@ -311,7 +311,7 @@
 | Impressionable/Unimpresionable |    Sharpeners HEF    |
 |       Tensioned/Relaxed        | Foundationalists HEF |
 
-#### For Foundationalists
+##### For Foundationalists
 
 |       Function Dichotomy       |   TIM Tetrachotomy   |
 | :----------------------------: | :------------------: |
@@ -324,7 +324,7 @@
 | Impressionable/Unimpresionable |    Slackeners HEF    |
 |       Tensioned/Relaxed        |   Reorienters HEF    |
 
-#### For Sharpeners
+##### For Sharpeners
 
 |       Function Dichotomy       |   TIM Tetrachotomy   |
 | :----------------------------: | :------------------: |
@@ -337,7 +337,7 @@
 | Impressionable/Unimpresionable |   Reorienters HEF    |
 |       Tensioned/Relaxed        |    Slackeners HEF    |
 
-#### For Slackeners
+##### For Slackeners
 
 |       Function Dichotomy       |   TIM Tetrachotomy   |
 | :----------------------------: | :------------------: |
