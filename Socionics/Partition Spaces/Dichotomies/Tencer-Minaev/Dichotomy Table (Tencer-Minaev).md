@@ -212,6 +212,10 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > 
 > $V_{3,1} = \{ \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
 > 
+> #### Asking/Declaring ($V_{4}$)
+> 
+> Asking ($
+> 
 
 
 
