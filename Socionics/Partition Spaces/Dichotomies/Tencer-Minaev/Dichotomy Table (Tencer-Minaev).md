@@ -193,7 +193,8 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $V_{2,0} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{EII}, \mathrm{IEE} \}$
 > $V_{2,0} = \{ \mathrm{?Ne^+}, \mathrm{?Ti^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$
 > 
-> Dynamic ()
+> Dynamic ($V_{2,1}$) = $\nabla$
+> 
 
 
 > [!octad-c]
