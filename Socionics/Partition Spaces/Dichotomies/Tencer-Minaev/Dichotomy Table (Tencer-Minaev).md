@@ -105,7 +105,7 @@ $\mathbb{U} = \{ V_{i}, A_{i}, D_{i}, C_{i} \mid i = 1,2,3,4 \}$
 # IM Octads Index
 ## Formal Representation of the Octadic Sets
 
-
+$$\mathfrak{d}_i = \{ \mathfrak{t_{i,0}} \}$$
 
 $$ \mathfrak{d}_{i} := \begin{cases}
 0 \quad \text{if } t \in \mathfrak{t} \\
