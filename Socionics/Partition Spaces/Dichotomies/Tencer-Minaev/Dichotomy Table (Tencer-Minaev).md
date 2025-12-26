@@ -204,7 +204,11 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > 
 > $V_{3,0} = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI} \}$
 > 
-> $V_{3,0} = \{ \mathrm{Ne^+}, \mathrm{Si^-}, \mathrm{Fe^+}, \mathrm{Ti^-}, \mathrm{Se^+}, \mathrm{Ni^-}, \mathrm{Te^+}, \mathrm{?Fi^-} \}$
+> $V_{3,0} = \{ \mathrm{!Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-} \}$
+> 
+> Aristocratic ($V_{3,1}$)
+> 
+> 
 > 
 
 
