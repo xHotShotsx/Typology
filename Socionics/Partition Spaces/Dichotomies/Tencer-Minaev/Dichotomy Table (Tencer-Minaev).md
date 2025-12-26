@@ -182,6 +182,8 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 
 
 
+
+
 # Additional Note
 
 - Also check out the dichotomy table for the Reinin space Kimani White and Andrew Joynton have mapped out: https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0.
