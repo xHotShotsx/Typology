@@ -204,7 +204,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > 
 > $V_{3,0} = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI} \}$
 > 
-> $V_{3,0} = \{ \mathrm{!Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-} \}$
+> $V_{3,0} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-} \}$
 > 
 > Aristocratic ($V_{3,1}$) = $\forall$
 > 
@@ -217,6 +217,8 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > Asking ($V_{4,0}$) = $?$
 >
 > $V_{4,0} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{SLI} \}$
+> 
+> $V_{4,0} = \{ \mathrm{?Ne^+} \}$
 > 
 > Declaring ($V_{4,1}$) = $!$
 > 
