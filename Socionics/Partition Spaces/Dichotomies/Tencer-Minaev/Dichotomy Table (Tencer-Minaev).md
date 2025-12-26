@@ -160,6 +160,9 @@ X_{4} \quad \text{if } x = X_{2} \text{ and } y = X_{3}.
 
 
 # IM Octads Index
+## Disclaimer
+
+Since $V_{1}$ is not a dichotomy (proper), the sets that are derived from it are not octadic, therefore containing no real octads of types. While a dichotomy (proper) entails equal partitioning, this set is tautologically defined by the criteria for TIM validity and thus does not constitute an even distribution of octadic sets. 
 ## Notation
 
 Let a dichotomy be a partition: $$\mathfrak{d} = \{ \mathfrak{t}_{0}, \mathfrak{t}_{1} \}, \quad \mathfrak{t}_{0} \sqcup \mathfrak{t}_{1} = T$$The dichotomy function: $$ \mathfrak{d} : T \to \mathbb{Z}_{2} $$by
@@ -169,8 +172,6 @@ $$ \mathfrak{d}(t) := \begin{cases}
 \end{cases} $$
 
 We fix the sociotype ILE as the reference element and identify it with the zero vector. Accordingly, for every dichotomy $\mathfrak{d}$, the assignment of values for 0 and 1 is chosen so that $\mathfrak{d}(\mathrm{ILE}) = 0$. All trait values and vector representations are therefore understood relative to this basepoint. Under this convention, every $t \in T$ is represented by a binary vector encoding its deviation from the ILE across the fixed dichotomy system.
-
-##
 
 
 
