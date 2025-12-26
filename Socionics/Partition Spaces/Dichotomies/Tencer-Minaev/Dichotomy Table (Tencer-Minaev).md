@@ -217,7 +217,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 >
 >#### Irrational/Rational ($C_1$)
 >
->
+>$C_{1,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{SLE}, r \}$
 >
 > #### Static/Dynamic ($V_{2}$)
 > 
