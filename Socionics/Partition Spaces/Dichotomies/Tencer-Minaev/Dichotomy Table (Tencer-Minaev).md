@@ -186,7 +186,11 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 
 ## Wall / Cardinal / Non-Orbital Octads ($W_{14}$)
 > [!octad-a]
-> Converse Octads ($A$)
+> Aristocratic Octads ($A$)
+
+> [!octad-d]
+> Democratic Octads ($D$)
+>
 
 
 
