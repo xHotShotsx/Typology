@@ -191,7 +191,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > Static ($V_{2,0}$) = $\square$
 > 
 > $V_{2,0} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{EII}, \mathrm{IEE} \}$
-> $V_{2,0} = \{ \mathrm{?Ne^+}, \mathrm{?Ti^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Se^+} \}$ 
+> $V_{2,0} = \{ \mathrm{?Ne^+}, \mathrm{?Ti^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$
+> 
+> Dynamic ()
 
 
 > [!octad-c]
