@@ -198,9 +198,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $V_{2,1} = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{SLI}  \}$
 > $V_{2,1} = \{ \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{!Ni^-}, \mathrm{!Te^-}, \mathrm{?Te^+}, \mathrm{?Si^+}  \}$
 > 
-> Democratic/Aristocratic ($V_3$)
+> #### Democratic/Aristocratic ($V_3$)
 > 
-> Democratic ($V_{3,0}$) = $\exists
+> Democratic ($V_{3,0}$) = $\exists$
 > 
 > $V_{3,0} = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI} \}$
 > 
@@ -208,7 +208,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > 
 > Aristocratic ($V_{3,1}$) = $\forall$
 > 
-> $V_{3,1} = \{ \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LSE}, \}$
+> $V_{3,1} = \{ \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
+> 
+> $V_{3,1} = \{ \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
 > 
 
 
