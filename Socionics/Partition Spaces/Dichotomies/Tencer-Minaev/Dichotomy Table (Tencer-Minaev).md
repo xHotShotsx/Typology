@@ -177,7 +177,8 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 ## Orbital / Ordinal Octads ($\mathcal{O}$)
 > [!octad-v]
 > ### Vector Octads ($V$)
-> #### Valid/Null ($V_{1}$)
+> 
+> #### Valid / Null ($V_{1}$)
 > 
 > $T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
 > $\mathcal{E} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
