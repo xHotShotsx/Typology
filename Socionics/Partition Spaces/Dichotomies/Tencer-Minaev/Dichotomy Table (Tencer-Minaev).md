@@ -281,7 +281,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > [!octad-d]
 > Democratic Octads ($D$)
 > 
-> #### 1stAbstract/1stInvolved ($D_1$)
+> #### 1stAbstract / 1stInvolved ($D_1$)
 >
 > $D_{1,0}^T = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{LSI}, \mathrm{IEI}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{IEE} \}$
 > $D_{1,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{?Ti^-}, \mathrm{!Ti^+}, \mathrm{?Ni^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Te^-}, \mathrm{!Ne^-} \}$
@@ -289,7 +289,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 >$D_{1,1}^T = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{EII}, \mathrm{SLI} \}$
 >$D_{1,1}^{\mathcal{E}} = \{ \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Fe^-}, \mathrm{!Se^-}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{!Fi^+}, \mathrm{?Si^+} \}$
 >
-> #### 1stAlpha/1stGamma ($D_{2}$)
+> #### 1stAlpha / 1stGamma ($D_{2}$)
 > 
 > $D_{2,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{IEE}, \mathrm{SLI} \}$
 > $D_{2,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{-Ne^-}, \mathrm{?Si^+} \}$
@@ -297,7 +297,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $D_{2,1}^T = \{ \mathrm{SLE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{EII}  \}$
 > $D_{2,1}^{\mathcal{E}} = \{ \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Fi^+}  \}$
 > 
-> #### 2ndAbstract/2ndInvolved ($D_{3}$)
+> #### 2ndAbstract / 2ndInvolved ($D_{3}$)
 > 
 > $D_{3,0}^T = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{SLE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{EII}, \mathrm{SLI} \}$
 > $D_{3,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Se^-}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{!Fi^+}, \mathrm{?Si^+} \}$
@@ -305,7 +305,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $D_{3,1}^T = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{EII}, \mathrm{IEE} \}$
 > $D_{3,1}^{\mathcal{E}} = \{ \mathrm{?Si^-}, \mathrm{!Fe^+}, \mathrm{!Ti^+}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Ne^-} \}$
 > 
-> #### 2ndAlpha/2ndGamma ($D_{4}$)
+> #### 2ndAlpha / 2ndGamma ($D_{4}$)
 > 
 > $D_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LSE}, \mathrm{EII} \}$
 > $D_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Te^-}, \mathrm{!Fi^+} \}$
