@@ -295,7 +295,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $D_{2,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{IEE}, \mathrm{SLI} \}$
 > $D_{2,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{-Ne^-}, \mathrm{?Si^+} \}$
 > 
-> $D_{2,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ILI}  \}$
+> $D_{2,1}^T = \{ \mathrm{SLE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{SEE}, \mathrm{ILI}  \}$
 > $D_{2,1}^{\mathcal{E}} = \{ \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}  \}$
 > 
 > #### 2ndAbstrcat/2ndInvolved ($D_{3}$)
