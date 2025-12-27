@@ -6,7 +6,7 @@
 | **Does Not Position Aristocratic Information** | <span class="cell-democratic"> $D$<br><br>Democratic Dichotomy<br><span style="text-align:left; display:block;"><br>1. Situated / Removed<br>2. Oriented / Unoriented<br>3. Modifying / Preserving<br>4. Generative / Conservative<br></span><br></span> |         <span class="cell-converse"> $C$<br><br>Converse Dichotomy<br><span style="text-align:left; display:block;"><br>1. Pivotal / Contingent<br>2. Bold / Discrete<br>3. Constitutive / Extrinsic<br>4. Pertinent / Incidental<br></span><br></span>         |
 |                                                |                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                 |
 
-# <span style="color:#274c13"> V1 : Valid </span> / Null
+# <span style="color:#274c13"> V1: Valid </span> / Null
 <div class="model-w-grid generator-V1">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -34,7 +34,7 @@
   <div class="spacer"><br><small></small></div>
 </div>
 
-# <span style="color:#783f04"> C1 : Pivotal </span> / Contingent
+# <span style="color:#783f04"> C1: Pivotal </span> / Contingent
 
 <div class="model-w-grid generator-C1">
   <div class="spacer"><br><small></small></div>
@@ -64,7 +64,7 @@
 </div>
 
 
-# <span style="color:#274c13"> V2 : Explicit </span> / Implicit
+# <span style="color:#274c13"> V2: Explicit </span> / Implicit
 <div class="model-w-grid generator-V2">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -93,7 +93,7 @@
 </div>
 
 
-# <span style="color:#783f04"> C2 : Bold </span> / Discrete
+# <span style="color:#783f04"> C2: Bold </span> / Discrete
 <div class="model-w-grid generator-C2">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -122,7 +122,7 @@
 </div>
 
 
-# <span style="color:#274c13"> V3 : Central </span> / Radial
+# <span style="color:#274c13"> V3: Central </span> / Radial
 <div class="model-w-grid generator-V3">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -238,7 +238,7 @@
 </div>
 
 
-# <span style="color:#660000"> Interpretive </span> / Immediate
+# <span style="color:#660000"> A1: Interpretive </span> / Immediate
 <div class="model-w-grid generator-A1">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -267,7 +267,7 @@
 </div>
 
 
-# <span style="color:#073763"> Situated </span> / Removed
+# <span style="color:#073763"> D1: Situated </span> / Removed
 <div class="model-w-grid generator-D1">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -296,7 +296,7 @@
 </div>
 
 
-# <span style="color:#660000"> Relational </span> / Isolating
+# <span style="color:#660000"> A2: Relational </span> / Isolating
 <div class="model-w-grid generator-A2">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -325,7 +325,7 @@
 </div>
 
 
-# <span style="color:#073763"> Oriented </span> / Unoriented
+# <span style="color:#073763"> D2: Oriented </span> / Unoriented
 <div class="model-w-grid generator-D2">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
