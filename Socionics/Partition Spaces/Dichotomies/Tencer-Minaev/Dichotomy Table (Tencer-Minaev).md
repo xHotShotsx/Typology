@@ -319,6 +319,5 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 
 - Also check out the dichotomy table for the Reinin space Kimani White and Andrew Joynton have mapped out: https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0.
 - And for an alternate arrangement of the Tencer-Minaev (TM) Table, check out Kimani White's iteration of the table, accessible here: https://docs.google.com/document/d/1YTDf0oXVmxGEDrOLUyqZZz2lOIDw76yuWAA3ppjHMH0/edit?tab=t.0#heading=h.100owmjgo0e.
-- For those wanting to know the octadic sets that are emergent from these dichotomy traits: https://docs.google.com/document/d/1twvmo5SmLomTsG7uQwQP5NJKOUhpcK-qQIv787K8Tjk/edit?tab=t.0.
 
 
