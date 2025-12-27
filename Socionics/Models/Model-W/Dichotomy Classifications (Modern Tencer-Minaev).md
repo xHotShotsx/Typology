@@ -159,8 +159,161 @@ X_{4} \quad \text{if } x = X_{2} \text{ and } y = X_{3}.
 |   <span class="cell-converse">$C_4$</span>   |   <span class="cell-converse">$C_4$</span>   |   <span class="cell-converse">$C_3$</span>   |   <span class="cell-converse">$C_2$</span>   |   <span class="cell-converse">$C_1$</span>   |  <span class="cell-democratic">$D_4$</span>  |  <span class="cell-democratic">$D_3$</span>  |  <span class="cell-democratic">$D_2$</span>  |  <span class="cell-democratic">$D_1$</span>  | <span class="cell-aristocratic">$A_4$</span> | <span class="cell-aristocratic">$A_3$</span> | <span class="cell-aristocratic">$A_2$</span> | <span class="cell-aristocratic">$A_1$</span> |    <span class="cell-vector">$V_4$</span>    |    <span class="cell-vector">$V_3$</span>    |    <span class="cell-vector">$V_2$</span>    |    <span class="cell-vector">$V_1$</span>    |
 
 
+# IM Octads Index
+## Disclaimer
+
+Since $V_{1}$ is not a dichotomy (proper), the sets that are derived from it are not octadic, therefore containing no real octads of types. While a dichotomy (proper) entails equal partitioning, this set is tautologically defined by the criteria for TIM validity and thus does not constitute an even distribution of octadic sets.
+
+## Notation
+
+A dichotomy is a partition: $$\mathfrak{d} = \{ \mathfrak{d}_{0}, \mathfrak{d}_{1} \}, \quad \mathfrak{d}_{0} \sqcup \mathfrak{d}_{1} = T$$with the dichotomy function: $$ \mathfrak{d} : T \to \mathbb{Z}_{2} $$by
+$$ \mathfrak{d}(t) := \begin{cases}
+0 \quad \text{if } t \in \mathfrak{d}_{0}, \\
+1 \quad \text{if } t \in \mathfrak{d}_{1}. 
+\end{cases} $$
+
+We fix the sociotype ILE as the reference element and identify it with the zero vector. Accordingly, for every dichotomy $\mathfrak{d}$, the assignment of values for $0$ and $1$ is chosen so that $\mathfrak{d}(\mathrm{ILE}) = 0$. All trait values and vector representations are therefore understood relative to this basepoint. Under this convention, every type $t \in T$ is represented by a binary vector encoding its deviation from the ILE across the fixed dichotomy system.
+
+## Orbital / Ordinal Octads ($\mathcal{O}$)
+> [!octad-v]
+> ### Vector Octads ($V$)
+> #### Valid/Null ($V_{1}$)
+> 
+> $T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
+> $\mathcal{E} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
+> 
+> #### Static/Dynamic ($V_{2}$)
+> 
+> $V_{2,0}^T = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{EII}, \mathrm{IEE} \}$
+> $V_{2,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{?Ti^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$
+> 
+> $V_{2,1}^T = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{SLI}  \}$
+> $V_{2,1}^{\mathcal{E}} = \{ \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{!Ni^-}, \mathrm{!Te^-}, \mathrm{?Te^+}, \mathrm{?Si^+}  \}$
+> 
+> #### Democratic/Aristocratic ($V_3$)
+> 
+> $V_{3,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI} \}$
+> $V_{3,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-} \}$
+> 
+> $V_{3,1}^T = \{ \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
+> $V_{3,1}^{\mathcal{E}} = \{ \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
+> 
+> #### Asking/Declaring ($V_{4}$)
+> 
+> $V_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{SLI} \}$
+> $V_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{?Si^+} \}$
+> 
+> $V_{4,1}^T = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{EII}, \mathrm{IEE} \}$
+> $V_{4,1}^{\mathcal{E}} = \{ \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$
+
+> [!octad-c]
+> ### Converse Octads ($C$)
+>
+>#### Irrational/Rational ($C_1$)
+>
+>$C_{1,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{IEE}, \mathrm{SLI} \}$
+>$C_{1,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
+>
+>$C_{1,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{EII} \}$
+>$C_{1,1}^{\mathcal{E}} = \{ \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Fi^+} \}$
+>
+> #### Extroversion/Introversion ($C_{2}$)
+> 
+> $C_{2,0}^T = \{ \mathrm{ILE}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{IEE} \}$
+> $C_{2,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Fe^+}, \mathrm{?Fe^-}, \mathrm{!Se^-}, \mathrm{?Se^+}, \mathrm{!Te^+}, \mathrm{?Te^-}, \mathrm{!Ne^-} \}$
+> 
+> $C_{2,1}^T = \{ \mathrm{SEI}, \mathrm{LII}, \mathrm{LSI}, \mathrm{IEI}, \mathrm{ILI}, \mathrm{ESI}, \mathrm{EII}, \mathrm{SLI}  \}$
+> $C_{2,1}^{\mathcal{E}} = \{ \mathrm{!Si^-}, \mathrm{?Ti^-}, \mathrm{!Ti^+}, \mathrm{?Ni^+}, \mathrm{!Ni^-}, \mathrm{?Fi^-}, \mathrm{!Fi^+}, \mathrm{?Si^+}  \}$
+> 
+> #### Process/Result ($C_3$)
+> 
+> $C_{3,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LSE}, \mathrm{EII} \}$
+> $C_{3,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{?Te^-}, \mathrm{!Fi^+} \}$
+> 
+> $C_{3,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{IEE}, \mathrm{SLI} \}$
+> $C_{3,1}^{\mathcal{E}} = \{ \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
+> 
+> #### Positivist/Negativist ($C_{4}$)
+> 
+> $C_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{ESE}, \mathrm{LSI}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{EII}, \mathrm{SLI} \}$
+> $C_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{!Fe^+}, \mathrm{!Ti^+}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Te^+}, \mathrm{!Fi^+}, \mathrm{?Si^+} \}$
+> 
+> $V_{4,1}^T = \{ \mathrm{SEI}, \mathrm{LII}, \mathrm{EIE}, \mathrm{SLE}, \mathrm{ILI}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{IEE} \}$
+> $V_{4,1}^{\mathcal{E}} = \{ \mathrm{!Si^-}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Se^-}, \mathrm{!Ni^-}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Ne^-} \}$
+
+## Wall / Cardinal / Non-Orbital Octads ($W_{14}$)
+> [!octad-a]
+> Aristocratic Octads ($A$)
+> 
+> #### 1stInternal/1stExternal ($A_1$)
+>
+> $A_{1,0}^T = \{ \mathrm{ILE}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{ILI}, \mathrm{ESI}, \mathrm{EII}, \mathrm{IEE} \}$
+> $A_{1,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Fe^+}, \mathrm{?Fe^+}, \mathrm{?Ni^+}, \mathrm{!Ni^-}, \mathrm{?Fi^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$
+>
+>$A_{1,1}^T = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{EII}, \mathrm{SLI} \}$
+>$A_{1,1}^{\mathcal{E}} = \{ \mathrm{!Si^-}, \mathrm{?Ti^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Se^+}, \mathrm{!Te^+}, \mathrm{?Te^-}, \mathrm{?Si^+} \}$
+>
+> #### 1stDelta/1stBeta ($A_{2}$)
+> 
+> $A_{2,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
+> $A_{2,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{-Ne^-}, \mathrm{?Si^+} \}$
+> 
+> $A_{2,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ILI}  \}$
+> $A_{2,1}^{\mathcal{E}} = \{ \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}  \}$
+> 
+> #### 2ndExternal/2ndInternal ($A_{3}$)
+> 
+> $A_{3,0}^T = \{ \mathrm{ILE}, \mathrm{ESE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{ILI}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{SLI} \}$
+> $A_{3,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Fe^+}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{!Ni^-}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{?Si^+} \}$
+> 
+> $A_{3,1}^T = \{ \mathrm{SEI}, \mathrm{LII}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{EII}, \mathrm{IEE} \}$
+> $A_{3,1}^{\mathcal{E}} = \{ \mathrm{?Si^-}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Te^+}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$
+> 
+> #### 2ndBeta/2ndDelta ($A_{4}$)
+> 
+> $A_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LIE}, \mathrm{ESI} \}$
+> $A_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{!Si^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{!Te^+}, \mathrm{?Fi^-} \}$
+> 
+> $A_{4,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
+> $A_{4,1}^{\mathcal{E}} = \{ \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
+
+> [!octad-d]
+> Democratic Octads ($D$)
+> 
+> #### 1stAbstract/1stInvolved ($D_1$)
+>
+> $D_{1,0}^T = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{LSI}, \mathrm{IEI}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{IEE} \}$
+> $D_{1,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{?Ti^-}, \mathrm{!Ti^+}, \mathrm{?Ni^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Te^-}, \mathrm{!Ne^-} \}$
+>
+>$D_{1,1}^T = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{EII}, \mathrm{SLI} \}$
+>$D_{1,1}^{\mathcal{E}} = \{ \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Fe^-}, \mathrm{!Se^-}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{!Fi^+}, \mathrm{?Si^+} \}$
+>
+> #### 1stAlpha/1stGamma ($D_{2}$)
+> 
+> $D_{2,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{IEE}, \mathrm{SLI} \}$
+> $D_{2,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{-Ne^-}, \mathrm{?Si^+} \}$
+> 
+> $D_{2,1}^T = \{ \mathrm{SLE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{EII}  \}$
+> $D_{2,1}^{\mathcal{E}} = \{ \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Fi^+}  \}$
+> 
+> #### 2ndAbstract/2ndInvolved ($D_{3}$)
+> 
+> $D_{3,0}^T = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{SLE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{EII}, \mathrm{SLI} \}$
+> $D_{3,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Se^-}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{!Fi^+}, \mathrm{?Si^+} \}$
+> 
+> $D_{3,1}^T = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{EII}, \mathrm{IEE} \}$
+> $D_{3,1}^{\mathcal{E}} = \{ \mathrm{?Si^-}, \mathrm{!Fe^+}, \mathrm{!Ti^+}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Ne^-} \}$
+> 
+> #### 2ndAlpha/2ndGamma ($D_{4}$)
+> 
+> $D_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LSE}, \mathrm{EII} \}$
+> $D_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Te^-}, \mathrm{!Fi^+} \}$
+> 
+> $D_{4,1}^T = \{ \mathrm{EIE}, \mathrm{LSI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{IEE}, \mathrm{SLI} \}$
+> $D_{4,1}^{\mathcal{E}} = \{ \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
+
+
 # Additional Note
 
 - Also check out the modern dichotomy classifications table for the Reinin space Kimani White and Andrew Joynton have mapped out: https://docs.google.com/document/d/1xcek3L5mTOrljxb24NXyxyqnhG8tFx7TInfAQ0H_pdc/edit?tab=t.0#heading=h.1vmsoe7mj6yf.
 - And for an alternate arrangement of the Tencer-Minaev (TM) Table, check out Kimani White's iteration of the table, accessible here: https://docs.google.com/document/d/1YTDf0oXVmxGEDrOLUyqZZz2lOIDw76yuWAA3ppjHMH0/edit?tab=t.0#heading=h.100owmjgo0e.
-- For those wanting to know the octadic sets that are emergent from these dichotomy traits: https://docs.google.com/document/d/1twvmo5SmLomTsG7uQwQP5NJKOUhpcK-qQIv787K8Tjk/edit?tab=t.0.
