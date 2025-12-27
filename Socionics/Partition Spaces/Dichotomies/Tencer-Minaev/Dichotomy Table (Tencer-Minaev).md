@@ -166,7 +166,7 @@ Since $V_{1}$ is not a dichotomy (proper), the sets that are derived from it are
 
 ## Notation
 
-Let a dichotomy be a partition: $$\mathfrak{d} = \{ \mathfrak{d}_{0}, \mathfrak{d}_{1} \}, \quad \mathfrak{d}_{0} \sqcup \mathfrak{d}_{1} = T$$The dichotomy function: $$ \mathfrak{d} : T \to \mathbb{Z}_{2} $$by
+A dichotomy is a partition: $$\mathfrak{d} = \{ \mathfrak{d}_{0}, \mathfrak{d}_{1} \}, \quad \mathfrak{d}_{0} \sqcup \mathfrak{d}_{1} = T$$The dichotomy function: $$ \mathfrak{d} : T \to \mathbb{Z}_{2} $$by
 $$ \mathfrak{d}(t) := \begin{cases}
 0 \quad \text{if } t \in \mathfrak{d}_{0} \\
 1 \quad \text{if } t \in \mathfrak{d}_{1} 
@@ -277,7 +277,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $A_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{!Si^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{!Te^-}, \mathrm{?Fi^-} \}$
 > 
 > $A_{4,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
-> $A_{4,1}^{\mathcal{E}} = \{ \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Se^-}, \mathrm{!Ni^-}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Ne^-} \}$
+> $A_{4,1}^{\mathcal{E}} = \{ \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
 
 > [!octad-d]
 > Democratic Octads ($D$)
