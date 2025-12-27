@@ -93,7 +93,7 @@
 </div>
 
 
-# <span style="color:#783f04"> Bold </span> / Discrete
+# <span style="color:#783f04"> C2 : Bold </span> / Discrete
 <div class="model-w-grid generator-C2">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -122,7 +122,7 @@
 </div>
 
 
-# <span style="color:#274c13"> Central </span> / Radial
+# <span style="color:#274c13"> C3 : Central </span> / Radial
 <div class="model-w-grid generator-V3">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
