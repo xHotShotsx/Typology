@@ -183,7 +183,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
 > $\mathcal{E} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
 > 
-> #### Static/Dynamic ($V_{2}$)
+> #### Static / Dynamic ($V_{2}$)
 > 
 > $V_{2,0}^T = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{EII}, \mathrm{IEE} \}$
 > $V_{2,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{?Ti^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$
@@ -191,7 +191,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $V_{2,1}^T = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{SLI}  \}$
 > $V_{2,1}^{\mathcal{E}} = \{ \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{!Ni^-}, \mathrm{!Te^-}, \mathrm{?Te^+}, \mathrm{?Si^+}  \}$
 > 
-> #### Democratic/Aristocratic ($V_3$)
+> #### Democratic / Aristocratic ($V_3$)
 > 
 > $V_{3,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI} \}$
 > $V_{3,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-} \}$
@@ -199,7 +199,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $V_{3,1}^T = \{ \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
 > $V_{3,1}^{\mathcal{E}} = \{ \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
 > 
-> #### Asking/Declaring ($V_{4}$)
+> #### Asking / Declaring ($V_{4}$)
 > 
 > $V_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{SLI} \}$
 > $V_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{?Si^+} \}$
@@ -210,7 +210,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > [!octad-c]
 > ### Converse Octads ($C$)
 >
->#### Irrational/Rational ($C_1$)
+>#### Irrational / Rational ($C_1$)
 >
 >$C_{1,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{IEE}, \mathrm{SLI} \}$
 >$C_{1,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
@@ -218,7 +218,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 >$C_{1,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{EII} \}$
 >$C_{1,1}^{\mathcal{E}} = \{ \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Fi^+} \}$
 >
-> #### Extroversion/Introversion ($C_{2}$)
+> #### Extroversion / Introversion ($C_{2}$)
 > 
 > $C_{2,0}^T = \{ \mathrm{ILE}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{IEE} \}$
 > $C_{2,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Fe^+}, \mathrm{?Fe^-}, \mathrm{!Se^-}, \mathrm{?Se^+}, \mathrm{!Te^+}, \mathrm{?Te^-}, \mathrm{!Ne^-} \}$
@@ -226,7 +226,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $C_{2,1}^T = \{ \mathrm{SEI}, \mathrm{LII}, \mathrm{LSI}, \mathrm{IEI}, \mathrm{ILI}, \mathrm{ESI}, \mathrm{EII}, \mathrm{SLI}  \}$
 > $C_{2,1}^{\mathcal{E}} = \{ \mathrm{!Si^-}, \mathrm{?Ti^-}, \mathrm{!Ti^+}, \mathrm{?Ni^+}, \mathrm{!Ni^-}, \mathrm{?Fi^-}, \mathrm{!Fi^+}, \mathrm{?Si^+}  \}$
 > 
-> #### Process/Result ($C_3$)
+> #### Process / Result ($C_3$)
 > 
 > $C_{3,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LSE}, \mathrm{EII} \}$
 > $C_{3,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{?Te^-}, \mathrm{!Fi^+} \}$
@@ -234,7 +234,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $C_{3,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{IEE}, \mathrm{SLI} \}$
 > $C_{3,1}^{\mathcal{E}} = \{ \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
 > 
-> #### Positivist/Negativist ($C_{4}$)
+> #### Positivist / Negativist ($C_{4}$)
 > 
 > $C_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{ESE}, \mathrm{LSI}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{EII}, \mathrm{SLI} \}$
 > $C_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{!Fe^+}, \mathrm{!Ti^+}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Te^+}, \mathrm{!Fi^+}, \mathrm{?Si^+} \}$
@@ -246,7 +246,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > [!octad-a]
 > Aristocratic Octads ($A$)
 > 
-> #### 1stInternal/1stExternal ($A_1$)
+> #### 1stInternal / 1stExternal ($A_1$)
 >
 > $A_{1,0}^T = \{ \mathrm{ILE}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{ILI}, \mathrm{ESI}, \mathrm{EII}, \mathrm{IEE} \}$
 > $A_{1,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Fe^+}, \mathrm{?Fe^+}, \mathrm{?Ni^+}, \mathrm{!Ni^-}, \mathrm{?Fi^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$
@@ -254,7 +254,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 >$A_{1,1}^T = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{SLE}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{EII}, \mathrm{SLI} \}$
 >$A_{1,1}^{\mathcal{E}} = \{ \mathrm{!Si^-}, \mathrm{?Ti^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Se^+}, \mathrm{!Te^+}, \mathrm{?Te^-}, \mathrm{?Si^+} \}$
 >
-> #### 1stDelta/1stBeta ($A_{2}$)
+> #### 1stDelta / 1stBeta ($A_{2}$)
 > 
 > $A_{2,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
 > $A_{2,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{-Ne^-}, \mathrm{?Si^+} \}$
@@ -262,7 +262,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $A_{2,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ILI}  \}$
 > $A_{2,1}^{\mathcal{E}} = \{ \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}  \}$
 > 
-> #### 2ndExternal/2ndInternal ($A_{3}$)
+> #### 2ndExternal / 2ndInternal ($A_{3}$)
 > 
 > $A_{3,0}^T = \{ \mathrm{ILE}, \mathrm{ESE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{ILI}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{SLI} \}$
 > $A_{3,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Fe^+}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{!Ni^-}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{?Si^+} \}$
@@ -270,7 +270,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $A_{3,1}^T = \{ \mathrm{SEI}, \mathrm{LII}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{EII}, \mathrm{IEE} \}$
 > $A_{3,1}^{\mathcal{E}} = \{ \mathrm{?Si^-}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Te^+}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$
 > 
-> #### 2ndBeta/2ndDelta ($A_{4}$)
+> #### 2ndBeta / 2ndDelta ($A_{4}$)
 > 
 > $A_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LIE}, \mathrm{ESI} \}$
 > $A_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{!Si^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{!Te^+}, \mathrm{?Fi^-} \}$
