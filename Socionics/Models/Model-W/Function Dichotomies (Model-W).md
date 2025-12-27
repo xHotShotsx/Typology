@@ -354,7 +354,7 @@
 </div>
 
 
-# <span style="color:#660000"> Positional </span> / Locational
+# <span style="color:#660000"> A3: Positional </span> / Locational
 <div class="model-w-grid generator-A3">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -383,7 +383,7 @@
 </div>
 
 
-# <span style="color:#073763"> Modifying </span> / Preserving
+# <span style="color:#073763"> D3: Modifying </span> / Preserving
 <div class="model-w-grid generator-D3">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -412,7 +412,7 @@
 </div>
 
 
-# <span style="color:#660000"> Temporal </span> / Atemporal
+# <span style="color:#660000"> A4: Temporal </span> / Atemporal
 <div class="model-w-grid generator-A4">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -441,7 +441,7 @@
 </div>
 
 
-# <span style="color:#073763"> Generative </span> / Conservative
+# <span style="color:#073763"> D4: Generative </span> / Conservative
 <div class="model-w-grid generator-D4">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
