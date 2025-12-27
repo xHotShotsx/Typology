@@ -122,7 +122,7 @@
 </div>
 
 
-# <span style="color:#274c13"> C3 : Central </span> / Radial
+# <span style="color:#274c13"> V3 : Central </span> / Radial
 <div class="model-w-grid generator-V3">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -151,7 +151,7 @@
 </div>
 
 
-# <span style="color:#783f04"> Constitutive </span> / Extrinsic
+# <span style="color:#783f04"> C3: Constitutive </span> / Extrinsic
 <div class="model-w-grid generator-C3">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -180,7 +180,7 @@
 </div>
 
 
-# <span style="color:#274c13"> Default </span> / Alternate
+# <span style="color:#274c13"> V4: Default </span> / Alternate
 <div class="model-w-grid generator-V4">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
@@ -209,7 +209,7 @@
 </div>
 
 
-# <span style="color:#783f04"> Pertinent </span> / Incidental
+# <span style="color:#783f04"> C4: Pertinent </span> / Incidental
 <div class="model-w-grid generator-C4">
   <div class="spacer"><br><small></small></div>
   <div class="cell cell-C2">C2<br><small>"Integrating"</small></div>
