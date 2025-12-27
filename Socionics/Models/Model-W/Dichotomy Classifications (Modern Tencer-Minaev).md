@@ -190,7 +190,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $V_{2,1}^T = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{LSE}, \mathrm{SLI}  \}$
 > $V_{2,1}^{\mathcal{E}} = \{ \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{!Ni^-}, \mathrm{!Te^-}, \mathrm{?Te^+}, \mathrm{?Si^+}  \}$
 > 
-> #### Democratic/Aristocratic ($V_3$)
+> #### Descriptive/Prescriptive ($V_3$)
 > 
 > $V_{3,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LII}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LIE}, \mathrm{ESI} \}$
 > $V_{3,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-} \}$
@@ -198,7 +198,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $V_{3,1}^T = \{ \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
 > $V_{3,1}^{\mathcal{E}} = \{ \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
 > 
-> #### Asking/Declaring ($V_{4}$)
+> #### Divergent/Convergent ($V_{4}$)
 > 
 > $V_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{SLI} \}$
 > $V_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{?Si^+} \}$
@@ -225,7 +225,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $C_{2,1}^T = \{ \mathrm{SEI}, \mathrm{LII}, \mathrm{LSI}, \mathrm{IEI}, \mathrm{ILI}, \mathrm{ESI}, \mathrm{EII}, \mathrm{SLI}  \}$
 > $C_{2,1}^{\mathcal{E}} = \{ \mathrm{!Si^-}, \mathrm{?Ti^-}, \mathrm{!Ti^+}, \mathrm{?Ni^+}, \mathrm{!Ni^-}, \mathrm{?Fi^-}, \mathrm{!Fi^+}, \mathrm{?Si^+}  \}$
 > 
-> #### Process/Result ($C_3$)
+> #### Evolutive/Involutive ($C_3$)
 > 
 > $C_{3,0}^T = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LSE}, \mathrm{EII} \}$
 > $C_{3,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{?Te^-}, \mathrm{!Fi^+} \}$
@@ -233,7 +233,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $C_{3,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LIE}, \mathrm{ESI}, \mathrm{IEE}, \mathrm{SLI} \}$
 > $C_{3,1}^{\mathcal{E}} = \{ \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
 > 
-> #### Positivist/Negativist ($C_{4}$)
+> #### Constructive/Corrective ($C_{4}$)
 > 
 > $C_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{ESE}, \mathrm{LSI}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{EII}, \mathrm{SLI} \}$
 > $C_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{!Fe^+}, \mathrm{!Ti^+}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Te^+}, \mathrm{!Fi^+}, \mathrm{?Si^+} \}$
