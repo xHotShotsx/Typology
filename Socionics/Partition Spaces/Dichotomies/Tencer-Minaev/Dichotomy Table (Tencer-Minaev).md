@@ -308,7 +308,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > 
 > #### 2ndAlpha/2ndGamma ($D_{4}$)
 > 
-> $D_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LIE}, \mathrm{ESI} \}$
+> $D_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{ESE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LIE}, \mathrm{ESI} \}$
 > $D_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{!Si^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{!Te^-}, \mathrm{?Fi^-} \}$
 > 
 > $D_{4,1}^T = \{ \mathrm{ESE}, \mathrm{LII}, \mathrm{SEE}, \mathrm{ILI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$
