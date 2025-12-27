@@ -304,7 +304,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $D_{3,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Se^-}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{!Fi^+}, \mathrm{?Si^+} \}$
 > 
 > $D_{3,1}^T = \{ \mathrm{SEI}, \mathrm{ESE}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{EII}, \mathrm{IEE} \}$
-> $D_{3,1}^{\mathcal{E}} = \{ \mathrm{?Si^-}, \mathrm{!F^-}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Te^+}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$
+> $D_{3,1}^{\mathcal{E}} = \{ \mathrm{?Si^-}, \mathrm{!Fe^+}, \mathrm{!Ti^+}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Te^+}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$
 > 
 > #### 2ndAlpha/2ndGamma ($D_{4}$)
 > 
