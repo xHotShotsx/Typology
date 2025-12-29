@@ -6,7 +6,9 @@ This paper investigates dichotomy systems in Socionics through group actions and
 
 Classical intertype relations in Socionics form nonabelian group whose structure resists direct representation in terms of type dichotomies. While many dichotomy systems exist, it remains unclear why only certain systems align coherently with a subset of intertype relations, or why others fail to do so.
 
-In particular, there is no faithful, regular action of the intertype relation group compatible with all dichotomy systems. This mismatch obscures the rol
+In particular, there is no faithful, regular action of the intertype relation group compatible with all dichotomy systems. This mismatch obscures the roles of invariants, leads to ad hoc constructions, and makes it difficult to compare systems such as Reinin, Tencer-Minaev, and their alternatives within a unified framework.
+
+ 
 
 # 2. Foundational Objects and Notation
 
