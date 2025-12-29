@@ -1325,7 +1325,7 @@ $a \mapsto (0, 0, 1, 1)$
 # 8. References
 
 1. Newman, M. (2023). [*"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*.](https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html)  Date accessed: 11/11/2025.
-2. Tencer, I. (2011). [*"The Mathematics of Socionics"*.](https://www.scribd.com/document/486953825/socionics-math) Date accessed: 29/12/2025.
+2. Tencer, I. (2011). [*"The Mathematics of Socionics"*.](https://www.scribd.com/document/486953825/socionics-math)  ScribdDate accessed: 29/12/2025.
 
 ## 8.1. Further Reading
 
