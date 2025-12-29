@@ -1,4 +1,4 @@
-# 1. Introduction
+# Abstract
 
 This paper investigates dichotomy systems in Socionics through group actions and vector space representations. Each dichotomy system consists of a fixed set of wall dichotomies whose interactions generate orbital dichotomies through a Socion 2-cocycle. The set of intertype relations form a nonabelian group acting on types, while dichotomy systems induce abelian relation groups acting on both types and its derived models. Section 2 introduces the foundational combinatorial objects. Sections 3 and 4 develop the group-theoretic framework. Section 5 introduces set models derived from the vector space associated with the dichotomy systems. Section 6 introduces the selector dichotomies. Section 7 defines the representation map that maps intertype relations to vectors.
 
@@ -94,7 +94,7 @@ Formally, an $E_{16}$-set model is a pair $$ (X_{i}, \rho_{i}), \quad \rho_{i} :
 
 Since there are 16 dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}\}$, there are correspondingly up to 16 possible $E_{16}$-set models ($X_{i}, \rho_{i}$), each associated to its induced relation group $\mathbf{V}_i$.
 
-Prominent examples of such $E_{16}$-set models include Model L and Model W, which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
+Examples of such $E_{16}$-set models include Model L and Model W, which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
 
 Functions are the positions in a functional schema; monadic (signed) elements are the informational atoms that occupy these positions. For a dichotomy system $\mathcal{D}_i$, let $P_i$ denote the set of functions for an $i$ model and $\mathcal{E}$ the set of monadic elements. The functional configuration space is $X_i = \mathcal{E}^{P_{i}}$, with the induced relation group $\mathbf{V}_i$ acting through $\rho_i : \mathbf{V}_{i} \curvearrowright X_{i}$. A functional layout for a type $t$ is an element $L_i(t) \in X_{i}$. A bijection $\Theta_i : T \to X_{i}$ is equivariant if $$\Theta_{i}(v \cdot t) = \rho_{i}(v)(\Theta_{i}(t)), \quad \forall v \in \mathbf{V}_{i}.$$
 When this holds, the type-level transformations and the functional-layout transformations are isomorphic; applying a relation has the same effect as applying it to the layout itself. The action of $\mathbf{V}_{i}$ on types is abstract, since types are equivalence classes of trait configurations, whereas its action on set models is concrete, since it directly permutes positions or values in $X_i$.
