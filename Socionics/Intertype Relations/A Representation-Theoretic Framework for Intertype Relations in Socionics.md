@@ -8,7 +8,7 @@ Classical intertype relations in Socionics form nonabelian group whose structure
 
 In particular, there is no faithful, regular action of the intertype relation group compatible with all dichotomy systems. This mismatch obscures the roles of invariants, leads to ad hoc constructions, and makes it difficult to compare systems such as Reinin, Tencer-Minaev, and their alternatives within a unified framework.
 
-This paper resolves the obstruction by replacing direct group actions with induced abelian representations derived from dichotomy systems. By isolating orbital invariants  
+This paper resolves the obstruction by replacing direct group actions with induced abelian representations derived from dichotomy systems. By isolating orbital invariants via a 2-cocycle structure and encoding residual variance through selector dichotomies, intertype relations 
 
 # 2. Foundational Objects and Notation
 
@@ -84,7 +84,7 @@ The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: $$r I_{\m
 
 ### 3.1.1. Universal Invariant Core
 
-The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}.$$
+The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}^1.$$
 The superego dyad is fixed by all homomorphisms between the Socion group and a dichotomy system. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}.$$
 
 
