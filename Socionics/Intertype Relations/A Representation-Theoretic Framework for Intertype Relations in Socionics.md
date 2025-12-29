@@ -147,7 +147,9 @@ We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0,
 
 *Interpretation.* Selector dichotomies do not generate new relations. Rather, they choose among affine representatives of a fixed coset in $I_{\mathcal{D}_i}$, resolving ambiguity introduced by variance.
 
-**Remark.** Selector dichotomies are constrained by the universal invariant core underlying all dichotomy systems. This core preserves the full orbital structure through the Socion 2-cocycle, and any invariant subgroup $I_{\mathcal{D}_i}$ induced within a given dichotomy system is therefore purely orbital. Selector dichotomies may act either on orbital traits directly or on derived _waffle_ dichotomies, which arise from XOR combinations of wall dichotomies across different systems. However, selectors cannot introduce new wall traits within a system.
+**Remark.** Selector dichotomies are constrained by the universal invariant core underlying all dichotomy systems. This core preserves the full orbital structure through the Socion 2-cocycle, and any invariant subgroup $I_{\mathcal{D}_i}$ induced within a given dichotomy system is therefore purely orbital. Selector dichotomies may be defined by orbital dichotomies or by derived _waffle_ dichotomies, which arise from XOR combinations of wall dichotomies across different systems. However, selector dichotomies act only by permuting affine representatives within cosets and never alter orbital coordinates in the representation space.
+
+_Orbital invariance lemma._ For any selector dichotomy $D_s$, any coset $C_j$, and any $r \in C_j$, the vectors assigned by $D_s$ satisfy $\pi_{\mathrm{orb}}(a_{j,0}^{(s)}(r)) = \pi_{\mathrm{orb}}(a_{j,1}^{(s)}(r))$.
 
 ## 6.2. The Intersection
 
