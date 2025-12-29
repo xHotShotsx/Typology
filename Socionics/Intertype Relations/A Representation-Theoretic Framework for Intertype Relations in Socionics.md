@@ -4,7 +4,7 @@ This paper investigates dichotomy systems in Socionics through group actions and
 
 # 1. Introduction
 
-Classical intertype relations in Socionics form nonabelian group whose structure resists direct representation in terms of type dichotomies. While man
+Classical intertype relations in Socionics form nonabelian group whose structure resists direct representation in terms of type dichotomies. While many dichotomy systems exist, it remains unclear why only certain systems align coherently with a subset of intertype relations, 
 
 # 2. Foundational Objects and Notation
 
