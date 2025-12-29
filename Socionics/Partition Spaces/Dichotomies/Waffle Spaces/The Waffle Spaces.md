@@ -1,4 +1,4 @@
-# Reinin + Tencer-Minaev (Stress Resistance)
+# Reinin + Tencer-Minaev
 
 +X1 - Intuitive ΧΑΝD 1stAbstract
 {ILE, LII, ILI, LIE, IEE, IEI} ΧΑΝD {SLE, SLI, SEE, SEI, ESE, ESI}
@@ -745,7 +745,6 @@
 +ज8 - SLI HEF + Ascending Process XAND Intuitive
 {LIE LII IEE ILE EIE} XAND {ESE ESI SLE SEE LSE}
 -ज8 - {SEI ILI LSI IEI SLI EII}
-
 # Further Reading
 
 - https://docs.google.com/document/d/106N6CmPL-TSP9Agiz3k3O6TipV4PGCTzDiRBq5kEJH4/edit?tab=t.0
