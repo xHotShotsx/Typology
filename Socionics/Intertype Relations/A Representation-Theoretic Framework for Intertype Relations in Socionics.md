@@ -10,7 +10,7 @@ In particular, there is no faithful, regular action of the intertype relation gr
 
 This paper resolves the obstruction by replacing direct group actions with induced abelian representations derived from dichotomy systems. By isolating orbital invariants via a 2-cocycle structure and encoding residual variance through selector dichotomies, intertype relations become representable as affine actions on a vector space over $\mathbb{Z}_{2}$.
 
-We classify all dichotomy systems preserving orbital 
+We classify all dichotomy systems preserving orbital structure, characterise their invariant subgroups, and show how selector dichotomies resolve coset ambiguity without generating new relations. This yields a unified representation-theoretic a
 
 # 2. Foundational Objects and Notation
 
