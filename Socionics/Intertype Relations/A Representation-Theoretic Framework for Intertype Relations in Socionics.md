@@ -8,7 +8,7 @@ Classical intertype relations in Socionics form nonabelian group whose structure
 
 In particular, there is no faithful, regular action of the intertype relation group compatible with all dichotomy systems. This mismatch obscures the roles of invariants, leads to ad hoc constructions, and makes it difficult to compare systems such as Reinin, Tencer-Minaev, and their alternatives within a unified framework.
 
- 
+This paper resolves the obstruction by replacing direct group actions with induced abelian representations derived from dichotomy systems. By isolating orbital invariants  
 
 # 2. Foundational Objects and Notation
 
