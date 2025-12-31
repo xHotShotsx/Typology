@@ -42,7 +42,7 @@
     <tr>
       <td rowspan="6"><b>2</b></td>
       <td rowspan="2"><b>Dimension (Rational) / Communication Styles</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/2.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/2.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -71,7 +71,7 @@
     <tr>
       <td rowspan="6"><b>3</b></td>
       <td rowspan="2"><b>Temperament</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/3.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/3.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -100,7 +100,7 @@
     <tr>
       <td rowspan="6"><b>4</b></td>
       <td rowspan="2"><b>Positivity Groups / Will Form</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/4.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/4.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -129,7 +129,7 @@
     <tr>
       <td rowspan="6"><b>5</b></td>
       <td rowspan="2"><b>Social Interaction</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/5.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/5.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -158,7 +158,7 @@
     <tr>
       <td rowspan="6"><b>6</b></td>
       <td rowspan="2"><b>Action Influence Balance</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/6.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/6.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -187,7 +187,7 @@
     <tr>
       <td rowspan="6"><b>7</b></td>
       <td rowspan="2"><b>Rings of Benefit / Quadra Role</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/7.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/7.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -216,7 +216,7 @@
     <tr>
       <td rowspan="6"><b>8</b></td>
       <td rowspan="2"><b>Club / Activity Orientation/b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/8.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/8.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -245,7 +245,7 @@
     <tr>
       <td rowspan="6"><b>9</b></td>
       <td rowspan="2"><b>Irrational Faculty / Perceptual Groups / Time Strategy</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/9.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/9.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -274,7 +274,7 @@
     <tr>
       <td rowspan="6"><b>10</b></td>
       <td rowspan="2"><b>Resource Attitude Shades</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/10.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/10.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -303,7 +303,7 @@
     <tr>
       <td rowspan="6"><b>11</b></td>
       <td rowspan="2"><b>Ego Irrational Element / Romance Style / Psychoanalytic Groups</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/11.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/11.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -332,7 +332,7 @@
     <tr>
       <td rowspan="6"><b>12</b></td>
       <td rowspan="2"><b>Project Groups</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/12.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/12.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -361,7 +361,7 @@
     <tr>
       <td rowspan="6"><b>13</b></td>
       <td rowspan="2"><b>Economic Role</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/13.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/13.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -390,7 +390,7 @@
     <tr>
       <td rowspan="6"><b>14</b></td>
       <td rowspan="2"><b>Rational Faculty / Reasoning / Argumentation Style</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/14.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/14.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -419,7 +419,7 @@
     <tr>
       <td rowspan="6"><b>15</b></td>
       <td rowspan="2"><b>Behaviour Shades</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/15.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/15.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -448,7 +448,7 @@
     <tr>
       <td rowspan="6"><b>16</b></td>
       <td rowspan="2"><b>Ego Rational Element / Form of Action</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/16.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/16.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -477,7 +477,7 @@
     <tr>
       <td rowspan="6"><b>17</b></td>
       <td rowspan="2"><b>Implementation Groups</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/17.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/17.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -506,7 +506,7 @@
     <tr>
       <td rowspan="6"><b>18</b></td>
       <td rowspan="2"><b>Self Actualisation</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/18.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/18.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -535,7 +535,7 @@
     <tr>
       <td rowspan="6"><b>19</b></td>
       <td rowspan="2"><b>Irrational Dual Axis / Planning Style</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/19.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/19.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -564,7 +564,7 @@
     <tr>
       <td rowspan="6"><b>20</b></td>
       <td rowspan="2"><b>Rational Dual Axis / Bio-Ideological Balance</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/20.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/20.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -593,7 +593,7 @@
     <tr>
       <td rowspan="6"><b>21</b></td>
       <td rowspan="2"><b>Stress Resistance / Centre</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/21.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/21.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -622,7 +622,7 @@
     <tr>
       <td rowspan="6"><b>22</b></td>
       <td rowspan="2"><b>Club Displacement / Activity Orientation Shift / Social Orientation</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/22.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/22.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -651,7 +651,7 @@
     <tr>
       <td rowspan="6"><b>23</b></td>
       <td rowspan="2"><b>Occupation Groups</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/23.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/23.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -680,7 +680,7 @@
     <tr>
       <td rowspan="6"><b>24</b></td>
       <td rowspan="2"><b>(Undefined)</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/24.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/24.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -709,7 +709,7 @@
     <tr>
       <td rowspan="6"><b>25</b></td>
       <td rowspan="2"><b>(Undefined)</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/25.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/25.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -738,7 +738,7 @@
     <tr>
       <td rowspan="6"><b>26</b></td>
       <td rowspan="2"><b>(Undefined)</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/26.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/26.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -767,7 +767,7 @@
     <tr>
       <td rowspan="6"><b>27</b></td>
       <td rowspan="2"><b>(Undefined)</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/27.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/27.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -796,7 +796,7 @@
     <tr>
       <td rowspan="6"><b>28</b></td>
       <td rowspan="2"><b>(Undefined)</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/28.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/28.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -825,7 +825,7 @@
     <tr>
       <td rowspan="6"><b>29</b></td>
       <td rowspan="2"><b>Social Progress Group</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/29.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/29.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -854,7 +854,7 @@
     <tr>
       <td rowspan="6"><b>30</b></td>
       <td rowspan="2"><b>Challenge Response Groups</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/30.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/30.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -883,7 +883,7 @@
     <tr>
       <td rowspan="6"><b>31</b></td>
       <td rowspan="2"><b>Rings of Supervision / Cognitive Styles</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/31.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/31.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -912,7 +912,7 @@
     <tr>
       <td rowspan="6"><b>32</b></td>
       <td rowspan="2"><b>Array Groups</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/32.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/32.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -941,7 +941,7 @@
     <tr>
       <td rowspan="6"><b>33</b></td>
       <td rowspan="2"><b>Quadra</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/33.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/33.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -970,7 +970,7 @@
     <tr>
       <td rowspan="6"><b>34</b></td>
       <td rowspan="2"><b>Aspiration</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/34.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/34.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -999,7 +999,7 @@
     <tr>
       <td rowspan="6"><b>35</b></td>
       <td rowspan="2"><b>Contentment Balance</b></td>
-      <td colspan="3"><img src="Images/Reinin/Tetrachotomies/35.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Reinin/35.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
