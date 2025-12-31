@@ -40,7 +40,7 @@ B Space — System 3
 फ Space — System 1
 ख Space — System 4
 ग Space — System 6
-य Space — System 7
+य Space — System 
 ङ Space — System 10
 च Space — System 11
 घ Space — System 13
