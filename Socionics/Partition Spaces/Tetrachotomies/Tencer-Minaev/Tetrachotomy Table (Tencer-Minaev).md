@@ -13,7 +13,7 @@
     <tr>
       <td rowspan="6"><b>1</b></td>
       <td rowspan="2"><b>Energetic Democratic Revision Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/1.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/1.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -42,7 +42,7 @@
     <tr>
       <td rowspan="6"><b>2</b></td>
       <td rowspan="2"><b>Brakes Aristocratic Revision Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/2.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/2.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -71,7 +71,7 @@
     <tr>
       <td rowspan="6"><b>3</b></td>
       <td rowspan="2"><b>Challenge Response Groups</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/3.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/3.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -100,7 +100,7 @@
     <tr>
       <td rowspan="6"><b>4</b></td>
       <td rowspan="2"><b>Club Displacement / Activity Orientation Shift</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/4.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/4.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -129,7 +129,7 @@
     <tr>
       <td rowspan="6"><b>5</b></td>
       <td rowspan="2"><b>Energy Democratic Revision Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/5.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/5.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -158,7 +158,7 @@
     <tr>
       <td rowspan="6"><b>6</b></td>
       <td rowspan="2"><b>Energetic Aristocratic Revision Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/6.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/6.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -187,7 +187,7 @@
     <tr>
       <td rowspan="6"><b>7</b></td>
       <td rowspan="2"><b>Rings of Benefit / Quadra Role</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/7.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/7.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -216,7 +216,7 @@
     <tr>
       <td rowspan="6"><b>8</b></td>
       <td rowspan="2"><b>Base Faculty</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/8.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/8.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -245,7 +245,7 @@
     <tr>
       <td rowspan="6"><b>9</b></td>
       <td rowspan="2"><b>Democratic Clubs and Aristocratic Array Groups</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/9.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/9.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -274,7 +274,7 @@
     <tr>
       <td rowspan="6"><b>10</b></td>
       <td rowspan="2"><b>Brakes Democratic Order Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/10.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/10.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -303,7 +303,7 @@
     <tr>
       <td rowspan="6"><b>11</b></td>
       <td rowspan="2"><b>Base Function Democratic Revision Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/11.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/11.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -332,7 +332,7 @@
     <tr>
       <td rowspan="6"><b>12</b></td>
       <td rowspan="2"><b>Process Implementation Groups and Result Project Groups</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/12.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/12.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -361,7 +361,7 @@
     <tr>
       <td rowspan="6"><b>13</b></td>
       <td rowspan="2"><b>Base Function Democratic Order Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/13.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/13.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -390,7 +390,7 @@
     <tr>
       <td rowspan="6"><b>14</b></td>
       <td rowspan="2"><b>Democratic Array Groups and Aristocratic Clubs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/14.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/14.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -419,7 +419,7 @@
     <tr>
       <td rowspan="6"><b>15</b></td>
       <td rowspan="2"><b>Excitable Aristocratic Order Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/15.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/15.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -448,7 +448,7 @@
     <tr>
       <td rowspan="6"><b>16</b></td>
       <td rowspan="2"><b>Base Function Aristocratic Revision Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/16.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/16.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -477,7 +477,7 @@
     <tr>
       <td rowspan="6"><b>17</b></td>
       <td rowspan="2"><b>Process Project Groups and Result Implementation Groups</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/17.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/17.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -506,7 +506,7 @@
     <tr>
       <td rowspan="6"><b>18</b></td>
       <td rowspan="2"><b>Base Function Aristocratic Order Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/18.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/18.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -535,7 +535,7 @@
     <tr>
       <td rowspan="6"><b>19</b></td>
       <td rowspan="2"><b>Democratic Quadra and Aristocratic Occupation Groups</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/19.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/19.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -564,7 +564,7 @@
     <tr>
       <td rowspan="6"><b>20</b></td>
       <td rowspan="2"><b>Democratic Occupation Groups and Aristocratic Quadra</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/20.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/20.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -593,7 +593,7 @@
     <tr>
       <td rowspan="6"><b>21</b></td>
       <td rowspan="2"><b>Stress Resistance / Centre</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/21.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/21.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -622,7 +622,7 @@
     <tr>
       <td rowspan="6"><b>22</b></td>
       <td rowspan="2"><b>Positivity Groups</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/22.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/22.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -651,7 +651,7 @@
     <tr>
       <td rowspan="6"><b>23</b></td>
       <td rowspan="2"><b>Producing Axis</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/23.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/23.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -680,7 +680,7 @@
     <tr>
       <td rowspan="6"><b>24</b></td>
       <td rowspan="2"><b>Creative Function Democratic Revision Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/24.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/24.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -709,7 +709,7 @@
     <tr>
       <td rowspan="6"><b>25</b></td>
       <td rowspan="2"><b>Creative Function Democratic Order Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/25.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/25.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -738,7 +738,7 @@
     <tr>
       <td rowspan="6"><b>26</b></td>
       <td rowspan="2"><b>Dual Axis (Asymmetric Process Centrality Result Passionarity)</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/26.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/26.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -767,7 +767,7 @@
     <tr>
       <td rowspan="6"><b>27</b></td>
       <td rowspan="2"><b>Creative Function Aristocratic Revision Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/27.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/27.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -796,7 +796,7 @@
     <tr>
       <td rowspan="6"><b>28</b></td>
       <td rowspan="2"><b>Creative Function Democratic Order Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/28.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/28.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -825,7 +825,7 @@
     <tr>
       <td rowspan="6"><b>29</b></td>
       <td rowspan="2"><b>Dual Axis (Asymmetric Process Passionarity Result Centrality)</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/29.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/29.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -854,7 +854,7 @@
     <tr>
       <td rowspan="6"><b>30</b></td>
       <td rowspan="2"><b>Temperament</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/30.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/30.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -883,7 +883,7 @@
     <tr>
       <td rowspan="6"><b>31</b></td>
       <td rowspan="2"><b>Rings of Supervision / Cognitive Styles</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/31.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/31.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -912,7 +912,7 @@
     <tr>
       <td rowspan="6"><b>32</b></td>
       <td rowspan="2"><b>Creative Faculty</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/32.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/32.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -941,7 +941,7 @@
     <tr>
       <td rowspan="6"><b>33</b></td>
       <td rowspan="2"><b>Accepting Axis</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/33.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/33.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -970,7 +970,7 @@
     <tr>
       <td rowspan="6"><b>34</b></td>
       <td rowspan="2"><b>Energetic Democratic Order Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/34.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/34.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
@@ -999,7 +999,7 @@
     <tr>
       <td rowspan="6"><b>35</b></td>
       <td rowspan="2"><b>Energy Aristocratic Order Pairs</b></td>
-      <td colspan="3"><img src="Images/Tencer-Minaev/Tetrachotomies/35.png" /></td>
+      <td colspan="3"><img src="Typology/Socionics/Images/Tetrachotomies/Tencer-Minaev/35.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
       <tr>
