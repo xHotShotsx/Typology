@@ -12,7 +12,7 @@
 	    <tr>
 	      <td rowspan="10"><b>1</b></td>
 	      <td rowspan="2"><b>Mirages</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/1.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/1.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -61,7 +61,7 @@
 	    <tr>
 	      <td rowspan="10"><b>2</b></td>
 	      <td rowspan="2"><b>Democratic Mirrors and Aristocratic Conflictors</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/2.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/2.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -110,7 +110,7 @@
 	    <tr>
 	      <td rowspan="10"><b>3</b></td>
 	      <td rowspan="2"><b>Democratic Beneficiaries with Aristocratic Benefactors</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/3.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/3.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -159,7 +159,7 @@
 	    <tr>
 	      <td rowspan="10"><b>4</b></td>
 	      <td rowspan="2"><b>Democratic Conflictors and Aristocratic Mirrors</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/4.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/4.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -208,7 +208,7 @@
 	    <tr>
 	      <td rowspan="10"><b>5</b></td>
 	      <td rowspan="2"><b>Democratic Benefactors with Aristocratic Beneficiaries</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/5.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/5.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -257,7 +257,7 @@
 	    <tr>
 	      <td rowspan="10"><b>6</b></td>
 	      <td rowspan="2"><b>Superegos</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/6.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/6.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -306,7 +306,7 @@
 	    <tr>
 	      <td rowspan="10"><b>7</b></td>
 	      <td rowspan="2"><b>Semi Duals</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/7.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/7.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -355,7 +355,7 @@
 	    <tr>
 	      <td rowspan="10"><b>8</b></td>
 	      <td rowspan="2"><b>Extinguishers</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/8.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/8.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -404,7 +404,7 @@
 	    <tr>
 	      <td rowspan="10"><b>9</b></td>
 	      <td rowspan="2"><b>Kindreds</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/9.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/9.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -453,7 +453,7 @@
 	    <tr>
 	      <td rowspan="10"><b>10</b></td>
 	      <td rowspan="2"><b>Democratic Quasi Identicals and Aristocratic Activators</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/10.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/10.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -502,7 +502,7 @@
 	    <tr>
 	      <td rowspan="10"><b>11</b></td>
 	      <td rowspan="2"><b>Democratic Supervisors with Aristocratic Supervisees</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/11.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/11.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -551,7 +551,7 @@
 	    <tr>
 	      <td rowspan="10"><b>12</b></td>
 	      <td rowspan="2"><b>Democratic Activators and Aristocratic Quasi Identicals</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/12.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/12.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -600,7 +600,7 @@
 	    <tr>
 	      <td rowspan="10"><b>13</b></td>
 	      <td rowspan="2"><b>Democratic Supervisees with Aristocratic Supervisors</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/13.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/13.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -649,7 +649,7 @@
 	    <tr>
 	      <td rowspan="10"><b>14</b></td>
 	      <td rowspan="2"><b>Duals</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/14.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/14.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
@@ -698,7 +698,7 @@
 	    <tr>
 	      <td rowspan="10"><b>15</b></td>
 	      <td rowspan="2"><b>Lookalikes</b></td>
-	      <td colspan="7"><img src="Images/Tencer-Minaev/Octachotomies/15.png" /></td>
+	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Tencer-Minaev/15.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
