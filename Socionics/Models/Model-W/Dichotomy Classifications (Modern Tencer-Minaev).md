@@ -345,11 +345,11 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 **#1:** $V_{4} \cap D_{1} \cap D_{4}$
 **#2:** $V_{4} \cap A_{1} \cap A_{4}$
 **#5:** $V_{4} \cap D_{2} \cap D_{3}$
-**#6:** $V_{4} \cap A_{2} \cap $
+**#6:** $V_{4} \cap A_{2} \cap A_{3}$
 
 ### Irrational/Rational Class $C_1$
 
-**#8:**
+**#8:** $A_{1} $
 **#23:**
 **#32:**
 **#33:**
