@@ -80,13 +80,17 @@ representing how the dichotomy system acts on the classical group of intertype r
 
 ## 3.1. Fixed Point Subgroup
 
-The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathcal{D}_{i}}$. More rigorously, this is defined as the following:   $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathcal{D}_{i}} := \{r \in \mathbb{S} \mid \varphi(D)(r) = r, \ \forall D \in \mathcal{D}_{i}\}.$$  
-The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself:   $$r I_{\mathcal{D}_{i}} = I_{\mathcal{D}_{i}} r = \{rs \mid s \in I_{\mathcal{D}_{i}}\}, \quad r \in \mathbb{S}.$$  
+The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathcal{D}_{i}}$. More rigorously, this is defined as the following:   
+$$I_{\mathcal{D}_i} := \mathbb{S}^{\mathcal{D}_{i}} := \{r \in \mathbb{S} \mid \varphi(D)(r) = r, \ \forall D \in \mathcal{D}_{i}\}.$$  
+The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself:   
+$$r I_{\mathcal{D}_{i}} = I_{\mathcal{D}_{i}} r = \{rs \mid s \in I_{\mathcal{D}_{i}}\}, \quad r \in \mathbb{S}.$$  
 
 ### 3.1.1. Universal Invariant Core
 
-The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as:   $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}.$$  
-The superego dyad is fixed by all homomorphisms between the Socion group and a dichotomy system. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that:   $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}.$$  
+The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as:   
+$$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}.$$  
+The superego dyad is fixed by all homomorphisms between the Socion group and a dichotomy system. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that:   
+$$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}.$$  
 
 
 # 4. First Cohomology
