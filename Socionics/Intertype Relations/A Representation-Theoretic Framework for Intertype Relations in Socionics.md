@@ -231,81 +231,81 @@ For each dichotomy system $\mathcal{D}_i$, we fix a representation map $$\Phi_{i
 ### 7.1.1. Generators Used: (E, D, L, P)
 #### $I_{\mathcal{D}_1}$ (Superego)
 
-$e \mapsto (0, 0, 0, 0)$
-$g \mapsto (0, 1, 1, 0)$
+$e \mapsto (0, 0, 0, 0)$  
+$g \mapsto (0, 1, 1, 0)$  
 
 #### $r I_{\mathcal{D}_1}$ ($\mathcal{P}_{1} =$ Superego)
 ##### $X5$
 ###### For $+X5$ Types
 
-$x \mapsto (1, 0, 1, 0)$
-$d \mapsto (1, 1, 0, 0)$
+$x \mapsto (1, 0, 1, 0)$  
+$d \mapsto (1, 1, 0, 0)$  
 
 ###### For  $-X5$ Types
 
-$x \mapsto (1, 1, 0, 0)$
-$d \mapsto (1, 0, 1, 0)$
+$x \mapsto (1, 1, 0, 0)$  
+$d \mapsto (1, 0, 1, 0)$  
 
 ##### $Y8$
 ###### For $+Y8$ Types
 
-$b \mapsto (0, 1, 0, 1)$
-$B \mapsto (0, 0, 1, 1)$
+$b \mapsto (0, 1, 0, 1)$  
+$B \mapsto (0, 0, 1, 1)$  
 
 ###### For $-Y8$ Types
 
-$b \mapsto (0, 0, 1, 1)$
-$B \mapsto (0, 1, 0, 1)$
+$b \mapsto (0, 0, 1, 1)$  
+$B \mapsto (0, 1, 0, 1)$  
 
 ##### $Z1$
 ###### For $+Z1$ Types
 
-$s \mapsto (1, 1, 1, 1)$
-$S \mapsto (1, 0, 0, 1)$
+$s \mapsto (1, 1, 1, 1)$  
+$S \mapsto (1, 0, 0, 1)$  
 
 ###### For $-Z1$ Types
 
-$s \mapsto (1, 0, 0, 1)$
-$S \mapsto (1, 1, 1, 1)$
+$s \mapsto (1, 0, 0, 1)$  
+$S \mapsto (1, 1, 1, 1)$  
 
 ##### $A2$
 ###### For $+A2$ Types
 
-$i \mapsto (1, 1, 1, 0)$
-$h \mapsto (1, 0, 0, 0)$
+$i \mapsto (1, 1, 1, 0)$  
+$h \mapsto (1, 0, 0, 0)$  
 
 ###### For $-A2$ Types
 
-$i \mapsto (1, 0, 0, 0)$
-$h \mapsto (1, 1, 1, 0)$
+$i \mapsto (1, 0, 0, 0)$  
+$h \mapsto (1, 1, 1, 0)$  
 
 ##### $B2$
 ###### For $+B2$ Types
 
-$k \mapsto (0, 0, 1, 0)$
-$l \mapsto (0, 1, 0, 0)$
+$k \mapsto (0, 0, 1, 0)$  
+$l \mapsto (0, 1, 0, 0)$  
 
 ###### For $-B2$ Types
 
-$k \mapsto (0, 1, 0, 0)$
-$l \mapsto (0, 0, 1, 0)$
+$k \mapsto (0, 1, 0, 0)$  
+$l \mapsto (0, 0, 1, 0)$  
 
 ##### $\Gamma 4$
 ###### For $+\Gamma 4$ Types
 
-$m \mapsto (1, 1, 0, 1)$
-$c \mapsto  (1, 0, 1, 1)$
+$m \mapsto (1, 1, 0, 1)$  
+$c \mapsto  (1, 0, 1, 1)$  
 
 ###### For $-\Gamma 4$ Types
 
-$m \mapsto (1, 0, 1, 1)$
-$c \mapsto  (1, 1, 0, 1)$
+$m \mapsto (1, 0, 1, 1)$  
+$c \mapsto  (1, 1, 0, 1)$  
 
 ##### $\Delta 1$
 ###### For $+\Delta 1$ Types
 
-$q \mapsto  (0, 0, 0, 1)$
-$a \mapsto  (0, 1, 1, 1)$
+$q \mapsto  (0, 0, 0, 1)$  
+$a \mapsto  (0, 1, 1, 1)$  
 
 ###### For $-\Delta 1$ Types
 
