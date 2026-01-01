@@ -328,8 +328,8 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 ## Non-Orbital Classes $\overline{\mathcal{O}}$
 ### Static/Dynamic Class $V_{2}$
 
-**#11:**
-**#16:**
+**#11:** $V_{2} \cap D_{1} \cap D_{2}$
+**#16:** $V_{2} \cap A_{1} \cap A$
 **#24:**
 **#27:**
 
