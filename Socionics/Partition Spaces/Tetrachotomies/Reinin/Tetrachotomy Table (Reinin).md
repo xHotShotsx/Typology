@@ -1,3 +1,4 @@
+<table>
 <div style="overflow-x:auto;">
 <table style="width:100%; border-collapse:collapse;" class="tetra">
   <thead>
@@ -1028,7 +1029,7 @@
   </tbody>
 </table>
 </div>
-****
+</table>
 
 # Further Reading
 
