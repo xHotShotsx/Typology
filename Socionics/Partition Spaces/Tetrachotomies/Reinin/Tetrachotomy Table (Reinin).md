@@ -1,6 +1,7 @@
-
+<div style="overflow-x:auto;">
 <table style="width:100%; border-collapse:collapse;" class="tetra">
   <thead>
+  <table>
     <tr>
       <th>#</th>
       <th>Tetrachotomy</th>
@@ -1026,8 +1027,9 @@
       <td>SEI</td><td>LII</td><td>LSE</td><td>IEE</td>
     </tr>
   </tbody>
+  </table>
 </table>
-
+</div>
 
 # Further Reading
 
