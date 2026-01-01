@@ -116,6 +116,7 @@ $$ \star : \mathcal{A} \times \mathcal{A} \longrightarrow \mathcal{A}. $$
 Complement map: 
 
 $$\kappa : \mathcal{A} \longrightarrow \mathcal{A}, \quad \kappa^2 = \text{identity},$$
+
 such that:
 
 $$\kappa(V_{i}) = C_{i}, \quad \kappa(C_{i}) = V_{i}, \quad \kappa(A_{i}) = D_{i}, \quad \kappa(D_{i}) = A_{i}.$$
@@ -128,15 +129,19 @@ and it respects indices.
 
 #### Axioms Written as an Operation
 
-$$x \star y = \begin{cases} V_{i} \quad \text{if } x = y, \\ x \quad \text{if } y = V_{i}, \\ C_{i} \quad \text{if } x = \kappa(y), \\
-\kappa(x) \quad \text{if } y = C_{i}. \end{cases} $$
+$$x \star y = \begin{cases} V_{i} \quad \text{if } x = y, \\ x \quad \text{if } y = V_{i}, \\ C_{i} \quad \text{if } x = \kappa(y), \\ \kappa(x) \quad \text{if } y = C_{i}. \end{cases} $$
 
 ### Numeric Correspondences
 
-Let: $$\begin{matrix}
+Let: 
+
+$$\begin{matrix}
 \mathcal{N} := \mathbb{U} \\ \mathcal{N} = X_{1} \sqcup X_{2} \sqcup X_{3} \sqcup X_{4}
 \end{matrix}$$
-The binary operation: $$ \star : \mathcal{N} \times \mathcal{N} \longrightarrow \mathcal{N}. $$
+
+The binary operation: 
+
+$$ \star : \mathcal{N} \times \mathcal{N} \longrightarrow \mathcal{N}. $$
 
 #### Axioms Written as an Operation
 
