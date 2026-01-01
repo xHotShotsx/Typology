@@ -333,7 +333,11 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 **#24:**
 **#27:**
 
-### 
+### Democratic/Aristocratic Class $V_{3}$
+
+**#9:**
+**#14:**
+****
 
 # Additional Note
 
