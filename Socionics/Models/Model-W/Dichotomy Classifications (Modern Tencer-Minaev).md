@@ -350,6 +350,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 ### Irrational/Rational Class $C_1$
 
 **#8:**
+**#23:**
 ****
 
 # Additional Note
