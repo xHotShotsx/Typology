@@ -359,12 +359,12 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 **#13:** $A_{2} \cap D_{1} \cap C_{2}$
 **#18:** $A_{1} \cap D_{2} \cap C_{2}$
 **#25:** $A_{3} \cap D_{4} \cap C_{2}$
-**#28:** $A_{4} \cap D$
+**#28:** $A_{4} \cap D_{3} \cap C_{2}$
 
 ### Process/Result Class $C_{3}$
 
-**#12:**
-**#17:**
+**#12:** $A_{3} \cap D_{1} \cap C_{3}$
+**#17:** $$
 **#26:**
 **#29:**
 
