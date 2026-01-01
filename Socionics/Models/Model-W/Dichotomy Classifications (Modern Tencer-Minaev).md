@@ -338,7 +338,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 **#9:**
 **#14:**
 **#19:**
-**#**
+**#20:**
 
 # Additional Note
 
