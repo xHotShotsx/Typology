@@ -105,10 +105,14 @@ $\mathbb{U} = \{ V_{i}, A_{i}, D_{i}, C_{i} \mid i = 1,2,3,4 \}$
 ## Mathematical Correspondences
 ### Alphabetic Correspondences
 
-Let: $$\begin{matrix}
-\mathcal{A} := \mathbb{U} \\ \mathcal{A} = V \sqcup A \sqcup D \sqcup C
-\end{matrix}$$
-We introduce a binary operation: $$ \star : \mathcal{A} \times \mathcal{A} \longrightarrow \mathcal{A}. $$
+Let: 
+
+$$\begin{matrix} \mathcal{A} := \mathbb{U} \\ \mathcal{A} = V \sqcup A \sqcup D \sqcup C \end{matrix}$$
+
+We introduce a binary operation: 
+
+$$ \star : \mathcal{A} \times \mathcal{A} \longrightarrow \mathcal{A}. $$
+
 Complement map: $$\kappa : \mathcal{A} \longrightarrow \mathcal{A}, \quad \kappa^2 = \text{identity},$$such that: $$\kappa(V_{i}) = C_{i}, \quad \kappa(C_{i}) = V_{i}, \quad \kappa(A_{i}) = D_{i}, \quad \kappa(D_{i}) = A_{i}.$$
 This is an involution: $$\kappa(\kappa(x)) = x$$and it respects indices.
 
