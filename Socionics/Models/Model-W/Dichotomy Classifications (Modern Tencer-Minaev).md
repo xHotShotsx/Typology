@@ -330,14 +330,14 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 
 **#11:** $V_{2} \cap D_{1} \cap D_{2}$
 **#16:** $V_{2} \cap A_{1} \cap A_{2}$
-**#24:** $V_{2} \cap D_{3} D_{4}$
+**#24:** $V_{2} \cap D_{3} \cap D_{4}$
 **#27:** $V_{2} \cap A_{3} \cap A_{4}$
 
 ### Democratic/Aristocratic Class $V_{3}$
 
-**#9:**
-**#14:**
-**#19:**
+**#9:** $V_{3} \cap D_{1} \cap D_{3}$
+**#14:** $V_{3} \cap A_{1} \cap A_{3}$
+**#19:** $$
 **#20:**
 
 ### Asking/Declaring Class $V_{4}$
