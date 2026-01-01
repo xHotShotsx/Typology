@@ -124,9 +124,10 @@ Let:
 - $D_s \in \mathcal{S}_i$ be a selector dichotomy,
 - $\sigma_{s} : T \to \{0, 1\}$, the selector function.
 
-A selector acts on a coset $C_j \in Q$ through its pair of assigned vectors: $$\begin{aligned}
-
-\end{aligned} C_{j} \longmapsto (a_{j,0}^{(s)}, {a_{j,1}^{(s)}}) \in \mathbf{V}_{i} \times \mathbf{V}_{i},$$where ${a_{j,0}^{(s)}}$ is the chosen vector when $\sigma_{s}(t) = 0$,
+A selector acts on a coset $C_j \in Q$ through its pair of assigned vectors: 
+$$\begin{aligned}
+C_{j} \longmapsto (a_{j,0}^{(s)}, {a_{j,1}^{(s)}}) \in \mathbf{V}_{i} \times \mathbf{V}_{i},
+\end{aligned}$$where ${a_{j,0}^{(s)}}$ is the chosen vector when $\sigma_{s}(t) = 0$,
 where $a_{j,1}^{(s)}$ is the vector chosen when $\sigma_{s}(t) = 1$,
 and where $\mathbf{V}_{i} \cong \mathbb{Z}_2^4$ is the representation space associated with the dichotomy system $\mathcal{D}_i$. 
 
