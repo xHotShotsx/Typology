@@ -135,9 +135,7 @@ $$x \star y = \begin{cases} V_{i} \quad \text{if } x = y, \\ x \quad \text{if } 
 
 Let: 
 
-$$\begin{matrix}
-\mathcal{N} := \mathbb{U} \\ \mathcal{N} = X_{1} \sqcup X_{2} \sqcup X_{3} \sqcup X_{4}
-\end{matrix}$$
+$$\begin{matrix} \mathcal{N} := \mathbb{U} \\ \mathcal{N} = X_{1} \sqcup X_{2} \sqcup X_{3} \sqcup X_{4} \end{matrix}$$
 
 The binary operation: 
 
