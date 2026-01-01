@@ -1,0 +1,18 @@
+
+- A convergence of the formal and empirical (i.e. psychometric, neurophysiological) approaches of Socionics.
+- The human brain comprises approx. 86 billion neurons and trillions of synapses, its structure being super ordinarily complex. Functionality shares several key properties akin to quantum systems, i.e. parallel processing, probabilistic reasoning, and superposition.
+- Model that demonstrates info metabolism or represent the Socion through a synthesis of all possible configurations or otherwise while basing some functions resembling some brain functions that is akin to quantum models.
+- This can be represented in various ways, such as a cubit, 4D Torus, Mandala, or cylindrical structure with directionality mapped out. There are other possible representations, of course.
+- Benefits of a spherical structure:
+	- It accounts for various ways information can be configured and expressed in reality; while the Socion introduces the feature of 'dichotomy', which is the principle of distinguishing something from what it is not; there is a system of a set of these that form a mathematical object, and a collection of these could be represented as a tensor space.
+		- Vector --> Matrix --> Tensor.
+	- Since we are dealing with a complex hierarchy, and the principle of dichotomy is to distinguish something from what is not, such that the elements we are dealing with (the dichotomies) contain two sub elements that are actually complements inside a boolean lattice, we can instead posit the representation of functions as a sort of Hamming distance, or can be computing using a cosine coefficient to determine how far a faculty is from the subject's focal modus operandi. A cubit is a good representation since displacement can v easily be visually conceptualised. Although there may be other approaches too such as probabilistic quantity or the application of fuzzy logic.
+	- Another factor to consider is how we may represent states such as quantum superposition, parallel processing, etc within the model. Perhaps sublines that could present cyclically, or different formatting of text to define a subliminal space of the degree to whether something exists or not, ort when it is something that exists or should be taken into account? Perhaps I'll reflect on this segment later...
+- Semantics / significance of parameters that should be considered:
+	- General layout: data backed by empirical approaches i.e. lexicon factored out through testing the dichotomies thro factor analytic techniques. Think: Talanov.
+	- Coalescing sets of definition and combine them into a unified and coherent framework that would give semantic and relevant content to elements of the cubit.
+	- Connect the structure of "dichotomies" or "elements" defined semantically to neurochemical compositions, grey matter, or brain activation, and probably model that.
+- Space, or the functions themselves
+	- Probably not a simple bijection of any one particular dichotomy space, but potentially we could calculate the subgroups that are invariant through the homomorphism $\varphi : \mathfrak{D} \to \text{Aut}(\mathbb{S})$. Think: Group cohomology - 0th cohomology groups, and cluster matrices together within a larger super space, probably represented as a higher-rank tensor. 
+		- Not sure where that would fit with the cubit. Perhaps I'll devise separate models. Perhaps it's all connected...
+- Number of functions if discretely defined: 16, 64, 16² or 64².
