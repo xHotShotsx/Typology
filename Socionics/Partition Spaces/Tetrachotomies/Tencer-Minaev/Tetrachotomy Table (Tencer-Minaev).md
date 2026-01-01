@@ -123,7 +123,7 @@
     </tr>
     <tr>
      <td>Realistic Plans</td>
-      <td>Declaring</td><td>Aristocratic</td><td>Positivist</td>
+      <td>Declaring</td><td>Rational</td><td>Positivist</td>
       <td>ESE</td><td>LSI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
