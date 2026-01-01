@@ -340,7 +340,12 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 **#19:**
 **#20:**
 
-### Asking/Declaring C
+### Asking/Declaring Class $V_{4}$
+
+**#1:**
+**#2:**
+**#5:**
+
 
 # Additional Note
 
