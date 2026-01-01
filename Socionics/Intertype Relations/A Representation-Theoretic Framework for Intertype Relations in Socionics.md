@@ -74,16 +74,24 @@ $i \quad$ mirage, or illusory
 
 # 3. The Homomorphism
 
-The action of the dichotomy system on the ITR group is given by a homomorphism $$\varphi : E_{16} \longrightarrow \text{Aut}(D_8 \times C_2).$$In the context of Socionic structure, we regard $E_{16}$ as any dichotomy system $\mathcal{D}_{i}$, and $D_8 \times C_2$ as the ITR space $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as $$\varphi : \mathcal{D}_{i} \longrightarrow \text{Aut}(\mathbb{S}),$$representing how the dichotomy system acts on the classical group of intertype relations.
+The action of the dichotomy system on the ITR group is given by a homomorphism 
+
+$$\varphi : E_{16} \longrightarrow \text{Aut}(D_8 \times C_2).$$
+
+In the context of Socionic structure, we regard $E_{16}$ as any dichotomy system $\mathcal{D}_{i}$, and $D_8 \times C_2$ as the ITR space $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as 
+
+$$\varphi : \mathcal{D}_{i} \longrightarrow \text{Aut}(\mathbb{S}),$$
+
+representing how the dichotomy system acts on the classical group of intertype relations.
 
 ## 3.1. Fixed Point Subgroup
 
-The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathcal{D}_{i}}$. More rigorously, this is defined as the following: <br> $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathcal{D}_{i}} := \{r \in \mathbb{S} \mid \varphi(D)(r) = r, \ \forall D \in \mathcal{D}_{i}\}.$$<br>
+The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathcal{D}_{i}}$. More rigorously, this is defined as the following: <br> $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathcal{D}_{i}} := \{r \in \mathbb{S} \mid \varphi(D)(r) = r, \ \forall D \in \mathcal{D}_{i}\}.$$
 The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: <br> $$r I_{\mathcal{D}_{i}} = I_{\mathcal{D}_{i}} r = \{rs \mid s \in I_{\mathcal{D}_{i}}\}, \quad r \in \mathbb{S}.$$
 
 ### 3.1.1. Universal Invariant Core
 
-The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: <br>$$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}.$$<br>
+The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as: <br>$$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}.$$
 The superego dyad is fixed by all homomorphisms between the Socion group and a dichotomy system. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: <br>$$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}.$$
 
 
@@ -97,8 +105,7 @@ and $H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\
 
 A set model is a pair ($X, G$) consisting of a set $X$ together with a left action of a group $G$. In the present framework, an $E_{16}$-set model is any set model that carries an action of the group, which is the vector space representation associated with a given dichotomy system. For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathbf{V}_i$ acts on a corresponding set model. 
 
-Formally, an $E_{16}$-set model is a pair <br>$$ (X_{i}, \rho_{i}), \quad \rho_{i} : \mathbf{V}_{i} \curvearrowright X_{i}$$<br>
-where $X_i$ is the underlying set and $\rho_i$ is the group action.
+Formally, an $E_{16}$-set model is a pair $$ (X_{i}, \rho_{i}), \quad \rho_{i} : \mathbf{V}_{i} \curvearrowright X_{i}$$where $X_i$ is the underlying set and $\rho_i$ is the group action.
 
 Since there are 16 dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}\}$, there are correspondingly up to 16 possible $E_{16}$-set models ($X_{i}, \rho_{i}$), each associated to its induced relation group $\mathbf{V}_i$.
 
