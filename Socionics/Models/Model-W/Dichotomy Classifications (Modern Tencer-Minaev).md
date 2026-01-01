@@ -317,7 +317,8 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 # Classes of Tetrachotomies
 ## Orbital Class $\mathcal{O}$
 
-**#3:** Challenge Res
+**#3:** $V_{2} \cap V_{3} \cap V_{4}$
+**#4:** $$$$
 
 
 # Additional Note
