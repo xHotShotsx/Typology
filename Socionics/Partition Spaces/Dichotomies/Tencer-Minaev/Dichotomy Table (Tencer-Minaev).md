@@ -314,9 +314,72 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $D_{4,1}^{\mathcal{E}} = \{ \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$
 
 
+# Classes of Tetrachotomies
+## Orbital Class $\mathcal{O}$
+
+**#3:** $V_{2} \cap V_{3} \cap V_{4} = V =$ "Vector" Tetrachotomy
+**#4:** $V_{4} \cap C_{1} \cap C_{4}$
+**#7:** $V_{4} \cap C_{2} \cap C_{3}$
+**#21:** $V_{3} \cap C_{1} \cap C_{3} = Z =$ "Central" Tetrachotomy 
+**#22:** $V_{3} \cap C_{2} \cap C_{4}$
+**#30:** $V_{2} \cap C_{1} \cap C_{2} = G =$ "General" Tetrachotomy 
+**#31:** $V_{2} \cap C_{3} \cap C_{4}$
+
+## Non-Orbital Classes $\overline{\mathcal{O}}$
+### Static/Dynamic Class $V_{2}$
+
+**#11:** $V_{2} \cap D_{1} \cap D_{2}$
+**#16:** $V_{2} \cap A_{1} \cap A_{2}$
+**#24:** $V_{2} \cap D_{3} \cap D_{4}$
+**#27:** $V_{2} \cap A_{3} \cap A_{4}$
+
+### Democratic/Aristocratic Class $V_{3}$
+
+**#9:** $V_{3} \cap D_{1} \cap D_{3}$
+**#14:** $V_{3} \cap A_{1} \cap A_{3}$
+**#19:** $V_{3} \cap D_{2} \cap D_{4}$
+**#20:** $V_{3} \cap A_{2} \cap A_{4}$
+
+### Asking/Declaring Class $V_{4}$
+
+**#1:** $V_{4} \cap D_{1} \cap D_{4}$
+**#2:** $V_{4} \cap A_{1} \cap A_{4}$
+**#5:** $V_{4} \cap D_{2} \cap D_{3}$
+**#6:** $V_{4} \cap A_{2} \cap A_{3}$
+
+### Irrational/Rational Class $C_1$
+
+**#8:** $A_{1} \cap D_{1} \cap C_{1}$
+**#23:** $A_{4} \cap D_{4} \cap C_{1}$
+**#32:** $A_{3} \cap D_{3} \cap C_{1}$
+**#33:** $A_{2} \cap D_{2} \cap C_{1}$
+
+### Extroverted/Introverted Class $C_{2}$
+
+**#13:** $A_{2} \cap D_{1} \cap C_{2}$
+**#18:** $A_{1} \cap D_{2} \cap C_{2}$
+**#25:** $A_{3} \cap D_{4} \cap C_{2}$
+**#28:** $A_{4} \cap D_{3} \cap C_{2}$
+
+### Process/Result Class $C_{3}$
+
+**#12:** $A_{3} \cap D_{1} \cap C_{3}$
+**#17:** $A_{1} \cap D_{3} \cap C_{3}$
+**#26:** $A_{2} \cap D_{4} \cap C_{3}$
+**#29:** $A_{4} \cap D_{2} \cap C_{3}$
+
+### Positivist/Negativist Class $C_{4}$
+
+**#10:** $A_{4} \cap D_{1} \cap C_{4}$
+**#15:** $A_{1} \cap D_{4} \cap C_{4}$
+**#34:** $A_{2} \cap D_{3} \cap C_{4}$
+**#35:** $A_{3} \cap D_{2} \cap C_{4}$
+
+
 # Additional Note
 
-- Also check out the dichotomy table for the Reinin space Kimani White and Andrew Joynton have mapped out: https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0.
-- And for an alternate arrangement of the Tencer-Minaev (TM) Table, check out Kimani White's iteration of the table, accessible here: https://docs.google.com/document/d/1YTDf0oXVmxGEDrOLUyqZZz2lOIDw76yuWAA3ppjHMH0/edit?tab=t.0#heading=h.100owmjgo0e.
+- Also check out the modern dichotomy classifications table for the Reinin space Kimani White and Andrew Joynton have mapped out: https://docs.google.com/document/d/1xcek3L5mTOrljxb24NXyxyqnhG8tFx7TInfAQ0H_pdc/edit?tab=t.0#heading=h.1vmsoe7mj6yf.
+- For an alternate arrangement of the Tencer-Minaev (TM) Table, check out Kimani White's iteration of the table, accessible here: https://docs.google.com/document/d/1YTDf0oXVmxGEDrOLUyqZZz2lOIDw76yuWAA3ppjHMH0/edit?tab=t.0#heading=h.100owmjgo0e.
+- For the list of tetrachotomies for the Tencer-Minaev Space of dichotomies: [[Tetrachotomy Table (Tencer-Minaev)]].
 
 

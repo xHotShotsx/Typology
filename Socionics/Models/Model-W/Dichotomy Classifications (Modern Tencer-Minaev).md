@@ -380,4 +380,4 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 
 - Also check out the modern dichotomy classifications table for the Reinin space Kimani White and Andrew Joynton have mapped out: https://docs.google.com/document/d/1xcek3L5mTOrljxb24NXyxyqnhG8tFx7TInfAQ0H_pdc/edit?tab=t.0#heading=h.1vmsoe7mj6yf.
 - For an alternate arrangement of the Tencer-Minaev (TM) Table, check out Kimani White's iteration of the table, accessible here: https://docs.google.com/document/d/1YTDf0oXVmxGEDrOLUyqZZz2lOIDw76yuWAA3ppjHMH0/edit?tab=t.0#heading=h.100owmjgo0e.
-- For the list of tetrachotomies for the Tencer-Minaev Space of dichotomies: [[Tetrachotomy Table (Tencer-Minaev)]]
+- For the list of tetrachotomies for the Tencer-Minaev Space of dichotomies: [[Tetrachotomy Table (Tencer-Minaev)]].
