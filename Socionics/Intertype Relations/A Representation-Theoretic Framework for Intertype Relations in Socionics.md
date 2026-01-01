@@ -129,14 +129,16 @@ Let:
 - $D_s \in \mathcal{S}_i$ be a selector dichotomy,
 - $\sigma_{s} : T \to \{0, 1\}$, the selector function.
 
-A selector acts on a coset $C_j \in Q$ through its pair of assigned vectors: $$ C_{j} \longmapsto (a_{j,0}^{(s)}, {a_{j,1}^{(s)}}) \in \mathbf{V}_{i} \times \mathbf{V}_{i},$$where ${a_{j,0}^{(s)}}$ is the chosen vector when $\sigma_{s}(t) = 0$,
-where $a_{j,1}^{(s)}$ is the vector chosen when $\sigma_{s}(t) = 1$,
+A selector acts on a coset $C_j \in Q$ through its pair of assigned vectors:   $$ C_{j} \longmapsto (a_{j,0}^{(s)}, {a_{j,1}^{(s)}}) \in \mathbf{V}_{i} \times \mathbf{V}_{i},$$  
+where ${a_{j,0}^{(s)}}$ is the chosen vector when $\sigma_{s}(t) = 0$,  
+where $a_{j,1}^{(s)}$ is the vector chosen when $\sigma_{s}(t) = 1$,  
 and where $\mathbf{V}_{i} \cong \mathbb{Z}_2^4$ is the representation space associated with the dichotomy system $\mathcal{D}_i$. 
 
-Thus, for any type $t$: $$ f_{D_{s}}(C_{j}, t) = \begin{cases}
+Thus, for any type $t$:   $$ f_{D_{s}}(C_{j}, t) = \begin{cases}
 a_{j,0}^{(s)}, \quad \text{if } \sigma_{s}(t) = 0, \\ a_{j,1}^{(s)}, \quad \text{if } \sigma_{s}(t) = 1.
-\end{cases}$$
-In our framing, every type $t \in T$ can be defined by a 4-bit coordinate when fixing a dichotomy system, so that: $$\chi(t) = (\mathfrak{D}_{1}(t), \mathfrak{D}_{2}(t), \mathfrak{D}_{3}(t), \mathfrak{D}_{4}(t)) \in \mathbb{Z}^4_{2}$$where $\mathfrak{D}_i(t) \in \{0, 1\}$ is the trait value of $t$ on the $i$-th dichotomy.
+\end{cases}$$  
+In our framing, every type $t \in T$ can be defined by a 4-bit coordinate when fixing a dichotomy system, so that:   $$\chi(t) = (\mathfrak{D}_{1}(t), \mathfrak{D}_{2}(t), \mathfrak{D}_{3}(t), \mathfrak{D}_{4}(t)) \in \mathbb{Z}^4_{2}$$  
+where $\mathfrak{D}_i(t) \in \{0, 1\}$ is the trait value of $t$ on the $i$-th dichotomy.
 
 We fix $t_0 = \text{ILE}$ as the zero vector, so that: $$\chi(t_{0}) = (0, 0, 0, 0)$$then for any other type $t$ the selector bit vector is defined by $$\chi(t) = \chi(t) - \chi(t_{0}).$$
 **Selector admissibility axiom.** A dichotomy $D$ is a valid selector for a dichotomy system $\mathcal{D}_i$ iff the induced selector function $\sigma_D$ is constant on $I_{\mathcal{D}_i}$. Consequently, all selector dichotomies are either orbital or bilinear (waffle) dichotomies.
