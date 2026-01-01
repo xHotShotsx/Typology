@@ -326,7 +326,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 **#31:** $V_{2} \cap C_{3} \cap C_{4}$
 
 ## Non-Orbital Classes $\overline{\mathcal{O}}$
-### $G_{2}$
+### Static/Dynamic Class $G_{2}$
+
+
 
 # Additional Note
 
