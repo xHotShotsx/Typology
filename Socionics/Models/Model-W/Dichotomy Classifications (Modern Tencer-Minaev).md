@@ -354,14 +354,18 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 **#32:**
 **#33:**
 
-### Extroverted/Introverted Class $V_{2}$
+### Extroverted/Introverted Class $C_{2}$
 
 **#13:**
 **#18:**
 **#25:**
 **#28:**
 
-### 
+### Process/Result Class $C_{3}$
+
+****
+****
+****
 
 # Additional Note
 
