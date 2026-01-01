@@ -108,17 +108,17 @@
       </tr>
 	 <tr>
 	 <td>Iridescent Hopes</td>
-      <td>Asking</td><td>Democratic</td><td>Positivist</td>
+      <td>Asking</td><td>Irrational</td><td>Positivist</td>
       <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Avoiding Failures</td>
-      <td>Asking</td><td>Aristocratic</td><td>Negativist</td>
+      <td>Asking</td><td>Rational</td><td>Negativist</td>
       <td>LII</td><td>EIE</td><td>ESI</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Waiting</td>
-      <td>Declaring</td><td>Democratic</td><td>Negativist</td>
+      <td>Declaring</td><td>Irrational</td><td>Negativist</td>
       <td>SEI</td><td>SLE</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
