@@ -285,7 +285,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $A_{3,1}^T = \{ \mathrm{SEI}, \mathrm{LII}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{LIE}, \mathrm{EII}, \mathrm{IEE} \}$  
 > $A_{3,1}^{\mathcal{E}} = \{ \mathrm{?Si^-}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Te^+}, \mathrm{!Fi^+}, \mathrm{!Ne^-} \}$  
 > 
-> #### 2ndBeta / Reflective ($A_{4}$)
+> #### Projective / Reflective ($A_{4}$)
 > 
 > $A_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{SEI}, \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LIE}, \mathrm{ESI} \}$  
 > $A_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{!Si^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{!Te^+}, \mathrm{?Fi^-} \}$  
