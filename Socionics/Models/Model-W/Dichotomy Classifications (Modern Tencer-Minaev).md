@@ -328,7 +328,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 ## Non-Orbital Classes $\overline{\mathcal{O}}$
 ### Static/Dynamic Class $G_{2}$
 
-**#**
+**#11:**
+**#16:**
+**#24:**
 
 # Additional Note
 
