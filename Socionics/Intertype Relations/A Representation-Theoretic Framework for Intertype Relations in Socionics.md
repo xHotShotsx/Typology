@@ -25,7 +25,7 @@ $\mathcal{W}$ denotes the global collection of all wall (non-orbital) dichotomie
 ## 2.1. Important Groups
 
 $\mathbb{S}$: This is the group that comprises all classical Intertype Relations (ITRs). The structure of this group is isomorphic to $D_{8} \times C_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2), which is nonabelian. This is also referred to as the "Socion" group.  
-$\mathfrak{D}$: This already has been defined. Its group structure is $E_{16}$ (elementary abelian group of order 16), which is also isomorphic to $C_2^4$.Note: $\mathcal{D}_i$ is any of the 16 dichotomy systems, with $i \in \mathcal{D}$ specifying the dichotomy system.
+$\mathfrak{D}$: This already has been defined. Its group structure is $E_{16}$ (elementary abelian group of order 16), which is also isomorphic to $C_2^4$. Note: $\mathcal{D}_i$ is any of the 16 dichotomy systems, with $i \in \mathcal{D}$ specifying the dichotomy system.
 
 **Axiom (Orbital Completeness).** Every dichotomy system $\mathcal{D}_i \in \mathcal{D}$ contains the full set of orbital dichotomies $\mathcal{O}$. These dichotomies are invariant across all systems and arise from the Socion 2-cocycle structure. The variation between systems occurs exclusively in their wall dichotomy subspaces $W_i \subset \mathcal{W}$.
 
@@ -78,8 +78,8 @@ The action of the dichotomy system on the ITR group is given by a homomorphism $
 
 ## 3.1. Fixed Point Subgroup
 
-The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathcal{D}_{i}}$. More rigorously, this is defined as the following: $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathcal{D}_{i}} := \{r \in \mathbb{S} \mid \varphi(D)(r) = r, \ \forall D \in \mathcal{D}_{i}\}.$$
-The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: $$r I_{\mathcal{D}_{i}} = I_{\mathcal{D}_{i}} r = \{rs \mid s \in I_{\mathcal{D}_{i}}\}, \quad r \in \mathbb{S}.$$
+The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathcal{D}_{i}}$. More rigorously, this is defined as the following: <br> $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathcal{D}_{i}} := \{r \in \mathbb{S} \mid \varphi(D)(r) = r, \ \forall D \in \mathcal{D}_{i}\}.$$
+The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: <br> $$r I_{\mathcal{D}_{i}} = I_{\mathcal{D}_{i}} r = \{rs \mid s \in I_{\mathcal{D}_{i}}\}, \quad r \in \mathbb{S}.$$
 
 ### 3.1.1. Universal Invariant Core
 
@@ -124,10 +124,7 @@ Let:
 - $D_s \in \mathcal{S}_i$ be a selector dichotomy,
 - $\sigma_{s} : T \to \{0, 1\}$, the selector function.
 
-A selector acts on a coset $C_j \in Q$ through its pair of assigned vectors:  
-$$\begin{aligned}
-C_{j} \longmapsto (a_{j,0}^{(s)}, {a_{j,1}^{(s)}}) \in \mathbf{V}_{i} \times \mathbf{V}_{i},
-\end{aligned}$$where ${a_{j,0}^{(s)}}$ is the chosen vector when $\sigma_{s}(t) = 0$,
+A selector acts on a coset $C_j \in Q$ through its pair of assigned vectors: $$ C_{j} \longmapsto (a_{j,0}^{(s)}, {a_{j,1}^{(s)}}) \in \mathbf{V}_{i} \times \mathbf{V}_{i},$$where ${a_{j,0}^{(s)}}$ is the chosen vector when $\sigma_{s}(t) = 0$,
 where $a_{j,1}^{(s)}$ is the vector chosen when $\sigma_{s}(t) = 1$,
 and where $\mathbf{V}_{i} \cong \mathbb{Z}_2^4$ is the representation space associated with the dichotomy system $\mathcal{D}_i$. 
 
