@@ -356,10 +356,10 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 
 ### Extroverted/Introverted Class $C_{2}$
 
-**#13:** $$
-**#18:**
-**#25:**
-**#28:**
+**#13:** $A_{2} \cap D_{1} \cap C_{2}$
+**#18:** $A_{1} \cap D_{2} \cap C_{2}$
+**#25:** $A_{3} \cap D_{4} \cap C_{2}$
+**#28:** $A_{4} \cap D$
 
 ### Process/Result Class $C_{3}$
 
