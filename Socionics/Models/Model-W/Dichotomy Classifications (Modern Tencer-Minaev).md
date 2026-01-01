@@ -329,9 +329,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 ### Static/Dynamic Class $V_{2}$
 
 **#11:** $V_{2} \cap D_{1} \cap D_{2}$
-**#16:** $V_{2} \cap A_{1} \cap A$
-**#24:**
-**#27:**
+**#16:** $V_{2} \cap A_{1} \cap A_{2}$
+**#24:** $V_{2} \cap D_{3} D_{4}$
+**#27:** $V_{2} \cap A_{3} \cap A_{4}$
 
 ### Democratic/Aristocratic Class $V_{3}$
 
