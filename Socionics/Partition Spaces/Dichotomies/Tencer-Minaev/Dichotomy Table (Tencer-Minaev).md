@@ -183,7 +183,9 @@ with the dichotomy function:
 $$ \mathfrak{d} : T \to \mathbb{Z}_{2} $$
 
 by
+
 $$ \mathfrak{d}(t) := \begin{cases} 0, \quad \text{if } t \in \mathfrak{d}_{0}, \\ 1, \quad \text{if } t \in \mathfrak{d}_{1}. \end{cases} $$
+
 
 We fix the sociotype ILE as the reference element and identify it with the zero vector. Accordingly, for every dichotomy $\mathfrak{d}$, the assignment of values for $0$ and $1$ is chosen so that $\mathfrak{d}(\mathrm{ILE}) = 0$. All trait values and vector representations are therefore understood relative to this basepoint. Under this convention, every type $t \in T$ is represented by a binary vector encoding its deviation from the ILE across the fixed dichotomy system.
 
