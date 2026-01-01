@@ -1,0 +1,1033 @@
+<div style="overflow-x:auto;">
+<table style="width:100%; border-collapse:collapse;" class="tetra">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Tetrachotomy</th>
+      <th colspan="3">Dichotomy Triad</th>
+      <th colspan="4">Types</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6"><b>1</b></td>
+      <td rowspan="2"><b>Energetic Democratic Revision Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/1.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>Q</b></td><td><b>A</b></td><td><b>QA</b></td>
+      </tr>
+	 <tr>
+	 <td></td>
+      <td>Asking</td><td>1stAbstract</td><td>2ndAlpha</td>
+      <td>ILE</td><td>LII</td><td>IEI</td><td>LSE</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td>
+      <td>IEI</td><td>ILI</td><td>LSI</td><td>IEE</td>
+    </tr>
+    <tr>
+	 <td></td>
+      <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td>
+      <td>EIE</td><td>SEE</td><td>ESI</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td></td>
+      <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td>
+      <td>SEI</td><td>ESE</td><td>SLE</td><td>EII</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>2</b></td>
+      <td rowspan="2"><b>Brakes Aristocratic Revision Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/2.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>Q</b></td><td><b>I</b></td><td><b>QI</b></td>
+      </tr>
+	 <tr>
+	 <td></td>
+      <td>Asking</td><td>1stInternal</td><td>2ndBeta</td>
+      <td>ILE</td><td>EIE</td><td>IEI</td><td>ESI</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td>Asking</td><td>1stExternal</td><td>2ndDelta</td>
+      <td>LII</td><td>SEE</td><td>LSE</td><td>SLI</td>
+    </tr>
+    <tr>
+	 <td></td>
+      <td>Declaring</td><td>1stInternal</td><td>2ndDelta</td>
+      <td>ESE</td><td>ILI</td><td>EII</td><td>IEE</td>
+    </tr>
+    <tr>
+     <td></td>
+      <td>Declaring</td><td>1stExternal</td><td>2ndBeta</td>
+      <td>SEI</td><td>LSI</td><td>SLE</td><td>LIE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>3</b></td>
+      <td rowspan="2"><b>Challenge Response Groups</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/3.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>Q</b></td><td><b>D</b></td><td><b>QD</b></td>
+      </tr>
+	 <tr>
+	 <td>Reorienters</td>
+      <td>Asking</td><td>Democratic</td><td>Static</td>
+      <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
+    </tr>
+    <tr>
+    <td>Slackeners</td>
+      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td>
+      <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
+    </tr>
+    <tr>
+	 <td>Sharpeners</td>
+      <td>Declaring</td><td>Democratic</td><td>Dynamic</td>
+      <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td>Foundationalists</td>
+      <td>Declaring</td><td>Aristocratic</td><td>Static</td>
+      <td>LSI</td><td>SLE</td><td>EII</td><td>IEE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>4</b></td>
+      <td rowspan="2"><b>Club Displacement / Activity Orientation Shift</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/4.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>Q</b></td><td><b>AI</b></td><td><b>QAI</b></td>
+      </tr>
+	 <tr>
+	 <td>Iridescent Hopes</td>
+      <td>Asking</td><td>Irrational</td><td>Positivist</td>
+      <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
+    </tr>
+    <tr>
+    <td>Avoiding Failures</td>
+      <td>Asking</td><td>Rational</td><td>Negativist</td>
+      <td>LII</td><td>EIE</td><td>ESI</td><td>LIE</td>
+    </tr>
+    <tr>
+	 <td>Waiting</td>
+      <td>Declaring</td><td>Irrational</td><td>Negativist</td>
+      <td>SEI</td><td>SLE</td><td>ILI</td><td>IEE</td>
+    </tr>
+    <tr>
+     <td>Realistic Plans</td>
+      <td>Declaring</td><td>Rational</td><td>Positivist</td>
+      <td>ESE</td><td>LSI</td><td>LIE</td><td>EII</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>5</b></td>
+      <td rowspan="2"><b>Energy Democratic Revision Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/5.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>Q</b></td><td><b>AD</b></td><td><b>QAD</b></td>
+      </tr>
+	 <tr>
+	 <td></td>
+      <td>Asking</td><td>2ndAbstract</td><td>1stAlpha</td>
+      <td>ILE</td><td>LII</td><td>EIE</td><td>SLI</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td>Asking</td><td>2ndInvolved</td><td>1stGamma</td>
+      <td>IEI</td><td>SEE</td><td>ESI</td><td>LSE</td>
+    </tr>
+    <tr>
+	 <td></td>
+      <td>Declaring</td><td>2ndAbstract</td><td>1stGamma</td>
+      <td>SLE</td><td>ILI</td><td>LIE</td><td>EII</td>
+    </tr>
+    <tr>
+     <td></td>
+      <td>Declaring</td><td>2ndInvolved</td><td>1stAlpha</td>
+      <td>SEI</td><td>ESE</td><td>LSI</td><td>IEE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>6</b></td>
+      <td rowspan="2"><b>Energetic Aristocratic Revision Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/6.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>Q</b></td><td><b>ID</b></td><td><b>QID</b></td>
+      </tr>
+	 <tr>
+	 <td></td>
+      <td>Asking</td><td>2ndExternal</td><td>1stDelta</td>
+      <td>ILE</td><td>ESI</td><td>LSE</td><td>SLI</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td>Asking</td><td>2ndInternal</td><td>1stBeta</td>
+      <td>LII</td><td>EIE</td><td>IEI</td><td>SEE</td>
+    </tr>
+    <tr>
+	 <td></td>
+      <td>Declaring</td><td>2ndExternal</td><td>1stBeta</td>
+      <td>ESE</td><td>LSI</td><td>SLE</td><td>ILI</td>
+    </tr>
+    <tr>
+     <td></td>
+      <td>Declaring</td><td>2ndInternal</td><td>1stDelta</td>
+      <td>SEI</td><td>LIE</td><td>EII</td><td>IEE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>7</b></td>
+      <td rowspan="2"><b>Rings of Benefit / Quadra Role</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/7.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+	  <td><b>Q</b></td><td><b>AID</b></td><td><b>QAID</b></td>
+      </tr>
+	 <tr>
+	 <td>Energy Generators</td>
+      <td>Asking</td><td>Process</td><td>Extroverted</td>
+      <td>ILE</td><td>EIE</td><td>SEE</td><td>LSE</td>
+    </tr>
+    <tr>
+    <td>Information Generators</td>
+      <td>Asking</td><td>Result</td><td>Introverted</td>
+      <td>LII</td><td>IEI</td><td>ESI</td><td>SLI</td>
+    </tr>
+    <tr>
+	 <td>Information Accumulators</td>
+      <td>Declaring</td><td>Process</td><td>Introverted</td>
+      <td>SEI</td><td>LSI</td><td>ILI</td><td>EII</td>
+    </tr>
+    <tr>
+     <td>Energy Carriers</td>
+      <td>Declaring</td><td>Result</td><td>Extroverted</td>
+      <td>ESE</td><td>SLE</td><td>LIE</td><td>IEE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>8</b></td>
+      <td rowspan="2"><b>Base Faculty</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/8.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>A</b></td><td><b>I</b></td><td><b>AI</b></td>
+      </tr>
+	 <tr>
+	 <td>N-base "Imagination"</td>
+      <td>1stAbstract</td><td>1stInternal</td><td>Irrational</td>
+      <td>ILE</td><td>IEI</td><td>ILI</td><td>IEE</td>
+    </tr>
+    <tr>
+    <td>T-base "Calculation"</td>
+      <td>1stAbstract</td><td>1stExternal</td><td>Rational</td>
+      <td>LII</td><td>LSI</td><td>LIE</td><td>LSE</td>
+    </tr>
+    <tr>
+	 <td>F-base "Suggestion"</td>
+      <td>1stInvolved</td><td>1stInternal</td><td>Rational</td>
+      <td>ESE</td><td>EIE</td><td>ESI</td><td>EII</td>
+    </tr>
+    <tr>
+     <td>S-base "Sense"</td>
+      <td>1stInvolved</td><td>1stExternal</td><td>Irrational</td>
+      <td>SEI</td><td>SLE</td><td>SEE</td><td>SLI</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>9</b></td>
+      <td rowspan="2"><b>Democratic Clubs and Aristocratic Array Groups</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/9.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>A</b></td><td><b>D</b></td><td><b>AD</b></td>
+      </tr>
+	 <tr>
+	 <td>NT "Cerebral"</td>
+      <td>1stAbstract</td><td>Democratic</td><td>2ndAbstract</td>
+      <td>ILE</td><td>LII</td><td>ILI</td><td>LIE</td>
+    </tr>
+    <tr>
+    <td>Inert NT "Instruction"</td>
+      <td>1stAbstract</td><td>Aristocratic</td><td>2ndInvolved</td>
+      <td>LSI</td><td>IEI</td><td>LSE</td><td>IEE</td>
+    </tr>
+    <tr>
+	 <td>SF "Visceral"</td>
+      <td>1stInvolved</td><td>Democratic</td><td>2ndInvolved</td>
+      <td>SEI</td><td>ESE</td><td>SEE</td><td>ESI</td>
+    </tr>
+    <tr>
+     <td>Inert SF "Exemplification"</td>
+      <td>1stInvolved</td><td>Aristocratic</td><td>2ndAbstract</td>
+      <td>EIE</td><td>SLE</td><td>EII</td><td>SLI</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>10</b></td>
+      <td rowspan="2"><b>Brakes Democratic Order Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/10.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>A</b></td><td><b>QI</b></td><td><b>QAI</b></td>
+      </tr>
+	 <tr>
+	 <td></td>
+      <td>1stAbstract</td><td>2ndBeta</td><td>Positivist</td>
+      <td>ILE</td><td>LSI</td><td>IEI</td><td>LIE</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td>1stAbstract</td><td>2ndDelta</td><td>Negativist</td>
+      <td>LII</td><td>ILI</td><td>LSE</td><td>IEE</td>
+    </tr>
+    <tr>
+	 <td></td>
+      <td>1stInvolved</td><td>2ndBeta</td><td>Negativist</td>
+      <td>SEI</td><td>EIE</td><td>SLE</td><td>ESI</td>
+    </tr>
+    <tr>
+     <td></td>
+      <td>1stInvolved</td><td>2ndDelta</td><td>Positivist</td>
+      <td>ESE</td><td>SEE</td><td>EII</td><td>SLI</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>11</b></td>
+      <td rowspan="2"><b>Base Function Democratic Revision Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/11.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>A</b></td><td><b>QD</b></td><td><b>QAD</b></td>
+      </tr>
+	 <tr>
+	 <td></td>
+      <td>1stAbstract</td><td>Static</td><td>1stAlpha</td>
+      <td>ILE</td><td>LII</td><td>IEI</td><td>LSE</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td>1stAbstract</td><td>Dynamic</td><td>1stGamma</td>
+      <td>IEI</td><td>ILI</td><td>LIE</td><td>LSE</td>
+    </tr>
+    <tr>
+	 <td></td>
+      <td>1stInvolved</td><td>Static</td><td>1stGamma</td>
+      <td>SLE</td><td>SEE</td><td>ESI</td><td>EII</td>
+    </tr>
+    <tr>
+     <td></td>
+      <td>1stInvolved</td><td>Dynamic</td><td>1stAlpha</td>
+      <td>SEI</td><td>ESE</td><td>EIE</td><td>SLI</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>12</b></td>
+      <td rowspan="2"><b>Process Implementation Groups and Result Project Groups</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/12.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>A</b></td><td><b>ID</b></td><td><b>AID</b></td>
+      </tr>
+	 <tr>
+	 <td></td>
+      <td>1stAbstract</td><td>2ndExternal</td><td>Process</td>
+      <td>ILE</td><td>LSI</td><td>ILI</td><td>LSE</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td>1stAbstract</td><td>2ndInternal</td><td>Result</td>
+      <td>LII</td><td>IEI</td><td>LIE</td><td>IEE</td>
+    </tr>
+    <tr>
+	 <td></td>
+      <td>1stInvolved</td><td>2ndExternal</td><td>Result</td>
+      <td>ESE</td><td>SLE</td><td>ESI</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td></td>
+      <td>1stInvolved</td><td>2ndInternal</td><td>Process</td>
+      <td>SEI</td><td>EIE</td><td>SEE</td><td>EII</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>13</b></td>
+      <td rowspan="2"><b>Base Function Democratic Order Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/13.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>A</b></td><td><b>QID</b></td><td><b>QAID</b></td>
+      </tr>
+	 <tr>
+	 <td></td>
+      <td>1stAbstract</td><td>1stDelta</td><td>Extroverted</td>
+      <td>ILE</td><td>LIE</td><td>LSE</td><td>IEE</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td>1stAbstract</td><td>1stBeta</td><td>Introverted</td>
+      <td>LII</td><td>LSI</td><td>IEI</td><td>ILI</td>
+    </tr>
+    <tr>
+	 <td></td>
+      <td>1stInvolved</td><td>1stDelta</td><td>Introverted</td>
+      <td>SEI</td><td>ESI</td><td>EII</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td></td>
+      <td>1stInvolved</td><td>1stBeta</td><td>Extroverted</td>
+      <td>ESE</td><td>EIE</td><td>SLE</td><td>SEE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>14</b></td>
+      <td rowspan="2"><b>Democratic Array Groups and Aristocratic Clubs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/14.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>I</b></td><td><b>D</b></td><td><b>ID</b></td>
+      </tr>
+	 <tr>
+	 <td>Inert NF "Implication"</td>
+      <td>1stInternal</td><td>Democratic</td><td>2ndExternal</td>
+      <td>ILE</td><td>ESE</td><td>ILI</td><td>ESI</td>
+    </tr>
+    <tr>
+    <td>NF "Implicit"</td>
+      <td>1stInternal</td><td>Aristocratic</td><td>2ndInternal</td>
+      <td>EIE</td><td>IEI</td><td>EII</td><td>IEE</td>
+    </tr>
+    <tr>
+	 <td>Inert ST "Explication"</td>
+      <td>1stExternal</td><td>Democratic</td><td>2ndInternal</td>
+      <td>SEI</td><td>LII</td><td>SEE</td><td>LIE</td>
+    </tr>
+    <tr>
+     <td>ST "Explicit"</td>
+      <td>1stExternal</td><td>Aristocratic</td><td>2ndExternal</td>
+      <td>LSI</td><td>SLE</td><td>LSE</td><td>SLI</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>15</b></td>
+      <td rowspan="2"><b>Excitable Aristocratic Order Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/15.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>I</b></td><td><b>QA</b></td><td><b>QAI</b></td>
+      </tr>
+	 <tr>
+	 <td></td>
+      <td>1stInternal</td><td>2ndAlpha</td><td>Positivist</td>
+      <td>ILE</td><td>ESE</td><td>IEI</td><td>EII</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td>1stInternal</td><td>2ndGamma</td><td>Negativist</td>
+      <td>EIE</td><td>ILI</td><td>ESI</td><td>IEE</td>
+    </tr>
+    <tr>
+	 <td></td>
+      <td>1stExternal</td><td>2ndAlpha</td><td>Negativist</td>
+      <td>SEI</td><td>LII</td><td>SLE</td><td>LSE</td>
+    </tr>
+    <tr>
+     <td></td>
+      <td>1stExternal</td><td>2ndGamma</td><td>Positivist</td>
+      <td>LSI</td><td>SEE</td><td>LIE</td><td>SLI</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>16</b></td>
+      <td rowspan="2"><b>Base Function Aristocratic Revision Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/16.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>I</b></td><td><b>QD</b></td><td><b>QID</b></td>
+      </tr>
+	 <tr>
+	 <td>Ne/Fi Base</td>
+      <td>1stInternal</td><td>Static</td><td>1stDelta</td>
+      <td>ILE</td><td>ESI</td><td>EII</td><td>IEE</td>
+    </tr>
+    <tr>
+    <td>Ni/Fe Base</td>
+      <td>1stInternal</td><td>Dynamic</td><td>1stBeta</td>
+      <td>ESE</td><td>EIE</td><td>IEI</td><td>ILI</td>
+    </tr>
+    <tr>
+	 <td>Se/Ti Base</td>
+      <td>1stExternal</td><td>Static</td><td>1stBeta</td>
+      <td>LII</td><td>LSI</td><td>SLE</td><td>SEE</td>
+    </tr>
+    <tr>
+     <td>Si/Te Base</td>
+      <td>1stExternal</td><td>Dynamic</td><td>1stDelta</td>
+      <td>SEI</td><td>LIE</td><td>LSE</td><td>SLI</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>17</b></td>
+      <td rowspan="2"><b>Process Project Groups and Result Implementation Groups</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/17.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>I</b></td><td><b>AD</b></td><td><b>AID</b></td>
+      </tr>
+	 <tr>
+	 <td></td>
+      <td>1stInternal</td><td>2ndAbstract</td><td>Process</td>
+      <td>ILE</td><td>EIE</td><td>ILI</td><td>EII</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td>1stInternal</td><td>2ndInvolved</td><td>Result</td>
+      <td>ESE</td><td>IEI</td><td>ESI</td><td>IEE</td>
+    </tr>
+    <tr>
+	 <td></td>
+      <td>1stExternal</td><td>2ndAbstract</td><td>Result</td>
+      <td>LII</td><td>SLE</td><td>LIE</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td></td>
+      <td>1stExternal</td><td>2ndInvolved</td><td>Process</td>
+      <td>SEI</td><td>LSI</td><td>SEE</td><td>LSE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>18</b></td>
+      <td rowspan="2"><b>Base Function Aristocratic Order Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/18.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>I</b></td><td><b>QAD</b></td><td><b>QAID</b></td>
+      </tr>
+	 <tr>
+	 <td>Ne/Fe Base</td>
+      <td>1stInternal</td><td>1stAlpha</td><td>Extroverted</td>
+      <td>ILE</td><td>ESE</td><td>EIE</td><td>IEE</td>
+    </tr>
+    <tr>
+    <td>Ni/Fi Base</td>
+      <td>1stInternal</td><td>1stGamma</td><td>Introverted</td>
+      <td>IEI</td><td>ILI</td><td>ESI</td><td>EII</td>
+    </tr>
+    <tr>
+	 <td>Si/Ti Base</td>
+      <td>1stExternal</td><td>1stAlpha</td><td>Introverted</td>
+      <td>SEI</td><td>LII</td><td>LSI</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td>Se/Fe Base</td>
+      <td>1stExternal</td><td>1stGamma</td><td>Extroverted</td>
+      <td>SLE</td><td>SEE</td><td>LIE</td><td>LSE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>19</b></td>
+      <td rowspan="2"><b>Democratic Quadra and Aristocratic Occupation Groups</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/19.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>D</b></td><td><b>QA</b></td><td><b>QAD</b></td>
+      </tr>
+	 <tr>
+	 <td>Alpha Quadra</td>
+      <td>Democratic</td><td>2ndAlpha</td><td>1stAlpha</td>
+      <td>ILE</td><td>SEI</td><td>ESE</td><td>LII</td>
+    </tr>
+    <tr>
+    <td>Gamma Quadra</td>
+      <td>Democratic</td><td>2ndGamma</td><td>1stGamma</td>
+      <td>SEE</td><td>ILI</td><td>LIE</td><td>ESI</td>
+    </tr>
+    <tr>
+	 <td>Evaluatory Alpha</td>
+      <td>Aristocratic</td><td>2ndAlpha</td><td>1stGamma</td>
+      <td>EIE</td><td>LSI</td><td>IEE</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td>Evaluatory Gamma</td>
+      <td>Aristocratic</td><td>2ndGamma</td><td>1stAlpha</td>
+      <td>SLE</td><td>IEI</td><td>LSE</td><td>EII</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>20</b></td>
+      <td rowspan="2"><b>Democratic Occupation Groups and Aristocratic Quadra</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/20.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>D</b></td><td><b>QI</b></td><td><b>QID</b></td>
+      </tr>
+	 <tr>
+	 <td>Evaluatory Delta</td>
+      <td>Democratic</td><td>2ndBeta</td><td>1stDelta</td>
+      <td>ILE</td><td>SEI</td><td>LIE</td><td>ESI</td>
+    </tr>
+    <tr>
+    <td>Evaluatory Beta</td>
+      <td>Democratic</td><td>2ndDelta</td><td>1stBeta</td>
+      <td>ESE</td><td>LII</td><td>SEE</td><td>ILI</td>
+    </tr>
+    <tr>
+	 <td>Beta Quadra</td>
+      <td>Aristocratic</td><td>2ndBeta</td><td>1stBeta</td>
+      <td>EIE</td><td>LSI</td><td>SLE</td><td>IEI</td>
+    </tr>
+    <tr>
+     <td>Delta Quadra</td>
+      <td>Aristocratic</td><td>2ndDelta</td><td>1stDelta</td>
+      <td>LSE</td><td>EII</td><td>IEE</td><td>SLI</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>21</b></td>
+      <td rowspan="2"><b>Stress Resistance / Centre</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/21.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>D</b></td><td><b>AI</b></td><td><b>AID</b></td>
+      </tr>
+	 <tr>
+	 <td>Frozen by Stress</td>
+      <td>Irrational</td><td>Irrational</td><td>Process</td>
+      <td>ILE</td><td>SEI</td><td>SEE</td><td>ILI</td>
+    </tr>
+    <tr>
+    <td>Trained by Stress</td>
+      <td>Irrational</td><td>Rational</td><td>Result</td>
+      <td>ESE</td><td>LII</td><td>LIE</td><td>ESI</td>
+    </tr>
+    <tr>
+	 <td>Resistant Stress</td>
+      <td>Rational</td><td>Irrational</td><td>Result</td>
+      <td>SLE</td><td>IEI</td><td>IEE</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td>Vulnerable to Stress</td>
+      <td>Rational</td><td>Rational</td><td>Process</td>
+      <td>EIE</td><td>LSI</td><td>LSE</td><td>EII</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>22</b></td>
+      <td rowspan="2"><b>Positivity Groups</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/22.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>D</b></td><td><b>QAI</b></td><td><b>QAID</b></td>
+      </tr>
+	 <tr>
+	 <td>Approaching</td>
+      <td>Democratic</td><td>Positivist</td><td>Extroverted</td>
+      <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
+    </tr>
+    <tr>
+    <td>Abstaining</td>
+      <td>Democratic</td><td>Negativist</td><td>Introverted</td>
+      <td>SEI</td><td>LII</td><td>ILI</td><td>ESI</td>
+    </tr>
+    <tr>
+	 <td>Integrating</td>
+      <td>Aristocratic</td><td>Positivist</td><td>Introverted</td>
+      <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td>Shaping</td>
+      <td>Aristocratic</td><td>Negativist</td><td>Extroverted</td>
+	  <td>EIE</td><td>SLE</td><td>LSE</td><td>IEE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>23</b></td>
+      <td rowspan="2"><b>Producing Axis</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/23.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>QA</b></td><td><b>QI</b></td><td><b>AI</b></td>
+      </tr>
+	 <tr>
+	 <td>Merry Irrational</td>
+      <td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td>
+      <td>ILE</td><td>SEI</td><td>SLE</td><td>IEI</td>
+    </tr>
+    <tr>
+    <td>Judicious Rational</td>
+      <td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td>
+      <td>ESE</td><td>LII</td><td>LSE</td><td>EII</td>
+    </tr>
+    <tr>
+	 <td>Decisive Rational</td>
+      <td>2ndGamma</td><td>2ndBeta</td><td>Rational</td>
+      <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td>Serious Irrational</td>
+      <td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td>
+      <td>SEE</td><td>ILI</td><td>IEE</td><td>SLI</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>24</b></td>
+      <td rowspan="2"><b>Creative Function Democratic Revision Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/24.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>QA</b></td><td><b>QD</b></td><td><b>AD</b></td>
+      </tr>
+	 <tr>
+	 <td>Ne/Ti Creative</td>
+      <td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td>
+      <td>ILE</td><td>LII</td><td>SLE</td><td>EII</td>
+    </tr>
+    <tr>
+    <td>Si/Fe Creative</td>
+      <td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td>
+      <td>SEI</td><td>ESE</td><td>IEI</td><td>LSE</td>
+    </tr>
+    <tr>
+	 <td>Se/Fi Creative</td>
+      <td>2ndGamma</td><td>Static</td><td>2ndInvolved</td>
+      <td>LSI</td><td>SEE</td><td>ESI</td><td>IEE</td>
+    </tr>
+    <tr>
+     <td>Ni/Te Creative</td>
+      <td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td>
+      <td>ESE</td><td>ILI</td><td>LIE</td><td>SLI</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>25</b></td>
+      <td rowspan="2"><b>Creative Function Democratic Order Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/25.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>QA</b></td><td><b>ID</b></td><td><b>QAID</b></td>
+      </tr>
+	 <tr>
+	 <td>Si/Ti Creative</td>
+      <td>2ndAlpha</td><td>2ndExternal</td><td>Extroverted</td>
+      <td>ILE</td><td>ESE</td><td>SLE</td><td>LSE</td>
+    </tr>
+    <tr>
+    <td>Ne/Fe Creative</td>
+      <td>2ndAlpha</td><td>2ndInternal</td><td>Introverted</td>
+      <td>SEI</td><td>LII</td><td>IEI</td><td>EII</td>
+    </tr>
+    <tr>
+	 <td>Se/Te Creative</td>
+      <td>2ndGamma</td><td>2ndExternal</td><td>Introverted</td>
+      <td>LSI</td><td>ILI</td><td>ESI</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td>Ni/Fi Creative</td>
+      <td>2ndGamma</td><td>2ndInternal</td><td>Extroverted</td>
+      <td>EIE</td><td>SEE</td><td>LIE</td><td>IEE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>26</b></td>
+      <td rowspan="2"><b>Dual Axis (Asymmetric Process Centrality Result Passionarity)</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/26.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>QA</b></td><td><b>QID</b></td><td><b>AID</b></td>
+      </tr>
+	 <tr>
+	 <td></td>
+      <td>2ndAlpha</td><td>1stDelta</td><td>Process</td>
+      <td>ILE</td><td>SEI</td><td>LSE</td><td>EII</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td>2ndAlpha</td><td>1stBeta</td><td>Result</td>
+      <td>EIE</td><td>LSI</td><td>SEE</td><td>ILI</td>
+    </tr>
+    <tr>
+	 <td></td>
+      <td>2ndGamma</td><td>1stDelta</td><td>Result</td>
+      <td>LIE</td><td>ESI</td><td>IEE</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td></td>
+      <td>2ndGamma</td><td>1stBeta</td><td>Process</td>
+      <td>ESE</td><td>LII</td><td>SLE</td><td>IEI</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>27</b></td>
+      <td rowspan="2"><b>Creative Function Aristocratic Revision Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/27.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>QI</b></td><td><b>QD</b></td><td><b>ID</b></td>
+      </tr>
+	 <tr>
+	 <td>Se/Ti Creative</td>
+      <td>2ndBeta</td><td>Static</td><td>2ndExternal</td>
+      <td>ILE</td><td>LSI</td><td>SLE</td><td>ESI</td>
+    </tr>
+    <tr>
+    <td>Ni/Fe Creative</td>
+      <td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td>
+      <td>SEI</td><td>EIE</td><td>IEI</td><td>LIE</td>
+    </tr>
+    <tr>
+	 <td>Ne/Fi Creative</td>
+      <td>2ndDelta</td><td>Static</td><td>2ndExertnal</td>
+      <td>LII</td><td>SEE</td><td>EII</td><td>IEE</td>
+    </tr>
+    <tr>
+     <td>Si/Te Creative</td>
+      <td>2ndDelta</td><td>Dynamic</td><td>2ndInternal</td>
+      <td>ESE</td><td>ILI</td><td>LSE</td><td>SLI</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>28</b></td>
+      <td rowspan="2"><b>Creative Function Democratic Order Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/28.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>QI</b></td><td><b>AD</b></td><td><b>QAID</b></td>
+      </tr>
+	 <tr>
+	 <td>Ni/Ti Creative</td>
+      <td>2ndBeta</td><td>2ndAbstract</td><td>Extroverted</td>
+      <td>ILE</td><td>EIE</td><td>SLE</td><td>LIE</td>
+    </tr>
+    <tr>
+    <td>Se/Fe Creative</td>
+      <td>2ndBeta</td><td>2ndInvolved</td><td>Introverted</td>
+      <td>SEI</td><td>LSI</td><td>IEI</td><td>ESI</td>
+    </tr>
+    <tr>
+	 <td>Ne/Te Creative</td>
+      <td>2ndDelta</td><td>2ndAbstract</td><td>Introverted</td>
+      <td>LII</td><td>ILI</td><td>EII</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td>Si/Fi Creative</td>
+      <td>2ndDelta</td><td>2ndInvolved</td><td>Extroverted</td>
+      <td>ESE</td><td>SEE</td><td>LSE</td><td>IEE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>29</b></td>
+      <td rowspan="2"><b>Dual Axis (Asymmetric Process Passionarity Result Centrality)</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/29.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>QI</b></td><td><b>QAD</b></td><td><b>AID</b></td>
+      </tr>
+	 <tr>
+	 <td></td>
+      <td>2ndBeta</td><td>1stAlpha</td><td>Process</td>
+      <td>ILE</td><td>SEI</td><td>EIE</td><td>LSI</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td>2ndBeta</td><td>1stGamma</td><td>Result</td>
+      <td>SLE</td><td>IEI</td><td>LIE</td><td>ESI</td>
+    </tr>
+    <tr>
+	 <td></td>
+      <td>2ndDelta</td><td>1stAlpha</td><td>Result</td>
+      <td>ESE</td><td>LII</td><td>IEE</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td></td>
+      <td>2ndDelta</td><td>1stGamma</td><td>Process</td>
+      <td>SEE</td><td>ILI</td><td>LSE</td><td>EII</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>30</b></td>
+      <td rowspan="2"><b>Temperament</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/30.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>QD</b></td><td><b>AI</b></td><td><b>QAID</b></td>
+      </tr>
+	 <tr>
+	 <td>Flexible Manoeuvring</td>
+      <td>Static</td><td>Irrational</td><td>Extroverted</td>
+      <td>ILE</td><td>SLE</td><td>SEE</td><td>IEE</td>
+    </tr>
+    <tr>
+    <td>Balanced Stable</td>
+      <td>Static</td><td>Rational</td><td>Introverted</td>
+      <td>LII</td><td>LSI</td><td>ESI</td><td>EII</td>
+    </tr>
+    <tr>
+	 <td>Receptive Adaptive</td>
+      <td>Dynamic</td><td>Irrational</td><td>Introverted</td>
+      <td>SEI</td><td>IEI</td><td>ILI</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td>Linear Assertive</td>
+      <td>Dynamic</td><td>Rational</td><td>Extroverted</td>
+      <td>ESE</td><td>EIE</td><td>LIE</td><td>LSE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>31</b></td>
+      <td rowspan="2"><b>Rings of Supervision / Cognitive Styles</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/31.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>QD</b></td><td><b>QAI</b></td><td><b>AID</b></td>
+      </tr>
+	 <tr>
+	 <td>Causal Determinist</td>
+      <td>Static</td><td>Positivist</td><td>Process</td>
+      <td>ILE</td><td>LSI</td><td>SEE</td><td>EII</td>
+    </tr>
+    <tr>
+    <td>Holographic Panoramic</td>
+      <td>Static</td><td>Negativist</td><td>Result</td>
+      <td>LII</td><td>SLE</td><td>ESI</td><td>IEE</td>
+    </tr>
+    <tr>
+	 <td>Vortical Synergetic</td>
+      <td>Dynamic</td><td>Positivist</td><td>Result</td>
+      <td>ESE</td><td>IEI</td><td>LIE</td><td>SLI</td>
+    </tr>
+    <tr>
+     <td>Dialectical Algorithmic</td>
+      <td>Dynamic</td><td>Negativist</td><td>Process</td>
+      <td>SEI</td><td>EIE</td><td>ILI</td><td>LSE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>32</b></td>
+      <td rowspan="2"><b>Creative Faculty</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/32.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>AI</b></td><td><b>AD</b></td><td><b>ID</b></td>
+      </tr>
+	 <tr>
+	 <td>T Creative</td>
+      <td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td>
+      <td>ILE</td><td>SLE</td><td>ILI</td><td>SLI</td>
+    </tr>
+    <tr>
+    <td>F Creative</td>
+      <td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td>
+      <td>SEI</td><td>IEI</td><td>SEE</td><td>IEE</td>
+    </tr>
+    <tr>
+	 <td>N Creative</td>
+      <td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td>
+      <td>LII</td><td>EIE</td><td>LIE</td><td>EII</td>
+    </tr>
+    <tr>
+     <td>S Creative</td>
+      <td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td>
+      <td>ESE</td><td>LSI</td><td>ESI</td><td>LSE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>33</b></td>
+      <td rowspan="2"><b>Accepting Axis</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/33.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>AI</b></td><td><b>QAD</b></td><td><b>QID</b></td>
+      </tr>
+	 <tr>
+	 <td>Judicious Irrational</td>
+      <td>Irrational</td><td>1stAlpha</td><td>1stDelta</td>
+      <td>ILE</td><td>SEI</td><td>IEE</td><td>SLI</td>
+    </tr>
+    <tr>
+    <td>Decisive Irrational</td>
+      <td>Irrational</td><td>1stGamma</td><td>1stBeta</td>
+      <td>SLE</td><td>IEI</td><td>SEE</td><td>ILI</td>
+    </tr>
+    <tr>
+	 <td>Merry Rational</td>
+      <td>Rational</td><td>1stAlpha</td><td>1stBeta</td>
+      <td>ESE</td><td>LII</td><td>EIE</td><td>LSI</td>
+    </tr>
+    <tr>
+     <td>Serious Rational</td>
+      <td>Rational</td><td>1stGamma</td><td>1stDelta</td>
+      <td>LIE</td><td>ESI</td><td>LSE</td><td>EII</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>34</b></td>
+      <td rowspan="2"><b>Energetic Democratic Order Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/34.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>AD</b></td><td><b>QAI</b></td><td><b>QID</b></td>
+      </tr>
+	 <tr>
+	 <td></td>
+      <td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td>
+      <td>ILE</td><td>LIE</td><td>EII</td><td>SLI</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td>
+      <td>LII</td><td>EIE</td><td>SLE</td><td>ILI</td>
+    </tr>
+    <tr>
+	 <td></td>
+      <td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td>
+      <td>ESE</td><td>LSI</td><td>IEI</td><td>SEE</td>
+    </tr>
+    <tr>
+     <td></td>
+      <td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td>
+      <td>SEI</td><td>ESI</td><td>LSE</td><td>IEE</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><b>35</b></td>
+      <td rowspan="2"><b>Energy Aristocratic Order Pairs</b></td>
+      <td colspan="3"><img src="/Images/Tetrachotomies/Tencer-Minaev/35.png" /></td>
+      <td colspan="4" rowspan="2"></td>
+      </tr>
+      <tr>
+      <td><b>ID</b></td><td><b>QAI</b></td><td><b>QAD</b></td>
+      </tr>
+	 <tr>
+	 <td></td>
+      <td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td>
+      <td>ILE</td><td>ESE</td><td>LSI</td><td>SLI</td>
+    </tr>
+    <tr>
+    <td></td>
+      <td>2ndExternal</td><td>Negativist</td><td>1stGamma</td>
+      <td>SLE</td><td>ILI</td><td>ESI</td><td>LSE</td>
+    </tr>
+    <tr>
+	 <td></td>
+      <td>2ndInternal</td><td>Positivist</td><td>1stGamma</td>
+      <td>IEI</td><td>SEE</td><td>LIE</td><td>EII</td>
+    </tr>
+    <tr>
+     <td></td>
+      <td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td>
+      <td>SEI</td><td>LII</td><td>EIE</td><td>IEE</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+# Further Reading
+
+- https://docs.google.com/document/d/1JUrEAXb-WwSXvY6tONL06JiZLfDuyoKcaqQFKSLz5pw/edit?tab=t.0#heading=h.f9ext3ddcdod
