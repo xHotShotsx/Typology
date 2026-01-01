@@ -12,7 +12,7 @@
 	    <tr>
 	      <td rowspan="10"><b>1</b></td>
 	      <td rowspan="2"><b>Quasi Identicals</b></td>
-	      <td colspan="7"><img src="Typology/Socionics/Images/Octachotomies/Reinin/1.png" /></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Reinin/1.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
