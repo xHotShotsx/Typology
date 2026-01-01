@@ -315,8 +315,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 
 
 # Classes of Tetrachotomies
-## Orbital Class $\ma$
-- 
+## Orbital Class $\mathcal{O}$
+
+**#1: **
 
 # Additional Note
 
