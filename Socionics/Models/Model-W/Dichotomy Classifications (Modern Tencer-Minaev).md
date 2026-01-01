@@ -366,13 +366,13 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 **#12:** $A_{3} \cap D_{1} \cap C_{3}$
 **#17:** $A_{1} \cap D_{3} \cap C_{3}$
 **#26:** $A_{2} \cap D_{4} \cap C_{3}$
-**#29:**
+**#29:** $A_{4} \cap D_{2} \cap C_{3}$
 
 ### Positivist/Negativist Class $C_{4}$
 
-**#10:**
-**#15:**
-**#34:**
+**#10:** $A_{4} \cap D_{1} \cap C_{4}$
+**#15:** $A_{1} \cap D_{4} \cap C_{4}$
+**#34:** 
 **#35:** 
 
 
