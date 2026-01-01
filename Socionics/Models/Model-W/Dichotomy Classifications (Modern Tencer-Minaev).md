@@ -371,6 +371,9 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 ### Positivist/Negativist Class $C_{4}$
 
 **#10:**
+**#15:**
+**#34:**
+**#35:** 
 
 
 # Additional Note
