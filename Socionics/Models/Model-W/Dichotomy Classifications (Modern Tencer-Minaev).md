@@ -342,8 +342,8 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 
 ### Asking/Declaring Class $V_{4}$
 
-**#1:** 
-**#2:**
+**#1:** $V_{4} \cap D_{1} \cap D_{4}$
+**#2:** $$
 **#5:**
 **#6:**
 
