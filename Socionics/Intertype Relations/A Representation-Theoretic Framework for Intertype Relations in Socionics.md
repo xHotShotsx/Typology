@@ -169,9 +169,7 @@ and where $\mathbf{V}_{i} \cong \mathbb{Z}_2^4$ is the representation space asso
 
 Thus, for any type $t$: 
 
-$$ f_{D_{s}}(C_{j}, t) = \begin{cases}
-a_{j,0}^{(s)}, \quad \text{if } \sigma_{s}(t) = 0, \\ a_{j,1}^{(s)}, \quad \text{if } \sigma_{s}(t) = 1.
-\end{cases}$$
+$$ f_{D_{s}}(C_{j}, t) = \begin{cases} a_{j,0}^{(s)}, \quad \text{if } \sigma_{s}(t) = 0, \\ a_{j,1}^{(s)}, \quad \text{if } \sigma_{s}(t) = 1. \end{cases}$$
 
 
 In our framing, every type $t \in T$ can be defined by a 4-bit coordinate when fixing a dichotomy system, so that: 
