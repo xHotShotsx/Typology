@@ -309,88 +309,88 @@ $a \mapsto  (0, 1, 1, 1)$
 
 ###### For $-\Delta 1$ Types
 
-$q \mapsto  (0, 1, 1, 1)$
-$a \mapsto  (0, 0, 0, 1)$
+$q \mapsto  (0, 1, 1, 1)$  
+$a \mapsto  (0, 0, 0, 1)$  
 
 
 ## 7.2. Semidual Mirage HEF ($\mathcal{D}_{2}$)
 ### 7.2.1. Generators Used: (E, L, S, P)
 #### $I_{\mathcal{D}_{2}}$ (Temperament)
 
-$e \mapsto (0, 0, 0, 0)$
-$g \mapsto (0, 1, 1, 0)$
-$k \mapsto (0, 0, 1, 0)$
-$l \mapsto (0, 1, 0, 0)$
+$e \mapsto (0, 0, 0, 0)$  
+$g \mapsto (0, 1, 1, 0)$  
+$k \mapsto (0, 0, 1, 0)$  
+$l \mapsto (0, 1, 0, 0)$  
 
 #### $r I_{\mathcal{D}_{2}}$ ($\mathcal{P}_{2} =$ Displacement)
 ##### Irrational/Rational
 ###### For Irrational Types
 
-$x \mapsto (1, 0, 1, 0)$
-$d \mapsto (1, 1, 0, 0)$
-$h \mapsto (1, 1, 1, 0)$
-$i \mapsto (1, 0, 0, 0)$
+$x \mapsto (1, 0, 1, 0)$  
+$d \mapsto (1, 1, 0, 0)$  
+$h \mapsto (1, 1, 1, 0)$  
+$i \mapsto (1, 0, 0, 0)$  
 
 ###### For Rational Types
 
-$x \mapsto (1, 1, 0, 0)$
-$d \mapsto (1, 0, 1, 0)$
-$h \mapsto (1, 0, 0, 0)$
-$i \mapsto (1, 1, 1, 0)$
+$x \mapsto (1, 1, 0, 0)$  
+$d \mapsto (1, 0, 1, 0)$  
+$h \mapsto (1, 0, 0, 0)$  
+$i \mapsto (1, 1, 1, 0)$  
 
 ##### Positivist/Negativist
 ###### For Positivist Types
 
-$a \mapsto  (0, 1, 1, 1)$
-$q \mapsto  (0, 0, 0, 1)$
-$B \mapsto (0, 0, 1, 1)$
-$b \mapsto (0, 1, 0, 1)$
+$a \mapsto  (0, 1, 1, 1)$  
+$q \mapsto  (0, 0, 0, 1)$  
+$B \mapsto (0, 0, 1, 1)$  
+$b \mapsto (0, 1, 0, 1)$  
 
 ###### For Negativist Types
 
-$a \mapsto  (0, 1, 1, 1)$
-$q \mapsto  (0, 0, 0, 1)$
-$B \mapsto (0, 0, 1, 1)$
-$b \mapsto (0, 1, 0, 1)$
+$a \mapsto  (0, 1, 1, 1)$  
+$q \mapsto  (0, 0, 0, 1)$  
+$B \mapsto (0, 0, 1, 1)$  
+$b \mapsto (0, 1, 0, 1)$  
 
 ##### Asking/Declaring
 ###### For Asking Types
 
-$S \mapsto (1, 0, 0, 1)$
-$s \mapsto (1, 1, 1, 1)$
-$m \mapsto (1, 1, 0, 1)$
-$c \mapsto  (1, 0, 1, 1)$
+$S \mapsto (1, 0, 0, 1)$  
+$s \mapsto (1, 1, 1, 1)$  
+$m \mapsto (1, 1, 0, 1)$  
+$c \mapsto  (1, 0, 1, 1)$  
 
 ###### For Declaring Types
 
-$S \mapsto (1, 1, 1, 1)$
-$s \mapsto (1, 0, 0, 1)$
-$m \mapsto (1, 0, 1, 1)$
-$c \mapsto  (1, 1, 0, 1)$
+$S \mapsto (1, 1, 1, 1)$  
+$s \mapsto (1, 0, 0, 1)$  
+$m \mapsto (1, 0, 1, 1)$  
+$c \mapsto  (1, 1, 0, 1)$  
 
 
 ## 7.3. Kindred Business HEF ($\mathcal{D}_{3}$)
 ### 7.3.1. Generators Used: (E, I, S, P)
 #### $I_{\mathcal{D}_{3}}$ (Displacement)
 
-$e \mapsto (0, 0, 0, 0)$
-$g \mapsto (0, 1, 1, 0)$
-$h \mapsto (1, 1, 0, 0)$
-$i \mapsto (1, 0, 1, 0)$
+$e \mapsto (0, 0, 0, 0)$  
+$g \mapsto (0, 1, 1, 0)$  
+$h \mapsto (1, 1, 0, 0)$  
+$i \mapsto (1, 0, 1, 0)$  
 
 #### $r I_{\mathcal{D}_{3}}$ ($\mathcal{P}_{3} =$ Temperament)
 ##### Extroversion/Introversion
 ###### For Extroverted Types
 
-$a \mapsto  (0, 1, 1, 1)$
-$q \mapsto  (0, 0, 0, 1)$
-$S \mapsto (1, 1, 0, 1)$
-$s \mapsto (1, 0, 1, 1)$
+$a \mapsto  (0, 1, 1, 1)$  
+$q \mapsto  (0, 0, 0, 1)$  
+$S \mapsto (1, 1, 0, 1)$  
+$s \mapsto (1, 0, 1, 1)$  
 
 ###### For Introverted Types
 
-$a \mapsto  (0, 0, 0, 1)$
-$q \mapsto  (0, 1, 1, 1)$
+$a \mapsto  (0, 0, 0, 1)$  
+$q \mapsto  (0, 1, 1, 1)$ 
 $S \mapsto (1, 0, 1, 1)$
 $s \mapsto (1, 1, 0, 1)$
 
