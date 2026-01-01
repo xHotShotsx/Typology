@@ -337,12 +337,12 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 
 **#9:** $V_{3} \cap D_{1} \cap D_{3}$
 **#14:** $V_{3} \cap A_{1} \cap A_{3}$
-**#19:** $$
-**#20:**
+**#19:** $V_{3} \cap D_{2} \cap D_{4}$
+**#20:** $V_{3} \cap A_{2} \cap A_{4}$
 
 ### Asking/Declaring Class $V_{4}$
 
-**#1:**
+**#1:** 
 **#2:**
 **#5:**
 **#6:**
