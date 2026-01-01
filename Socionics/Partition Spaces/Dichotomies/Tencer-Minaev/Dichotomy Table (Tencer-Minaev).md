@@ -330,41 +330,41 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 # Classes of Tetrachotomies
 ## Orbital Class $\mathcal{O}$
 
-**#3:** $V_{2} \cap V_{3} \cap V_{4} = V =$ "Vector" Tetrachotomy
-**#4:** $V_{4} \cap C_{1} \cap C_{4}$
-**#7:** $V_{4} \cap C_{2} \cap C_{3}$
-**#21:** $V_{3} \cap C_{1} \cap C_{3} = Z =$ "Central" Tetrachotomy 
-**#22:** $V_{3} \cap C_{2} \cap C_{4}$
-**#30:** $V_{2} \cap C_{1} \cap C_{2} = G =$ "General" Tetrachotomy 
-**#31:** $V_{2} \cap C_{3} \cap C_{4}$
+**#3:** $V_{2} \cap V_{3} \cap V_{4} = V =$ "Vector" Tetrachotomy  
+**#4:** $V_{4} \cap C_{1} \cap C_{4}$  
+**#7:** $V_{4} \cap C_{2} \cap C_{3}$  
+**#21:** $V_{3} \cap C_{1} \cap C_{3} = Z =$ "Central" Tetrachotomy   
+**#22:** $V_{3} \cap C_{2} \cap C_{4}$  
+**#30:** $V_{2} \cap C_{1} \cap C_{2} = G =$ "General" Tetrachotomy   
+**#31:** $V_{2} \cap C_{3} \cap C_{4}$  
 
 ## Non-Orbital Classes $\overline{\mathcal{O}}$
 ### Static/Dynamic Class $V_{2}$
 
-**#11:** $V_{2} \cap D_{1} \cap D_{2}$
-**#16:** $V_{2} \cap A_{1} \cap A_{2}$
-**#24:** $V_{2} \cap D_{3} \cap D_{4}$
-**#27:** $V_{2} \cap A_{3} \cap A_{4}$
+**#11:** $V_{2} \cap D_{1} \cap D_{2}$  
+**#16:** $V_{2} \cap A_{1} \cap A_{2}$  
+**#24:** $V_{2} \cap D_{3} \cap D_{4}$  
+**#27:** $V_{2} \cap A_{3} \cap A_{4}$  
 
 ### Democratic/Aristocratic Class $V_{3}$
 
-**#9:** $V_{3} \cap D_{1} \cap D_{3}$
-**#14:** $V_{3} \cap A_{1} \cap A_{3}$
-**#19:** $V_{3} \cap D_{2} \cap D_{4}$
-**#20:** $V_{3} \cap A_{2} \cap A_{4}$
+**#9:** $V_{3} \cap D_{1} \cap D_{3}$  
+**#14:** $V_{3} \cap A_{1} \cap A_{3}$  
+**#19:** $V_{3} \cap D_{2} \cap D_{4}$  
+**#20:** $V_{3} \cap A_{2} \cap A_{4}$  
 
 ### Asking/Declaring Class $V_{4}$
 
-**#1:** $V_{4} \cap D_{1} \cap D_{4}$
-**#2:** $V_{4} \cap A_{1} \cap A_{4}$
-**#5:** $V_{4} \cap D_{2} \cap D_{3}$
-**#6:** $V_{4} \cap A_{2} \cap A_{3}$
+**#1:** $V_{4} \cap D_{1} \cap D_{4}$  
+**#2:** $V_{4} \cap A_{1} \cap A_{4}$  
+**#5:** $V_{4} \cap D_{2} \cap D_{3}$  
+**#6:** $V_{4} \cap A_{2} \cap A_{3}$  
 
 ### Irrational/Rational Class $C_1$
 
-**#8:** $A_{1} \cap D_{1} \cap C_{1}$
-**#23:** $A_{4} \cap D_{4} \cap C_{1}$
-**#32:** $A_{3} \cap D_{3} \cap C_{1}$
+**#8:** $A_{1} \cap D_{1} \cap C_{1}$  
+**#23:** $A_{4} \cap D_{4} \cap C_{1}$  
+**#32:** $A_{3} \cap D_{3} \cap C_{1}$  
 **#33:** $A_{2} \cap D_{2} \cap C_{1}$
 
 ### Extroverted/Introverted Class $C_{2}$
