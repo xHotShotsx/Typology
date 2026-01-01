@@ -11,7 +11,6 @@
     </tr>
   </thead>
   <tbody>
-  
     <tr>
       <td rowspan="6"><b>1</b></td>
       <td rowspan="2"><b>Dimension (Irrational) / Stimulus Seeking / Immersed In</b></td>
