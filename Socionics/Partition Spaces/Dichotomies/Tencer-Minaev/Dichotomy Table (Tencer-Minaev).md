@@ -140,12 +140,7 @@ The binary operation: $$ \star : \mathcal{N} \times \mathcal{N} \longrightarrow 
 
 #### Axioms Written as an Operation
 
-$$x \star y = \begin{cases}
-X_{1} \quad \text{if } x = y, \\
-X_{2} \quad \text{if } x = X_{1} \text{ and } y = X_{4}, \\
-X_{3} \quad \text{if } x = X_{2} \text{ and } y = X_{4}, \\
-X_{4} \quad \text{if } x = X_{2} \text{ and } y = X_{3}. 
-\end{cases} $$
+$$x \star y = \begin{cases} X_{1} \quad \text{if } x = y, \\ X_{2} \quad \text{if } x = X_{1} \text{ and } y = X_{4}, \\ X_{3} \quad \text{if } x = X_{2} \text{ and } y = X_{4}, \\ X_{4} \quad \text{if } x = X_{2} \text{ and } y = X_{3}. \end{cases} $$
 
 ## Cayley Table for $\mathcal{D}_{14}$
 
@@ -176,10 +171,16 @@ Since $V_{1}$ is not a dichotomy (proper), the sets that are derived from it are
 
 ## Notation
 
-A dichotomy is a partition: $$\mathfrak{d} = \{ \mathfrak{d}_{0}, \mathfrak{d}_{1} \}, \quad \mathfrak{d}_{0} \sqcup \mathfrak{d}_{1} = T$$with the dichotomy function: $$ \mathfrak{d} : T \to \mathbb{Z}_{2} $$by
-$$ \mathfrak{d}(t) := \begin{cases}
-0, \quad \text{if } t \in \mathfrak{d}_{0}, \\
-1, \quad \text{if } t \in \mathfrak{d}_{1}. 
+A dichotomy is a partition: 
+
+$$\mathfrak{d} = \{ \mathfrak{d}_{0}, \mathfrak{d}_{1} \}, \quad \mathfrak{d}_{0} \sqcup \mathfrak{d}_{1} = T$$
+
+with the dichotomy function: 
+
+$$ \mathfrak{d} : T \to \mathbb{Z}_{2} $$
+
+by
+$$ \mathfrak{d}(t) := \begin{cases} 0, \quad \text{if } t \in \mathfrak{d}_{0}, \\ 1, \quad \text{if } t \in \mathfrak{d}_{1}. 
 \end{cases} $$
 
 We fix the sociotype ILE as the reference element and identify it with the zero vector. Accordingly, for every dichotomy $\mathfrak{d}$, the assignment of values for $0$ and $1$ is chosen so that $\mathfrak{d}(\mathrm{ILE}) = 0$. All trait values and vector representations are therefore understood relative to this basepoint. Under this convention, every type $t \in T$ is represented by a binary vector encoding its deviation from the ILE across the fixed dichotomy system.
