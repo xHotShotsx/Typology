@@ -364,8 +364,8 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 ### Process/Result Class $C_{3}$
 
 **#12:** $A_{3} \cap D_{1} \cap C_{3}$
-**#17:** $$
-**#26:**
+**#17:** $A_{1} \cap D_{3} \cap C_{3}$
+**#26:** $A_{2} \cap D_{4} \cap C_{3}$
 **#29:**
 
 ### Positivist/Negativist Class $C_{4}$
