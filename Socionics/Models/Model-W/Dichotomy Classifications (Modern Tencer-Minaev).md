@@ -325,7 +325,8 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 **#30:** $V_{2} \cap C_{1} \cap C_{2} = G =$ "General" Tetrachotomy 
 **#31:** $V_{2} \cap C_{3} \cap C_{4}$
 
-## Non-Orbital Classes $\overline{O}$
+## Non-Orbital Classes $\overline{\mathcal{O}}$
+### 
 
 # Additional Note
 
