@@ -318,7 +318,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 ## Orbital Class $\mathcal{O}$
 
 **#3:** $V_{2} \cap V_{3} \cap V_{4} = V =$ "Vector" Tetrachotomy
-**#4:** $V_{4} \cap C_{1} \cap C_{2}$
+**#4:** $V_{4} \cap C_{1} \cap C_{4}$
 **#7:** $V_{4} \cap C_{2} \cap C_{3}$
 **#21:** $V_{3} \cap C_{1} \cap C_{3} = Z =$ "Central" Tetrachotomy 
 **#22:** $V_{3} \cap C_{2} \cap C_{4}$
