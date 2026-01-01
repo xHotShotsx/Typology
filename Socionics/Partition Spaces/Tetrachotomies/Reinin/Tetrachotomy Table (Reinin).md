@@ -1,5 +1,5 @@
 <div style="overflow-x:auto;">
-<table>
+<table style="width:100%; border-collapse:collapse;" class="tetra">
   <thead>
     <tr>
       <th>#</th>
