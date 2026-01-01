@@ -34,11 +34,6 @@ $\mathcal{W}$ denotes the global collection of all wall (non-orbital) dichotomie
 
 ### 2.1.1. Elements of $\mathbb{S}$
 
-<dl>
-	<dt><code>e</code><dt><dd>identity, or identical</dd>
-</dl>
-
-
 $e \quad$  identity, or identical
 $d \quad$  dual
 $a \quad$ activator
