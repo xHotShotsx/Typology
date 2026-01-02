@@ -1267,7 +1267,9 @@ $CD(\mathbb{S})$ generates the orbital dichotomies. Alternatively, any subgroup 
 
 $CD(\langle e,g,x,d,m,c,a,q \rangle)$ generates the Reinin dichotomies.
 
-$CD(\langle  \rangle)$
+$CD(\langle e,g,x,d,h,i,k,l \rangle)$ generates the Tencer-Minaev dichotomies.
+
+$CD(<e,g,x,d)$
 
 # References
 
