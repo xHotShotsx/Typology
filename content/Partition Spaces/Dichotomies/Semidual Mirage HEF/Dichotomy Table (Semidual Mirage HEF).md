@@ -28,7 +28,7 @@ ES - EIE+ESI HEF / LII+LSE HEF
 
 EP - Static/Dynamic
 
-LS - Positivist/Negativist
+SP - Positivist/Negativist
 
 LP - LII+EIE HEF / ESI+LSE HEF
 
