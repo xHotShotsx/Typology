@@ -1263,7 +1263,7 @@ SIP - {ILE SEI SEE ILI} XAND {ESE LII LIE ESI
 
 # Using the functor $CD$ to generate the 16 Spaces and 15 Waffle Spaces
 
-
+$CD(\mathbb{S})$ generates the orbital dichotomies. Alternatively, any subgroup of $\mathbbS$
 
 # References
 
