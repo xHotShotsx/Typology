@@ -2590,3 +2590,16 @@ table td {
 .symbol {
   vertical-align: middle;
 }
+
+/* hide right sidebar */
+aside.right, 
+.sidebar.right,
+#right-sidebar,
+.page-sidebar.right {
+  display: none !important;
+}
+
+/* expand main content */
+main, .page, .content, .center, .layout {
+  max-width: none !important;
+}
