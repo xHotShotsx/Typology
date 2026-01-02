@@ -2580,3 +2580,13 @@ td:has(> .cell-delta) {
 .callout[data-callout="octad-d"] {
     color: skyblue !important;
 }
+
+table td {
+  vertical-align: top;
+  line-height: 1.4;
+}
+
+.katex,
+.symbol {
+  vertical-align: middle;
+}
