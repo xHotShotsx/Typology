@@ -59,7 +59,7 @@ $CD(\langle e,g,x,d \rangle = Z(\mathbb{S}))$ generates the Reinin dichotomies, 
 
 $CD(\langle e,g,h,i \rangle)$ generates the Tencer-Minaev dichotomies, Semidual Mirage HEF dichotomies, and the A waffles.
 
-$CD$
+$CD(\langle e,g,k,l \rangle)$ generates the Tencer-Minaev dichotomies, Semidual Mirage HEF dichotomies
 
 
 # Further Reading
