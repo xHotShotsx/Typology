@@ -44,7 +44,23 @@ B Space — System 3
 ङ Space — System 10  
 च Space — System 11  
 घ Space — System 13  
-ज Space — System 16  
+ज Space — System 16
+
+
+# Using the functor $CD$ to generate the 16 Spaces and 15 Waffle Spaces
+
+$CD(\mathbb{S})$ generates the orbital dichotomies. Alternatively, any subgroup of $\mathbb{S}$ of order 8 also generates the orbital dichotomies.
+
+$CD(\langle e,g,x,d,m,c,a,q \rangle)$ generates the Reinin dichotomies.
+
+$CD(\langle e,g,x,d,h,i,k,l \rangle)$ generates the Tencer-Minaev dichotomies.
+
+$CD(\langle e,g,x,d \rangle = Z(\mathbb{S}))$ generates the Reinin dichotomies, the Tencer-Minaev dichotomies, and the X waffles.
+
+$CD(\langle e,g,h,i \rangle)$ generates the Tencer-Minaev dichotomies, Semidual Mirage HEF dichotomies, and the A waffles.
+
+$CD$
+
 
 # Further Reading
 
