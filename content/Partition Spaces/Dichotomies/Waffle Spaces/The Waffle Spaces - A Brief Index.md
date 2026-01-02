@@ -65,7 +65,7 @@ $CD(\langle e,g,c,m \rangle)$ generates the Reinin dichotomies, Quasi Identity A
 
 $CD(\langle e,g,a,q \rangle)$ generates the Reinin dichotomies, Mirror Conflict HEF dichotomies, and the Δ waffles.
 
-$CD(\langle e,g \rangle)$ generates all 126
+$CD(\langle e,g \rangle)$ generates all orbital-respecting 16 dichotomy spaces, and all 15 bilinear waffle spaces.
 
 # Further Reading
 
