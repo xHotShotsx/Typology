@@ -30,23 +30,23 @@ EP - Static/Dynamic
 
 XX - Extroverted/Introverted 
 
-LP - LII+EIE HEF / ESI+LSE HEF
+LP - 
 
-SP - ILE+IEI HEF / SEE+SLI HEF
+SP - 
 
 ### 3rd order dichotomy
 
 ELS - Democratic/Aristocratic
 
-ELP - SEI+IEE HEF / SLE+ILI HEF
+ELP - 
 
-ESP - ESE+EII HEF / LSI+LIE HEF
+ESP - 
 
 LSP - Asking/Declaring
 
 ### 4th order dichotomy
 
-ELSP - Process/Result
+XXXX - Static/Dynamic
 
 ## Mirage HEF Dichotomies (System 2)
 
