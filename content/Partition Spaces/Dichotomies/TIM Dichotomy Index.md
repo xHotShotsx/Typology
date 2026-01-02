@@ -1260,7 +1260,10 @@ EIP - {LIE IEE EIE ILE} XAND {ESI SEI IEI LSI}
 
 SIP - {ILE SEI SEE ILI} XAND {ESE LII LIE ESI
 
-  
+
+# Using the functor $CD$ to generate the 16 Spaces and 15 Waffle Spaces
+
+
 
 # References
 
