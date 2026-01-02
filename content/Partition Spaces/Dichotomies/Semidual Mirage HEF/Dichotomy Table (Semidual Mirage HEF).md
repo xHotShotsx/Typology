@@ -14,11 +14,11 @@ $\emptyset$ = Valid/Null
 
 X - 
 
-L - LIE+EII HEF / ESE+LSI HEF
+L - 
 
-S - SEI+SLE HEF / ILI+IEE HEF
+S - 
 
-E - 
+P - 
 
 ### 2nd order dichotomy
 
