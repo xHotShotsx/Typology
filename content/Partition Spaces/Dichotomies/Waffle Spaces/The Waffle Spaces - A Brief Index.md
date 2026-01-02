@@ -63,7 +63,9 @@ $CD(\langle e,g,k,l \rangle)$ generates the Tencer-Minaev dichotomies, Semidual 
 
 $CD(\langle e,g,c,m \rangle)$ generates the Reinin dichotomies, Quasi Identity Activation HEF dichotomies, and the Γ waffles.
 
-$CD(\langle e,g,a,q \rangle)$ generates the Reinin dichotomies, 
+$CD(\langle e,g,a,q \rangle)$ generates the Reinin dichotomies, Mirror Conflict HEF dichotomies, and the Δ waffles.
+
+$CD(\langle e,g \rangle)$ generates all 126
 
 # Further Reading
 
