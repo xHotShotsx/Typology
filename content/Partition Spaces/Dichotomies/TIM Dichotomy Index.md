@@ -1263,7 +1263,11 @@ SIP - {ILE SEI SEE ILI} XAND {ESE LII LIE ESI
 
 # Using the functor $CD$ to generate the 16 Spaces and 15 Waffle Spaces
 
-$CD(\mathbb{S})$ generates the orbital dichotomies. Alternatively, any subgroup of $\mathbbS$
+$CD(\mathbb{S})$ generates the orbital dichotomies. Alternatively, any subgroup of $\mathbb{S}$ of order 8 also generates the orbital dichotomies.
+
+$CD(\langle e,g,x,d,m,c,a,q \rangle)$ generates the Reinin dichotomies.
+
+$CD(\langle  \rangle)$
 
 # References
 
