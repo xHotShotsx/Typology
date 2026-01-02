@@ -135,6 +135,7 @@ $$\Theta_{i}(v \cdot t) = \rho_{i}(v)(\Theta_{i}(t)), \quad \forall v \in \mathb
 When this holds, the type-level transformations and the functional-layout transformations are isomorphic; applying a relation has the same effect as applying it to the layout itself. The action of $\mathbf{V}_{i}$ on types is abstract, since types are equivalence classes of trait configurations, whereas its action on set models is concrete, since it directly permutes positions or values in $X_i$.
 
 For example, in Model L, applying the operator $A_{3}$ to the type ILE permutes the elements in the subgroup
+
 $$\{A_{1}, A_{3}\} \subseteq \mathbf{V}_{15},$$
 
 together with all of its cosets in the $\mathbf{V}_{15}$-space, meaning that the new identity becomes $A_3(\text{ILE}) = \text{ILI}$ and all of the intertype relations transform accordingly by left multiplication with $A_{3}$.
