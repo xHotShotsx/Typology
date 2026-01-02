@@ -1261,18 +1261,6 @@ EIP - {LIE IEE EIE ILE} XAND {ESI SEI IEI LSI}
 SIP - {ILE SEI SEE ILI} XAND {ESE LII LIE ESI
 
 
-# Using the functor $CD$ to generate the 16 Spaces and 15 Waffle Spaces
-
-$CD(\mathbb{S})$ generates the orbital dichotomies. Alternatively, any subgroup of $\mathbb{S}$ of order 8 also generates the orbital dichotomies.
-
-$CD(\langle e,g,x,d,m,c,a,q \rangle)$ generates the Reinin dichotomies.
-
-$CD(\langle e,g,x,d,h,i,k,l \rangle)$ generates the Tencer-Minaev dichotomies.
-
-$CD(\langle e,g,x,d \rangle = Z(\mathbb{S}))$ generates the Reinin dichotomies, the Tencer-Minaev dichotomies, and the X waffles.
-
-$$
-
 # References
 
 1. [https://www.wikisocion.net/en/index.php/Reinin_dichotomies](https://www.wikisocion.net/en/index.php/Reinin_dichotomies)
