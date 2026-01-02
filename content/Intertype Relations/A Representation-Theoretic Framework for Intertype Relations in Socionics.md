@@ -111,7 +111,7 @@ For the cohomology of classical ITRs, we first define:
 
 $$\mathbf{V}_{i} := \text{the vector space } \mathbb{Z}^4_{2} \text{ associated with a dichotomy system } \mathcal{D}_{i},$$
 
-and $H^1(G, A)$   where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is nonabelian, we define an induced homomorphism. If the dichotomy action on classical relations is defined by the homomorphism $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$  , the induced action on dichotomy vectors is given by the homomorphism $\psi : \mathcal{D}_{i} \to \text{Aut}(\mathbf{V}_{i})$  , where a system of dichotomies acts on the automorphisms of the vector space $\mathbf{V}_i$ constructed from a dichotomy system $\mathcal{D}_i$. Because $\mathbb{S}$ does not admit a regular, faithful action compatible with all dichotomy systems, we instead work with the induced vector space $\mathbf{V}_{i}$, which captures only the dichotomy-relevant degrees of freedom. 
+and $H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is nonabelian, we define an induced homomorphism. If the dichotomy action on classical relations is defined by the homomorphism $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the induced action on dichotomy vectors is given by the homomorphism $\psi : \mathcal{D}_{i} \to \text{Aut}(\mathbf{V}_{i})$, where a system of dichotomies acts on the automorphisms of the vector space $\mathbf{V}_i$ constructed from a dichotomy system $\mathcal{D}_i$. Because $\mathbb{S}$ does not admit a regular, faithful action compatible with all dichotomy systems, we instead work with the induced vector space $\mathbf{V}_{i}$, which captures only the dichotomy-relevant degrees of freedom. 
 
 
 # 5. $E_{16}$-Set Models
@@ -139,9 +139,9 @@ $$\{A_{1}, A_{3}\} \subseteq \mathbf{V}_{15},$$
 
 together with all of its cosets in the $\mathbf{V}_{15}$-space, meaning that the new identity becomes $A_3(\text{ILE}) = \text{ILI}$ and all of the intertype relations transform accordingly by left multiplication with $A_{3}$.
 
-Under the equivariant bijection $\Theta_{15}$, this corresponds exactly to the same permutation acting on the ILE's functional layout: the functions occupying positions inside that subgroup (and their associated cosets) are swapped in the set model by the action $\rho_{15}(A_{3})$  . Thus, 
+Under the equivariant bijection $\Theta_{15}$, this corresponds exactly to the same permutation acting on the ILE's functional layout: the functions occupying positions inside that subgroup (and their associated cosets) are swapped in the set model by the action $\rho_{15}(A_{3})$. Thus, 
 
-$$A_{3} \cdot t \quad \text{and} \quad \rho_{15}(A_{3}) \cdot L_{15}(t)$  $
+$$A_{3} \cdot t \quad \text{and} \quad \rho_{15}(A_{3}) \cdot L_{15}(t)$$
 
 implement the same transformation in two different representations of the same underlying structure.
 
@@ -180,7 +180,7 @@ where $\mathfrak{D}_i(t) \in \{0, 1\}$ is the trait value of $t$ on the $i$-th d
 
 We fix $t_0 = \text{ILE}$ as the zero vector, so that: 
 
-$$\chi(t_{0}) = (0, 0, 0, 0)$  $
+$$\chi(t_{0}) = (0, 0, 0, 0)$$
 
 then for any other type $t$ the selector bit vector is defined by
 
