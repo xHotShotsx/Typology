@@ -1269,7 +1269,9 @@ $CD(\langle e,g,x,d,m,c,a,q \rangle)$ generates the Reinin dichotomies.
 
 $CD(\langle e,g,x,d,h,i,k,l \rangle)$ generates the Tencer-Minaev dichotomies.
 
-$CD(<e,g,x,d)$
+$CD(\langle e,g,x,d \rangle = Z(\mathbb{S}))$ generates the Reinin dichotomies, the Tencer-Minaev dichotomies, and the X waffles.
+
+$$
 
 # References
 
