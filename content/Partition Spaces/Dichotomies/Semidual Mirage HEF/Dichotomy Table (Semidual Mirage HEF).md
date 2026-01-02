@@ -18,7 +18,7 @@ L -
 
 S - 
 
-P - 
+P - Positivist/Negativist
 
 ### 2nd order dichotomy
 
@@ -28,7 +28,7 @@ ES - EIE+ESI HEF / LII+LSE HEF
 
 EP - Static/Dynamic
 
-SP - Positivist/Negativist
+XX - Extroverted/Introverted 
 
 LP - LII+EIE HEF / ESI+LSE HEF
 
