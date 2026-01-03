@@ -69,7 +69,7 @@ $S = \{ V_{2}, V_{4}, C_{2}, C_{4} \}$
 
 ### Orientation Set
 
-$O=$
+$O = \{ V_1, V_ \}$
 
 ### Orbital / Ordinal Set - $(V \cup C) \in \mathcal{O}$
 
