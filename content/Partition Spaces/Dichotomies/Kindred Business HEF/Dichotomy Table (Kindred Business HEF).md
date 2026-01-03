@@ -17,7 +17,9 @@ U: 3 --> 1, 4 --> 3 then 3 --> 4,
 Bottom left: CLEAR! Then:
 
 1 --> 2
-2 --> 
+2 --> 4
+3 --> 3
+4 -0-
 
 Top right: CLEAR! Then:
 
