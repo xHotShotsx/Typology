@@ -19,7 +19,9 @@ Bottom left: CLEAR! Then:
 1 --> 2
 2 --> 4
 3 --> 3
-4 -0-
+4 --> 1
 
 Top right: CLEAR! Then:
 
+1 --> 2
+2 --> 1
