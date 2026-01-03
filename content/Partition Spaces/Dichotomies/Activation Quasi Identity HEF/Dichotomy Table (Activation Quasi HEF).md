@@ -5,22 +5,3 @@
 |     |                    <span class="cell-vector"> $O$<br><br>Orientation Dichotomy<br><span style="text-align:left; display:block;"><br>1. Valid / Null<br>2. Extroverted / Introverted<br>3. Democratic / Aristocratic<br>4. Positivist / Negativist<br></span>                    | <span class="cell-aristocratic"> $DA$<br><br>Dem Activation Dichotomy<br><span style="text-align:left; display:block;"><br>1. SEI+LII HEF / ILI+ESI HEF<br>2. EIE+IEE HEF HEF / SLE+LSE HEF<br>3. ILE+ESE HEF / SEE+LIE HEF<br>4. IEI+EII HEF / LSI+SLI HEF<br></span><br></span> |
 |     | <span class="cell-democratic"> $DQ$<br><br>Dem Quasi Identity Dichotomy<br><span style="text-align:left; display:block;"><br>1. ILE+LIE HEF / ESE+SEE HEF<br>2. EII+SLI HEF / LSI+IEI HEF<br>3. SEI+ESI HEF / LII+ILI HEF<br>4. EIE+SLE HEF / LSE+IEE HEF<br></span><br></span> |                       <span class="cell-converse"> $P$<br><br>Pivotal Dichotomy<br><span style="text-align:left; display:block;"><br>1. Irrational / Rational<br>2. Static / Dynamic<br>3. Process / Result<br>4. Asking / Declaring<br></span><br></span>                        |
 
-
-
-G: 2 --> 3 --> 4 --> 2
-
-U: 3 --> 1 then 1 --> 3, 4 --> 3 then 3 --> 4,  
-
-Bottom left: CLEAR! Then:
-
-1 --> 2
-2 --> 4
-3 --> 3
-4 --> 1
-
-Top right: CLEAR! Then:
-
-1 --> 3
-2 --> 1
-3 --> 2
-4 --> 4
