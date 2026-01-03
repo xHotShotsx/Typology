@@ -12,7 +12,7 @@
 $\emptyset$ = Valid/Null
 ### 1st order dichotomy
 
-X - 
+E - 
 
 I - 
 
