@@ -69,7 +69,12 @@ $S = \{ V_{2}, V_{4}, C_{2}, C_{4} \}$
 
 ### Displacement Set
 
-$\Delta = \{ V_1, C_1, \}$
+$\Delta = \{ V_1, V_4, C_1, C_4 \}$
+
+
+### Extrapolative Set
+
+$E = \{ V_1, V\}$
 ### Orientation Set
 
 $O = \{ V_1, V_3, C_2, C_4 \}$
