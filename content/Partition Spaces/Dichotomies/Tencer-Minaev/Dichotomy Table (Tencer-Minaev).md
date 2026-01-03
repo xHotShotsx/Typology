@@ -74,7 +74,9 @@ $\Delta = \{ V_1, V_4, C_1, C_4 \}$
 
 ### Extrapolative Set
 
-$E = \{ V_1, V\}$
+$E = \{ V_2, V_3, C_2, C_3 \}$
+
+
 ### Orientation Set
 
 $O = \{ V_1, V_3, C_2, C_4 \}$
