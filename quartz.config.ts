@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-GB",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "socionarchive.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
