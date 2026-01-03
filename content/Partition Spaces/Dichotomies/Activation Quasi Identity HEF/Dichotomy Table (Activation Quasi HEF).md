@@ -6,6 +6,23 @@
 |     | <span class="cell-democratic"> $DA$<br><br>Dem Activation Dichotomy<br><span style="text-align:left; display:block;"><br>1. IEI+EII HEF / LSI+SLI HEF<br>2. EIE+IEE HEF / SLE+LSE HEF<br>3. SEI+LII HEF / ILI+ESI HEF<br>4. ILE+ESE HEF / SEE+LIE HEF<br></span><br></span> |                        <span class="cell-converse"> $P$<br><br>Pivotal Dichotomy<br><span style="text-align:left; display:block;"><br>1. Asking / Declaring<br>2. Static / Dynamic<br>3. Irrational / Rational<br>4. Process / Result<br></span><br></span>                         |
 
 
+G: 2 --> 3 --> 4 --> 2
+
+U: 3 --> 1, 4 --> 3 then 3 --> 4,  
+
+Bottom left: CLEAR! Then:
+
+1 --> 2
+2 --> 4
+3 --> 3
+4 --> 1
+
+Top right: CLEAR! Then:
+
+1 --> 3
+2 --> 1
+3 --> 2
+4 --> 4
 
 # 1st order dichotomy
 
