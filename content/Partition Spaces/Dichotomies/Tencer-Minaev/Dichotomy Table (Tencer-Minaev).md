@@ -69,8 +69,12 @@ $S = \{ V_{2}, V_{4}, C_{2}, C_{4} \}$
 
 ### Orientation Set
 
-$O = \{ V_1, V_ \}$
+$O = \{ V_1, V_3, C_2, C_4 \}$
 
+
+### Pivotal Set
+
+$P = \set{}$
 ### Orbital / Ordinal Set - $(V \cup C) \in \mathcal{O}$
 
 $\mathcal{O} = \{V_{1}, V_{2}, V_{3}, V_{4}, C_{1}, C_{2}, C_{3}, C_{4}\}$
