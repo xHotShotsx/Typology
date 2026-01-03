@@ -14,6 +14,9 @@ G: 2 --> 3 --> 4 --> 2
 
 U: 3 --> 1, 4 --> 3 then 3 --> 4,  
 
-Bottom right: CLEAR! 
+Bottom left: CLEAR! Then:
 
-Top left CLEAR
+1 -->  
+
+Top right: CLEAR! Then:
+
