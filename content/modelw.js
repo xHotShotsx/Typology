@@ -25,6 +25,8 @@ const GEN_TO_CELLS = {
 
   function applyGen(gen) {
     const grid = document.getElementById("modelw");
+    document.querySelectorAll(".dichotomy-picker button")
+  .forEach(b => b.classList.toggle("is-selected", b.dataset.gen === gen));
     if (!grid) return;
 
     clearHighlights(grid);
