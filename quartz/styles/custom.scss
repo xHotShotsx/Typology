@@ -104,7 +104,7 @@ table.tetra th, table.tetra td {
 
 #modelw .cell.is-active {
   background: rgba(120, 63, 4, 0.18) !important;
-  outline: 1px solid rgba(120, 63, 4, 0.45) !important;
+  outline: none !important;
 }
 
 #modelw[data-active-gen^="V"] .cell.is-active {
