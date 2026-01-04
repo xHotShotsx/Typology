@@ -130,4 +130,4 @@
   <div class="spacer"><br><small></small></div>
 </div>
 
-<script scr="/modelw.js"></script>
+<script src="/modelw.js" defer></script>
