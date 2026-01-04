@@ -311,19 +311,19 @@ td:has(> .cell-delta) {
 }
 
 .callout[data-callout="octad-v"] {
-    color: green !important;
+    --callout-color: green !important; 
 }
 
 .callout[data-callout="octad-c"] {
-    color: orange !important;
+    --callout-color: orange !important;
 }
 
 .callout[data-callout="octad-a"] {
-    color: red !important;
+    --callout-color: red !important;
 }
 
 .callout[data-callout="octad-d"] {
-    color: skyblue !important;
+    --callout-color: skyblue !important;
 }
 
 table td {
