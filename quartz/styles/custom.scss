@@ -123,6 +123,39 @@ table.tetra th, table.tetra td {
   background: #073767 !important; 
 }
 
+.dichotomy-picker button {
+  background: transparent;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+.dichotomy-picker button {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.dichotomy-picker button:hover {
+  opacity: 0.75;
+}
+
+.dichotomy-picker button:active {
+  opacity: 0.6;
+}
+
+.dichotomy-picker button:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 2px;
+}
+
+.dichotomy-picker button.is-selected {
+  font-weight: 600;
+  text-decoration: none;
+}
+
 .spacer {
     border: none;
     background: transparent;
