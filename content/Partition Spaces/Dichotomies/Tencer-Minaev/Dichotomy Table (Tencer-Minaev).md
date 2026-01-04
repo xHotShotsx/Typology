@@ -279,7 +279,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 
 ## Wall / Cardinal / Non-Orbital Octads ($W_{14}$)
 > [!octad-a]
-> Aristocratic Octads ($A$)
+> ### Aristocratic Octads ($A$)
 > 
 > #### 1stInternal / 1stExternal ($A_1$)
 >
@@ -314,7 +314,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $A_{4,1}^{\mathcal{E}} = \{ \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$  
 
 > [!octad-d]
-> Democratic Octads ($D$)
+> ### Democratic Octads ($D$)
 > 
 > #### 1stAbstract / 1stInvolved ($D_1$)
 >
