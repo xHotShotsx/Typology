@@ -24,7 +24,7 @@ const GEN_TO_CELLS = {
   }
 
   function applyGen(gen) {
-    const grid = document.getElementById("modelW");
+    const grid = document.getElementById("modelw");
     if (!grid) return;
 
     clearHighlights(grid);
