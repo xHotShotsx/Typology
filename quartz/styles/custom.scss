@@ -292,7 +292,7 @@ td:has(> .cell-beta) {
 
 table th:has(> .cell-gamma),
 td:has(> .cell-gamma) {
-    background-color: #391802 !important;
+    background-color: orange !important;
 }
 
 table th:has(> .cell-delta),
@@ -311,19 +311,23 @@ td:has(> .cell-delta) {
 }
 
 .callout[data-callout="octad-v"] {
-    --callout-color: green !important; 
+    background: green !important;
+    border-left-color: green !important;
 }
 
 .callout[data-callout="octad-c"] {
-    --callout-color: orange !important;
+    background: orange !important;
+    border-left-color: orange !important;
 }
 
 .callout[data-callout="octad-a"] {
-    --callout-color: red !important;
+    background: red !important;
+    border-left-color: red !important;
 }
 
 .callout[data-callout="octad-d"] {
-    --callout-color: skyblue !important;
+    background: skyblue !important;
+    border-left-color: skyblue !important;
 }
 
 table td {
