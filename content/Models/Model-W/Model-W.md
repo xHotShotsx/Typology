@@ -129,3 +129,5 @@
   <div class="cell cell-B4">B4<br><small>"Refracting"</small></div>
   <div class="spacer"><br><small></small></div>
 </div>
+
+<script scr="/script/modelw.js"></script>
