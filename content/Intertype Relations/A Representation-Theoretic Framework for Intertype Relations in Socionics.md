@@ -80,7 +80,7 @@ The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $
 
 Subgroups of order 2:
 
-$$ \begin{matrix} \text{Subgroup} & \text{Description} & norm \end{matrix} $$ 
+$$ \begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ eg & \text{Superegos} & text  \end{matrix} $$ 
 
 # 3. The Homomorphism
 
