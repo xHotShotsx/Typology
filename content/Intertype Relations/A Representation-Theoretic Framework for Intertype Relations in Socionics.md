@@ -78,11 +78,11 @@ We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the in
 
 The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$). In typical cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed as to make it more accessible to the reader.
 
-Subgroups of order 2:
+#### Subgroups of order 2:
 
 $$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ eg & \text{Superegos} & \text{True} & \mathbb{Z}_2 & \mathbb{Z}_2^3 \\ ed & \text{Duals} & \text{True} & \mathbb{Z}_2 & D_4 \\ ex & \text{Extinguishers} & \text{True} & \mathbb{Z}_2 & D_4 \\ ek & \text{Kindreds} & \text{False} & \mathbb{Z}_2 & - \\ el & \text{Lookalikes} & \text{False} & \mathbb{Z}_2 & - \\ eh & \text{Semi Duals} & \text{False} & \mathbb{Z}_2 & - \\ ei & \text{Mirages} & \text{False} & \mathbb{Z}_2 & - \\ em & \text{Mirrors} & \text{False} & \mathbb{Z}_2 & - \\ ec & \text{Conflictors} & \text{False} & \mathbb{Z}_2 & - \\ eq & \text{Quasi Identicals} & \text{False} & \mathbb{Z}_2 & - \\ ea & \text{Activators} & \text{False} & \mathbb{Z}_2 & - \\ \end{matrix}$$
 
-Subgroups of order 4:
+#### Subgroups of order 4:
 
 $$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ ebgB & \text{Benefit Ring} & \text{True} & \mathbb{Z}_4 & \mathbb{Z}_2^2 \\ esgS & \text{Supervision Ring} & \text{True} & \mathbb{Z}_4 & \mathbb{Z}_2^2 \\ \\ egxd & Z = \text{Stress Resistance} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ \\ egaq & \text{Positivity Group} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ egih & \text{Displacement} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ egkl & \text{Temperament} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ egcm & \text{Challenge Response Group} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ \\ exac & \text{Array Group} & \text{False} & \mathbb{Z}_2^2 & - \\ exqm & \text{Club} & \text{False} & \mathbb{Z}_2^2 & - \\ exik & \text{1st Faculty Same} & \text{False} & \mathbb{Z}_2^2 & - \\ exhl & \text{2nd Faculty Same} & \text{False} & \mathbb{Z}_2^2 & - \\ \\ edam & \text{Quadra} & \text{False} & \mathbb{Z}_2^2 & - \\ edqc & \text{Occupation Group} & \text{False} & \mathbb{Z}_2^2 & - \\ edil & \text{2nd Axis Same} & \text{False} & \mathbb{Z}_2^2 & - \\ edhk & \text{1st Axis Same} & \text{False} & \mathbb{Z}_2^2 & - \\ \end{matrix}$$
 
