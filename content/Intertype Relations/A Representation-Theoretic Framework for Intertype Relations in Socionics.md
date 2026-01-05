@@ -84,7 +84,7 @@ $$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{T
 
 Subgroups of order 4:
 
-$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ ebgB & \text{Benefit Ring} & \text{True} & \mathbb{Z}_4 & \mathbb{Z}_2^2 \\ esgS & \text{Supervision Ring} & \text{True} & \mathbb{Z}_4 & \mathbb{Z}_2^2 \\ \\ egxd & Z = \text{Stress Resistance} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ \\ egaq & \text{Positivity Group} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ egih  \end{matrix}$$
+$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ ebgB & \text{Benefit Ring} & \text{True} & \mathbb{Z}_4 & \mathbb{Z}_2^2 \\ esgS & \text{Supervision Ring} & \text{True} & \mathbb{Z}_4 & \mathbb{Z}_2^2 \\ \\ egxd & Z = \text{Stress Resistance} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ \\ egaq & \text{Positivity Group} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ egih & \text{Displacement} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ egkl & \text{Temperament} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\  \end{matrix}$$
 
 # 3. The Homomorphism
 
