@@ -90,15 +90,15 @@ Subgroups of order 8:
 
 $$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ egxdbBsS & \text{Process/Result} & \text{True} & \mathbb{Z}_2 \times \mathbb{Z}_4 & \mathbb{Z}_2 \\ egxdmcqa & \text{Democratic/Aristocratic} & \text{True} & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egxdhkil & \text{Irrational/Rational} & \text{True} & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egaqbBkl & \text{Extroverted/Introverted} & \text{True} & D_4 & \mathbb{Z}_2 \\ egaqsSih & \text{Positivist/Negativist} & \text{True} & D_4 & \mathbb{Z}_2 \\ egcmbBih & \text{Asking/Declaring} & \text{True} & D_4 & \mathbb{Z}_2 \\ egcmsSkl & \text{Static/Dynamic} & \text{True} & D_4 & \mathbb{Z}_2 \\ \end{matrix}$$
 
-_Lemma (Orbital Dichotomies)._ The orbital dichotomies correspond bijectively to the index-2 subgroups of $\mathbb{S}$. Each subgroup $H$ defines a canonical quotient homomorphism $\mathbb{S} \to \mathbb{Z}_2$, yielding a global, system-invariant dichotomy. In the present framew  
+_Lemma (Orbital Dichotomies)._ The orbital dichotomies correspond bijectively to the index-2 subgroups of $\mathbb{S}$. Each subgroup $H$ defines a canonical quotient homomorphism $\mathbb{S} \to \mathbb{Z}_2$, yielding a global, system-invariant dichotomy. In the present setting, there are exactly seven such subgroups, hence seven orbital dichotomies.  
 
 # 3. The Homomorphism
 
 The action of the dichotomy system on the ITR group is given by a homomorphism 
 
-$$\varphi : E_{16} \longrightarrow \text{Aut}(D_8 \times C_2).$$
+$$\varphi : E_{16} \longrightarrow \text{Aut}(D_4 \times \mathbb{Z}_2).$$
 
-In the context of Socionic structure, we regard $E_{16}$ as any dichotomy system $\mathcal{D}_{i}$, and $D_8 \times C_2$ as the ITR space $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as 
+In the context of Socionic structure, we regard $E_{16}$ as any dichotomy system $\mathcal{D}_{i}$, and $D_4 \times \mathbb{Z}_2$ as the ITR space $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as 
 
 $$\varphi : \mathcal{D}_{i} \longrightarrow \text{Aut}(\mathbb{S}),$$
 
