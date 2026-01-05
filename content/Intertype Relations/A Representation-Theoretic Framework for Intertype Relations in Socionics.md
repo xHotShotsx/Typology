@@ -88,7 +88,7 @@ $$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{T
 
 Subgroups of order 8:
 
-$$\begin{matrix} \end{matrix}$$
+$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ egxdbBsS & \text{} \end{matrix}$$
 
 # 3. The Homomorphism
 
