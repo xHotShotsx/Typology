@@ -76,7 +76,9 @@ We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the in
 
 ### 2.1.3. Subgroups of $\mathbb{S}$
 
-The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$). In typical cases, sets are expressed using commas and brac 
+The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$). In typical cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed as to make it accessible to the reader.
+
+$$ \begin{matrix} \text{Subgroup} & \text \end{matrix} $$ 
 
 # 3. The Homomorphism
 
