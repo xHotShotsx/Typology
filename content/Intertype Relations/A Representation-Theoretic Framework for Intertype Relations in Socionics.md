@@ -50,7 +50,25 @@ $b \quad$ beneficiary
 $l \quad$ business, or lookalike  
 $i \quad$ mirage, or illusory  
 
-### 2.1.2. Cayley Table of $\mathbb{S}$
+### 2.1.2. Subgroups of $\mathbb{S}$
+
+The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$). In typical cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed as to make it more accessible to the reader.
+
+#### Subgroups of order 2:
+
+$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ eg & \text{Superegos} & \text{True} & \mathbb{Z}_2 & \mathbb{Z}_2^3 \\ ed & \text{Duals} & \text{True} & \mathbb{Z}_2 & D_4 \\ ex & \text{Extinguishers} & \text{True} & \mathbb{Z}_2 & D_4 \\ ek & \text{Kindreds} & \text{False} & \mathbb{Z}_2 & - \\ el & \text{Lookalikes} & \text{False} & \mathbb{Z}_2 & - \\ eh & \text{Semi Duals} & \text{False} & \mathbb{Z}_2 & - \\ ei & \text{Mirages} & \text{False} & \mathbb{Z}_2 & - \\ em & \text{Mirrors} & \text{False} & \mathbb{Z}_2 & - \\ ec & \text{Conflictors} & \text{False} & \mathbb{Z}_2 & - \\ eq & \text{Quasi Identicals} & \text{False} & \mathbb{Z}_2 & - \\ ea & \text{Activators} & \text{False} & \mathbb{Z}_2 & - \\ \end{matrix}$$
+
+#### Subgroups of order 4:
+
+$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ ebgB & \text{Benefit Ring} & \text{True} & \mathbb{Z}_4 & \mathbb{Z}_2^2 \\ esgS & \text{Supervision Ring} & \text{True} & \mathbb{Z}_4 & \mathbb{Z}_2^2 \\ \\ egxd & Z = \text{Stress Resistance} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ \\ egaq & \text{Positivity Group} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ egih & \text{Displacement} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ egkl & \text{Temperament} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ egcm & \text{Challenge Response Group} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ \\ exac & \text{Array Group} & \text{False} & \mathbb{Z}_2^2 & - \\ exqm & \text{Club} & \text{False} & \mathbb{Z}_2^2 & - \\ exik & \text{1st Faculty Same} & \text{False} & \mathbb{Z}_2^2 & - \\ exhl & \text{2nd Faculty Same} & \text{False} & \mathbb{Z}_2^2 & - \\ \\ edam & \text{Quadra} & \text{False} & \mathbb{Z}_2^2 & - \\ edqc & \text{Occupation Group} & \text{False} & \mathbb{Z}_2^2 & - \\ edil & \text{2nd Axis Same} & \text{False} & \mathbb{Z}_2^2 & - \\ edhk & \text{1st Axis Same} & \text{False} & \mathbb{Z}_2^2 & - \\ \end{matrix}$$
+
+#### Subgroups of order 8:
+
+$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ egxdbBsS & \text{Process/Result} & \text{True} & \mathbb{Z}_2 \times \mathbb{Z}_4 & \mathbb{Z}_2 \\ egxdmcqa & \text{Democratic/Aristocratic} & \text{True} & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egxdhkil & \text{Irrational/Rational} & \text{True} & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egaqbBkl & \text{Extroverted/Introverted} & \text{True} & D_4 & \mathbb{Z}_2 \\ egaqsSih & \text{Positivist/Negativist} & \text{True} & D_4 & \mathbb{Z}_2 \\ egcmbBih & \text{Asking/Declaring} & \text{True} & D_4 & \mathbb{Z}_2 \\ egcmsSkl & \text{Static/Dynamic} & \text{True} & D_4 & \mathbb{Z}_2 \\ \end{matrix}$$
+
+_Lemma (Orbital Dichotomies)._ The orbital dichotomies correspond bijectively to the index-2 subgroups of $\mathbb{S}$. Each subgroup $H$ defines a canonical quotient homomorphism $\mathbb{S} \to \mathbb{Z}_2$, yielding a global, system-invariant dichotomy. In the present setting, there are exactly seven such subgroups, hence seven orbital dichotomies.  
+
+### 2.1.3. Cayley Table of $\mathbb{S}$
 
 We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the index-2 subgroup $D_4 \times 0$ is the subgroup of ITRs that preserves the trait of Extroversion/Introversion, and the nontrivial coset corresponds to the flipping of this trait.
 
@@ -74,23 +92,6 @@ We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the in
 |   **$h$**    | $h$ | $m$ | $i$ | $c$ | $d$ | $S$ | $x$ | $s$ | $l$ | $q$ | $k$ | $a$ | $g$ | $b$ | $e$ | $B$ |
 |   **$c$**    | $c$ | $h$ | $m$ | $i$ | $s$ | $d$ | $S$ | $x$ | $a$ | $l$ | $q$ | $k$ | $B$ | $g$ | $b$ | $e$ |
 
-### 2.1.3. Subgroups of $\mathbb{S}$
-
-The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$). In typical cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed as to make it more accessible to the reader.
-
-#### Subgroups of order 2:
-
-$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ eg & \text{Superegos} & \text{True} & \mathbb{Z}_2 & \mathbb{Z}_2^3 \\ ed & \text{Duals} & \text{True} & \mathbb{Z}_2 & D_4 \\ ex & \text{Extinguishers} & \text{True} & \mathbb{Z}_2 & D_4 \\ ek & \text{Kindreds} & \text{False} & \mathbb{Z}_2 & - \\ el & \text{Lookalikes} & \text{False} & \mathbb{Z}_2 & - \\ eh & \text{Semi Duals} & \text{False} & \mathbb{Z}_2 & - \\ ei & \text{Mirages} & \text{False} & \mathbb{Z}_2 & - \\ em & \text{Mirrors} & \text{False} & \mathbb{Z}_2 & - \\ ec & \text{Conflictors} & \text{False} & \mathbb{Z}_2 & - \\ eq & \text{Quasi Identicals} & \text{False} & \mathbb{Z}_2 & - \\ ea & \text{Activators} & \text{False} & \mathbb{Z}_2 & - \\ \end{matrix}$$
-
-#### Subgroups of order 4:
-
-$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ ebgB & \text{Benefit Ring} & \text{True} & \mathbb{Z}_4 & \mathbb{Z}_2^2 \\ esgS & \text{Supervision Ring} & \text{True} & \mathbb{Z}_4 & \mathbb{Z}_2^2 \\ \\ egxd & Z = \text{Stress Resistance} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ \\ egaq & \text{Positivity Group} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ egih & \text{Displacement} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ egkl & \text{Temperament} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ egcm & \text{Challenge Response Group} & \text{True} & \mathbb{Z}_2^2 & \mathbb{Z}^2_2 \\ \\ exac & \text{Array Group} & \text{False} & \mathbb{Z}_2^2 & - \\ exqm & \text{Club} & \text{False} & \mathbb{Z}_2^2 & - \\ exik & \text{1st Faculty Same} & \text{False} & \mathbb{Z}_2^2 & - \\ exhl & \text{2nd Faculty Same} & \text{False} & \mathbb{Z}_2^2 & - \\ \\ edam & \text{Quadra} & \text{False} & \mathbb{Z}_2^2 & - \\ edqc & \text{Occupation Group} & \text{False} & \mathbb{Z}_2^2 & - \\ edil & \text{2nd Axis Same} & \text{False} & \mathbb{Z}_2^2 & - \\ edhk & \text{1st Axis Same} & \text{False} & \mathbb{Z}_2^2 & - \\ \end{matrix}$$
-
-#### Subgroups of order 8:
-
-$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ egxdbBsS & \text{Process/Result} & \text{True} & \mathbb{Z}_2 \times \mathbb{Z}_4 & \mathbb{Z}_2 \\ egxdmcqa & \text{Democratic/Aristocratic} & \text{True} & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egxdhkil & \text{Irrational/Rational} & \text{True} & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egaqbBkl & \text{Extroverted/Introverted} & \text{True} & D_4 & \mathbb{Z}_2 \\ egaqsSih & \text{Positivist/Negativist} & \text{True} & D_4 & \mathbb{Z}_2 \\ egcmbBih & \text{Asking/Declaring} & \text{True} & D_4 & \mathbb{Z}_2 \\ egcmsSkl & \text{Static/Dynamic} & \text{True} & D_4 & \mathbb{Z}_2 \\ \end{matrix}$$
-
-_Lemma (Orbital Dichotomies)._ The orbital dichotomies correspond bijectively to the index-2 subgroups of $\mathbb{S}$. Each subgroup $H$ defines a canonical quotient homomorphism $\mathbb{S} \to \mathbb{Z}_2$, yielding a global, system-invariant dichotomy. In the present setting, there are exactly seven such subgroups, hence seven orbital dichotomies.  
 
 # 3. The Homomorphism
 
