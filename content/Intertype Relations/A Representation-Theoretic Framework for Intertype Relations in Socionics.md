@@ -76,11 +76,11 @@ We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the in
 
 ### 2.1.3. Subgroups of $\mathbb{S}$
 
-The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$). In typical cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed as to make it accessible to the reader.
+The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$). In typical cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed as to make it more accessible to the reader.
 
 Subgroups of order 2:
 
-$$ \begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ eg & \text{Superegos} & \text{True} & \mathbb{Z}_2 & \mathbb{Z}_2^3 \\ ed & \text{Duals} & \text{True} & \mathbb{Z}_2 & \mathbb{Z}_2^3 \\ ex & \text{Extinguishers} & \text{True} &  \end{matrix} $$ 
+$$ \begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ eg & \text{Superegos} & \text{True} & \mathbb{Z}_2 & \mathbb{Z}_2^3 \\ ed & \text{Duals} & \text{True} & \mathbb{Z}_2 & \mathbb{Z}_2^3 \\ ex & \text{Extinguishers} & \text{True} &   \end{matrix} $$ 
 
 # 3. The Homomorphism
 
