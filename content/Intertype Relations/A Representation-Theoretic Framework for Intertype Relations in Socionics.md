@@ -84,7 +84,7 @@ $$ \begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{
 
 Subgroups of order 4:
 
-$$ \begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ ebgB & \text{Benefit Ring} & \text{True} \end{matrix} $$
+$$ \begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ ebgB & \text{Benefit Ring} & \text{True} & \mathbb{Z}_4 & \mathbb{Z}_2^2 \\ esgS & \text{Supervision Ring} & \text{True} & \ma \end{matrix} $$
 
 # 3. The Homomorphism
 
