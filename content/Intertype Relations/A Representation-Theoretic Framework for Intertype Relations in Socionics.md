@@ -80,7 +80,11 @@ The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $
 
 Subgroups of order 2:
 
-$$ \begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ eg & \text{Superegos} & \text{True} & \mathbb{Z}_2 & \mathbb{Z}_2^3 \\ ed & \text{Duals} & \text{True} & \mathbb{Z}_2 & D_4 \\ ex & \text{Extinguishers} & \text{True} & \mathbb{Z}_2 & D_4 \\ ek & \text{Kindreds} & \text{False} & \mathbb{Z}_2 & - \\ el & \text{Lookalikes} & \text{False} & \mathbb{Z}_2 & - \\ eh & \text{Semi Duals} & \text{False} & \mathbb{Z}_2 & - \\ ei & \text{Mirages} & \text{False} & \mathbb{Z}_2 & - \\ em & \text{Mirrors} & \text{False} & \mathbb{Z}_2 & - \\ ec & \text{Conflictors} & \text{False} & \mathbb{Z}_2 & - \\ eq & \text{Quasi Identicals} & \text{False} & \mathbb{Z}_2 & - \\ ea & \text{Activators} & \text{False} & \mathbb{Z}_2 & - \\ \end{matrix} $$ 
+$$ \begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ eg & \text{Superegos} & \text{True} & \mathbb{Z}_2 & \mathbb{Z}_2^3 \\ ed & \text{Duals} & \text{True} & \mathbb{Z}_2 & D_4 \\ ex & \text{Extinguishers} & \text{True} & \mathbb{Z}_2 & D_4 \\ ek & \text{Kindreds} & \text{False} & \mathbb{Z}_2 & - \\ el & \text{Lookalikes} & \text{False} & \mathbb{Z}_2 & - \\ eh & \text{Semi Duals} & \text{False} & \mathbb{Z}_2 & - \\ ei & \text{Mirages} & \text{False} & \mathbb{Z}_2 & - \\ em & \text{Mirrors} & \text{False} & \mathbb{Z}_2 & - \\ ec & \text{Conflictors} & \text{False} & \mathbb{Z}_2 & - \\ eq & \text{Quasi Identicals} & \text{False} & \mathbb{Z}_2 & - \\ ea & \text{Activators} & \text{False} & \mathbb{Z}_2 & - \\ \end{matrix} $$
+
+Subgroups of order 4:
+
+$$ \begin{matrix}  \end{matrix} $$
 
 # 3. The Homomorphism
 
