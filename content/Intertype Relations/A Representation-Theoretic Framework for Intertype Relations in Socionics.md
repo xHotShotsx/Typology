@@ -54,6 +54,7 @@ $i \quad$ mirage, or illusory
 
 We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the index-2 subgroup $D_4 \times 0$ is the subgroup of ITRs that preserves the trait of Extroversion/Introversion, and the nontrivial coset corresponds to the flipping of this trait.
 
+
 | **$\times$** | $e$ | $b$ | $g$ | $B$ | $k$ | $q$ | $l$ | $a$ | $x$ | $S$ | $d$ | $s$ | $i$ | $m$ | $h$ | $c$ |
 | :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |   **$e$**    | $e$ | $b$ | $g$ | $B$ | $k$ | $q$ | $l$ | $a$ | $x$ | $S$ | $d$ | $s$ | $i$ | $m$ | $h$ | $c$ |
@@ -128,7 +129,7 @@ where $X_i$ is the underlying set and $\rho_i$ is the group action.
 
 Since there are 16 dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}\}$, there are correspondingly up to 16 possible $E_{16}$-set models ($X_{i}, \rho_{i}$), each associated to its induced relation group $\mathbf{V}_i$.
 
-Examples of such $E_{16}$-set models include Model L and Model W, which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
+Examples of such $E_{16}$-set models include Model L (2017) and Model W (2025), which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
 
 Functions are the positions in a functional schema; monadic (signed) elements are the informational atoms that occupy these positions. For a dichotomy system $\mathcal{D}_i$, let $P_i$ denote the set of functions for an $i$ model and $\mathcal{E}$ the set of monadic elements. The functional configuration space is $X_i = \mathcal{E}^{P_{i}}$, with the induced relation group $\mathbf{V}_i$ acting through $\rho_i : \mathbf{V}_{i} \curvearrowright X_{i}$. A functional layout for a type $t$ is an element $L_i(t) \in X_{i}$. A bijection $\Theta_i : T \to X_{i}$ is equivariant if
 
