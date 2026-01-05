@@ -190,7 +190,7 @@ then for any other type $t$ the selector bit vector is defined by
 
 $$\chi(t) = \chi(t) - \chi(t_{0}).$$
 
-**Selector admissibility axiom.** A dichotomy $D$ is a valid selector for a dichotomy system $\mathcal{D}_i$ iff the induced selector function $\sigma_D$ is constant on $I_{\mathcal{D}_i}$. Consequently, all selector dichotomies are either orbital or bilinear (waffle) dichotomies.
+**Selector admissibility axiom.** A dichotomy $D$ is a valid selector for a dichotomy system $\mathcal{D}_i$ iff the induced selector function $\sigma_D$ is constant on $I_{\mathcal{D}_i}$. Consequently, all selector dichotomies are either orbital or bilinear (waffle) dichotomies (2025).
 
 **Superego-pairing constraint.** For any selector dichotomy $D_s$ and any non-invariant coset $C_j = rI_{\mathcal{D}_i}$, the two vectors $(a_{j,0}^{(s)}, a_{j,1}^{(s)})$   assigned to $C_j$ differ by the action of the superego generator. Consequently, selector dichotomies may only permute relations within superego-paired elements of a coset, and may alter wall coordinates but never orbital ones. In particular, if a relation $r$ maps to a vector $v$ for $\sigma_s(t) = 0$, then its superego counterpart $gr$ maps to the corresponding vector obtained by flipping the wall dichotomies $\sigma_s(t) = 1$, and vice versa, such that $a_{j,0}^{(s)}(r) = a_{j,1}^{(s)}(gr)$   and $a_{j,0}^{(s)}(gr) = a_{j,1}^{(s)}(r)$  , $\forall r \in C_j$.
 
