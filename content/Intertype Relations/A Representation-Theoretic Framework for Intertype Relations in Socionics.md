@@ -52,6 +52,8 @@ $i \quad$ mirage, or illusory
 
 ### 2.1.2. Cayley Table of $\mathbb{S}$
 
+We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the index-2 subgroup $D_4 \times 0$ is the subgroup of ITRs that preserves the trait of Extroversion/Introversion, and the nontrivial coset corresponds to the flipping of this trait.
+
 | **$\times$** | $e$ | $b$ | $g$ | $B$ | $k$ | $q$ | $l$ | $a$ | $x$ | $S$ | $d$ | $s$ | $i$ | $m$ | $h$ | $c$ |
 | :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |   **$e$**    | $e$ | $b$ | $g$ | $B$ | $k$ | $q$ | $l$ | $a$ | $x$ | $S$ | $d$ | $s$ | $i$ | $m$ | $h$ | $c$ |
