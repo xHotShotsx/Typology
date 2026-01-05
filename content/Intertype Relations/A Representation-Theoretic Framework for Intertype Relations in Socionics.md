@@ -88,7 +88,9 @@ $$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{T
 
 Subgroups of order 8:
 
-$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ egxdbBsS & \text{Process/Result} & \text{True} & \mathbb{Z}_2 \times \mathbb{Z}_4 & \mathbb{Z}_2 \\ egxdmcqa & \text{Democratic/Aristocratic} & \text{True} & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egxdhkil & \text{Irrational/Rational} & \text{True} & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egaqbBkl & \text{Extroverted/Introverted} & \text{True} & D_4 & \mathbb{Z}_2 \\ egaqsSih & \text{Positivist/Negativist} & \text{True} & D_4 & \mathbb{Z}_2 \\ egcmbB \end{matrix}$$
+$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ egxdbBsS & \text{Process/Result} & \text{True} & \mathbb{Z}_2 \times \mathbb{Z}_4 & \mathbb{Z}_2 \\ egxdmcqa & \text{Democratic/Aristocratic} & \text{True} & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egxdhkil & \text{Irrational/Rational} & \text{True} & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egaqbBkl & \text{Extroverted/Introverted} & \text{True} & D_4 & \mathbb{Z}_2 \\ egaqsSih & \text{Positivist/Negativist} & \text{True} & D_4 & \mathbb{Z}_2 \\ egcmbBih & \text{Asking/Declaring} & \text{True} & D_4 & \mathbb{Z}_2 \\ egcmsSkl & \text{Static/Dynamic} & \text{True} & D_4 & \mathbb{Z}_2 \\ \end{matrix}$$
+
+_Lemma_
 
 # 3. The Homomorphism
 
