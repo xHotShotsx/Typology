@@ -88,7 +88,7 @@ $$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{T
 
 Subgroups of order 8:
 
-$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ egxdbBsS & \text{Process/Result} & \text{True} & \mathbb{Z}_2 \times \mathbb{Z}_4 & \mathbb{Z}_2 \\ egxdmcqa & \text{Democratic/Aristocratic} \end{matrix}$$
+$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ egxdbBsS & \text{Process/Result} & \text{True} & \mathbb{Z}_2 \times \mathbb{Z}_4 & \mathbb{Z}_2 \\ egxdmcqa & \text{Democratic/Aristocratic} & \text{True} & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egxd \end{matrix}$$
 
 # 3. The Homomorphism
 
