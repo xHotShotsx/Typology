@@ -119,7 +119,7 @@ The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself:
 
 $$r I_{\mathcal{D}_{i}} = I_{\mathcal{D}_{i}} r = \{rs \mid s \in I_{\mathcal{D}_{i}}\}, \quad r \in \mathbb{S}.$$
 
-### 3.1.1. Universal Invariant Core
+### 4.1.1. Universal Invariant Core
 
 The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as:
 
@@ -129,7 +129,7 @@ The superego dyad is fixed by all homomorphisms between the Socion group and a d
 
 $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}.$$
 
-# 4. First Cohomology
+# 5. First Cohomology
 
 For the cohomology of classical ITRs, we first define: 
 
@@ -138,7 +138,7 @@ $$\mathbf{V}_{i} := \text{the vector space } \mathbb{Z}^4_{2} \text{ associated 
 and $H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is nonabelian, we define an induced homomorphism. If the dichotomy action on classical relations is defined by the homomorphism $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the induced action on dichotomy vectors is given by the homomorphism $\psi : \mathcal{D}_{i} \to \text{Aut}(\mathbf{V}_{i})$, where a system of dichotomies acts on the automorphisms of the vector space $\mathbf{V}_i$ constructed from a dichotomy system $\mathcal{D}_i$. Because $\mathbb{S}$ does not admit a regular, faithful action compatible with all dichotomy systems, we instead work with the induced vector space $\mathbf{V}_{i}$, which captures only the dichotomy-relevant degrees of freedom. 
 
 
-# 5. $E_{16}$-Set Models
+# 6. $E_{16}$-Set Models
 
 A set model is a pair ($X, G$) consisting of a set $X$ together with a left action of a group $G$. In the present framework, an $E_{16}$-set model is any set model that carries an action of the group, which is the vector space representation associated with a given dichotomy system. For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathbf{V}_i$ acts on a corresponding set model. 
 
@@ -171,11 +171,11 @@ $$A_{3} \cdot t \quad \text{and} \quad \rho_{15}(A_{3}) \cdot L_{15}(t)$$
 implement the same transformation in two different representations of the same underlying structure.
 
 
-# 6. The Selector
+# 7. The Selector
 
 The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathcal{D}_{i}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to each coset in $r I_{\mathcal{D}_i}$, is two possible outputs in the representation space. For a given type $t \in T$, the selector determines which of these two vectors is chosen, based on whether the corresponding boolean trait of the dichotomy holds for $t$. Thus, a selector dichotomy is the rule that splits each non-invariant coset into type-dependent vector assignments.
 
-## 6.1. Formal Definition
+## 7.1. Formal Definition
 
 Let:
 - $\mathcal{D}_i$ be a dichotomy system, 
@@ -223,7 +223,7 @@ $$\chi(t) = \chi(t) - \chi(t_{0}).$$
 
 _Orbital invariance lemma._ For any selector dichotomy $D_s$, any coset $C_j$, and any $r \in C_j$, the vectors assigned by $D_s$ satisfy $\pi_{\mathrm{orb}}(a_{j,0}^{(s)}(r)) = \pi_{\mathrm{orb}}(a_{j,1}^{(s)}(r))$  .
 
-## 6.2. The Intersection
+## 7.2. The Intersection
 
 Let each selector dichotomy $D_s \in \mathcal{S}_i$ induce a partition: 
 
@@ -246,7 +246,7 @@ and each equivalence class corresponds to a unique selector signature, yielding 
 **Remark.** The selector signature map $\sigma : T \to \mathbb{Z}^{m-1}_2$ does **not** embed types into a vector space. Rather, it records discrete selector outcomes across non-invariant cosets. The representation space $\mathbf{V}_{i} \cong \mathbb{Z}^4_{2}$ remains the sole algebraic action space. 
 
 
-# 7. The Representation Map
+# 8. The Representation Map
 
 For each dichotomy system $\mathcal{D}_i$, we fix a representation map
 
