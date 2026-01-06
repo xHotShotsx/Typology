@@ -63,9 +63,9 @@ $CD(\{e,g,k,l\})$ generates the Tencer-Minaev dichotomies, Semidual Mirage HEF d
 
 $CD(\{e,g,c,m\})$ generates the Reinin dichotomies, Quasi Identity Activation HEF dichotomies, and the Γ waffles.
 
-$CD(\le,g,a,q \rangle)$ generates the Reinin dichotomies, Mirror Conflict HEF dichotomies, and the Δ waffles.
+$CD(\{e,g,a,q\})$ generates the Reinin dichotomies, Mirror Conflict HEF dichotomies, and the Δ waffles.
 
-$CD(\langle e,g \rangle)$ generates all orbital-respecting 16 dichotomy spaces, and all 15 bilinear waffle spaces.
+$CD(\{e,g\})$ generates all orbital-respecting 16 dichotomy spaces, and all 15 bilinear waffle spaces.
 
 # Further Reading
 
