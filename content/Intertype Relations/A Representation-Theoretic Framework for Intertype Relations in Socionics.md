@@ -98,7 +98,7 @@ The construction $CD$ associates to each subgroup of $\mathbb{S}$ the set of dic
 
 $CD(\mathbb{S})$ will generate only the 7 orbital dichotomies. Alternatively, any index-2 subgroup of $\mathbb{S}$ other than Democratic/Aristocratic or Irrational/Rational will also generate same set of orbital dichotomies since $\mathbb{S}$ generates them. $CD(\{e,g,x,d,m,c,q,a\} = \rm{Democratic/Aristocratic})$ will generate the Reinin dichotomies ($\mathcal{D}_{15}$). $CD(\{e,g,x,d,h,i,k,l\} = \rm{Irrational/Rational})$ will generate the Tencer-Minaev dichotomies ($\mathcal{D}_{14}$).
 
-Now, any normal subgroup of order 4 will generate 2 orbital-respecting dichotomy systems, with another set of dichotomies produced by the XOR addition between wall dichotomies of these different spaces, which are often referred to as the "waffle" dichotomies (2025). $CD({e,g,x,d} = Z(\mathbb{S}))$ will generate the Reinin dichotomies, the Tencer-Minaev dichotomies, and the X-waffles (Shaneri 2022). $CD({e,g,a,q})$ 
+Now, any normal subgroup of order 4 will generate 2 orbital-respecting dichotomy systems, with another set of dichotomies produced by the XOR addition between wall dichotomies of these different spaces, which are often referred to as the "waffle" dichotomies (2025). $CD(\{e,g,x,d\} = Z(\mathbb{S}))$ will generate the Reinin dichotomies, the Tencer-Minaev dichotomies, and the X-waffles (Shaneri 2022). $CD(\{e,g,a,q\})$ generates the  
 
 # 4. The Homomorphism
 
