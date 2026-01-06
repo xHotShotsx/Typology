@@ -94,7 +94,9 @@ We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the in
 
 # 3. The Functor
 
-The construction $CD$ associates to each subgroup of $\mathbb{S}$ the set of dichotomies it respects.  This association reverses inclusion: larger subgroups preserve fewer dichotomies, hence th. In this sense, dichotomy systems are constrained functorially by subgroup structure. 
+The construction $CD$ associates to each subgroup of $\mathbb{S}$ the set of dichotomies it respects.  This association reverses inclusion: larger subgroups preserve fewer dichotomies, hence the structure is contravariant. In this sense, dichotomy systems are constrained functorially by subgroup structure (Tencer 2011).
+
+ 
 
 # 4. The Homomorphism
 
