@@ -98,7 +98,7 @@ The construction $CD$ associates to each subgroup of $\mathbb{S}$ the set of dic
 
 $CD(\mathbb{S})$ will generate only the 7 orbital dichotomies. Alternatively, any index-2 subgroup of $\mathbb{S}$ other than Democratic/Aristocratic or Irrational/Rational will also generate same set of orbital dichotomies since $\mathbb{S}$ generates them. $CD(\{e,g,x,d,m,c,q,a\} = \rm{Democratic/Aristocratic})$ will generate the Reinin dichotomies ($\mathcal{D}_{15}$). $CD(\{e,g,x,d,h,i,k,l\} = \rm{Irrational/Rational})$ will generate the Tencer-Minaev dichotomies ($\mathcal{D}_{14}$).
 
-Now, any normal subgroup of order 4 will generate 2 orbital-respecting dichotomy spaces 
+Now, any normal subgroup of order 4 will generate 2 orbital-respecting dichotomy systems,
 
 # 4. The Homomorphism
 
@@ -215,7 +215,7 @@ then for any other type $t$ the selector bit vector is defined by
 
 $$\chi(t) = \chi(t) - \chi(t_{0}).$$
 
-**Selector admissibility axiom.** A dichotomy $D$ is a valid selector for a dichotomy system $\mathcal{D}_i$ iff the induced selector function $\sigma_D$ is constant on $I_{\mathcal{D}_i}$. Consequently, all selector dichotomies are either orbital or bilinear (waffle) dichotomies (2025).
+**Selector admissibility axiom.** A dichotomy $D$ is a valid selector for a dichotomy system $\mathcal{D}_i$ iff the induced selector function $\sigma_D$ is constant on $I_{\mathcal{D}_i}$. Consequently, all selector dichotomies are either orbital or bilinear (waffle) dichotomies.
 
 **Superego-pairing constraint.** For any selector dichotomy $D_s$ and any non-invariant coset $C_j = rI_{\mathcal{D}_i}$, the two vectors $(a_{j,0}^{(s)}, a_{j,1}^{(s)})$   assigned to $C_j$ differ by the action of the superego generator. Consequently, selector dichotomies may only permute relations within superego-paired elements of a coset, and may alter wall coordinates but never orbital ones. In particular, if a relation $r$ maps to a vector $v$ for $\sigma_s(t) = 0$, then its superego counterpart $gr$ maps to the corresponding vector obtained by flipping the wall dichotomies $\sigma_s(t) = 1$, and vice versa, such that $a_{j,0}^{(s)}(r) = a_{j,1}^{(s)}(gr)$   and $a_{j,0}^{(s)}(gr) = a_{j,1}^{(s)}(r)$  , $\forall r \in C_j$.
 
