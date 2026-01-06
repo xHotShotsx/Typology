@@ -94,9 +94,9 @@ We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the in
 
 # 3. The Functor
 
+The construction $CD$ associates
 
-
-# 3. The Homomorphism
+# 4. The Homomorphism
 
 The action of the dichotomy system on the ITR group is given by a homomorphism 
 
@@ -108,7 +108,7 @@ $$\varphi : \mathcal{D}_{i} \longrightarrow \text{Aut}(\mathbb{S}),$$
 
 representing how the dichotomy system acts on the classical group of intertype relations.
 
-## 3.1. Fixed Point Subgroup
+## 4.1. Fixed Point Subgroup
 
 The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathcal{D}_{i}}$. More rigorously, this is defined as the following: 
 
