@@ -94,7 +94,7 @@ We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the in
 
 # 3. The Functor
 
-The construction $CD$ associates
+The construction $CD$ associates to each subgroup of $\mathbb{S}$ the set of dichot
 
 # 4. The Homomorphism
 
