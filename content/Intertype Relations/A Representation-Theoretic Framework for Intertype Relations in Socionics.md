@@ -96,7 +96,7 @@ We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the in
 
 The construction $CD$ associates to each subgroup of $\mathbb{S}$ the set of dichotomies it respects.  This association reverses inclusion: larger subgroups preserve fewer dichotomies, hence the structure is contravariant. In this sense, dichotomy systems are constrained functorially by subgroup structure (Tencer 2011).
 
- 
+$CD(\mathbb{S})$ will generate the 7 orbital dichotomies. Alte  
 
 # 4. The Homomorphism
 
