@@ -94,7 +94,7 @@ We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the in
 
 # 3. The Functor
 
-The construction $CD$ associates to each subgroup of $\mathbb{S}$ the set of dichotomies it respects.  This association reverses inclusion: larger subgroups preserve fewer dichotomies, so if $H \leq K \leq \mathbb{S}$, then $CD(K) \subseteq $ hence the structure is contravariant. In this sense, dichotomy systems are constrained functorially by subgroup structure (Tencer 2011).
+The construction $CD$ associates to each subgroup of $\mathbb{S}$ the set of dichotomies it respects.  This association reverses inclusion: larger subgroups preserve fewer dichotomies, so if $H \leq K \leq \mathbb{S}$, then $CD(K) \subseteq CD(H)$, hence the structure is contravariant. In this sense, dichotomy systems are constrained functorially by subgroup structure (Tencer 2011).
 
 $CD(\mathbb{S})$ will generate the 7 orbital dichotomies. Alternatively, any index-2 subgroup in $CD$ will also generate the 7 orbital dichotomies since all of the index-2 subgroups generate them. $CD(\{e,g,x,d,m,c,q,a\} = \rm{Democratic/Aristocratic})$ and $CD(\{e,g,x,d,h,i,k,l\} = \rm{Irrational/Rational})$ will generate the Tencer-Minaev dichotomies ($\mathcal{D}_{14}$).     
 
