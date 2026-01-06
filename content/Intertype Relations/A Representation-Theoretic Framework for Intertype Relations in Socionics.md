@@ -52,7 +52,7 @@ $i \quad$ mirage, or illusory
 
 ### 2.1.2. Subgroups of $\mathbb{S}$
 
-The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$), since by invoking Lagrange's Theorem any subgroup's size will divide the group by a factor of it. In typical cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed as to make it more accessible to the reader.
+The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$), since by Lagrange's Theorem, subgroup's size will divide the group by a factor of it. In typical cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed as to make it more accessible to the reader.
 
 #### Subgroups of order 2:
 
