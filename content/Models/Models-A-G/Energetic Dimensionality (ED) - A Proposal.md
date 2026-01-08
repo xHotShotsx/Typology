@@ -9,53 +9,34 @@
 # Formula for ED
 
  All functions have a baseline of 1d because of the tautological valid/null condition.
-- If energetic
-- Then ED = valid + 2d
+- If energetic  
+	- Then ED = valid + 2d  
 - If opening  
 	- Then ED = valid + 1d
   
-
 # ED to Informational Dimensionality (ID) Comparisons using Function Dichotomies from both Models A and G
 
 - Energetic/Informational is to ED as Strong/Weak is to ID.
-    
 - Opening/Closing is to ED as Bold/Cautious is to ID.
-    
 - Excitable/Inhibitable is to ED as Evaluatory/Situational is to ID.
-    
-
-  
 
 # Expanding this schema to 16 elements
 
 If introversion/extroversion is responsible for informatic dimensionality, we’ll assume positivist/negativist as the contributor to energetic dimensionality. We will be using Varlawend’s System 2 (Reference 5) here. Now, energetic functions map onto the two binary relations that entail Process/Result as the third dichotomy in relation to a tetrachotomy formation. The exact dichotomies used will be dependent on the displacement tetrad the given TIM falls under, due to the asymmetric ITR injection used for functions in this space, where asymmetries split in relation to dichotomies; Asking/Declaring, Positivist/Negativist, and Static/Dynamic. Defer to ‘Intertype Relations’ (Reference 1) for more information about this as well as ‘Function Dichotomies to Type Tetrachotomies’ (Reference 2) for which dichotomies of this space (Reference 3) slot into Energetic/Informational and Excitable/Inhibitable based on the displacement tetrad any TIM falls under, in discussion.
 
-  
-
 So, pretexts aside, the formula for energetic dimensionality goes as follows:
 
-  
 
-Valid = baseline of 1d
-
-TIM+Mirage HEF = +1d
-
-TIM+Semidual HEF = +1d
-
-Shared Positivism/Negativism = +1d
-
-  
+Valid = baseline of 1d  
+TIM+Mirage HEF = +1d  
+TIM+Semidual HEF = +1d  
+Shared Positivism/Negativism = +1d  
 
 So, to give an example for the ILI, let’s take !Se-:
 
-  
-
-Valid = baseline of 1d
-
-NOT ILI+IEE = +0d
-
+Valid = baseline of 1d  
+NOT ILI+IEE = +0d  
 SLE+ILI = +1d
-
 Negativist = +1d
 
   
