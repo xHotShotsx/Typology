@@ -36,17 +36,17 @@ So, to give an example for the ILI, let’s take !Se-:
 
 Valid = baseline of 1d  
 NOT ILI+IEE = +0d  
-SLE+ILI = +1d
-Negativist = +1d
-
-  
+SLE+ILI = +1d  
+Negativist = +1d  
 
 Therefore, !Se- has an energetic content of 3d for the ILI.
-
-  
 
 # IMPORTANT NOTE
 
 This post regarding energetic dimensionality is tentative, so take it with a grain of salt. There may be other factors I haven’t considered for the purpose of simplification. For instance, one issue to note is that besides process/result, the function monochotomy for Model-G, both static/dynamic and positivist/negativist contributes to the Opening and Closing rings, so an alternative framing of the formula, depending on semantic relevance, could involve replacing Positivist/Negativist with Static/Dynamic as responsible for the formulation of energetic content of sociotype.
 
-**
+
+# References
+
+1. [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics|A Representation-Theoretic Framework for Intertype Relations in Socionics]]
+2. [[injec]]
