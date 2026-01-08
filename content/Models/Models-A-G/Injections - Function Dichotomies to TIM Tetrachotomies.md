@@ -9,6 +9,7 @@
 
 ## Model A (Presence Cube)
 
+
 |   Function Dichotomy   |      TIM Tetrachotomy Construction       |     TIM Tetrachotomy      |
 | :--------------------: | :--------------------------------------: | :-----------------------: |
 |       Valid/Null       |              $G_1 \cap U_1$              |  Democratic/Aristocratic  |
