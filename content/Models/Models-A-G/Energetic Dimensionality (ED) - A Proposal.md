@@ -50,11 +50,7 @@ This post regarding energetic dimensionality is tentative, so take it with a gra
 
 1. [[content/content/Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics|A Representation-Theoretic Framework for Intertype Relations in Socionics]]
 2. [[content/content/Models/Models-A-G/Injections - Model A and Model G Charge Systems|Injections - Model A and Model G Charge Systems]]
-3. [[Dichotomy Table (Semidual Mirage HEF)]]
-4. 
-5. [https://varlawend.blogspot.com/2023/06/mathematical-discovery-model-g-has-its.html?m=1](https://varlawend.blogspot.com/2023/06/mathematical-discovery-model-g-has-its.html?m=1)
-    
-6. [https://sedecology.com/math](https://sedecology.com/math)
-    
-
-[https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html](https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html)**
+3. [[Dichotomy Table (Semidual Mirage HEF)]] 
+4. [https://varlawend.blogspot.com/2023/06/mathematical-discovery-model-g-has-its.html?m=1](https://varlawend.blogspot.com/2023/06/mathematical-discovery-model-g-has-its.html?m=1)
+5. [https://sedecology.com/math](https://sedecology.com/math)
+6. [https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html](https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html)
