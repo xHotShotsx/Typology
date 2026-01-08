@@ -139,16 +139,16 @@
 #### Semidual Mirage HEF
 ##### For Iridescent Hopes Types
 
-|       Function Dichotomy       | TIM Tetrachotomy Construction |   TIM Tetrachotomy    |
-| :----------------------------: | :---------------------------: | :-------------------: |
-|           Valid/Null           |      $\Delta_1 \cap E_3$      |    Process/Result     |
-|        Opening/Closing         |   $\Delta_1 \cap \Delta_3 $   |  Rngs of Supervision  |
-|        Stable/Unstable         |                               |   Stress Resistance   |
-|       External/Internal        |                               |   Rings of Benefit    |
-|    Energetic/Informational     |                               | Iridescent Hopes HEF  |
-|     Excitable/Inhibitable      |                               | Avoiding Failures HEF |
-| Impressionable/Unimpresionable |                               |      Waiting HEF      |
-|       Tensioned/Relaxed        |                               |  Realistic Plans HEF  |
+|       Function Dichotomy       |       TIM Tetrachotomy Construction        |   TIM Tetrachotomy    |
+| :----------------------------: | :----------------------------------------: | :-------------------: |
+|           Valid/Null           |            $\Delta_1 \cap E_3$             |    Process/Result     |
+|        Opening/Closing         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$ |  Rngs of Supervision  |
+|        Stable/Unstable         |                                            |   Stress Resistance   |
+|       External/Internal        |                                            |   Rings of Benefit    |
+|    Energetic/Informational     |                                            | Iridescent Hopes HEF  |
+|     Excitable/Inhibitable      |                                            | Avoiding Failures HEF |
+| Impressionable/Unimpresionable |                                            |      Waiting HEF      |
+|       Tensioned/Relaxed        |                                            |  Realistic Plans HEF  |
 
 ##### For Waiting Types
 
