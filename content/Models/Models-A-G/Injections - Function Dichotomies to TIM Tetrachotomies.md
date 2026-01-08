@@ -140,8 +140,8 @@
 
 |       Function Dichotomy       | TIM Tetrachotomy Construction |   TIM Tetrachotomy    |
 | :----------------------------: | :---------------------------: | :-------------------: |
-|           Valid/Null           |                               |    Process/Result     |
-|        Opening/Closing         |                               | Rings of Supervision  |
+|           Valid/Null           |      $\Delta_1 \cap E_3$      |    Process/Result     |
+|        Opening/Closing         |          $\Delta_1 $          | Rings of Supervision  |
 |        Stable/Unstable         |                               |   Stress Resistance   |
 |       External/Internal        |                               |   Rings of Benefit    |
 |    Energetic/Informational     |                               | Iridescent Hopes HEF  |
