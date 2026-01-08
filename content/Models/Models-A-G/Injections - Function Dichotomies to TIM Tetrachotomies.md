@@ -144,7 +144,7 @@
 |           Valid/Null           |            $\Delta_1 \cap E_3$             |    Process/Result     |
 |        Opening/Closing         | $\Delta_1 \cap \Delta_4 \cap E_2 \cap E_3$ | Rings of Supervision  |
 |        Stable/Unstable         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$ |   Stress Resistance   |
-|       External/Internal        |                $\Delta_1 $                 |   Rings of Benefit    |
+|       External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$ |   Rings of Benefit    |
 |    Energetic/Informational     |                                            | Iridescent Hopes HEF  |
 |     Excitable/Inhibitable      |                                            | Avoiding Failures HEF |
 | Impressionable/Unimpresionable |                                            |      Waiting HEF      |
@@ -152,16 +152,16 @@
 
 ##### For Waiting Types
 
-|       Function Dichotomy       | TIM Tetrachotomy Construction |   TIM Tetrachotomy    |
-| :----------------------------: | :---------------------------: | :-------------------: |
-|           Valid/Null           |                               |    Process/Result     |
-|        Opening/Closing         |                               | Rings of Supervision  |
-|        Stable/Unstable         |                               |   Stress Resistance   |
-|       External/Internal        |                               |   Rings of Benefit    |
-|    Energetic/Informational     |                               |      Waiting HEF      |
-|     Excitable/Inhibitable      |                               |  Realistic Plans HEF  |
-| Impressionable/Unimpresionable |                               | Iridescent Hopes HEF  |
-|       Tensioned/Relaxed        |                               | Avoiding Failures HEF |
+|       Function Dichotomy       |       TIM Tetrachotomy Construction        |   TIM Tetrachotomy    |
+| :----------------------------: | :----------------------------------------: | :-------------------: |
+|           Valid/Null           |            $\Delta_1 \cap E_3$             |    Process/Result     |
+|        Opening/Closing         | $\Delta_1 \cap \Delta_4 \cap E_2 \cap E_3$ | Rings of Supervision  |
+|        Stable/Unstable         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$ |   Stress Resistance   |
+|       External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$ |   Rings of Benefit    |
+|    Energetic/Informational     |                                            |      Waiting HEF      |
+|     Excitable/Inhibitable      |                                            |  Realistic Plans HEF  |
+| Impressionable/Unimpresionable |                                            | Iridescent Hopes HEF  |
+|       Tensioned/Relaxed        |                                            | Avoiding Failures HEF |
 
 ##### For Realistic Plans Types
 
