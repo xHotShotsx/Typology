@@ -158,7 +158,7 @@
 |        Opening/Closing         | $\Delta_1 \cap \Delta_4 \cap E_2 \cap E_3$ | Rings of Supervision  |
 |        Stable/Unstable         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$ |   Stress Resistance   |
 |       External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$ |   Rings of Benefit    |
-|    Energetic/Informational     |                                            |      Waiting HEF      |
+|    Energetic/Informational     |  $\Delta_1 \cap PH_4 \cap PI_2 \cap E_3$   |      Waiting HEF      |
 |     Excitable/Inhibitable      |                                            |  Realistic Plans HEF  |
 | Impressionable/Unimpresionable |                                            | Iridescent Hopes HEF  |
 |       Tensioned/Relaxed        |                                            | Avoiding Failures HEF |
