@@ -165,29 +165,29 @@
 
 ##### For Realistic Plans Types
 
-|       Function Dichotomy       |   TIM Tetrachotomy    |   TIM Tetrachotomy    |
-| :----------------------------: | :-------------------: | :-------------------: |
-|           Valid/Null           |    Process/Result     |    Process/Result     |
-|        Opening/Closing         | Rings of Supervision  | Rings of Supervision  |
-|        Stable/Unstable         |   Stress Resistance   |   Stress Resistance   |
-|       External/Internal        |   Rings of Benefit    |   Rings of Benefit    |
-|    Energetic/Informational     |  Realistic Plans HEF  |  Realistic Plans HEF  |
-|     Excitable/Inhibitable      |      Waiting HEF      |      Waiting HEF      |
-| Impressionable/Unimpresionable | Avoiding Failures HEF | Avoiding Failures HEF |
-|       Tensioned/Relaxed        | Iridescent Hopes HEF  | Iridescent Hopes HEF  |
+|       Function Dichotomy       |       TIM Tetrachotomy Construction        |   TIM Tetrachotomy    |
+| :----------------------------: | :----------------------------------------: | :-------------------: |
+|           Valid/Null           |            $\Delta_1 \cap E_3$             |    Process/Result     |
+|        Opening/Closing         | $\Delta_1 \cap \Delta_4 \cap E_2 \cap E_3$ | Rings of Supervision  |
+|        Stable/Unstable         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$ |   Stress Resistance   |
+|       External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$ |   Rings of Benefit    |
+|    Energetic/Informational     |                                            |  Realistic Plans HEF  |
+|     Excitable/Inhibitable      |                                            |      Waiting HEF      |
+| Impressionable/Unimpresionable |                                            | Avoiding Failures HEF |
+|       Tensioned/Relaxed        |                                            | Iridescent Hopes HEF  |
 
 ##### For Avoiding Failures Types
 
-|       Function Dichotomy       |     |   TIM Tetrachotomy    |
-| :----------------------------: | :-: | :-------------------: |
-|           Valid/Null           |     |    Process/Result     |
-|        Opening/Closing         |     | Rings of Supervision  |
-|        Stable/Unstable         |     |   Stress Resistance   |
-|       External/Internal        |     |   Rings of Benefit    |
-|    Energetic/Informational     |     | Avoiding Failures HEF |
-|     Excitable/Inhibitable      |     | Iridescent Hopes HEF  |
-| Impressionable/Unimpresionable |     |  Realistic Plans HEF  |
-|       Tensioned/Relaxed        |     |      Waiting HEF      |
+|       Function Dichotomy       |       TIM Tetrachotomy Construction        |   TIM Tetrachotomy    |
+| :----------------------------: | :----------------------------------------: | :-------------------: |
+|           Valid/Null           |            $\Delta_1 \cap E_3$             |    Process/Result     |
+|        Opening/Closing         | $\Delta_1 \cap \Delta_4 \cap E_2 \cap E_3$ | Rings of Supervision  |
+|        Stable/Unstable         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$ |   Stress Resistance   |
+|       External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$ |   Rings of Benefit    |
+|    Energetic/Informational     |                                            | Avoiding Failures HEF |
+|     Excitable/Inhibitable      |                                            | Iridescent Hopes HEF  |
+| Impressionable/Unimpresionable |                                            |  Realistic Plans HEF  |
+|       Tensioned/Relaxed        |                                            |      Waiting HEF      |
 
 
 #### Kindred Business HEF
