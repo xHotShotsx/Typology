@@ -146,8 +146,8 @@
 |        Stable/Unstable         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$ |   Stress Resistance   |
 |       External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$ |   Rings of Benefit    |
 |    Energetic/Informational     |  $\Delta_1 \cap PH_3 \cap PI_1 \cap E_3$   | Iridescent Hopes HEF  |
-|     Excitable/Inhibitable      |  $\Delta_1 \cap PH_4 \cap PI_2 \cap E_3$   | Avoiding Failures HEF |
-| Impressionable/Unimpresionable |  $\Delta_1 \cap PH_1 \cap PI_3 \cap E_3$   |      Waiting HEF      |
+|     Excitable/Inhibitable      |                                            | Avoiding Failures HEF |
+| Impressionable/Unimpresionable |                                            |      Waiting HEF      |
 |       Tensioned/Relaxed        |                                            |  Realistic Plans HEF  |
 
 ##### For Waiting Types
@@ -160,7 +160,7 @@
 |       External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$ |   Rings of Benefit    |
 |    Energetic/Informational     |  $\Delta_1 \cap PH_1 \cap PI_3 \cap E_3$   |      Waiting HEF      |
 |     Excitable/Inhibitable      |                                            |  Realistic Plans HEF  |
-| Impressionable/Unimpresionable |                                            | Iridescent Hopes HEF  |
+| Impressionable/Unimpresionable |  $\Delta_1 \cap PH_3 \cap PI_1 \cap E_3$   | Iridescent Hopes HEF  |
 |       Tensioned/Relaxed        |                                            | Avoiding Failures HEF |
 
 ##### For Realistic Plans Types
@@ -174,7 +174,7 @@
 |    Energetic/Informational     |  $\Delta_1 \cap PH_1 \cap PI_1 \cap E_1$   |  Realistic Plans HEF  |
 |     Excitable/Inhibitable      |                                            |      Waiting HEF      |
 | Impressionable/Unimpresionable |                                            | Avoiding Failures HEF |
-|       Tensioned/Relaxed        |                                            | Iridescent Hopes HEF  |
+|       Tensioned/Relaxed        |  $\Delta_1 \cap PH_3 \cap PI_1 \cap E_3$   | Iridescent Hopes HEF  |
 
 ##### For Avoiding Failures Types
 
@@ -185,7 +185,7 @@
 |        Stable/Unstable         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$ |   Stress Resistance   |
 |       External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$ |   Rings of Benefit    |
 |    Energetic/Informational     |  $\Delta_1 \cap PH_4 \cap PI_2 \cap E_3$   | Avoiding Failures HEF |
-|     Excitable/Inhibitable      |                                            | Iridescent Hopes HEF  |
+|     Excitable/Inhibitable      |  $\Delta_1 \cap PH_3 \cap PI_1 \cap E_3$   | Iridescent Hopes HEF  |
 | Impressionable/Unimpresionable |                                            |  Realistic Plans HEF  |
 |       Tensioned/Relaxed        |                                            |      Waiting HEF      |
 
