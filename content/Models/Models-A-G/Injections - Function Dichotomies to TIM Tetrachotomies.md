@@ -193,16 +193,16 @@
 #### Kindred Business HEF
 ##### For Flexible Manoeuvring Types
 
-|       Function Dichotomy       |  TIM Tetrachotomy Construction   |     TIM Tetrachotomy     |
-| :----------------------------: | :------------------------------: | :----------------------: |
-|           Valid/Null           |          $G_1 \cap U_3$          |      Process/Result      |
-|        Opening/Closing         | $G_1 \cap G_2 \cap U_3 \cap U_4$ |   Rings of Supervision   |
-|        Stable/Unstable         | $G_1 \cap G_3 \cap U_1 \cap U_3$ |    Stress Resistance     |
-|       External/Internal        | $G_1 \cap G_4 \cap U_2 \cap U_3$ |     Rings of Benefit     |
-|    Energetic/Informational     |                                  | Flexible Manoeuvring HEF |
-|     Excitable/Inhibitable      |                                  |   Linear Assertive HEF   |
-| Impressionable/Unimpresionable |                                  |  Receptive Adaptive HEF  |
-|       Tensioned/Relaxed        |                                  |   Balanced Stable HEF    |
+|       Function Dichotomy       |   TIM Tetrachotomy Construction    |     TIM Tetrachotomy     |
+| :----------------------------: | :--------------------------------: | :----------------------: |
+|           Valid/Null           |           $G_1 \cap U_3$           |      Process/Result      |
+|        Opening/Closing         |  $G_1 \cap G_2 \cap U_3 \cap U_4$  |   Rings of Supervision   |
+|        Stable/Unstable         |  $G_1 \cap G_3 \cap U_1 \cap U_3$  |    Stress Resistance     |
+|       External/Internal        |  $G_1 \cap G_4 \cap U_2 \cap U_3$  |     Rings of Benefit     |
+|    Energetic/Informational     | $G_1 \cap PL_3 \cap PK_1 \cap U_3$ | Flexible Manoeuvring HEF |
+|     Excitable/Inhibitable      |                                    |   Linear Assertive HEF   |
+| Impressionable/Unimpresionable |                                    |  Receptive Adaptive HEF  |
+|       Tensioned/Relaxed        |                                    |   Balanced Stable HEF    |
 
 ##### For Linear Assertive Types
 
