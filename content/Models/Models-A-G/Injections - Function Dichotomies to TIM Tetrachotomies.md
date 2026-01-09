@@ -254,9 +254,9 @@
 |        Stable/Unstable         |    $O_1 \cap O_3 \cap P_1 \cap P_3$    |  Stress Resistance   |
 |       External/Internal        |    $O_1 \cap O_2 \cap P_3 \cap P_4$    |   Rings of Benefit   |
 |    Energetic/Informational     | $O_1 \cap (DA)_3 \cap (DQ)_1 \cap P_3$ |   Approaching HEF    |
-|     Excitable/Inhibitable      |                                        |     Shaping HEF      |
-| Impressionable/Unimpresionable |                                        |    Abstaining HEF    |
-|       Tensioned/Relaxed        |                                        |   Integrating HEF    |
+|     Excitable/Inhibitable      | $O_1 \cap (DA)_2 \cap (DQ)_4 \cap P_3$ |     Shaping HEF      |
+| Impressionable/Unimpresionable | $O_1 \cap (DA)_1 \cap (DQ)_3 \cap P_3$ |    Abstaining HEF    |
+|       Tensioned/Relaxed        | $O_1 \cap (DA)_4 \cap (DQ)_2 \cap P_3$ |   Integrating HEF    |
 
 ##### For Shaping Types
 
@@ -267,9 +267,9 @@
 |        Stable/Unstable         |    $O_1 \cap O_3 \cap P_1 \cap P_3$    |  Stress Resistance   |
 |       External/Internal        |    $O_1 \cap O_2 \cap P_3 \cap P_4$    |   Rings of Benefit   |
 |    Energetic/Informational     | $O_1 \cap (DA)_2 \cap (DQ)_4 \cap P_3$ |     Shaping HEF      |
-|     Excitable/Inhibitable      |                                        |   Approaching HEF    |
-| Impressionable/Unimpresionable |                                        |   Integrating HEF    |
-|       Tensioned/Relaxed        |                                        |    Abstaining HEF    |
+|     Excitable/Inhibitable      | $O_1 \cap (DA)_3 \cap (DQ)_1 \cap P_3$ |   Approaching HEF    |
+| Impressionable/Unimpresionable | $O_1 \cap (DA)_4 \cap (DQ)_2 \cap P_3$ |   Integrating HEF    |
+|       Tensioned/Relaxed        | $O_1 \cap (DA)_1 \cap (DQ)_3 \cap P_3$ |    Abstaining HEF    |
 
 ##### For Abstaining Types
 
@@ -280,9 +280,9 @@
 |         Stable/Unstable         |    $O_1 \cap O_3 \cap P_1 \cap P_3$    |  Stress Resistance   |
 |        External/Internal        |    $O_1 \cap O_2 \cap P_3 \cap P_4$    |   Rings of Benefit   |
 |     Energetic/Informational     | $O_1 \cap (DA)_1 \cap (DQ)_3 \cap P_3$ |    Abstaining HEF    |
-|      Excitable/Inhibitable      |                                        |   Integrating HEF    |
-| Impressionable/Unimpressionable |                                        |   Approaching HEF    |
-|        Tensioned/Relaxed        |                                        |     Shaping HEF      |
+|      Excitable/Inhibitable      | $O_1 \cap (DA)_4 \cap (DQ)_2 \cap P_3$ |   Integrating HEF    |
+| Impressionable/Unimpressionable | $O_1 \cap (DA)_3 \cap (DQ)_1 \cap P_3$ |   Approaching HEF    |
+|        Tensioned/Relaxed        | $O_1 \cap (DA)_2 \cap (DQ)_4 \cap P_3$ |     Shaping HEF      |
 
 ##### For Integrating Types
 
@@ -293,9 +293,9 @@
 |         Stable/Unstable         |    $O_1 \cap O_3 \cap P_1 \cap P_3$    |  Stress Resistance   |
 |        External/Internal        |    $O_1 \cap O_2 \cap P_3 \cap P_4$    |   Rings of Benefit   |
 |     Energetic/Informational     | $O_1 \cap (DA)_4 \cap (DQ)_2 \cap P_3$ |   Integrating HEF    |
-|      Excitable/Inhibitable      |                                        |    Abstaining HEF    |
-| Impressionable/Unimpressionable |                                        |     Shaping HEF      |
-|        Tensioned/Relaxed        |                                        |   Approaching HEF    |
+|      Excitable/Inhibitable      | $O_1 \cap (DA)_1 \cap (DQ)_3 \cap P_3$ |    Abstaining HEF    |
+| Impressionable/Unimpressionable | $O_1 \cap (DA)_2 \cap (DQ)_4 \cap P_3$ |     Shaping HEF      |
+|        Tensioned/Relaxed        | $O_1 \cap (DA)_3 \cap (DQ)_1 \cap P_3$ |   Approaching HEF    |
 
 
 #### Mirror Conflict HEF
