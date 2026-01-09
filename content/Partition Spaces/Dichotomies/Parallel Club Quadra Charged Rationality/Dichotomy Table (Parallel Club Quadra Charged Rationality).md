@@ -7,4 +7,7 @@
 
 L = +Q1
 C = -Q4
-EA - 
+EA = +Q2
+EC = -Q3
+AP = -Q1
+CP = 
