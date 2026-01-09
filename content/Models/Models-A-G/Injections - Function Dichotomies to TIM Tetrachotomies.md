@@ -232,31 +232,31 @@
 
 ##### For Receptive Adaptive Types
 
-|       Function Dichotomy       |   TIM Tetrachotomy Construction    |     TIM Tetrachotomy     |
-| :----------------------------: | :--------------------------------: | :----------------------: |
-|           Valid/Null           |           $G_1 \cap U_3$           |      Process/Result      |
-|        Opening/Closing         |  $G_1 \cap G_2 \cap U_3 \cap U_4$  |   Rings of Supervision   |
-|        Stable/Unstable         |  $G_1 \cap G_3 \cap U_1 \cap U_3$  |    Stress Resistance     |
-|       External/Internal        |  $G_1 \cap G_4 \cap U_2 \cap U_3$  |     Rings of Benefit     |
-|    Energetic/Informational     | $G_1 \cap PL_1 \cap PK_3 \cap U_3$ |  Receptive Adaptive HEF  |
-|     Excitable/Inhibitable      | $G_1 \cap PL_2 \cap PK_4 \cap U_3$ |   Balanced Stable HEF    |
-| Impressionable/Unimpresionable | $G_1 \cap PL_3 \cap PK_1 \cap U_3$ | Flexible Manoeuvring HEF |
-|       Tensioned/Relaxed        | $G_1 \cap PL_4 \cap PK_2 \cap U_3$ |   Linear Assertive HEF   |
+|       Function Dichotomy       |     TIM Tetrachotomy Construction      |     TIM Tetrachotomy     |
+| :----------------------------: | :------------------------------------: | :----------------------: |
+|           Valid/Null           |             $G_1 \cap U_3$             |      Process/Result      |
+|        Opening/Closing         |    $G_1 \cap G_2 \cap U_3 \cap U_4$    |   Rings of Supervision   |
+|        Stable/Unstable         |    $G_1 \cap G_3 \cap U_1 \cap U_3$    |    Stress Resistance     |
+|       External/Internal        |    $G_1 \cap G_4 \cap U_2 \cap U_3$    |     Rings of Benefit     |
+|    Energetic/Informational     | $G_1 \cap (PL)_1 \cap (PK)_3 \cap U_3$ |  Receptive Adaptive HEF  |
+|     Excitable/Inhibitable      | $G_1 \cap (PL)_2 \cap (PK)_4 \cap U_3$ |   Balanced Stable HEF    |
+| Impressionable/Unimpresionable | $G_1 \cap (PL)_3 \cap (PK)_1 \cap U_3$ | Flexible Manoeuvring HEF |
+|       Tensioned/Relaxed        |   $G_1 \cap PL_4 \cap PK_2 \cap U_3$   |   Linear Assertive HEF   |
 
 
 #### Activation Quasi Identity HEF
 ##### For Approaching Types
 
-|       Function Dichotomy       |  TIM Tetrachotomy Construction   |   TIM Tetrachotomy   |
-| :----------------------------: | :------------------------------: | :------------------: |
-|           Valid/Null           |          $O_1 \cap P_3$          |    Process/Result    |
-|        Opening/Closing         | $O_1 \cap O_4 \cap P_2 \cap P_3$ | Rings of Supervision |
-|        Stable/Unstable         | $O_1 \cap O_3 \cap P_1 \cap P_3$ |  Stress Resistance   |
-|       External/Internal        | $O_1 \cap O_2 \cap P_3 \cap P_4$ |   Rings of Benefit   |
-|    Energetic/Informational     |    $O_1 \cap DA_3 \cap DQ_`$     |   Approaching HEF    |
-|     Excitable/Inhibitable      |                                  |     Shaping HEF      |
-| Impressionable/Unimpresionable |                                  |    Abstaining HEF    |
-|       Tensioned/Relaxed        |                                  |   Integrating HEF    |
+|       Function Dichotomy       |   TIM Tetrachotomy Construction    |   TIM Tetrachotomy   |
+| :----------------------------: | :--------------------------------: | :------------------: |
+|           Valid/Null           |           $O_1 \cap P_3$           |    Process/Result    |
+|        Opening/Closing         |  $O_1 \cap O_4 \cap P_2 \cap P_3$  | Rings of Supervision |
+|        Stable/Unstable         |  $O_1 \cap O_3 \cap P_1 \cap P_3$  |  Stress Resistance   |
+|       External/Internal        |  $O_1 \cap O_2 \cap P_3 \cap P_4$  |   Rings of Benefit   |
+|    Energetic/Informational     | $O_1 \cap DA_3 \cap DQ_1 \cap P_3$ |   Approaching HEF    |
+|     Excitable/Inhibitable      |                                    |     Shaping HEF      |
+| Impressionable/Unimpresionable |                                    |    Abstaining HEF    |
+|       Tensioned/Relaxed        |                                    |   Integrating HEF    |
 
 ##### For Shaping Types
 
