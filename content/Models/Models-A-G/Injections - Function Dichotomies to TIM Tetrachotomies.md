@@ -253,49 +253,49 @@
 |        Opening/Closing         | $O_1 \cap O_4 \cap P_2 \cap P_3$ | Rings of Supervision |
 |        Stable/Unstable         | $O_1 \cap O_3 \cap P_1 \cap P_3$ |  Stress Resistance   |
 |       External/Internal        | $O_1 \cap O_2 \cap P_3 \cap P_4$ |   Rings of Benefit   |
-|    Energetic/Informational     |         Approaching HEF          |   Approaching HEF    |
-|     Excitable/Inhibitable      |           Shaping HEF            |     Shaping HEF      |
-| Impressionable/Unimpresionable |          Abstaining HEF          |    Abstaining HEF    |
-|       Tensioned/Relaxed        |         Integrating HEF          |   Integrating HEF    |
+|    Energetic/Informational     |    $O_1 \cap DA_3 \cap DQ_`$     |   Approaching HEF    |
+|     Excitable/Inhibitable      |                                  |     Shaping HEF      |
+| Impressionable/Unimpresionable |                                  |    Abstaining HEF    |
+|       Tensioned/Relaxed        |                                  |   Integrating HEF    |
 
 ##### For Shaping Types
 
-|       Function Dichotomy       |   TIM Tetrachotomy   |   TIM Tetrachotomy   |
-| :----------------------------: | :------------------: | :------------------: |
-|           Valid/Null           |    Process/Result    |    Process/Result    |
-|        Opening/Closing         | Rings of Supervision | Rings of Supervision |
-|        Stable/Unstable         |  Stress Resistance   |  Stress Resistance   |
-|       External/Internal        |   Rings of Benefit   |   Rings of Benefit   |
-|    Energetic/Informational     |     Shaping HEF      |     Shaping HEF      |
-|     Excitable/Inhibitable      |   Approaching HEF    |   Approaching HEF    |
-| Impressionable/Unimpresionable |   Integrating HEF    |   Integrating HEF    |
-|       Tensioned/Relaxed        |    Abstaining HEF    |    Abstaining HEF    |
+|       Function Dichotomy       |  TIM Tetrachotomy Construction   |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------------------: | :------------------: |
+|           Valid/Null           |          $O_1 \cap P_3$          |    Process/Result    |
+|        Opening/Closing         | $O_1 \cap O_4 \cap P_2 \cap P_3$ | Rings of Supervision |
+|        Stable/Unstable         | $O_1 \cap O_3 \cap P_1 \cap P_3$ |  Stress Resistance   |
+|       External/Internal        | $O_1 \cap O_2 \cap P_3 \cap P_4$ |   Rings of Benefit   |
+|    Energetic/Informational     |                                  |     Shaping HEF      |
+|     Excitable/Inhibitable      |                                  |   Approaching HEF    |
+| Impressionable/Unimpresionable |                                  |   Integrating HEF    |
+|       Tensioned/Relaxed        |                                  |    Abstaining HEF    |
 
 ##### For Abstaining Types
 
-|       Function Dichotomy       |   TIM Tetrachotomy   |   TIM Tetrachotomy   |
-| :----------------------------: | :------------------: | :------------------: |
-|           Valid/Null           |    Process/Result    |    Process/Result    |
-|        Opening/Closing         | Rings of Supervision | Rings of Supervision |
-|        Stable/Unstable         |  Stress Resistance   |  Stress Resistance   |
-|       External/Internal        |   Rings of Benefit   |   Rings of Benefit   |
-|    Energetic/Informational     |    Abstaining HEF    |    Abstaining HEF    |
-|     Excitable/Inhibitable      |   Integrating HEF    |   Integrating HEF    |
-| Impressionable/Unimpresionable |   Approaching HEF    |   Approaching HEF    |
-|       Tensioned/Relaxed        |     Shaping HEF      |     Shaping HEF      |
+|       Function Dichotomy       |  TIM Tetrachotomy Construction   |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------------------: | :------------------: |
+|           Valid/Null           |          $O_1 \cap P_3$          |    Process/Result    |
+|        Opening/Closing         | $O_1 \cap O_4 \cap P_2 \cap P_3$ | Rings of Supervision |
+|        Stable/Unstable         | $O_1 \cap O_3 \cap P_1 \cap P_3$ |  Stress Resistance   |
+|       External/Internal        | $O_1 \cap O_2 \cap P_3 \cap P_4$ |   Rings of Benefit   |
+|    Energetic/Informational     |                                  |    Abstaining HEF    |
+|     Excitable/Inhibitable      |                                  |   Integrating HEF    |
+| Impressionable/Unimpresionable |                                  |   Approaching HEF    |
+|       Tensioned/Relaxed        |                                  |     Shaping HEF      |
 
 ##### For Integrating Types
 
-|       Function Dichotomy       |   TIM Tetrachotomy   |   TIM Tetrachotomy   |
-| :----------------------------: | :------------------: | :------------------: |
-|           Valid/Null           |    Process/Result    |    Process/Result    |
-|        Opening/Closing         | Rings of Supervision | Rings of Supervision |
-|        Stable/Unstable         |  Stress Resistance   |  Stress Resistance   |
-|       External/Internal        |   Rings of Benefit   |   Rings of Benefit   |
-|    Energetic/Informational     |   Integrating HEF    |   Integrating HEF    |
-|     Excitable/Inhibitable      |    Abstaining HEF    |    Abstaining HEF    |
-| Impressionable/Unimpresionable |     Shaping HEF      |     Shaping HEF      |
-|       Tensioned/Relaxed        |   Approaching HEF    |   Approaching HEF    |
+|       Function Dichotomy       |  TIM Tetrachotomy Construction   |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------------------: | :------------------: |
+|           Valid/Null           |          $O_1 \cap P_3$          |    Process/Result    |
+|        Opening/Closing         | $O_1 \cap O_4 \cap P_2 \cap P_3$ | Rings of Supervision |
+|        Stable/Unstable         | $O_1 \cap O_3 \cap P_1 \cap P_3$ |  Stress Resistance   |
+|       External/Internal        | $O_1 \cap O_2 \cap P_3 \cap P_4$ |   Rings of Benefit   |
+|    Energetic/Informational     |                                  |   Integrating HEF    |
+|     Excitable/Inhibitable      |                                  |    Abstaining HEF    |
+| Impressionable/Unimpresionable |                                  |     Shaping HEF      |
+|       Tensioned/Relaxed        |                                  |   Approaching HEF    |
 
 
 #### Mirror Conflict HEF
