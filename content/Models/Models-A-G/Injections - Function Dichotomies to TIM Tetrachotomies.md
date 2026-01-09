@@ -307,7 +307,7 @@
 |         Opening/Closing         | $V_1 \cap V_2 \cap C_3 \cap C_4$ | Rings of Supervision |
 |         Stable/Unstable         | $V_1 \cap V_3 \cap C_1 \cap C_3$ |  Stress Resistance   |
 |        External/Internal        | $V_1 \cap V_4 \cap C_2 \cap C_3$ |   Rings of Benefit   |
-|     Energetic/Informational     |                                  |   Reorienters HEF    |
+|     Energetic/Informational     |           $V_1 \cap $            |   Reorienters HEF    |
 |      Excitable/Inhibitable      |                                  |    Slackeners HEF    |
 | Impressionable/Unimpressionable |                                  |    Sharpeners HEF    |
 |        Tensioned/Relaxed        |                                  | Foundationalists HEF |
