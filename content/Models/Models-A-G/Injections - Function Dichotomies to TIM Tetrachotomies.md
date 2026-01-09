@@ -206,16 +206,16 @@
 
 ##### For Linear Assertive Types
 
-|       Function Dichotomy       |   TIM Tetrachotomy Construction    |   TIM Tetrachotomy   |
-| :----------------------------: | :--------------------------------: | :------------------: |
-|           Valid/Null           |           $G_1 \cap U_3$           |    Process/Result    |
-|        Opening/Closing         |  $G_1 \cap G_2 \cap U_3 \cap U_4$  | Rings of Supervision |
-|        Stable/Unstable         |  $G_1 \cap G_3 \cap U_1 \cap U_3$  |  Stress Resistance   |
-|       External/Internal        |  $G_1 \cap G_4 \cap U_2 \cap U_3$  |   Rings of Benefit   |
-|    Energetic/Informational     | $G_1 \cap PL_4 \cap PK_2 \cap U_3$ | Linear Assertive HEF |
-|     Excitable/Inhibitable      |                                    |                      |
-| Impressionable/Unimpresionable | $G_1 \cap PL_2 \cap PK_4 \cap U_3$ | Balanced Stable HEF  |
-|       Tensioned/Relaxed        |                                    |                      |
+|       Function Dichotomy       |   TIM Tetrachotomy Construction    |    TIM Tetrachotomy    |
+| :----------------------------: | :--------------------------------: | :--------------------: |
+|           Valid/Null           |           $G_1 \cap U_3$           |     Process/Result     |
+|        Opening/Closing         |  $G_1 \cap G_2 \cap U_3 \cap U_4$  |  Rings of Supervision  |
+|        Stable/Unstable         |  $G_1 \cap G_3 \cap U_1 \cap U_3$  |   Stress Resistance    |
+|       External/Internal        |  $G_1 \cap G_4 \cap U_2 \cap U_3$  |    Rings of Benefit    |
+|    Energetic/Informational     | $G_1 \cap PL_4 \cap PK_2 \cap U_3$ |  Linear Assertive HEF  |
+|     Excitable/Inhibitable      |                                    |                        |
+| Impressionable/Unimpresionable | $G_1 \cap PL_2 \cap PK_4 \cap U_3$ |  Balanced Stable HEF   |
+|       Tensioned/Relaxed        |                                    | Receptive Adaptive HEF |
 
 ##### For Balanced Stable Types
 
