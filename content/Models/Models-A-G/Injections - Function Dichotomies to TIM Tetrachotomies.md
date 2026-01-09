@@ -301,16 +301,16 @@
 #### Mirror Conflict HEF
 ##### For Reorienters
 
-|       Function Dichotomy        |    TIM Tetrachotomy Construction    |   TIM Tetrachotomy   |
-| :-----------------------------: | :---------------------------------: | :------------------: |
-|           Valid/Null            |           $V_1 \cap C_3$            |    Process/Result    |
-|         Opening/Closing         |  $V_1 \cap V_2 \cap C_3 \cap C_4$   | Rings of Supervision |
-|         Stable/Unstable         |  $V_1 \cap V_3 \cap C_1 \cap C_3$   |  Stress Resistance   |
-|        External/Internal        |  $V_1 \cap V_4 \cap C_2 \cap C_3$   |   Rings of Benefit   |
-|     Energetic/Informational     | $V_1 \cap (DC)_3 \cap (DQ)_1 \cap $ |   Reorienters HEF    |
-|      Excitable/Inhibitable      |                                     |    Slackeners HEF    |
-| Impressionable/Unimpressionable |                                     |    Sharpeners HEF    |
-|        Tensioned/Relaxed        |                                     | Foundationalists HEF |
+|       Function Dichotomy        |     TIM Tetrachotomy Construction      |   TIM Tetrachotomy   |
+| :-----------------------------: | :------------------------------------: | :------------------: |
+|           Valid/Null            |             $V_1 \cap C_3$             |    Process/Result    |
+|         Opening/Closing         |    $V_1 \cap V_2 \cap C_3 \cap C_4$    | Rings of Supervision |
+|         Stable/Unstable         |    $V_1 \cap V_3 \cap C_1 \cap C_3$    |  Stress Resistance   |
+|        External/Internal        |    $V_1 \cap V_4 \cap C_2 \cap C_3$    |   Rings of Benefit   |
+|     Energetic/Informational     | $V_1 \cap (DC)_3 \cap (DQ)_1 \cap C_3$ |   Reorienters HEF    |
+|      Excitable/Inhibitable      |                                        |    Slackeners HEF    |
+| Impressionable/Unimpressionable |                                        |    Sharpeners HEF    |
+|        Tensioned/Relaxed        |                                        | Foundationalists HEF |
 
 ##### For Foundationalists
 
