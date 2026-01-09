@@ -201,8 +201,8 @@
 |       External/Internal        |  $G_1 \cap G_4 \cap U_2 \cap U_3$  |     Rings of Benefit     |
 |    Energetic/Informational     | $G_1 \cap PL_3 \cap PK_1 \cap U_3$ | Flexible Manoeuvring HEF |
 |     Excitable/Inhibitable      | $G_1 \cap PL_4 \cap PK_2 \cap U_3$ |   Linear Assertive HEF   |
-| Impressionable/Unimpresionable |                                    |  Receptive Adaptive HEF  |
-|       Tensioned/Relaxed        |                                    |   Balanced Stable HEF    |
+| Impressionable/Unimpresionable | $G_1 \cap PL_1 \cap PK_3 \cap U_3$ |  Receptive Adaptive HEF  |
+|       Tensioned/Relaxed        | $G_1 \cap PL_2 \cap PK_4 \cap U_3$ |   Balanced Stable HEF    |
 
 ##### For Linear Assertive Types
 
@@ -240,7 +240,7 @@
 |       External/Internal        |  $G_1 \cap G_4 \cap U_2 \cap U_3$  |     Rings of Benefit     |
 |    Energetic/Informational     | $G_1 \cap PL_1 \cap PK_3 \cap U_3$ |  Receptive Adaptive HEF  |
 |     Excitable/Inhibitable      |                                    |   Balanced Stable HEF    |
-| Impressionable/Unimpresionable |                                    | Flexible Manoeuvring HEF |
+| Impressionable/Unimpresionable | $G_1 \cap PL_3 \cap PK_1 \cap U_3$ | Flexible Manoeuvring HEF |
 |       Tensioned/Relaxed        | $G_1 \cap PL_4 \cap PK_2 \cap U_3$ |   Linear Assertive HEF   |
 
 
