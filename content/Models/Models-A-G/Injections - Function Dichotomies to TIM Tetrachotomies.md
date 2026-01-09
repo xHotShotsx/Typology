@@ -193,16 +193,16 @@
 #### Kindred Business HEF
 ##### For Flexible Manoeuvring Types
 
-|       Function Dichotomy       |   TIM Tetrachotomy   |     TIM Tetrachotomy     |
-| :----------------------------: | :------------------: | :----------------------: |
-|           Valid/Null           |    Process/Result    |      Process/Result      |
-|        Opening/Closing         | Rings of Supervision |   Rings of Supervision   |
-|        Stable/Unstable         |  Stress Resistance   |    Stress Resistance     |
-|       External/Internal        |   Rings of Benefit   |     Rings of Benefit     |
-|    Energetic/Informational     |                      | Flexible Manoeuvring HEF |
-|     Excitable/Inhibitable      |                      |   Linear Assertive HEF   |
-| Impressionable/Unimpresionable |                      |  Receptive Adaptive HEF  |
-|       Tensioned/Relaxed        |                      |   Balanced Stable HEF    |
+|       Function Dichotomy       | TIM Tetrachotomy Construction |     TIM Tetrachotomy     |
+| :----------------------------: | :---------------------------: | :----------------------: |
+|           Valid/Null           |        $G_1 \cap U_3$         |      Process/Result      |
+|        Opening/Closing         |            $G_1 $             |   Rings of Supervision   |
+|        Stable/Unstable         |       Stress Resistance       |    Stress Resistance     |
+|       External/Internal        |       Rings of Benefit        |     Rings of Benefit     |
+|    Energetic/Informational     |                               | Flexible Manoeuvring HEF |
+|     Excitable/Inhibitable      |                               |   Linear Assertive HEF   |
+| Impressionable/Unimpresionable |                               |  Receptive Adaptive HEF  |
+|       Tensioned/Relaxed        |                               |   Balanced Stable HEF    |
 
 ##### For Linear Assertive Types
 
