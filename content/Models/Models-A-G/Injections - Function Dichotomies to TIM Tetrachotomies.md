@@ -301,29 +301,29 @@
 #### Mirror Conflict HEF
 ##### For Reorienters
 
-|       Function Dichotomy        |   TIM Tetrachotomy   |
-| :-----------------------------: | :------------------: |
-|           Valid/Null            |    Process/Result    |
-|         Opening/Closing         | Rings of Supervision |
-|         Stable/Unstable         |  Stress Resistance   |
-|        External/Internal        |   Rings of Benefit   |
-|     Energetic/Informational     |   Reorienters HEF    |
-|      Excitable/Inhibitable      |    Slackeners HEF    |
-| Impressionable/Unimpressionable |    Sharpeners HEF    |
-|        Tensioned/Relaxed        | Foundationalists HEF |
+|       Function Dichotomy        |   TIM Tetrachotomy   |   TIM Tetrachotomy   |
+| :-----------------------------: | :------------------: | :------------------: |
+|           Valid/Null            |    Process/Result    |    Process/Result    |
+|         Opening/Closing         | Rings of Supervision | Rings of Supervision |
+|         Stable/Unstable         |  Stress Resistance   |  Stress Resistance   |
+|        External/Internal        |   Rings of Benefit   |   Rings of Benefit   |
+|     Energetic/Informational     |   Reorienters HEF    |   Reorienters HEF    |
+|      Excitable/Inhibitable      |    Slackeners HEF    |    Slackeners HEF    |
+| Impressionable/Unimpressionable |    Sharpeners HEF    |    Sharpeners HEF    |
+|        Tensioned/Relaxed        | Foundationalists HEF | Foundationalists HEF |
 
 ##### For Foundationalists
 
-|       Function Dichotomy        |   TIM Tetrachotomy   |
-| :-----------------------------: | :------------------: |
-|           Valid/Null            |    Process/Result    |
-|         Opening/Closing         | Rings of Supervision |
-|         Stable/Unstable         |  Stress Resistance   |
-|        External/Internal        |   Rings of Benefit   |
-|     Energetic/Informational     | Foundationalists HEF |
-|      Excitable/Inhibitable      |    Sharpeners HEF    |
-| Impressionable/Unimpressionable |    Slackeners HEF    |
-|        Tensioned/Relaxed        |   Reorienters HEF    |
+|       Function Dichotomy        |   TIM Tetrachotomy   |     |
+| :-----------------------------: | :------------------: | :-: |
+|           Valid/Null            |    Process/Result    |     |
+|         Opening/Closing         | Rings of Supervision |     |
+|         Stable/Unstable         |  Stress Resistance   |     |
+|        External/Internal        |   Rings of Benefit   |     |
+|     Energetic/Informational     | Foundationalists HEF |     |
+|      Excitable/Inhibitable      |    Sharpeners HEF    |     |
+| Impressionable/Unimpressionable |    Slackeners HEF    |     |
+|        Tensioned/Relaxed        |   Reorienters HEF    |     |
 
 ##### For Sharpeners
 
