@@ -213,7 +213,7 @@
 |        Stable/Unstable         |  $G_1 \cap G_3 \cap U_1 \cap U_3$  |    Stress Resistance     |
 |       External/Internal        |  $G_1 \cap G_4 \cap U_2 \cap U_3$  |     Rings of Benefit     |
 |    Energetic/Informational     | $G_1 \cap PL_4 \cap PK_2 \cap U_3$ |   Linear Assertive HEF   |
-|     Excitable/Inhibitable      |                                    | Flexible Manoeuvring HEF |
+|     Excitable/Inhibitable      | $G_1 \cap PL_3 \cap PK_1 \cap U_3$ | Flexible Manoeuvring HEF |
 | Impressionable/Unimpresionable | $G_1 \cap PL_2 \cap PK_4 \cap U_3$ |   Balanced Stable HEF    |
 |       Tensioned/Relaxed        | $G_1 \cap PL_1 \cap PK_3 \cap U_3$ |  Receptive Adaptive HEF  |
 
@@ -228,7 +228,7 @@
 |    Energetic/Informational     | $G_1 \cap PL_2 \cap PK_4 \cap U_3$ |   Balanced Stable HEF    |
 |     Excitable/Inhibitable      | $G_1 \cap PL_1 \cap PK_3 \cap U_3$ |  Receptive Adaptive HEF  |
 | Impressionable/Unimpresionable | $G_1 \cap PL_4 \cap PK_2 \cap U_3$ |   Linear Assertive HEF   |
-|       Tensioned/Relaxed        |                                    | Flexible Manoeuvring HEF |
+|       Tensioned/Relaxed        | $G_1 \cap PL_3 \cap PK_1 \cap U_3$ | Flexible Manoeuvring HEF |
 
 ##### For Receptive Adaptive Types
 
@@ -260,16 +260,16 @@
 
 ##### For Shaping Types
 
-|       Function Dichotomy       |   TIM Tetrachotomy   |
-| :----------------------------: | :------------------: |
-|           Valid/Null           |    Process/Result    |
-|        Opening/Closing         | Rings of Supervision |
-|        Stable/Unstable         |  Stress Resistance   |
-|       External/Internal        |   Rings of Benefit   |
-|    Energetic/Informational     |     Shaping HEF      |
-|     Excitable/Inhibitable      |   Approaching HEF    |
-| Impressionable/Unimpresionable |   Integrating HEF    |
-|       Tensioned/Relaxed        |    Abstaining HEF    |
+|       Function Dichotomy       |   TIM Tetrachotomy   |     |
+| :----------------------------: | :------------------: | :-: |
+|           Valid/Null           |    Process/Result    |     |
+|        Opening/Closing         | Rings of Supervision |     |
+|        Stable/Unstable         |  Stress Resistance   |     |
+|       External/Internal        |   Rings of Benefit   |     |
+|    Energetic/Informational     |     Shaping HEF      |     |
+|     Excitable/Inhibitable      |   Approaching HEF    |     |
+| Impressionable/Unimpresionable |   Integrating HEF    |     |
+|       Tensioned/Relaxed        |    Abstaining HEF    |     |
 
 ##### For Abstaining Types
 
