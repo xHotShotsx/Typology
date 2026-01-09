@@ -314,16 +314,16 @@
 
 ##### For Foundationalists
 
-|       Function Dichotomy        |  TIM Tetrachotomy Construction   |   TIM Tetrachotomy   |
-| :-----------------------------: | :------------------------------: | :------------------: |
-|           Valid/Null            |          $V_1 \cap C_3$          |    Process/Result    |
-|         Opening/Closing         | $V_1 \cap V_2 \cap C_3 \cap C_4$ | Rings of Supervision |
-|         Stable/Unstable         | $V_1 \cap V_3 \cap C_1 \cap C_3$ |  Stress Resistance   |
-|        External/Internal        | $V_1 \cap V_4 \cap C_2 \cap C_3$ |   Rings of Benefit   |
-|     Energetic/Informational     |  $V_1 \cap (DC)_2 \cap (DM)_4$   | Foundationalists HEF |
-|      Excitable/Inhibitable      |                                  |    Sharpeners HEF    |
-| Impressionable/Unimpressionable |                                  |    Slackeners HEF    |
-|        Tensioned/Relaxed        |                                  |   Reorienters HEF    |
+|       Function Dichotomy        |     TIM Tetrachotomy Construction      |   TIM Tetrachotomy   |
+| :-----------------------------: | :------------------------------------: | :------------------: |
+|           Valid/Null            |             $V_1 \cap C_3$             |    Process/Result    |
+|         Opening/Closing         |    $V_1 \cap V_2 \cap C_3 \cap C_4$    | Rings of Supervision |
+|         Stable/Unstable         |    $V_1 \cap V_3 \cap C_1 \cap C_3$    |  Stress Resistance   |
+|        External/Internal        |    $V_1 \cap V_4 \cap C_2 \cap C_3$    |   Rings of Benefit   |
+|     Energetic/Informational     | $V_1 \cap (DC)_2 \cap (DM)_4 \cap C_3$ | Foundationalists HEF |
+|      Excitable/Inhibitable      |                                        |    Sharpeners HEF    |
+| Impressionable/Unimpressionable |                                        |    Slackeners HEF    |
+|        Tensioned/Relaxed        |                                        |   Reorienters HEF    |
 
 ##### For Sharpeners
 
@@ -333,7 +333,7 @@
 |         Opening/Closing         | $V_1 \cap V_2 \cap C_3 \cap C_4$ | Rings of Supervision |
 |         Stable/Unstable         | $V_1 \cap V_3 \cap C_1 \cap C_3$ |  Stress Resistance   |
 |        External/Internal        | $V_1 \cap V_4 \cap C_2 \cap C_3$ |   Rings of Benefit   |
-|     Energetic/Informational     |                                  |    Sharpeners HEF    |
+|     Energetic/Informational     |                $$                |    Sharpeners HEF    |
 |      Excitable/Inhibitable      |                                  | Foundationalists HEF |
 | Impressionable/Unimpressionable |                                  |   Reorienters HEF    |
 |        Tensioned/Relaxed        |                                  |    Slackeners HEF    |
