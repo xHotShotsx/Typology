@@ -250,7 +250,7 @@
 |       Function Dichotomy       | TIM Tetrachotomy Construction |   TIM Tetrachotomy   |
 | :----------------------------: | :---------------------------: | :------------------: |
 |           Valid/Null           |        $O_1 \cap P_3$         |    Process/Result    |
-|        Opening/Closing         |          $O_1 \cap $          | Rings of Supervision |
+|        Opening/Closing         |     $O_1 \cap \cap O_P_3$     | Rings of Supervision |
 |        Stable/Unstable         |       Stress Resistance       |  Stress Resistance   |
 |       External/Internal        |       Rings of Benefit        |   Rings of Benefit   |
 |    Energetic/Informational     |        Approaching HEF        |   Approaching HEF    |
