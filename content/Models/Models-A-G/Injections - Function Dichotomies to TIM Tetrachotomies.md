@@ -308,7 +308,7 @@
 |         Stable/Unstable         |    $V_1 \cap V_3 \cap C_1 \cap C_3$    |  Stress Resistance   |
 |        External/Internal        |    $V_1 \cap V_4 \cap C_2 \cap C_3$    |   Rings of Benefit   |
 |     Energetic/Informational     | $V_1 \cap (DC)_3 \cap (DQ)_1 \cap C_3$ |   Reorienters HEF    |
-|      Excitable/Inhibitable      |                                        |    Slackeners HEF    |
+|      Excitable/Inhibitable      | $V_1 \cap (DC)_4 \cap (DM)_2 \cap C_3$ |    Slackeners HEF    |
 | Impressionable/Unimpressionable | $V_1 \cap (DC)_1 \cap (DM)_3 \cap C_3$ |    Sharpeners HEF    |
 |        Tensioned/Relaxed        | $V_1 \cap (DC)_2 \cap (DM)_4 \cap C_3$ | Foundationalists HEF |
 
@@ -322,7 +322,7 @@
 |        External/Internal        |    $V_1 \cap V_4 \cap C_2 \cap C_3$    |   Rings of Benefit   |
 |     Energetic/Informational     | $V_1 \cap (DC)_2 \cap (DM)_4 \cap C_3$ | Foundationalists HEF |
 |      Excitable/Inhibitable      | $V_1 \cap (DC)_1 \cap (DM)_3 \cap C_3$ |    Sharpeners HEF    |
-| Impressionable/Unimpressionable |                                        |    Slackeners HEF    |
+| Impressionable/Unimpressionable | $V_1 \cap (DC)_4 \cap (DM)_2 \cap C_3$ |    Slackeners HEF    |
 |        Tensioned/Relaxed        | $V_1 \cap (DC)_3 \cap (DQ)_1 \cap C_3$ |   Reorienters HEF    |
 
 ##### For Sharpeners
@@ -336,7 +336,7 @@
 |     Energetic/Informational     | $V_1 \cap (DC)_1 \cap (DM)_3 \cap C_3$ |    Sharpeners HEF    |
 |      Excitable/Inhibitable      | $V_1 \cap (DC)_2 \cap (DM)_4 \cap C_3$ | Foundationalists HEF |
 | Impressionable/Unimpressionable | $V_1 \cap (DC)_3 \cap (DQ)_1 \cap C_3$ |   Reorienters HEF    |
-|        Tensioned/Relaxed        |                                        |    Slackeners HEF    |
+|        Tensioned/Relaxed        | $V_1 \cap (DC)_4 \cap (DM)_2 \cap C_3$ |    Slackeners HEF    |
 
 ##### For Slackeners
 
