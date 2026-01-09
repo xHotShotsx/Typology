@@ -247,16 +247,16 @@
 #### Activation Quasi Identity HEF
 ##### For Approaching Types
 
-|       Function Dichotomy       |   TIM Tetrachotomy   |   TIM Tetrachotomy   |
-| :----------------------------: | :------------------: | :------------------: |
-|           Valid/Null           |    Process/Result    |    Process/Result    |
-|        Opening/Closing         | Rings of Supervision | Rings of Supervision |
-|        Stable/Unstable         |  Stress Resistance   |  Stress Resistance   |
-|       External/Internal        |   Rings of Benefit   |   Rings of Benefit   |
-|    Energetic/Informational     |   Approaching HEF    |   Approaching HEF    |
-|     Excitable/Inhibitable      |     Shaping HEF      |     Shaping HEF      |
-| Impressionable/Unimpresionable |    Abstaining HEF    |    Abstaining HEF    |
-|       Tensioned/Relaxed        |   Integrating HEF    |   Integrating HEF    |
+|       Function Dichotomy       | TIM Tetrachotomy Construction |   TIM Tetrachotomy   |
+| :----------------------------: | :---------------------------: | :------------------: |
+|           Valid/Null           |        $O_1 \cap P_3$         |    Process/Result    |
+|        Opening/Closing         |          $O_1 \cap $          | Rings of Supervision |
+|        Stable/Unstable         |       Stress Resistance       |  Stress Resistance   |
+|       External/Internal        |       Rings of Benefit        |   Rings of Benefit   |
+|    Energetic/Informational     |        Approaching HEF        |   Approaching HEF    |
+|     Excitable/Inhibitable      |          Shaping HEF          |     Shaping HEF      |
+| Impressionable/Unimpresionable |        Abstaining HEF         |    Abstaining HEF    |
+|       Tensioned/Relaxed        |        Integrating HEF        |   Integrating HEF    |
 
 ##### For Shaping Types
 
