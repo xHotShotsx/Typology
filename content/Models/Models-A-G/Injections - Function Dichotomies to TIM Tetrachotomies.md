@@ -359,7 +359,8 @@
 - [[Dichotomy Table (Tencer-Minaev)]]
 - [[Dichotomy Table (Semidual Mirage HEF)]]
 - [[Dichotomy Table (Kindred Business HEF)]]
-- [[dichotom]]
+- [[Dichotomy Table (Activation Quasi HEF)]]
+- [[Dichotomy Table (Mirror Conflict HEF)]]
 - [[Tetrachotomy Table (Reinin)]]
 - [[Tetrachotomy Table (Tencer-Minaev)]]
 - [Tetrachotomy Table (Semidual Mirage HEF)](https://docs.google.com/document/d/1I6pyl4NzNdYKgeAwYfX0e8gVUAtQ8vu_lOL5HlYRMaw/edit?tab=t.0)
