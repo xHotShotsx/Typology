@@ -323,7 +323,7 @@
 |     Energetic/Informational     | $V_1 \cap (DC)_2 \cap (DM)_4 \cap C_3$ | Foundationalists HEF |
 |      Excitable/Inhibitable      |                                        |    Sharpeners HEF    |
 | Impressionable/Unimpressionable |                                        |    Slackeners HEF    |
-|        Tensioned/Relaxed        |                                        |   Reorienters HEF    |
+|        Tensioned/Relaxed        | $V_1 \cap (DC)_3 \cap (DQ)_1 \cap C_3$ |   Reorienters HEF    |
 
 ##### For Sharpeners
 
@@ -335,21 +335,21 @@
 |        External/Internal        |    $V_1 \cap V_4 \cap C_2 \cap C_3$    |   Rings of Benefit   |
 |     Energetic/Informational     | $V_1 \cap (DC)_1 \cap (DM)_3 \cap C_3$ |    Sharpeners HEF    |
 |      Excitable/Inhibitable      |                                        | Foundationalists HEF |
-| Impressionable/Unimpressionable |                                        |   Reorienters HEF    |
+| Impressionable/Unimpressionable | $V_1 \cap (DC)_3 \cap (DQ)_1 \cap C_3$ |   Reorienters HEF    |
 |        Tensioned/Relaxed        |                                        |    Slackeners HEF    |
 
 ##### For Slackeners
 
-|       Function Dichotomy        |  TIM Tetrachotomy Construction   |   TIM Tetrachotomy   |
-| :-----------------------------: | :------------------------------: | :------------------: |
-|           Valid/Null            |          $V_1 \cap C_3$          |    Process/Result    |
-|         Opening/Closing         | $V_1 \cap V_2 \cap C_3 \cap C_4$ | Rings of Supervision |
-|         Stable/Unstable         | $V_1 \cap V_3 \cap C_1 \cap C_3$ |  Stress Resistance   |
-|        External/Internal        | $V_1 \cap V_4 \cap C_2 \cap C_3$ |   Rings of Benefit   |
-|     Energetic/Informational     |   $V_1 \cap (DC)_4 \cap (DM)$    |    Slackeners HEF    |
-|      Excitable/Inhibitable      |                                  |   Reorienters HEF    |
-| Impressionable/Unimpressionable |                                  | Foundationalists HEF |
-|        Tensioned/Relaxed        |                                  |    Sharpeners HEF    |
+|       Function Dichotomy        |     TIM Tetrachotomy Construction      |   TIM Tetrachotomy   |
+| :-----------------------------: | :------------------------------------: | :------------------: |
+|           Valid/Null            |             $V_1 \cap C_3$             |    Process/Result    |
+|         Opening/Closing         |    $V_1 \cap V_2 \cap C_3 \cap C_4$    | Rings of Supervision |
+|         Stable/Unstable         |    $V_1 \cap V_3 \cap C_1 \cap C_3$    |  Stress Resistance   |
+|        External/Internal        |    $V_1 \cap V_4 \cap C_2 \cap C_3$    |   Rings of Benefit   |
+|     Energetic/Informational     | $V_1 \cap (DC)_4 \cap (DM)_2 \cap C_3$ |    Slackeners HEF    |
+|      Excitable/Inhibitable      | $V_1 \cap (DC)_3 \cap (DQ)_1 \cap C_3$ |   Reorienters HEF    |
+| Impressionable/Unimpressionable |                                        | Foundationalists HEF |
+|        Tensioned/Relaxed        |                                        |    Sharpeners HEF    |
 
 
 # See Also
