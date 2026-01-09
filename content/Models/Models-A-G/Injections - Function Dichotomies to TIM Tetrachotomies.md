@@ -266,7 +266,7 @@
 |        Opening/Closing         | $O_1 \cap O_4 \cap P_2 \cap P_3$ | Rings of Supervision |
 |        Stable/Unstable         | $O_1 \cap O_3 \cap P_1 \cap P_3$ |  Stress Resistance   |
 |       External/Internal        | $O_1 \cap O_2 \cap P_3 \cap P_4$ |   Rings of Benefit   |
-|    Energetic/Informational     |                                  |     Shaping HEF      |
+|    Energetic/Informational     |           $O_1 \cap $            |     Shaping HEF      |
 |     Excitable/Inhibitable      |                                  |   Approaching HEF    |
 | Impressionable/Unimpresionable |                                  |   Integrating HEF    |
 |       Tensioned/Relaxed        |                                  |    Abstaining HEF    |
