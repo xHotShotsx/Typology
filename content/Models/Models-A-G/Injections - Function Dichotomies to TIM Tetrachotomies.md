@@ -146,76 +146,76 @@
 |        Stable/Unstable         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$  |   Stress Resistance   |
 |       External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$  |   Rings of Benefit    |
 |    Energetic/Informational     | $\Delta_1 \cap (PH)_3 \cap (PI)_1 \cap E_3$ | Iridescent Hopes HEF  |
-|     Excitable/Inhibitable      |   $\Delta_1 \cap PH_2 \cap PI_4 \cap E_3$   | Avoiding Failures HEF |
-| Impressionable/Unimpresionable |   $\Delta_1 \cap PH_1 \cap PI_3 \cap E_3$   |      Waiting HEF      |
-|       Tensioned/Relaxed        |   $\Delta_1 \cap PH_4 \cap PI_2 \cap E_3$   |  Realistic Plans HEF  |
+|     Excitable/Inhibitable      | $\Delta_1 \cap (PH)_2 \cap (PI)_4 \cap E_3$ | Avoiding Failures HEF |
+| Impressionable/Unimpresionable | $\Delta_1 \cap (PH)_1 \cap (PI)_3 \cap E_3$ |      Waiting HEF      |
+|       Tensioned/Relaxed        | $\Delta_1 \cap (PH)_4 \cap (PI)_2 \cap E_3$ |  Realistic Plans HEF  |
 
 ##### For Waiting Types
 
-|       Function Dichotomy       |       TIM Tetrachotomy Construction        |   TIM Tetrachotomy    |
-| :----------------------------: | :----------------------------------------: | :-------------------: |
-|           Valid/Null           |            $\Delta_1 \cap E_3$             |    Process/Result     |
-|        Opening/Closing         | $\Delta_1 \cap \Delta_4 \cap E_2 \cap E_3$ | Rings of Supervision  |
-|        Stable/Unstable         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$ |   Stress Resistance   |
-|       External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$ |   Rings of Benefit    |
-|    Energetic/Informational     |  $\Delta_1 \cap PH_1 \cap PI_3 \cap E_3$   |      Waiting HEF      |
-|     Excitable/Inhibitable      |  $\Delta_1 \cap PH_4 \cap PI_2 \cap E_3$   |  Realistic Plans HEF  |
-| Impressionable/Unimpresionable |  $\Delta_1 \cap PH_3 \cap PI_1 \cap E_3$   | Iridescent Hopes HEF  |
-|       Tensioned/Relaxed        |  $\Delta_1 \cap PH_2 \cap PI_4 \cap E_3$   | Avoiding Failures HEF |
+|       Function Dichotomy        |        TIM Tetrachotomy Construction        |   TIM Tetrachotomy    |
+| :-----------------------------: | :-----------------------------------------: | :-------------------: |
+|           Valid/Null            |             $\Delta_1 \cap E_3$             |    Process/Result     |
+|         Opening/Closing         | $\Delta_1 \cap \Delta_4 \cap E_2 \cap E_3$  | Rings of Supervision  |
+|         Stable/Unstable         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$  |   Stress Resistance   |
+|        External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$  |   Rings of Benefit    |
+|     Energetic/Informational     | $\Delta_1 \cap (PH)_1 \cap (PI)_3 \cap E_3$ |      Waiting HEF      |
+|      Excitable/Inhibitable      | $\Delta_1 \cap (PH)_4 \cap (PI)_2 \cap E_3$ |  Realistic Plans HEF  |
+| Impressionable/Unimpressionable | $\Delta_1 \cap (PH)_3 \cap (PI)_1 \cap E_3$ | Iridescent Hopes HEF  |
+|        Tensioned/Relaxed        | $\Delta_1 \cap (PH)_2 \cap (PI)_4 \cap E_3$ | Avoiding Failures HEF |
 
 ##### For Realistic Plans Types
 
-|       Function Dichotomy       |       TIM Tetrachotomy Construction        |   TIM Tetrachotomy    |
-| :----------------------------: | :----------------------------------------: | :-------------------: |
-|           Valid/Null           |            $\Delta_1 \cap E_3$             |    Process/Result     |
-|        Opening/Closing         | $\Delta_1 \cap \Delta_4 \cap E_2 \cap E_3$ | Rings of Supervision  |
-|        Stable/Unstable         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$ |   Stress Resistance   |
-|       External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$ |   Rings of Benefit    |
-|    Energetic/Informational     |  $\Delta_1 \cap PH_4 \cap PI_2 \cap E_3$   |  Realistic Plans HEF  |
-|     Excitable/Inhibitable      |  $\Delta_1 \cap PH_1 \cap PI_3 \cap E_3$   |      Waiting HEF      |
-| Impressionable/Unimpresionable |  $\Delta_1 \cap PH_2 \cap PI_4 \cap E_3$   | Avoiding Failures HEF |
-|       Tensioned/Relaxed        |  $\Delta_1 \cap PH_3 \cap PI_1 \cap E_3$   | Iridescent Hopes HEF  |
+|       Function Dichotomy        |       TIM Tetrachotomy Construction        |   TIM Tetrachotomy    |
+| :-----------------------------: | :----------------------------------------: | :-------------------: |
+|           Valid/Null            |            $\Delta_1 \cap E_3$             |    Process/Result     |
+|         Opening/Closing         | $\Delta_1 \cap \Delta_4 \cap E_2 \cap E_3$ | Rings of Supervision  |
+|         Stable/Unstable         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$ |   Stress Resistance   |
+|        External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$ |   Rings of Benefit    |
+|     Energetic/Informational     |  $\Delta_1 \cap PH_4 \cap PI_2 \cap E_3$   |  Realistic Plans HEF  |
+|      Excitable/Inhibitable      |  $\Delta_1 \cap PH_1 \cap PI_3 \cap E_3$   |      Waiting HEF      |
+| Impressionable/Unimpressionable |  $\Delta_1 \cap PH_2 \cap PI_4 \cap E_3$   | Avoiding Failures HEF |
+|        Tensioned/Relaxed        |  $\Delta_1 \cap PH_3 \cap PI_1 \cap E_3$   | Iridescent Hopes HEF  |
 
 ##### For Avoiding Failures Types
 
-|       Function Dichotomy       |       TIM Tetrachotomy Construction        |   TIM Tetrachotomy    |
-| :----------------------------: | :----------------------------------------: | :-------------------: |
-|           Valid/Null           |            $\Delta_1 \cap E_3$             |    Process/Result     |
-|        Opening/Closing         | $\Delta_1 \cap \Delta_4 \cap E_2 \cap E_3$ | Rings of Supervision  |
-|        Stable/Unstable         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$ |   Stress Resistance   |
-|       External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$ |   Rings of Benefit    |
-|    Energetic/Informational     |  $\Delta_1 \cap PH_2 \cap PI_4 \cap E_3$   | Avoiding Failures HEF |
-|     Excitable/Inhibitable      |  $\Delta_1 \cap PH_3 \cap PI_1 \cap E_3$   | Iridescent Hopes HEF  |
-| Impressionable/Unimpresionable |  $\Delta_1 \cap PH_4 \cap PI_2 \cap E_3$   |  Realistic Plans HEF  |
-|       Tensioned/Relaxed        |  $\Delta_1 \cap PH_1 \cap PI_3 \cap E_3$   |      Waiting HEF      |
+|       Function Dichotomy        |       TIM Tetrachotomy Construction        |   TIM Tetrachotomy    |
+| :-----------------------------: | :----------------------------------------: | :-------------------: |
+|           Valid/Null            |            $\Delta_1 \cap E_3$             |    Process/Result     |
+|         Opening/Closing         | $\Delta_1 \cap \Delta_4 \cap E_2 \cap E_3$ | Rings of Supervision  |
+|         Stable/Unstable         | $\Delta_1 \cap \Delta_3 \cap E_1 \cap E_3$ |   Stress Resistance   |
+|        External/Internal        | $\Delta_1 \cap \Delta_2 \cap E_3 \cap E_4$ |   Rings of Benefit    |
+|     Energetic/Informational     |  $\Delta_1 \cap PH_2 \cap PI_4 \cap E_3$   | Avoiding Failures HEF |
+|      Excitable/Inhibitable      |  $\Delta_1 \cap PH_3 \cap PI_1 \cap E_3$   | Iridescent Hopes HEF  |
+| Impressionable/Unimpressionable |  $\Delta_1 \cap PH_4 \cap PI_2 \cap E_3$   |  Realistic Plans HEF  |
+|        Tensioned/Relaxed        |  $\Delta_1 \cap PH_1 \cap PI_3 \cap E_3$   |      Waiting HEF      |
 
 
 #### Kindred Business HEF
 ##### For Flexible Manoeuvring Types
 
-|       Function Dichotomy       |     TIM Tetrachotomy Construction      |     TIM Tetrachotomy     |
-| :----------------------------: | :------------------------------------: | :----------------------: |
-|           Valid/Null           |             $G_1 \cap U_3$             |      Process/Result      |
-|        Opening/Closing         |    $G_1 \cap G_2 \cap U_3 \cap U_4$    |   Rings of Supervision   |
-|        Stable/Unstable         |    $G_1 \cap G_3 \cap U_1 \cap U_3$    |    Stress Resistance     |
-|       External/Internal        |    $G_1 \cap G_4 \cap U_2 \cap U_3$    |     Rings of Benefit     |
-|    Energetic/Informational     | $G_1 \cap (PL)_3 \cap (PK)_1 \cap U_3$ | Flexible Manoeuvring HEF |
-|     Excitable/Inhibitable      | $G_1 \cap (PL)_4 \cap (PK)_2 \cap U_3$ |   Linear Assertive HEF   |
-| Impressionable/Unimpresionable | $G_1 \cap (PL)_1 \cap (PK)_3 \cap U_3$ |  Receptive Adaptive HEF  |
-|       Tensioned/Relaxed        | $G_1 \cap (PL)_2 \cap (PK)_4 \cap U_3$ |   Balanced Stable HEF    |
+|       Function Dichotomy        |     TIM Tetrachotomy Construction      |     TIM Tetrachotomy     |
+| :-----------------------------: | :------------------------------------: | :----------------------: |
+|           Valid/Null            |             $G_1 \cap U_3$             |      Process/Result      |
+|         Opening/Closing         |    $G_1 \cap G_2 \cap U_3 \cap U_4$    |   Rings of Supervision   |
+|         Stable/Unstable         |    $G_1 \cap G_3 \cap U_1 \cap U_3$    |    Stress Resistance     |
+|        External/Internal        |    $G_1 \cap G_4 \cap U_2 \cap U_3$    |     Rings of Benefit     |
+|     Energetic/Informational     | $G_1 \cap (PL)_3 \cap (PK)_1 \cap U_3$ | Flexible Manoeuvring HEF |
+|      Excitable/Inhibitable      | $G_1 \cap (PL)_4 \cap (PK)_2 \cap U_3$ |   Linear Assertive HEF   |
+| Impressionable/Unimpressionable | $G_1 \cap (PL)_1 \cap (PK)_3 \cap U_3$ |  Receptive Adaptive HEF  |
+|        Tensioned/Relaxed        | $G_1 \cap (PL)_2 \cap (PK)_4 \cap U_3$ |   Balanced Stable HEF    |
 
 ##### For Linear Assertive Types
 
-|       Function Dichotomy       |     TIM Tetrachotomy Construction      |     TIM Tetrachotomy     |
-| :----------------------------: | :------------------------------------: | :----------------------: |
-|           Valid/Null           |             $G_1 \cap U_3$             |      Process/Result      |
-|        Opening/Closing         |    $G_1 \cap G_2 \cap U_3 \cap U_4$    |   Rings of Supervision   |
-|        Stable/Unstable         |    $G_1 \cap G_3 \cap U_1 \cap U_3$    |    Stress Resistance     |
-|       External/Internal        |    $G_1 \cap G_4 \cap U_2 \cap U_3$    |     Rings of Benefit     |
-|    Energetic/Informational     | $G_1 \cap (PL)_4 \cap (PK)_2 \cap U_3$ |   Linear Assertive HEF   |
-|     Excitable/Inhibitable      | $G_1 \cap (PL)_3 \cap (PK)_1 \cap U_3$ | Flexible Manoeuvring HEF |
-| Impressionable/Unimpresionable | $G_1 \cap (PL)_2 \cap (PK)_4 \cap U_3$ |   Balanced Stable HEF    |
-|       Tensioned/Relaxed        | $G_1 \cap (PL)_1 \cap (PK)_3 \cap U_3$ |  Receptive Adaptive HEF  |
+|       Function Dichotomy        |     TIM Tetrachotomy Construction      |     TIM Tetrachotomy     |
+| :-----------------------------: | :------------------------------------: | :----------------------: |
+|           Valid/Null            |             $G_1 \cap U_3$             |      Process/Result      |
+|         Opening/Closing         |    $G_1 \cap G_2 \cap U_3 \cap U_4$    |   Rings of Supervision   |
+|         Stable/Unstable         |    $G_1 \cap G_3 \cap U_1 \cap U_3$    |    Stress Resistance     |
+|        External/Internal        |    $G_1 \cap G_4 \cap U_2 \cap U_3$    |     Rings of Benefit     |
+|     Energetic/Informational     | $G_1 \cap (PL)_4 \cap (PK)_2 \cap U_3$ |   Linear Assertive HEF   |
+|      Excitable/Inhibitable      | $G_1 \cap (PL)_3 \cap (PK)_1 \cap U_3$ | Flexible Manoeuvring HEF |
+| Impressionable/Unimpressionable | $G_1 \cap (PL)_2 \cap (PK)_4 \cap U_3$ |   Balanced Stable HEF    |
+|        Tensioned/Relaxed        | $G_1 \cap (PL)_1 \cap (PK)_3 \cap U_3$ |  Receptive Adaptive HEF  |
 
 ##### For Balanced Stable Types
 
