@@ -197,8 +197,8 @@
 | :----------------------------: | :------------------------------: | :----------------------: |
 |           Valid/Null           |          $G_1 \cap U_3$          |      Process/Result      |
 |        Opening/Closing         | $G_1 \cap G_2 \cap U_3 \cap U_4$ |   Rings of Supervision   |
-|        Stable/Unstable         | $G_1 \cap G_3 \cap U_1 \cap G_$  |    Stress Resistance     |
-|       External/Internal        |         Rings of Benefit         |     Rings of Benefit     |
+|        Stable/Unstable         | $G_1 \cap G_3 \cap U_1 \cap U_3$ |    Stress Resistance     |
+|       External/Internal        |           $G_1 \cap $            |     Rings of Benefit     |
 |    Energetic/Informational     |                                  | Flexible Manoeuvring HEF |
 |     Excitable/Inhibitable      |                                  |   Linear Assertive HEF   |
 | Impressionable/Unimpresionable |                                  |  Receptive Adaptive HEF  |
@@ -206,16 +206,16 @@
 
 ##### For Linear Assertive Types
 
-|       Function Dichotomy       |     TIM Tetrachotomy     |     TIM Tetrachotomy     |
-| :----------------------------: | :----------------------: | :----------------------: |
-|           Valid/Null           |      Process/Result      |      Process/Result      |
-|        Opening/Closing         |   Rings of Supervision   |   Rings of Supervision   |
-|        Stable/Unstable         |    Stress Resistance     |    Stress Resistance     |
-|       External/Internal        |     Rings of Benefit     |     Rings of Benefit     |
-|    Energetic/Informational     |   Linear Assertive HEF   |  Receptive Adaptive HEF  |
-|     Excitable/Inhibitable      | Flexible Manoeuvring HEF |   Balanced Stable HEF    |
-| Impressionable/Unimpresionable |   Balanced Stable HEF    | Flexible Manoeuvring HEF |
-|       Tensioned/Relaxed        |  Receptive Adaptive HEF  |   Linear Assertive HEF   |
+|       Function Dichotomy       |   TIM Tetrachotomy   |     TIM Tetrachotomy     |
+| :----------------------------: | :------------------: | :----------------------: |
+|           Valid/Null           |    Process/Result    |      Process/Result      |
+|        Opening/Closing         | Rings of Supervision |   Rings of Supervision   |
+|        Stable/Unstable         |  Stress Resistance   |    Stress Resistance     |
+|       External/Internal        |   Rings of Benefit   |     Rings of Benefit     |
+|    Energetic/Informational     |                      |  Receptive Adaptive HEF  |
+|     Excitable/Inhibitable      |                      |   Balanced Stable HEF    |
+| Impressionable/Unimpresionable |                      | Flexible Manoeuvring HEF |
+|       Tensioned/Relaxed        |                      |   Linear Assertive HEF   |
 
 ##### For Balanced Stable Types
 
