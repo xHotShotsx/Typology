@@ -247,16 +247,16 @@
 #### Activation Quasi Identity HEF
 ##### For Approaching Types
 
-|       Function Dichotomy       |   TIM Tetrachotomy Construction    |   TIM Tetrachotomy   |
-| :----------------------------: | :--------------------------------: | :------------------: |
-|           Valid/Null           |           $O_1 \cap P_3$           |    Process/Result    |
-|        Opening/Closing         |  $O_1 \cap O_4 \cap P_2 \cap P_3$  | Rings of Supervision |
-|        Stable/Unstable         |  $O_1 \cap O_3 \cap P_1 \cap P_3$  |  Stress Resistance   |
-|       External/Internal        |  $O_1 \cap O_2 \cap P_3 \cap P_4$  |   Rings of Benefit   |
-|    Energetic/Informational     | $O_1 \cap DA_3 \cap DQ_1 \cap P_3$ |   Approaching HEF    |
-|     Excitable/Inhibitable      |                                    |     Shaping HEF      |
-| Impressionable/Unimpresionable |                                    |    Abstaining HEF    |
-|       Tensioned/Relaxed        |                                    |   Integrating HEF    |
+|       Function Dichotomy       |     TIM Tetrachotomy Construction      |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------------------------: | :------------------: |
+|           Valid/Null           |             $O_1 \cap P_3$             |    Process/Result    |
+|        Opening/Closing         |    $O_1 \cap O_4 \cap P_2 \cap P_3$    | Rings of Supervision |
+|        Stable/Unstable         |    $O_1 \cap O_3 \cap P_1 \cap P_3$    |  Stress Resistance   |
+|       External/Internal        |    $O_1 \cap O_2 \cap P_3 \cap P_4$    |   Rings of Benefit   |
+|    Energetic/Informational     | $O_1 \cap (DA)_3 \cap (DQ)_1 \cap P_3$ |   Approaching HEF    |
+|     Excitable/Inhibitable      |                                        |     Shaping HEF      |
+| Impressionable/Unimpresionable |                                        |    Abstaining HEF    |
+|       Tensioned/Relaxed        |                                        |   Integrating HEF    |
 
 ##### For Shaping Types
 
