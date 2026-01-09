@@ -6,3 +6,4 @@
 |     |                 <span class="cell-democratic"> $-Q$<br><br>- Quadra Dichotomy<br><span style="text-align:left; display:block;"><br>1. ← - → ∨ N+<br>2. ↓ - ↓ ∨ T+<br>3. ↑ - ↑ ∨ T+<br>4. → - ← ∨ N+<br></span><br></span>                 | <span class="cell-converse"> $P$<br><br>Pivotal Dichotomy<br><span style="text-align:left; display:block;"><br>1. Irrational / Rational<br>2. Static / Dynamic<br>3. Process / Result<br>4. Asking / Declaring<br></span><br></span> |
 
 L = -Q1
+C = 
