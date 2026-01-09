@@ -198,7 +198,7 @@
 |           Valid/Null           |          $G_1 \cap U_3$          |      Process/Result      |
 |        Opening/Closing         | $G_1 \cap G_2 \cap U_3 \cap U_4$ |   Rings of Supervision   |
 |        Stable/Unstable         | $G_1 \cap G_3 \cap U_1 \cap U_3$ |    Stress Resistance     |
-|       External/Internal        |           $G_1 \cap $            |     Rings of Benefit     |
+|       External/Internal        | $G_1 \cap G_4 \cap U_2 \cap U_3$ |     Rings of Benefit     |
 |    Energetic/Informational     |                                  | Flexible Manoeuvring HEF |
 |     Excitable/Inhibitable      |                                  |   Linear Assertive HEF   |
 | Impressionable/Unimpresionable |                                  |  Receptive Adaptive HEF  |
@@ -206,42 +206,42 @@
 
 ##### For Linear Assertive Types
 
-|       Function Dichotomy       |   TIM Tetrachotomy   |     TIM Tetrachotomy     |
-| :----------------------------: | :------------------: | :----------------------: |
-|           Valid/Null           |    Process/Result    |      Process/Result      |
-|        Opening/Closing         | Rings of Supervision |   Rings of Supervision   |
-|        Stable/Unstable         |  Stress Resistance   |    Stress Resistance     |
-|       External/Internal        |   Rings of Benefit   |     Rings of Benefit     |
-|    Energetic/Informational     |                      |  Receptive Adaptive HEF  |
-|     Excitable/Inhibitable      |                      |   Balanced Stable HEF    |
-| Impressionable/Unimpresionable |                      | Flexible Manoeuvring HEF |
-|       Tensioned/Relaxed        |                      |   Linear Assertive HEF   |
+|       Function Dichotomy       |  TIM Tetrachotomy Construction   |     TIM Tetrachotomy     |
+| :----------------------------: | :------------------------------: | :----------------------: |
+|           Valid/Null           |          $G_1 \cap U_3$          |      Process/Result      |
+|        Opening/Closing         | $G_1 \cap G_2 \cap U_3 \cap U_4$ |   Rings of Supervision   |
+|        Stable/Unstable         | $G_1 \cap G_3 \cap U_1 \cap U_3$ |    Stress Resistance     |
+|       External/Internal        | $G_1 \cap G_4 \cap U_2 \cap U_3$ |     Rings of Benefit     |
+|    Energetic/Informational     |                                  |  Receptive Adaptive HEF  |
+|     Excitable/Inhibitable      |                                  |   Balanced Stable HEF    |
+| Impressionable/Unimpresionable |                                  | Flexible Manoeuvring HEF |
+|       Tensioned/Relaxed        |                                  |   Linear Assertive HEF   |
 
 ##### For Balanced Stable Types
 
-|       Function Dichotomy       |     TIM Tetrachotomy     |     TIM Tetrachotomy     |
-| :----------------------------: | :----------------------: | :----------------------: |
-|           Valid/Null           |      Process/Result      |      Process/Result      |
-|        Opening/Closing         |   Rings of Supervision   |   Rings of Supervision   |
-|        Stable/Unstable         |    Stress Resistance     |    Stress Resistance     |
-|       External/Internal        |     Rings of Benefit     |     Rings of Benefit     |
-|    Energetic/Informational     |  Receptive Adaptive HEF  |  Receptive Adaptive HEF  |
-|     Excitable/Inhibitable      |   Balanced Stable HEF    |   Balanced Stable HEF    |
-| Impressionable/Unimpresionable | Flexible Manoeuvring HEF | Flexible Manoeuvring HEF |
-|       Tensioned/Relaxed        |   Linear Assertive HEF   |   Linear Assertive HEF   |
+|       Function Dichotomy       |  TIM Tetrachotomy Construction   |     TIM Tetrachotomy     |
+| :----------------------------: | :------------------------------: | :----------------------: |
+|           Valid/Null           |          $G_1 \cap U_3$          |      Process/Result      |
+|        Opening/Closing         | $G_1 \cap G_2 \cap U_3 \cap U_4$ |   Rings of Supervision   |
+|        Stable/Unstable         | $G_1 \cap G_3 \cap U_1 \cap U_3$ |    Stress Resistance     |
+|       External/Internal        | $G_1 \cap G_4 \cap U_2 \cap U_3$ |     Rings of Benefit     |
+|    Energetic/Informational     |                                  |  Receptive Adaptive HEF  |
+|     Excitable/Inhibitable      |                                  |   Balanced Stable HEF    |
+| Impressionable/Unimpresionable |                                  | Flexible Manoeuvring HEF |
+|       Tensioned/Relaxed        |                                  |   Linear Assertive HEF   |
 
 ##### For Receptive Adaptive Types
 
-|       Function Dichotomy       |     TIM Tetrachotomy     |     TIM Tetrachotomy     |
-| :----------------------------: | :----------------------: | :----------------------: |
-|           Valid/Null           |      Process/Result      |      Process/Result      |
-|        Opening/Closing         |   Rings of Supervision   |   Rings of Supervision   |
-|        Stable/Unstable         |    Stress Resistance     |    Stress Resistance     |
-|       External/Internal        |     Rings of Benefit     |     Rings of Benefit     |
-|    Energetic/Informational     |  Receptive Adaptive HEF  |  Receptive Adaptive HEF  |
-|     Excitable/Inhibitable      |   Balanced Stable HEF    |   Balanced Stable HEF    |
-| Impressionable/Unimpresionable | Flexible Manoeuvring HEF | Flexible Manoeuvring HEF |
-|       Tensioned/Relaxed        |   Linear Assertive HEF   |   Linear Assertive HEF   |
+|       Function Dichotomy       |  TIM Tetrachotomy Construction   |     TIM Tetrachotomy     |
+| :----------------------------: | :------------------------------: | :----------------------: |
+|           Valid/Null           |          $G_1 \cap U_3$          |      Process/Result      |
+|        Opening/Closing         | $G_1 \cap G_2 \cap U_3 \cap U_4$ |   Rings of Supervision   |
+|        Stable/Unstable         | $G_1 \cap G_3 \cap U_1 \cap U_3$ |    Stress Resistance     |
+|       External/Internal        | $G_1 \cap G_4 \cap U_2 \cap U_3$ |     Rings of Benefit     |
+|    Energetic/Informational     |                                  |  Receptive Adaptive HEF  |
+|     Excitable/Inhibitable      |                                  |   Balanced Stable HEF    |
+| Impressionable/Unimpresionable |                                  | Flexible Manoeuvring HEF |
+|       Tensioned/Relaxed        |                                  |   Linear Assertive HEF   |
 
 
 #### Activation Quasi Identity HEF
