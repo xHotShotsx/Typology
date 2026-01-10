@@ -1,1 +1,1 @@
-$$ \mathcal{D}_i := \{ \mathrm{Name} \mid \mathrm{} | I | \mid \mathrm{SelectorType} \mid CD(DA \mathrm{ or } JP)\}$$
+$$ \mathcal{D}_i := \{ \mathrm{Name} \mid \mathrm{} | I | \mid \mathrm{SelectorType} \mid CD(DA \text{ or } JP)\}$$
