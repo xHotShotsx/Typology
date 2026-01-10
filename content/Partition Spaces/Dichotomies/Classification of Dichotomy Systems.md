@@ -22,7 +22,7 @@ $$ \sum{\mathcal{D}_i} := \left(i, \mathrm{Name}, \mathbb{Z}_{2}^{\log_{2}( | I_
 | **13** |  Receptive-Adaptive Process Compass Result HEF  |  $\mathbb{Z}_{2}$  |                         |               |                    |
 | **14** |                                                 | $\mathbb{Z}_{2}^3$ |                         |               |                    |
 | **15** |                                                 | $\mathbb{Z}_{2}^3$ |                         |               |                    |
-| **16** |                                                 |  $\mathbb{Z}_{2}$  |                         |               |                    |
+| **16** |                  Flexible-Man                   |  $\mathbb{Z}_{2}$  |                         |               |                    |
 
 
 
