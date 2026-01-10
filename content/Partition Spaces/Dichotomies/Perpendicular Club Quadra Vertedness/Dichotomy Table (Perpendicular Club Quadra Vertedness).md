@@ -15,4 +15,6 @@ L = **Logical Extroverts + Central Introverts / Ethical Extroverts + Peripheral
 
 I = **Intuitive Extroverts + Ascending Introverts / Sensing Extroverts + Descending Introverts** = IN1
 
-EL = 
+EL = **Intuitive Extroverts + Descending Introverts / Sensing Extroverts + Ascending Introverts** = IS4
+
+EI = 
