@@ -12,13 +12,13 @@ $$ \sum{\mathcal{D}_i} := \left(i, \mathrm{Name}, \mathbb{Z}_{2}^{\log_{2}( | I_
 |   6   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
 |   7   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
 |   8   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
-|   9   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
+|   9   |      | $\mathbb{Z}_{2}^2$ |                         |               |                    |
 |  10   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
 |  11   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
-|  12   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
+|  12   |      | $\mathbb{Z}_{2}^2$ |                         |               |                    |
 |  13   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
-|  14   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
-|  15   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
+|  14   |      | $\mathbb{Z}_{2}^3$ |                         |               |                    |
+|  15   |      | $\mathbb{Z}_{2}^3$ |                         |               |                    |
 |  16   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
 
 
