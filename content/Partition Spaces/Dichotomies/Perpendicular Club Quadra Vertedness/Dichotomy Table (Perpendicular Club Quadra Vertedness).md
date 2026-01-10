@@ -9,3 +9,4 @@ I/E: {**→ I ← ∨ ET**, **← I → ∨ ET**}, {**↑ I ↑ ∨ EN**, **↓ 
 
 Dem/Arist: {**↓ I ↓ ∨ EN**, **→ I ← ∨ ET**}, {**→ I ← ∨ ET**, **↑ I ↑ ∨ EN**}, {**← E → ∨ IT**, **↑ E ↑ ∨ IN**}, {**↑ E ↑ ∨ IS**, **← E → ∨ IF**}
 
+Irrational/Rational: {**↑ E ↑ ∨ IN**, **→ I ← ∨ ET**}, 
