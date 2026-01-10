@@ -23,5 +23,7 @@ LP = **Ascending Extroverts + Intuitive Introverts / Descending Extroverts + Sen
 
 IP = **Peripheral Extroverts + Ethical Introverts / Central Extroverts + Logical Introverts** = IF3
 
+ELP = **Ascending Extroverts + Sensing Introverts / Descending Extroverts + Intuitive Introverts** = IS3
+
 
 
