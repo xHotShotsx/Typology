@@ -13,4 +13,6 @@ Irrational/Rational: {**↑ E ↑ ∨ IN**, **→ I ← ∨ ET**}, {**↑ I ↑ 
 
 L = **Logical Extroverts + Central Introverts / Ethical Extroverts + Peripheral Introverts** = IN4
 
-I = 
+I = **Intuitive Extroverts + Ascending Introverts / Sensing Extroverts + Descending Introverts** = IN1
+
+EL = 
