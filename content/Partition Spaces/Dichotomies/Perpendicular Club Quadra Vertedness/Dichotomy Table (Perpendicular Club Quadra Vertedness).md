@@ -7,4 +7,4 @@
 
 I/E: {**→ I ← ∨ ET**, **← I → ∨ ET**}, {**↑ I ↑ ∨ EN**, **↓ I ↓ ∨ EN**}, {**↑ E ↑ ∨ IN**, **↑ E ↑ ∨ IS**}, {**← E → ∨ IF**, **← E → ∨ IT**}
 
-Dem/Arist: 
+Dem/Arist: {**↓ I ↓ ∨ EN**}
