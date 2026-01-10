@@ -26,9 +26,9 @@ $$ \Sigma_{\mathcal{D}_i} := \left(\mathrm{Name}, \mathbb{Z}_{2}^{\log_{2}( | I_
 
 egxd + mcqa R
 
-eghi
+eg + hi: J
 
-
+eg + mc: D
 
 # References
 
