@@ -1,1 +1,1 @@
-$$ \mathcal{D}_i :=  $$
+$$ \mathcal{D}_i :=  {\mathrm{}}$$
