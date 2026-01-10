@@ -12,10 +12,10 @@ $$ \sum{\mathcal{D}_i} := \left(i, \mathrm{Name}, \mathbb{Z}_{2}^{\log_{2}( | I_
 | **3**  |              Kindred Business HEF               | $\mathbb{Z}_{2}^2$ |                         |               |                    |
 | **4**  | Flexible-Manoeuvring Result Compass Process HEF |  $\mathbb{Z}_{2}$  |                         |               |                    |
 | **5**  |    Parallel Club Quadra Charged Rationality     |  $\mathbb{Z}_{2}$  |                         |               |                    |
-| **6**  |                   Linear-Ass                    |  $\mathbb{Z}_{2}$  |                         |               |                    |
-| **7**  |                                                 |  $\mathbb{Z}_{2}$  |                         |               |                    |
-| **8**  |                                                 |  $\mathbb{Z}_{2}$  |                         |               |                    |
-| **9**  |                                                 | $\mathbb{Z}_{2}^2$ |                         |               |                    |
+| **6**  |   Balanced-Stable Process Compass Result HEF    |  $\mathbb{Z}_{2}$  |                         |               |                    |
+| **7**  |   Linear-Assertive Process Compass Result HEF   |  $\mathbb{Z}_{2}$  |                         |               |                    |
+| **8**  |      Perpendicular Club Quadra Vertedness       |  $\mathbb{Z}_{2}$  |                         |               |                    |
+| **9**  |          Activation Quasi-Identity HEF          | $\mathbb{Z}_{2}^2$ |                         |               |                    |
 | **10** |                                                 |  $\mathbb{Z}_{2}$  |                         |               |                    |
 | **11** |                                                 |  $\mathbb{Z}_{2}$  |                         |               |                    |
 | **12** |                                                 | $\mathbb{Z}_{2}^2$ |                         |               |                    |
