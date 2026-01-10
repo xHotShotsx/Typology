@@ -1,1 +1,1 @@
-$$ \mathcal{D}_i := \{ \mathrm{Name} \mid \mathrm{} | I | \mid \ \mid \}$$
+$$ \mathcal{D}_i := \{ \mathrm{Name} \mid \mathrm{} | I | \mid \mathrm{SelectorType} \mid \}$$
