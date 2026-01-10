@@ -1,1 +1,1 @@
-$$ \mathcal{D}_i :=  {\mathrm{}}$$
+$$ \mathcal{D}_i := \{ \mathrm{Name} \mid \mathrm{} \}$$
