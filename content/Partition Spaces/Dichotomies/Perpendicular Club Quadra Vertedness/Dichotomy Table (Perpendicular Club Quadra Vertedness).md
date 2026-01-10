@@ -25,5 +25,5 @@ IP = **Peripheral Extroverts + Ethical Introverts / Central Extroverts + Logical
 
 ELP = **Ascending Extroverts + Sensing Introverts / Descending Extroverts + Intuitive Introverts** = IS3
 
-
+EIP = **Peripheral Extroverts + Logical Introverts / Central Extroverts + Ethical Introverts**
 
