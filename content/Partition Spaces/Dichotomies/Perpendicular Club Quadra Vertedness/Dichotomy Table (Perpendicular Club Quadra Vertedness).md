@@ -11,9 +11,9 @@ Dem/Arist: {**↓ I ↓ ∨ EN**, **→ I ← ∨ ET**}, {**← I → ∨ ET**, 
 
 Irrational/Rational: {**↑ E ↑ ∨ IN**, **→ I ← ∨ ET**}, {**↑ I ↑ ∨ EN**, **← E → ∨ IF**}, {**↓ I ↓ ∨ EN**, **← E → ∨ IT**}, {**← I → ∨ ET**, **↑ E ↑ ∨ IS**}
 
-L = **Logical Extroverts + Central Introverts / Ethical Extroverts + Peripheral Introverts** = IN4
+L = **Logical Extroverts + Central Introverts / Ethical Extroverts + Peripheral Introverts** = IF4
 
-I = **Intuitive Extroverts + Ascending Introverts / Sensing Extroverts + Descending Introverts** = IN1
+I = **Intuitive Extroverts + Ascending Introverts / Sensing Extroverts + Descending Introverts** = IF1
 
 EL = **Logical Extroverts + Peripheral Introverts / Ethical Extroverts + Central Introverts** = IS1
 
@@ -21,5 +21,7 @@ EI = **Intuitive Extroverts + Descending Introverts / Sensing Extroverts + Ascen
 
 LP = **Ascending Extroverts + Intuitive Introverts / Descending Extroverts + Sensing Introverts** = IF2
 
-IP = **Peripheral Extroverts + Ethical Introverts / Central Extroverts + Logical Introverts** = IN3
+IP = **Peripheral Extroverts + Ethical Introverts / Central Extroverts + Logical Introverts** = IF3
+
+
 
