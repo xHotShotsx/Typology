@@ -24,13 +24,6 @@ $$ \Sigma_{\mathcal{D}_i} := \left(\mathrm{Name}, \mathbb{Z}_{2}^{\log_{2}( | I_
 | **15** |                     Reinin                      | $\mathbb{Z}_{2}^3$ |         Orbital         |     $DA$      |
 | **16** | Flexible-Manoeuvring Process Compass Result HEF |  $\mathbb{Z}_{2}$  |         Waffle          | $DA \land JP$ |
 
-egxd + mcqa R
-
-eg + hi: J
-
-eg + mc: D
-
-SelectorType - Selector
 # References
 
 - https://sedeclogy.com/math
