@@ -11,4 +11,6 @@ Dem/Arist: {**↓ I ↓ ∨ EN**, **→ I ← ∨ ET**}, {**← I → ∨ ET**, 
 
 Irrational/Rational: {**↑ E ↑ ∨ IN**, **→ I ← ∨ ET**}, {**↑ I ↑ ∨ EN**, **← E → ∨ IF**}, {**↓ I ↓ ∨ EN**, **← E → ∨ IT**}, {**← I → ∨ ET**, **↑ E ↑ ∨ IS**}
 
-L = **Logical Extroverts + Central Introverts / Ethical Extroverts + Peripheral Introverts** = 
+L = **Logical Extroverts + Central Introverts / Ethical Extroverts + Peripheral Introverts** = IN4
+
+I = 
