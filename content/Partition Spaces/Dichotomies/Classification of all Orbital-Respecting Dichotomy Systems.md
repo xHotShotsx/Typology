@@ -6,10 +6,10 @@ $$ \sum{\mathcal{D}_i} := \left(i, \mathrm{Name}, \mathbb{Z}_{2}^{\log_{2}( | I_
 | :---: | :--: | :----------------: | :---------------------: | :-----------: | :----------------: |
 | **1** |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
 | **2** |      | $\mathbb{Z}_{2}^2$ |                         |               |                    |
-|   3   |      | $\mathbb{Z}_{2}^2$ |                         |               |                    |
-|   4   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
-|   5   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
-|   6   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
+| **3** |      | $\mathbb{Z}_{2}^2$ |                         |               |                    |
+| **4** |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
+| **5** |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
+| **6** |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
 |   7   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
 |   8   |      |  $\mathbb{Z}_{2}$  |                         |               |                    |
 |   9   |      | $\mathbb{Z}_{2}^2$ |                         |               |                    |
@@ -28,4 +28,5 @@ $$ \sum{\mathcal{D}_i} := \left(i, \mathrm{Name}, \mathbb{Z}_{2}^{\log_{2}( | I_
 - https://sedeclogy.com/math
 - https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
 - [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics|A Representation-Theoretic Framework for Intertype Relations in Socionics]]
+- [[Partition Spaces/Dichotomies/TIM Dichotomy Index|TIM Dichotomy Index]]
 
