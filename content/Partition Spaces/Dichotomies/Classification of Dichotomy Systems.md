@@ -30,6 +30,7 @@ eg + hi: J
 
 eg + mc: D
 
+SelectorType - Selector
 # References
 
 - https://sedeclogy.com/math
