@@ -16,10 +16,10 @@ $$ \sum{\mathcal{D}_i} := \left(i, \mathrm{Name}, \mathbb{Z}_{2}^{\log_{2}( | I_
 | **7**  |   Linear-Assertive Process Compass Result HEF   |  $\mathbb{Z}_{2}$  |                         |               |                    |
 | **8**  |      Perpendicular Club Quadra Vertedness       |  $\mathbb{Z}_{2}$  |                         |               |                    |
 | **9**  |          Activation Quasi-Identity HEF          | $\mathbb{Z}_{2}^2$ |                         |               |                    |
-| **10** |                                                 |  $\mathbb{Z}_{2}$  |                         |               |                    |
-| **11** |                                                 |  $\mathbb{Z}_{2}$  |                         |               |                    |
+| **10** |   Balanced-Stable Result Compass Process HEF    |  $\mathbb{Z}_{2}$  |                         |               |                    |
+| **11** |   Linear-Assertive Result Compass Process HEF   |  $\mathbb{Z}_{2}$  |                         |               |                    |
 | **12** |                                                 | $\mathbb{Z}_{2}^2$ |                         |               |                    |
-| **13** |                                                 |  $\mathbb{Z}_{2}$  |                         |               |                    |
+| **13** |  Receptive-Adaptive Process Compass Result HEF  |  $\mathbb{Z}_{2}$  |                         |               |                    |
 | **14** |                                                 | $\mathbb{Z}_{2}^3$ |                         |               |                    |
 | **15** |                                                 | $\mathbb{Z}_{2}^3$ |                         |               |                    |
 | **16** |                                                 |  $\mathbb{Z}_{2}$  |                         |               |                    |
