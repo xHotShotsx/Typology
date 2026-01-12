@@ -97,6 +97,7 @@ We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the in
 ### 2.1.4. Cayley Diagram of $\mathbb{S}$
 
 ![[Pasted image 20260112235744.png]]
+Figure 1 (Credit: Andrew Joynton)
 
 # 3. The Functor
 
