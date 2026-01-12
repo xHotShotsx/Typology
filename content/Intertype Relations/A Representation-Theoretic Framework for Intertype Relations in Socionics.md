@@ -29,7 +29,7 @@ $\mathcal{D}_i$: This already has been defined. Its group structure is $E_{16}$ 
 
 **Axiom (Orbital Completeness).** Every dichotomy system $\mathcal{D}_i \in \mathcal{D}$ contains the full set of orbital dichotomies $\mathcal{O}$. These dichotomies are invariant across all systems and arise from the Socion 2-cocycle structure. The variation between systems occurs exclusively in their wall dichotomy subspaces $W_i \subset \mathcal{W}$.
 
-**Clarifying remark.** Although no explicit cocycle $\omega : \mathbb{S} \times \mathbb{S} \to \mathbb{Z}_{2}$ is constructed, the pairing of relations 
+**Clarifying remark.** Although no explicit cocycle $\omega : \mathbb{S} \times \mathbb{S} \to \mathbb{Z}_{2}$ is constructed, the pairing of relations into superego-orbits & the resulting affine ambiguity correspond to a nontrivial class in $H^2(\mathbb{S}, \mathbb{Z}_{2})$.
 
 **Remark.** Classical intertype relations form a nonabelian group that does not admit a faithful, regular action compatible with all dichotomy systems. This obstruction motivates the passage to induced abelian representations and the use of cohomological methods, which isolate dichotomy-relevant degrees of freedom while preserving the universal orbital invariants.
 
