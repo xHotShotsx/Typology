@@ -98,7 +98,8 @@ Table 1: Cayley Table of $\mathbb{S}$
 
 ### 2.1.4. Cayley Graph of $\mathbb{S}$
 
-[[images/]]
+<img src="/Images/Misc/d8xc2.png" />
+
 Figure 1: Cayley Graph of $\mathbb{S}$ (Andrew Joynton)
 
 # 3. The Functor
