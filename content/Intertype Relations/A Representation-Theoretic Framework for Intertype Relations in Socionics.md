@@ -97,7 +97,7 @@ Table 1
 
 ### 2.1.4. Cayley Diagram of $\mathbb{S}$
 
-![[Pasted image 20260112235744.png]]
+
 Figure 1 (Credit: Andrew Joynton)
 
 # 3. The Functor
