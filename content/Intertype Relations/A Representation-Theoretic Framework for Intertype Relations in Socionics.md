@@ -54,7 +54,7 @@ $i \quad$ mirage, or illusory
 
 ### 2.1.2. Subgroups of $\mathbb{S}$
 
-The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$), since by Lagrange's Theorem, subgroup orders must divide $|\mathbb{S}|$. In most cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed.
+The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$), since by Lagrange's Theorem, subgroup orders must divide $|\mathbb{S}|$. In most cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed (Tencer 2011).
 
 #### Subgroups of order 2:
 
@@ -184,7 +184,9 @@ $$A_{3} \cdot t \quad \text{and} \quad \rho_{15}(A_{3}) \cdot L_{15}(t)$$
 
 implement the same transformation in two different representations of the same underlying structure.
 
-<img scr="/Images/2d-model-l." />
+<img scr="/Images/2d-model-l.png" />
+
+**Figure 2: Cayley Diagram of Model L (Andrew Joynton)**
 
 
 # 7. The Selector
