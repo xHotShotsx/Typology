@@ -184,7 +184,7 @@ $$A_{3} \cdot t \quad \text{and} \quad \rho_{15}(A_{3}) \cdot L_{15}(t)$$
 
 implement the same transformation in two different representations of the same underlying structure.
 
-<img scr="/Images/2d-model-l.png" />
+<img scr="/Images/Misc/2d-model-l.png" />
 
 **Figure 2: Cayley Diagram of Model L (Andrew Joynton)**
 
