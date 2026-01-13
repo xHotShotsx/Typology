@@ -68,7 +68,7 @@ $$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{T
 
 $$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ egxdbBsS & \text{Process/Result} & \checkmark & \mathbb{Z}_2 \times \mathbb{Z}_4 & \mathbb{Z}_2 \\ egxdmcqa & \text{Democratic/Aristocratic} & \checkmark & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egxdhkil & \text{Irrational/Rational} & \checkmark & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egaqbBkl & \text{Extroverted/Introverted} & \checkmark & D_4 & \mathbb{Z}_2 \\ egaqsSih & \text{Positivist/Negativist} & \checkmark & D_4 & \mathbb{Z}_2 \\ egcmbBih & \text{Asking/Declaring} & \checkmark & D_4 & \mathbb{Z}_2 \\ egcmsSkl & \text{Static/Dynamic} & \checkmark & D_4 & \mathbb{Z}_2 \\ \end{matrix}$$
 
-_Lemma (Orbital Dichotomies)._ The orbital dichotomies correspond bijectively to the index-2 subgroups of $\mathbb{S}$. Each subgroup $H$ defines a canonical quotient homomorphism $\mathbb{S} \to \mathbb{Z}_2$, yielding a global, system-invariant dichotomy. In the present setting, there are exactly seven such subgroups, hence seven orbital dichotomies.  
+_Lemma (Orbital Dichotomies)._ The orbital dichotomies correspond bijectively to the index-2 subgroups of $\mathbb{S}$. Each subgroup $H$ defines a canonical quotient homomorphism $\mathbb{S} \to \mathbb{Z}_2$, yielding a global, system-invariant dichotomy. In the present setting, there are exactly seven such subgroups, hence seven orbital dichotomies (Tencer 2011).  
 
 ### 2.1.3. Cayley Table of $\mathbb{S}$
 
@@ -96,17 +96,17 @@ We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the in
 
 **Table 1: Cayley Table of $\mathbb{S}$**
 
-### 2.1.4. Cayley Graph of $\mathbb{S}$
+### 2.1.4. Cayley Diagram of $\mathbb{S}$
 
 <img src="/Images/Misc/d8xc2.png" />
 
-**Figure 1: Cayley Graph of $\mathbb{S}$ (Andrew Joynton)**
+**Figure 1: Cayley Diagram of $\mathbb{S}$ (Andrew Joynton)**
 
 # 3. The Functor
 
 The construction $CD$ associates to each subgroup of $\mathbb{S}$ the set of dichotomies it respects.  This association reverses inclusion: larger subgroups preserve fewer dichotomies, so if $H \leq K \leq \mathbb{S}$, then $CD(K) \subseteq CD(H)$, hence the structure is contravariant. In this sense, dichotomy systems are constrained functorially by subgroup structure (Tencer 2011).
 
-$CD(\mathbb{S})$ will generate only the 7 orbital dichotomies. Alternatively, any index-2 subgroup of $\mathbb{S}$ other than Democratic/Aristocratic or Irrational/Rational will also generate same set of orbital dichotomies since $\mathbb{S}$ generates them. $CD(\{e,g,x,d,m,c,q,a\} = \rm{Democratic/Aristocratic})$ generates the Reinin dichotomies ($\mathcal{D}_{15}$). $CD(\{e,g,x,d,h,i,k,l\} = \rm{Irrational/Rational})$ generates the Tencer-Minaev dichotomies ($\mathcal{D}_{14}$).
+$CD(\mathbb{S})$ will generate only the 7 orbital dichotomies. Alternatively, any index-2 subgroup of $\mathbb{S}$ other than Democratic/Aristocratic or Irrational/Rational will also generate same set of orbital dichotomies since $\mathbb{S}$ generates them. $CD(\{e,g,x,d,m,c,q,a\} = \rm{Democratic/Aristocratic})$ generates the Reinin dichotomies ($\mathcal{D}_{15}$). $CD(\{e,g,x,d,h,i,k,l\} = \rm{Irrational/Rational})$ generates the Tencer-Minaev dichotomies ($\mathcal{D}_{14}$) (Tencer 2011).
 
 Now, any normal subgroup of order 4 (with the exception of the asymmetric ring groups such as the rings of benefit or supervision) will generate 2 orbital-respecting dichotomy systems, with another set of dichotomies produced by the XOR addition between wall dichotomies of these different spaces, which are often referred to as the "waffle" dichotomies (2025). $CD(\{e,g,x,d\} = Z(\mathbb{S}))$ yields the Reinin dichotomies, the Tencer-Minaev dichotomies, and the X-waffles (Shaneri 2022). $CD(\{e,g,a,q\})$ yields the Reinin dichotomies, Mirror Conflict HEF dichotomies and the $\Delta$-waffles. $CD(\{e,g,i,h\})$ yields the Tencer-Minaev dichotomies, the Tencer-Minaev dichotomies, Business Kindred HEF dichotomies, and the A-waffles. $CD(\{e,g,k,l\})$ yields the Tencer-Minaev dichotomies, Semidual Mirage HEF dichotomies, and the B-waffles. $CD(\{e,g,c,m\})$ yields the Reinin dichotomies, Quasi Identity Activation HEF dichotomies, and the $\Gamma$-waffles. Finally, $CD(\{e,g\})$ generates all orbital-respecting dichotomy systems (all 16 "Varlawend" spaces), and the 15 waffle spaces, since the superego relationship respects all of these dichotomies. In all such cases, only the orbital dichotomies arise directly from subgroup invariance; the waffle dichotomies are derived via XOR combinations across systems. Thus, $CD$ should be understood as constraining admissible dichotomy systems rather than constructing them ex nihilo.
 
