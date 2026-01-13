@@ -94,11 +94,12 @@ We adopt the convention $\mathbb{S} \cong D_4 \times \mathbb{Z}_2$, where the in
 |   **$h$**    | $h$ | $m$ | $i$ | $c$ | $d$ | $S$ | $x$ | $s$ | $l$ | $q$ | $k$ | $a$ | $g$ | $b$ | $e$ | $B$ |
 |   **$c$**    | $c$ | $h$ | $m$ | $i$ | $s$ | $d$ | $S$ | $x$ | $a$ | $l$ | $q$ | $k$ | $B$ | $g$ | $b$ | $e$ |
 
-Table 1
+Table 1: Cayley Table of $\mathbb{S}$
 
-### 2.1.4. Cayley Diagram of $\mathbb{S}$
-![[Pasted image 20260113001006.png]]
-Figure 1 (Credit: Andrew Joynton)
+### 2.1.4. Cayley Graph of $\mathbb{S}$
+
+[[images/]]
+Figure 1: Cayley Graph of $\mathbb{S}$ (Andrew Joynton)
 
 # 3. The Functor
 
