@@ -1,4 +1,4 @@
-# Function Dichotomy ($H \cong \mathbb{Z}^3_{2} \leq \mathbb{S}$): Reinin Tetrachotomy $\longleftrightarrow$ TM Tetrachotomy
+# Function Dichotomies ($H \cong \mathbb{Z}^3_{2} \leq \mathbb{S}$): Reinin Tetrachotomies $\longleftrightarrow$ Tencer-Minaev Tetrachotomies
 
 **Valid/Null:** Democratic/Aristocratic $\longleftrightarrow$ Irrational/Rational  
 **Mental/Vital:** Challenge Response Groups $\longleftrightarrow$ Temperament Groups  
@@ -22,7 +22,7 @@ Conflictor $\longleftrightarrow$ Lookalike (Business)
 Quasi Identical $\longleftrightarrow$ Mirage (Illusory)  
 Activator $\longleftrightarrow$ Semi Dual
 
-# Reinin $\longleftrightarrow$ TM:
+# Dichotomies: Reinin $\longleftrightarrow$ TM
 ## Orbital/Ordinal:
 
 Extroverted/Introverted $\longleftrightarrow$ Asking/Declaring  
