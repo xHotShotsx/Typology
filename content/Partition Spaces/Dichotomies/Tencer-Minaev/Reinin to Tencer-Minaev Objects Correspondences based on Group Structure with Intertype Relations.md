@@ -1,26 +1,19 @@
 # Function Dichotomy ($H \cong \mathbb{Z}^3_{2} \leq \mathbb{S}$): Reinin Tetrachotomy <---> TM Tetrachotomy
 
-**Valid/Null:** Democratic/Aristocratic <---> Irrational/Rational
-
-**Mental/Vital:** Challenge Response Groups <---> Temperament Groups
-
-**Bold/Cautious:** Positivity Groups <---> Displacement Groups
-
-Accepting/Producing: Stress Resistance <---> Stress Resistance
-
-Strong/Weak: Club <---> Lead Faculty
-
-Valued/Subdued: Quadra <---> Accepting Axis
-
-Inert/Contact: Array Groups <---> Creative Faculty
-
-Evaluatory/Situational: Occupation Groups <---> Producing Axis 
+**Valid/Null:** Democratic/Aristocratic <---> Irrational/Rational  
+**Mental/Vital:** Challenge Response Groups <---> Temperament Groups  
+**Bold/Cautious:** Positivity Groups <---> Displacement Groups  
+**Accepting/Producing:** Stress Resistance <---> Stress Resistance  
+**Strong/Weak:** Club <---> Lead Faculty  
+**Valued/Subdued:** Quadra <---> Accepting Axis  
+**Inert/Contact:** Array Groups <---> Creative Faculty  
+**Evaluatory/Situational:** Occupation Groups <---> Producing Axis   
 
 # Reinin <---> TM
 
-Identity <---> Identity  
-Superego <---> Superego  
-Extinguishment <---> Extinguishment  
+Identity <---> Identity    
+Superego <---> Superego    
+Extinguishment <---> Extinguishment    
 Dual <---> Dual  
 Beneficiary <---> Benefactor  
 Supervisee <---> Supervisor  
