@@ -1,4 +1,4 @@
-# Function Dichotomy: Reinin Tetrachotomy <---> TM Tetrachotomy
+# Function Dichotomy ($H \cong \mathbb{Z}^3_{2} \in$): Reinin Tetrachotomy <---> TM Tetrachotomy
 
 Valid/Null: Democratic/Aristocratic <---> Irrational/Rational
 
