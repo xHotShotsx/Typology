@@ -1,4 +1,4 @@
-# Function Dichotomy ($H \cong \mathbb{Z}^3_{2} \leq \mathbb{S}$): Reinin Tetrachotomy <--> TM Tetrachotomy
+# Function Dichotomy ($H \cong \mathbb{Z}^3_{2} \leq \mathbb{S}$): Reinin Tetrachotomy $\longleftrightarrow$ TM Tetrachotomy
 
 **Valid/Null:** Democratic/Aristocratic <--> Irrational/Rational  
 **Mental/Vital:** Challenge Response Groups <--> Temperament Groups  
