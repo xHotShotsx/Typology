@@ -1,10 +1,10 @@
 # Function Dichotomy ($H \cong \mathbb{Z}^3_{2} \leq \mathbb{S}$): Reinin Tetrachotomy <---> TM Tetrachotomy
 
-Valid/Null: Democratic/Aristocratic <---> Irrational/Rational
+**Valid/Null:** Democratic/Aristocratic <---> Irrational/Rational
 
-Mental/Vital: Challenge Response Groups <---> Temperament Groups
+**Mental/Vital:** Challenge Response Groups <---> Temperament Groups
 
-Bold/Cautious: Positivity Groups <---> Displacement Groups
+**Bold/Cautious:** Positivity Groups <---> Displacement Groups
 
 Accepting/Producing: Stress Resistance <---> Stress Resistance
 
