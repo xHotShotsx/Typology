@@ -34,7 +34,7 @@ Process/Result $\longleftrightarrow$ Process/Result
 ## Wall/Cardinal:
 
 Intuitive/Sensory $\longleftrightarrow$ 1stAbstract/1stInvolved  
-Logical/Ethical $\longleftrightarrow$ 1stInvolved/1stExternal  
+Logical/Ethical $\longleftrightarrow$ 1stInternal/1stExternal  
 Merry/Serious $\longleftrightarrow$ 1stDelta/1stBeta  
 Judicious/Decisive $\longleftrightarrow$ 1stAlpha/1stGamma  
 Carefree/Farsighted $\longleftrightarrow$ 2ndAlpha/2ndGamma  
