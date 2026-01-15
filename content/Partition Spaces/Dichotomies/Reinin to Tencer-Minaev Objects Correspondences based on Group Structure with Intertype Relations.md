@@ -1,4 +1,4 @@
-# Function Dichotomy ($H \cong \mathbb{Z}^3_{2} \in$): Reinin Tetrachotomy <---> TM Tetrachotomy
+# Function Dichotomy ($H \cong \mathbb{Z}^3_{2} \leq \mathbb{S}$): Reinin Tetrachotomy <---> TM Tetrachotomy
 
 Valid/Null: Democratic/Aristocratic <---> Irrational/Rational
 
@@ -60,3 +60,8 @@ Yielding/Obstinate <---> 2ndBeta/2ndDelta
 Tactical/Strategic <---> 2ndAbstract/2ndInvolved
 
 Constructivist/Emotivist <---> 2ndExternal/2ndInternal
+
+
+# See Also
+
+- [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics]]
