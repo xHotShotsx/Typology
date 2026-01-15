@@ -1,46 +1,46 @@
 # Function Dichotomy ($H \cong \mathbb{Z}^3_{2} \leq \mathbb{S}$): Reinin Tetrachotomy $\longleftrightarrow$ TM Tetrachotomy
 
-**Valid/Null:** Democratic/Aristocratic <--> Irrational/Rational  
-**Mental/Vital:** Challenge Response Groups <--> Temperament Groups  
-**Bold/Cautious:** Positivity Groups <--> Displacement Groups  
-**Accepting/Producing:** Stress Resistance <--> Stress Resistance  
-**Strong/Weak:** Club <--> Lead Faculty  
-**Valued/Subdued:** Quadra <--> Accepting Axis  
-**Inert/Contact:** Array Groups <--> Creative Faculty  
-**Evaluatory/Situational:** Occupation Groups <--> Producing Axis   
+**Valid/Null:** Democratic/Aristocratic $\longleftrightarrow$ Irrational/Rational  
+**Mental/Vital:** Challenge Response Groups $\longleftrightarrow$ Temperament Groups  
+**Bold/Cautious:** Positivity Groups $\longleftrightarrow$ Displacement Groups  
+**Accepting/Producing:** Stress Resistance $\longleftrightarrow$ Stress Resistance  
+**Strong/Weak:** Club $\longleftrightarrow$ Lead Faculty  
+**Valued/Subdued:** Quadra $\longleftrightarrow$ Accepting Axis  
+**Inert/Contact:** Array Groups $\longleftrightarrow$ Creative Faculty  
+**Evaluatory/Situational:** Occupation Groups $\longleftrightarrow$ Producing Axis   
 
-# Reinin <--> TM
+# Reinin $\longleftrightarrow$ TM
 
-Identity <--> Identity    
-Superego <--> Superego    
-Extinguishment <--> Extinguishment    
-Dual <--> Dual  
-Beneficiary <--> Benefactor  
-Supervisee <--> Supervisor  
-Mirror <--> Kindred  
-Conflictor <--> Lookalike (Business)  
-Quasi Identical <--> Mirage (Illusory)  
-Activator <--> Semi Dual
+Identity $\longleftrightarrow$ Identity    
+Superego $\longleftrightarrow$ Superego    
+Extinguishment $\longleftrightarrow$ Extinguishment    
+Dual $\longleftrightarrow$ Dual  
+Beneficiary $\longleftrightarrow$ Benefactor  
+Supervisee $\longleftrightarrow$ Supervisor  
+Mirror $\longleftrightarrow$ Kindred  
+Conflictor $\longleftrightarrow$ Lookalike (Business)  
+Quasi Identical $\longleftrightarrow$ Mirage (Illusory)  
+Activator $\longleftrightarrow$ Semi Dual
 
-# Reinin <--> TM:
+# Reinin $\longleftrightarrow$ TM:
 ## Orbital/Ordinal:
 
-Extroverted/Introverted <--> Asking/Declaring  
-Irrational/Rational <--> Democratic/Aristocratic  
-Static/Dynamic <--> Static/Dynamic  
-Positivist/Negativist <--> Positivist/Negativist  
-Process/Result <--> Process/Result
+Extroverted/Introverted $\longleftrightarrow$ Asking/Declaring  
+Irrational/Rational $\longleftrightarrow$ Democratic/Aristocratic  
+Static/Dynamic $\longleftrightarrow$ Static/Dynamic  
+Positivist/Negativist $\longleftrightarrow$ Positivist/Negativist  
+Process/Result $\longleftrightarrow$ Process/Result
 
 ## Wall/Cardinal:
 
-Intuitive/Sensory <--> 1stAbstract/1stInvolved  
-Logical/Ethical <--> 1stInvolved/1stExternal  
-Merry/Serious <--> 1stDelta/1stBeta  
-Judicious/Decisive <--> 1stAlpha/1stGamma  
-Carefree/Farsighted <--> 2ndAlpha/2ndGamma  
-Yielding/Obstinate <--> 2ndBeta/2ndDelta  
-Tactical/Strategic <--> 2ndAbstract/2ndInvolved  
-Constructivist/Emotivist <--> 2ndExternal/2ndInternal
+Intuitive/Sensory $\longleftrightarrow$ 1stAbstract/1stInvolved  
+Logical/Ethical $\longleftrightarrow$ 1stInvolved/1stExternal  
+Merry/Serious $\longleftrightarrow$ 1stDelta/1stBeta  
+Judicious/Decisive $\longleftrightarrow$ 1stAlpha/1stGamma  
+Carefree/Farsighted $\longleftrightarrow$ 2ndAlpha/2ndGamma  
+Yielding/Obstinate $\longleftrightarrow$ 2ndBeta/2ndDelta  
+Tactical/Strategic $\longleftrightarrow$ 2ndAbstract/2ndInvolved  
+Constructivist/Emotivist $\longleftrightarrow$ 2ndExternal/2ndInternal
 
 
 # See Also
