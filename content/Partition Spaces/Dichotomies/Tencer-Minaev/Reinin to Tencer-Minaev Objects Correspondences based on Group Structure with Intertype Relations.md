@@ -9,7 +9,7 @@
 **Inert/Contact:** Array Groups $\longleftrightarrow$ Creative Faculty  
 **Evaluatory/Situational:** Occupation Groups $\longleftrightarrow$ Producing Axis   
 
-# Reinin $\longleftrightarrow$ TM
+# Intertype Relations: Reinin $\longleftrightarrow$ Tencer-Minaev
 
 Identity $\longleftrightarrow$ Identity    
 Superego $\longleftrightarrow$ Superego    
