@@ -23,35 +23,23 @@ Quasi Identical <---> Mirage (Illusory)
 Activator <---> Semi Dual
 
 # Reinin <---> TM:
+## Orbital/Ordinal:
 
-Orbital/Ordinal:
-
-Extroverted/Introverted <---> Asking/Declaring
-
-Irrational/Rational <---> Democratic/Aristocratic
-
-Static/Dynamic <---> Static/Dynamic
-
-Positivist/Negativist <---> Positivist/Negativist
-
+Extroverted/Introverted <---> Asking/Declaring  
+Irrational/Rational <---> Democratic/Aristocratic  
+Static/Dynamic <---> Static/Dynamic  
+Positivist/Negativist <---> Positivist/Negativist  
 Process/Result <---> Process/Result
 
-Wall/Cardinal:
+## Wall/Cardinal:
 
-Intuitive/Sensory <---> 1stAbstract/1stInvolved
-
-Logic/Ethics <---> 1stInvolved/1stExternal
-
-Merry/Serious <---> 1stDelta/1stBeta
-
-Judicious/Decisive <---> 1stAlpha/1stGamma
-
-Carefree/Farsighted <---> 2ndAlpha/2ndGamma
-
-Yielding/Obstinate <---> 2ndBeta/2ndDelta
-
-Tactical/Strategic <---> 2ndAbstract/2ndInvolved
-
+Intuitive/Sensory <---> 1stAbstract/1stInvolved  
+Logical/Ethical <---> 1stInvolved/1stExternal  
+Merry/Serious <---> 1stDelta/1stBeta  
+Judicious/Decisive <---> 1stAlpha/1stGamma  
+Carefree/Farsighted <---> 2ndAlpha/2ndGamma  
+Yielding/Obstinate <---> 2ndBeta/2ndDelta  
+Tactical/Strategic <---> 2ndAbstract/2ndInvolved  
 Constructivist/Emotivist <---> 2ndExternal/2ndInternal
 
 
