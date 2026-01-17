@@ -6,11 +6,6 @@
 - Octachotomy = the division of the Socion into 8 distinct sets, or dyads (formed by the intersection of 7 nontrivial dichotomies).
 - Hexadecachotomy = the division of the Socion into its 16 monadic elements, or types of information metabolism (TIMs), and is formed by the intersection of all elements from a dichotomy system.
 
-# Types of Dichotomies
-
-- Orbital $\mathcal{O}$: The 7 Orbital dichotomies are the dichotomies that, when intersected, define the superego dyad. For any two orbital dichotomy and a binary operation, the third will also be another orbital dichotomy in the subspace 
-
-
 # Mathematical Objects
 ## Dichotomy Spaces and Traits
 
@@ -34,6 +29,8 @@
 	- $\mathcal{D}_{15}$ = Reinin
 	- $\mathcal{D}_{16}$ = Flexible-Manoeuvring Process Compass Result HEF
 - $\mathbf{V}$ is the vector space associated with an $i$ dichotomy system that acts on the sociotypes and generate induced relation groups, denoted $\mathbf{V}_{i}$. The vectors themselves are encoded via XOR logic, so for example the zero vector corresponds to the identity element. Sometimes XNOR logic is used to express the elements, where the identity element is represented by the one vector, but the former is mostly used. Refer to my [[Partition Spaces/Dichotomies/TIM Dichotomy Index]] for the basis vectors for each dichotomy system (these correspond to the 1st order dichotomies used for boolean algebras for a system of dichotomies).
+
+
 
 ## Intertype Relations
 
