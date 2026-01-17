@@ -41,7 +41,8 @@
 ### Orbital Subsets
 
 - The 'Vector' set $V$ is the set of orbital dichotomies, that when intersected, form the 'Challenge Response Groups' tetrachotomy. The remaining 4 orbital dichotomies form the 'Converse' set, denoted $C$.
-- The 'General' set $G$ is the set of general dichotomies,
+- The 'General' set $G$ is the set of general dichotomies, that when intersected, form the 'Temperaments' tetrachotomy. The remaining 4 orbital dichotomies form the 'Supralocal' set, notated $U$.
+- 
 
 ## Intertype Relations
 
