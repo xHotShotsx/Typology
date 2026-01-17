@@ -24,4 +24,7 @@
 	- $\mathcal{D}_{10}$ = Balanced-Stable Result Compass Process HEF
 	- $\mathcal{D}_{11}$ = Linear-Assertive Result Compass Process HEF
 	- $\mathcal{D}_{12}$ = Mirror Conflict HEF
-	- $\mathcal{D}_{13}$ = 
+	- $\mathcal{D}_{13}$ = Receptive-Adaptive Process Compass Result HEF
+	- $\mathcal{D}_{14}$ = Tencer-Minaev
+	- $\mathcal{D}_{15}$ = Reinin
+	- $\mathcal{D}_{16}$ = Flexible-Manoeuvring Pr
