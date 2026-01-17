@@ -55,7 +55,9 @@
 	- $A_{4}$ = 2nd-Beta / 2nd-Delta
 	- $D_1$ = 1st-Abstract / 1st-Involved
 	- $D_2$ = 1st-Alpha / 1st-Gamma
-	- $D_3$ = 
+	- $D_3$ = 2nd-Abstract / 2nd-Involved
+	- $D_4$ = 2nd-Alpha / 2nd-Gamma
+- The wall subspace $W_{15}$ can be divided into two sets, namely 'Rational' and 'Democratic', denoted $R$ and $I$, respectively. The elements of $W_{15}$ are as follows...
 
 ## Intertype Relations
 
