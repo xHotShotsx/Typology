@@ -44,7 +44,7 @@
 - The 'General' set $G$ is the set of dichotomies, that when intersected, form the 'Temperaments' tetrachotomy. The remaining 4 orbital dichotomies form the 'Supralocal' set, denoted $U$.
 - The 'Orientation' set $O$ is the set of dichotomies, that when intersected, form the 'Positivity Groups' or 'Forms of Will' tetrachotomy. The remaining 4 orbital dichotomies form the 'Pivotal' set, denoted $P$.
 - The 'Displacement' set $\Delta$ is the set of dichotomies, that when intersected, form the 'Displacement' tetrachotomy. The remaining 4 orbital dichotomies form the 'Extrapolative' set, denoted $E$.
-- The 'Central' set $Z$ is the set of dichotomies, that when intersected, form the 'Centr'
+- The 'Central' set $Z$ is the set of dichotomies, that when intersected, form the 'Central' set
 
 ## Intertype Relations
 
