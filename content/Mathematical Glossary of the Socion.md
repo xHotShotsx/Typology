@@ -35,17 +35,17 @@
 - $\mathbb{S}$: This is the group of all intertype relations in Socionics. This group is isomorphic to $D_{4} \times \mathbb{Z}_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2). The elements of $\mathbb{S}$ proceeds as follows:
 	- $e \quad$  identity, or identical  
 	- $d \quad$  dual  
-$a \quad$ activator  
-$m \quad$ mirror  
-$g \quad$ superego  
-$c \quad$ conflict  
-$q \quad$ quasi-identical  
-$x \quad$ extinguishment, or contrary  
-$S \quad$ supervisor  
-$B \quad$ benefactor  
-$k \quad$ kindred  
-$h \quad$ semidual, or half-dual  
-$s \quad$ supervisee  
-$b \quad$ beneficiary  
-$l \quad$ business, or lookalike  
-$i \quad$ mirage, or illusory  
+	- $a \quad$ activator  
+	- $m \quad$ mirror  
+	- $g \quad$ superego  
+- $c \quad$ conflict  
+- $q \quad$ quasi-identical  
+- $x \quad$ extinguishment, or contrary  
+- $S \quad$ supervisor  
+- $B \quad$ benefactor  
+- $k \quad$ kindred  
+- $h \quad$ semidual, or half-dual  
+- $s \quad$ supervisee  
+- $b \quad$ beneficiary  
+- $l \quad$ business, or lookalike  
+- $i \quad$ mirage, or illusory  
