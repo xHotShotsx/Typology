@@ -39,7 +39,7 @@
 
 ## Dichotomy Classification Notation
 
-- The 'Vector' set $V$ is the set of orbital dichotomies, that when intersected, form the Challenge Response Groups tetrachotomy
+- The 'Vector' set $V$ is the set of orbital dichotomies, that when intersected, form the 'Challenge Response Groups' tetrachotomy. The remaining 4 orbital dichotomies
 
 ## Intertype Relations
 
