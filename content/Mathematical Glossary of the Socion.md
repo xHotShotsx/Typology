@@ -49,7 +49,8 @@
 ## Wall Subsets (Reinin and Tencer-Minaev)
 
 - The wall subspace $W_{14}$ can be divided into two sets, namely 'Aristocratic' and 'Democratic', denoted $A$ and $D$, respectively. Elements of them are as follows...
-	- $A_1$: 
+	- $A_1$ = 1st-Internal / 1st-External
+	- $A_{2}$ = 1st-
 
 ## Intertype Relations
 
