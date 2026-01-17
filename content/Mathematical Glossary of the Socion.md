@@ -6,6 +6,11 @@
 - Octachotomy = the division of the Socion into 8 distinct sets, or dyads (formed by the intersection of 7 nontrivial dichotomies).
 - Hexadecachotomy = the division of the Socion into its 16 monadic elements, or types of information metabolism (TIMs), and is formed by the intersection of all elements from a dichotomy system.
 
+# Types of Dichotomies
+
+- Orbital $\mathcal{O}$: Orbital dichotomies are in every 
+
+
 # Mathematical Objects
 ## Dichotomy Spaces and Traits
 
@@ -49,7 +54,3 @@
 	- $b$ = beneficiary  
 	- $l$ = business, or lookalike  
 	- $i$ = mirage, or illusory  
-
-# Types of Dichotomies
-
-- Orbital $\mathcal{O}$: 
