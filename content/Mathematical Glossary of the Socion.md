@@ -12,4 +12,4 @@
 - $\mathfrak{d}$ = a dichotomy from a valid system of dichotomies where $\mathfrak{d}_0$ and $\mathfrak{d}_1$ are complementary traits. Alternatively, for any dichotomy, $D$ is used.
 - $\mathfrak{D}$ = a system of dichotomies0
 - $\mathcal{D}$ = the family of all orbital-respecting dichotomies (16 in total), with the subscript $i$ denoting the system.
-	- $\mathcal{D}_1$ = 
+	- $\mathcal{D}_1$ = Flexible-Manoeuvring 
