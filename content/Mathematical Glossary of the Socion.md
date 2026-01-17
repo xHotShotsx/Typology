@@ -30,8 +30,6 @@
 	- $\mathcal{D}_{16}$ = Flexible-Manoeuvring Process Compass Result HEF
 - $\mathbf{V}$ is the vector space associated with an $i$ dichotomy system that acts on the sociotypes and generate induced relation groups, denoted $\mathbf{V}_{i}$. The vectors themselves are encoded via XOR logic, so for example the zero vector corresponds to the identity element. Sometimes XNOR logic is used to express the elements, where the identity element is represented by the one vector, but the former is mostly used. Refer to my [[Partition Spaces/Dichotomies/TIM Dichotomy Index]] for the basis vectors for each dichotomy system (these correspond to the 1st order dichotomies used for boolean algebras for a system of dichotomies).
 
-## Types of Dichoto
-
 ## Intertype Relations
 
 - $\mathbb{S}$: This is the group of all intertype relations in Socionics. This group is isomorphic to $D_{4} \times \mathbb{Z}_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2). The elements of $\mathbb{S}$ proceeds as follows:
@@ -51,3 +49,7 @@
 	- $b$ = beneficiary  
 	- $l$ = business, or lookalike  
 	- $i$ = mirage, or illusory  
+
+# Types of Dichotomies
+
+- Orbital $\mathcal{O}$: 
