@@ -8,7 +8,7 @@
 
 # Types of Dichotomies
 
-- Orbital $\mathcal{O}$: Orbital dichotomies are in every 
+- Orbital $\mathcal{O}$: The 7 Orbital dichotomies are the dichotomies that, when intersected, define the superego dyad. For any orbital dichotom
 
 
 # Mathematical Objects
