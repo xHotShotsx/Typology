@@ -46,6 +46,10 @@
 - The 'Displacement' set $\Delta$ is the set of dichotomies, that when intersected, form the 'Displacement' tetrachotomy. The remaining 4 orbital dichotomies form the 'Extrapolative' set, denoted $E$.
 - The 'Central' set $Z$ is the set of dichotomies, that when intersected, form the 'Stress Resistance' tetrachotomy. The remaining 4 orbital dichotomies form the 'Dihedral' or 'Square' set, denoted $S$.
 
+## Wall Subsets (Reinin and Tencer-Minaev)
+
+- The wall su
+
 ## Intertype Relations
 
 - $\mathbb{S}$: This is the group of all intertype relations in Socionics. This group is isomorphic to $D_{4} \times \mathbb{Z}_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2). The elements of $\mathbb{S}$ proceeds as follows:
