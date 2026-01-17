@@ -38,8 +38,10 @@
 - Waffle: For a pair of dichotomy systems $\mathcal{D}_{i}$ and $\mathcal{D}_{j}$, and a pair of their associated wall subspaces $W_{i}$ and $W_{j}$, a "waffle" dichotomy is the output of the product of one dichotomy in $W_{i}$ and another in $W_{j}$. Exhausting this for all wall dichotomies in the relevant systems forms a wall subspace, that when combined with the 7 orbital dichotomies forms its associated independent dichotomy system. For any two waffle dichotomies in the same subspace and a binary operation between them, the output will always be an orbital dichotomy. However, for the binary operation between a waffle dichotomy and an orbital dichotomy will result in another waffle dichotomy in the same waffle subspace. Lagrange's Theorem tells us that there are exactly 15 of these "waffle" subspaces, each subspace consisting of 8 waffle dichotomies. 
 
 ## Dichotomy Classification Notation
+### Orbital Subsets
 
-- The 'Vector' set $V$ is the set of orbital dichotomies, that when intersected, form the 'Challenge Response Groups' tetrachotomy. The remaining 4 orbital dichotomies
+- The 'Vector' set $V$ is the set of orbital dichotomies, that when intersected, form the 'Challenge Response Groups' tetrachotomy. The remaining 4 orbital dichotomies form the 'Converse' set, denoted $C$.
+- The 'General' set $G$ is the set of general dichotomies,
 
 ## Intertype Relations
 
