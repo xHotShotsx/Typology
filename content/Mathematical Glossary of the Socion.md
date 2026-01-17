@@ -16,4 +16,5 @@
 	- $\mathcal{D}_{2}$ = Semidual Mirage HEF
 	- $\mathcal{D}_{3}$ = Kindred Business HEF
 	- $\mathcal{D}_{4}$ = Flexible-Manoeuvring Result Compass Process HEF
-	- $\mathcal{D}_{5}$ = Charged 
+	- $\mathcal{D}_{5}$ = Parallel Club Quadra Charged Rationality
+	- $\mathcal{D}_{6}$ 
