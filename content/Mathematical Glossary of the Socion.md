@@ -27,4 +27,4 @@
 	- $\mathcal{D}_{13}$ = Receptive-Adaptive Process Compass Result HEF
 	- $\mathcal{D}_{14}$ = Tencer-Minaev
 	- $\mathcal{D}_{15}$ = Reinin
-	- $\mathcal{D}_{16}$ = Flexible-Manoeuvring Pr
+	- $\mathcal{D}_{16}$ = Flexible-Manoeuvring Process Compass Result HEF
