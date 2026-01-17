@@ -48,7 +48,7 @@
 
 ## Wall Subsets (Reinin and Tencer-Minaev)
 
-- The wall su
+- The wall subspace $W_{}$
 
 ## Intertype Relations
 
