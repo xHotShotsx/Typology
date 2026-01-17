@@ -28,7 +28,7 @@
 	- $\mathcal{D}_{14}$ = Tencer-Minaev
 	- $\mathcal{D}_{15}$ = Reinin
 	- $\mathcal{D}_{16}$ = Flexible-Manoeuvring Process Compass Result HEF
-- $\mathbf{V}$ is the vector space associated with an $i$ dichotomy system that acts on the sociotypes and generate induced relation groups, denoted $\mathbf{V}_{i}$. Refer to my [[Partition Spaces/Dichotomies/TIM Dichotomy Index]] for the basis vectors for each dichotomy system (these correspond to the 1st order dichotomies used for boolean algebras for a system of dichotomies). The vectors themselves are encoded via XOR logic, so for example the zero vector corresponds to the identity element. Sometimes XNOR logic is used to express the elements, where the identity element is represented by the one vector, but the former is mostly used.
+- $\mathbf{V}$ is the vector space associated with an $i$ dichotomy system that acts on the sociotypes and generate induced relation groups, denoted $\mathbf{V}_{i}$. The vectors themselves are encoded via XOR logic, so for example the zero vector corresponds to the identity element. Sometimes XNOR logic is used to express the elements, where the identity element is represented by the one vector, but the former is mostly used. Refer to my [[Partition Spaces/Dichotomies/TIM Dichotomy Index]] for the basis vectors for each dichotomy system (these correspond to the 1st order dichotomies used for boolean algebras for a system of dichotomies).
 
 ## Intertype Relations
 
