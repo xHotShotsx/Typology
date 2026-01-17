@@ -40,9 +40,9 @@
 ## Dichotomy Classification Notation
 ### Orbital Subsets
 
-- The 'Vector' set $V$ is the set of dichotomies, that when intersected, form the 'Challenge Response Groups' tetrachotomy. The remaining 4 orbital dichotomies form the 'Converse' set, denoted $C$.
-- The 'General' set $G$ is the set of dichotomies, that when intersected, form the 'Temperaments' tetrachotomy. The remaining 4 orbital dichotomies form the 'Supralocal' set, denoted $U$.
-- The 'Orientation' set $O$ is the set of dichotomies, that when intersected, form the 'Positivity Groups' or 'Forms of Will' tetrachotomy. The remaining 4 orbital dichotomies form the 'Pivotal' set, denoted $P$.
+- The 'Vector' set $V$ is the set of dichotomies, that when intersected, form the 'Challenge Response Groups' tetrachotomy. The remaining 4 orbital dichotomies together form the 'Converse' set, denoted $C$.
+- The 'General' set $G$ is the set of dichotomies, that when intersected, form the 'Temperaments' tetrachotomy. The remaining 4 orbital dichotomies together form the 'Supralocal' set, denoted $U$.
+- The 'Orientation' set $O$ is the set of dichotomies, that when intersected, form the 'Positivity Groups' or 'Forms of Will' tetrachotomy. The remaining 4 orbital dichotomies together form the 'Pivotal' set, denoted $P$.
 - The 'Displacement' set $\Delta$ is the set of dichotomies, that when intersected, form the 'Displacement' tetrachotomy. The remaining 4 orbital dichotomies form the 'Extrapolative' set, denoted $E$.
 - The 'Central' set $Z$ is the set of dichotomies, that when intersected, form the 'Stress Resistance' tetrachotomy. The remaining 4 orbital dichotomies form the 'Dihedral' or 'Square' set, denoted $S$.
 
