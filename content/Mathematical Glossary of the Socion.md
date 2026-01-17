@@ -48,7 +48,7 @@
 
 ## Wall Subsets (Reinin and Tencer-Minaev)
 
-- The wall subspace $W_{14}$ can be divided into 
+- The wall subspace $W_{14}$ can be divided into two subspaces, 
 
 ## Intertype Relations
 
