@@ -20,4 +20,5 @@
 	- $\mathcal{D}_{6}$ = Parallel Club Quadra Charged Rationality
 	- $\mathcal{D}_{7}$ = Balanced-Stable Process Compass Result HEF
 	- $\mathcal{D}_{8}$ = Perpendicular Club Quadra Vertedness
-	- $\mathcal{D}_{9}$ = Activa
+	- $\mathcal{D}_{9}$ = Activation Quasi-Identity HEF
+	- $\mathcal{D}_{10}$ =  
