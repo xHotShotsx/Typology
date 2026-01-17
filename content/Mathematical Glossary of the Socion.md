@@ -22,4 +22,6 @@
 	- $\mathcal{D}_{8}$ = Perpendicular Club Quadra Vertedness
 	- $\mathcal{D}_{9}$ = Activation Quasi-Identity HEF
 	- $\mathcal{D}_{10}$ = Balanced-Stable Result Compass Process HEF
-	- $\mathcal{D}_{11}$ = Linear-Assertive Result Compas
+	- $\mathcal{D}_{11}$ = Linear-Assertive Result Compass Process HEF
+	- $\mathcal{D}_{12}$ = Mirror Conflict HEF
+	- $\mathcal{D}_{13}$ = 
