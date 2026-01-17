@@ -13,4 +13,7 @@
 - $\mathfrak{D}$ = a system of dichotomies0
 - $\mathcal{D}$ = the family of all orbital-respecting dichotomies (16 in total), with the subscript $i$ denoting the system.
 	- $\mathcal{D}_1$ = Receptive-Adaptive Result Compass Process HEF
-	- $\mathcal{D}_{2}$ = Semidual Mirage J  
+	- $\mathcal{D}_{2}$ = Semidual Mirage HEF
+	- $\mathcal{D}_{3}$ = Kindred Business HEF
+	- $\mathcal{D}_{4}$ = Flexible-Manoeuvring Result Compass Process HEF
+	- $\mathcal{D}_{5}$ = Charged 
