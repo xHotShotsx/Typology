@@ -35,7 +35,7 @@
 # Types of Dichotomies
 
 - Orbital $\mathcal{O}$: The 7 Orbital dichotomies are the dichotomies that, when intersected, define the superego dyad. For any two orbital dichotomies and a binary operation between them, the output will be another orbital dichotomy in the orbital subspace.
-- Wall $\mathcal{W}$: These proport to the 8 non-orbital dichotomies in each system of dichotomies, with the complete family of wall dichotomies consisting of 144 total dichotomies. Each wall subspace is denoted $W_i$ which consists of 8 wall dichotomies associated with an $i$ dichotomy system. Every dichotomy space $\mathcal{D}_i$ consists of a wall subspace $W_i$ together with the 7 orbital dichotomies, excluding the tautological dichotomies. For any two wall dichotomies within 
+- Wall $\mathcal{W}$: These proport to the 8 non-orbital dichotomies in each system of dichotomies, with the complete family of wall dichotomies consisting of 144 total dichotomies. Each wall subspace is denoted $W_i$ which consists of 8 wall dichotomies associated with an $i$ dichotomy system. Every dichotomy space $\mathcal{D}_i$ consists of a wall subspace $W_i$ together with the 7 orbital dichotomies, excluding the tautological dichotomies. For any two wall dichotomies in $W_{i}$ and a binary operation between them, the output will be an orbital dichotomy. However, for a wall dichotomy
 
 ## Intertype Relations
 
