@@ -28,4 +28,4 @@
 	- $\mathcal{D}_{14}$ = Tencer-Minaev
 	- $\mathcal{D}_{15}$ = Reinin
 	- $\mathcal{D}_{16}$ = Flexible-Manoeuvring Process Compass Result HEF
-- $\mathbf{V}$ is the vector space associated with an $i$ dichotomy system that acts on the sociotypes.
+- $\mathbf{V}$ is the vector space associated with an $i$ dichotomy system that acts on the sociotypes, denoted $\mathbf{V}_{i}$.
