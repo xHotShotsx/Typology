@@ -46,11 +46,13 @@
 - The 'Displacement' set $\Delta$ is the set of dichotomies, that when intersected, form the 'Displacement' tetrachotomy. The remaining 4 orbital dichotomies form the 'Extrapolative' set, denoted $E$.
 - The 'Central' set $Z$ is the set of dichotomies, that when intersected, form the 'Stress Resistance' tetrachotomy. The remaining 4 orbital dichotomies form the 'Dihedral' or 'Square' set, denoted $S$.
 
-## Wall Subsets (Reinin and Tencer-Minaev)
+## Wall Subsets (Tencer-Minaev and Reinin)
 
 - The wall subspace $W_{14}$ can be divided into two sets, namely 'Aristocratic' and 'Democratic', denoted $A$ and $D$, respectively. Elements of them are as follows...
 	- $A_1$ = 1st-Internal / 1st-External
-	- $A_{2}$ = 1st-
+	- $A_{2}$ = 1st-Delta / 1st-Beta
+	- $A_3$ = 2nd-External / 2nd-Internal
+	- 
 
 ## Intertype Relations
 
