@@ -11,11 +11,11 @@
 
 - $\mathfrak{d}$ = a dichotomy from a valid system of dichotomies where $\mathfrak{d}_0$ and $\mathfrak{d}_1$ are complementary traits. Alternatively, for any dichotomy, $D$ is used.
 - $\mathfrak{D}$ = a system of dichotomies0
-- $\mathcal{D}$ = the family of all orbital-respecting dichotomies (16 in total), with the subscript $i$ denoting the system.
+- $\mathcal{D}$ = the family of all orbital-respecting dichotomies (16 in total), with the subscript $i$ denoting the system. The list of all orbital-respecting dichotomy systems"
 	- $\mathcal{D}_1$ = Receptive-Adaptive Result Compass Process HEF
 	- $\mathcal{D}_{2}$ = Semidual Mirage HEF
 	- $\mathcal{D}_{3}$ = Kindred Business HEF
 	- $\mathcal{D}_{4}$ = Flexible-Manoeuvring Result Compass Process HEF
 	- $\mathcal{D}_{5}$ = Parallel Club Quadra Charged Rationality
 	- $\mathcal{D}_{6}$ = Parallel Club Quadra Charged Rationality
-	- 
+	- $\mathcal{D}_{7}$ = 
