@@ -32,3 +32,4 @@
 
 ## Intertype Relations
 
+- $\mathbb{S}$: This is the group of all intertype relations in Socionics. This group is isomorphic to $D_{4} \times \mathbb{Z}_{2}$ (the dihedral group )
