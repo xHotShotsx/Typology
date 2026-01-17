@@ -38,14 +38,14 @@
 	- $a \quad$ activator  
 	- $m \quad$ mirror  
 	- $g \quad$ superego  
-- $c \quad$ conflict  
-- $q \quad$ quasi-identical  
-- $x \quad$ extinguishment, or contrary  
-- $S \quad$ supervisor  
-- $B \quad$ benefactor  
-- $k \quad$ kindred  
-- $h \quad$ semidual, or half-dual  
-- $s \quad$ supervisee  
-- $b \quad$ beneficiary  
-- $l \quad$ business, or lookalike  
-- $i \quad$ mirage, or illusory  
+	- $c \quad$ conflict  
+	- $q \quad$ quasi-identical  
+	- $x \quad$ extinguishment, or contrary  
+	- $S \quad$ supervisor  
+	- $B \quad$ benefactor  
+	- $k \quad$ kindred  
+	- $h \quad$ semidual, or half-dual  
+	- $s \quad$ supervisee  
+	- $b \quad$ beneficiary  
+	- $l \quad$ business, or lookalike  
+	- $i \quad$ mirage, or illusory  
