@@ -13,3 +13,4 @@
 - $\mathfrak{D}$ = a system of dichotomies0
 - $\mathcal{D}$ = the family of all orbital-respecting dichotomies (16 in total), with the subscript $i$ denoting the system.
 	- $\mathcal{D}_1$ = Receptive-Adaptive Result Compass Process HEF
+	 
