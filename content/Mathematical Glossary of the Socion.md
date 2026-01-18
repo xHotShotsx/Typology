@@ -1,6 +1,6 @@
 # Partition Spaces
 
-- Monochotomy = the hexadecadic set which comprises of the full Socion.
+- Monochotomy = the hexadecadic set which comprises the full Socion, or relelvant set related to con.
 - Dichotomy = the division of the Socion into 2 distinct sets (traits or octads).
 - Tetrachotomy = the division of the Socion into 4 distinct sets, or tetrads (formed by the intersection of three nontrivial dichotomies).
 - Octachotomy = the division of the Socion into 8 distinct sets, or dyads (formed by the intersection of 7 nontrivial dichotomies).
@@ -69,7 +69,7 @@
 
 ## Intertype Relations
 
-- $\mathbb{S}$: This is the group of all intertype relations in Socionics. This group is isomorphic to $D_{4} \times \mathbb{Z}_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2). The elements of $\mathbb{S}$ proceeds as follows:
+- $\mathbb{S}$: This is the group of all intertype relations in Socionics. This group is isomorphic to $D_{4} \times \mathbb{Z}_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2). The elements of $\mathbb{S}$ are as follows:
 	- $e$ = identity, or identical  
 	- $d$ = dual  
 	- $a$ = activator  
