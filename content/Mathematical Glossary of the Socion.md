@@ -60,11 +60,11 @@
 - The wall subspace $W_{15}$ can be divided into two sets, namely 'Rational' and 'Irrational', denoted $R$ and $I$, respectively. The elements of $W_{15}$ are as follows...
 	- $R_1$ = Logical / Ethical
 	- $R_{2}$ = Merry / Serious
-	- $R_3$ = Constructivist / Emotivi
-	- $R_{4}$ = 2nd-Beta / 2nd-Delta
-	- $I_1$ = 1st-Abstract / 1st-Involved
-	- $I_2$ = 1st-Alpha / 1st-Gamma
-	- $I_3$ = 2nd-Abstract / 2nd-Involved
+	- $R_3$ = Constructivist / Emotivist
+	- $R_{4}$ = Yielding / Obstinate
+	- $I_1$ = Intuitive / Sensory
+	- $I_2$ = Judicious / Decisive
+	- $I_3$ = Tactical 
 	- $I_4$ = 2nd-Alpha / 2nd-Gamma
 
 ## Intertype Relations
