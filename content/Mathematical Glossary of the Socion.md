@@ -1,8 +1,8 @@
 # Partition Spaces
 
 - Monochotomy = the hexadecadic set which comprises the full Socion, or full relevant set, determined by context.
-- Dichotomy = the division of a set into 2 distinct sets (traits), in the case of the Socion, but any dichotomy partitions a set into two distinct sets satisfies the definitional criteria.
-- Tetrachotomy = the division of a set into 4 distinct sets, or tetrads (formed by the intersection of three nontrivial dichotomies).
+- Dichotomy = the division of a set into 2 distinct sets (traits, or octads in the context of the Socion).
+- Tetrachotomy = the division of a set into 4 distinct sets, or tetrads in the case(formed by the intersection of three nontrivial dichotomies).
 - Octachotomy = the division of the Socion into 8 distinct sets, or dyads (formed by the intersection of 7 nontrivial dichotomies).
 - Hexadecachotomy = the division of the Socion into its 16 monadic elements, or types of information metabolism (TIMs), and is formed by the intersection of all elements from a dichotomy system.
 
