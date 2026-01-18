@@ -1,6 +1,6 @@
 # Partition Spaces
 
-- Monochotomy = the hexadecadic set which comprises the full Socion, or relelvant set related to con.
+- Monochotomy = the hexadecadic set which comprises the full Socion, or full relelva set depending on context.
 - Dichotomy = the division of the Socion into 2 distinct sets (traits or octads).
 - Tetrachotomy = the division of the Socion into 4 distinct sets, or tetrads (formed by the intersection of three nontrivial dichotomies).
 - Octachotomy = the division of the Socion into 8 distinct sets, or dyads (formed by the intersection of 7 nontrivial dichotomies).
