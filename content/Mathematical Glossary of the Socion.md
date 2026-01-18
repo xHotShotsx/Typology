@@ -64,8 +64,8 @@
 	- $R_{4}$ = Yielding / Obstinate
 	- $I_1$ = Intuitive / Sensory
 	- $I_2$ = Judicious / Decisive
-	- $I_3$ = Tactical 
-	- $I_4$ = 2nd-Alpha / 2nd-Gamma
+	- $I_3$ = Tactical / Strategic
+	- $I_4$ = Carefree / Farsighted
 
 ## Intertype Relations
 
