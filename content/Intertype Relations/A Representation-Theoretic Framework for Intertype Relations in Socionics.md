@@ -264,7 +264,7 @@ and each equivalence class corresponds to a unique selector signature, yielding 
 **Remark.** The selector signature map $\sigma : T \to \mathbb{Z}^{m-1}_2$ does **not** embed types into a vector space. Rather, it records discrete selector outcomes across non-invariant cosets. The representation space $\mathbf{V}_{i} \cong \mathbb{Z}^4_{2}$ remains the sole algebraic action space. 
 
 
-# 8. The Representation Map
+# 9. The Representation Map
 
 For each dichotomy system $\mathcal{D}_i$, we fix a representation map
 
@@ -274,8 +274,8 @@ which assigns to each intertype relation a 4-bit vector in the vector space $\ma
 - $v_0$ = baseline vector, and;
 - $f_i$ = 1-cocycle $f_i : \mathbb{S} \to \mathbf{V}_{i}$ for the $\mathbb{S}$ action on $\mathbf{V}_{i}$.
 
-## 8.1. IP Result Compass HEF ($\mathcal{D}_{1}$)
-### 8.1.1. Generators Used: (E, D, L, P)
+## 9.1. IP Result Compass HEF ($\mathcal{D}_{1}$)
+### 9.1.1. Generators Used: (E, D, L, P)
 #### $I_{\mathcal{D}_1}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$    
@@ -360,8 +360,8 @@ $q \mapsto  (0, 1, 1, 1)$
 $a \mapsto  (0, 0, 0, 1)$    
 
 
-## 8.2. Semidual Mirage HEF ($\mathcal{D}_{2}$)
-### 8.2.1. Generators Used: (E, L, S, P)
+## 9.2. Semidual Mirage HEF ($\mathcal{D}_{2}$)
+### 9.2.1. Generators Used: (E, L, S, P)
 #### $I_{\mathcal{D}_{2}}$ (Temperament)
 
 $e \mapsto (0, 0, 0, 0)$    
@@ -416,8 +416,8 @@ $m \mapsto (1, 0, 1, 1)$
 $c \mapsto  (1, 1, 0, 1)$    
 
 
-## 8.3. Kindred Business HEF ($\mathcal{D}_{3}$)
-### 8.3.1. Generators Used: (E, I, S, P)
+## 9.3. Kindred Business HEF ($\mathcal{D}_{3}$)
+### 9.3.1. Generators Used: (E, I, S, P)
 #### $I_{\mathcal{D}_{3}}$ (Displacement)
 
 $e \mapsto (0, 0, 0, 0)$    
@@ -472,8 +472,8 @@ $B \mapsto (0, 1, 0, 1)$
 $b \mapsto (0, 0, 1, 1)$    
 
 
-## 8.4. EP Result Compass Process HEF ($\mathcal{D}_{4}$)
-### 8.4.1. Generators Used: (E, C, I, P)
+## 9.4. EP Result Compass Process HEF ($\mathcal{D}_{4}$)
+### 9.4.1. Generators Used: (E, C, I, P)
 #### $I_{\mathcal{D}_4}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$    
@@ -559,8 +559,8 @@ $q \mapsto (0, 1, 1, 1)$
 $a \mapsto (0, 0, 0, 1)$  
 
 
-## 8.5. Parallel Club Quadra Charged Rationality ($\mathcal{D}_{5}$)
-### 8.5.1. Generators Used: (E, A, C, P)
+## 9.5. Parallel Club Quadra Charged Rationality ($\mathcal{D}_{5}$)
+### 9.5.1. Generators Used: (E, A, C, P)
 #### $I_{\mathcal{D}_{5}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -645,8 +645,8 @@ $h \mapsto (1, 0, 0, 0)$
 $i \mapsto (1, 1, 1, 0)$  
 
 
-## 8.6. IJ Process Compass Result HEF ($\mathcal{D}_{6}$)
-### 8.6.1. Generators Used: (E, A, I, P)
+## 9.6. IJ Process Compass Result HEF ($\mathcal{D}_{6}$)
+### 9.6.1. Generators Used: (E, A, I, P)
 #### $I_{\mathcal{D}_6}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -731,8 +731,8 @@ $q \mapsto (0, 0, 1, 1)$
 $a \mapsto (0, 1, 0, 1)$  
 
 
-## 8.8. EJ Compass Result HEF ($\mathcal{D}_{8}$)
-### 8.8.1. Generators Used: (E, L, A, P)
+## 9.9. EJ Compass Result HEF ($\mathcal{D}_{8}$)
+### 9.9.1. Generators Used: (E, L, A, P)
 #### $I_{\mathcal{D}_{8}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -817,8 +817,8 @@ $q \mapsto (0, 1, 1, 1)$
 $a \mapsto (0, 0, 0, 1)$  
 
 
-## 8.8. Perpendicular Club Quadra Vertedness ($\mathcal{D}_{8}$)
-### 8.8.1. Generators Used: (E, L, I, P)
+## 9.9. Perpendicular Club Quadra Vertedness ($\mathcal{D}_{8}$)
+### 9.9.1. Generators Used: (E, L, I, P)
 #### $I_{\mathcal{D}_{8}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -903,8 +903,8 @@ $m \mapsto (1, 0, 1, 1)$
 $c \mapsto (1, 1, 0, 1)$  
 
 
-## 8.9. Activation Quasi-Identity HEF ($\mathcal{D}_{9}$)
-### 8.9.1. Generators Used: (E, S, I, P)
+## 9.9. Activation Quasi-Identity HEF ($\mathcal{D}_{9}$)
+### 9.9.1. Generators Used: (E, S, I, P)
 #### $I_{{\mathcal{D}_{9}}}$ (Challenge Response Groups)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -959,8 +959,8 @@ $b \mapsto (0, 1, 0, 1)$
 $B \mapsto (0, 0, 1, 1)$  
 
 
-## 8.10. IJ Result Compass Process HEF ($\mathcal{D}_{10}$)
-### 8.10.1. Generators Used: (E, D, A, P)
+## 9.10. IJ Result Compass Process HEF ($\mathcal{D}_{10}$)
+### 9.10.1. Generators Used: (E, D, A, P)
 #### $I_{\mathcal{D}_{10}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -1045,8 +1045,8 @@ $q \mapsto (0, 1, 0, 1)$
 $a \mapsto (0, 0, 1, 1)$  
 
 
-## 8.11. EJ Result Compass Process HEF ($\mathcal{D}_{11}$)
-### 8.11.1. Generators Used: (E, D, A, P)
+## 9.11. EJ Result Compass Process HEF ($\mathcal{D}_{11}$)
+### 9.11.1. Generators Used: (E, D, A, P)
 #### $I_{\mathcal{D}_{11}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -1131,8 +1131,8 @@ $q \mapsto (0, 1, 0, 1)$
 $a \mapsto (0, 0, 1, 1)$  
 
 
-## 8.12. Mirror Conflict HEF ($\mathcal{D}_{12}$)
-### 8.12.1. Generators Used: (E, I, S, P)
+## 9.12. Mirror Conflict HEF ($\mathcal{D}_{12}$)
+### 9.12.1. Generators Used: (E, I, S, P)
 #### $I_{\mathcal{D}_{12}}$ (Positivity Groups)
 
 $e \mapsto (0, 1, 0, 0)$  
@@ -1187,8 +1187,8 @@ $S \mapsto (1, 1, 0, 1)$
 $s \mapsto (1, 0, 1, 1)$  
 
 
-## 8.13. IP Process Compass Result HEF ($\mathcal{D}_{13}$)
-### 8.13.1. Generators Used: (E, S, I, P)
+## 9.13. IP Process Compass Result HEF ($\mathcal{D}_{13}$)
+### 9.13.1. Generators Used: (E, S, I, P)
 #### $I_{\mathcal{D}_{13}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -1273,8 +1273,8 @@ $q \mapsto (0, 1, 0, 1)$
 $a \mapsto (0, 0, 1, 1)$  
 
 
-## 8.14. Tencer-Minaev ($\mathcal{D}_{14}$)
-### 8.14.1. Generators Used: (Q, A, I, D)
+## 9.14. Tencer-Minaev ($\mathcal{D}_{14}$)
+### 9.14.1. Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -1310,8 +1310,8 @@ $s \mapsto (1, 1, 0, 1)$
 $b \mapsto (0, 0, 1, 1)$  
 
 
-## 8.15. Reinin ($\mathcal{D}_{15}$)
-### 8.15.1. Generators Used: (E, N, T, P)
+## 9.15. Reinin ($\mathcal{D}_{15}$)
+### 9.15.1. Generators Used: (E, N, T, P)
 #### $I_{\mathcal{D}_{15}}$ (Democratic/Aristocratic)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -1347,8 +1347,8 @@ $l \mapsto (0, 0, 1, 0)$
 $i \mapsto (1, 1, 0, 0)$  
 
 
-## 8.16. EP Process Compass Result HEF ($\mathcal{D}_{16}$)
-### 8.16.1. Generators Used: (E, S, I, P)
+## 9.16. EP Process Compass Result HEF ($\mathcal{D}_{16}$)
+### 9.16.1. Generators Used: (E, S, I, P)
 #### $I_{\mathcal{D}_{16}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -1433,12 +1433,12 @@ $q \mapsto (0, 1, 0, 1)$
 $a \mapsto (0, 0, 1, 1)$  
 
 
-# 8. References
+# 9. References
 
 1. Newman, M. (2023). [*"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*.](https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html)  Date accessed: 11/11/2025.
 2. Tencer, I. (2011). [*"The Mathematics of Socionics"*.](https://www.scribd.com/document/486953825/socionics-math)  _Scribd._ Date accessed: 29/12/2025.
 
-## 8.1. Further Reading
+## 9.1. Further Reading
 
 - [[The Waffle Spaces]]
 - [[The Waffle Spaces - A Brief Index]]
