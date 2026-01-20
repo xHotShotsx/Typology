@@ -170,6 +170,8 @@ The superego dyad is fixed by all homomorphisms between the Socion group and a d
 
 $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}.$$
 
+### 
+
 # 5. First Cohomology
 
 For the cohomology of classical ITRs, we first define: 
@@ -213,16 +215,7 @@ implement the same transformation in two different representations of the same u
 
 <img src="/Images/Misc/2d-model-l.png" />
 
-**Figure 2: Cayley Diagram of Model L (Andrew Joynton)**
-
-
-# 7. The Centriole
-
-Intuitionally, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
-
-<img src="/Images/Misc/centirole.png" />
-
-**Figure 3: Centriole Diagram (Bruce Quesada)**
+**Figure 3: Cayley Diagram of Model L (Andrew Joynton)**
 
 
 # 8. The Selector
@@ -300,7 +293,7 @@ and each equivalence class corresponds to a unique selector signature, yielding 
 **Remark.** The selector signature map $\sigma : T \to \mathbb{Z}^{m-1}_2$ does **not** embed types into a vector space. Rather, it records discrete selector outcomes across non-invariant cosets. The representation space $\mathbf{V}_{i} \cong \mathbb{Z}^4_{2}$ remains the sole algebraic action space. 
 
 
-# 9. The Representation Map
+# 8. The Representation Map
 
 For each dichotomy system $\mathcal{D}_i$, we fix a representation map
 
