@@ -14,6 +14,10 @@ We classify all dichotomy systems preserving orbital structure, characterise the
 
 This paper proceeds as follows. Section 2 introduces the foundational combinatorial objects. Section 3 introduces the functor $CD$ that outputs the dichotomies classical intertype relationships respect once one inputs a subgroup of them as inputs (Tencer 2011). Sections 4 and 5 develop the group-theoretic framework. Section 6 introduces set models derived from the vector space associated with the dichotomy systems. Section 7 introduces the centriole analogy. Section 8 introduces the selector dichotomies. Section 9 defines the representation map that maps intertype relations to vectors.
 
+## 1.1. Reader's Map
+
+This paper may be read along multiple paths = depending o
+
 # 2. Foundational Objects and Notation
 
 $\mathfrak{d}$ denotes a dichotomy with trait set $\mathfrak{t}(\mathfrak{d})$.  
