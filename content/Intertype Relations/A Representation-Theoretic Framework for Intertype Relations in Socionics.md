@@ -827,7 +827,7 @@ $a \mapsto (0, 0, 0, 1)$
 
 
 ## H. Perpendicular Club Quadra Vertedness ($\mathcal{D}_{8}$)
-### 9.9.1. Generators Used: (E, L, I, P)
+### H.1. Generators Used: (E, L, I, P)
 #### $I_{\mathcal{D}_{8}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -912,8 +912,8 @@ $m \mapsto (1, 0, 1, 1)$
 $c \mapsto (1, 1, 0, 1)$  
 
 
-## 9.9. Activation Quasi-Identity HEF ($\mathcal{D}_{9}$)
-### 9.9.1. Generators Used: (E, S, I, P)
+## I. Activation Quasi-Identity HEF ($\mathcal{D}_{9}$)
+### I.1. Generators Used: (E, S, I, P)
 #### $I_{{\mathcal{D}_{9}}}$ (Challenge Response Groups)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -968,8 +968,8 @@ $b \mapsto (0, 1, 0, 1)$
 $B \mapsto (0, 0, 1, 1)$  
 
 
-## 9.10. IJ Result Compass Process HEF ($\mathcal{D}_{10}$)
-### 9.10.1. Generators Used: (E, D, A, P)
+## J. IJ Result Compass Process HEF ($\mathcal{D}_{10}$)
+### J.1. Generators Used: (E, D, A, P)
 #### $I_{\mathcal{D}_{10}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -1054,8 +1054,8 @@ $q \mapsto (0, 1, 0, 1)$
 $a \mapsto (0, 0, 1, 1)$  
 
 
-## 9.11. EJ Result Compass Process HEF ($\mathcal{D}_{11}$)
-### 9.11.1. Generators Used: (E, D, A, P)
+## K. EJ Result Compass Process HEF ($\mathcal{D}_{11}$)
+### K.1. Generators Used: (E, D, A, P)
 #### $I_{\mathcal{D}_{11}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -1140,8 +1140,8 @@ $q \mapsto (0, 1, 0, 1)$
 $a \mapsto (0, 0, 1, 1)$  
 
 
-## 9.12. Mirror Conflict HEF ($\mathcal{D}_{12}$)
-### 9.12.1. Generators Used: (E, I, S, P)
+## L. Mirror Conflict HEF ($\mathcal{D}_{12}$)
+### L.1. Generators Used: (E, I, S, P)
 #### $I_{\mathcal{D}_{12}}$ (Positivity Groups)
 
 $e \mapsto (0, 1, 0, 0)$  
@@ -1196,8 +1196,8 @@ $S \mapsto (1, 1, 0, 1)$
 $s \mapsto (1, 0, 1, 1)$  
 
 
-## 9.13. IP Process Compass Result HEF ($\mathcal{D}_{13}$)
-### 9.13.1. Generators Used: (E, S, I, P)
+## M. IP Process Compass Result HEF ($\mathcal{D}_{13}$)
+### M1. Generators Used: (E, S, I, P)
 #### $I_{\mathcal{D}_{13}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
