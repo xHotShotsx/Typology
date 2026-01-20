@@ -283,8 +283,8 @@ which assigns to each intertype relation a 4-bit vector in the vector space $\ma
 - $v_0$ = baseline vector, and;
 - $f_i$ = 1-cocycle $f_i : \mathbb{S} \to \mathbf{V}_{i}$ for the $\mathbb{S}$ action on $\mathbf{V}_{i}$.
 
-## 9.1. IP Result Compass HEF ($\mathcal{D}_{1}$)
-### 9.1.1. Generators Used: (E, D, L, P)
+## A. IP Result Compass HEF ($\mathcal{D}_{1}$)
+### A.1. Generators Used: (E, D, L, P)
 #### $I_{\mathcal{D}_1}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$    
@@ -369,8 +369,8 @@ $q \mapsto  (0, 1, 1, 1)$
 $a \mapsto  (0, 0, 0, 1)$    
 
 
-## 9.2. Semidual Mirage HEF ($\mathcal{D}_{2}$)
-### 9.2.1. Generators Used: (E, L, S, P)
+## B.1. Semidual Mirage HEF ($\mathcal{D}_{2}$)
+### Generators Used: (E, L, S, P)
 #### $I_{\mathcal{D}_{2}}$ (Temperament)
 
 $e \mapsto (0, 0, 0, 0)$    
