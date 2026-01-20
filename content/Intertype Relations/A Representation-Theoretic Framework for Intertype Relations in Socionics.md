@@ -229,7 +229,7 @@ Intuitionally, the invariant subgroup may be viewed as a 'centriole' around whic
 
 The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathcal{D}_{i}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to each coset in $r I_{\mathcal{D}_i}$, is two possible outputs in the representation space. For a given type $t \in T$, the selector determines which of these two vectors is chosen, based on whether the corresponding boolean trait of the dichotomy holds for $t$. Thus, a selector dichotomy is the rule that splits each non-invariant coset into type-dependent vector assignments.
 
-## 8.1. Formal Definition
+## 7.1. Formal Definition
 
 Let:
 - $\mathcal{D}_i$ be an orbital-respecting dichotomy system, 
@@ -277,7 +277,7 @@ $$\chi(t) = \chi(t) - \chi(t_{0}).$$
 
 _Orbital invariance lemma._ For any selector dichotomy $D_s$, any coset $C_j$, and any $r \in C_j$, the vectors assigned by $D_s$ satisfy $\pi_{\mathrm{orb}}(a_{j,0}^{(s)}(r)) = \pi_{\mathrm{orb}}(a_{j,1}^{(s)}(r))$.    
 
-## 8.2. The Intersection
+## 7.2. The Intersection
 
 Let each selector dichotomy $D_s \in \mathcal{S}_i$ induce a partition: 
 
