@@ -35,7 +35,11 @@ This paper may be read along multiple paths depending on the reader's background
 
 - Read Sections 2 $\to$ 6 $\to$ 8 $\to$ Appendix
 - Focus on equivariant bijections $\Theta_{i}$
-- Use selector tables as lookup
+- Use selector tables as lookup rules
+
+### 1.1.4. Minimal Path
+
+- Sections 1 $\to$ 4 $\to$ 7 $\to$ 8 $\to$ 9
 
 # 2. Foundational Objects and Notation
 
