@@ -162,7 +162,7 @@ $$ (X_{i}, \rho_{i}), \quad \rho_{i} : \mathbf{V}_{i} \curvearrowright X_{i}$$
 
 where $X_i$ is the underlying set and $\rho_i$ is the group action.
 
-Since there are 16 dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}\}$, there are correspondingly up to 16 possible $E_{16}$-set models ($X_{i}, \rho_{i}$), each associated to its induced relation group $\mathbf{V}_i$.
+Since there are 16 orbital-r dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}\}$, there are correspondingly up to 16 possible $E_{16}$-set models ($X_{i}, \rho_{i}$), each associated to its induced relation group $\mathbf{V}_i$.
 
 Examples of such $E_{16}$-set models include Model L (Lowry and White 2018) and Model W (2025), which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
 
