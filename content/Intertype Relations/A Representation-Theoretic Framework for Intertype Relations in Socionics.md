@@ -369,8 +369,8 @@ $q \mapsto  (0, 1, 1, 1)$
 $a \mapsto  (0, 0, 0, 1)$    
 
 
-## B.1. Semidual Mirage HEF ($\mathcal{D}_{2}$)
-### Generators Used: (E, L, S, P)
+## B. Semidual Mirage HEF ($\mathcal{D}_{2}$)
+### B.1. Generators Used: (E, L, S, P)
 #### $I_{\mathcal{D}_{2}}$ (Temperament)
 
 $e \mapsto (0, 0, 0, 0)$    
@@ -425,8 +425,8 @@ $m \mapsto (1, 0, 1, 1)$
 $c \mapsto  (1, 1, 0, 1)$    
 
 
-## 9.3. Kindred Business HEF ($\mathcal{D}_{3}$)
-### 9.3.1. Generators Used: (E, I, S, P)
+## C. Kindred Business HEF ($\mathcal{D}_{3}$)
+### C.1. Generators Used: (E, I, S, P)
 #### $I_{\mathcal{D}_{3}}$ (Displacement)
 
 $e \mapsto (0, 0, 0, 0)$    
@@ -481,8 +481,8 @@ $B \mapsto (0, 1, 0, 1)$
 $b \mapsto (0, 0, 1, 1)$    
 
 
-## 9.4. EP Result Compass Process HEF ($\mathcal{D}_{4}$)
-### 9.4.1. Generators Used: (E, C, I, P)
+## D. EP Result Compass Process HEF ($\mathcal{D}_{4}$)
+### D.1. Generators Used: (E, C, I, P)
 #### $I_{\mathcal{D}_4}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$    
@@ -568,8 +568,8 @@ $q \mapsto (0, 1, 1, 1)$
 $a \mapsto (0, 0, 0, 1)$  
 
 
-## 9.5. Parallel Club Quadra Charged Rationality ($\mathcal{D}_{5}$)
-### 9.5.1. Generators Used: (E, A, C, P)
+## E. Parallel Club Quadra Charged Rationality ($\mathcal{D}_{5}$)
+### E.1. Generators Used: (E, A, C, P)
 #### $I_{\mathcal{D}_{5}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -654,8 +654,8 @@ $h \mapsto (1, 0, 0, 0)$
 $i \mapsto (1, 1, 1, 0)$  
 
 
-## 9.6. IJ Process Compass Result HEF ($\mathcal{D}_{6}$)
-### 9.6.1. Generators Used: (E, A, I, P)
+## F. IJ Process Compass Result HEF ($\mathcal{D}_{6}$)
+### F.1. Generators Used: (E, A, I, P)
 #### $I_{\mathcal{D}_6}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
