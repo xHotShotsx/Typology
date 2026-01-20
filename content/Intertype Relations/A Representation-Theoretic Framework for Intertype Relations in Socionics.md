@@ -16,7 +16,7 @@ This paper proceeds as follows. Section 2 introduces the foundational combinator
 
 ## 1.1. Reader's Map
 
-This paper may be read along multiple paths depending on the reader's background and goals.
+This paper may be read along multiple paths, depending on the reader's background and goals.
 
 ### 1.1.1. For Intuition-First Readers
 
@@ -172,11 +172,11 @@ $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}.$$
 
 ### 4.1.2. The Centriole
 
-Intuitionally, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
-
 <img src="/Images/Misc/centirole.png" />
 
 **Figure 2: Centriole Diagram (Bruce Quesada)**
+
+Intuitionally, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
 
 
 # 5. First Cohomology
