@@ -12,7 +12,7 @@ This paper resolves the obstruction by replacing direct group actions with induc
 
 We classify all dichotomy systems preserving orbital structure, characterise their invariant subgroups, and show how selector dichotomies resolve coset ambiguity without generating new relations. This yields a unified representation-theoretic account of classical intertype relations and explains the special status of Reinin, Tencer-Minaev, and all other systems of dichotomies, which respect all orbital dichotomies.
 
-This paper proceeds as follows. Section 2 introduces the foundational combinatorial objects. Section 3 introduces the functor $CD$ that outputs the dichotomies classical intertype relationships respect once one inputs a subgroup of them as inputs (Tencer 2011). Sections 4 and 5 develop the group-theoretic framework. Section 6 introduces set models derived from the vector space associated with the dichotomy systemsSection 7 introduces the selector dichotomies. Section 8 defines the representation map that maps intertype relations to vectors.
+This paper proceeds as follows. Section 2 introduces the foundational combinatorial objects. Section 3 introduces the functor $CD$ that outputs the dichotomies classical intertype relationships respect once one inputs a subgroup of them as inputs (Tencer 2011). Sections 4 and 5 develop the group-theoretic framework. Section 6 introduces set models derived from the vector space associated with the dichotomy systems. Section 7 introduces the selector dichotomies. Section 8 defines the representation map that maps intertype relations to vectors.
 
 ## 1.1. Reader's Map
 
@@ -20,26 +20,26 @@ This paper may be read along multiple paths depending on the reader's background
 
 ### 1.1.1. For Intuition-First Readers
 
-- Read Sections 1 $\to$ 2 $\to$ 7 $\to$ 8
+- Read Sections 1 $\to$ 2 $\to$ 4 $\to$ 7
 - Skip formal cohomology language on first pass
 - Treat the "centriole" as the primary mental model
 - Appendices may be consulted selectively
 
 ### 1.1.2. For Structure-First Readers
 
-- Read Sections 2 $\to$ 3 $\to$ 4 $\to$ 5 $\to$ 9
+- Read Sections 2 $\to$ 3 $\to$ 4 $\to$ 5 $\to$ 8
 - Treat dichotomies as generators in $\mathbb{Z}_{2}^4$
 - Ignore type semantics until Section 6
 
 ### 1.1.3. For Implementation-Oriented Readers
 
-- Read Sections 2 $\to$ 6 $\to$ 8 $\to$ Appendix
+- Read Sections 2 $\to$ 6 $\to$ 7 $\to$ Appendix
 - Focus on equivariant bijections $\Theta_{i}$
 - Use selector tables as lookup rules
 
 ### 1.1.4. Minimal Path
 
-- Sections 1 $\to$ 4 $\to$ 7 $\to$ 8 $\to$ 9
+- Sections 1 $\to$ 4 $\to$ 7 $\to$ 8
 
 # 2. Foundational Objects and Notation
 
