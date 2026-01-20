@@ -740,8 +740,8 @@ $q \mapsto (0, 0, 1, 1)$
 $a \mapsto (0, 1, 0, 1)$  
 
 
-## 9.9. EJ Compass Result HEF ($\mathcal{D}_{8}$)
-### 9.9.1. Generators Used: (E, L, A, P)
+## G. EJ Compass Result HEF ($\mathcal{D}_{7}$)
+### G.1. Generators Used: (E, L, A, P)
 #### $I_{\mathcal{D}_{8}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -826,7 +826,7 @@ $q \mapsto (0, 1, 1, 1)$
 $a \mapsto (0, 0, 0, 1)$  
 
 
-## 9.9. Perpendicular Club Quadra Vertedness ($\mathcal{D}_{8}$)
+## H. Perpendicular Club Quadra Vertedness ($\mathcal{D}_{8}$)
 ### 9.9.1. Generators Used: (E, L, I, P)
 #### $I_{\mathcal{D}_{8}}$ (Superego)
 
