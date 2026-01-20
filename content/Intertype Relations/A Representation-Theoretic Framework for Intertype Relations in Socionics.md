@@ -189,14 +189,14 @@ implement the same transformation in two different representations of the same u
 **Figure 2: Cayley Diagram of Model L (Andrew Joynton)**
 
 
-# 7. The Selector
+# 8. The Selector
 
 The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathcal{D}_{i}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to each coset in $r I_{\mathcal{D}_i}$, is two possible outputs in the representation space. For a given type $t \in T$, the selector determines which of these two vectors is chosen, based on whether the corresponding boolean trait of the dichotomy holds for $t$. Thus, a selector dichotomy is the rule that splits each non-invariant coset into type-dependent vector assignments.
 
-## 7.1. Formal Definition
+## 8.1. Formal Definition
 
 Let:
-- $\mathcal{D}_i$ be a dichotomy system, 
+- $\mathcal{D}_i$ be an orbital-respecting dichotomy system, 
 - $Q := \mathbb{S} / I_{\mathcal{D}_{i}}$ be the set of cosets of the invariant subgroup,
 - $\mathcal{S}_{i} := \{D_{1}, D_{2}, \dots, D_{m-1}\}$, be the set of selector dichotomies of the dichotomy system $\mathcal{D}_i$,
 - $D_s \in \mathcal{S}_i$ be a selector dichotomy,
@@ -241,7 +241,7 @@ $$\chi(t) = \chi(t) - \chi(t_{0}).$$
 
 _Orbital invariance lemma._ For any selector dichotomy $D_s$, any coset $C_j$, and any $r \in C_j$, the vectors assigned by $D_s$ satisfy $\pi_{\mathrm{orb}}(a_{j,0}^{(s)}(r)) = \pi_{\mathrm{orb}}(a_{j,1}^{(s)}(r))$.    
 
-## 7.2. The Intersection
+## 8.2. The Intersection
 
 Let each selector dichotomy $D_s \in \mathcal{S}_i$ induce a partition: 
 
@@ -1433,12 +1433,12 @@ $q \mapsto (0, 1, 0, 1)$
 $a \mapsto (0, 0, 1, 1)$  
 
 
-# 9. References
+# 10. References
 
 1. Newman, M. (2023). [*"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*.](https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html)  Date accessed: 11/11/2025.
 2. Tencer, I. (2011). [*"The Mathematics of Socionics"*.](https://www.scribd.com/document/486953825/socionics-math)  _Scribd._ Date accessed: 29/12/2025.
 
-## 9.1. Further Reading
+## 10.1. Further Reading
 
 - [[The Waffle Spaces]]
 - [[The Waffle Spaces - A Brief Index]]
