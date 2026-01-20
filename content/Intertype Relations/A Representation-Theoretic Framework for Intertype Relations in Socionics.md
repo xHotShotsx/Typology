@@ -193,7 +193,7 @@ implement the same transformation in two different representations of the same u
 
 Intuitionally, the invariant subgroup n may be viewed as a 'centriole' around which relational variance is organised.
 
-[[centirole.png]]
+<img src="/Images/Misc/centirole.png" />
 
 **Figure 3: Centriole Diagram (Bruce Quesada)**
 
