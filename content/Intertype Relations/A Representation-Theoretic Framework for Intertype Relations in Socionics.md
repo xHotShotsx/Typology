@@ -28,7 +28,12 @@ This paper may be read along multiple paths depending on the reader's background
 ### 1.1.2. For Structure-First Readers
 
 - Read Sections 2 $\to$ 3 $\to$ 4 $\to$ 5 $\to$ 9
-- Treat dichotomies as generators in $$
+- Treat dichotomies as generators in $\mathbb{Z}_{2}^4$
+- Ignore type semantics until Section 6
+
+### 1.1.3. For Implementation-Oriented Readers
+
+- Read Sections 2 $\to$ 
 
 # 2. Foundational Objects and Notation
 
