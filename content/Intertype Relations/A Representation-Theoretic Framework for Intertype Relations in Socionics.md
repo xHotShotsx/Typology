@@ -16,7 +16,11 @@ This paper proceeds as follows. Section 2 introduces the foundational combinator
 
 ## 1.1. Reader's Map
 
-This paper may be read along multiple paths = depending o
+This paper may be read along multiple paths depending on the reader's background and goals.
+
+### 1.1.1. For Intuition-first Readers
+
+- Read Sections 
 
 # 2. Foundational Objects and Notation
 
