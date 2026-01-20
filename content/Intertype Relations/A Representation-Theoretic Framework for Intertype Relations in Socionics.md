@@ -12,7 +12,7 @@ This paper resolves the obstruction by replacing direct group actions with induc
 
 We classify all dichotomy systems preserving orbital structure, characterise their invariant subgroups, and show how selector dichotomies resolve coset ambiguity without generating new relations. This yields a unified representation-theoretic account of classical intertype relations and explains the special status of Reinin, Tencer-Minaev, and all other systems of dichotomies, which respect all orbital dichotomies.
 
-This paper proceeds as follows. Section 2 introduces the foundational combinatorial objects. Section 3 introduces the functor $CD$ that outputs the dichotomies classical intertype relationships respect once one inputs a subgroup of them as inputs (Tencer 2011). Sections 4 and 5 develop the group-theoretic framework. Section 6 introduces set models derived from the vector space associated with the dichotomy systems. Section 7 introduces the selector dichotomies. Section 8 defines the representation map that maps intertype relations to vectors.
+This paper proceeds as follows. Section 2 introduces the foundational combinatorial objects. Section 3 introduces the functor $CD$ that outputs the dichotomies classical intertype relationships respect once one inputs a subgroup of them as inputs (Tencer 2011). Sections 4 and 5 develop the group-theoretic framework. Section 6 introduces set models derived from the vector space associated with the dichotomy systems. Section 7 introduces the centriole analogy. Section 8 introduces the selector dichotomies. Section 9 defines the representation map that maps intertype relations to vectors.
 
 # 2. Foundational Objects and Notation
 
@@ -188,7 +188,7 @@ implement the same transformation in two different representations of the same u
 
 **Figure 2: Cayley Diagram of Model L (Andrew Joynton)**
 
-
+# 7. The Centri
 # 8. The Selector
 
 The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathcal{D}_{i}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to each coset in $r I_{\mathcal{D}_i}$, is two possible outputs in the representation space. For a given type $t \in T$, the selector determines which of these two vectors is chosen, based on whether the corresponding boolean trait of the dichotomy holds for $t$. Thus, a selector dichotomy is the rule that splits each non-invariant coset into type-dependent vector assignments.
