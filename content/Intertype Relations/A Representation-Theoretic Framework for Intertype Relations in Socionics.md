@@ -283,6 +283,8 @@ which assigns to each intertype relation a 4-bit vector in the vector space $\ma
 - $v_0$ = baseline vector, and;
 - $f_i$ = 1-cocycle $f_i : \mathbb{S} \to \mathbf{V}_{i}$ for the $\mathbb{S}$ action on $\mathbf{V}_{i}$.
 
+
+# aPPEN
 ## A. IP Result Compass HEF ($\mathcal{D}_{1}$)
 ### A.1. Generators Used: (E, D, L, P)
 #### $I_{\mathcal{D}_1}$ (Superego)
@@ -1447,7 +1449,7 @@ $a \mapsto (0, 0, 1, 1)$
 1. Newman, M. (2023). [*"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*.](https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html)  Date accessed: 11/11/2025.
 2. Tencer, I. (2011). [*"The Mathematics of Socionics"*.](https://www.scribd.com/document/486953825/socionics-math)  _Scribd._ Date accessed: 29/12/2025.
 
-## 10.1. Further Reading
+## Further Reading
 
 - [[The Waffle Spaces]]
 - [[The Waffle Spaces - A Brief Index]]
