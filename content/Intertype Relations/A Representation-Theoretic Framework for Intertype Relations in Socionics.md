@@ -33,7 +33,9 @@ This paper may be read along multiple paths depending on the reader's background
 
 ### 1.1.3. For Implementation-Oriented Readers
 
-- Read Sections 2 $\to$ 
+- Read Sections 2 $\to$ 6 $\to$ 8 $\to$ Appendix
+- Focus on equivariant bijections $\Theta_{i}$
+- Use selector tables as lookup
 
 # 2. Foundational Objects and Notation
 
