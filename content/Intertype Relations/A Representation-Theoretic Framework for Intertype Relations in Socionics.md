@@ -188,6 +188,7 @@ implement the same transformation in two different representations of the same u
 
 **Figure 2: Cayley Diagram of Model L (Andrew Joynton)**
 
+
 # 7. The Centriole
 
 Intuitionally, the invariant subgroup n may be viewed as a 'centriole' around which relational variance is organised.
@@ -195,6 +196,7 @@ Intuitionally, the invariant subgroup n may be viewed as a 'centriole' around wh
 [[centirole.png]]
 
 **Figure 3: Centriole Diagram (Bruce Quesada)**
+
 
 # 8. The Selector
 
