@@ -311,7 +311,7 @@ which assigns to each intertype relation a 4-bit vector in the vector space $\ma
 - $f_i$ = 1-cocycle $f_i : \mathbb{S} \to \mathbf{V}_{i}$ for the $\mathbb{S}$ action on $\mathbf{V}_{i}$.
 
 
-# Appendix
+# Appendices
 ## A. IP Result Compass HEF ($\mathcal{D}_{1}$)
 ### A.1. Generators Used: (E, D, L, P)
 #### $I_{\mathcal{D}_1}$ (Superego)
