@@ -23,7 +23,9 @@ This paper may be read along multiple paths depending on the reader's background
 - Read Sections 1 $\to$ 2 $\to$ 7 $\to$ 8
 - Skip formal cohomology language on first pass
 - Treat the "centriole" as the primary mental model
-- 
+- The Appendix may be consulted selectively
+
+### 1.1.2. For Structure-f
 
 # 2. Foundational Objects and Notation
 
