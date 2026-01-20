@@ -20,7 +20,10 @@ This paper may be read along multiple paths depending on the reader's background
 
 ### 1.1.1. For Intuition-first Readers
 
-- Read Sections 
+- Read Sections 1 $\to$ 2 $\to$ 7 $\to$ 8
+- Skip formal cohomology language on first pass
+- Treat the "centriole" as the primary mental model
+- 
 
 # 2. Foundational Objects and Notation
 
