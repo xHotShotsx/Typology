@@ -1197,7 +1197,7 @@ $s \mapsto (1, 0, 1, 1)$
 
 
 ## M. IP Process Compass Result HEF ($\mathcal{D}_{13}$)
-### M1. Generators Used: (E, S, I, P)
+### M.1. Generators Used: (E, S, I, P)
 #### $I_{\mathcal{D}_{13}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -1282,8 +1282,8 @@ $q \mapsto (0, 1, 0, 1)$
 $a \mapsto (0, 0, 1, 1)$  
 
 
-## 9.14. Tencer-Minaev ($\mathcal{D}_{14}$)
-### 9.14.1. Generators Used: (Q, A, I, D)
+## N. Tencer-Minaev ($\mathcal{D}_{14}$)
+### N.1. Generators Used: (Q, A, I, D)
 #### $I_{\mathcal{D}_{14}}$ (Irrational/Rational)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -1319,8 +1319,8 @@ $s \mapsto (1, 1, 0, 1)$
 $b \mapsto (0, 0, 1, 1)$  
 
 
-## 9.15. Reinin ($\mathcal{D}_{15}$)
-### 9.15.1. Generators Used: (E, N, T, P)
+## O. Reinin ($\mathcal{D}_{15}$)
+### O.1. Generators Used: (E, N, T, P)
 #### $I_{\mathcal{D}_{15}}$ (Democratic/Aristocratic)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -1356,8 +1356,8 @@ $l \mapsto (0, 0, 1, 0)$
 $i \mapsto (1, 1, 0, 0)$  
 
 
-## 9.16. EP Process Compass Result HEF ($\mathcal{D}_{16}$)
-### 9.16.1. Generators Used: (E, S, I, P)
+## P. EP Process Compass Result HEF ($\mathcal{D}_{16}$)
+### P.1. Generators Used: (E, S, I, P)
 #### $I_{\mathcal{D}_{16}}$ (Superego)
 
 $e \mapsto (0, 0, 0, 0)$  
@@ -1442,7 +1442,7 @@ $q \mapsto (0, 1, 0, 1)$
 $a \mapsto (0, 0, 1, 1)$  
 
 
-# 10. References
+# References
 
 1. Newman, M. (2023). [*"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*.](https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html)  Date accessed: 11/11/2025.
 2. Tencer, I. (2011). [*"The Mathematics of Socionics"*.](https://www.scribd.com/document/486953825/socionics-math)  _Scribd._ Date accessed: 29/12/2025.
