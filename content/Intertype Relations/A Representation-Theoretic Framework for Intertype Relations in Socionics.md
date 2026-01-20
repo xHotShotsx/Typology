@@ -18,14 +18,17 @@ This paper proceeds as follows. Section 2 introduces the foundational combinator
 
 This paper may be read along multiple paths depending on the reader's background and goals.
 
-### 1.1.1. For Intuition-first Readers
+### 1.1.1. For Intuition-First Readers
 
 - Read Sections 1 $\to$ 2 $\to$ 7 $\to$ 8
 - Skip formal cohomology language on first pass
 - Treat the "centriole" as the primary mental model
 - The Appendix may be consulted selectively
 
-### 1.1.2. For Structure-f
+### 1.1.2. For Structure-First Readers
+
+- Read Sections 2 $\to$ 3 $\to$ 4 $\to$ 5 $\to$ 9
+- Treat dichotomies as generators in $$
 
 # 2. Foundational Objects and Notation
 
