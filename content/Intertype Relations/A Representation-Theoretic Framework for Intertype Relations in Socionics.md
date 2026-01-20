@@ -170,7 +170,14 @@ The superego dyad is fixed by all homomorphisms between the Socion group and a d
 
 $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}.$$
 
-### 
+### 4.1.2. The Centriole
+
+Intuitionally, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
+
+<img src="/Images/Misc/centirole.png" />
+
+**Figure 2: Centriole Diagram (Bruce Quesada)**
+
 
 # 5. First Cohomology
 
