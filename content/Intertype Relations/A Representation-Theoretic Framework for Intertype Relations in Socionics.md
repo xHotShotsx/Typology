@@ -188,7 +188,14 @@ implement the same transformation in two different representations of the same u
 
 **Figure 2: Cayley Diagram of Model L (Andrew Joynton)**
 
-# 7. The Centri
+# 7. The Centriole
+
+Intuitionally, the invariant subgroup n may be viewed as a 'centriole' around which relational variance is organised.
+
+[[centirole.png]]
+
+**Figure 3: Centriole Diagram (Bruce Quesada)**
+
 # 8. The Selector
 
 The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathcal{D}_{i}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to each coset in $r I_{\mathcal{D}_i}$, is two possible outputs in the representation space. For a given type $t \in T$, the selector determines which of these two vectors is chosen, based on whether the corresponding boolean trait of the dichotomy holds for $t$. Thus, a selector dichotomy is the rule that splits each non-invariant coset into type-dependent vector assignments.
