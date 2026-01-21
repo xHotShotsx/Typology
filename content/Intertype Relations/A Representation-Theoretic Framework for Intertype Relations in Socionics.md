@@ -20,7 +20,7 @@ This paper may be read along multiple paths, depending on the reader's backgroun
 
 ### 1.1.1. For Intuition-First Readers
 
-- Read Sections 1 $\to$ 2 $\to$ 4 $\to$ 7
+- Read Sections 1 $\to$ 2 $\to$ 4.1.2 $\to$ 7
 - Skip formal cohomology language on first pass
 - Treat the "centriole" as the primary mental model
 - Appendices may be consulted selectively
