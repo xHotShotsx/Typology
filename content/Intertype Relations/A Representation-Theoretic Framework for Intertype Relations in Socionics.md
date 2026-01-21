@@ -23,7 +23,7 @@ This paper may be read along multiple paths, depending on the reader's backgroun
 - Read Sections 1 $\to$ 2 $\to$ 4.1.2 $\to$ 7
 - Skip formal cohomology language on first pass
 - Treat the "centriole" as the primary mental model
-- Appendices may be consulted selectively
+- The Appendix may be consulted selectively
 
 ### 1.1.2. For Structure-First Readers
 
@@ -33,7 +33,7 @@ This paper may be read along multiple paths, depending on the reader's backgroun
 
 ### 1.1.3. For Implementation-Oriented Readers
 
-- Read Sections 2 $\to$ 6 $\to$ 7 $\to$ Appendices
+- Read Sections 2 $\to$ 6 $\to$ 7 $\to$ Appendix
 - Focus on equivariant bijections $\Theta_{i}$
 - Use selector tables as lookup rules
 
