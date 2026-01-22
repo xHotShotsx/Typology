@@ -286,7 +286,7 @@ Therefore,
 
 $$\mathcal{P}_{i} = T/\mathrm{ker}(\sigma),$$
 
-and each equivalence class corresponds to a unique selector signature, yielding a $k$-chotomy within the dichotomy system $\mathcal{D}_i$.
+and each equivalence class corresponds to a unique selector signature, yielding a $k$-chotomy within the vector space $\mathbf{V}_i$.
 
 **Remark.** The selector signature map $\sigma : T \to \mathbb{Z}^{m-1}_2$ does **not** embed types into a vector space. Rather, it records discrete selector outcomes across non-invariant cosets. The representation space $\mathbf{V}_{i} \cong \mathbb{Z}^4_{2}$ remains the sole algebraic action space. 
 
