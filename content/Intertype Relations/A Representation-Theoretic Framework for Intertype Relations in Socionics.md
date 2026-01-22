@@ -140,7 +140,7 @@ Now, any normal subgroup of order 4 (with the exception of the asymmetric ring g
 
 # 4. The Homomorphism
 
-Each dichotomy system $\mathcal{D}_{i}$ induces an action $\varphi_i : \mathbf{V}_{i} \to \mathrm{Aut}(\mathbb{S})$
+Each dichotomy system $\mathcal{D}_{i}$ induces an action $\varphi_i : \mathbf{V}_{i} \to \mathrm{Aut}(\mathbb{S})$ 
 
 ## 4.1. Fixed Point Subgroup
 
