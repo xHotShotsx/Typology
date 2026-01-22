@@ -140,7 +140,15 @@ Now, any normal subgroup of order 4 (with the exception of the asymmetric ring g
 
 # 4. The Homomorphism
 
-Each dichotomy 
+The action of the vector space of relations on the Socion group is given by a homomorphism 
+
+$$\varphi : E_{16} \longrightarrow \text{Aut}(D_4 \times \mathbb{Z}_2).$$
+
+In the context of Socionic structure, we regard $E_{16}$ as the vector space $\mathbf{V}_{i}$, and $D_4 \times \mathbb{Z}_2$ as the ITR space $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as 
+
+$$\varphi : \mathbf{V}_{i} \longrightarrow \text{Aut}(\mathbb{S}),$$
+
+representing how the vector space acts on the classical group of intertype relations.
 
 ## 4.1. Fixed Point Subgroup
 
@@ -158,7 +166,7 @@ The universal invariant core of $\mathbb{S}$ preserved by all $\mathbf{V}_i$ is 
 
 $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}.$$
 
-The superego dyad is fixed by all homomorphisms between the Socion group and a dichotomy system. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: 
+The superego dyad is fixed by all homomorphisms between the Socion group and the vector space. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: 
 
 $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathbf{V}_{i}}.$$
 
