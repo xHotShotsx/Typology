@@ -267,7 +267,7 @@ $$\chi(t) = \chi(t) - \chi(t_{0}).$$
 
 _Orbital invariance lemma._ For any selector dichotomy $D_s$, any coset $C_j$, and any $r \in C_j$, the vectors assigned by $D_s$ satisfy $\pi_{\mathrm{orb}}(a_{j,0}^{(s)}(r)) = \pi_{\mathrm{orb}}(a_{j,1}^{(s)}(r))$.    
 
-## 7.2. The Intersection
+## 6.2. The Intersection
 
 Let each selector dichotomy $D_s \in \mathcal{S}_i$ induce a partition: 
 
@@ -290,7 +290,7 @@ and each equivalence class corresponds to a unique selector signature, yielding 
 **Remark.** The selector signature map $\sigma : T \to \mathbb{Z}^{m-1}_2$ does **not** embed types into a vector space. Rather, it records discrete selector outcomes across non-invariant cosets. The representation space $\mathbf{V}_{i} \cong \mathbb{Z}^4_{2}$ remains the sole algebraic action space. 
 
 
-# 8. The Representation Map
+# 7. The Representation Map
 
 For each dichotomy system $\mathcal{D}_i$, we fix a representation map
 
