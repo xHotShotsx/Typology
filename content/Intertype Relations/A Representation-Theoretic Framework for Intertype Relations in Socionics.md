@@ -20,14 +20,14 @@ This paper may be read along multiple paths, depending on the reader's backgroun
 
 ### 1.1.1. For Intuition-First Readers
 
-- Read Sections 1 $\to$ 2 $\to$ 4.1.2 $\to$ 7
+- Read Sections 1 $\to$ 2 $\to$ 4.1.2 $\to$ 6
 - Skip formal cohomology language on first pass
 - Treat the "centriole" as the primary mental model
 - The Appendix may be consulted selectively
 
 ### 1.1.2. For Structure-First Readers
 
-- Read Sections 2 $\to$ 3 $\to$ 4 $\to$ 5 $\to$ 8
+- Read Sections 2 $\to$ 3 $\to$ 4 $\to$ 7
 - Treat dichotomies as generators in $\mathbb{Z}_{2}^4$
 - Ignore type semantics until Section 6
 
