@@ -172,11 +172,12 @@ $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathbf{V}_{i}}.$$
 
 ### 4.1.2. The Centriole
 
+Intuitionally, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
+
+
 <img src="/Images/Misc/centirole.png" />
 
 **Figure 2: Centriole Diagram (Bruce Quesada)**
-
-Intuitionally, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
 
 # 5. $E_{16}$-Set Models
 
