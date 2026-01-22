@@ -218,7 +218,7 @@ implement the same transformation in two different representations of the same u
 
 # 6. The Selector
 
-The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever a dichotomy system $\mathcal{D}_{i}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to each coset in $r I_{\mathcal{D}_i}$, is two possible outputs in the representation space. For a given type $t \in T$, the selector determines which of these two vectors is chosen, based on whether the corresponding boolean trait of the dichotomy holds for $t$. Thus, a selector dichotomy is the rule that splits each non-invariant coset into type-dependent vector assignments.
+The number of total cosets of $I_{\mathcal{D}_i}$ is given by $m = \frac{\mid \mathbb{S} \mid}{\mid I_{\mathcal{D}_{i}} \mid}$. The number of selector dichotomies for whenever the vector space of relations $\mathbf{V}_{i}$ acts on the Socion group $\mathbb{S}$ is always equal to $m - 1$. What a selector dichotomy assigns, to each coset in $r I_{\mathcal{D}_i}$, is two possible outputs in the representation space. For a given type $t \in T$, the selector determines which of these two vectors is chosen, based on whether the corresponding boolean trait of the dichotomy holds for $t$. Thus, a selector dichotomy is the rule that splits each non-invariant coset into type-dependent vector assignments.
 
 ## 6.1. Formal Definition
 
