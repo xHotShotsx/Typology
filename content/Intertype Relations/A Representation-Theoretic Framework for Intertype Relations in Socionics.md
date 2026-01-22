@@ -166,7 +166,7 @@ The universal invariant core of $\mathbb{S}$ preserved by all $\mathbf{V}_i$ is 
 
 $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}.$$
 
-The superego dyad is fixed by all homomorphisms between the Socion group and the vector space. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: 
+The superego dyad is fixed by all homomorphisms between the Socion group and the vector space. It's the part of $\mathbb{S}$ invariant under _every_ vector action, such that: 
 
 $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathbf{V}_{i}}.$$
 
