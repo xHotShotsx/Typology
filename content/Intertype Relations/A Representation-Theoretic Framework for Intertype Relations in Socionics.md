@@ -144,15 +144,15 @@ The action of the dichotomy system on the ITR group is given by a homomorphism
 
 $$\varphi : E_{16} \longrightarrow \text{Aut}(D_4 \times \mathbb{Z}_2).$$
 
-In the context of Socionic structure, we regard $E_{16}$ as any dichotomy system $\mathcal{D}_{i}$, and $D_4 \times \mathbb{Z}_2$ as the ITR space $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as 
+In the context of Socionic structure, we regard $E_{16}$ as the vector space $\mathbf{V}_{i}$, and $D_4 \times \mathbb{Z}_2$ as the ITR space $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as 
 
-$$\varphi : \mathcal{D}_{i} \longrightarrow \text{Aut}(\mathbb{S}),$$
+$$\varphi : \mathbf{V}_{i} \longrightarrow \text{Aut}(\mathbb{S}),$$
 
-representing how the dichotomy system acts on the classical group of intertype relations.
+representing how the vector space acts on the classical group of intertype relations.
 
 ## 4.1. Fixed Point Subgroup
 
-The group of fixed points under the action of a dichotomy system on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathcal{D}_{i}}$. More rigorously, this is defined as the following: 
+The group of fixed points under the action of the v on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathcal{D}_{i}}$. More rigorously, this is defined as the following: 
 
 $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathcal{D}_{i}} := \{r \in \mathbb{S} \mid \varphi(D)(r) = r, \ \forall D \in \mathcal{D}_{i}\}.$$
 
