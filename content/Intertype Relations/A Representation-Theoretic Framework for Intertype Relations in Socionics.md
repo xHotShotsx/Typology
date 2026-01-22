@@ -179,12 +179,6 @@ $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathbf{V}_{i}}.$$
 
 Intuitionally, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
 
-
-# 5. First Cohomology
-
-First, we define $H^1(G, A)$ where $G$ is the acting group on the abelian group $A$. Since $\mathbb{S}$ is nonabelian, we define an induced homomorphism. If the dichotomy action on classical relations is defined by the homomorphism $\varphi : \mathcal{D}_i \to \text{Aut}(\mathbb{S})$, the induced action on dichotomy vectors is given by the homomorphism $\psi : \mathcal{D}_{i} \to \text{Aut}(\mathbf{V}_{i})$, where a system of dichotomies acts on the automorphisms of the vector space $\mathbf{V}_i$ constructed from a dichotomy system $\mathcal{D}_i$. Because $\mathbb{S}$ does not admit a regular, faithful action compatible with all dichotomy systems, we instead work with the induced vector space $\mathbf{V}_{i}$, which captures only the dichotomy-relevant degrees of freedom. 
-
-
 # 6. $E_{16}$-Set Models
 
 A set model is a pair ($X, G$) consisting of a set $X$ together with a left action of a group $G$. In the present framework, an $E_{16}$-set model is any set model that carries an action of the group, which is the vector space representation associated with a given dichotomy system. For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathbf{V}_i$ acts on a corresponding set model. 
