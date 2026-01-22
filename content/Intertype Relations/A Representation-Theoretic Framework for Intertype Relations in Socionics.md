@@ -33,13 +33,13 @@ This paper may be read along multiple paths, depending on the reader's backgroun
 
 ### 1.1.3. For Implementation-Oriented Readers
 
-- Read Sections 2 $\to$ 6 $\to$ 7 $\to$ Appendix
+- Read Sections 2 $\to$ 5 $\to$ 6 $\to$ Appendix
 - Focus on equivariant bijections $\Theta_{i}$
 - Use selector tables as lookup rules
 
 ### 1.1.4. Minimal Path
 
-- Sections 1 $\to$ 4 $\to$ 7 $\to$ 8
+- Sections 1 $\to$ 4 $\to$ 6 $\to$ 7
 
 # 2. Foundational Objects and Notation
 
