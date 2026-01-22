@@ -152,7 +152,7 @@ representing how the vector space acts on the classical group of intertype relat
 
 ## 4.1. Fixed Point Subgroup
 
-The group of fixed points under the action of the vector space on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathbf{V}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathbf{V}_{i}}$. More rigorously, this is defined as the following: 
+The group of fixed points under the action of the vector space on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathbf{V}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathbf{V}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathbf{V}_{i}}$. More rigorously, this is defined as the following: 
 
 $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathbf{V}_{i}} := \{r \in \mathbb{S} \mid \varphi(v)(r) = r, \ \forall v \in \mathbf{V}_{i}\}.$$
 
@@ -180,7 +180,7 @@ Intuitionally, the invariant subgroup may be viewed as a 'centriole' around whic
 
 # 5. $E_{16}$-Set Models
 
-A set model is a pair ($X, G$) consisting of a set $X$ together with a left action of a group $G$. In the present framework, an $E_{16}$-set model is any set model that carries an action of the group, which is the vector space representation associated with a given dichotomy system. For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathbf{V}_i$ acts on a corresponding set model. 
+A set model is a pair ($X, G$) consisting of a set $X$ together with a left action of a group $G$. In the present framework, an $E_{16}$-set model is any set model that carries an action of the group, which is the vector space representation associated with a given dichotomy system. For each dichotomy system $\mathcal{D}_{i}$, the induced relation group $\mathbf{V}_i$ acts on a corresponding set model.
 
 Formally, an $E_{16}$-set model is a pair 
 
