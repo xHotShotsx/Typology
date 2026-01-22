@@ -140,15 +140,7 @@ Now, any normal subgroup of order 4 (with the exception of the asymmetric ring g
 
 # 4. The Homomorphism
 
-The action of the dichotomy system on the ITR group is given by a homomorphism 
-
-$$\varphi : E_{16} \longrightarrow \text{Aut}(D_4 \times \mathbb{Z}_2).$$
-
-In the context of Socionic structure, we regard $E_{16}$ as the vector space $\mathbf{V}_{i}$, and $D_4 \times \mathbb{Z}_2$ as the ITR space $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as 
-
-$$\varphi : \mathbf{V}_{i} \longrightarrow \text{Aut}(\mathbb{S}),$$
-
-representing how the vector space acts on the classical group of intertype relations.
+Each dichotomy
 
 ## 4.1. Fixed Point Subgroup
 
