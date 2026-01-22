@@ -163,13 +163,13 @@ $$r I_{\mathcal{D}_{i}} = I_{\mathcal{D}_{i}} r = \{rs \mid s \in I_{\mathcal{D}
 
 ### 4.1.1. Universal Invariant Core
 
-The universal invariant core of $\mathbb{S}$ preserved by all $\mathcal{D}_i$ is defined as:
+The universal invariant core of $\mathbb{S}$ preserved by all $\mathbf{V}_i$ is defined as:
 
 $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}.$$
 
 The superego dyad is fixed by all homomorphisms between the Socion group and a dichotomy system. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: 
 
-$$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{_{i}}.$$
+$$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathbf{V}_{i}}.$$
 
 ### 4.1.2. The Centriole
 
