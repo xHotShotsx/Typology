@@ -1,3 +1,4 @@
 # The Transitive Permutation Group 8T9
 
-- The 8T9 transitive permutation group refers to a specific transitive permutation group of degree 8, identified in the GAP (Groups, Algorithms, Programming) library of transitive 
+- The 8T9 transitive permutation group refers to a specific transitive permutation group of degree 8, identified in the GAP (Groups, Algorithms, Programming) library of transitive groups.
+	- **Structure:** 
