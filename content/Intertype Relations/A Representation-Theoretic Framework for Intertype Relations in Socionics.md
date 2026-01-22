@@ -154,7 +154,7 @@ representing how the vector space acts on the classical group of intertype relat
 
 The group of fixed points under the action of the vector space on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathbf{V}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathbf{V}_{i}}$. More rigorously, this is defined as the following: 
 
-$$I_{\mathcal{D}_i} := \mathbb{S}^{\mathbf{V}_{i}} := \{r \in \mathbb{S} \mid \varphi(D)(r) = r, \ \forall v \in \mathbf{V}_{i}\}.$$
+$$I_{\mathcal{D}_i} := \mathbb{S}^{\mathbf{V}_{i}} := \{r \in \mathbb{S} \mid \varphi(v)(r) = r, \ \forall v \in \mathbf{V}_{i}\}.$$
 
 
 The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: 
@@ -169,7 +169,7 @@ $$Z_{\text{univ}} := \langle e, g \rangle \cong \mathbb{Z}_{2}.$$
 
 The superego dyad is fixed by all homomorphisms between the Socion group and a dichotomy system. It's the part of $\mathbb{S}$ invariant under _every_ dichotomy action, such that: 
 
-$$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathcal{D}_{i}}.$$
+$$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{_{i}}.$$
 
 ### 4.1.2. The Centriole
 
