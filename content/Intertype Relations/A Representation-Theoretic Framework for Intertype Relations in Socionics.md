@@ -152,10 +152,9 @@ representing how the vector space acts on the classical group of intertype relat
 
 ## 4.1. Fixed Point Subgroup
 
-The group of fixed points under the action of the vector space on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathbf{V}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(\mathcal{D}_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathbf{V}_{i}}$. More rigorously, this is defined as the following: 
+The group of fixed points under the action of the vector space on the classical group of ITRs is given by $I_{\mathcal{D}_i}$. For any group action $\varphi : \mathbf{V}_i \to \text{Aut}(\mathbb{S})$, the 0th cohomology $H^0(_i, \mathbb{S})$ is the fixed subgroup $\mathbb{S}^{\mathbf{V}_{i}}$. More rigorously, this is defined as the following: 
 
 $$I_{\mathcal{D}_i} := \mathbb{S}^{\mathbf{V}_{i}} := \{r \in \mathbb{S} \mid \varphi(v)(r) = r, \ \forall v \in \mathbf{V}_{i}\}.$$
-
 
 The cosets of $I_{\mathcal{D}_i}$ that are not in the subgroup itself: 
 
