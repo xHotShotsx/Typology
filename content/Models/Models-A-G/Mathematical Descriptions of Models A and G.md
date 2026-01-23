@@ -28,7 +28,7 @@ Like with $\mathbb{S}$, $H$ can be described by certain permutations such as $B 
 
 Since Model-G does not model all elements of the full socion for a type $t \in T$, the construction of Model G layouts for both process and result types, for which we'll denote $P$ and $R$, respectively, are needed to represent all information in the Socion. Thus, Model-G can be formally understood as $F_{MG} \times \{ P, R \}$ with $H$ acting on $F_{MG}$, the selector dichotomy (Process/Result) acting on $\{ P, R \}$ and no group action mixing the two.
 
-# Injections for Model A
+# Alternate Interfor Model A
 
 
 
