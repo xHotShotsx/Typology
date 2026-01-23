@@ -42,7 +42,7 @@ An acceptable system of injections on Model A must arise from an index-2 subgrou
 
 The reason for this restriction is structural. Each information element $i \in I$ admits a decomposition into its associated monadic elements in $\mathcal{E}$, and any admissible injection must preserve this correspondence. Equivalently, for every function in $F_{MA}$, either the unsplit element $i$ or exactly one of its associated monadic refinements must be present, uniformly across all types.
 
-Index-2 subgroups not associated 
+Index-2 subgroups not associated with supralocal dichotomies (these are the 'general' dichotomies, which interesect to ) fail to satisfy this condition
 
 
 # References / Further Reading
