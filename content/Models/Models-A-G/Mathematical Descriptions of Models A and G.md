@@ -36,14 +36,11 @@ Finally, the 'Presence Cube' model demonstrates the constructed vector space on 
 
 ## What counts as an acceptable system of injections?
 
-Only index-2 subgroups of $\mathbb{S}$ that correspond to a 'supralocal' dichotomy are admissible as acceptable constructions on Model A. This list includes Democratic/Aristocratic, Asking/Declaring, Process/Result, and Positivist/Negativist. This is because each element of $I$ can be described by the composite of its corresponding monadic elements in $\mathcal{E}$, or at least one of the two monadic elements correspond to its associated element in $I$ (think e.g. Te can be divided into Positivist and Negativist Te, and Ne can be divided into Asking Ne and Declaring Ne). No other index-2 subgroup of $\mathbb{S}$ is admissible, because every element in $F_{{MA}}$ must contain every element in $I$, or one of its associated monadic elements for all of $I$.
-
 An acceptable system of injections on Model A must arise from an index-2 subgroup of $\mathbb{S}$ corresponding to a _supralocal_ dichotomy. These include Democratic/Aristocratic, Asking/Declaring, Process/Result, and Positivist/Negativist.
 
 The reason for this restriction is structural. Each information element $i \in I$ admits a decomposition into its associated monadic elements in $\mathcal{E}$, and any admissible injection must preserve this correspondence. Equivalently, for every function in $F_{MA}$, either the unsplit element $i$ or exactly one of its associated monadic refinements must be present, uniformly across all types.
 
-Index-2 subgroups not associated with supralocal dichotomies (these are the 'general' dichotomies, which when intersected define the temperament tetrachotomy) fail to satisfy this condition, as they induce splittings that cannot be reconciled with the monadic decomposition of elements in $I$. Consequently, no other index-2 subgroup of $\mathbb{S}$ yields a coherent or admissiblke  
-
+Index-2 subgroups not associated with supralocal dichotomies (these are the 'general' dichotomies, which when intersected define the temperament tetrachotomy) fail to satisfy this condition, as they induce splittings that cannot be reconciled with the monadic decomposition of elements in $I$. Consequently, no other index-2 subgroup of $\mathbb{S}$ yields a coherent or admissible system of injections on Model A.  
 
 # References / Further Reading
 
