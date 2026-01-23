@@ -40,7 +40,7 @@ Only index-2 subgroups of $\mathbb{S}$ that correspond to a 'supralocal' dichoto
 
 An acceptable system of injections on Model A must arise from an index-2 subgroup of $\mathbb{S}$ corresponding to a _supralocal_ dichotomy. These include Democratic/Aristocratic, Asking/Declaring, Process/Result, and Positivist/Negativist.
 
-The reason for this restriction is structural. Each information element $i \in I$ admits a decomposition into its associated monadic elements in $\mathcal{E}$, and any admissible injection
+The reason for this restriction is structural. Each information element $i \in I$ admits a decomposition into its associated monadic elements in $\mathcal{E}$, and any admissible injection must preserve this correspondence. Equivalently, for every function in $F_{MA}$, either the unsplit element $i$ 
 
 
 
