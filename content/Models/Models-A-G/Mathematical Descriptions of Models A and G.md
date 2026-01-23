@@ -30,8 +30,7 @@ Since Model-G does not model all elements of the full socion for a type $t \in T
 
 # Alternate Interpretations of Model A - Systems of Injections
 
-The elements of $I$ can be 
-
+The elements of $I$ can be subtitiuted 
 
 
 
