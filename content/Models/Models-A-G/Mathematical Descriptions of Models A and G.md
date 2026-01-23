@@ -4,3 +4,4 @@
 
 ## Model A
 
+In Model A, we have a set $F_{}
