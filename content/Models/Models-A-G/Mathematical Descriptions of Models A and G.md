@@ -36,7 +36,7 @@ Finally, the 'Presence Cube' model demonstrates the constructed vector space on 
 
 ## What counts as an acceptable system of injections?
 
-Only index-2 subgroups of $\mathbb{S}$ that correspond to a 'supralocal' dichotomy  
+Only index-2 subgroups of $\mathbb{S}$ that correspond to a 'supralocal' dichotomy are admissab
 
 
 
