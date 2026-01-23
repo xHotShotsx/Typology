@@ -8,4 +8,4 @@ In Model A, we have a set $F_{MA}$ of 8 functions (labelled points) and a set
 
 $$I = \{ \mathrm{Ne}, \mathrm{Si}, \mathrm{Fe}, \mathrm{Ti}, \mathrm{Se}, \mathrm{Ni}, \mathrm{Te}, \mathrm{Fi} \}$$
 
-of information metabolism elements (IMEs). T 
+of information metabolism elements (IMEs). The group which comprises of classical intertype relations $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$  
