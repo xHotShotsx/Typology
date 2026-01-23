@@ -24,7 +24,7 @@ $$\mathcal{E} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-},  \mathrm{!Fe^+}, \mathrm{?Ti^
 
 of 16 monadic (signed) elements, half of which occupy $F_{MG}$, depending on whether a type is Process or Result. The set of functions are acted upon by the index-2 subgroup of $\mathbb{S}$ that describes Process/Result, for which we'll denote $H$, and is isomorphic to $\mathbb{Z}_{2} \times \mathbb{Z}_{4}$. 
 
-Like with $\mathbb{S}$, $H$ can be described by certain permutations such as $B = (1,2,3,4)(5,6,7,8)$ for order 4 rotations and $d = (1,6)(4,5)()$ 
+Like with $\mathbb{S}$, $H$ can be described by certain permutations such as $B = (1,2,3,4)(5,6,7,8)$ for order 4 relationships and $d = (1,6)(3,8)(4,6)$ 
 
 Since Model-G does not model all elements of the full socion for a type $t \in T$, the construction of Model G layouts for both process and result types, for which we'll denote $P$ and $R$, respectively, are needed to represent all information in the Socion, with Model-G being understood formally as $F_{MG} \times \{ P, R \}$ with $H$ acting on $F_{MG}$, the selector acting on $\{ P, R \}$ and no group action mixing the two.
 
