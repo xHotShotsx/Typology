@@ -18,7 +18,7 @@ The transitive permutation group 8T2 is the 2nd transitive subgroup of the symme
 
 ## Model G
 
-In Model G
+In Model G, we have a set $F_{MG}$ of 8 functions (labelled points) and a set $\mathcal{E} = \{ Ne^+, Si^-,  \}$
 
 # References / Further Reading
 
