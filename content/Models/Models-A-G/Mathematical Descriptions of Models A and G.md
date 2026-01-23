@@ -30,7 +30,7 @@ Since Model-G does not model all elements of the full socion for a type $t \in T
 
 # Alternate Interpretations of Model A - Systems of Injections
 
-The set $I$ is sometimes substituted for the set $\mathcal{E}$, and consequently the acting group on Model A is no longer $\mathbb{S}$, but an index-2 subgroup of it. For example, in the School of Classical Socionics (SCS), the set is acted on by $H \cong \mathbb{Z}_{2}$
+The set $I$ is sometimes substituted for the set $\mathcal{E}$, and consequently the acting group on Model A is no longer $\mathbb{S}$, but an index-2 subgroup of it. For example, in the School of Classical Socionics (SCS), the set is acted on by $H \cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ 
 
 
 
