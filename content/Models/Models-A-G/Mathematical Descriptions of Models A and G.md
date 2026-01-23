@@ -4,6 +4,6 @@
 
 ## Model A
 
-In Model A, we have a set $F_{MA}$ which consists of 8 functions and a set 
+In Model A, we have a set $F_{MA}$ of 8 functions and a set 
 
-$$I = {\mathrm{Ne}, \mathrm{Se}}$$ 
+$$I = \{ \mathrm{Ne}, \mathrm{Si}, \mathrm{Te},  \}$$ 
