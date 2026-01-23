@@ -32,7 +32,7 @@ Since Model-G does not model all elements of the full socion for a type $t \in T
 
 The set $I$ is sometimes substituted for the set $\mathcal{E}$, and consequently the acting group on Model A is no longer $\mathbb{S}$, but an index-2 subgroup of it. For example, in the School of Classical Socionics (SCS), the set of functions is acted on by $H \cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ (Process/Result), so in this sense Models A and G are isomorphic (both 8T2 groups). However, in the School of System Socionics (SSS), the set of functions are acted on by the Asking/Declaring subgroup, which is isomorphic to $D_4$ (the dihedral group of order 8). In this sense, Model A can be described as the transitive permutation group 8T4, which is a subgroup of $S_8$ and is isomorphic to $D_4$.
 
-Finally, the 'Presence Cube' model allows us to construct a vector space on Model A that is faithful to 
+Finally, the 'Presence Cube' model allows us to construct a vector space on Model A that is both faithful and transitive to $\mathbb{S}$. This is the Democratic/Aristocratic subgroup which is isomorphic to $\mathbb{Z}_{2}^3$. 
 
 
 
