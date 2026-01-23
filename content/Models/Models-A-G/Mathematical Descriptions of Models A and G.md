@@ -4,8 +4,8 @@
 
 ## Model A
 
-In Model A, we have a set $F_{MA}$ of 8 functions and a set 
+In Model A, we have a set $F_{MA}$ of 8 functions (labelled points) and a set 
 
 $$I = \{ \mathrm{Ne}, \mathrm{Si}, \mathrm{Fe}, \mathrm{Ti}, \mathrm{Se}, \mathrm{Ni}, \mathrm{Te}, \mathrm{Fi} \}$$
 
-of information metabolism elements (IMEs). Each action of $\mathbb{S}$ arranges the function 
+of information metabolism elements (IMEs). T 
