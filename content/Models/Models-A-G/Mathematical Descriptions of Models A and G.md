@@ -46,3 +46,8 @@ Only index-2 subgroups of $\mathbb{S}$ that correspond to a 'supralocal' dichoto
 - [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics|A Representation-Theoretic Framework for Intertype Relations in Socionics]]
 - https://people.maths.bris.ac.uk/~matyd/GroupNames/T31.html
 - https://sedecology.blogspot.com/2020/07/the-presence-cube.html
+
+# See Also
+
+- [[Models/Models-A-G/Injections - Model A and Model G Charge Systems|Injections - Model A and Model G Charge Systems]]
+- [[injec]]
