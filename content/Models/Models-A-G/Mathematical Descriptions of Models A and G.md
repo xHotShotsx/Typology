@@ -36,7 +36,7 @@ Finally, the 'Presence Cube' model demonstrates the constructed vector space on 
 
 ## What counts as an acceptable system of injections?
 
-Only index-2 subgroups of $\mathbb{S}$ that correspond to a 'supralocal' dichotomy are admissible as acceptable constructions on Model A. The list includes Democratic/Aristocratic, Asking/D This is because each element of $I$ can be 
+Only index-2 subgroups of $\mathbb{S}$ that correspond to a 'supralocal' dichotomy are admissible as acceptable constructions on Model A. The list includes Democratic/Aristocratic, Asking/Declaring, Process/Result, and Positivist/Negativist. This is because each element of $I$ can be 
 
 
 
@@ -45,3 +45,4 @@ Only index-2 subgroups of $\mathbb{S}$ that correspond to a 'supralocal' dichoto
 - https://sedecology.com/math
 - [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics|A Representation-Theoretic Framework for Intertype Relations in Socionics]]
 - https://people.maths.bris.ac.uk/~matyd/GroupNames/T31.html
+- https://sedecology.blogspot.com/2020/07/the-presence-cube.html
