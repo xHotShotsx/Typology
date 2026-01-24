@@ -4,11 +4,11 @@
 | :-------------------------: | :---------------: | :-----------------------------------------------------------------------------: |
 |   **Model A (Classical)**   |      **8T9**      |           $\mathbb{S} \cong D_{4} \times \mathbb                    $           |
 | **Model A (Presence Cube)** |      **8T3**      |      **Democratic/Aristocratic** $\cong \mathbb{Z}_{2}^3 \leq \mathbb{S}$       |
-|      **Model A (SSS)**      |      **8T9**      |               **Asking/Declaring** $\cong D_{4} \leq \mathbb{S}$                |
-|      **Model A (SCS)**      |                   | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ |
-|      **Model G (SHS)**      |                   | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ |
-|         **Model L**         |                   |                    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$                     |
-|         **Model W**         |                   |                    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$                     |
+|      **Model A (SSS)**      |      **8T4**      |               **Asking/Declaring** $\cong D_{4} \leq \mathbb{S}$                |
+|      **Model A (SCS)**      |      **8T2**      | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ |
+|      **Model G (SHS)**      |      **8T2**      | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ |
+|         **Model L**         |     **16T3**      |                    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$                     |
+|         **Model W**         |     **16T3**      |                    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$                     |
 
 # Further Reading
 
