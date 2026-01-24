@@ -59,10 +59,7 @@ $$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{
 
 ### Model G
 
-$$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\ \{ e,B,g,b \} & \text{External/Internal} & \{1,2,3,4\} & \{5,6,7,8\} \\ \{ e,g,d,x \} & \text{Stable/Unstable} & \{1,3,6,8\} & \{2,4,5,7\} \\ \{ e,g,s,S \} & \text{Opening/Closing} & \{ 1,3,5,7 \} & \{ 2,4,6,8 \} \\ \{ e,B,m,d \} & \text{Energetic/Informational} & \{ 1,2,5,6 \} & \{ 3,4,7,8 \} \\ \{ e,b,d,S \} & \text{Impressionable/Unimpressionable} & \{ 1,4,6,7 \} & \{ 2,3,5,8 \} \\
-\{ e,B,S,x \} & \text{Tensioned/Relaxed} & \{ 1,2,7,8 \} & \{ 3,4,5,6 \} \\
-\{ e,b,s,x \} & \text{Excitable/Inhibitable} & \{ 1,4,5,8 \} & \{ 2,3,6,7 \}
-\end{matrix}$$
+$$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\ \{ e,B,g,b \} & \text{External/Internal} & \{1,2,3,4\} & \{5,6,7,8\} \\ \{ e,g,d,x \} & \text{Stable/Unstable} & \{1,3,6,8\} & \{2,4,5,7\} \\ \{ e,g,s,S \} & \text{Opening/Closing} & \{ 1,3,5,7 \} & \{ 2,4,6,8 \} \\ \{ e,B,m,d \} & \text{Energetic/Informational} & \{ 1,2,5,6 \} & \{ 3,4,7,8 \} \\ \{ e,b,d,S \} & \text{Impressionable/Unimpressionable} & \{ 1,4,6,7 \} & \{ 2,3,5,8 \} \\ \{ e,B,S,x \} & \text{Tensioned/Relaxed} & \{ 1,2,7,8 \} & \{ 3,4,5,6 \} \\ \{ e,b,s,x \} & \text{Excitable/Inhibitable} & \{ 1,4,5,8 \} & \{ 2,3,6,7 \} \end{matrix}$$
 
 # References / Further Reading
 
