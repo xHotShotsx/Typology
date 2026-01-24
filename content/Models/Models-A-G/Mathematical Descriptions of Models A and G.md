@@ -50,7 +50,7 @@ $$\begin{matrix}
 \{\{ e,k \}, \{ m,s \}, \{ g,l \}, \{ c,S \}\} & \text{Mental/Vital} & 1234 & 5678 \\
 \{\{ e,k \}, \{ g,l \}, \{ d,h \}, \{ x,i \}\} & \text{Accepting/Producing} & 1357 & 2468 \\
 \{\{ e,k \}, \{ g,l \}, \{ a,b \}, \{ q,B \}\} & \text{Bold/Cautious} & 1368 & 2457 \\
-\{\{ e,k \}, \{ m,s \}, \{ x, \}\}
+\{\{ e,k \}, \{ m,s \}, \{ x,i \}, \{ q,B \}\} & \text{Strong/Weak} &
 \end{matrix}$$
 
 # References / Further Reading
