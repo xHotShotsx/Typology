@@ -2,7 +2,7 @@
 
 |            Model            | Permutation Group |                                  Acting Group                                   |
 | :-------------------------: | :---------------: | :-----------------------------------------------------------------------------: |
-|   **Model A (Classical)**   |      **8T9**      |           $\mathbb{S} \cong D_{4} \times \mathbb                    $           |
+|   **Model A (Classical)**   |      **8T9**      |                 $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$                  |
 | **Model A (Presence Cube)** |      **8T3**      |      **Democratic/Aristocratic** $\cong \mathbb{Z}_{2}^3 \leq \mathbb{S}$       |
 |      **Model A (SSS)**      |      **8T4**      |               **Asking/Declaring** $\cong D_{4} \leq \mathbb{S}$                |
 |      **Model A (SCS)**      |      **8T2**      | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ |
