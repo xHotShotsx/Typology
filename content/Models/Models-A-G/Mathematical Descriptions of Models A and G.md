@@ -59,7 +59,7 @@ $$\begin{matrix}
 ## Gulenko-Newman
 ### Model A
 
-$$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\ \{\{ e,k \}, \{ m,s \}, \{ g,l \}, \{ c,S \}\} & \text{Mental/Vital} & \{1,2,3,4\} & \{5,6,7,8\} \\ \{\{ e,k \}, \{ g,l \}, \{ d,h \}, \{ x,i \}\} & \text{Accepting/Producing} & \{1357 & 2468 \\ \{\{ e,k \}, \{ g,l \}, \{ a,b \}, \{ q,B \}\} & \text{Bold/Cautious} & 1368 & 2457 \\ \{\{ e,k \}, \{ m,s \}, \{ d,h \}, \{ q,B \}\} & \text{Energetic/Infomrational} & 1258 & 3467 \\ \{ \{ e,k \}, \{ c,S \}, \{ d,h \}, \{ a,b \} \} & \text{Impressionable/Unimpressionable} & 1456 & 2378 \\ \{ \{ e,k \}, \{ c,S \}, \{ x,i \}, \{ q,B \} \} & \text{Tensioned/Relaxed} & 1478 & 2356 \\ \{ \{ e,k \}, \{ m,s \}, \{ a,b \}, \{ x,i \} \} & \text{Excitable/Inhibitable} & 1267 & 3458 \end{matrix}$$
+$$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\ \{\{ e,k \}, \{ m,s \}, \{ g,l \}, \{ c,S \}\} & \text{Mental/Vital} & \{1,2,3,4\} & \{5,6,7,8\} \\ \{\{ e,k \}, \{ g,l \}, \{ d,h \}, \{ x,i \}\} & \text{Accepting/Producing} & \{1,3,5,7\} & \{2,4,6,8\} \\ \{\{ e,k \}, \{ g,l \}, \{ a,b \}, \{ q,B \}\} & \text{Bold/Cautious} & \{1,3,6,8\} & \{2,4,5,7\} \\ \{\{ e,k \}, \{ m,s \}, \{ d,h \}, \{ q,B \}\} & \text{Energetic/Infomrational} & \{1,2,5,8\} & \{3,4,6,7\} \\ \{ \{ e,k \}, \{ c,S \}, \{ d,h \}, \{ a,b \} \} & \text{Impressionable/Unimpressionable} & \{1,4,5,6\} & \{2,3,7,8\} \\ \{ \{ e,k \}, \{ c,S \}, \{ x,i \}, \{ q,B \} \} & \text{Tensioned/Relaxed} & \{1,4,7,8\} & \{2,3,5,6\} \\ \{ \{ e,k \}, \{ m,s \}, \{ a,b \}, \{ x,i \} \} & \text{Excitable/Inhibitable} & 1267 & 3458 \end{matrix}$$
 
 # References / Further Reading
 
