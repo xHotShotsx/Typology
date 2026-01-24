@@ -59,6 +59,7 @@ $$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{
 - [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics|A Representation-Theoretic Framework for Intertype Relations in Socionics]]
 - https://people.maths.bris.ac.uk/~matyd/GroupNames/T31.html
 - https://sedecology.blogspot.com/2020/07/the-presence-cube.html
+- https://varlawend.blogspot.com/2023/06/encyclopedia-of-model-g-and-model.html
 
 # See Also
 
