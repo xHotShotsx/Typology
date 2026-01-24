@@ -46,7 +46,8 @@ Index-2 subgroups not associated with supralocal dichotomies (these are the 'gen
 ## Model A
 
 $$\begin{matrix}
-\text{Intertype Relations} & \text{Function Dichotomy} & \text{}
+\text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\
+
 \end{matrix}$$
 
 # References / Further Reading
