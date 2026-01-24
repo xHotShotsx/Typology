@@ -58,7 +58,7 @@ $$\begin{matrix}
 \{ e,B,m,x \} & \text{Leading/Following} & \{ 1,2,5,8 \} & \{ 3,4,6,7 \} \\
 \{ e,b,m,d \} & \text{Accelerating/Decelerating} & \{ 1,4,5,6 \} & \{ 2,3,7,8 \} \\
 \{ e,b,S,x \} & \text{Values/Tools} & \{ 1,4,7,8 \} & \{ 2,3,5,6 \} \\
-\{ e,b, \}
+\{ e,B,d,s \} & \text{Automatic/Conscious} & \{ 1,2,6,7 \} & \{  \}
 \end{matrix}$$
 
 ## Gulenko-Newman
