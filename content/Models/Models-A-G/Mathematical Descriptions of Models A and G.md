@@ -52,7 +52,8 @@ $$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{
 $$\begin{matrix}
 \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\
 \{ e,B,g,b \} & \text{External/Internal} & 1234 & 5678 \\
-\{ e,g,d,x \} & \text{Stable/Unstable} & 1368 & 
+\{ e,g,d,x \} & \text{Stable/Unstable} & 1368 & 2457 \\
+
 \end{matrix}$$
 
 ## Gulenko-Newman
