@@ -46,7 +46,7 @@ Index-2 subgroups not associated with supralocal dichotomies (these are the 'gen
 ## Classical
 ### Model A
 
-$$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\ \{\{ e,k \}, \{ m,s \}, \{ g,l \}, \{ c,S \}\} & \text{Mental/Vital} & 1234 & 5678 \\ \{\{ e,k \}, \{ g,l \}, \{ d,h \}, \{ x,i \}\} & \text{Accepting/Producing} & 1357 & 2468 \\ \{\{ e,k \}, \{ g,l \}, \{ a,b \}, \{ q,B \}\} & \text{Bold/Cautious} & 1368 & 2457 \\ \{\{ e,k \}, \{ m,s \}, \{ x,i \}, \{ q,B \}\} & \text{Strong/Weak} & 1278 & 3456 \\ \{ \{ e,k \}, \{ m,s \}, \{ d,h \}, \{ a,b \} \} & \text{Valued/Subdued} & 1256 & 3478 \\ \{ \{ e,k \}, \{ c,S \}, \{ a,b \}, \{ x,i \} \} & \text{Inert/Contact} & 1467 & 2358 \\ \{ \{ e,k \}, \{ c,S \}, \{ d,h \}, \{ q,B \} \} & \text{Evaluatory/Situational} & 1458 & 2367 \end{matrix}$$
+$$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\ \{\{ e,k \}, \{ m,s \}, \{ g,l \}, \{ c,S \}\} & \text{Mental/Vital} & \{1,2,3,4\} & \{5,6,7,8\} \\ \{\{ e,k \}, \{ g,l \}, \{ d,h \}, \{ x,i \}\} & \text{Accepting/Producing} & 1357 & 2468 \\ \{\{ e,k \}, \{ g,l \}, \{ a,b \}, \{ q,B \}\} & \text{Bold/Cautious} & \{1,3,6,8\} & \{2,4,5,7\} \\ \{\{ e,k \}, \{ m,s \}, \{ x,i \}, \{ q,B \}\} & \text{Strong/Weak} & 1278 & 3456 \\ \{ \{ e,k \}, \{ m,s \}, \{ d,h \}, \{ a,b \} \} & \text{Valued/Subdued} & 1256 & 3478 \\ \{ \{ e,k \}, \{ c,S \}, \{ a,b \}, \{ x,i \} \} & \text{Inert/Contact} & 1467 & 2358 \\ \{ \{ e,k \}, \{ c,S \}, \{ d,h \}, \{ q,B \} \} & \text{Evaluatory/Situational} & 1458 & 2367 \end{matrix}$$
 
 ### Model G
 $$\begin{matrix}
