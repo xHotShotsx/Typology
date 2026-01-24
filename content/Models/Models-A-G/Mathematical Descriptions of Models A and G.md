@@ -46,7 +46,7 @@ Index-2 subgroups not associated with supralocal dichotomies (these are the 'gen
 ## Model A
 
 $$\begin{matrix}
-\mathrm{Interty}\mathrm{Valued}
+\mathrm{Intertype \mathrm{Re}lation & \mathrm{Valued}
 \end{matrix}$$
 
 # References / Further Reading
