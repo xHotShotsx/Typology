@@ -4,9 +4,9 @@
 | :-------------------------: | :---------------: |
 |   **Model A (Classical)**   |      **8T9**      |
 | **Model A (Presence Cube)** |      **8T3**      |
+|      **Model A (SSS)**      |      **8T2**      |
 |      **Model A (SCS)**      |      **8T2**      |
-|      **Model A (SCS)**      |      **8T4**      |
-|                             |                   |
+|      **Model G (SHS)**      |      **8T4**      |
 |                             |                   |
 
 # Further Reading
