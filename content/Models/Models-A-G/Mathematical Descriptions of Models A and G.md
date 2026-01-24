@@ -44,8 +44,6 @@ Index-2 subgroups not associated with supralocal dichotomies (these are the 'gen
 
 # Function Dichotomies
 
-In both Model A and Model G, a function dichotomy is a
-
 ## Classical
 ### Model A
 
