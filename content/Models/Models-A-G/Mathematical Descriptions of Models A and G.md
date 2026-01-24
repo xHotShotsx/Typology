@@ -50,7 +50,9 @@ $$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{
 
 ### Model G
 $$\begin{matrix}
-\text{Intertype Relations} & \text{}
+\text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\
+\{ e,B,g,b \} & \text{External/Internal} & 1234 & 5678 \\
+
 \end{matrix}$$
 
 ## Gulenko-Newman
