@@ -22,7 +22,7 @@ In Model G, we have a set $F_{MG}$ of 8 functions (labelled points) and a set
 
 $$\mathcal{E} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-},  \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$$
 
-of 16 monadic (signed) elements, half of which occupy $F_{MG}$, depending on whether a type is Process or Result. The set of functions are acted upon by the index-2 subgroup of $\mathbb{S}$ that describes Process/Result, for which we'll denote $H$, and is isomorphic to $\mathbb{Z}_{2} \times \mathbb{Z}_{4}$. $H$ acts on functions in specific ways depending on the action applied.
+of 16 monadic (signed) elements, half of which occupy $F_{MG}$, depending on whether a type is Process or Result. The set of functions is acted on by the index-2 subgroup of $\mathbb{S}$ that describes Process/Result, for which we'll denote $H$, and is isomorphic to $\mathbb{Z}_{2} \times \mathbb{Z}_{4}$. $H$ acts on functions in specific ways depending on the action applied.
 
 Like with $\mathbb{S}$, $H$ can be described by certain permutations such as $B = (1,2,3,4)(5,6,7,8)$ for order 4 relationships and $d = (1,6)(2,7)(3,8)(4,5)$ for order 2 relationships. From these generators, it follows directly that this permutation group is isomorphic to $\mathbb{Z}_{2} \times \mathbb{Z}_{4}$, that acts on 8 points, and hence Model A realises the transitive permutation group 8T2.
 
