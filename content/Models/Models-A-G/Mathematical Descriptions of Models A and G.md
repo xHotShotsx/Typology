@@ -43,7 +43,13 @@ The reason for this restriction is structural. Each information element $i \in I
 Index-2 subgroups not associated with supralocal dichotomies (these are the 'general' dichotomies, which when intersected define the temperament tetrachotomy) fail to satisfy this condition, as they induce splittings that cannot be reconciled with the monadic decomposition of elements in $I$. Consequently, no other index-2 subgroup of $\mathbb{S}$ yields a coherent or admissible system of injections on Model A.  
 
 # Function Dichotomies
-## Model A
+## Classical
+### Model A
+
+$$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\ \{\{ e,k \}, \{ m,s \}, \{ g,l \}, \{ c,S \}\} & \text{Mental/Vital} & 1234 & 5678 \\ \{\{ e,k \}, \{ g,l \}, \{ d,h \}, \{ x,i \}\} & \text{Accepting/Producing} & 1357 & 2468 \\ \{\{ e,k \}, \{ g,l \}, \{ a,b \}, \{ q,B \}\} & \text{Bold/Cautious} & 1368 & 2457 \\ \{\{ e,k \}, \{ m,s \}, \{ x,i \}, \{ q,B \}\} & \text{Strong/Weak} & 1278 & 3456 \\ \{ \{ e,k \}, \{ m,s \}, \{ d,h \}, \{ a,b \} \} & \text{Valued/Subdued} & 1256 & 3478 \\ \{ \{ e,k \}, \{ c,S \}, \{ a,b \}, \{ x,i \} \} & \text{Inert/Contact} & 1467 & 2358 \\ \{ \{ e,k \}, \{ c,S \}, \{ d,h \}, \{ a,B \} \} & \text{Evaluatory/Situational} & 1458 & 2367 \end{matrix}$$
+
+## Gulenko-Newman
+### Model A
 
 $$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\ \{\{ e,k \}, \{ m,s \}, \{ g,l \}, \{ c,S \}\} & \text{Mental/Vital} & 1234 & 5678 \\ \{\{ e,k \}, \{ g,l \}, \{ d,h \}, \{ x,i \}\} & \text{Accepting/Producing} & 1357 & 2468 \\ \{\{ e,k \}, \{ g,l \}, \{ a,b \}, \{ q,B \}\} & \text{Bold/Cautious} & 1368 & 2457 \\ \{\{ e,k \}, \{ m,s \}, \{ x,i \}, \{ q,B \}\} & \text{Strong/Weak} & 1278 & 3456 \\ \{ \{ e,k \}, \{ m,s \}, \{ d,h \}, \{ a,b \} \} & \text{Valued/Subdued} & 1256 & 3478 \\ \{ \{ e,k \}, \{ c,S \}, \{ a,b \}, \{ x,i \} \} & \text{Inert/Contact} & 1467 & 2358 \\ \{ \{ e,k \}, \{ c,S \}, \{ d,h \}, \{ a,B \} \} & \text{Evaluatory/Situational} & 1458 & 2367 \end{matrix}$$
 
