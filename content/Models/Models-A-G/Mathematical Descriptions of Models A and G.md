@@ -47,7 +47,7 @@ Index-2 subgroups not associated with supralocal dichotomies (these are the 'gen
 
 $$\begin{matrix}
 \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\
-\{ e \cang k \}, \{ m,s \} 
+\{ e \cogn k \}, \{ m,s \} 
 \end{matrix}$$
 
 # References / Further Reading
