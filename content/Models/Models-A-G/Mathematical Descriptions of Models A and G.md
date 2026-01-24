@@ -77,3 +77,4 @@ Model A is a surjective coset model: functions correspond to cosets of the 'kind
 
 - [[Models/Models-A-G/Injections - Model A and Model G Charge Systems|Injections - Model A and Model G Charge Systems]]
 - [[Models/Models-A-G/Injections - Function Dichotomies to TIM Tetrachotomies|Injections - Function Dichotomies to TIM Tetrachotomies]]
+- [[Models/Models-A-G/Element (Information) Dichotomies|Element (Information) Dichotomies]]
