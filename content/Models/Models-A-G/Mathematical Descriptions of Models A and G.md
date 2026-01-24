@@ -57,7 +57,7 @@ $$\begin{matrix}
 \{ e,g,s,S \} & \text{Opening/Closing} & \{ 1,3,5,7 \} & \{ 2,4,6,8 \} \\
 \{ e,B,m,x \} & \text{Leading/Following} & \{ 1,2,5,8 \} & \{ 3,4,6,7 \} \\
 \{ e,b,m,d \} & \text{Accelerating/Decelerating} & \{ 1,4,5,6 \} & \{ 2,3,7,8 \} \\
-\{ e,b,S,x \} & \text{Values/Tools} & \{ 1,4,7,8 \} & 
+\{ e,b,S,x \} & \text{Values/Tools} & \{ 1,4,7,8 \} & \{ 1, \}
 \end{matrix}$$
 
 ## Gulenko-Newman
