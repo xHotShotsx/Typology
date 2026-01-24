@@ -3,9 +3,9 @@
 |            Model            | Permutation Group |
 | :-------------------------: | :---------------: |
 |   **Model A (Classical)**   |      **8T9**      |
-| **Model A (Presence Cube)** |      **8T4**      |
-|      **Model A (SCS)**      |      **8T**       |
-|                             |                   |
+| **Model A (Presence Cube)** |      **8T3**      |
+|      **Model A (SCS)**      |      **8T2**      |
+|      **Model A (SCS)**      |      **8T4**      |
 |                             |                   |
 |                             |                   |
 
