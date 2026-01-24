@@ -47,10 +47,10 @@ Index-2 subgroups not associated with supralocal dichotomies (these are the 'gen
 
 $$\begin{matrix}
 \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\
-\{ e,k \}, \{ m,s \}, \{ g,l \}, \{ c,S \} & \text{Mental/Vital} & 1234 & 5678 \\
-\{ e,k \}, \{ g,l \}, \{ d,h \}, \{ x,i \} & \text{Accepting/Producing} & 1357 & 2468 \\
-\{ e,k \}, \{ g,l \}, \{ a,b \}, \{ q,B \} & \text{Bold/Cautious} & 1368 & 2457 \\
-\{ e,k \}, \{ m,s \}, \{  \}
+\{\{ e,k \}, \{ m,s \}, \{ g,l \}, \{ c,S \}\} & \text{Mental/Vital} & 1234 & 5678 \\
+\{\{ e,k \}, \{ g,l \}, \{ d,h \}, \{ x,i \}\} & \text{Accepting/Producing} & 1357 & 2468 \\
+\{\{ e,k \}, \{ g,l \}, \{ a,b \}, \{ q,B \}\} & \text{Bold/Cautious} & 1368 & 2457 \\
+\{\{ e,k \}, \{ m,s \}, \{ x, \}\}
 \end{matrix}$$
 
 # References / Further Reading
