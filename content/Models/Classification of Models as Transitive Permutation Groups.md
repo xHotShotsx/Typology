@@ -4,8 +4,8 @@
 | :-------------------------: | :---------------: | :------------------------------------------------------------------: |
 |   **Model A (Classical)**   |      **8T9**      |     $\mathbb{S} \cong D_{4} \times \mathbb                    $      |
 | **Model A (Presence Cube)** |                   | **Democratic/Aristocratic** $\cong \mathbb{Z}_{2}^3 \leq \mathbb{S}$ |
-|      **Model A (SSS)**      |                   |                       **Asking/Declaring** $$                        |
-|      **Model A (SCS)**      |                   |                                                                      |
+|      **Model A (SSS)**      |                   |          **Asking/Declaring** $\cong D_{4} \leq \mathbb{S}$          |
+|      **Model A (SCS)**      |                   |                         **Process/Result**                           |
 |      **Model G (SHS)**      |                   |                                                                      |
 |         **Model L**         |                   |                                                                      |
 |         **Model W**         |                   |                                                                      |
