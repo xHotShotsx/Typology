@@ -9,6 +9,7 @@
 |      **Model G (SHS)**      |      **8T2**      | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ |
 |         **Model L**         |     **16T3**      |                    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$                     |
 |         **Model W**         |     **16T3**      |                    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$                     |
+|            ****             |                   |                                                                                 |
 
 # Footnote
 
