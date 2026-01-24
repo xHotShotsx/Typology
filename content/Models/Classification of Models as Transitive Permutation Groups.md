@@ -7,8 +7,8 @@
 |      **Model A (SSS)**      |                   |               **Asking/Declaring** $\cong D_{4} \leq \mathbb{S}$                |
 |      **Model A (SCS)**      |                   | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ |
 |      **Model G (SHS)**      |                   | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ |
-|         **Model L**         |                   |                                                                                 |
-|         **Model W**         |                   |                                                                                 |
+|         **Model L**         |                   |                    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$                     |
+|         **Model W**         |                   |                       $\mathbf{V}_{14} \cong \mathbb{Z}$                        |
 
 # Further Reading
 
