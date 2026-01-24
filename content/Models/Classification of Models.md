@@ -11,7 +11,6 @@
 |         **Model L**         |     **16T3**      |                    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$                     |   **Regular**   |
 |         **Model W**         |     **16T3**      |                    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$                     |   **Regular**   |
 
-
 # Footnote
 
 - **8Tn** refers to the nth transitive subgroup of $S_{8}$ in the GAP classification scheme.
