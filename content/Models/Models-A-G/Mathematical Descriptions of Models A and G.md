@@ -65,9 +65,9 @@ $$\begin{matrix}
 \{ e,g,d,x \} & \text{Stable/Unstable} & \{1,3,6,8\} & \{2,4,5,7\} \\
 \{ e,g,s,S \} & \text{Opening/Closing} & \{ 1,3,5,7 \} & \{ 2,4,6,8 \} \\
 \{ e,B,m,d \} & \text{Energetic/Informational} & \{ 1,2,5,6 \} & \{ 3,4,7,8 \} \\
-\{ e,b,d,S \} & \text{Impressionable/Unimpressionable} & \{ 1,4,6,7 \} & \{ 2,3,7,8 \} \\
-\{ e,b,S,x \} & \text{Tensioned/Relaxed} & \{ 1,4,7,8 \} & \{ 2,3,5,6 \} \\
-\{ e,B,d,s \} & \text{Excitable/Inhibitable} & \{ 1,2,6,7 \} & \{ 3,4,5,8 \}
+\{ e,b,d,S \} & \text{Impressionable/Unimpressionable} & \{ 1,4,6,7 \} & \{ 2,3,5,8 \} \\
+\{ e,b,S,x \} & \text{Tensioned/Relaxed} & \{ 1,2,7,8 \} & \{ 3,4,5,6 \} \\
+\{ e,B,d,s \} & \text{Excitable/Inhibitable} & \{ 1,4,5,8 \} & \{ 2,3,6,7 \}
 \end{matrix}$$
 
 # References / Further Reading
