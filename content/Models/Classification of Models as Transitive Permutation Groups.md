@@ -12,12 +12,13 @@
 
 # Footnote
 
-- **8Tn** refers to the nth transitive subgroup of $S_{8}$ in the GAP classification.
-- **16Tn** refers to the nth transitive subgroup of $S_{16}$
+- **8Tn** refers to the nth transitive subgroup of $S_{8}$ in the GAP classification scheme.
+- **16Tn** refers to the nth transitive subgroup of $S_{16}$ in the GAP classification scheme.
 
 # Further Reading
 
 - https://people.maths.bris.ac.uk/~matyd/GroupNames/T31.html
+- [[Mathematical Descriptions of Models A and G]]
 - [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics|A Representation-Theoretic Framework for Intertype Relations in Socionics]]
 - https://sedecology.com/math
 - [[Models/Model-W/Model-W|Model-W]]
