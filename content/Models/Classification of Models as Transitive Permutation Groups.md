@@ -12,7 +12,9 @@
 
 # Footnote
 
-- **8Tn** refers to
+- **8Tn** refers to the nth transitive subgroup of $S_{8}$ in the GAP classification.
+- **16Tn** refers to the nth transitive subgroup of $S_{16}$
+
 # Further Reading
 
 - https://people.maths.bris.ac.uk/~matyd/GroupNames/T31.html
