@@ -64,9 +64,9 @@ $$\begin{matrix}
 \{ e,B,g,b \} & \text{External/Internal} & \{1,2,3,4\} & \{5,6,7,8\} \\
 \{ e,g,d,x \} & \text{Stable/Unstable} & \{1,3,6,8\} & \{2,4,5,7\} \\
 \{ e,g,s,S \} & \text{Opening/Closing} & \{ 1,3,5,7 \} & \{ 2,4,6,8 \} \\
-\{ e,B,m,x \} & \text{Leading/Following} & \{ 1,2,5,8 \} & \{ 3,4,6,7 \} \\
-\{ e,b,m,d \} & \text{Accelerating/Decelerating} & \{ 1,4,5,6 \} & \{ 2,3,7,8 \} \\
-\{ e,b,S,x \} & \text{Values/Tools} & \{ 1,4,7,8 \} & \{ 2,3,5,6 \} \\
+\{ e,B,m,x \} & \text{Energetic/Informational} & \{ 1,2,5,8 \} & \{ 3,4,6,7 \} \\
+\{ e,b,m,d \} & \text{Impressionable/Unimpressionable} & \{ 1,4,5,6 \} & \{ 2,3,7,8 \} \\
+\{ e,b,S,x \} & \text{} & \{ 1,4,7,8 \} & \{ 2,3,5,6 \} \\
 \{ e,B,d,s \} & \text{Automatic/Conscious} & \{ 1,2,6,7 \} & \{ 3,4,5,8 \}
 \end{matrix}$$
 
