@@ -63,7 +63,7 @@ $$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{
 
 # The Conceptual Contrast between Models A and G
 
-Model A is a surjective coset model: functions correspond to cosets of the 'kindreds' subgroup $\{ e,k \}$ of $\mathbb{S}$, hence 8 IMEs. However, Model G is an injective refinement model: functions receive monadic elements via selector-con
+Model A is a surjective coset model: functions correspond to cosets of the 'kindreds' subgroup $\{ e,k \}$ of $\mathbb{S}$, hence 8 IMEs. However, Model G is an injective refinement model: functions receive monadic elements via selector-controlled injections.
 
 # References / Further Reading
 
