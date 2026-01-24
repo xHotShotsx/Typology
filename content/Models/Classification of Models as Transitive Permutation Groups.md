@@ -1,14 +1,14 @@
 # Table of Models
 
-|            Model            | Permutation Group |                  Acting Group                  |
-| :-------------------------: | :---------------: | :--------------------------------------------: |
-|   **Model A (Classical)**   |      **8T9**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |
-| **Model A (Presence Cube)** |      **8T3**      |           Democraatic/Aristocratic             |
-|      **Model A (SSS)**      |      **8T2**      |                                                |
-|      **Model A (SCS)**      |      **8T2**      |                                                |
-|      **Model G (SHS)**      |      **8T4**      |                                                |
-|         **Model L**         |     **16T3**      |                                                |
-|         **Model W**         |     **16T3**      |                                                |
+|            Model            |                                  Permutation Group                                  |                        Acting Group                         |
+| :-------------------------: | :---------------------------------------------------------------------------------: | :---------------------------------------------------------: |
+|   **Model A (Classical)**   |                                       **8T9**                                       | $\mathbb{S} \cong D_{4} \times \mathbb                    $ |
+| **Model A (Presence Cube)** | ** Democratic/Aristocratic $\cong \mathbb{Z}_{2}^3 \leq \mathbb{S}$  }$  3$  3$  }$ |                                                             |
+|      **Model A (SSS)**      |                                         **                                          |                                                             |
+|      **Model A (SCS)**      |                                                                                     |                                                             |
+|      **Model G (SHS)**      |                                                                                     |                                                             |
+|         **Model L**         |                                                                                     |                                                             |
+|         **Model W**         |                                                                                     |                                                             |
 
 # Further Reading
 
