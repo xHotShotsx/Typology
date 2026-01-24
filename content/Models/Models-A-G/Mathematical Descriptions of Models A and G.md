@@ -52,7 +52,7 @@ $$\begin{matrix}
 \{\{ e,k \}, \{ g,l \}, \{ a,b \}, \{ q,B \}\} & \text{Bold/Cautious} & 1368 & 2457 \\
 \{\{ e,k \}, \{ m,s \}, \{ x,i \}, \{ q,B \}\} & \text{Strong/Weak} & 1278 & 3456 \\
 \{ \{ e,k \}, \{ m,s \}, \{ d,h \}, \{ a,b \} \} & \text{Valued/Subdued} & 1256 & 3478 \\
-\{ \{ e,k \}, \{  \} \}
+\{ \{ e,k \}, \{ c,S \}, \{  \} \}
 \end{matrix}$$
 
 # References / Further Reading
