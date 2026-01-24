@@ -53,8 +53,7 @@ $$\begin{matrix}
 \{\{ e,k \}, \{ m,s \}, \{ x,i \}, \{ q,B \}\} & \text{Strong/Weak} & 1278 & 3456 \\
 \{ \{ e,k \}, \{ m,s \}, \{ d,h \}, \{ a,b \} \} & \text{Valued/Subdued} & 1256 & 3478 \\
 \{ \{ e,k \}, \{ c,S \}, \{ a,b \}, \{ x,i \} \} & \text{Inert/Contact} & 1467 & 2358 \\
-\{ \{ e,k \}, \{ c,S \}, \{ a,b \}  \}
-\end{matrix}$$
+\{ \{ e,k \}, \{ c,S \}, \{ d,h \}, \{ a,B \} \} & \text{Evaluatory/Situational} & 1458 & 2367 \end{matrix}$$
 
 # References / Further Reading
 
