@@ -7,7 +7,8 @@
 |      **Model A (SSS)**      |      **8T2**      |
 |      **Model A (SCS)**      |      **8T2**      |
 |      **Model G (SHS)**      |      **8T4**      |
-|                             |                   |
+|         **Model L**         |     **16T3**      |
+|         **Model W**         |     **16T3**      |
 
 # Further Reading
 
