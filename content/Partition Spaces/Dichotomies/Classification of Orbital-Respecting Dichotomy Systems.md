@@ -2,7 +2,6 @@
 
 $$ \Sigma_{\mathcal{D}_i} := \left(\mathrm{Name}, \mathbb{Z}_{2}^{\log_{2}( | I_{\mathcal{D}_{i}} | )}, \mathrm{SelectorType}(\mathbb{S} / I_{{\mathcal{D}_{i}}}), \mathrm{Respects}(I_{\mathcal{D}_{i}}) \right)$$
 
-
 ## Table of Dichotomy Systems
 
 |   #    |                      Name                       |  Structure of $I$  | Selector Type for $r I$ | $I$ Respects? |
