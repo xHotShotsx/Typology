@@ -58,7 +58,7 @@ $$\begin{matrix}
 \{ e,B,m,x \} & \text{Leading/Following} & \{ 1,2,5,8 \} & \{ 3,4,6,7 \} \\
 \{ e,b,m,d \} & \text{Accelerating/Decelerating} & \{ 1,4,5,6 \} & \{ 2,3,7,8 \} \\
 \{ e,b,S,x \} & \text{Values/Tools} & \{ 1,4,7,8 \} & \{ 2,3,5,6 \} \\
-\{ e,B,d,s \} & \text{Automatic/Conscious} & \{ 1,2,6,7 \} & \{  \}
+\{ e,B,d,s \} & \text{Automatic/Conscious} & \{ 1,2,6,7 \} & \{ 3,4,5,8 \}
 \end{matrix}$$
 
 ## Gulenko-Newman
@@ -66,6 +66,7 @@ $$\begin{matrix}
 
 $$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\ \{\{ e,k \}, \{ m,s \}, \{ g,l \}, \{ c,S \}\} & \text{Mental/Vital} & \{1,2,3,4\} & \{5,6,7,8\} \\ \{\{ e,k \}, \{ g,l \}, \{ d,h \}, \{ x,i \}\} & \text{Accepting/Producing} & \{1,3,5,7\} & \{2,4,6,8\} \\ \{\{ e,k \}, \{ g,l \}, \{ a,b \}, \{ q,B \}\} & \text{Bold/Cautious} & \{1,3,6,8\} & \{2,4,5,7\} \\ \{\{ e,k \}, \{ m,s \}, \{ d,h \}, \{ q,B \}\} & \text{Energetic/Infomrational} & \{1,2,5,8\} & \{3,4,6,7\} \\ \{ \{ e,k \}, \{ c,S \}, \{ d,h \}, \{ a,b \} \} & \text{Impressionable/Unimpressionable} & \{1,4,5,6\} & \{2,3,7,8\} \\ \{ \{ e,k \}, \{ c,S \}, \{ x,i \}, \{ q,B \} \} & \text{Tensioned/Relaxed} & \{1,4,7,8\} & \{2,3,5,6\} \\ \{ \{ e,k \}, \{ m,s \}, \{ a,b \}, \{ x,i \} \} & \text{Excitable/Inhibitable} & \{1,2,6,7\} & \{3,4,5,8\} \end{matrix}$$
 
+### M
 # References / Further Reading
 
 - https://sedecology.com/math
