@@ -47,7 +47,8 @@ Index-2 subgroups not associated with supralocal dichotomies (these are the 'gen
 
 $$\begin{matrix}
 \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\
-\{ e \cap k \}, \{ m \cap s \}, \{ g \cap l \}, \{ c \cap S \} & 
+\{ e \cap k \}, \{ m \cap s \}, \{ g \cap l \}, \{ c \cap S \} & \text{Mental/Vital} & 1234 & 5678 \\
+
 \end{matrix}$$
 
 # References / Further Reading
