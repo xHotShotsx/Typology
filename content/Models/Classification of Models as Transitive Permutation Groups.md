@@ -10,6 +10,9 @@
 |         **Model L**         |     **16T3**      |                    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$                     |
 |         **Model W**         |     **16T3**      |                    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$                     |
 
+# Footnote
+
+- **8Tn** refers to
 # Further Reading
 
 - https://people.maths.bris.ac.uk/~matyd/GroupNames/T31.html
