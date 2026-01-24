@@ -49,12 +49,13 @@ Index-2 subgroups not associated with supralocal dichotomies (these are the 'gen
 $$\begin{matrix} \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\ \{\{ e,k \}, \{ m,s \}, \{ g,l \}, \{ c,S \}\} & \text{Mental/Vital} & \{1,2,3,4\} & \{5,6,7,8\} \\ \{\{ e,k \}, \{ g,l \}, \{ d,h \}, \{ x,i \}\} & \text{Accepting/Producing} & \{1,3,5,7\} & \{2,4,6,8\} \\ \{\{ e,k \}, \{ g,l \}, \{ a,b \}, \{ q,B \}\} & \text{Bold/Cautious} & \{1,3,6,8\} & \{2,4,5,7\} \\ \{\{ e,k \}, \{ m,s \}, \{ x,i \}, \{ q,B \}\} & \text{Strong/Weak} & \{1,2,7,8\} & \{3,4,5,6\} \\ \{ \{ e,k \}, \{ m,s \}, \{ d,h \}, \{ a,b \} \} & \text{Valued/Subdued} & \{1,2,5,6\} & \{3,4,7,8\} \\ \{ \{ e,k \}, \{ c,S \}, \{ a,b \}, \{ x,i \} \} & \text{Inert/Contact} & \{1,4,6,7\} & \{2,3,5,8\} \\ \{ \{ e,k \}, \{ c,S \}, \{ d,h \}, \{ q,B \} \} & \text{Evaluatory/Situational} & \{1,4,5,8\} & \{2,3,6,7\} \end{matrix}$$
 
 ### Model G
+
 $$\begin{matrix}
 \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\
 \{ e,B,g,b \} & \text{External/Internal} & \{1,2,3,4\} & \{5,6,7,8\} \\
 \{ e,g,d,x \} & \text{Stable/Unstable} & \{1,3,6,8\} & \{2,4,5,7\} \\
 \{ e,g,s,S \} & \text{Opening/Closing} & \{ 1,3,5,7 \} & \{ 2,4,6,8 \} \\
-\{ e,B, \}
+\{ e,B,m,x \} & \text{Leading/Following} & \{ 1,2,5,8 \}
 \end{matrix}$$
 
 ## Gulenko-Newman
