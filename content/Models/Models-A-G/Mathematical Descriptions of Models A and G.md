@@ -53,7 +53,7 @@ $$\begin{matrix}
 \text{Intertype Relations} & \text{Function Dichotomy} & \text{1st set} & \text{2nd set} \\
 \{ e,B,g,b \} & \text{External/Internal} & 1234 & 5678 \\
 \{ e,g,d,x \} & \text{Stable/Unstable} & 1368 & 2457 \\
-\{  \}
+\{ e,g,s,S \} & \text{Opening/Closing} & 
 \end{matrix}$$
 
 ## Gulenko-Newman
