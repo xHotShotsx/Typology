@@ -42,6 +42,11 @@ The reason for this restriction is structural. Each information element $i \in I
 
 Index-2 subgroups not associated with supralocal dichotomies (these are the 'general' dichotomies, which when intersected define the temperament tetrachotomy) fail to satisfy this condition, as they induce splittings that cannot be reconciled with the monadic decomposition of elements in $I$. Consequently, no other index-2 subgroup of $\mathbb{S}$ yields a coherent or admissible system of injections on Model A.  
 
+# Function Dichotomies
+## Model A
+
+$$$$
+
 # References / Further Reading
 
 - https://sedecology.com/math
