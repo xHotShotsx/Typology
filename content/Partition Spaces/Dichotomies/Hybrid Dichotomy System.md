@@ -17,3 +17,14 @@ NA - +X1/-X1
 NI -  +X6/-X6
 TA - +X2/-X2
 TI - +X5/-X5
+AI - Irrational/Rational
+
+## 3rd order dichotomy
+
+NTA - 2ndAbstract/2ndInvolved
+NTI - 2ndExternal/2ndInvolved
+NAI - Tactical/Strategic
+TAI - Constructivist/Emotivist
+
+## 4th order dichotomy
+
