@@ -1,1 +1,2 @@
-# Hybrid Dichotomy System for n
+# Hybrid Dichotomy System for $\mathbb{S}$
+## 0th order dichotomy
