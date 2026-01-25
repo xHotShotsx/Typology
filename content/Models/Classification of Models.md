@@ -15,9 +15,8 @@
 
 - **8Tn** refers to the nth transitive subgroup of $S_{8}$ in the GAP classification scheme.
 - **16Tn** refers to the nth transitive subgroup of $S_{16}$ in the GAP classification scheme.
-- **Technical Note:** Charge models (systems of injections) are best viewed as orbit models. Any compatible index-2 subgroup $H$ acts transitively on a single orbit of size 8 (hence an 8Tk label applies). The full charge construction $F \times \{ A,B \}$ is an intransitive $H$-set with two orbits; it is not itself an nTk object unless extended by a sheet-swapping element, yielding a transitive 16Tk action.
-- Throughout this article, "Acting Group" refers to the subgroup of $\mathbb{S}$ whose action is explicitly realised on the model's function set. This does not imply that other intertype relations cease to exist; only that they are represented as symmetries of the given layout.
-
+- **Technical Note:** Charge models (systems of injections) are best viewed as orbit models. Any compatible index-2 subgroup $H$ acts transitively on a single orbit of size 8 (hence an $8T_{k}$ label applies). The full charge construction $F \times \{ A,B \}$ is an intransitive $H$-set with two orbits; it is not itself an $nT_{k}$ object unless extended by a sheet-swapping element, yielding a transitive $16T_{l}$ action.
+- Throughout this article, "Acting Group" refers to the subgroup of $\mathbb{S}$ whose action is explicitly realised on the model's function set. This does not imply that other intertype relations cease to exist; only that they are represented as symmetries of the given layout. $\math{l}$
 # Further Reading
 
 - https://people.maths.bris.ac.uk/~matyd/GroupNames/T31.html
