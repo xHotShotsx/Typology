@@ -15,6 +15,7 @@
 
 - **8Tn** refers to the nth transitive subgroup of $S_{8}$ in the GAP classification scheme.
 - **16Tn** refers to the nth transitive subgroup of $S_{16}$ in the GAP classification scheme.
+- **Technical **
 
 # Further Reading
 
