@@ -1265,24 +1265,35 @@ SIP - {ILE SEI SEE ILI} XAND {ESE LII LIE ESI
 ### 1st order dichotomy
 
 E - Extroverted/Introverted
+
 I - Informative/Directive {Fi ego, alpha quadra} / {Ni ego, ST}
+
 S - Systematic/Nomadic {Si ego, NT} / {Se ego, NF}
+
 P - Process/Result
 
 ### 2nd order dichotomy
 
 IP - {ILE SEI SEE EII IEI LIE SLE SLI}
+
 EI - Progress/Outcome {ILE ESE SEE IEE IEI ILI LSI SLI}
+
 SP - {SEI LSE ILE ILI SLE ESI IEI IEE}
+
 IS - Merry/Serious
+
 EP - Asking/Declaring
+
 ES - {ILE ESE LIE LSE LSI ESI IEI EII}
 
 ### 3rd order dichotomy
 
 ISP - Carefree/Farsighted
+
 EIP - Pragmatic/Affiliative {Se ego + NT}
+
 EIS - Constructivist/Emotivist
+
 ESP - {ILE LII LSE SLI SLE LSI IEE EII}
 
 ### 4th order dichotomy
