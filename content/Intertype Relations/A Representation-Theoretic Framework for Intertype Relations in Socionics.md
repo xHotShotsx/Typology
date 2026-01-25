@@ -211,7 +211,7 @@ $$A_{3} \cdot t \quad \text{and} \quad \rho_{15}(A_{3}) \cdot L_{15}(t)$$
 
 implement the same transformation in two different representations of the same underlying structure.
 
-For each orbital-respecting dichotomy system $\mathcal{D}_i$, the associated vector space of relations $\mathbf{V}_i$ acts regularly on a 16-element set $X_i$ (the set of all functions). In GAP's transitive group classification, this action corresponds to $1$, the regular permutation representation of $\mathbb{Z}_2^4$.
+For each orbital-respecting dichotomy system $\mathcal{D}_i$, the associated vector space of relations $\mathbf{V}_i$ acts regularly on a 16-element set $X_i$ (the set of all functions). In GAP's transitive group classification, this action corresponds to $16T_{3}$, the regular permutation representation of $\mathbb{Z}_2^4$.
 
 
 <img src="/Images/Misc/2d-model-l.png" />
