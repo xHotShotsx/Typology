@@ -32,13 +32,8 @@ NTAI - Process/Result
 
 # ITR to Vector Correspondence
 
-**
-
 e, x = (0, 0, 0, 0)
-
 g, d = (1, 1, 1, 1)
-
-  
 
 Dem(m, q) = (0, 0, 0, 1)
 Arist(m, q) = (0, 0, 1, 0)
@@ -55,4 +50,6 @@ J-arist-right: (b, S), P-dem-right: (B, s) = (1, 0, 0, 1)
 P-arist-left: (b, S), J-dem-left: (B, s) = (0, 1, 0, 1)
 J-dem-left: (b, S), P-arist-left: (B, s) = (1, 0, 1, 0)
 
-**
+# Further Reading
+
+- https://sedecology.com/math
