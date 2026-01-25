@@ -12,4 +12,8 @@ I - 1stInternal/1stExternal
 
 ## 2nd order dichotomy
 
-NT - D
+NT - Democratic/Aristocratic
+NA - +X1/-X1
+NI -  +X6/-X6
+TA - +X2/-X2
+TI - +X5/-X5
