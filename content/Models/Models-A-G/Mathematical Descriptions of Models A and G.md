@@ -34,7 +34,7 @@ The set $I$ is sometimes substituted for the set $\mathcal{E}$, and consequently
 
 Finally, the 'Presence Cube' model demonstrates the constructed vector space on Model A. $F_{MA}$ has size $2^3$ so we can construct a dichotomy system on it. There are only two order 8 subgroups of $\mathbb{S}$, which are isomorphic to the vector space $\mathbb{Z}_{2}^3$, namely Democratic/Aristocratic and Irrational/Rational, denoted $D$ and $J$. Of the two, only $D$ acts transitively on $F_{MA}$ (e.g. Ne can occur in any position in a Democratic type), and the actions of $D$ on $F_{MA}$ are faithful to $\mathbb{S}$. In this sense, this construction of Model A can be can be decomposed into the two orbits of $\mathbb{S}$, one of which can be described as the transitive permutation group 8T3, which is a subgroup of $S_8$ and is isomorphic to $\mathbb{Z}^3_{2}$.
 
-
+Technical note: Charge models (systems of injections) are best viewed as **orbit models**. 
 
 ## What counts as an acceptable system of injections?
 
