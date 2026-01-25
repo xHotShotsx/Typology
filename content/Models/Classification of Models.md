@@ -6,7 +6,7 @@
 |        **Model A2**         |     $16T_{9}$     |                 $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$                  |   **Regular**   |
 | **Model A (Presence Cube)** |     $8T_{3}$      |      **Democratic/Aristocratic** $\cong \mathbb{Z}_{2}^3 \leq \mathbb{S}$       | **Non-regular** |
 |      **Model A (SSS)**      |     $8T_{4}$      |               **Asking/Declaring** $\cong D_{4} \leq \mathbb{S}$                | **Non-regular** |
-|      **Model A (SCS)**      |       $8T2$       | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ | **Non-regular** |
+|      **Model A (SCS)**      |     $8T_{2}$      | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ | **Non-regular** |
 |      **Model G (SHS)**      |     $8T_{2}$      | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ | **Non-regular** |
 |         **Model L**         |     $16T_{3}$     |                    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$                     |   **Regular**   |
 |         **Model W**         |     $16T_{3}$     |                    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$                     |   **Regular**   |
