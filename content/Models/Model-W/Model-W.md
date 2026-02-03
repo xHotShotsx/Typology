@@ -1,5 +1,5 @@
 ---
-sticker: emoji//1f9ca
+sticker: ""
 ---
 
 <div class="model-w-grid">
