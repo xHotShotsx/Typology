@@ -1,4 +1,4 @@
 ---
 sticker: lucide//person-standing
-color: var(--mk-color-red)
+color: var(--mk-color-blue)
 ---
