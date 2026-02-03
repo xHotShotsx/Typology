@@ -1,3 +1,6 @@
+---
+sticker: emoji//1f9ca
+---
 
 <div class="model-w-grid">
   <div class="spacer"><br><small></small></div>
