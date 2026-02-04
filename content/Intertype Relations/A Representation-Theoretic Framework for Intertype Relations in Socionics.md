@@ -176,9 +176,9 @@ $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathbf{V}_{i}}.$$
 
 <img src="/Images/Misc/centirole.png" />
 
-**Figure 2: Centriole Diagram (Bruce Quesada)** (3)
+**Figure 2: Centriole Diagram (Bruce Quesada) (3)**
 
-Intuitionally, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
+**(3) Footnote:** Intuitively, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
 
 # 5. $E_{16}$-Set Models
 
@@ -190,7 +190,9 @@ $$ (X_{i}, \rho_{i}), \quad \rho_{i} : \mathbf{V}_{i} \curvearrowright X_{i}$$
 
 where $X_i$ is the underlying set and $\rho_i$ is the group action.
 
-Since there are 16 orbital-respecting dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}\}$, there are correspondingly up to 16 possible orbital-respecting $E_{16}$-set models ($X_{i}, \rho_{i}$), each associated to its induced relation group $\mathbf{V}_i$.
+Since there are 16 orbital-respecting dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}\}$, there are correspondingly up to 16 possible orbital-respecting $E_{16}$-set models ($X_{i}, \rho_{i}$), each associated to its induced relation group $\mathbf{V}_i$. (4)
+
+***
 
 Examples of such $E_{16}$-set models include Model L (Lowry and White 2018) and Model W (2025), which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
 
