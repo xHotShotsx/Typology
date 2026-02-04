@@ -20,7 +20,7 @@ This paper may be read along multiple paths, depending on the reader's backgroun
 
 ### 1.1.1. For Intuition-First Readers
 
-- Read Sections 1 $\to$ 2 $\to$ 4.1.2 $\to$ 6
+- Read Sections 1 $\to$ 2 $\to$ 4 $\to$ 6
 - Skip formal cohomology language on first pass
 - Treat the "centriole" as the primary mental model
 - The Appendix may be consulted selectively
@@ -170,14 +170,11 @@ The superego dyad is fixed by all homomorphisms between the Socion group and the
 
 $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathbf{V}_{i}}.$$
 
-### 4.1.2. The Centriole
-
-Intuitionally, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
-
-
 <img src="/Images/Misc/centirole.png" />
 
 **Figure 2: Centriole Diagram (Bruce Quesada)**
+
+Intuitionally, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
 
 # 5. $E_{16}$-Set Models
 
