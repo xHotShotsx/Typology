@@ -192,7 +192,7 @@ where $X_i$ is the underlying set and $\rho_i$ is the group action.
 
 Since there are 16 orbital-respecting dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}\}$, there are correspondingly up to 16 possible orbital-respecting $E_{16}$-set models ($X_{i}, \rho_{i}$), each associated to its induced relation group $\mathbf{V}_i$. (4)
 
-***
+**(4) Footnote:** For each orbital-respecting dichotomy system D i , the associated vector space o  relations V i acts regularly on a 16-element set X i (the set o  all  unctions). In GAP’s transitive groupclassifcation, this action corresponds to 16 T 3 , the regular permutation representation o  Z 42. For the list of all transitive permutation groups (along with their corresponding GAP labels) up to order 31, check out: https://people.maths.bris.ac.uk/~matyd/GroupNames/T31.html
 
 Examples of such $E_{16}$-set models include Model L (Lowry and White 2018) and Model W (2025), which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
 
@@ -213,8 +213,6 @@ Under the equivariant bijection $\Theta_{15}$, this corresponds exactly to the s
 $$A_{3} \cdot t \quad \text{and} \quad \rho_{15}(A_{3}) \cdot L_{15}(t)$$
 
 implement the same transformation in two different representations of the same underlying structure.
-
-For each orbital-respecting dichotomy system $\mathcal{D}_i$, the associated vector space of relations $\mathbf{V}_i$ acts regularly on a 16-element set $X_i$ (the set of all functions). In GAP's transitive group classification, this action corresponds to $16T_{3}$, the regular permutation representation of $\mathbb{Z}_2^4$.
 
 
 <img src="/Images/Misc/2d-model-l.png" />
