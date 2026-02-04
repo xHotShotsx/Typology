@@ -86,7 +86,7 @@ $i \quad$ mirage, or illusory
 
 The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$), since by Lagrange's Theorem, subgroup orders must divide $|\mathbb{S}|$. In most cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed (Tencer 2011). (2)
 
-**(2) Footnote:** For the list of subgroups for all small groups. check out: 
+**(2) Footnote:** For the list of subgroups for all small groups. check out: https://https://en.wikipedia.org/wiki/List_of_small_groups.
 
 #### Subgroups of order 2:
 
@@ -176,7 +176,7 @@ $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathbf{V}_{i}}.$$
 
 <img src="/Images/Misc/centirole.png" />
 
-**Figure 2: Centriole Diagram (Bruce Quesada)**
+**Figure 2: Centriole Diagram (Bruce Quesada)** (3)
 
 Intuitionally, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
 
