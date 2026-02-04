@@ -12,7 +12,7 @@ This paper resolves the obstruction by replacing direct group actions with induc
 
 We classify all dichotomy systems preserving orbital structure, characterise their invariant subgroups, and show how selector dichotomies resolve coset ambiguity without generating new relations. This yields a unified representation-theoretic account of classical intertype relations and explains the special status of Reinin, Tencer-Minaev, and all other systems of dichotomies, which respect all orbital dichotomies.
 
-This paper proceeds as follows. Section 2 introduces the foundational combinatorial objects. Section 3 introduces the functor $CD$ that outputs the dichotomies classical intertype relationships respect once one inputs a subgroup of them as inputs (Tencer 2011). Sections 4 develops the group-theoretic framework. Section 5 introduces set models derived from the vector space associated with the dichotomy systems. Section 6 introduces the selector dichotomies. Section 7 defines the representation map that maps intertype relations to vectors.
+This paper proceeds as follows. Section 2 introduces the foundational combinatorial objects. Section 3 introduces the functor $CD$ that outputs the dichotomies classical intertype relationships respect once one inputs a subgroup of them as inputs (Tencer 2011). Section 4 develops the group-theoretic framework. Section 5 introduces set models derived from the vector space associated with the dichotomy systems. Section 6 introduces the selector dichotomies. Section 7 defines the representation map that maps intertype relations to vectors.
 
 ## 1.1. Reader's Map
 
