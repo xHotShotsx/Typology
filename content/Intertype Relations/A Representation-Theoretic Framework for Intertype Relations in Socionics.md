@@ -192,7 +192,7 @@ where $X_i$ is the underlying set and $\rho_i$ is the group action.
 
 Since there are 16 orbital-respecting dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}\}$, there are correspondingly up to 16 possible orbital-respecting $E_{16}$-set models ($X_{i}, \rho_{i}$), each associated to its induced relation group $\mathbf{V}_i$. (4)
 
-**(4) Footnote:** For each orbital-respecting dichotomy system D i , the associated vector space o  relations V i acts regularly on a 16-element set X i (the set o  all  unctions). In GAP’s transitive groupclassifcation, this action corresponds to 16 T 3 , the regular permutation representation o  Z 42. For the list of all transitive permutation groups (along with their corresponding GAP labels) up to order 31, check out: https://people.maths.bris.ac.uk/~matyd/GroupNames/T31.html
+**(4) Footnote:** For each orbital-respecting dichotomy system $\mathcal{D}_i$, the associated vector space of relations $\mathbf{V}_i$ acts regularly on a 16-element set $X_i$ (the set of all functions). In GAP's transitive group classification, this action corresponds to $16T_{3}$, the regular permutation representation of $\mathbb{Z}_2^4$. For the list of all transitive permutation groups (along with their corresponding GAP labels) up to order 31, check out: https://people.maths.bris.ac.uk/~matyd/GroupNames/T31.html
 
 Examples of such $E_{16}$-set models include Model L (Lowry and White 2018) and Model W (2025), which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
 
@@ -290,9 +290,9 @@ Therefore,
 
 $$\mathcal{P}_{i} = T/\mathrm{ker}(\sigma),$$
 
-and each equivalence class corresponds to a unique selector signature, yielding a $k$-chotomy within the vector space $\mathbf{V}_i$.
+and each equivalence class corresponds to a unique selector signature, yielding a $k$-chotomy within the vector space $\mathbf{V}_i$. (5)
 
-**Remark.** The selector signature map $\sigma : T \to \mathbb{Z}^{m-1}_2$ does **not** embed types into a vector space. Rather, it records discrete selector outcomes across non-invariant cosets. The representation space $\mathbf{V}_{i} \cong \mathbb{Z}^4_{2}$ remains the sole algebraic action space. 
+**(5) Footnote.** The selector signature map $\sigma : T \to \mathbb{Z}^{m-1}_2$ does **not** embed types into a vector space. Rather, it records discrete selector outcomes across non-invariant cosets. The representation space $\mathbf{V}_{i} \cong \mathbb{Z}^4_{2}$ remains the sole algebraic action space. 
 
 
 # 7. The Representation Map
