@@ -55,9 +55,9 @@ $\mathbb{S}$: This is the group that comprises all classical Intertype Relations
 $\mathcal{D}_i$: This already has been defined. Its group structure is $E_{16}$ (elementary abelian group of order 16), which is also isomorphic to $\mathbb{Z}_2^4$. Rigorously, an object is a dichotomy system ($\mathfrak{D}$, $t$, $\rho$) where $\mathfrak{D}$ is a dichotomy system, $t$ is any valid type of the Socion, and $\rho$ is an $\mathbb{S}$-action (or representation).  
 $\mathbf{V}_{i}$: the vector space canonically associated with a dichotomy system $\mathcal{D}_{i}$, whose elements encode parity assignments of $\mathcal{D}_{i}$. Elements of $\mathbf{V}_{i}$ act on types of information metabolism (TIMs). Under this identification, each basis dichotomy corresponds to a basis coordinate of $\mathbf{V}_{i}$, while vectors in $\mathbf{V}_{i}$ represent compositions of dichotomy flips. The group operation is XOR, with the zero vector corresponding to the identity action.
 
-**Axiom (Orbital Completeness).** Every dichotomy system $\mathcal{D}_i \in \mathcal{D}$ contains the full set of orbital dichotomies $\mathcal{O}$. These dichotomies are invariant across all systems and arise from the Socion 2-cocycle structure. The variation between systems occurs exclusively in their wall dichotomy subspaces $W_i \subset \mathcal{W}$. (1)
+**Axiom (Orbital Completeness).** Every dichotomy system $\mathcal{D}_i \in \mathcal{D}$ contains the full set of orbital dichotomies $\mathcal{O}$. These dichotomies are invariant across all systems and arise from the Socion 2-cocycle structure. The variation between systems occurs exclusively in their wall dichotomy subspaces $W_i \subset \mathcal{W}$. (2)
 
-**(1) Footnote.** A general dichotomy system $\mathfrak{D}$ is said to lie outside $\mathcal{D}$ if it fails to preserve the full orbital subspace. Such systems may exhibit system-relative invariances, but do not admit the selector structure or induced representations developed here. Systems such as the Keirsey-Berens dichotomies, while structurally interesting, do not preserve the universal orbital core and are therefore fall outside of $\mathcal{D}$.
+**(2) Footnote.** A general dichotomy system $\mathfrak{D}$ is said to lie outside $\mathcal{D}$ if it fails to preserve the full orbital subspace. Such systems may exhibit system-relative invariances, but do not admit the selector structure or induced representations developed here. Systems such as the Keirsey-Berens dichotomies, while structurally interesting, do not preserve the universal orbital core and are therefore fall outside of $\mathcal{D}$.
 
 **Clarifying remark.** Although no explicit cocycle $\omega : \mathbb{S} \times \mathbb{S} \to \mathbb{Z}_{2}$ is constructed, the pairing of relations into superego-orbits and the resulting affine ambiguity correspond to a nontrivial class in $H^2(\mathbb{S}, \mathbb{Z}_{2})$. Throughout, '2-cocycle' is used in the structural sense: to denote a nontrivial obstruction class responsible for superego-pairing and affine ambiguity, not an explicitly constructed cocycle.
 
@@ -84,9 +84,9 @@ $i \quad$ mirage, or illusory
 
 ### 2.1.2. Subgroups of $\mathbb{S}$
 
-The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$), since by Lagrange's Theorem, subgroup orders must divide $|\mathbb{S}|$. In most cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed (Tencer 2011). (2)
+The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$), since by Lagrange's Theorem, subgroup orders must divide $|\mathbb{S}|$. In most cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed (Tencer 2011). (3)
 
-**(2) Footnote.** For the list of subgroups for all small groups. check out: https://https://en.wikipedia.org/wiki/List_of_small_groups.
+**(3) Footnote.** For the list of subgroups for all small groups. check out: https://https://en.wikipedia.org/wiki/List_of_small_groups.
 
 #### Subgroups of order 2:
 
@@ -176,9 +176,9 @@ $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathbf{V}_{i}}.$$
 
 <img src="/Images/Misc/centirole.png" />
 
-**Figure 2: Centriole Diagram (Bruce Quesada) (3)**
+**Figure 2: Centriole Diagram (Bruce Quesada)** (4)
 
-**(3) Footnote.** Intuitively, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
+**(4) Footnote.** Intuitively, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
 
 # 5. $E_{16}$-Set Models
 
