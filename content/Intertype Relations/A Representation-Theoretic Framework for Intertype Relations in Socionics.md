@@ -57,7 +57,7 @@ $\mathbf{V}_{i}$: the vector space canonically associated with a dichotomy syste
 
 **Axiom (Orbital Completeness).** Every dichotomy system $\mathcal{D}_i \in \mathcal{D}$ contains the full set of orbital dichotomies $\mathcal{O}$. These dichotomies are invariant across all systems and arise from the Socion 2-cocycle structure. The variation between systems occurs exclusively in their wall dichotomy subspaces $W_i \subset \mathcal{W}$. (1)
 
-**(1) Footnote:** A general dichotomy system $\mathfrak{D}$ is said to lie outside $\mathcal{D}$ if it fails to preserve the full orbital subspace. Such systems may exhibit system-relative invariances, but do not admit the selector structure or induced representations developed here. Systems such as the Keirsey-Berens dichotomies, while structurally interesting, do not preserve the universal orbital core and are therefore fall outside of $\mathcal{D}$.
+**(1) Footnote.** A general dichotomy system $\mathfrak{D}$ is said to lie outside $\mathcal{D}$ if it fails to preserve the full orbital subspace. Such systems may exhibit system-relative invariances, but do not admit the selector structure or induced representations developed here. Systems such as the Keirsey-Berens dichotomies, while structurally interesting, do not preserve the universal orbital core and are therefore fall outside of $\mathcal{D}$.
 
 **Clarifying remark.** Although no explicit cocycle $\omega : \mathbb{S} \times \mathbb{S} \to \mathbb{Z}_{2}$ is constructed, the pairing of relations into superego-orbits and the resulting affine ambiguity correspond to a nontrivial class in $H^2(\mathbb{S}, \mathbb{Z}_{2})$. Throughout, '2-cocycle' is used in the structural sense: to denote a nontrivial obstruction class responsible for superego-pairing and affine ambiguity, not an explicitly constructed cocycle.
 
@@ -86,7 +86,7 @@ $i \quad$ mirage, or illusory
 
 The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$), since by Lagrange's Theorem, subgroup orders must divide $|\mathbb{S}|$. In most cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed (Tencer 2011). (2)
 
-**(2) Footnote:** For the list of subgroups for all small groups. check out: https://https://en.wikipedia.org/wiki/List_of_small_groups.
+**(2) Footnote.** For the list of subgroups for all small groups. check out: https://https://en.wikipedia.org/wiki/List_of_small_groups.
 
 #### Subgroups of order 2:
 
@@ -178,7 +178,7 @@ $$Z_{\text{univ}} = \bigcap_{i} \mathbb{S}^{\mathbf{V}_{i}}.$$
 
 **Figure 2: Centriole Diagram (Bruce Quesada) (3)**
 
-**(3) Footnote:** Intuitively, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
+**(3) Footnote.** Intuitively, the invariant subgroup may be viewed as a 'centriole' around which relational variance is organised.
 
 # 5. $E_{16}$-Set Models
 
@@ -192,7 +192,7 @@ where $X_i$ is the underlying set and $\rho_i$ is the group action.
 
 Since there are 16 orbital-respecting dichotomy systems $\{\mathcal{D}_{1}, \dots, \mathcal{D}_{16}\}$, there are correspondingly up to 16 possible orbital-respecting $E_{16}$-set models ($X_{i}, \rho_{i}$), each associated to its induced relation group $\mathbf{V}_i$. (4)
 
-**(4) Footnote:** For each orbital-respecting dichotomy system $\mathcal{D}_i$, the associated vector space of relations $\mathbf{V}_i$ acts regularly on a 16-element set $X_i$ (the set of all functions). In GAP's transitive group classification, this action corresponds to $16T_{3}$, the regular permutation representation of $\mathbb{Z}_2^4$. For the list of all transitive permutation groups (along with their corresponding GAP labels) up to order 31, check out: https://people.maths.bris.ac.uk/~matyd/GroupNames/T31.html
+**(4) Footnote.** For each orbital-respecting dichotomy system $\mathcal{D}_i$, the associated vector space of relations $\mathbf{V}_i$ acts regularly on a 16-element set $X_i$ (the set of all functions). In GAP's transitive group classification, this action corresponds to $16T_{3}$, the regular permutation representation of $\mathbb{Z}_2^4$. For the list of all transitive permutation groups (along with their corresponding GAP labels) up to order 31, check out: https://people.maths.bris.ac.uk/~matyd/GroupNames/T31.html
 
 Examples of such $E_{16}$-set models include Model L (Lowry and White 2018) and Model W (2025), which instantiate different $\mathbb{Z}^4_2$-actions on their underlying functional layouts.
 
