@@ -33,7 +33,7 @@ This paper may be read along multiple paths, depending on the reader's backgroun
 
 ### 1.1.3. For Implementation-Oriented Readers
 
-- Read Sections 2 $\to$ 5 $\to$ 6 $\to$ Appendix
+- Read Sections 2 $\to$ 5 $\to$ 6 $\to$ Appendices
 - Focus on equivariant bijections $\Theta_{i}$
 - Use selector tables as lookup rules
 
