@@ -23,7 +23,7 @@ This paper may be read along multiple paths, depending on the reader's backgroun
 - Read Sections 1 $\to$ 2 $\to$ 4 $\to$ 6
 - Skip formal cohomology language on first pass
 - Treat the "centriole" as the primary mental model
-- The Appendix may be consulted selectively
+- The Appendices may be consulted selectively
 
 ### 1.1.2. For Structure-First Readers
 
