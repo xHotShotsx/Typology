@@ -50,6 +50,7 @@ $\mathcal{D}$ denotes the set of all identified, orbital-respecting dichotomy sy
 $\mathcal{W}$ denotes the global collection of all wall (non-orbital) dichotomies that appear in the 16 dichotomy systems.
 
 **(1) Footnote.** This is sometimes referred to as the "Varlawend" spaces.
+
 ## 2.1. Important Groups
 
 $\mathbb{S}$: This is the group that comprises all classical Intertype Relations (ITRs). The structure of this group is isomorphic to $D_{8} \times C_{2}$ (the direct product of the dihedral group of order 8 and the cyclic group of order 2), which is nonabelian. This is also referred to as the "Socion" group.  This is alternatively denoted $D_4 \times \mathbb{Z}_2$, where $D_4$ is the dihedral group that describes the symmetries of a square (including both rotations and reflections), and $\mathbb{Z}_2$ is the group of integers under addition, modulo 2 (Tencer 2011). Throughout this paper, $D_4$ denotes the dihedral group of order 8 (the symmetry group of a square). Some authors use $D_8$; we do not use this convention here.  
@@ -87,7 +88,7 @@ $i \quad$ mirage, or illusory
 
 The subgroups of $\mathbb{S}$ are as follows, discounting the trivial subgroup $\{e\}$ and the whole group itself (isomorphic to $D_4 \times \mathbb{Z}_2$), since by Lagrange's Theorem, subgroup orders must divide $|\mathbb{S}|$. In most cases, sets are expressed using commas and braces, but when no ambiguity results, they will be removed (Tencer 2011). (3)
 
-**(3) Footnote.** For the list of subgroups for all small groups. check out: https://https://en.wikipedia.org/wiki/List_of_small_groups.
+**(3) Footnote.** For the list of subgroups for all small groups, check out: https://https://en.wikipedia.org/wiki/List_of_small_groups.
 
 #### Subgroups of order 2:
 
