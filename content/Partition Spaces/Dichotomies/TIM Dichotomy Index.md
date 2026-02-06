@@ -425,48 +425,6 @@ L¬S: Ne- Te- Fi- Ni-
 
 ¬L¬S: Fe+ Si+ Ti+ Se+
 
-
-### General Dichotomy
-
-G1 = Valid/Null
-
-G2 = Static/Dynamic
-
-G3 = Irrational/Rational
-
-G4 = Extroverted/Introverted
-
-### Half-Dual Dichotomy
-
-H1 = LIE+EII HEF / ESE+LSI HEF
-
-H2 = SEI+IEE HEF / SLE+ILI HEF
-
-H3 = LII+EIE HEF / ESI+LSE HEF
-
-H4 = ILE+SLI HEF / IEI+SEE HEF
-
-### Mirage Dichotomy
-
-M1 = EIE+ESI HEF / LII+LSE HEF
-
-M2 = ILE+IEI HEF / SEE+SLI HEF
-
-M3 = ESE+EII HEF / LSI+LIE HEF
-
-M4 = SEI+SLE HEF / ILI+IEE HEF
-
-### Supralocal Dichotomy
-
-U1 = Democratic/Aristocratic
-
-U2 = Asking/Declaring
-
-U3 = Process/Result
-
-U4 = Positivist/Negativist
-
-
 ## Kindred Business HEF Dichotomies (System 3)
 
 ### 0th order dichotomy
