@@ -1248,7 +1248,7 @@ SP - {SEI LSE ILE ILI SLE ESI IEI IEE}
 
 EIS - Constructivist/Emotivist
 
-EIP - Pragmatic/Affiliative {Se ego + NT}
+EIP - Pragmatic/Affiliative {Se ego + NT} / {Si ego + NF}
 
 ESP - {ILE LII LSE SLI SLE LSI IEE EII}
 
