@@ -1246,6 +1246,27 @@ ES - {ILE ESE LIE LSE LSI ESI IEI EII}
 
 ### 3rd order dichotomy
 
+
+### 4th order dichotomy
+
+EISP - Intuitive/Sensing
+
+### 2nd order dichotomy
+
+IP - {ILE SEI SEE EII IEI LIE SLE SLI}
+
+EI - Progress/Outcome {ILE ESE SEE IEE IEI ILI LSI SLI}
+
+SP - {SEI LSE ILE ILI SLE ESI IEI IEE}
+
+IS - Merry/Serious
+
+EP - Asking/Declaring
+
+ES - {ILE ESE LIE LSE LSI ESI IEI EII}
+
+### 3rd order dichotomy
+
 ISP - Carefree/Farsighted
 
 EIP - Pragmatic/Affiliative {Se ego + NT}
