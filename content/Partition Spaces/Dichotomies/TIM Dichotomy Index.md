@@ -1232,17 +1232,17 @@ P - Process/Result
 
 ### 2nd order dichotomy
 
-IP - {ILE SEI SEE EII IEI LIE SLE SLI}
-
 EI - Progress/Outcome {ILE ESE SEE IEE IEI ILI LSI SLI}
 
 ES - {ILE ESE LIE LSE LSI ESI IEI EII}
 
-SP - {SEI LSE ILE ILI SLE ESI IEI IEE}
-
 EP - Asking/Declaring
 
 IS - Merry/Serious
+
+IP - {ILE SEI SEE EII IEI LIE SLE SLI}
+
+SP - {SEI LSE ILE ILI SLE ESI IEI IEE}
 
 ### 3rd order dichotomy
 
@@ -1257,21 +1257,6 @@ ISP - Carefree/Farsighted
 ### 4th order dichotomy
 
 EISP - Intuitive/Sensing
-
-### 2nd order dichotomy
-
-IP - {ILE SEI SEE EII IEI LIE SLE SLI}
-
-EI - Progress/Outcome {ILE ESE SEE IEE IEI ILI LSI SLI}
-
-SP - {SEI LSE ILE ILI SLE ESI IEI IEE}
-
-IS - Merry/Serious
-
-EP - Asking/Declaring
-
-ES - {ILE ESE LIE LSE LSI ESI IEI EII}
-
 
 
 # References
