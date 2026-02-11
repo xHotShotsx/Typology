@@ -1246,6 +1246,14 @@ ES - {ILE ESE LIE LSE LSI ESI IEI EII}
 
 ### 3rd order dichotomy
 
+EIS 
+
+EIP
+
+ESP
+
+ISP
+
 
 ### 4th order dichotomy
 
