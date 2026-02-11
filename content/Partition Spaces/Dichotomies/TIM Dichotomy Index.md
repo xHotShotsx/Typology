@@ -1236,13 +1236,13 @@ IP - {ILE SEI SEE EII IEI LIE SLE SLI}
 
 EI - Progress/Outcome {ILE ESE SEE IEE IEI ILI LSI SLI}
 
-SP - {SEI LSE ILE ILI SLE ESI IEI IEE}
+ES - {ILE ESE LIE LSE LSI ESI IEI EII}
 
-IS - Merry/Serious
+SP - {SEI LSE ILE ILI SLE ESI IEI IEE}
 
 EP - Asking/Declaring
 
-ES - {ILE ESE LIE LSE LSI ESI IEI EII}
+IS - Merry/Serious
 
 ### 3rd order dichotomy
 
@@ -1253,7 +1253,6 @@ EIP - Pragmatic/Affiliative {Se ego + NT}
 ESP - {ILE LII LSE SLI SLE LSI IEE EII}
 
 ISP - Carefree/Farsighted
-
 
 ### 4th order dichotomy
 
