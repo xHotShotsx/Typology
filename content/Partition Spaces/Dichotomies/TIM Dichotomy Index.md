@@ -1248,11 +1248,11 @@ ES - {ILE ESE LIE LSE LSI ESI IEI EII}
 
 EIS 
 
-EIP
+EIP - Pragmatic/Affiliative {Se ego + NT}
 
-ESP
+ESP - {ILE LII LSE SLI SLE LSI IEE EII}
 
-ISP
+ISP - Carefree/Farsighted
 
 
 ### 4th order dichotomy
