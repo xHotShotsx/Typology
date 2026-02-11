@@ -1265,3 +1265,4 @@ EISP - Intuitive/Sensing
 2. [https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0#heading=h.1vmsoe7mj6yf](https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0%23heading=h.1vmsoe7mj6yf)
 3. [https://www.sedecology.com/math](https://www.sedecology.com/math)
 4. https://varlawend.blogspot.com/2023/06/mathematical-discovery-model-g-has-its.html?m=1
+5. [https://your-trickster.github.io/dichotomies#pragmatic-vs-idealistic](https://your-trickster.github.io/dichotomies#pragmatic-vs-idealistic "https://your-trickster.github.io/dichotomies#pragmatic-vs-idealistic")
