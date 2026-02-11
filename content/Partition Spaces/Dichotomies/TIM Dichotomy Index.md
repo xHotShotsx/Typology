@@ -1246,7 +1246,7 @@ ES - {ILE ESE LIE LSE LSI ESI IEI EII}
 
 ### 3rd order dichotomy
 
-EIS 
+EIS - Constructivist/Emotivist
 
 EIP - Pragmatic/Affiliative {Se ego + NT}
 
@@ -1273,19 +1273,7 @@ EP - Asking/Declaring
 
 ES - {ILE ESE LIE LSE LSI ESI IEI EII}
 
-### 3rd order dichotomy
 
-ISP - Carefree/Farsighted
-
-EIP - Pragmatic/Affiliative {Se ego + NT}
-
-EIS - Constructivist/Emotivist
-
-ESP - {ILE LII LSE SLI SLE LSI IEE EII}
-
-### 4th order dichotomy
-
-EISP - Intuitive/Sensing
 
 # References
 
