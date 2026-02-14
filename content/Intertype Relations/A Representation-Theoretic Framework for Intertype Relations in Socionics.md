@@ -146,15 +146,7 @@ Now, any normal subgroup of order 4 (with the exception of the asymmetric ring g
 
 # 4. The Homomorphism
 
-The action of the vector space of relations on the Socion group is given by a homomorphism 
-
-$$\varphi : E_{16} \longrightarrow \text{Aut}(D_4 \times \mathbb{Z}_2).$$
-
-In the context of Socionic structure, we regard $E_{16}$ as the vector space $\mathbf{V}_{i}$, and $D_4 \times \mathbb{Z}_2$ as the ITR space $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as 
-
-$$\varphi : \mathbf{V}_{i} \longrightarrow \text{Aut}(\mathbb{S}),$$
-
-representing how the vector space acts on the classical group of intertype relations.
+The action of the vector space of relations on the Socion group is given by a homomorphism $$\varphi : E_{16} \longrightarrow \text{Aut}(D_4 \times \mathbb{Z}_2).$$ In the context of the Socionic structure, we regard $E_{16}$ as the vector space $\mathbf{V}_i$ and $D_4 \times \mathbb{Z}_2$ as the group of intertype relations $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as $$\varphi : \mathbf{V}_i \longrightarrow \rm{Aut}(\mathbb{S}),$$ representing how the vector space of relations acts on the classical group of intertype relations.
 
 ## 4.1. Fixed Point Subgroup
 
@@ -307,6 +299,19 @@ which assigns to each intertype relation a 4-bit vector in the vector space $\ma
 - $v_0$ = baseline vector, and;
 - $f_i$ = 1-cocycle $f_i : \mathbb{S} \to \mathbf{V}_{i}$ for the $\mathbb{S}$ action on $\mathbf{V}_{i}$.
 
+# References
+
+1. Newman, M. (2023). [*"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*.](https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html)  Date accessed: 11/11/2025.
+2. Tencer, I. (2011). [*"The Mathematics of Socionics"*.](https://www.scribd.com/document/486953825/socionics-math)  _Scribd._ Date accessed: 29/12/2025.
+
+## Further Reading
+
+- [[The Waffle Spaces]]
+- [[The Waffle Spaces - A Brief Index]]
+- [[TIM Dichotomy Index]]
+- [Model L](https://docs.google.com/document/d/1pyD_Q46InssEXugneWDJUmXfev8856KDsRl2cFEy2Vk/edit?tab=t.0#heading=h.9bjcoj3jp24g)
+- [Model W](https://docs.google.com/document/d/1zyG_1jSp5amzI_I3gHy_N1K8EeIFvx6ueT4FJ8GdLIw/edit?tab=t.0#heading=h.t2qbzyfy8mce)
+- [ЮМП](https://docs.google.com/document/d/106N6CmPL-TSP9Agiz3k3O6TipV4PGCTzDiRBq5kEJH4/edit?tab=t.0)
 
 # Appendices
 ## A. IP Result Compass HEF ($\mathcal{D}_{1}$)
@@ -1466,18 +1471,3 @@ $a \mapsto (0, 1, 0, 1)$
 
 $q \mapsto (0, 1, 0, 1)$  
 $a \mapsto (0, 0, 1, 1)$  
-
-
-# References
-
-1. Newman, M. (2023). [*"There are 16 Distinct Systems of 16-Element Type Dichotomies in Socionics"*.](https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html)  Date accessed: 11/11/2025.
-2. Tencer, I. (2011). [*"The Mathematics of Socionics"*.](https://www.scribd.com/document/486953825/socionics-math)  _Scribd._ Date accessed: 29/12/2025.
-
-## Further Reading
-
-- [[The Waffle Spaces]]
-- [[The Waffle Spaces - A Brief Index]]
-- [[TIM Dichotomy Index]]
-- [Model L](https://docs.google.com/document/d/1pyD_Q46InssEXugneWDJUmXfev8856KDsRl2cFEy2Vk/edit?tab=t.0#heading=h.9bjcoj3jp24g)
-- [Model W](https://docs.google.com/document/d/1zyG_1jSp5amzI_I3gHy_N1K8EeIFvx6ueT4FJ8GdLIw/edit?tab=t.0#heading=h.t2qbzyfy8mce)
-- [ЮМП](https://docs.google.com/document/d/106N6CmPL-TSP9Agiz3k3O6TipV4PGCTzDiRBq5kEJH4/edit?tab=t.0)
