@@ -510,7 +510,7 @@
 	      </tr>
 		 <tr>
 			  <td>(F>N)+ "Notion"</td>
-		      <td>Intuitive</td><td>Static</td><td>Yielding</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Process</td>
+		      <td>Intuitive</td><td>Yielding</td><td>Static</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Process</td>
 		      <td>ILE</td><td>EII</td>
 	    </tr>
 	    <tr>
