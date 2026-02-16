@@ -1220,6 +1220,10 @@ SIP - {ILE SEI SEE ILI} XAND {ESE LII LIE ESI
 
 
 ## Keirsey-Berens Dichotomies (Bonus)
+### 0th order dichotomy
+
+$\emptyset$ - Valid/Null
+
 ### 1st order dichotomy
 
 E - Extroverted/Introverted
@@ -1258,7 +1262,7 @@ ISP - Carefree/Farsighted
 
 EISP - Intuitive/Sensing
 
-# "Lupus"-"Cluster" Dichotomies (Bonus)
+## "Lupus"-"Cluster" Dichotomies (Bonus)
 
 # References
 
