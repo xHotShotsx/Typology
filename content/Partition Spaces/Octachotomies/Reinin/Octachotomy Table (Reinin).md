@@ -604,36 +604,36 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>T</b></td><td><b>EN</b></td><td><b>EN</b></td><td><b>NP</b></td><td><b>ENT</b></td><td><b>ETP</b></td><td><b>NTP</b></td>
+	      <td><b>T</b></td><td><b>EN</b></td><td><b>EP</b></td><td><b>NP</b></td><td><b>ENT</b></td><td><b>ETP</b></td><td><b>NTP</b></td>
 	      </tr>
 		 <tr>
 			  <td>(N>T)+ "Presupposition"</td>
-		      <td>Logical</td><td>Static</td><td>Carefree</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Process</td>
+		      <td>Logical</td><td>Static</td><td>Static</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Process</td>
 		      <td>ILE</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(N>F)- "Expectation"</td>
-		      <td>Ethical</td><td>Static</td><td>Carefree</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Result</td>
+		      <td>Ethical</td><td>Static</td><td>Static</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Result</td>
 		      <td>ESI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(S>T)+ "Appraisal"</td>
-		      <td>Logical</td><td>Dynamic</td><td>Carefree</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Result</td>
+		      <td>Logical</td><td>Dynamic</td><td>Dynamic</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Result</td>
 		      <td>LIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(S>F)- "Desire"</td>
-		      <td>Ethical</td><td>Dynamic</td><td>Carefree</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Process</td>
+		      <td>Ethical</td><td>Dynamic</td><td>Dynamic</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Process</td>
 		      <td>SEI</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(N>T)- "Task"</td>
-		      <td>Logical</td><td>Dynamic</td><td>Farsighted</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Process</td>
+		      <td>Logical</td><td>Dynamic</td><td>Dynamic</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Process</td>
 		      <td>ILI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(N>F)+ "Morale"</td>
-		      <td>Ethical</td><td>Dynamic</td><td>Farsighted</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Result</td>
+		      <td>Ethical</td><td>Dynamic</td><td>Dynamic</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Result</td>
 		      <td>ESE</td><td>IEI</td>
 	    </tr>
 	    <tr>
