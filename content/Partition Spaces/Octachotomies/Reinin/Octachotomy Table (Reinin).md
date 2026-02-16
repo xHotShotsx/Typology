@@ -608,7 +608,7 @@
 	      </tr>
 		 <tr>
 			  <td>(N>T)+ "Presupposition"</td>
-		      <td>Logical</td><td>Static</td><td>Static</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Process</td>
+		      <td>Logical</td><td>Carfe</td><td>Static</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Process</td>
 		      <td>ILE</td><td>LSI</td>
 	    </tr>
 	    <tr>
@@ -638,12 +638,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>(S>T)- "Requirement"</td>
-		      <td>Logical</td><td>Static</td><td>Farsighted</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Result</td>
+		      <td>Logical</td><td>Static</td><td>Static</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Result</td>
 		      <td>LII</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(S>F)+ "Conviction"</td>
-		      <td>Ethical</td><td>Static</td><td>Farsighted</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Process</td>
+		      <td>Ethical</td><td>Static</td><td>Static</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Process</td>
 		      <td>SEE</td><td>EII</td>
 	    </tr>
 	    <tr>
