@@ -515,32 +515,32 @@
 	    </tr>
 	    <tr>
 	    	  <td>(F>S)- "Expedience"</td>
-		      <td>Sensory</td><td>Static</td><td>Yielding</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Result</td>
+		      <td>Sensory</td><td>Yielding</td><td>Static</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Result</td>
 		      <td>SLE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(T>N)+ "Feasibility"</td>
-		      <td>Intuitive</td><td>Dynamic</td><td>Yielding</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Result</td>
+		      <td>Intuitive</td><td>Yielding</td><td>Dynamic</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Result</td>
 		      <td>IEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(T>S)- "Amenity"</td>
-		      <td>Sensory</td><td>Dynamic</td><td>Yielding</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Process</td>
+		      <td>Sensory</td><td>Yielding</td><td>Dynamic</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Process</td>
 		      <td>SEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(F>N)- "Cogency"</td>
-		      <td>Intuitive</td><td>Dynamic</td><td>Obstinate</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Process</td>
+		      <td>Intuitive</td><td>Obstinate</td><td>Dynamic</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Process</td>
 		      <td>EIE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(F>S)+ "Ease"</td>
-		      <td>Sensory</td><td>Dynamic</td><td>Obstinate</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Result</td>
+		      <td>Sensory</td><td>Obstinate</td><td>Dynamic</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Result</td>
 		      <td>ESE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(T>N)- "Validity"</td>
-		      <td>Intuitive</td><td>Obstina</td><td>Static</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Result</td>
+		      <td>Intuitive</td><td>Obstinate</td><td>Static</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Result</td>
 		      <td>LII</td><td>IEE</td>
 	    </tr>
 	    <tr>
