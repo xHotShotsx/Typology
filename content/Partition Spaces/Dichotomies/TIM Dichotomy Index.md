@@ -1258,6 +1258,7 @@ ISP - Carefree/Farsighted
 
 EISP - Intuitive/Sensing
 
+# "Lupus"-"Cluster" Dichotomies (Bonus)
 
 # References
 
