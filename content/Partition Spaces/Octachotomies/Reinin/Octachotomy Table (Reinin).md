@@ -506,7 +506,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>N</b></td><td><b>EP</b></td><td><b>ET</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>NTP</b></td>
+	      <td><b>N</b></td><td><b>ET</b></td><td><b>EP</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>NTP</b></td>
 	      </tr>
 		 <tr>
 			  <td>(F>N)+ "Notion"</td>
@@ -540,12 +540,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>(T>N)- "Validity"</td>
-		      <td>Intuitive</td><td>Static</td><td>Obstinate</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Result</td>
+		      <td>Intuitive</td><td>Obstina</td><td>Static</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Result</td>
 		      <td>LII</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(T>S)+ "Determination"</td>
-		      <td>Sensory</td><td>Static</td><td>Obstinate</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Process</td>
+		      <td>Sensory</td><td>Obstinate</td><td>Static</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Process</td>
 		      <td>LSI</td><td>SEE</td>
 	    </tr>
 	    <tr>
