@@ -1263,7 +1263,85 @@ ISP - Carefree/Farsighted
 EISP - Intuitive/Sensing
 
 ## "Lupus"-"Cluster" Dichotomies (Bonus)
+### 0th order dichotomy
 
+$\emptyset$ - Valid/Null
+
+**
+
+## 1st order dichotomy
+
+T - Logical / Ethical
+
+L - Lazy / Proactive {Ne ego + Pi} / {Se ego + Je}
+
+  
+
+X - {ILE SEI ILI EII SLE LIE ESE ESI}
+
+  
+
+C - Carefree / Farsighted
+
+  
+  
+  
+
+## 2nd order dichotomy
+
+  
+
+TL - {ILE LII ILI SLI ESE EIE SEE ESI}
+
+  
+
+TX - {ILE ILI SLE LIE SEE EIE IEE IEI}
+
+  
+
+TC - Positivist / Negativist
+
+  
+
+LX - Process / Result
+
+  
+
+LC - {ILE SEI IEE SLI ESE SLE SEE LSE}
+
+  
+
+XC - {ILE SEI LIE ESI LII IEI SEE LSE}
+
+  
+
+## 3rd order dichotomy
+
+  
+
+TLX - Tactical / Strategic
+
+  
+
+TLC - {ILE SLE LSE SLI EIE IEI ESI EII}
+
+  
+
+TXC - {ILE LIE LII LSE EII ESE EIE IEE}
+
+  
+
+LXC - Merry / Serious
+
+  
+
+## 4th order dichotomy
+
+  
+
+TLXC - Static / Dynamic
+
+**********
 # References
 
 1. [https://www.wikisocion.net/en/index.php/Reinin_dichotomies](https://www.wikisocion.net/en/index.php/Reinin_dichotomies)
