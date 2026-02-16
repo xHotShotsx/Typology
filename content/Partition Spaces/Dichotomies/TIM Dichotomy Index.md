@@ -1305,7 +1305,7 @@ LXC - Merry / Serious
 
 TLXC - Static / Dynamic
 
-**********
+
 # References
 
 1. [https://www.wikisocion.net/en/index.php/Reinin_dichotomies](https://www.wikisocion.net/en/index.php/Reinin_dichotomies)
