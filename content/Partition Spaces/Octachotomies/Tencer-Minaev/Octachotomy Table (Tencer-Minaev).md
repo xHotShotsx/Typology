@@ -540,12 +540,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>(T>N)- "Reconfiguration"</td>
-		      <td>1stAbstract</td><td>Static</td><td>2ndDelta</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Result</td>
+		      <td>1stAbstract</td><td>2ndDelta</td><td>Static</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Result</td>
 		      <td>LII</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(S>F)+ "Advocacy"</td>
-		      <td>1stInvolved</td><td>Static</td><td>2ndDelta</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Process</td>
+		      <td>1stInvolved</td><td>2ndDelta</td><td>Static</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Process</td>
 		      <td>SEE</td><td>EII</td>
 	    </tr>
 	    <tr>
@@ -604,11 +604,11 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>I</b></td><td><b>QD</b></td><td><b>QA</b></td><td><b>AD</b></td><td><b>QAI</b></td><td><b>QID</b></td><td><b>AID</b></td>
+	      <td><b>I</b></td><td><b>QA</b></td><td><b>QD</b></td><td><b>AD</b></td><td><b>QAI</b></td><td><b>QID</b></td><td><b>AID</b></td>
 	      </tr>
 		 <tr>
 			  <td>(F>N)+ "Kindling"</td>
-		      <td>1stInternal</td><td>Static</td><td>2ndAlpha</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Process</td>
+		      <td>1stInternal</td><td>2ndAlp</td><td>2ndAlpha</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Process</td>
 		      <td>ILE</td><td>EII</td>
 	    </tr>
 	    <tr>
