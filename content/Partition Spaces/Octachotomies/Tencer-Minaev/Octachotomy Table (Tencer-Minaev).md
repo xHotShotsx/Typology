@@ -628,22 +628,22 @@
 	    </tr>
 	    <tr>
 	    	  <td>(F>N)- "Earnestness"</td>
-		      <td>1stInternal</td><td>Dynamic</td><td>2ndGamma</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Process</td>
+		      <td>1stInternal</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Process</td>
 		      <td>EIE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(S>T)+ "Provision"</td>
-		      <td>1stExternal</td><td>Dynamic</td><td>2ndGamma</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Result</td>
+		      <td>1stExternal</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Result</td>
 		      <td>LIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(N>F)- "Opposition"</td>
-		      <td>1stInternal</td><td>Static</td><td>2ndGamma</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Result</td>
+		      <td>1stInternal</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Result</td>
 		      <td>ESI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(T>S)+ "Dissent"</td>
-		      <td>1stExternal</td><td>Static</td><td>2ndGamma</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Process</td>
+		      <td>1stExternal</td><td>2ndGam</td><td>2ndGamma</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Process</td>
 		      <td>LSI</td><td>SEE</td>
 	    </tr>
 	    <tr>
