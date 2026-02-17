@@ -510,17 +510,17 @@
 	      </tr>
 		 <tr>
 			  <td>(N>T)+ "Theorisation"</td>
-		      <td>1stAbstract</td><td>Static</td><td>2ndBeta</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Process</td>
+		      <td>1stAbstract</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Process</td>
 		      <td>ILE</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(F>S)- "Sanction"</td>
-		      <td>1stInvolved</td><td>Static</td><td>2ndBeta</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Result</td>
+			  <td>1stInvolved</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Result</td>
 		      <td>SLE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(T>N)+ "Strategy"</td>
-		      <td>1stAbstract</td><td>Dynamic</td><td>2ndBeta</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Result</td>
+		      <td>1stAbstract</td><td>2ndBeta</td><td></td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Result</td>
 		      <td>IEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
