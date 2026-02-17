@@ -530,12 +530,12 @@
 	    </tr>
 	    <tr>
 	    	  <td>(N>T)- "Prudence"</td>
-		      <td>1stAbstract</td><td>2ndDelta</td><td></td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Process</td>
+		      <td>1stAbstract</td><td>2ndDelta</td><td>Dynamic</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Process</td>
 		      <td>ILI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(F>S)+ "Demeanour"</td>
-		      <td>1stInvolved</td><td>Dynamic</td><td>2ndDelta</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Result</td>
+		      <td>1stInvolved</td><td>2ndDelta</td><td>Dynamic</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Result</td>
 		      <td>ESE</td><td>SLI</td>
 	    </tr>
 	    <tr>
