@@ -506,7 +506,7 @@
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
 	      <tr>
-	      <td><b>A</b></td><td><b>QD</b></td><td><b>QI</b></td><td><b>ID</b></td><td><b>QAI</b></td><td><b>QAD</b></td><td><b>AID</b></td>
+	      <td><b>A</b></td><td><b>QI</b></td><td><b>QD</b></td><td><b>ID</b></td><td><b>QAI</b></td><td><b>QAD</b></td><td><b>AID</b></td>
 	      </tr>
 		 <tr>
 			  <td>(N>T)+ "Theorisation"</td>
