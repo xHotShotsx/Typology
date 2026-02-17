@@ -608,22 +608,22 @@
 	      </tr>
 		 <tr>
 			  <td>(F>N)+ "Kindling"</td>
-		      <td>1stInternal</td><td>2ndAlp</td><td>2ndAlpha</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Process</td>
+		      <td>1stInternal</td><td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Process</td>
 		      <td>ILE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>(S>T)- "Compression"</td>
-		      <td>1stExternal</td><td>Static</td><td>2ndAlpha</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Result</td>
+		      <td>1stExternal</td><td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Result</td>
 		      <td>LII</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(N>F)+ "Idealism"</td>
-		      <td>1stInternal</td><td>Dynamic</td><td>2ndAlpha</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Result</td>
+		      <td>1stInternal</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Result</td>
 		      <td>ESE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>(T>S)- "Conservation"</td>
-		      <td>1stExternal</td><td>Dynamic</td><td>2ndAlpha</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Process</td>
+		      <td>1stExternal</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Process</td>
 		      <td>SEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
