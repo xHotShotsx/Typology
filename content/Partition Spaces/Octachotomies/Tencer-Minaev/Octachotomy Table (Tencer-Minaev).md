@@ -520,17 +520,17 @@
 	    </tr>
 	    <tr>
 	    	  <td>(T>N)+ "Strategy"</td>
-		      <td>1stAbstract</td><td>2ndBeta</td><td></td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Result</td>
+		      <td>1stAbstract</td><td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Result</td>
 		      <td>IEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(S>F)- "Impression"</td>
-		      <td>1stInvolved</td><td>Dynamic</td><td>2ndBeta</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Process</td>
+		      <td>1stInvolved</td><td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Process</td>
 		      <td>SEI</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>(N>T)- "Prudence"</td>
-		      <td>1stAbstract</td><td>Dynamic</td><td>2ndDelta</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Process</td>
+		      <td>1stAbstract</td><td>2ndDelta</td><td></td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Process</td>
 		      <td>ILI</td><td>LSE</td>
 	    </tr>
 	    <tr>
