@@ -6438,4 +6438,5 @@
 
 # Further Reading
 
-- 
+- https://varlawend.blogspot.com/2023/06/mathematical-discovery-model-g-has-its.html?m=1
+- [[Partition Spaces/Dichotomies/TIM Dichotomy Index|TIM Dichotomy Index]]
