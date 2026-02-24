@@ -1,4 +1,4 @@
-# Complete List of all Socionic Octads
+# Complete List of all Socionic Half-Splits
 
 1. ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI (Merry $\in \mathcal{D}_{15}^{\mathrm{(orb)}}$)
 2. ILE,SEI,ESE,LII,EIE,LSI,SLE,SEE
