@@ -1,6 +1,6 @@
 # Complete List of all Socionic Octads
 
-1. ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI (Merry/Serious $\in mathcal$)
+1. ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI (Merry / Serious $\in \mathcal{D}_{15}^{\mathrm{(orb)}}$)
 2. ILE,SEI,ESE,LII,EIE,LSI,SLE,SEE
 3. ILE,SEI,ESE,LII,EIE,LSI,SLE,ILI
 4. ILE,SEI,ESE,LII,EIE,LSI,SLE,LIE
