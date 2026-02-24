@@ -6438,5 +6438,5 @@
 
 # Further Reading
 
-- https://varlawend.blogspot.com/2023/06/mathematical-discovery-model-g-has-its.html?m=1
+- https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
 - [[Partition Spaces/Dichotomies/TIM Dichotomy Index|TIM Dichotomy Index]]
