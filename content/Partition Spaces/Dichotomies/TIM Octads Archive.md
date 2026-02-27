@@ -37,7 +37,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 # Complete List of all Socionic Octads containing the ILE
 
-1. ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI (Merry $\in \mathcal{C}_{g,15}, $)
+1. ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI (Merry $\in \mathcal{C}_{g,15}, \mathcal{C}_{x,1}$)
 2. ILE,SEI,ESE,LII,EIE,LSI,SLE,SEE
 3. ILE,SEI,ESE,LII,EIE,LSI,SLE,ILI
 4. ILE,SEI,ESE,LII,EIE,LSI,SLE,LIE
@@ -531,7 +531,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 492. ILE,SEI,ESE,LII,ESI,LSE,EII,SLI
 493. ILE,SEI,ESE,LII,ESI,LSE,IEE,SLI
 494. ILE,SEI,ESE,LII,ESI,EII,IEE,SLI
-495. ILE,SEI,ESE,LII,LSE,EII,IEE,SLI (Judicious $\in \mathcal{C}_{g,15}$)
+495. ILE,SEI,ESE,LII,LSE,EII,IEE,SLI (Judicious $\in \mathcal{C}_{g,15}, \mathcal{C}_{x,1}$)
 496. ILE,SEI,ESE,EIE,LSI,SLE,IEI,SEE
 497. ILE,SEI,ESE,EIE,LSI,SLE,IEI,ILI
 498. ILE,SEI,ESE,EIE,LSI,SLE,IEI,LIE
@@ -2316,7 +2316,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 2277. ILE,SEI,EIE,LSI,LIE,ESI,LSE,SLI
 2278. ILE,SEI,EIE,LSI,LIE,ESI,EII,IEE
 2279. ILE,SEI,EIE,LSI,LIE,ESI,EII,SLI
-2280. ILE,SEI,EIE,LSI,LIE,ESI,IEE,SLI (Carefree $\in \mathcal{C}_{g,15}$)
+2280. ILE,SEI,EIE,LSI,LIE,ESI,IEE,SLI (Carefree $\in \mathcal{C}_{g,15}, \mathcal{C}_{x,1}$)
 2281. ILE,SEI,EIE,LSI,LIE,LSE,EII,IEE
 2282. ILE,SEI,EIE,LSI,LIE,LSE,EII,SLI
 2283. ILE,SEI,EIE,LSI,LIE,LSE,IEE,SLI
