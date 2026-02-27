@@ -6482,8 +6482,8 @@ Irrational: ILE,SEI,SLE,LIE,ESI,LSE,EII,IEE
 Democratic: ILE,SEI,ESE,LII,IEI,LSE,EII,SLI
 Process: ILE,SEI,EIE,LSI,IEI,LIE,ESI,SLI
 Intuitive: ILE,LII,EIE,SEE,ESI,IEE,SLI
-Logical: ILE,LII, 
-Tactical:
+Logical: ILE,LII,LSI,SLE,IEI,SEE,ESI,EII
+Tactical: ILE,
 Constructivist:
 
 # Further Reading
