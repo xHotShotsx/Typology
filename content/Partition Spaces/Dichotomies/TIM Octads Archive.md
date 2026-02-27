@@ -1,4 +1,7 @@
-$\newcommand$
+$$
+\newcommand{\S}{\mathbb{S}}
+\newcommand{\D}{\mathbb{D}}
+$$
 
 # Updated Notation
 
