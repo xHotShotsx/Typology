@@ -10,7 +10,7 @@ $\mathcal{C}_{H}$ is the class of dichotomy systems that preserve a subgroup $H 
 ## $\mathcal{C}$
 ### Order 1
 
-This class is reserved to systems which no classical relationship respect any nontrivial element in 
+This class is reserved to systems which no nontrivial intertype relation respects dichotomies from   
 ### Order 2
 
 Usually, dichotomy systems are uniquely identified by enumeration when $| H | = 2$. This is to ensure that nontrivial dichotomy systems can uniquely be identified syntactically. And the index uniquely identifies the system relative to the class. It is also possible for a dichotomy system to be a part of several classes, so if for example the Reinin system of dichotomies is enumerated $15$ in one class, it may not be true for every other class.
