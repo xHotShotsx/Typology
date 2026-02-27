@@ -37,7 +37,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 # Complete List of all Socionic Octads containing the ILE
 
-1. ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI (Merry $\in \mathcal{C}_{g,15}$)
+1. ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI (Merry $\in \mathcal{C}_{g,15}, $)
 2. ILE,SEI,ESE,LII,EIE,LSI,SLE,SEE
 3. ILE,SEI,ESE,LII,EIE,LSI,SLE,ILI
 4. ILE,SEI,ESE,LII,EIE,LSI,SLE,LIE
