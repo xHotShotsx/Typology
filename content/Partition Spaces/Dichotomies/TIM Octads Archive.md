@@ -459,7 +459,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 420. ILE,SEI,ESE,LII,IEI,ESI,EII,SLI
 421. ILE,SEI,ESE,LII,IEI,ESI,IEE,SLI
 422. ILE,SEI,ESE,LII,IEI,LSE,EII,IEE (LII HEF + Peripheral Process $\in \mathcal{C}_{g,16}$)
-423. ILE,SEI,ESE,LII,IEI,LSE,EII,SLI
+423. ILE,SEI,ESE,LII,IEI,LSE,EII,SLI $\in \mathcal{C}_{x,2}$
 424. ILE,SEI,ESE,LII,IEI,LSE,IEE,SLI
 425. ILE,SEI,ESE,LII,IEI,EII,IEE,SLI
 426. ILE,SEI,ESE,LII,SEE,ILI,LIE,ESI (Democratic $\in \mathcal{O}$)
@@ -6478,9 +6478,9 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 XOR with:
 
-Irrational: ILE,SEI,SLE,LIE,ESI,LSE,EII,IEE
-Democratic: ILE,SEI,ESE,LII,IEI,LSE,EII,SLI
-Process: ILE,SEI,EIE,LSI,IEI,LIE,ESI,SLI
+Irrational: ILE,SEI,SLE,LIE,ESI,LSE,EII,IEE (#2914)
+Democratic: ILE,SEI,ESE,LII,IEI,LSE,EII,SLI (#423)
+Process: ILE,SEI,EIE,LSI,IEI,LIE,ESI,SLI (#)
 Intuitive: ILE,LII,EIE,SEE,ESI,IEE,SLI
 Logical: ILE,LII,LSI,SLE,IEI,SEE,ESI,EII
 Tactical: ILE,ESE,LSI,SEE,LIE,EII,IEE,SLI
