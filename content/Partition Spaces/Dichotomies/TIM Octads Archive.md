@@ -6473,9 +6473,17 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 6434. ILE,SEE,LIE,ESI,LSE,EII,IEE,SLI
 6435. ILE,ILI,LIE,ESI,LSE,EII,IEE,SLI (EII HEF + Descending Result $\in \mathcal{C}_{g,1}$)
 
-X: ILE,SEI,ESE,LII,EIE,LSI,SLE,IEE
+# Extinguishment (Reinin)
 
-E+X: ILE,ESE,EIE,SLE,
+#8: ILE,SEI,ESE,LII,EIE,LSI,SLE,IEE
+
+XOR witth:
+
+Irrational:
+Democratic:
+Process:
+Merry:
+
 
 # Further Reading
 
