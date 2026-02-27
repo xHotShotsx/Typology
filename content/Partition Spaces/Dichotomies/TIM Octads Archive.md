@@ -6480,8 +6480,8 @@ XOR with:
 
 Irrational: ILE,SEI,SLE,LIE,ESI,LSE,EII,IEE
 Democratic: ILE,SEI,ESE,LII,IEI,LSE,EII,SLI
-Process: 
-Intuitive:
+Process: ILE,SEI,EIE,LSI,IEI,LIE,ESI,SLI
+Intuitive: ILE,LII,EIE,
 Logical:
 Tactical:
 Constructivist:
