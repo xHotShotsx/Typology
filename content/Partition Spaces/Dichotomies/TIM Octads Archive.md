@@ -6473,9 +6473,9 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 6434. ILE,SEE,LIE,ESI,LSE,EII,IEE,SLI
 6435. ILE,ILI,LIE,ESI,LSE,EII,IEE,SLI (EII HEF + Descending Result $\in \mathcal{C}_{g,1}$)
 
-ILE,SEI,ESE,LII,EIE,LSI,SLE,IEE
+X: ILE,SEI,ESE,LII,EIE,LSI,SLE,IEE
 
-
+E+X: ILE,ESE,EIE,SLE,
 
 # Further Reading
 
