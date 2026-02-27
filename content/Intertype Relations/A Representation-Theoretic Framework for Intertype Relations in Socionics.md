@@ -146,7 +146,15 @@ Now, any normal subgroup of order 4 (with the exception of the asymmetric ring g
 
 # 4. The Homomorphism
 
-The action of the vector space of relations on the Socion group is given by a homomorphism $$\varphi : E_{16} \longrightarrow \text{Aut}(D_4 \times \mathbb{Z}_2).$$ In the context of the Socionic structure, we regard $E_{16}$ as the vector space $\mathbf{V}_i$ and $D_4 \times \mathbb{Z}_2$ as the group of intertype relations $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as $$\varphi : \mathbf{V}_i \longrightarrow \rm{Aut}(\mathbb{S}),$$ representing how the vector space of relations acts on the classical group of intertype relations.
+The action of the vector space of relations on the Socion group is given by a homomorphism 
+
+$$\varphi : E_{16} \longrightarrow \text{Aut}(D_4 \times \mathbb{Z}_2).$$
+
+In the context of the Socionic structure, we regard $E_{16}$ as the vector space $\mathbf{V}_i$ and $D_4 \times \mathbb{Z}_2$ as the group of intertype relations $\mathbb{S}$. Hence, in this interpretative framework, the same homomorphism is expressed as 
+
+$$\varphi : \mathbf{V}_i \longrightarrow \rm{Aut}(\mathbb{S}),$$
+
+representing how the vector space of relations acts on the classical group of intertype relations.
 
 ## 4.1. Fixed Point Subgroup
 
