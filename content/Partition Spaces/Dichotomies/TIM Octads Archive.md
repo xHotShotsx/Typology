@@ -44,7 +44,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 5. ILE,SEI,ESE,LII,EIE,LSI,SLE,ESI
 6. ILE,SEI,ESE,LII,EIE,LSI,SLE,LSE
 7. ILE,SEI,ESE,LII,EIE,LSI,SLE,EII
-8. ILE,SEI,ESE,LII,EIE,LSI,SLE,IEE $\mathcal{C}_{x,1}$
+8. ILE,SEI,ESE,LII,EIE,LSI,SLE,IEE $\in \mathcal{C}_{x,2}$
 9. ILE,SEI,ESE,LII,EIE,LSI,SLE,SLI (ESE HEF + Ascending Process $\in \mathcal{C}_{g,16}$)
 10. ILE,SEI,ESE,LII,EIE,LSI,IEI,SEE
 11. ILE,SEI,ESE,LII,EIE,LSI,IEI,ILI
@@ -6472,6 +6472,10 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 6433. ILE,SEE,ILI,ESI,LSE,EII,IEE,SLI
 6434. ILE,SEE,LIE,ESI,LSE,EII,IEE,SLI
 6435. ILE,ILI,LIE,ESI,LSE,EII,IEE,SLI (EII HEF + Descending Result $\in \mathcal{C}_{g,1}$)
+
+ILE,SEI,ESE,LII,EIE,LSI,SLE,IEE
+
+
 
 # Further Reading
 
