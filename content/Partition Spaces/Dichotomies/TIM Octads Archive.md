@@ -1,3 +1,7 @@
+# Updated Notation
+
+
+
 # Complete List of all Socionic Octads containing the ILE
 
 1. ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI (Merry $\in \mathcal{C}_{g,15}$)
