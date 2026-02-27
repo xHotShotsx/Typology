@@ -6479,8 +6479,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 XOR with:
 
 Irrational: ILE,SEI,SLE,LIE,ESI,LSE,EII,IEE
-Democratic: ILE,SEI,ESE,LII,
-Process:
+Democratic: ILE,SEI,ESE,LII,IEI,LSE,EII,SLI
+Process: 
 Intuitive:
 Logical:
 Tactical:
