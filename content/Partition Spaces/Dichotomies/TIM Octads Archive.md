@@ -6486,6 +6486,7 @@ Logical: ILE,LII,LSI,SLE,IEI,SEE,ESI,EII (#5194)
 Tactical: ILE,ESE,LSI,SEE,LIE,EII,IEE,SLI (#4483)
 Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 
+## 
 # Further Reading
 
 - https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
