@@ -6476,9 +6476,9 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 # Extinguishment (Reinin)
 ## ILE,SEI,ESE,LII,EIE,LSI,SLE,IEE (#8)
 
-XOR witth:
+XOR with:
 
-Irrational: ILE,SEI,SLE,IEE,
+Irrational: ILE,SEI,SLE,IEE,LIE,ESI,LSE,EII
 Democratic:
 Process:
 Intuitive:
