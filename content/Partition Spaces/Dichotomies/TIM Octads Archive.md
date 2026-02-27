@@ -30,7 +30,8 @@ $$\begin{matrix} \mathrm{Subgroup} & \mathrm{Notation = Description} \\ \\ \{ e,
 
 ### Order 8
 
-This class has size 2, which contain the Reinin and Tencer-Minaev systems of dichotomies, since for $H \cong \mathbb{Z}^3_{2}$ when $H$ is the Democratic/Aristocratic or Irrational/Rational subgrouo
+This class has size 2, which contain the Reinin and Tencer-Minaev systems of dichotomies, since for $H \cong \mathbb{Z}^3_{2}$ when $H$ is the Democratic/Aristocratic or Irrational/Rational subgroup. And $CD(H)$ when $|H|=8$ spits out either the Reinin or Tencer-Minaev dichotomies, depending on the subgroup inputted.
+
 # Complete List of all Socionic Octads containing the ILE
 
 1. ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI (Merry $\in \mathcal{C}_{g,15}$)
