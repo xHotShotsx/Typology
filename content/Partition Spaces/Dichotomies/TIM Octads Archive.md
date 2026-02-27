@@ -18,7 +18,7 @@ Usually, dichotomy systems are uniquely identified by enumeration when $| H | = 
 
 Subgroups are typically denoted using commas and braces, but when no ambiguity arises, they will be removed, so $\mathcal{C}_{\{ e,r \}} := \mathcal{C}_{r}$.
 
-If $H = \{e,g\}$, then it is part of the 'orbital respecting' class. These systems keep the superego relationship invariant and contain all 7 orbital dichotomies, so $\mathcal{C}_{g} := \mathcal{D}$, and since the enumeration will, for all intents the purposes, the same for this particular class 
+If $H = \{e,g\}$, then it is part of the 'orbital respecting' class. These systems keep the superego relationship invariant and contain all 7 orbital dichotomies, so $\mathcal{C}_{g} := \mathcal{D}$, and since the enumeration will, for all intents the purposes, be the same for this particular class and thus $\mathcal{C}_{g,i} := \mathcal{D}_{i}$. More   
 
 # Complete List of all Socionic Octads containing the ILE
 
