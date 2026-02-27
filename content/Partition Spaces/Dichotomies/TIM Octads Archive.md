@@ -28,11 +28,11 @@ For any $|H| > 2$, these will be dubbed the 'meta classes', as they can be defin
 
 $$\begin{matrix}
 \mathrm{Subgroup} & \mathrm{Notation = Description} \\ \\
-\{ e,g,x,d \} & Z = \text{Stress Resistance or 'Central'} \\
-\{ e,g,a,q \} & O = \text{Positivity Group or 'Orientation'} \\
+\{ e,g,x,d \} & Z = \text{'Central' or Stress Resistance} \\
+\{ e,g,a,q \} & O = \text{'Orientation' or Positivity Group} \\
 \{ e,g,i,h \} & \Delta = \text{Displacement} \\
-\{ e,g,k,l \} & G = \text{Temperament or 'General'} \\ \\
-\{ e,g,c,m \}
+\{ e,g,k,l \} & G = \text{'General' or Temperament} \\
+\{ e,g,c,m \} & V = \text{'Vector' or Challenge Response Group}
 
 \end{matrix}$$
 # Complete List of all Socionic Octads containing the ILE
