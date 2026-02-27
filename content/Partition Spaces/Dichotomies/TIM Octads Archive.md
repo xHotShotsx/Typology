@@ -26,15 +26,11 @@ $$\mathcal{C}_{g,15} := \mathcal{D}_{15} := \text{Reinin System}.$$
 
 For any $|H| > 2$, these will be dubbed the 'meta classes', as they can be defined using smaller classes of dichotomy systems. For any normal subgroup $H \cong \mathbb{Z}^2_{2}$, they will be abbreviated using capital letters as notation, usually to denote an 'orbital tetrachotomy'.
 
-$$\begin{matrix}
-\mathrm{Subgroup} & \mathrm{Notation = Description} \\ \\
-\{ e,g,x,d \} & Z = \text{'Central' or Stress Resistance} \\
-\{ e,g,a,q \} & O = \text{'Orientation' or Positivity Group} \\
-\{ e,g,i,h \} & \Delta = \text{Displacement} \\
-\{ e,g,k,l \} & G = \text{'General' or Temperament} \\
-\{ e,g,c,m \} & V = \text{'Vector' or Challenge Response Group}
+$$\begin{matrix} \mathrm{Subgroup} & \mathrm{Notation = Description} \\ \\ \{ e,g,x,d \} & Z = \text{'Central' or Stress Resistance} \\ \{ e,g,a,q \} & O = \text{'Orientation' or Positivity Group} \\ \{ e,g,i,h \} & \Delta = \text{Displacement} \\ \{ e,g,k,l \} & G = \text{'General' or Temperament} \\ \{ e,g,c,m \} & V = \text{'Vector' or Challenge Response Group} \end{matrix}$$
 
-\end{matrix}$$
+### Order 8
+
+This class has size 2, which contain the Reinin a
 # Complete List of all Socionic Octads containing the ILE
 
 1. ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI (Merry $\in \mathcal{C}_{g,15}$)
