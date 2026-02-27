@@ -24,7 +24,7 @@ $$\mathcal{C}_{g,15} := \mathcal{D}_{15} := \text{Reinin System}.$$
 
 ### Order 4
 
-For any $|H$
+For any $|H| > 2$, these will be dubbed the 'meta classes', as they can be defined using smaller classes of dichotomy systems. 
 # Complete List of all Socionic Octads containing the ILE
 
 1. ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI (Merry $\in \mathcal{C}_{g,15}$)
