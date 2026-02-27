@@ -10,12 +10,13 @@ $\mathcal{C}_{H}$ is the class of dichotomy systems that preserve a subgroup $H 
 ## $\mathcal{C}$
 ### Order 1
 
-This class is reserved to systems which no nontrivial intertype relation respects dichotomies from a dichotomy system $\mathfrak{D} \in \mathcal{C}_{\{ e \}}$, either by preserving a trait or flipping it for any given dichotomy $$$$  
+This class is reserved to systems which no nontrivial intertype relation respects dichotomies from a dichotomy system $\mathfrak{D} \in \mathcal{C}_{\{ e \}}$, either by preserving a trait or flipping it for any given dichotomy $\mathfrak{d} \in \mathfrak{D}$.
+
 ### Order 2
 
 Usually, dichotomy systems are uniquely identified by enumeration when $| H | = 2$. This is to ensure that nontrivial dichotomy systems can uniquely be identified syntactically. And the index uniquely identifies the system relative to the class. It is also possible for a dichotomy system to be a part of several classes, so if for example the Reinin system of dichotomies is enumerated $15$ in one class, it may not be true for every other class.
 
-Subgroups are typically When no ambiguity arises, 
+Subgroups are typically denoted using commas and braces, but when no ambiguity arises, they wio 
 If $H = \{\}$ 
 
 # Complete List of all Socionic Octads containing the ILE
