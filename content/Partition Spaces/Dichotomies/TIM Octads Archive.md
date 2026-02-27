@@ -6474,7 +6474,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 6435. ILE,ILI,LIE,ESI,LSE,EII,IEE,SLI (EII HEF + Descending Result $\in \mathcal{C}_{g,1}$)
 
 # Extinguishment (Reinin)
-## ILE,SEI,ESE,LII,EIE,LSI,SLE,IEE (#8)
+## ILE,SEI,ESE,LII,EIE,LSI,SLE,IEE (#8) $\in \mathcal{C}_{x,2}$
 
 XOR with:
 
