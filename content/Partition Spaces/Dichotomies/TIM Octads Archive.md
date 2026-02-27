@@ -6484,7 +6484,7 @@ Process: ILE,SEI,EIE,LSI,IEI,LIE,ESI,SLI
 Intuitive: ILE,LII,EIE,SEE,ESI,IEE,SLI
 Logical: ILE,LII,LSI,SLE,IEI,SEE,ESI,EII
 Tactical: ILE,ESE,LSI,SEE,LIE,EII,IEE,SLI
-Constructivist: 
+Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE
 
 # Further Reading
 
