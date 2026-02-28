@@ -6522,7 +6522,10 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 #2808: Irrational / Rational  
 #2229: Process / Irrational  
 #426: Democratic / Aristocratic  
-
+#495: Judicious / Decisive  
+#1: Merry / Serious  
+#2280: Carefree / Farsighted  
+#
 
 # Further Reading
 
