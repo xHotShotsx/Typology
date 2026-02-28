@@ -6512,9 +6512,12 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 #2808: Irrational / Rational  
 #2229: Process / Irrational  
 #426: Democratic / Aristocratic  
-#5348: 1stAbstract / 1stInvolved
-#4180: 1strInternal / 
+#5348: 1stAbstract / 1stInvolved  
+#4180: 1stInternal / 1stExternal  
+#5029: 2ndAbstract / 2ndInvolved  
+#4361: 2ndExternal / 2ndInternal  
 
+## $\mathca$
 
 # Further Reading
 
