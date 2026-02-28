@@ -6488,6 +6488,9 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 
 # Glossary of Dichotomy System Classes based on Invariant Dichotomies
 ## $\mathcal{C}_{g} \text{ or } \mathcal{O}$
+
+
+
 # Further Reading
 
 - https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
