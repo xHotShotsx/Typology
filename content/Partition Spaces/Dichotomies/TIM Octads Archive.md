@@ -6489,7 +6489,7 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 # Glossary of Dichotomy System Classes based on Invariant Dichotomies
 ## $\mathcal{C}_{g} \text{ or } \mathcal{O}$
 
-
+Irrational / Rational
 
 # Further Reading
 
