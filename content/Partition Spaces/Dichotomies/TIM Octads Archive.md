@@ -6534,7 +6534,9 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 #426: Democratic / Aristocratic  
 #45: 1stAlpha / 1stGamma  
 #3003: 1stDelta / 1stBeta  
-#308: 2ndAlpha / 2ndGamma  
+#308: 2ndAlpha / 2ndGamma    
+2093: 2ndBeta / 2ndDelta  
+
 # Further Reading
 
 - https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
