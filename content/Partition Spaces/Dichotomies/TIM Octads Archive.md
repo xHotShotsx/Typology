@@ -6502,8 +6502,10 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 #2808: Irrational / Rational  
 #2229: Process / Irrational  
 #426: Democratic / Aristocratic  
-#5098
-#5279
+#5098:
+#5279:
+#4430:
+#4111:
 
 # Further Reading
 
