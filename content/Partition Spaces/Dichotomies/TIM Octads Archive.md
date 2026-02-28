@@ -6525,7 +6525,8 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 #495: Judicious / Decisive  
 #1: Merry / Serious  
 #2280: Carefree / Farsighted  
-#
+#2849: Yielding / Obstinate  
+
 
 # Further Reading
 
