@@ -6517,7 +6517,9 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 #5029: 2ndAbstract / 2ndInvolved  
 #4361: 2ndExternal / 2ndInternal  
 
-## $\mathca$
+## $\mathcal{C}_{d,1-16}$
+
+#
 
 # Further Reading
 
