@@ -6532,6 +6532,8 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 #2808: Irrational / Rational  
 #2229: Process / Irrational  
 #426: Democratic / Aristocratic  
+#45: 1stAlpha / 1stGamma  
+#
 # Further Reading
 
 - https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
