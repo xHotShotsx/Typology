@@ -6493,6 +6493,8 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 #2229: Process / Irrational  
 #426: Democratic / Aristocratic  
 #4082: Extroverted / Introverted
+#5266: Static / Dynamic
+
 
 
 # Further Reading
