@@ -6487,7 +6487,7 @@ Tactical: ILE,ESE,LSI,SEE,LIE,EII,IEE,SLI (#4483)
 Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)  
 
 # Glossary of Dichotomy System Classes based on Invariant Dichotomies
-## $\mathcal{C}_{g}$
+## $\mathcal{C}_{g} \text{ or } \mathcal{D}$
 
 #2808: Irrational / Rational  
 #2229: Process / Irrational  
@@ -6506,6 +6506,8 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 #5279: Logical / Ethical  
 #4430: Tactical / Strategic  
 #4111: Constructivist / Emotivist  
+
+## $\mathcal{C}_{x}$
 
 # Further Reading
 
