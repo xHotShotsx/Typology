@@ -6527,7 +6527,11 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 #2280: Carefree / Farsighted  
 #2849: Yielding / Obstinate  
 
+## $\mathcal{C}_{d,17-32}$
 
+#2808: Irrational / Rational  
+#2229: Process / Irrational  
+#426: Democratic / Aristocratic  
 # Further Reading
 
 - https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
