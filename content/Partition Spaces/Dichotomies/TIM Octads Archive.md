@@ -6473,18 +6473,6 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 6434. ILE,SEE,LIE,ESI,LSE,EII,IEE,SLI
 6435. ILE,ILI,LIE,ESI,LSE,EII,IEE,SLI (EII HEF + Descending Result $\in \mathcal{C}_{g,1}$)
 
-# Extinguishment (Reinin)
-## ILE,SEI,ESE,LII,EIE,LSI,SLE,IEE (#8) $\in \mathcal{C}_{x,16}$
-
-XOR with:
-
-Irrational: ILE,SEI,SLE,LIE,ESI,LSE,EII,IEE (#2914)  
-Democratic: ILE,SEI,ESE,LII,IEI,LSE,EII,SLI (#423)  
-Process: ILE,SEI,EIE,LSI,IEI,LIE,ESI,SLI (#2203)  
-Intuitive: ILE,LII,EIE,SEE,ESI,LSE,IEE,SLI (#5158)  
-Logical: ILE,LII,LSI,SLE,IEI,SEE,ESI,EII (#5194)  
-Tactical: ILE,ESE,LSI,SEE,LIE,EII,IEE,SLI (#4483)  
-Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)  
 
 # Glossary of Dichotomy System Classes based on Invariant Dichotomies
 ## $\mathcal{C}_{g} \text{ or } \mathcal{D}$
@@ -6536,6 +6524,7 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 #3003: 1stDelta / 1stBeta  
 #308: 2ndAlpha / 2ndGamma    
 2093: 2ndBeta / 2ndDelta  
+
 
 # Further Reading
 
