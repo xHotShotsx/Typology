@@ -6478,13 +6478,13 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 XOR with:
 
-Irrational: ILE,SEI,SLE,LIE,ESI,LSE,EII,IEE (#2914)
-Democratic: ILE,SEI,ESE,LII,IEI,LSE,EII,SLI (#423)
-Process: ILE,SEI,EIE,LSI,IEI,LIE,ESI,SLI (#2203)
-Intuitive: ILE,LII,EIE,SEE,ESI,LSE,IEE,SLI (#5158)
-Logical: ILE,LII,LSI,SLE,IEI,SEE,ESI,EII (#5194)
-Tactical: ILE,ESE,LSI,SEE,LIE,EII,IEE,SLI (#4483)
-Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
+Irrational: ILE,SEI,SLE,LIE,ESI,LSE,EII,IEE (#2914)  
+Democratic: ILE,SEI,ESE,LII,IEI,LSE,EII,SLI (#423)  
+Process: ILE,SEI,EIE,LSI,IEI,LIE,ESI,SLI (#2203)  
+Intuitive: ILE,LII,EIE,SEE,ESI,LSE,IEE,SLI (#5158)  
+Logical: ILE,LII,LSI,SLE,IEI,SEE,ESI,EII (#5194)  
+Tactical: ILE,ESE,LSI,SEE,LIE,EII,IEE,SLI (#4483)  
+Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)  
 
 ## 
 # Further Reading
