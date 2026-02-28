@@ -6502,10 +6502,10 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 #2808: Irrational / Rational  
 #2229: Process / Irrational  
 #426: Democratic / Aristocratic  
-#5098:
-#5279:
-#4430:
-#4111:
+#5098: Intuitive / Sensing  
+#5279: Logical / Ethical  
+#4430: Tactical / Strategic  
+#4111: Constructivist / Emotivist  
 
 # Further Reading
 
