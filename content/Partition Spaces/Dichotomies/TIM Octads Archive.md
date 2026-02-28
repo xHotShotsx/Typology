@@ -6507,7 +6507,13 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 #4430: Tactical / Strategic  
 #4111: Constructivist / Emotivist  
 
-## $\mathcal{C}_{x}$
+## $\mathcal{C}_{x,17-32}$
+
+#2808: Irrational / Rational  
+#2229: Process / Irrational  
+#426: Democratic / Aristocratic  
+
+
 
 # Further Reading
 
