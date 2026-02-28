@@ -6492,13 +6492,18 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 #2808: Irrational / Rational  
 #2229: Process / Irrational  
 #426: Democratic / Aristocratic  
-#4082: Extroverted / Introverted
-#5266: Static / Dynamic
-#4407: Positivist / Negativist
-#5083: Asking / Declaring
+#4082: Extroverted / Introverted  
+#5266: Static / Dynamic  
+#4407: Positivist / Negativist  
+#5083: Asking / Declaring  
 
-## $\mathcal{}$
+## $\mathcal{C}_{x,1-16}$
 
+#2808: Irrational / Rational  
+#2229: Process / Irrational  
+#426: Democratic / Aristocratic  
+#5098
+#5279
 
 # Further Reading
 
