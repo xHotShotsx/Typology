@@ -6519,7 +6519,10 @@ Constructivist: ILE,ESE,EIE,SLE,IEI,SEE,LIE,LSE (#4013)
 
 ## $\mathcal{C}_{d,1-16}$
 
-#
+#2808: Irrational / Rational  
+#2229: Process / Irrational  
+#426: Democratic / Aristocratic  
+
 
 # Further Reading
 
