@@ -6523,7 +6523,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #45: 1stAlpha / 1stGamma  
 #3003: 1stDelta / 1stBeta  
 #308: 2ndAlpha / 2ndGamma    
-2093: 2ndBeta / 2ndDelta  
+#2093: 2ndBeta / 2ndDelta  
 
 
 # Further Reading
