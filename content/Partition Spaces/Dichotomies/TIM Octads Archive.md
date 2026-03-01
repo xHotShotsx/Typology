@@ -6491,7 +6491,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2229: Process / Irrational  
 #426: Democratic / Aristocratic  
 #5098: Intuitive / Sensing  
-#5279: Logical / Ethical  44
+#5279: Logical / Ethical  
 #4430: Tactical / Strategic  
 #4111: Constructivist / Emotivist  
 
