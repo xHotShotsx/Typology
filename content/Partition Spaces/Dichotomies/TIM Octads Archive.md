@@ -6470,7 +6470,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 6431. ILE,SEE,ILI,LIE,ESI,EII,IEE,SLI
 6432. ILE,SEE,ILI,LIE,LSE,EII,IEE,SLI
 6433. ILE,SEE,ILI,ESI,LSE,EII,IEE,SLI
-6434. ILE,SEE,LIE,ESI,LSE,EII,IEE,SLI $\in \mathcal{C}$
+6434. ILE,SEE,LIE,ESI,LSE,EII,IEE,SLI $\in \mathcal{C}_{x,1}$
 6435. ILE,ILI,LIE,ESI,LSE,EII,IEE,SLI (EII HEF + Descending Result $\in \mathcal{C}_{g,1}$)
 
 
