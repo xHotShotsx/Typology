@@ -7,7 +7,7 @@ $\mathcal{D}$ denotes the set of all identified, orbital-respecting dichotomy sy
 $\mathcal{W}$ denotes the global collection of all wall (non-orbital) dichotomies that appear in the 16 dichotomy systems.  
 $\mathbb{D}$ denotes the universal collection of all of dichotomy systems $\mathfrak{D}$ that may act on the set of types, $T$.  
 $\mathcal{C}_{H}$ is the class of dichotomy systems that preserve a subgroup $H < \mathbb{S}$.
-
+hugvhuikbj iubjjkjbknjbkbjk
 ## $\mathcal{C}$
 ### Order 1
 
