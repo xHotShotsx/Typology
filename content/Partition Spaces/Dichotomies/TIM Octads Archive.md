@@ -6545,7 +6545,12 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #80: SEI+ESE HEF / ILI+LIE HEF  
 #225: ILE+LII HEF / SEE+ESI HEF  
 
-## $\mathcal{C}_{q,17-32}$
+## $\mathcal{C}_{q,1-16}$
+
+#426: Democratic / Aristocratic  
+#4082: Extroverted / Introverted  
+#4407: Positivist / Negativist  
+#
 
 # Further Reading
 
