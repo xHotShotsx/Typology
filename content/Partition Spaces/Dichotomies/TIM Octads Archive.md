@@ -81,7 +81,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #42: ILE,SEI,ESE,LII,EIE,LSI,LSE,SLI
 #43: ILE,SEI,ESE,LII,EIE,LSI,EII,IEE
 #44: ILE,SEI,ESE,LII,EIE,LSI,EII,SLI
-#45: ILE,SEI,ESE,LII,EIE,LSI,IEE,SLI (1stAlpha $\in \mathcal{C}_{g,14}$)
+#45: ILE,SEI,ESE,LII,EIE,LSI,IEE,SLI (1stAlpha $\in \mathcal{C}_{g,14}, \mathcal{C}_{x,14})
 #46: ILE,SEI,ESE,LII,EIE,SLE,IEI,SEE
 #47: ILE,SEI,ESE,LII,EIE,SLE,IEI,ILI
 #48: ILE,SEI,ESE,LII,EIE,SLE,IEI,LIE
