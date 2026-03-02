@@ -6532,6 +6532,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4407: Positivist / Negativist  
 #495: Judicious / Decisive  
 #1: Merry / Serious  
+#4430: Tactical / Strategic  
+#4111: Constru
 
 # Further Reading
 
