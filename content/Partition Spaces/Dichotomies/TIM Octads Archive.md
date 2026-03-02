@@ -6541,7 +6541,6 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4082: Extroverted / Introverted  
 #4407: Positivist / Negativist  
 
-
 # Further Reading
 
 - https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
