@@ -6527,7 +6527,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 ## $\mathcal{C}_{a,1-16}$
 
-
+#426: Democratic / Aristocratic  
+#
 
 
 
