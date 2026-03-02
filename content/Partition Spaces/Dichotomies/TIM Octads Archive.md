@@ -6552,7 +6552,15 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4407: Positivist / Negativist  
 #5098: Intuitive / Sensory  
 #5279: Logical / Ethical  
-#2280: Carefree / Farsighted  
+#2280: Carefree / Farsighted    
+#2849: Yielding / Obstinate  
+
+## $\mathcal{C}_{q,17-32}$
+
+#426: Democratic / Aristocratic  
+#4082: Extroverted / Introverted  
+#4407: Positivist / Negativist  
+#5473:
 
 # Further Reading
 
