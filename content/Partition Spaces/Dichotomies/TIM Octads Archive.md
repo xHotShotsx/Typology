@@ -3039,7 +3039,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3000: ILE,SEI,ILI,LIE,ESI,EII,IEE,SLI
 #3001: ILE,SEI,ILI,LIE,LSE,EII,IEE,SLI
 #3002: ILE,SEI,ILI,ESI,LSE,EII,IEE,SLI
-#3003: ILE,SEI,LIE,ESI,LSE,EII,IEE,SLI (1stDelta $\in \mathcal{C}_{g,14}$)
+#3003: ILE,SEI,LIE,ESI,LSE,EII,IEE,SLI (1stDelta $\in \mathcal{C}_{g,14}, \mathcal{C}_{x,14}$)
 #3004: ILE,ESE,LII,EIE,LSI,SLE,IEI,SEE $\in \mathcal{C}_{x,4}$
 #3005: ILE,ESE,LII,EIE,LSI,SLE,IEI,ILI (EIE HEF + Ascending Result $\in \mathcal{C}_{g,4}$)
 #3006: ILE,ESE,LII,EIE,LSI,SLE,IEI,LIE
