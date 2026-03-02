@@ -6562,8 +6562,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4407: Positivist / Negativist  
 #5473: SLE+EII HEF / LSI+IEE HEF  
 #4904: EIE+SLI HEF / IEI+LSE HEF  
-#2655: ILE+ESI HEF / LII+SEE HEF
-#2474: SEI+LIE HEF 
+#2655: ILE+ESI HEF / LII+SEE HEF  
+#2474: SEI+LIE HEF / ESE+ILI HEF  
 
 
 # Further Reading
