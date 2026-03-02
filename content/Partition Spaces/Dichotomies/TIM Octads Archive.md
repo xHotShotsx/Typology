@@ -6533,7 +6533,14 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #495: Judicious / Decisive  
 #1: Merry / Serious  
 #4430: Tactical / Strategic  
-#4111: Constru
+#4111: Constructivist / Emotivist  
+
+## $\mathcal{C}_{a,17-32}$
+
+#426: Democratic / Aristocratic  
+#4082: Extroverted / Introverted  
+#4407: Positivist / Negativist  
+
 
 # Further Reading
 
