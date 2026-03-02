@@ -6525,6 +6525,9 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #308: 2ndAlpha / 2ndGamma    
 #2093: 2ndBeta / 2ndDelta  
 
+## $\mathcal{C}_{a,1-16}$
+
+
 
 
 
