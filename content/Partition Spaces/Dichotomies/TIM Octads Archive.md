@@ -33,13 +33,13 @@ $$\begin{matrix} \mathrm{Subgroup} & \mathrm{Notation = Description} \\ \\ \{ e,
 
 The subgroup lattice of $\mathbb{S}$ imposes a propagation rule:
 
-Preservation of any non-central relation $r$ automatically entails preservation o8f the unique normal subgroup $H_{r}$ containing it.
+Preservation of any non-central relation $r$ automatically entails preservation of the unique normal subgroup $H_{r}$ containing it.
 
 Since 
 
 $$H_{r}=\bigcap_{i=1}^{3} K_{i}$$
 
-where each $K_{i}$ is an index-2 subgroup of $\mathbb{S}$
+where each $K_{i}$ is an index-2 subgroup of $\mathbb{S}$, preservation of $r$ forces inclusion of the three orbital dichotomies corresponding to $K_{}$
 ### Order 8
 
 This class has size 2, which contain the Reinin and Tencer-Minaev systems of dichotomies, since for $H \cong \mathbb{Z}^3_{2}$ when $H$ is the Democratic/Aristocratic or Irrational/Rational subgroup. And $CD(H)$ when $|H|=8$ spits out either the Reinin or Tencer-Minaev dichotomies, depending on the subgroup inputted. Formally:
