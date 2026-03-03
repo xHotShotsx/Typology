@@ -4145,7 +4145,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4082: ILE,ESE,EIE,SLE,SEE,LIE,LSE,IEE (Extroverted $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}$)  
   #4083: ILE,ESE,EIE,SLE,SEE,LIE,LSE,SLI  
   #4084: ILE,ESE,EIE,SLE,SEE,LIE,EII,IEE $\in \mathcal{C}_{d,13}$      
-  #4085: ILE,ESE,EIE,SLE,SEE,LIE,EII,SLI  
+  #4085: ILE,ESE,EIE,SLE,SEE,LIE,EII,SLI $\in \mathcal{C}_{d,14}$       
   #4086: ILE,ESE,EIE,SLE,SEE,LIE,IEE,SLI  
   #4087: ILE,ESE,EIE,SLE,SEE,ESI,LSE,EII  
   #4088: ILE,ESE,EIE,SLE,SEE,ESI,LSE,IEE $\in \mathcal{C}_{d,11}$      
@@ -4464,7 +4464,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4401: ILE,ESE,LSI,IEI,SEE,LIE,ESI,IEE  
   #4402: ILE,ESE,LSI,IEI,SEE,LIE,ESI,SLI  
   #4403: ILE,ESE,LSI,IEI,SEE,LIE,LSE,EII  
-  #4404: ILE,ESE,LSI,IEI,SEE,LIE,LSE,IEE  
+  #4404: ILE,ESE,LSI,IEI,SEE,LIE,LSE,IEE $\in \mathcal{C}_{d,14}$        
   #4405: ILE,ESE,LSI,IEI,SEE,LIE,LSE,SLI $\in \mathcal{C}_{d,13}$     
   #4406: ILE,ESE,LSI,IEI,SEE,LIE,EII,IEE  
   #4407: ILE,ESE,LSI,IEI,SEE,LIE,EII,SLI (Positivist $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}$)  
@@ -5325,7 +5325,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5262: ILE,LII,LSI,SLE,SEE,LIE,IEE,SLI  
   #5263: ILE,LII,LSI,SLE,SEE,ESI,LSE,EII  
   #5264: ILE,LII,LSI,SLE,SEE,ESI,LSE,IEE $\in \mathcal{C}_{d,13}$      
-  #5265: ILE,LII,LSI,SLE,SEE,ESI,LSE,SLI  
+  #5265: ILE,LII,LSI,SLE,SEE,ESI,LSE,SLI $\in \mathcal{C}_{d,14}$       
   #5266: ILE,LII,LSI,SLE,SEE,ESI,EII,IEE (Static $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}$)  
   #5267: ILE,LII,LSI,SLE,SEE,ESI,EII,SLI  
   #5268: ILE,LII,LSI,SLE,SEE,ESI,IEE,SLI  
@@ -5339,7 +5339,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5276: ILE,LII,LSI,SLE,ILI,LIE,ESI,SLI  
   #5277: ILE,LII,LSI,SLE,ILI,LIE,LSE,EII  
   #5278: ILE,LII,LSI,SLE,ILI,LIE,LSE,IEE  
-  #5279: ILE,LII,LSI,SLE,ILI,LIE,LSE,SLI (Logical $\in \mathcal{C}_{g,15}$)  
+  #5279: ILE,LII,LSI,SLE,ILI,LIE,LSE,SLI (Logical $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}$)  
   #5280: ILE,LII,LSI,SLE,ILI,LIE,EII,IEE $\in \mathcal{C}_{d,14}$      
   #5281: ILE,LII,LSI,SLE,ILI,LIE,EII,SLI $\in \mathcal{C}_{d,13}$    
   #5282: ILE,LII,LSI,SLE,ILI,LIE,IEE,SLI  
