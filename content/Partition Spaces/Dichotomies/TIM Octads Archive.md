@@ -43,7 +43,9 @@ where each $K_{i}$ is an index-2 subgroup of $\mathbb{S}$, preservation of $r$ f
 
 Thus, structurally nontrivial dichotomy systems must contain at least three orbital dichotomies, in this construction.
 
-Moreover, superego-preserving systems are the external case because $g$ lies in every norma
+Moreover, superego-preserving systems are the external case because $g$ lies in every normal subgroup of order 4, preservation of $g$ entails preservation of all index-2 subgroups and therefore all seven orbital dichotomies.
+
+The constraint is imposed at the level of subgroup structure rather than ind
 ### Order 8
 
 This class has size 2, which contain the Reinin and Tencer-Minaev systems of dichotomies, since for $H \cong \mathbb{Z}^3_{2}$ when $H$ is the Democratic/Aristocratic or Irrational/Rational subgroup. And $CD(H)$ when $|H|=8$ spits out either the Reinin or Tencer-Minaev dichotomies, depending on the subgroup inputted. Formally:
