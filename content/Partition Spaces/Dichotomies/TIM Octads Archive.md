@@ -33,7 +33,7 @@ $$\begin{matrix} \mathrm{Subgroup} & \mathrm{Notation = Description} \\ \\ \{ e,
 
 The subgroup lattice of $\mathbb{S}$ imposes a propagation rule:
 
-Preservation of any non-central relation $r$ automatically entails preservation of the unique normal subgroup $H_{r}$ containing it.
+Preservation of any relationship $r \in \mathbb{S} \ \{ e,g \}$ automatically entails preservation of the unique normal subgroup $H_{r}$ containing it.
 
 Since 
 
