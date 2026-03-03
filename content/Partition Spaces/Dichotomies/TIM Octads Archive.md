@@ -5143,7 +5143,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5080: ILE,LII,EIE,IEI,SEE,LIE,IEE,SLI  
   #5081: ILE,LII,EIE,IEI,SEE,ESI,LSE,EII  
   #5082: ILE,LII,EIE,IEI,SEE,ESI,LSE,IEE  
-  #5083: ILE,LII,EIE,IEI,SEE,ESI,LSE,SLI (Asking $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}$)  
+  #5083: ILE,LII,EIE,IEI,SEE,ESI,LSE,SLI (Asking $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}, \mathcal{C}_{d,15}$)  
   #5084: ILE,LII,EIE,IEI,SEE,ESI,EII,IEE $\in \mathcal{C}_{d,14}$        
   #5085: ILE,LII,EIE,IEI,SEE,ESI,EII,SLI $\in \mathcal{C}_{d,13}$     
   #5086: ILE,LII,EIE,IEI,SEE,ESI,IEE,SLI  
@@ -5158,7 +5158,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5095: ILE,LII,EIE,IEI,ILI,LIE,LSE,EII  
   #5096: ILE,LII,EIE,IEI,ILI,LIE,LSE,IEE $\in \mathcal{C}_{d,13}$      
   #5097: ILE,LII,EIE,IEI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{d,14}$        
-  #5098: ILE,LII,EIE,IEI,ILI,LIE,EII,IEE (Intuitive $\in \mathcal{C}_{g,15}$)  
+  #5098: ILE,LII,EIE,IEI,ILI,LIE,EII,IEE (Intuitive $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}$)  
   #5099: ILE,LII,EIE,IEI,ILI,LIE,EII,SLI  
   #5100: ILE,LII,EIE,IEI,ILI,LIE,IEE,SLI  
   #5101: ILE,LII,EIE,IEI,ILI,ESI,LSE,EII  
