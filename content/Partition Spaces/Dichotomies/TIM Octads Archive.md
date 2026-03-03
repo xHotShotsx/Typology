@@ -4144,7 +4144,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4081: ILE,ESE,EIE,SLE,SEE,LIE,LSE,EII  
   #4082: ILE,ESE,EIE,SLE,SEE,LIE,LSE,IEE (Extroverted $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}$)  
   #4083: ILE,ESE,EIE,SLE,SEE,LIE,LSE,SLI  
-  #4084: ILE,ESE,EIE,SLE,SEE,LIE,EII,IEE  
+  #4084: ILE,ESE,EIE,SLE,SEE,LIE,EII,IEE $\in \mathcal{C}_{d,13}$      
   #4085: ILE,ESE,EIE,SLE,SEE,LIE,EII,SLI  
   #4086: ILE,ESE,EIE,SLE,SEE,LIE,IEE,SLI  
   #4087: ILE,ESE,EIE,SLE,SEE,ESI,LSE,EII  
@@ -4465,7 +4465,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4402: ILE,ESE,LSI,IEI,SEE,LIE,ESI,SLI  
   #4403: ILE,ESE,LSI,IEI,SEE,LIE,LSE,EII  
   #4404: ILE,ESE,LSI,IEI,SEE,LIE,LSE,IEE  
-  #4405: ILE,ESE,LSI,IEI,SEE,LIE,LSE,SLI  
+  #4405: ILE,ESE,LSI,IEI,SEE,LIE,LSE,SLI $\in \mathcal{C}_{d,13}$     
   #4406: ILE,ESE,LSI,IEI,SEE,LIE,EII,IEE  
   #4407: ILE,ESE,LSI,IEI,SEE,LIE,EII,SLI (Positivist $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}$)  
   #4408: ILE,ESE,LSI,IEI,SEE,LIE,IEE,SLI  
@@ -5324,7 +5324,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5261: ILE,LII,LSI,SLE,SEE,LIE,EII,SLI $\in \mathcal{C}_{d,12}$    
   #5262: ILE,LII,LSI,SLE,SEE,LIE,IEE,SLI  
   #5263: ILE,LII,LSI,SLE,SEE,ESI,LSE,EII  
-  #5264: ILE,LII,LSI,SLE,SEE,ESI,LSE,IEE  
+  #5264: ILE,LII,LSI,SLE,SEE,ESI,LSE,IEE $\in \mathcal{C}_{d,13}$      
   #5265: ILE,LII,LSI,SLE,SEE,ESI,LSE,SLI  
   #5266: ILE,LII,LSI,SLE,SEE,ESI,EII,IEE (Static $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}$)  
   #5267: ILE,LII,LSI,SLE,SEE,ESI,EII,SLI  
