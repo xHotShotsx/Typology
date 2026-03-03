@@ -31,13 +31,9 @@ $$\begin{matrix} \mathrm{Subgroup} & \mathrm{Notation = Description} \\ \\ \{ e,
 
 #### Additional Constraint
 
-Since I would like to study the orbit structure of subgroups of $\mathbb{S}$, I impose the following structural constraint.
+The subgroup lattice of $\mathbb{S}$ imposes a propagation rule:
 
-For any nontrivial element $r \in \mathbb{S}$, if $r$ lies in a normal subgroup $H \leq \mathbb{S}$ of order 4, then any dichotomy system must contain a minimum of three orbital dichotomies corresponding to the non-identity element of $H$.
 
-In particular, because the intersection of all index-4 normal subgroups of $\mathbb{S}$ is $\langle g \rangle$, then any dichotomy system must contain at least three orbital dichotomies.
-
-Moreover, systems preserving $g$ (the superego relationship) contain the full set of orbital dichotomies in this construction, since these systems correspond bijectively to the index-2 subgroups of $\mathbb{S}$.
 
 ### Order 8
 
