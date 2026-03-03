@@ -35,6 +35,7 @@ Since I would like to study the orbit structure of subgroups of $\mathbb{S}$, I 
 
 For any nontrivial element $r \in \mathbb{S}$, if $r$ lies in a normal subgroup $H \leq \mathbb{S}$ of order 4, then any dichotomy system must contain a minimum of three orbital dichotomies corresponding to the non-identity element of $H$.
 
+In particular, because the intersection of all index-4 normal subgroups of $\mathbb{S}$ is $\langle g \rangle$, then any dichotomy system must contain at least three orbital dichotomies.
 
 
 ### Order 8
