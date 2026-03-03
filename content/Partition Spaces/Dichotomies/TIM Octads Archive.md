@@ -47,7 +47,7 @@ Moreover, superego-preserving systems are the external case because $g$ lies in 
 
 **Clarifying remark.** The constraint is imposed at the level of subgroup structure rather than individual elements. 
 
-In practice, a dichotomy system need not fix a specific relation $r$ pointwise; under a given action it may send $r$ to another element $r' \in H_{r}$. What is preserved is the normal Klein-four subgroup $H_{r}$ (and the induced partition geometry), not a preferred representative.
+In practice, a dichotomy system need not fix a specific relation $r$ pointwise; under a given action it may send $r$ to another element $r' \in H_{r}$. What is preserved is the normal Klein-four subgroup $H_{r}$ (and the induced partition/coset geometry), not a preferred representative.
 
 Consequently, "preserving $r$" should be read as preserving the orbit-class / invariant subset determined by $H_{r}$. This still forces the system to include (at minimum) the three orbital dichotomies corresponding to the index-2 subgroups whose intersection is $H_{r}$.
 
