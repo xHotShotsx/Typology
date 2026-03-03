@@ -4169,7 +4169,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4106: ILE,ESE,EIE,SLE,ILI,LIE,IEE,SLI  
   #4107: ILE,ESE,EIE,SLE,ILI,ESI,LSE,EII  
   #4108: ILE,ESE,EIE,SLE,ILI,ESI,LSE,IEE  
-  #4109: ILE,ESE,EIE,SLE,ILI,ESI,LSE,SLI  
+  #4109: ILE,ESE,EIE,SLE,ILI,ESI,LSE,SLI $\in \mathcal{C}_{d,13}$      
   #4110: ILE,ESE,EIE,SLE,ILI,ESI,EII,IEE  
   #4111: ILE,ESE,EIE,SLE,ILI,ESI,EII,SLI (Constructivist $\in \mathcal{C}_{g,15}$)  
   #4112: ILE,ESE,EIE,SLE,ILI,ESI,IEE,SLI  
@@ -4492,7 +4492,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4429: ILE,ESE,LSI,IEI,ILI,ESI,LSE,EII  
   #4430: ILE,ESE,LSI,IEI,ILI,ESI,LSE,IEE (Tactical $\in \mathcal{C}_{g,15}$)  
   #4431: ILE,ESE,LSI,IEI,ILI,ESI,LSE,SLI  
-  #4432: ILE,ESE,LSI,IEI,ILI,ESI,EII,IEE  
+  #4432: ILE,ESE,LSI,IEI,ILI,ESI,EII,IEE $\in \mathcal{C}_{d,13}$      
   #4433: ILE,ESE,LSI,IEI,ILI,ESI,EII,SLI  
   #4434: ILE,ESE,LSI,IEI,ILI,ESI,IEE,SLI  
   #4435: ILE,ESE,LSI,IEI,ILI,LSE,EII,IEE  
@@ -5145,7 +5145,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5082: ILE,LII,EIE,IEI,SEE,ESI,LSE,IEE  
   #5083: ILE,LII,EIE,IEI,SEE,ESI,LSE,SLI (Asking $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}$)  
   #5084: ILE,LII,EIE,IEI,SEE,ESI,EII,IEE  
-  #5085: ILE,LII,EIE,IEI,SEE,ESI,EII,SLI  
+  #5085: ILE,LII,EIE,IEI,SEE,ESI,EII,SLI $\in \mathcal{C}_{d,13}$     
   #5086: ILE,LII,EIE,IEI,SEE,ESI,IEE,SLI  
   #5087: ILE,LII,EIE,IEI,SEE,LSE,EII,IEE  
   #5088: ILE,LII,EIE,IEI,SEE,LSE,EII,SLI  
@@ -5156,7 +5156,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5093: ILE,LII,EIE,IEI,ILI,LIE,ESI,IEE  
   #5094: ILE,LII,EIE,IEI,ILI,LIE,ESI,SLI  
   #5095: ILE,LII,EIE,IEI,ILI,LIE,LSE,EII  
-  #5096: ILE,LII,EIE,IEI,ILI,LIE,LSE,IEE  
+  #5096: ILE,LII,EIE,IEI,ILI,LIE,LSE,IEE $\in \mathcal{C}_{d,13}$      
   #5097: ILE,LII,EIE,IEI,ILI,LIE,LSE,SLI  
   #5098: ILE,LII,EIE,IEI,ILI,LIE,EII,IEE (Intuitive $\in \mathcal{C}_{g,15}$)  
   #5099: ILE,LII,EIE,IEI,ILI,LIE,EII,SLI  
