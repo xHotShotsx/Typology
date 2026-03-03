@@ -4200,7 +4200,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4151: ILE,ESE,EIE,IEI,SEE,LIE,LSE,EII  
   #4152: ILE,ESE,EIE,IEI,SEE,LIE,LSE,IEE  
   #4153: ILE,ESE,EIE,IEI,SEE,LIE,LSE,SLI $\in \mathcal{C}_{x,14}, \mathcal{C}_{x,30}$  
-  #4154: ILE,ESE,EIE,IEI,SEE,LIE,EII,IEE  
+  #4154: ILE,ESE,EIE,IEI,SEE,LIE,EII,IEE $\in \mathcal{C}_{d,5}$  
   #4155: ILE,ESE,EIE,IEI,SEE,LIE,EII,SLI  
   #4156: ILE,ESE,EIE,IEI,SEE,LIE,IEE,SLI  
   #4157: ILE,ESE,EIE,IEI,SEE,ESI,LSE,EII  
