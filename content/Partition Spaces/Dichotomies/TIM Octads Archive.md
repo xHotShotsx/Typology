@@ -31,7 +31,7 @@ $$\begin{matrix} \mathrm{Subgroup} & \mathrm{Notation = Description} \\ \\ \{ e,
 
 #### Additional Constraint
 
-Since I am also interested in studying the orbits of the various subgroups in $\mathbb{S}$, I will be managing my exploration and consequently classification rule by adding a constraint. For any nontrivial relationship $r \in \mathbb{S}$, if $r$ is contained in a normal subgroup of order 4, then it must correspondingly be defined by the three dichotomies that also respect the superego relationship $g$, since 
+Since I am also interested in studying the orbits of the various subgroups in $\mathbb{S}$, I will be managing my exploration and consequently classification rule by adding a constraint. For any nontrivial relationship $r \in \mathbb{S}$, if $r$ is contained in a normal subgroup of order 4, then it must correspondingly be defined by the three dichotomies that also respect the superego relationship $g$, since the intersection of all index-4 normal subgroups 
 
 ### Order 8
 
