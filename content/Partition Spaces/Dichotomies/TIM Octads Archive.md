@@ -33,7 +33,9 @@ $$\begin{matrix} \mathrm{Subgroup} & \mathrm{Notation = Description} \\ \\ \{ e,
 
 Since I would like to study the orbit structure of subgroups of $\mathbb{S}$, I impose the following structural constraint.
 
-For any nontrivial element $r \in \mathbb{S}$, if $r$ lies in a normal subgroup $H \leq \mathbb{S}$ of order $4$, 
+For any nontrivial element $r \in \mathbb{S}$, if $r$ lies in a normal subgroup $H \leq \mathbb{S}$ of order 4, then any dichotomy system must contain a minimum of three orbital dichotomies corresponding to the non-identity element of $H$.
+
+
 
 ### Order 8
 
