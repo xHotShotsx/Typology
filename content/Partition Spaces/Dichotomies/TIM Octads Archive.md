@@ -4137,7 +4137,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4074: ILE,ESE,EIE,SLE,SEE,ILI,EII,IEE  
   #4075: ILE,ESE,EIE,SLE,SEE,ILI,EII,SLI  
   #4076: ILE,ESE,EIE,SLE,SEE,ILI,IEE,SLI  
-  #4077: ILE,ESE,EIE,SLE,SEE,LIE,ESI,LSE  
+  #4077: ILE,ESE,EIE,SLE,SEE,LIE,ESI,LSE    
   #4078: ILE,ESE,EIE,SLE,SEE,LIE,ESI,EII  
   #4079: ILE,ESE,EIE,SLE,SEE,LIE,ESI,IEE  
   #4080: ILE,ESE,EIE,SLE,SEE,LIE,ESI,SLI  
@@ -4233,7 +4233,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4170: ILE,ESE,EIE,IEI,ILI,LIE,ESI,SLI  
   #4171: ILE,ESE,EIE,IEI,ILI,LIE,LSE,EII  
   #4172: ILE,ESE,EIE,IEI,ILI,LIE,LSE,IEE $\in \mathcal{C}_{d,2}$  
-  #4173: ILE,ESE,EIE,IEI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{d,1}$   
+  #4173: ILE,ESE,EIE,IEI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{d,1}, \mathcal{C}_{d,17}$   
   #4174: ILE,ESE,EIE,IEI,ILI,LIE,EII,IEE $\in \mathcal{C}_{d,4}$  
   #4175: ILE,ESE,EIE,IEI,ILI,LIE,EII,SLI $\in \mathcal{C}_{d,3}$   
   #4176: ILE,ESE,EIE,IEI,ILI,LIE,IEE,SLI  
@@ -4416,7 +4416,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4353: ILE,ESE,LSI,SLE,ILI,LIE,LSE,EII  
   #4354: ILE,ESE,LSI,SLE,ILI,LIE,LSE,IEE $\in \mathcal{C}_{d,3}$  
   #4355: ILE,ESE,LSI,SLE,ILI,LIE,LSE,SLI $\in \mathcal{C}_{d,4}$   
-  #4356: ILE,ESE,LSI,SLE,ILI,LIE,EII,IEE $\in \mathcal{C}_{d,1}$    
+  #4356: ILE,ESE,LSI,SLE,ILI,LIE,EII,IEE $\in \mathcal{C}_{d,1}, \mathcal{C}_{d,17}$    
   #4357: ILE,ESE,LSI,SLE,ILI,LIE,EII,SLI $\in \mathcal{C}_{d,2}$  
   #4358: ILE,ESE,LSI,SLE,ILI,LIE,IEE,SLI  
   #4359: ILE,ESE,LSI,SLE,ILI,ESI,LSE,EII  
@@ -5417,7 +5417,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5354: ILE,LII,LSI,IEI,ILI,ESI,LSE,IEE $\in \mathcal{C}_{d,4}$  
   #5355: ILE,LII,LSI,IEI,ILI,ESI,LSE,SLI $\in \mathcal{C}_{d,3}$  
   #5356: ILE,LII,LSI,IEI,ILI,ESI,EII,IEE $\in \mathcal{C}_{d,2}$   
-  #5357: ILE,LII,LSI,IEI,ILI,ESI,EII,SLI $\in \mathcal{C}_{d,1}$  
+  #5357: ILE,LII,LSI,IEI,ILI,ESI,EII,SLI $\in \mathcal{C}_{d,1}, \mathcal{C}_{d,17}$  
   #5358: ILE,LII,LSI,IEI,ILI,ESI,IEE,SLI  
   #5359: ILE,LII,LSI,IEI,ILI,LSE,EII,IEE  
   #5360: ILE,LII,LSI,IEI,ILI,LSE,EII,SLI  
