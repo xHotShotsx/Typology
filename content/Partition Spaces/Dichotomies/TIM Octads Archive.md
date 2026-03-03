@@ -31,11 +31,7 @@ $$\begin{matrix} \mathrm{Subgroup} & \mathrm{Notation = Description} \\ \\ \{ e,
 
 #### Additional Constraint
 
-The subgroup lattice of $\mathbb{S}$ imposes a propagation rule:
-
-Preservation of any non-central relation $r$ automatically entails preservation o8f the unique normal subgroup $H_{r}$ containing it.
-
-Since 
+The constraint is imposed at the 
 
 ### Order 8
 
