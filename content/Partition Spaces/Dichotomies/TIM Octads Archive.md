@@ -31,9 +31,9 @@ $$\begin{matrix} \mathrm{Subgroup} & \mathrm{Notation = Description} \\ \\ \{ e,
 
 #### Additional Constraint
 
-Since I would like to study the orbit structure of subgroups of $\mathbb{S}$, I impose the following structure.
+Since I would like to study the orbit structure of subgroups of $\mathbb{S}$, I impose the following structural constraint.
 
-
+For any nontrivial element $r \in \mathbb{S}$, if $r$ lies in a normal subgroup $H \leq \mathbb{S}$ of order $4$, 
 
 ### Order 8
 
