@@ -37,6 +37,7 @@ For any nontrivial element $r \in \mathbb{S}$, if $r$ lies in a normal subgroup 
 
 In particular, because the intersection of all index-4 normal subgroups of $\mathbb{S}$ is $\langle g \rangle$, then any dichotomy system must contain at least three orbital dichotomies.
 
+Moreover, systems preserving $g$ (the superego relationship) contain the full set of orbital dichotomies in this construction, since these systems correspond bijectively to the ind
 
 ### Order 8
 
