@@ -33,7 +33,7 @@ $$\begin{matrix} \mathrm{Subgroup} & \mathrm{Notation = Description} \\ \\ \{ e,
 
 The subgroup lattice of $\mathbb{S}$ imposes a propagation rule:
 
-Preservation 
+Preservation of the partition geometry induced by any relation $r \in \mathbb{S} \backslash \{ e,g \}$ entails 
 
 Since 
 
