@@ -51,7 +51,8 @@ In practice, a dichotomy system need not fix a specific relation $r$ pointwise; 
 
 Consequently, "preserving $r$" should be read as preserving the orbit-class / invariant subset determined by $H_{r}$. This still forces the system to include (at minimum) the three orbital dichotomies corresponding to the index-2 subgroups whose intersection is $H_{r}$.
 
-Hence invaraince is stable under automorphisms of $H_{r}$ (permuting its nont)
+Hence invariance is stable under automorphisms of $H_{r}$ (permuting its nontrivial elements), but the subgroup $H_{r}$ remains the invariant object in $\mathbb{S}$.
+
 ### Order 8
 
 This class has size 2, which contain the Reinin and Tencer-Minaev systems of dichotomies, since for $H \cong \mathbb{Z}^3_{2}$ when $H$ is the Democratic/Aristocratic or Irrational/Rational subgroup. And $CD(H)$ when $|H|=8$ spits out either the Reinin or Tencer-Minaev dichotomies, depending on the subgroup inputted. Formally:
