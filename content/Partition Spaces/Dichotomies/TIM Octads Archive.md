@@ -6709,7 +6709,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4361: 2ndExternal / 2ndInternal  
 #5029: 2ndAbstract / 2ndInvolved  
 
-[4153,4336,4534,4885,5012,5337,5464,5731,5802,5929,6140]
+[4336,4534,4885,5012,5337,5464,5731,5802,5929,6140]
 
 # Further Reading
 
