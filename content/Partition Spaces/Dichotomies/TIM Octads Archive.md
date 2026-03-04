@@ -6709,7 +6709,14 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4361: 2ndExternal / 2ndInternal  
 #5029: 2ndAbstract / 2ndInvolved  
 
-superego_preserving = [1764,1891,1962,2229,2356,2427,2610,2681,2808,3279,3490,3617,3688,3955,4082,4153,4336,4407,4534,4885,5012,5083,5266,5337,5464,5731,5802,5929,6140]
+superego_preserving = [1891,1962,2356,2427,2610,2681,3279,3490,3617,3688,3955,4153,4336,4534,4885,5012,5337,5464,5731,5802,5929,6140]
+
+
+ 
+#4082: Extroverted / Introverted  
+#5266: Static / Dynamic  
+#4407: Positivist / Negativist  
+#5083: Asking / Declaring  
 
 # Further Reading
 
