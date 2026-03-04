@@ -4143,7 +4143,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4080: ILE,ESE,EIE,SLE,SEE,LIE,ESI,SLI  
   #4081: ILE,ESE,EIE,SLE,SEE,LIE,LSE,EII  
   #4082: ILE,ESE,EIE,SLE,SEE,LIE,LSE,IEE (Extroverted $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}, \mathcal{C}_{d,15}$)  
-  #4083: ILE,ESE,EIE,SLE,SEE,LIE,LSE,SLI $\in \mathcal{C}_{d,16}$    
+  #4083: ILE,ESE,EIE,SLE,SEE,LIE,LSE,SLI $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,23}$    
   #4084: ILE,ESE,EIE,SLE,SEE,LIE,EII,IEE $\in \mathcal{C}_{d,13}, \mathcal{C}_{d,22}$      
   #4085: ILE,ESE,EIE,SLE,SEE,LIE,EII,SLI $\in \mathcal{C}_{d,14}, \mathcal{C}_{d,21}$       
   #4086: ILE,ESE,EIE,SLE,SEE,LIE,IEE,SLI  
