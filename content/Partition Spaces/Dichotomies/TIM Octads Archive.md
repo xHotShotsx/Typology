@@ -4170,7 +4170,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4107: ILE,ESE,EIE,SLE,ILI,ESI,LSE,EII  
   #4108: ILE,ESE,EIE,SLE,ILI,ESI,LSE,IEE $\in \mathcal{C}_{d,14}$       
   #4109: ILE,ESE,EIE,SLE,ILI,ESI,LSE,SLI $\in \mathcal{C}_{d,13}$      
-  #4110: ILE,ESE,EIE,SLE,ILI,ESI,EII,IEE $\in \mathcal{C}_{d,16}$   
+  #4110: ILE,ESE,EIE,SLE,ILI,ESI,EII,IEE $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,26}$   
   #4111: ILE,ESE,EIE,SLE,ILI,ESI,EII,SLI (Constructivist $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}, \mathcal{C}_{d,25}$)  
   #4112: ILE,ESE,EIE,SLE,ILI,ESI,IEE,SLI  
   #4113: ILE,ESE,EIE,SLE,ILI,LSE,EII,IEE  
@@ -5073,7 +5073,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5010: ILE,LII,EIE,SLE,SEE,LIE,IEE,SLI  
   #5011: ILE,LII,EIE,SLE,SEE,ESI,LSE,EII  
   #5012: ILE,LII,EIE,SLE,SEE,ESI,LSE,IEE $\in \mathcal{C}_{x,14}, \mathcal{C}_{x,30}, \mathcal{C}_{d,8}, \mathcal{C}_{d,25}$  
-  #5013: ILE,LII,EIE,SLE,SEE,ESI,LSE,SLI $\in \mathcal{C}_{d,7}$       
+  #5013: ILE,LII,EIE,SLE,SEE,ESI,LSE,SLI $\in \mathcal{C}_{d,7}, \mathcal{C}_{d,26}$       
   #5014: ILE,LII,EIE,SLE,SEE,ESI,EII,IEE $\in \mathcal{C}_{d,6}$    
   #5015: ILE,LII,EIE,SLE,SEE,ESI,EII,SLI $\in \mathcal{C}_{d,5}$  
   #5016: ILE,LII,EIE,SLE,SEE,ESI,IEE,SLI  
@@ -5338,7 +5338,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5275: ILE,LII,LSI,SLE,ILI,LIE,ESI,IEE  
   #5276: ILE,LII,LSI,SLE,ILI,LIE,ESI,SLI  
   #5277: ILE,LII,LSI,SLE,ILI,LIE,LSE,EII  
-  #5278: ILE,LII,LSI,SLE,ILI,LIE,LSE,IEE $\in \mathcal{C}_{d,16}$  
+  #5278: ILE,LII,LSI,SLE,ILI,LIE,LSE,IEE $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,26}$  
   #5279: ILE,LII,LSI,SLE,ILI,LIE,LSE,SLI (Logical $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}, \mathcal{C}_{d,25}$)  
   #5280: ILE,LII,LSI,SLE,ILI,LIE,EII,IEE $\in \mathcal{C}_{d,14}$      
   #5281: ILE,LII,LSI,SLE,ILI,LIE,EII,SLI $\in \mathcal{C}_{d,13}$    
