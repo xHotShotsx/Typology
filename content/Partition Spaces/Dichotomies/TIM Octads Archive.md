@@ -5391,7 +5391,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5328: ILE,LII,LSI,IEI,SEE,LIE,LSE,IEE $\in \mathcal{C}_{d,1}$   
   #5329: ILE,LII,LSI,IEI,SEE,LIE,LSE,SLI $\in \mathcal{C}_{d,2}$  
   #5330: ILE,LII,LSI,IEI,SEE,LIE,EII,IEE $\in \mathcal{C}_{d,3}$  
-  #5331: ILE,LII,LSI,IEI,SEE,LIE,EII,SLI $\in \mathcal{C}_{d,4}$  
+  #5331: ILE,LII,LSI,IEI,SEE,LIE,EII,SLI $\in \mathcal{C}_{d,4}, \mathcal{C}_{d,29}$  
   #5332: ILE,LII,LSI,IEI,SEE,LIE,IEE,SLI  
   #5333: ILE,LII,LSI,IEI,SEE,ESI,LSE,EII  
   #5334: ILE,LII,LSI,IEI,SEE,ESI,LSE,IEE $\in \mathcal{C}_{d,5}, \mathcal{C}_{d,28}$  
