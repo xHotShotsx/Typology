@@ -5862,7 +5862,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5799: ILE,EIE,LSI,IEI,SEE,ESI,EII,SLI  
   #5800: ILE,EIE,LSI,IEI,SEE,ESI,IEE,SLI  
   #5801: ILE,EIE,LSI,IEI,SEE,LSE,EII,IEE  
-  #5802: ILE,EIE,LSI,IEI,SEE,LSE,EII,SLI (+W)  
+  #5802: ILE,EIE,LSI,IEI,SEE,LSE,EII,SLI (+B5)  
   #5803: ILE,EIE,LSI,IEI,SEE,LSE,IEE,SLI  
   #5804: ILE,EIE,LSI,IEI,SEE,EII,IEE,SLI  
   #5805: ILE,EIE,LSI,IEI,ILI,LIE,ESI,LSE  
@@ -5989,7 +5989,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5926: ILE,EIE,SLE,IEI,SEE,ESI,IEE,SLI  
   #5927: ILE,EIE,SLE,IEI,SEE,LSE,EII,IEE  
   #5928: ILE,EIE,SLE,IEI,SEE,LSE,EII,SLI  
-  #5929: ILE,EIE,SLE,IEI,SEE,LSE,IEE,SLI  
+  #5929: ILE,EIE,SLE,IEI,SEE,LSE,IEE,SLI (+)  
   #5930: ILE,EIE,SLE,IEI,SEE,EII,IEE,SLI  
   #5931: ILE,EIE,SLE,IEI,ILI,LIE,ESI,LSE  
   #5932: ILE,EIE,SLE,IEI,ILI,LIE,ESI,EII (Intuitive Positivists + Central Negativists $\in \mathcal{C}_{g,5}$)  
@@ -6709,7 +6709,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4361: 2ndExternal / 2ndInternal  
 #5029: 2ndAbstract / 2ndInvolved  
 
-5802,5929,6140
+5929,6140
 
 # Further Reading
 
