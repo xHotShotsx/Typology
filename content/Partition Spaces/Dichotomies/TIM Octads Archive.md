@@ -4420,7 +4420,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4357: ILE,ESE,LSI,SLE,ILI,LIE,EII,SLI $\in \mathcal{C}_{d,2}, \mathcal{C}_{d,18}$  
   #4358: ILE,ESE,LSI,SLE,ILI,LIE,IEE,SLI  
   #4359: ILE,ESE,LSI,SLE,ILI,ESI,LSE,EII  
-  #4360: ILE,ESE,LSI,SLE,ILI,ESI,LSE,IEE $\in \mathcal{C}_{d,7}$        
+  #4360: ILE,ESE,LSI,SLE,ILI,ESI,LSE,IEE $\in \mathcal{C}_{d,7}, \mathcal{C}_{d,23}$        
   #4361: ILE,ESE,LSI,SLE,ILI,ESI,LSE,SLI (2ndExternal $\in \mathcal{C}_{g,14}, \mathcal{C}_{d,8}$)  
   #4362: ILE,ESE,LSI,SLE,ILI,ESI,EII,IEE $\in \mathcal{C}_{d,5}, \mathcal{C}_{d,21}$  
   #4363: ILE,ESE,LSI,SLE,ILI,ESI,EII,SLI $\in \mathcal{C}_{d,6}, \mathcal{C}_{d,22}$   
@@ -5088,7 +5088,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5025: ILE,LII,EIE,SLE,ILI,LIE,LSE,EII  
   #5026: ILE,LII,EIE,SLE,ILI,LIE,LSE,IEE $\in \mathcal{C}_{d,5}, \mathcal{C}_{d,21}$  
   #5027: ILE,LII,EIE,SLE,ILI,LIE,LSE,SLI $\in \mathcal{C}_{d,6}, \mathcal{C}_{d,22}$   
-  #5028: ILE,LII,EIE,SLE,ILI,LIE,EII,IEE $\in \mathcal{C}_{d,7}$       
+  #5028: ILE,LII,EIE,SLE,ILI,LIE,EII,IEE $\in \mathcal{C}_{d,7}, \mathcal{C}_{d,23}$       
   #5029: ILE,LII,EIE,SLE,ILI,LIE,EII,SLI (2ndAbstract $\in \mathcal{C}_{g,14}, \mathcal{C}_{d,8}$)  
   #5030: ILE,LII,EIE,SLE,ILI,LIE,IEE,SLI  
   #5031: ILE,LII,EIE,SLE,ILI,ESI,LSE,EII  
@@ -5327,7 +5327,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5264: ILE,LII,LSI,SLE,SEE,ESI,LSE,IEE $\in \mathcal{C}_{d,13}, \mathcal{C}_{d,22}$      
   #5265: ILE,LII,LSI,SLE,SEE,ESI,LSE,SLI $\in \mathcal{C}_{d,14}, \mathcal{C}_{d,21}$       
   #5266: ILE,LII,LSI,SLE,SEE,ESI,EII,IEE (Static $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}, \mathcal{C}_{d,15}$)  
-  #5267: ILE,LII,LSI,SLE,SEE,ESI,EII,SLI $\in \mathcal{C}_{d,16}$   
+  #5267: ILE,LII,LSI,SLE,SEE,ESI,EII,SLI $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,23}$   
   #5268: ILE,LII,LSI,SLE,SEE,ESI,IEE,SLI  
   #5269: ILE,LII,LSI,SLE,SEE,LSE,EII,IEE  
   #5270: ILE,LII,LSI,SLE,SEE,LSE,EII,SLI  
