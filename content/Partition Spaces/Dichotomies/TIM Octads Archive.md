@@ -4142,7 +4142,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4079: ILE,ESE,EIE,SLE,SEE,LIE,ESI,IEE  
   #4080: ILE,ESE,EIE,SLE,SEE,LIE,ESI,SLI  
   #4081: ILE,ESE,EIE,SLE,SEE,LIE,LSE,EII  
-  #4082: ILE,ESE,EIE,SLE,SEE,LIE,LSE,IEE (Extroverted $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}, \mathcal{C}_{d,15}$)  
+  #4082: ILE,ESE,EIE,SLE,SEE,LIE,LSE,IEE (Extroverted $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}, \mathcal{C}_{d,15}, \mathcal{C}_{d,24}$)  
   #4083: ILE,ESE,EIE,SLE,SEE,LIE,LSE,SLI $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,23}$    
   #4084: ILE,ESE,EIE,SLE,SEE,LIE,EII,IEE $\in \mathcal{C}_{d,13}, \mathcal{C}_{d,22}$      
   #4085: ILE,ESE,EIE,SLE,SEE,LIE,EII,SLI $\in \mathcal{C}_{d,14}, \mathcal{C}_{d,21}$       
@@ -4467,7 +4467,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4404: ILE,ESE,LSI,IEI,SEE,LIE,LSE,IEE $\in \mathcal{C}_{d,14}, \mathcal{C}_{d,21}$        
   #4405: ILE,ESE,LSI,IEI,SEE,LIE,LSE,SLI $\in \mathcal{C}_{d,13}, \mathcal{C}_{d,22}$     
   #4406: ILE,ESE,LSI,IEI,SEE,LIE,EII,IEE $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,23}$   
-  #4407: ILE,ESE,LSI,IEI,SEE,LIE,EII,SLI (Positivist $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}, \mathcal{C}_{d,15}$)  
+  #4407: ILE,ESE,LSI,IEI,SEE,LIE,EII,SLI (Positivist $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}, \mathcal{C}_{d,15}, \mathcal{C}_{d,24}$)  
   #4408: ILE,ESE,LSI,IEI,SEE,LIE,IEE,SLI  
   #4409: ILE,ESE,LSI,IEI,SEE,ESI,LSE,EII  
   #4410: ILE,ESE,LSI,IEI,SEE,ESI,LSE,IEE $\in \mathcal{C}_{d,10}, \mathcal{C}_{d,17}$    
@@ -5143,7 +5143,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5080: ILE,LII,EIE,IEI,SEE,LIE,IEE,SLI  
   #5081: ILE,LII,EIE,IEI,SEE,ESI,LSE,EII  
   #5082: ILE,LII,EIE,IEI,SEE,ESI,LSE,IEE $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,23}$    
-  #5083: ILE,LII,EIE,IEI,SEE,ESI,LSE,SLI (Asking $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}, \mathcal{C}_{d,15}$)  
+  #5083: ILE,LII,EIE,IEI,SEE,ESI,LSE,SLI (Asking $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}, \mathcal{C}_{d,15}, \mathcal{C}_{d,24}$)  
   #5084: ILE,LII,EIE,IEI,SEE,ESI,EII,IEE $\in \mathcal{C}_{d,14}, \mathcal{C}_{d,21}$        
   #5085: ILE,LII,EIE,IEI,SEE,ESI,EII,SLI $\in \mathcal{C}_{d,13}, \mathcal{C}_{d,22}$     
   #5086: ILE,LII,EIE,IEI,SEE,ESI,IEE,SLI  
