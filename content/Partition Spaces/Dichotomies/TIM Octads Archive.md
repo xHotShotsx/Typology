@@ -4464,7 +4464,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4401: ILE,ESE,LSI,IEI,SEE,LIE,ESI,IEE  
   #4402: ILE,ESE,LSI,IEI,SEE,LIE,ESI,SLI  
   #4403: ILE,ESE,LSI,IEI,SEE,LIE,LSE,EII  
-  #4404: ILE,ESE,LSI,IEI,SEE,LIE,LSE,IEE $\in \mathcal{C}_{d,14}$        
+  #4404: ILE,ESE,LSI,IEI,SEE,LIE,LSE,IEE $\in \mathcal{C}_{d,14}, \mathcal{C}_{d,21}$        
   #4405: ILE,ESE,LSI,IEI,SEE,LIE,LSE,SLI $\in \mathcal{C}_{d,13}$     
   #4406: ILE,ESE,LSI,IEI,SEE,LIE,EII,IEE $\in \mathcal{C}_{d,16}$   
   #4407: ILE,ESE,LSI,IEI,SEE,LIE,EII,SLI (Positivist $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}, \mathcal{C}_{d,15}$)  
@@ -5410,7 +5410,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5347: ILE,LII,LSI,IEI,ILI,LIE,LSE,EII  
   #5348: ILE,LII,LSI,IEI,ILI,LIE,LSE,IEE (1stAbstract $\in \mathcal{C}_{g,14}, \mathcal{C}_{d,8}$)  
   #5349: ILE,LII,LSI,IEI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{d,7}$    
-  #5350: ILE,LII,LSI,IEI,ILI,LIE,EII,IEE $\in \mathcal{C}_{d,6}$  
+  #5350: ILE,LII,LSI,IEI,ILI,LIE,EII,IEE $\in \mathcal{C}_{d,6}, \mathcal{C}_{d,22}$  
   #5351: ILE,LII,LSI,IEI,ILI,LIE,EII,SLI $\in \mathcal{C}_{d,5}, \mathcal{C}_{d,21}$  
   #5352: ILE,LII,LSI,IEI,ILI,LIE,IEE,SLI  
   #5353: ILE,LII,LSI,IEI,ILI,ESI,LSE,EII  
