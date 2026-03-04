@@ -53,7 +53,7 @@ $CD(\mathbb{S})$ generates the orbital dichotomies. Alternatively, any subgroup 
 
 $CD(\{e,g,x,d,m,c,a,q\})$ generates the Reinin dichotomies.
 
-$CD(\{langle e,g,x,d,h,i,k,l\})$ generates the Tencer-Minaev dichotomies.
+$CD(\{e,g,x,d,h,i,k,l\})$ generates the Tencer-Minaev dichotomies.
 
 $CD(\{e,g,x,d\} = Z(\mathbb{S}))$ generates the Reinin dichotomies, the Tencer-Minaev dichotomies, and the X waffles.
 
