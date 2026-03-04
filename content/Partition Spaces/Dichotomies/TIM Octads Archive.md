@@ -4214,7 +4214,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4151: ILE,ESE,EIE,IEI,SEE,LIE,LSE,EII  
   #4152: ILE,ESE,EIE,IEI,SEE,LIE,LSE,IEE $\in \mathcal{C}_{d,7}, \mathcal{C}_{d,26}$       
   #4153: ILE,ESE,EIE,IEI,SEE,LIE,LSE,SLI $\in \mathcal{C}_{x,14}, \mathcal{C}_{x,30}, \mathcal{C}_{d,8}, \mathcal{C}_{d,25}$  
-  #4154: ILE,ESE,EIE,IEI,SEE,LIE,EII,IEE $\in \mathcal{C}_{d,5}$  
+  #4154: ILE,ESE,EIE,IEI,SEE,LIE,EII,IEE $\in \mathcal{C}_{d,5}, \mathcal{C}_{d,28}$  
   #4155: ILE,ESE,EIE,IEI,SEE,LIE,EII,SLI $\in \mathcal{C}_{d,6}, \mathcal{C}_{d,27}$   
   #4156: ILE,ESE,EIE,IEI,SEE,LIE,IEE,SLI  
   #4157: ILE,ESE,EIE,IEI,SEE,ESI,LSE,EII  
@@ -4395,7 +4395,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4332: ILE,ESE,LSI,SLE,SEE,LIE,ESI,SLI  
   #4333: ILE,ESE,LSI,SLE,SEE,LIE,LSE,EII  
   #4334: ILE,ESE,LSI,SLE,SEE,LIE,LSE,IEE $\in \mathcal{C}_{d,6}, \mathcal{C}_{d,27}$  
-  #4335: ILE,ESE,LSI,SLE,SEE,LIE,LSE,SLI $\in \mathcal{C}_{d,5}$  
+  #4335: ILE,ESE,LSI,SLE,SEE,LIE,LSE,SLI $\in \mathcal{C}_{d,5}, \mathcal{C}_{d,28}$  
   #4336: ILE,ESE,LSI,SLE,SEE,LIE,EII,IEE $\in \mathcal{C}_{x,14}, \mathcal{C}_{x,30}, \mathcal{C}_{d,8}, \mathcal{C}_{d,25}$  
   #4337: ILE,ESE,LSI,SLE,SEE,LIE,EII,SLI $\in \mathcal{C}_{d,7}, \mathcal{C}_{d,26}$       
   #4338: ILE,ESE,LSI,SLE,SEE,LIE,IEE,SLI  
@@ -5394,7 +5394,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5331: ILE,LII,LSI,IEI,SEE,LIE,EII,SLI $\in \mathcal{C}_{d,4}$  
   #5332: ILE,LII,LSI,IEI,SEE,LIE,IEE,SLI  
   #5333: ILE,LII,LSI,IEI,SEE,ESI,LSE,EII  
-  #5334: ILE,LII,LSI,IEI,SEE,ESI,LSE,IEE $\in \mathcal{C}_{d,5}$  
+  #5334: ILE,LII,LSI,IEI,SEE,ESI,LSE,IEE $\in \mathcal{C}_{d,5}, \mathcal{C}_{d,28}$  
   #5335: ILE,LII,LSI,IEI,SEE,ESI,LSE,SLI $\in \mathcal{C}_{d,6}, \mathcal{C}_{d,27}$    
   #5336: ILE,LII,LSI,IEI,SEE,ESI,EII,IEE $\in \mathcal{C}_{d,7}, \mathcal{C}_{d,26}$       
   #5337: ILE,LII,LSI,IEI,SEE,ESI,EII,SLI $\in \mathcal{C}_{x,14}, \mathcal{C}_{x,30}, \mathcal{C}_{d,8}, \mathcal{C}_{d,25}$  
