@@ -5072,7 +5072,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5009: ILE,LII,EIE,SLE,SEE,LIE,EII,SLI $\in \mathcal{C}_{d,1}, \mathcal{C}_{d,32}$   
   #5010: ILE,LII,EIE,SLE,SEE,LIE,IEE,SLI  
   #5011: ILE,LII,EIE,SLE,SEE,ESI,LSE,EII  
-  #5012: ILE,LII,EIE,SLE,SEE,ESI,LSE,IEE (+X $\in \mathcal{C}_{x,14}, \mathcal{C}_{x,30}, \mathcal{C}_{d,8}, \mathcal{C}_{d,25}$)  
+  #5012: ILE,LII,EIE,SLE,SEE,ESI,LSE,IEE (+X3 $\in \mathcal{C}_{x,14}, \mathcal{C}_{x,30}, \mathcal{C}_{d,8}, \mathcal{C}_{d,25}$)  
   #5013: ILE,LII,EIE,SLE,SEE,ESI,LSE,SLI $\in \mathcal{C}_{d,7}, \mathcal{C}_{d,26}$       
   #5014: ILE,LII,EIE,SLE,SEE,ESI,EII,IEE $\in \mathcal{C}_{d,6}, \mathcal{C}_{d,27}$    
   #5015: ILE,LII,EIE,SLE,SEE,ESI,EII,SLI $\in \mathcal{C}_{d,5}, \mathcal{C}_{d,28}$  
@@ -5397,7 +5397,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5334: ILE,LII,LSI,IEI,SEE,ESI,LSE,IEE $\in \mathcal{C}_{d,5}, \mathcal{C}_{d,28}$  
   #5335: ILE,LII,LSI,IEI,SEE,ESI,LSE,SLI $\in \mathcal{C}_{d,6}, \mathcal{C}_{d,27}$    
   #5336: ILE,LII,LSI,IEI,SEE,ESI,EII,IEE $\in \mathcal{C}_{d,7}, \mathcal{C}_{d,26}$       
-  #5337: ILE,LII,LSI,IEI,SEE,ESI,EII,SLI $\in \mathcal{C}_{x,14}, \mathcal{C}_{x,30}, \mathcal{C}_{d,8}, \mathcal{C}_{d,25}$  
+  #5337: ILE,LII,LSI,IEI,SEE,ESI,EII,SLI (+$\in \mathcal{C}_{x,14}, \mathcal{C}_{x,30}, \mathcal{C}_{d,8}, \mathcal{C}_{d,25}$)  
   #5338: ILE,LII,LSI,IEI,SEE,ESI,IEE,SLI  
   #5339: ILE,LII,LSI,IEI,SEE,LSE,EII,IEE  
   #5340: ILE,LII,LSI,IEI,SEE,LSE,EII,SLI  
@@ -6709,7 +6709,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4361: 2ndExternal / 2ndInternal  
 #5029: 2ndAbstract / 2ndInvolved  
 
-5012,5337,5464,5731,5802,5929,6140
+5337,5464,5731,5802,5929,6140
 
 # Further Reading
 
