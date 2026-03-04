@@ -4239,7 +4239,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4176: ILE,ESE,EIE,IEI,ILI,LIE,IEE,SLI  
   #4177: ILE,ESE,EIE,IEI,ILI,ESI,LSE,EII  
   #4178: ILE,ESE,EIE,IEI,ILI,ESI,LSE,IEE $\in \mathcal{C}_{d,6}$    
-  #4179: ILE,ESE,EIE,IEI,ILI,ESI,LSE,SLI $\in \mathcal{C}_{d,5}$  
+  #4179: ILE,ESE,EIE,IEI,ILI,ESI,LSE,SLI $\in \mathcal{C}_{d,5}, \mathcal{C}_{d,21}$  
   #4180: ILE,ESE,EIE,IEI,ILI,ESI,EII,IEE (1stInternal $\in \mathcal{C}_{g,14}, \mathcal{C}_{d,8}$)  
   #4181: ILE,ESE,EIE,IEI,ILI,ESI,EII,SLI $\in \mathcal{C}_{d,7}$      
   #4182: ILE,ESE,EIE,IEI,ILI,ESI,IEE,SLI  
