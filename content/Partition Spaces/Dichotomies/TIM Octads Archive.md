@@ -6200,7 +6200,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #6137: ILE,LSI,SLE,IEI,SEE,LSE,EII,IEE  
   #6138: ILE,LSI,SLE,IEI,SEE,LSE,EII,SLI  
   #6139: ILE,LSI,SLE,IEI,SEE,LSE,IEE,SLI  
-  #6140: ILE,LSI,SLE,IEI,SEE,EII,IEE,SLI (+)  
+  #6140: ILE,LSI,SLE,IEI,SEE,EII,IEE,SLI (+Y1)  
   #6141: ILE,LSI,SLE,IEI,ILI,LIE,ESI,LSE (Logical Extroverts + Central Introverts $\in \mathcal{C}_{g,8}$)  
   #6142: ILE,LSI,SLE,IEI,ILI,LIE,ESI,EII  
   #6143: ILE,LSI,SLE,IEI,ILI,LIE,ESI,IEE  
