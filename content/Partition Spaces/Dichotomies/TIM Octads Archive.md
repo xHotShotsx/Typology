@@ -33,7 +33,7 @@ Since
 
 $$H_{r}=\bigcap_{i=1}^{3} K_{i},$$
 
-where each $K_{i}$ is an index-2 subgroup of $\mathbb{S}$, preservation of $r$ forces inclusion of the three orbital dichotomies corresponding to $K_{i}$,
+where each $K_{i}$ is an index-2 subgroup of $\mathbb{S}$, preservation of $r$ forces inclusion of the three orbital dichotomies corresponding to $K_{i}$.
 
 Thus, structurally nontrivial dichotomy systems must contain at least three orbital dichotomies, in this construction.
 
