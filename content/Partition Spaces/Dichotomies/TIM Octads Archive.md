@@ -5159,7 +5159,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5096: ILE,LII,EIE,IEI,ILI,LIE,LSE,IEE $\in \mathcal{C}_{d,13}$      
   #5097: ILE,LII,EIE,IEI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{d,14}$        
   #5098: ILE,LII,EIE,IEI,ILI,LIE,EII,IEE (Intuitive $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}, \mathcal{C}_{d,25}$)  
-  #5099: ILE,LII,EIE,IEI,ILI,LIE,EII,SLI $\in \mathcal{C}_{d,16}$    
+  #5099: ILE,LII,EIE,IEI,ILI,LIE,EII,SLI $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,26}$    
   #5100: ILE,LII,EIE,IEI,ILI,LIE,IEE,SLI  
   #5101: ILE,LII,EIE,IEI,ILI,ESI,LSE,EII  
   #5102: ILE,LII,EIE,IEI,ILI,ESI,LSE,IEE $\in \mathcal{C}_{d,9}$   
