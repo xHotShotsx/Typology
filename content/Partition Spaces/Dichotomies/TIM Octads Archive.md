@@ -23,12 +23,6 @@ If $H = \{e,g\}$, then it is part of the 'orbital respecting' class. These syste
 
 $$\mathcal{C}_{g,15} := \mathcal{D}_{15} := \text{Reinin System}.$$
 
-### Order 4
-
-For any $|H| > 2$, these will be dubbed the 'meta classes', as they can be defined using smaller classes of dichotomy systems. For any normal subgroup $H \cong \mathbb{Z}^2_{2}$, they will be abbreviated using capital letters as notation, usually to denote an 'orbital tetrachotomy'.
-
-$$\begin{matrix} \mathrm{Subgroup} & \mathrm{Notation = Description} \\ \\ \{ e,g,x,d \} & Z = \text{'Central' or Stress Resistance} \\ \{ e,g,a,q \} & O = \text{'Orientation' or Positivity Group} \\ \{ e,g,i,h \} & \Delta = \text{Displacement} \\ \{ e,g,k,l \} & G = \text{'General' or Temperament} \\ \{ e,g,c,m \} & V = \text{'Vector' or Challenge Response Group} \end{matrix}$$
-
 #### Additional Constraint
 
 The subgroup lattice of $\mathbb{S}$ imposes a propagation rule:
@@ -52,6 +46,12 @@ In practice, a dichotomy system need not fix a specific relation $r$ pointwise; 
 Consequently, "preserving $r$" should be read as preserving the orbit-class / invariant subset determined by $H_{r}$. This still forces the system to include (at minimum) the three orbital dichotomies corresponding to the index-2 subgroups whose intersection is $H_{r}$.
 
 Hence invariance is stable under automorphisms of $H_{r}$ (permuting its nontrivial elements), but the subgroup $H_{r}$ remains the invariant object in $\mathbb{S}$.
+
+### Order 4
+
+For any $|H| > 2$, these will be dubbed the 'meta classes', as they can be defined using smaller classes of dichotomy systems. For any normal subgroup $H \cong \mathbb{Z}^2_{2}$, they will be abbreviated using capital letters as notation, usually to denote an 'orbital tetrachotomy'.
+
+$$\begin{matrix} \mathrm{Subgroup} & \mathrm{Notation = Description} \\ \\ \{ e,g,x,d \} & Z = \text{'Central' or Stress Resistance} \\ \{ e,g,a,q \} & O = \text{'Orientation' or Positivity Group} \\ \{ e,g,i,h \} & \Delta = \text{Displacement} \\ \{ e,g,k,l \} & G = \text{'General' or Temperament} \\ \{ e,g,c,m \} & V = \text{'Vector' or Challenge Response Group} \end{matrix}$$
 
 ### Order 8
 
