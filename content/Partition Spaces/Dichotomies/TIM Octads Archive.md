@@ -4594,7 +4594,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4531: ILE,ESE,SLE,IEI,SEE,LIE,LSE,SLI  
   #4532: ILE,ESE,SLE,IEI,SEE,LIE,EII,IEE  
   #4533: ILE,ESE,SLE,IEI,SEE,LIE,EII,SLI  
-  #4534: ILE,ESE,SLE,IEI,SEE,LIE,IEE,SLI (+W)  
+  #4534: ILE,ESE,SLE,IEI,SEE,LIE,IEE,SLI (+Γ5)  
   #4535: ILE,ESE,SLE,IEI,SEE,ESI,LSE,EII  
   #4536: ILE,ESE,SLE,IEI,SEE,ESI,LSE,IEE  
   #4537: ILE,ESE,SLE,IEI,SEE,ESI,LSE,SLI  
@@ -6709,7 +6709,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4361: 2ndExternal / 2ndInternal  
 #5029: 2ndAbstract / 2ndInvolved  
 
-[4534,4885,5012,5337,5464,5731,5802,5929,6140]
+[4885,5012,5337,5464,5731,5802,5929,6140]
 
 # Further Reading
 
