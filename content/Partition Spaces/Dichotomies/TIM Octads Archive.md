@@ -5989,7 +5989,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5926: ILE,EIE,SLE,IEI,SEE,ESI,IEE,SLI  
   #5927: ILE,EIE,SLE,IEI,SEE,LSE,EII,IEE  
   #5928: ILE,EIE,SLE,IEI,SEE,LSE,EII,SLI  
-  #5929: ILE,EIE,SLE,IEI,SEE,LSE,IEE,SLI (+)  
+  #5929: ILE,EIE,SLE,IEI,SEE,LSE,IEE,SLI (+Z6)  
   #5930: ILE,EIE,SLE,IEI,SEE,EII,IEE,SLI  
   #5931: ILE,EIE,SLE,IEI,ILI,LIE,ESI,LSE  
   #5932: ILE,EIE,SLE,IEI,ILI,LIE,ESI,EII (Intuitive Positivists + Central Negativists $\in \mathcal{C}_{g,5}$)  
