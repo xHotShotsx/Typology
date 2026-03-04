@@ -6709,6 +6709,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4361: 2ndExternal / 2ndInternal  
 #5029: 2ndAbstract / 2ndInvolved  
 
+superego_preserving = [426,757,968,1095,1166,1553,1764,1891,1962,2229,2356,2427,2610,2681,2808,3279,3490,3617,3688,3955]
 
 # Further Reading
 
@@ -6716,3 +6717,5 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 - [[Partition Spaces/Dichotomies/TIM Dichotomy Index|TIM Dichotomy Index]]
 - https://sedecology.com/math
 - [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics|A Representation-Theoretic Framework for Intertype Relations in Socionics]]
+- [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces|The Waffle Spaces]]
+- [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index|The Waffle Spaces - A Brief Index]]
