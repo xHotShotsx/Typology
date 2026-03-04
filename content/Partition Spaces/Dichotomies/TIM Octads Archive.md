@@ -4168,7 +4168,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4105: ILE,ESE,EIE,SLE,ILI,LIE,EII,SLI $\in \mathcal{C}_{d,11}$      
   #4106: ILE,ESE,EIE,SLE,ILI,LIE,IEE,SLI  
   #4107: ILE,ESE,EIE,SLE,ILI,ESI,LSE,EII  
-  #4108: ILE,ESE,EIE,SLE,ILI,ESI,LSE,IEE $\in \mathcal{C}_{d,14}$       
+  #4108: ILE,ESE,EIE,SLE,ILI,ESI,LSE,IEE $\in \mathcal{C}_{d,14}, \mathcal{C}_{d,28}$       
   #4109: ILE,ESE,EIE,SLE,ILI,ESI,LSE,SLI $\in \mathcal{C}_{d,13}, \mathcal{C}_{d,27}$      
   #4110: ILE,ESE,EIE,SLE,ILI,ESI,EII,IEE $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,26}$   
   #4111: ILE,ESE,EIE,SLE,ILI,ESI,EII,SLI (Constructivist $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}, \mathcal{C}_{d,25}$)  
