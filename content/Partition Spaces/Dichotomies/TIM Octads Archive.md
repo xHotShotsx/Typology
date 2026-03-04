@@ -1951,7 +1951,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #1888: ILE,SEI,LII,SLE,SEE,ILI,LIE,SLI  
   #1889: ILE,SEI,LII,SLE,SEE,ILI,ESI,LSE  
   #1890: ILE,SEI,LII,SLE,SEE,ILI,ESI,EII  
-  #1891: ILE,SEI,LII,SLE,SEE,ILI,ESI,IEE  
+  #1891: ILE,SEI,LII,SLE,SEE,ILI,ESI,IEE (+) 
   #1892: ILE,SEI,LII,SLE,SEE,ILI,ESI,SLI  
   #1893: ILE,SEI,LII,SLE,SEE,ILI,LSE,EII  
   #1894: ILE,SEI,LII,SLE,SEE,ILI,LSE,IEE  
@@ -6710,13 +6710,6 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #5029: 2ndAbstract / 2ndInvolved  
 
 superego_preserving = [1891,1962,2356,2427,2610,2681,3279,3490,3617,3688,3955,4153,4336,4534,4885,5012,5337,5464,5731,5802,5929,6140]
-
-
- 
-#4082: Extroverted / Introverted  
-#5266: Static / Dynamic  
-#4407: Positivist / Negativist  
-#5083: Asking / Declaring  
 
 # Further Reading
 
