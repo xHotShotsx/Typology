@@ -4491,7 +4491,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4428: ILE,ESE,LSI,IEI,ILI,LIE,IEE,SLI  
   #4429: ILE,ESE,LSI,IEI,ILI,ESI,LSE,EII  
   #4430: ILE,ESE,LSI,IEI,ILI,ESI,LSE,IEE (Tactical $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}, \mathcal{C}_{d,25}$)  
-  #4431: ILE,ESE,LSI,IEI,ILI,ESI,LSE,SLI $\in \mathcal{C}_{d,16}$   
+  #4431: ILE,ESE,LSI,IEI,ILI,ESI,LSE,SLI $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,26}$   
   #4432: ILE,ESE,LSI,IEI,ILI,ESI,EII,IEE $\in \mathcal{C}_{d,13}$      
   #4433: ILE,ESE,LSI,IEI,ILI,ESI,EII,SLI $\in \mathcal{C}_{d,14}$       
   #4434: ILE,ESE,LSI,IEI,ILI,ESI,IEE,SLI  
