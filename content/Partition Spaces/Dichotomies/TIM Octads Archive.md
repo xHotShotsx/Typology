@@ -6499,7 +6499,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 
 # Glossary of Dichotomy System Classes based on Invariant Dichotomies
-## $\mathcal{C}_{g} \text{ or } \mathcal{D}$
+## $\mathcal{C}_{g,1-16} \text{ or } \mathcal{D}$
 
 #2808: Irrational / Rational  
 #2229: Process / Irrational  
