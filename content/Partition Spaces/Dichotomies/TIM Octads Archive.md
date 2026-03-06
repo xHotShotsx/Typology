@@ -23,30 +23,6 @@ If $H = \{e,g\}$, then it is part of the 'orbital respecting' class. These syste
 
 $$\mathcal{C}_{g,15} := \mathcal{D}_{15} := \text{Reinin System}.$$
 
-#### Additional Constraint
-
-The subgroup lattice of $\mathbb{S}$ imposes a propagation rule:
-
-Preservation of the partition geometry induced by any relation $r \in \mathbb{S} \backslash \{ e,g \}$ entails preservation of the unique normal subgroup $H_{r}$ that contains $r$.
-
-Since 
-
-$$H_{r}=\bigcap_{i=1}^{3} K_{i},$$
-
-where each $K_{i}$ is an index-2 subgroup of $\mathbb{S}$, preservation of $r$ forces inclusion of the three orbital dichotomies corresponding to $K_{i}$.
-
-Thus, structurally nontrivial dichotomy systems must contain at least three orbital dichotomies, in this construction.
-
-Moreover, superego-preserving systems are the external case because $g$ lies in every normal subgroup of order 4, preservation of $g$ entails preservation of all index-2 subgroups and therefore all seven orbital dichotomies.
-
-**Clarifying remark.** The constraint is imposed at the level of subgroup structure rather than individual elements. 
-
-In practice, a dichotomy system need not fix a specific relation $r$ pointwise; under a given action it may send $r$ to another element $r' \in H_{r}$. What is preserved is the normal Klein-four subgroup $H_{r}$ (and the induced partition/coset geometry), not a preferred representative.
-
-Consequently, "preserving $r$" should be read as preserving the orbit-class / invariant subset determined by $H_{r}$. This still forces the system to include (at minimum) the three orbital dichotomies corresponding to the index-2 subgroups whose intersection is $H_{r}$.
-
-Hence invariance is stable under automorphisms of $H_{r}$ (permuting its nontrivial elements), but the subgroup $H_{r}$ remains the invariant object in $\mathbb{S}$.
-
 ### Order 4
 
 For any $|H| > 2$, these will be dubbed the 'meta classes', as they can be defined using smaller classes of dichotomy systems. For any normal subgroup $H \cong \mathbb{Z}^2_{2}$, they will be abbreviated using capital letters as notation, usually to denote an 'orbital tetrachotomy'.
