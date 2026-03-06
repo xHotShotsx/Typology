@@ -19,9 +19,7 @@ Usually, dichotomy systems are uniquely identified by enumeration when $| H | = 
 
 Subgroups are typically denoted using commas and braces, but when no ambiguity results, they will be removed, along with the identity element, so $\mathcal{C}_{r} := \mathcal{C}_{\{ e,r \}}$.
 
-If $H = \{e,g\}$, then it is part of the 'orbital respecting' class. These systems keep the superego relationship invariant and contain all 7 orbital dichotomies, so $\mathcal{C}_{g} := \mathcal{D}$, and since the enumeration will, for all intents the purposes, be the same for this particular class and thus $\mathcal{C}_{g,i} := \mathcal{D}_{i}$. To give a concrete example: 
 
-$$\mathcal{C}_{g,15} := \mathcal{D}_{15} := \text{Reinin System}.$$
 
 ### Order 4
 
