@@ -19,7 +19,7 @@ Usually, dichotomy systems are uniquely identified by enumeration when $| H | = 
 
 Subgroups are typically denoted using commas and braces, but when no ambiguity results, they will be removed, along with the identity element, so $\mathcal{C}_{r} := \mathcal{C}_{\{ e,r \}}$.
 
-A structurally nontrivial dichotomy system is one that preserves at least one 
+A structurally nontrivial dichotomy system is one that preserves at least one nontrivial dyadic intertype relations subgroup $\{ e,r \}$ of $\mathbb{S} \cong D_{4} \times \mathbb{}$
 
 ### Order 4
 
