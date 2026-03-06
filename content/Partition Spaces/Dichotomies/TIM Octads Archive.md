@@ -720,7 +720,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #682: ILE,SEI,ESE,EIE,SLE,LIE,ESI,IEE  
   #683: ILE,SEI,ESE,EIE,SLE,LIE,ESI,SLI  
   #684: ILE,SEI,ESE,EIE,SLE,LIE,LSE,EII  
-  #685: ILE,SEI,ESE,EIE,SLE,LIE,LSE,IEE  $\in \mathcal{C}_{x,4}, \mathcal{C}_{x,17}$  
+  #685: ILE,SEI,ESE,EIE,SLE,LIE,LSE,IEE $\in \mathcal{C}_{x,4}, \mathcal{C}_{x,17}$  
   #686: ILE,SEI,ESE,EIE,SLE,LIE,LSE,SLI  
   #687: ILE,SEI,ESE,EIE,SLE,LIE,EII,IEE  
   #688: ILE,SEI,ESE,EIE,SLE,LIE,EII,SLI  
