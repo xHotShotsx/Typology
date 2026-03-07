@@ -28,7 +28,9 @@ For the superego-preserving class, the enumeration is aligned with the identifie
 
 $$\mathcal{D}_{i} = \mathcal{C}_{g,i},$$
 
-and 
+and the index $i$ refers to the same system in both notations. For example, 
+
+$$\mathcal{D}_{15} = \mathcal{C}_{g,15} := \text{Reinin System}$$
 
 ### Order 4
 
