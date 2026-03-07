@@ -20,7 +20,7 @@ Usually, dichotomy systems are uniquely identified by enumeration when $| H | = 
 Subgroups are typically denoted using commas and braces, but when no ambiguity results, they will be removed, along with the identity element, so $\mathcal{C}_{r} := \mathcal{C}_{\{ e,r \}}$.
 
 A structurally nontrivial dichotomy system is one that preserves at least one nontrivial dyadic intertype relations subgroup $\{ e,r \}$ of $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$. Since $\mathbb{S}$ has 11 such order 2 subgroups, and each subgroup yields an 8 element quotient geometry admitting $\frac{8!}{|AGL(3,2)|}=30$ inequivalent $E_{8}$ type dichotomy structures, with each of these lifting to 16 compatible dichotomy systems on $T$, the total number of structurally nontrivial systems is $$ 11 \cdot 30 \cdot 16 = 5280.$$
-If a dichotomy system in $\mathcal{C}_g$ contains the complete set of orbital dichotomies, then it is also in $\mathcal{D}$. Conceptually: $$ \mathcal{D}_{i} := \{ \mathcal{C}_{g,i} \mid 1 \leq i \leq 16, i \in \mathbb{Z} \} \subset \mathbb{D}.$$
+If a dichotomy system in $\mathcal{C}_g$ contains the complete set of orbital dichotomies, then it is also in $\mathcal{D}$. Conceptually: $$ \mathcal{D} := \{ \mathcal{D}_{i} \mid 1 \leq i \leq 16, i \in \mathbb{Z} \} \subset \mathbb{D}.$$
 
 ### Order 4
 
