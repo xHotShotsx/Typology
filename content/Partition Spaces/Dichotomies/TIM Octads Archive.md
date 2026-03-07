@@ -32,7 +32,7 @@ and the index $i$ refers to the same system in both notations. For example,
 
 $$\mathcal{D}_{15} = \mathcal{C}_{g,15},$$
 
-which denotes the Reinin system of dichotomies. Thus, in the special case of $\mathcal{C}_{g}$
+which denotes the Reinin system of dichotomies. Thus, in the special case of $\mathcal{C}_{g}$, the indexing agrees with $\mathcal{D}$.
 
 ### Order 4
 
