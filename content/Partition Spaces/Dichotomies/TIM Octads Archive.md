@@ -30,7 +30,9 @@ $$\mathcal{D}_{i} = \mathcal{C}_{g,i},$$
 
 and the index $i$ refers to the same system in both notations. For example, 
 
-$$\mathcal{D}_{15} = \mathcal{C}_{g,15} := \text{Reinin System}$$
+$$\mathcal{D}_{15} = \mathcal{C}_{g,15},$$
+
+which denotes the Reinin system of dichotomies. Thus, in the special case of $\mathcal{C}_{g}$
 
 ### Order 4
 
