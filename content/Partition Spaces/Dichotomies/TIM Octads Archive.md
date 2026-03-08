@@ -5342,7 +5342,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5292: ILE,LII,LSI,SLE,ILI,EII,IEE,SLI  
   #5293: ILE,LII,LSI,SLE,LIE,ESI,LSE,EII  
   #5294: ILE,LII,LSI,SLE,LIE,ESI,LSE,IEE  
-  #5295: ILE,LII,LSI,SLE,LIE,ESI,LSE,SLI  
+  #5295: ILE,LII,LSI,SLE,LIE,ESI,LSE,SLI $\in \mathcal{C}_{a,11}$      
   #5296: ILE,LII,LSI,SLE,LIE,ESI,EII,IEE $\in \mathcal{C}_{a,10}$     
   #5297: ILE,LII,LSI,SLE,LIE,ESI,EII,SLI  
   #5298: ILE,LII,LSI,SLE,LIE,ESI,IEE,SLI $\in \mathcal{C}_{a,9}$    
