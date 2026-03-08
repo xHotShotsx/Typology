@@ -4951,7 +4951,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4901: ILE,LII,EIE,LSI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{a,6}$   
   #4902: ILE,LII,EIE,LSI,ILI,LIE,EII,IEE $\in \mathcal{C}_{a,7}$     
   #4903: ILE,LII,EIE,LSI,ILI,LIE,EII,SLI  
-  #4904: ILE,LII,EIE,LSI,ILI,LIE,IEE,SLI (EIE+SLI HEF $\in \mathcal{C}_{g,12}$)  
+  #4904: ILE,LII,EIE,LSI,ILI,LIE,IEE,SLI (EIE+SLI HEF $\in \mathcal{C}_{g,12}, , \mathcal{C}_{a,7}$)  
   #4905: ILE,LII,EIE,LSI,ILI,ESI,LSE,EII  
   #4906: ILE,LII,EIE,LSI,ILI,ESI,LSE,IEE  
   #4907: ILE,LII,EIE,LSI,ILI,ESI,LSE,SLI  
