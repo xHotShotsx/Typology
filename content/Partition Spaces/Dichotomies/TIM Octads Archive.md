@@ -5520,7 +5520,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5470: ILE,LII,SLE,IEI,ILI,LIE,ESI,EII  
   #5471: ILE,LII,SLE,IEI,ILI,LIE,ESI,IEE  
   #5472: ILE,LII,SLE,IEI,ILI,LIE,ESI,SLI  
-  #5473: ILE,LII,SLE,IEI,ILI,LIE,LSE,EII (SLE+EII HEF $\in \mathcal{C}_{g,12}$)  
+  #5473: ILE,LII,SLE,IEI,ILI,LIE,LSE,EII (SLE+EII HEF $\in \mathcal{C}_{g,12}, \mathcal{C}_{a,7}$)  
   #5474: ILE,LII,SLE,IEI,ILI,LIE,LSE,IEE  
   #5475: ILE,LII,SLE,IEI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{a,7}$   
   #5476: ILE,LII,SLE,IEI,ILI,LIE,EII,IEE $\in \mathcal{C}_{a,6}$  
