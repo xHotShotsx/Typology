@@ -2855,7 +2855,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2805: ILE,SEI,SLE,IEI,SEE,ILI,LSE,SLI $\in \mathcal{C}_{a,13}$        
   #2806: ILE,SEI,SLE,IEI,SEE,ILI,EII,IEE  
   #2807: ILE,SEI,SLE,IEI,SEE,ILI,EII,SLI  
-  #2808: ILE,SEI,SLE,IEI,SEE,ILI,IEE,SLI (Irrational $\in \mathcal{O}, \mathcal{C}_{x,15}$)  
+  #2808: ILE,SEI,SLE,IEI,SEE,ILI,IEE,SLI (Irrational $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{a,15}$)  
   #2809: ILE,SEI,SLE,IEI,SEE,LIE,ESI,LSE  
   #2810: ILE,SEI,SLE,IEI,SEE,LIE,ESI,EII  
   #2811: ILE,SEI,SLE,IEI,SEE,LIE,ESI,IEE  
