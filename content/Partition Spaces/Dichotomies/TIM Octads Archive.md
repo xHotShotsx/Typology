@@ -4934,7 +4934,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4884: ILE,LII,EIE,LSI,SEE,LIE,IEE,SLI  
   #4885: ILE,LII,EIE,LSI,SEE,ESI,LSE,EII (+Δ5)  
   #4886: ILE,LII,EIE,LSI,SEE,ESI,LSE,IEE  
-  #4887: ILE,LII,EIE,LSI,SEE,ESI,LSE,SLI  
+  #4887: ILE,LII,EIE,LSI,SEE,ESI,LSE,SLI $\in \mathcal{C}_{a,7}$    
   #4888: ILE,LII,EIE,LSI,SEE,ESI,EII,IEE $\in \mathcal{C}_{a,6}$   
   #4889: ILE,LII,EIE,LSI,SEE,ESI,EII,SLI  
   #4890: ILE,LII,EIE,LSI,SEE,ESI,IEE,SLI $\in \mathcal{C}_{x,12}, \mathcal{C}_{x,28}, \mathcal{C}_{a,5}$  
@@ -5509,7 +5509,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5459: ILE,LII,SLE,IEI,SEE,ESI,LSE,EII $\in \mathcal{C}_{x,12}, \mathcal{C}_{x,28}, \mathcal{C}_{a,5}$  
   #5460: ILE,LII,SLE,IEI,SEE,ESI,LSE,IEE  
   #5461: ILE,LII,SLE,IEI,SEE,ESI,LSE,SLI $\in \mathcal{C}_{a,6}$   
-  #5462: ILE,LII,SLE,IEI,SEE,ESI,EII,IEE  
+  #5462: ILE,LII,SLE,IEI,SEE,ESI,EII,IEE $\in \mathcal{C}_{a,7}$     
   #5463: ILE,LII,SLE,IEI,SEE,ESI,EII,SLI  
   #5464: ILE,LII,SLE,IEI,SEE,ESI,IEE,SLI (+Δ6)  
   #5465: ILE,LII,SLE,IEI,SEE,LSE,EII,IEE  
