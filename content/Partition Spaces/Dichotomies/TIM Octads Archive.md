@@ -2327,7 +2327,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2277: ILE,SEI,EIE,LSI,LIE,ESI,LSE,SLI $\in \mathcal{C}_{a,13}$       
   #2278: ILE,SEI,EIE,LSI,LIE,ESI,EII,IEE  
   #2279: ILE,SEI,EIE,LSI,LIE,ESI,EII,SLI  
-  #2280: ILE,SEI,EIE,LSI,LIE,ESI,IEE,SLI (Carefree $\in \mathcal{C}_{g,15}, \mathcal{C}_{x,15}, \mathcal{C}_{x,30}$)  
+  #2280: ILE,SEI,EIE,LSI,LIE,ESI,IEE,SLI (Carefree $\in \mathcal{C}_{g,15}, \mathcal{C}_{x,15}, \mathcal{C}_{x,30}, \mathcal{C}_{a,15}$)  
   #2281: ILE,SEI,EIE,LSI,LIE,LSE,EII,IEE  
   #2282: ILE,SEI,EIE,LSI,LIE,LSE,EII,SLI  
   #2283: ILE,SEI,EIE,LSI,LIE,LSE,IEE,SLI  
@@ -2896,7 +2896,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2846: ILE,SEI,SLE,IEI,ILI,LSE,EII,SLI  
   #2847: ILE,SEI,SLE,IEI,ILI,LSE,IEE,SLI  
   #2848: ILE,SEI,SLE,IEI,ILI,EII,IEE,SLI  
-  #2849: ILE,SEI,SLE,IEI,LIE,ESI,LSE,EII (Yielding $\in \mathcal{C}_{g,15}, \mathcal{C}_{x,15}, \mathcal{C}_{x,30}$)  
+  #2849: ILE,SEI,SLE,IEI,LIE,ESI,LSE,EII (Yielding $\in \mathcal{C}_{g,15}, \mathcal{C}_{x,15}, \mathcal{C}_{x,30}, \mathcal{C}_{a,15}$)  
   #2850: ILE,SEI,SLE,IEI,LIE,ESI,LSE,IEE  
   #2851: ILE,SEI,SLE,IEI,LIE,ESI,LSE,SLI  
   #2852: ILE,SEI,SLE,IEI,LIE,ESI,EII,IEE $\in \mathcal{C}_{a,13}$       
