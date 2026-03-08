@@ -2518,7 +2518,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2468: ILE,SEI,EIE,IEI,ILI,LSE,EII,SLI  
   #2469: ILE,SEI,EIE,IEI,ILI,LSE,IEE,SLI  
   #2470: ILE,SEI,EIE,IEI,ILI,EII,IEE,SLI  
-  #2471: ILE,SEI,EIE,IEI,LIE,ESI,LSE,EII  
+  #2471: ILE,SEI,EIE,IEI,LIE,ESI,LSE,EII $\in \mathcal{C}_{a,6}$    
   #2472: ILE,SEI,EIE,IEI,LIE,ESI,LSE,IEE  
   #2473: ILE,SEI,EIE,IEI,LIE,ESI,LSE,SLI $\in \mathcal{C}_{x,12}, \mathcal{C}_{x,25}, \mathcal{C}_{a,5}$  
   #2474: ILE,SEI,EIE,IEI,LIE,ESI,EII,IEE (SEI+LIE HEF $\in \mathcal{C}_{g,12}$)  
@@ -2705,7 +2705,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2655: ILE,SEI,LSI,SLE,LIE,ESI,LSE,SLI (ILE+ESI HEF $\in \mathcal{C}_{g,12}$)  
   #2656: ILE,SEI,LSI,SLE,LIE,ESI,EII,IEE $\in \mathcal{C}_{x,12}, \mathcal{C}_{x,25}, \mathcal{C}_{a,5}$  
   #2657: ILE,SEI,LSI,SLE,LIE,ESI,EII,SLI  
-  #2658: ILE,SEI,LSI,SLE,LIE,ESI,IEE,SLI  
+  #2658: ILE,SEI,LSI,SLE,LIE,ESI,IEE,SLI $\in \mathcal{C}_{a,6}$    
   #2659: ILE,SEI,LSI,SLE,LIE,LSE,EII,IEE  
   #2660: ILE,SEI,LSI,SLE,LIE,LSE,EII,SLI  
   #2661: ILE,SEI,LSI,SLE,LIE,LSE,IEE,SLI  
@@ -4935,7 +4935,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #4885: ILE,LII,EIE,LSI,SEE,ESI,LSE,EII (+Δ5)  
   #4886: ILE,LII,EIE,LSI,SEE,ESI,LSE,IEE  
   #4887: ILE,LII,EIE,LSI,SEE,ESI,LSE,SLI  
-  #4888: ILE,LII,EIE,LSI,SEE,ESI,EII,IEE  
+  #4888: ILE,LII,EIE,LSI,SEE,ESI,EII,IEE $\in \mathcal{C}_{a,6}$   
   #4889: ILE,LII,EIE,LSI,SEE,ESI,EII,SLI  
   #4890: ILE,LII,EIE,LSI,SEE,ESI,IEE,SLI $\in \mathcal{C}_{x,12}, \mathcal{C}_{x,28}, \mathcal{C}_{a,5}$  
   #4891: ILE,LII,EIE,LSI,SEE,LSE,EII,IEE  
@@ -5508,7 +5508,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5458: ILE,LII,SLE,IEI,SEE,LIE,IEE,SLI  
   #5459: ILE,LII,SLE,IEI,SEE,ESI,LSE,EII $\in \mathcal{C}_{x,12}, \mathcal{C}_{x,28}, \mathcal{C}_{a,5}$  
   #5460: ILE,LII,SLE,IEI,SEE,ESI,LSE,IEE  
-  #5461: ILE,LII,SLE,IEI,SEE,ESI,LSE,SLI  
+  #5461: ILE,LII,SLE,IEI,SEE,ESI,LSE,SLI $\in \mathcal{C}_{a,6}$   
   #5462: ILE,LII,SLE,IEI,SEE,ESI,EII,IEE  
   #5463: ILE,LII,SLE,IEI,SEE,ESI,EII,SLI  
   #5464: ILE,LII,SLE,IEI,SEE,ESI,IEE,SLI (+Δ6)  
