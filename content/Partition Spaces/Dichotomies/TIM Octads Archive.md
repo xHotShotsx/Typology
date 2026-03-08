@@ -5523,7 +5523,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5473: ILE,LII,SLE,IEI,ILI,LIE,LSE,EII (SLE+EII HEF $\in \mathcal{C}_{g,12}$)  
   #5474: ILE,LII,SLE,IEI,ILI,LIE,LSE,IEE  
   #5475: ILE,LII,SLE,IEI,ILI,LIE,LSE,SLI  
-  #5476: ILE,LII,SLE,IEI,ILI,LIE,EII,IEE  
+  #5476: ILE,LII,SLE,IEI,ILI,LIE,EII,IEE $\in \mathcal{C}_{a,6}$  
   #5477: ILE,LII,SLE,IEI,ILI,LIE,EII,SLI  
   #5478: ILE,LII,SLE,IEI,ILI,LIE,IEE,SLI $\in \mathcal{C}_{a,5}$          
   #5479: ILE,LII,SLE,IEI,ILI,ESI,LSE,EII  
