@@ -2324,7 +2324,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2274: ILE,SEI,EIE,LSI,ILI,EII,IEE,SLI  
   #2275: ILE,SEI,EIE,LSI,LIE,ESI,LSE,EII  
   #2276: ILE,SEI,EIE,LSI,LIE,ESI,LSE,IEE  
-  #2277: ILE,SEI,EIE,LSI,LIE,ESI,LSE,SLI  
+  #2277: ILE,SEI,EIE,LSI,LIE,ESI,LSE,SLI $\in \mathcal{C}_{a,13}$       
   #2278: ILE,SEI,EIE,LSI,LIE,ESI,EII,IEE  
   #2279: ILE,SEI,EIE,LSI,LIE,ESI,EII,SLI  
   #2280: ILE,SEI,EIE,LSI,LIE,ESI,IEE,SLI (Carefree $\in \mathcal{C}_{g,15}, \mathcal{C}_{x,15}, \mathcal{C}_{x,30}$)  
