@@ -5113,7 +5113,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5062: ILE,LII,EIE,IEI,SEE,ILI,ESI,EII  
   #5063: ILE,LII,EIE,IEI,SEE,ILI,ESI,IEE  
   #5064: ILE,LII,EIE,IEI,SEE,ILI,ESI,SLI  
-  #5065: ILE,LII,EIE,IEI,SEE,ILI,LSE,EII $\in \mathcal{C}_{a,12}$        
+  #5065: ILE,LII,EIE,IEI,SEE,ILI,LSE,EII $\in \mathcal{C}_{a,12}, \mathcal{C}_{a,18}$        
   #5066: ILE,LII,EIE,IEI,SEE,ILI,LSE,IEE  
   #5067: ILE,LII,EIE,IEI,SEE,ILI,LSE,SLI $\in \mathcal{C}_{a,11}$        
   #5068: ILE,LII,EIE,IEI,SEE,ILI,EII,IEE $\in \mathcal{C}_{a,10}, \mathcal{C}_{a,17}$       
@@ -5295,12 +5295,12 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5244: ILE,LII,LSI,SLE,SEE,ILI,ESI,EII  
   #5245: ILE,LII,LSI,SLE,SEE,ILI,ESI,IEE  
   #5246: ILE,LII,LSI,SLE,SEE,ILI,ESI,SLI  
-  #5247: ILE,LII,LSI,SLE,SEE,ILI,LSE,EII $\in \mathcal{C}_{a,9}$     
+  #5247: ILE,LII,LSI,SLE,SEE,ILI,LSE,EII $\in \mathcal{C}_{a,9}, \mathcal{C}_{a,18}$     
   #5248: ILE,LII,LSI,SLE,SEE,ILI,LSE,IEE  
   #5249: ILE,LII,LSI,SLE,SEE,ILI,LSE,SLI $\in \mathcal{C}_{a,10}, \mathcal{C}_{a,17}$      
   #5250: ILE,LII,LSI,SLE,SEE,ILI,EII,IEE $\in \mathcal{C}_{a,11}$        
   #5251: ILE,LII,LSI,SLE,SEE,ILI,EII,SLI  
-  #5252: ILE,LII,LSI,SLE,SEE,ILI,IEE,SLI $\in \mathcal{C}_{a,12}$        
+  #5252: ILE,LII,LSI,SLE,SEE,ILI,IEE,SLI $\in \mathcal{C}_{a,12}, \mathcal{C}_{a,18}$        
   #5253: ILE,LII,LSI,SLE,SEE,LIE,ESI,LSE  
   #5254: ILE,LII,LSI,SLE,SEE,LIE,ESI,EII  
   #5255: ILE,LII,LSI,SLE,SEE,LIE,ESI,IEE  
@@ -5537,7 +5537,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5486: ILE,LII,SLE,IEI,ILI,LSE,EII,SLI  
   #5487: ILE,LII,SLE,IEI,ILI,LSE,IEE,SLI  
   #5488: ILE,LII,SLE,IEI,ILI,EII,IEE,SLI  
-  #5489: ILE,LII,SLE,IEI,LIE,ESI,LSE,EII $\in \mathcal{C}_{a,4}$        
+  #5489: ILE,LII,SLE,IEI,LIE,ESI,LSE,EII $\in \mathcal{C}_{a,4}, \mathcal{C}_{a,19}$        
   #5490: ILE,LII,SLE,IEI,LIE,ESI,LSE,IEE  
   #5491: ILE,LII,SLE,IEI,LIE,ESI,LSE,SLI $\in \mathcal{C}_{a,3}$      
   #5492: ILE,LII,SLE,IEI,LIE,ESI,EII,IEE $\in \mathcal{C}_{a,2}, \mathcal{C}_{a,18}$    
