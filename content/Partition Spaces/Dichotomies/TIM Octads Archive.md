@@ -2298,7 +2298,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2247: ILE,SEI,EIE,LSI,SEE,ESI,LSE,SLI $\in \mathcal{C}_{a,12}$         
   #2248: ILE,SEI,EIE,LSI,SEE,ESI,EII,IEE $\in \mathcal{C}_{a,9}$     
   #2249: ILE,SEI,EIE,LSI,SEE,ESI,EII,SLI  
-  #2250: ILE,SEI,EIE,LSI,SEE,ESI,IEE,SLI $\in \mathcal{C}_{a,10}$      
+  #2250: ILE,SEI,EIE,LSI,SEE,ESI,IEE,SLI $\in \mathcal{C}_{a,10}, \mathcal{C}_{a,17}$      
   #2251: ILE,SEI,EIE,LSI,SEE,LSE,EII,IEE  
   #2252: ILE,SEI,EIE,LSI,SEE,LSE,EII,SLI  
   #2253: ILE,SEI,EIE,LSI,SEE,LSE,IEE,SLI  
@@ -2505,7 +2505,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2454: ILE,SEI,EIE,IEI,ILI,LIE,ESI,SLI  
   #2455: ILE,SEI,EIE,IEI,ILI,LIE,LSE,EII $\in \mathcal{C}_{a,2}$     
   #2456: ILE,SEI,EIE,IEI,ILI,LIE,LSE,IEE  
-  #2457: ILE,SEI,EIE,IEI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{a,1}$    
+  #2457: ILE,SEI,EIE,IEI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{a,1}, \mathcal{C}_{a,17}$    
   #2458: ILE,SEI,EIE,IEI,ILI,LIE,EII,IEE $\in \mathcal{C}_{a,4}$          
   #2459: ILE,SEI,EIE,IEI,ILI,LIE,EII,SLI  
   #2460: ILE,SEI,EIE,IEI,ILI,LIE,IEE,SLI $\in \mathcal{C}_{a,3}$        
@@ -2867,7 +2867,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2816: ILE,SEI,SLE,IEI,SEE,LIE,EII,IEE  
   #2817: ILE,SEI,SLE,IEI,SEE,LIE,EII,SLI  
   #2818: ILE,SEI,SLE,IEI,SEE,LIE,IEE,SLI  
-  #2819: ILE,SEI,SLE,IEI,SEE,ESI,LSE,EII $\in \mathcal{C}_{a,10}$      
+  #2819: ILE,SEI,SLE,IEI,SEE,ESI,LSE,EII $\in \mathcal{C}_{a,10}, \mathcal{C}_{a,17}$      
   #2820: ILE,SEI,SLE,IEI,SEE,ESI,LSE,IEE  
   #2821: ILE,SEI,SLE,IEI,SEE,ESI,LSE,SLI $\in \mathcal{C}_{a,9}$     
   #2822: ILE,SEI,SLE,IEI,SEE,ESI,EII,IEE $\in \mathcal{C}_{a,12}$        
