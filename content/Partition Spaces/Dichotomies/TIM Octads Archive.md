@@ -5526,7 +5526,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5475: ILE,LII,SLE,IEI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{a,7}$   
   #5476: ILE,LII,SLE,IEI,ILI,LIE,EII,IEE $\in \mathcal{C}_{a,6}$  
   #5477: ILE,LII,SLE,IEI,ILI,LIE,EII,SLI  
-  #5478: ILE,LII,SLE,IEI,ILI,LIE,IEE,SLI $\in \mathcal{C}_{a,5}$          
+  #5478: ILE,LII,SLE,IEI,ILI,LIE,IEE,SLI $\in \mathcal{C}_{a,5}, \mathcal{C}_{a,21}$          
   #5479: ILE,LII,SLE,IEI,ILI,ESI,LSE,EII  
   #5480: ILE,LII,SLE,IEI,ILI,ESI,LSE,IEE  
   #5481: ILE,LII,SLE,IEI,ILI,ESI,LSE,SLI  
