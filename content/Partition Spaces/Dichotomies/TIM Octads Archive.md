@@ -2310,7 +2310,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2259: ILE,SEI,EIE,LSI,ILI,LIE,LSE,EII $\in \mathcal{C}_{a,10}$      
   #2260: ILE,SEI,EIE,LSI,ILI,LIE,LSE,IEE  
   #2261: ILE,SEI,EIE,LSI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{a,9}$     
-  #2262: ILE,SEI,EIE,LSI,ILI,LIE,EII,IEE $\in \mathcal{C}_{a,12}$        
+  #2262: ILE,SEI,EIE,LSI,ILI,LIE,EII,IEE $\in \mathcal{C}_{a,12}, \mathcal{C}_{a,30}$        
   #2263: ILE,SEI,EIE,LSI,ILI,LIE,EII,SLI  
   #2264: ILE,SEI,EIE,LSI,ILI,LIE,IEE,SLI $\in \mathcal{C}_{a,11}, \mathcal{C}_{a,29}$       
   #2265: ILE,SEI,EIE,LSI,ILI,ESI,LSE,EII  
@@ -2489,7 +2489,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2438: ILE,SEI,EIE,IEI,SEE,LIE,EII,IEE  
   #2439: ILE,SEI,EIE,IEI,SEE,LIE,EII,SLI  
   #2440: ILE,SEI,EIE,IEI,SEE,LIE,IEE,SLI  
-  #2441: ILE,SEI,EIE,IEI,SEE,ESI,LSE,EII $\in \mathcal{C}_{a,3}$        
+  #2441: ILE,SEI,EIE,IEI,SEE,ESI,LSE,EII $\in \mathcal{C}_{a,3}, \mathcal{C}_{a,30}$        
   #2442: ILE,SEI,EIE,IEI,SEE,ESI,LSE,IEE  
   #2443: ILE,SEI,EIE,IEI,SEE,ESI,LSE,SLI $\in \mathcal{C}_{a,4}, \mathcal{C}_{a,29}$          
   #2444: ILE,SEI,EIE,IEI,SEE,ESI,EII,IEE $\in \mathcal{C}_{a,1}$    
@@ -2883,7 +2883,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2832: ILE,SEI,SLE,IEI,ILI,LIE,ESI,SLI  
   #2833: ILE,SEI,SLE,IEI,ILI,LIE,LSE,EII $\in \mathcal{C}_{a,11}, \mathcal{C}_{a,29}$       
   #2834: ILE,SEI,SLE,IEI,ILI,LIE,LSE,IEE  
-  #2835: ILE,SEI,SLE,IEI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{a,12}$        
+  #2835: ILE,SEI,SLE,IEI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{a,12}, \mathcal{C}_{a,30}$        
   #2836: ILE,SEI,SLE,IEI,ILI,LIE,EII,IEE $\in \mathcal{C}_{a,9}$     
   #2837: ILE,SEI,SLE,IEI,ILI,LIE,EII,SLI  
   #2838: ILE,SEI,SLE,IEI,ILI,LIE,IEE,SLI $\in \mathcal{C}_{a,10}$      
@@ -5164,7 +5164,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5113: ILE,LII,EIE,IEI,LIE,ESI,LSE,SLI $\in \mathcal{C}_{a,10}$      
   #5114: ILE,LII,EIE,IEI,LIE,ESI,EII,IEE $\in \mathcal{C}_{a,11}, \mathcal{C}_{a,29}$       
   #5115: ILE,LII,EIE,IEI,LIE,ESI,EII,SLI  
-  #5116: ILE,LII,EIE,IEI,LIE,ESI,IEE,SLI $\in \mathcal{C}_{a,12}$         
+  #5116: ILE,LII,EIE,IEI,LIE,ESI,IEE,SLI $\in \mathcal{C}_{a,12}, \mathcal{C}_{a,30}$         
   #5117: ILE,LII,EIE,IEI,LIE,LSE,EII,IEE  
   #5118: ILE,LII,EIE,IEI,LIE,LSE,EII,SLI  
   #5119: ILE,LII,EIE,IEI,LIE,LSE,IEE,SLI  
@@ -5341,7 +5341,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5290: ILE,LII,LSI,SLE,ILI,LSE,EII,SLI  
   #5291: ILE,LII,LSI,SLE,ILI,LSE,IEE,SLI  
   #5292: ILE,LII,LSI,SLE,ILI,EII,IEE,SLI  
-  #5293: ILE,LII,LSI,SLE,LIE,ESI,LSE,EII $\in \mathcal{C}_{a,12}$       
+  #5293: ILE,LII,LSI,SLE,LIE,ESI,LSE,EII $\in \mathcal{C}_{a,12}, \mathcal{C}_{a,30}$       
   #5294: ILE,LII,LSI,SLE,LIE,ESI,LSE,IEE  
   #5295: ILE,LII,LSI,SLE,LIE,ESI,LSE,SLI $\in \mathcal{C}_{a,11}, \mathcal{C}_{a,29}$      
   #5296: ILE,LII,LSI,SLE,LIE,ESI,EII,IEE $\in \mathcal{C}_{a,10}$     
