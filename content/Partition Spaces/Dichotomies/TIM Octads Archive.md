@@ -5146,7 +5146,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5095: ILE,LII,EIE,IEI,ILI,LIE,LSE,EII $\in \mathcal{C}_{a,13}$        
   #5096: ILE,LII,EIE,IEI,ILI,LIE,LSE,IEE $\in \mathcal{C}_{d,13}, \mathcal{C}_{d,27}$      
   #5097: ILE,LII,EIE,IEI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{d,14}, \mathcal{C}_{d,28}, \mathcal{C}_{a,14}$        
-  #5098: ILE,LII,EIE,IEI,ILI,LIE,EII,IEE (Intuitive $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}, \mathcal{C}_{d,25}, \mathcal{C}_{a,15}$)  
+  #5098: ILE,LII,EIE,IEI,ILI,LIE,EII,IEE (Intuitive $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}, \mathcal{C}_{d,25}, \mathcal{C}_{a,15}, \mathcal{C}_{a,25}$)  
   #5099: ILE,LII,EIE,IEI,ILI,LIE,EII,SLI $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,26}$    
   #5100: ILE,LII,EIE,IEI,ILI,LIE,IEE,SLI $\in \mathcal{C}_{a,16}$    
   #5101: ILE,LII,EIE,IEI,ILI,ESI,LSE,EII  
@@ -5327,7 +5327,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5276: ILE,LII,LSI,SLE,ILI,LIE,ESI,SLI  
   #5277: ILE,LII,LSI,SLE,ILI,LIE,LSE,EII $\in \mathcal{C}_{a,16}$   
   #5278: ILE,LII,LSI,SLE,ILI,LIE,LSE,IEE $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,26}$  
-  #5279: ILE,LII,LSI,SLE,ILI,LIE,LSE,SLI (Logical $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}, \mathcal{C}_{d,25}, \mathcal{C}_{a,15}$)  
+  #5279: ILE,LII,LSI,SLE,ILI,LIE,LSE,SLI (Logical $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}, \mathcal{C}_{d,25}, \mathcal{C}_{a,15}, \mathcal{C}_{a,25}$)  
   #5280: ILE,LII,LSI,SLE,ILI,LIE,EII,IEE $\in \mathcal{C}_{d,14}, \mathcal{C}_{d,28}, \mathcal{C}_{a,14}$      
   #5281: ILE,LII,LSI,SLE,ILI,LIE,EII,SLI $\in \mathcal{C}_{d,13}, \mathcal{C}_{d,27}$    
   #5282: ILE,LII,LSI,SLE,ILI,LIE,IEE,SLI $\in \mathcal{C}_{a,13}$        
@@ -5510,7 +5510,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5459: ILE,LII,SLE,IEI,SEE,ESI,LSE,EII $\in \mathcal{C}_{x,12}, \mathcal{C}_{x,28}, \mathcal{C}_{a,5}$  
   #5460: ILE,LII,SLE,IEI,SEE,ESI,LSE,IEE  
   #5461: ILE,LII,SLE,IEI,SEE,ESI,LSE,SLI $\in \mathcal{C}_{a,6}$   
-  #5462: ILE,LII,SLE,IEI,SEE,ESI,EII,IEE $\in \mathcal{C}_{a,7}$     
+  #5462: ILE,LII,SLE,IEI,SEE,ESI,EII,IEE $\in \mathcal{C}_{a,7}, \mathcal{C}_{a,26}$     
   #5463: ILE,LII,SLE,IEI,SEE,ESI,EII,SLI  
   #5464: ILE,LII,SLE,IEI,SEE,ESI,IEE,SLI (+Δ6 $\in \mathcal{C}_{a,7}, \mathcal{C}_{a,25}$)  
   #5465: ILE,LII,SLE,IEI,SEE,LSE,EII,IEE  
