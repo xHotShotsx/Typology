@@ -5147,7 +5147,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5097: ILE,LII,EIE,IEI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{d,14}, \mathcal{C}_{d,28}, \mathcal{C}_{a,14}$        
   #5098: ILE,LII,EIE,IEI,ILI,LIE,EII,IEE (Intuitive $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}, \mathcal{C}_{d,25}, \mathcal{C}_{a,15}$)  
   #5099: ILE,LII,EIE,IEI,ILI,LIE,EII,SLI $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,26}$    
-  #5100: ILE,LII,EIE,IEI,ILI,LIE,IEE,SLI  
+  #5100: ILE,LII,EIE,IEI,ILI,LIE,IEE,SLI $\in \mathcal{C}_{a,16}$    
   #5101: ILE,LII,EIE,IEI,ILI,ESI,LSE,EII  
   #5102: ILE,LII,EIE,IEI,ILI,ESI,LSE,IEE $\in \mathcal{C}_{d,9}, \mathcal{C}_{d,31}$   
   #5103: ILE,LII,EIE,IEI,ILI,ESI,LSE,SLI $\in \mathcal{C}_{d,10}, \mathcal{C}_{d,32}$    
@@ -5324,7 +5324,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5274: ILE,LII,LSI,SLE,ILI,LIE,ESI,EII  
   #5275: ILE,LII,LSI,SLE,ILI,LIE,ESI,IEE  
   #5276: ILE,LII,LSI,SLE,ILI,LIE,ESI,SLI  
-  #5277: ILE,LII,LSI,SLE,ILI,LIE,LSE,EII  
+  #5277: ILE,LII,LSI,SLE,ILI,LIE,LSE,EII $\in \mathcal{C}_{a,16}$   
   #5278: ILE,LII,LSI,SLE,ILI,LIE,LSE,IEE $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,26}$  
   #5279: ILE,LII,LSI,SLE,ILI,LIE,LSE,SLI (Logical $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}, \mathcal{C}_{d,25}, \mathcal{C}_{a,15}$)  
   #5280: ILE,LII,LSI,SLE,ILI,LIE,EII,IEE $\in \mathcal{C}_{d,14}, \mathcal{C}_{d,28}, \mathcal{C}_{a,14}$      
