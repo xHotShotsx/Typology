@@ -10,7 +10,7 @@
  #10: Base, Creative, Suggestive, Mobilising (Valued / Subdued)  
  #11: Base, Creative, Suggestive, Ignoring  
  #12: Base, Creative, Suggestive, Demonstrative (Energetic / Informational)  
- #13: Base, Creative, Mobilising, Ignoring  
+ #13: Base, Creative, Mobilising, Ignoring (Excitable / Inhibitable)    
  #14: Base, Creative, Mobilising, Demonstrative (Pronounced / Subtle)    
  #15: Base, Creative, Ignoring, Demonstrative (Strong / Weak)  
  #16: Base, Role, Vulnerable, Suggestive  
