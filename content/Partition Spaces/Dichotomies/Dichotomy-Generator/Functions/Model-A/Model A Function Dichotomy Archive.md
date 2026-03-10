@@ -9,7 +9,7 @@
  #9: Base, Creative, Vulnerable, Demonstrative  
  #10: Base, Creative, Suggestive, Mobilising (Valued / Subdued)  
  #11: Base, Creative, Suggestive, Ignoring  
- #12: Base, Creative, Suggestive, Demonstrative  
+ #12: Base, Creative, Suggestive, Demonstrative (Energetic / Informational)  
  #13: Base, Creative, Mobilising, Ignoring  
  #14: Base, Creative, Mobilising, Demonstrative (Pronounced / Subtle)    
  #15: Base, Creative, Ignoring, Demonstrative (Strong / Weak)  
