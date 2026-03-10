@@ -21,7 +21,7 @@
  #21: Base, Role, Suggestive, Ignoring (Accepting / Producing)  
  #22: Base, Role, Suggestive, Demonstrative  
  #23: Base, Role, Mobilising, Ignoring  
- #24: Base, Role, Mobilising, Demonstrative  
+ #24: Base, Role, Mobilising, Demonstrative (Bold / Cautious)  
  #25: Base, Role, Ignoring, Demonstrative  
  #26: Base, Vulnerable, Suggestive, Mobilising  
  #27: Base, Vulnerable, Suggestive, Ignoring  
