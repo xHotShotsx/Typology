@@ -26,7 +26,7 @@
  #26: Base, Vulnerable, Suggestive, Mobilising  
  #27: Base, Vulnerable, Suggestive, Ignoring  
  #28: Base, Vulnerable, Suggestive, Demonstrative (Evaluatory / Situational)  
- #29: Base, Vulnerable, Mobilising, Ignoring  
+ #29: Base, Vulnerable, Mobilising, Ignoring (Inert / Contact)  
  #30: Base, Vulnerable, Mobilising, Demonstrative  
  #31: Base, Vulnerable, Ignoring, Demonstrative  
  #32: Base, Suggestive, Mobilising, Ignoring  
