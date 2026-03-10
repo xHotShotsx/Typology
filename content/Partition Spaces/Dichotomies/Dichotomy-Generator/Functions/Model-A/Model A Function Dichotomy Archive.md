@@ -1,6 +1,6 @@
- #1: Base, Creative, Role, Vulnerable (Mental / Vital)
- #2: Base, Creative, Role, Suggestive
- #3: Base, Creative, Role, Mobilising
+ #1: Base, Creative, Role, Vulnerable (Mental / Vital)  
+ #2: Base, Creative, Role, Suggestive     
+ #3: Base, Creative, Role, Mobilising  
  #4: Base, Creative, Role, Ignoring  
  #5: Base, Creative, Role, Demonstrative  
  #6: Base, Creative, Vulnerable, Suggestive  
