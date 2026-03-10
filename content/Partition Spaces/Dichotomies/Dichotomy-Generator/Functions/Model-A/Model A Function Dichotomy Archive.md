@@ -1,69 +1,35 @@
- #1: Base, Creative, Role, Vulnerable (Mental / Vitaal)
-
+ #1: Base, Creative, Role, Vulnerable (Mental / Vital)
  #2: Base, Creative, Role, Suggestive
-
  #3: Base, Creative, Role, Mobilising
-
- #4: Base, Creative, Role, Ignoring
-
- #5: Base, Creative, Role, Demonstrative
-
- #6: Base, Creative, Vulnerable, Suggestive
-
- #7: Base, Creative, Vulnerable, Mobilising
-
- #8: Base, Creative, Vulnerable, Ignoring
-
- #9: Base, Creative, Vulnerable, Demonstrative
-
- #10: Base, Creative, Suggestive, Mobilising
-
- #11: Base, Creative, Suggestive, Ignoring
-
- #12: Base, Creative, Suggestive, Demonstrative
-
- #13: Base, Creative, Mobilising, Ignoring
-
- #14: Base, Creative, Mobilising, Demonstrative
-
- #15: Base, Creative, Ignoring, Demonstrative
-
- #16: Base, Role, Vulnerable, Suggestive
-
- #17: Base, Role, Vulnerable, Mobilising
-
- #18: Base, Role, Vulnerable, Ignoring
-
- #19: Base, Role, Vulnerable, Demonstrative
-
- #20: Base, Role, Suggestive, Mobilising
-
- #21: Base, Role, Suggestive, Ignoring
-
- #22: Base, Role, Suggestive, Demonstrative
-
- #23: Base, Role, Mobilising, Ignoring
-
- #24: Base, Role, Mobilising, Demonstrative
-
- #25: Base, Role, Ignoring, Demonstrative
-
- #26: Base, Vulnerable, Suggestive, Mobilising
-
- #27: Base, Vulnerable, Suggestive, Ignoring
-
- #28: Base, Vulnerable, Suggestive, Demonstrative
-
- #29: Base, Vulnerable, Mobilising, Ignoring
-
- #30: Base, Vulnerable, Mobilising, Demonstrative
-
- #31: Base, Vulnerable, Ignoring, Demonstrative
-
- #32: Base, Suggestive, Mobilising, Ignoring
-
- #33: Base, Suggestive, Mobilising, Demonstrative
-
- #34: Base, Suggestive, Ignoring, Demonstrative
-
- #35: Base, Mobilising, Ignoring, Demonstrative
+ #4: Base, Creative, Role, Ignoring  
+ #5: Base, Creative, Role, Demonstrative  
+ #6: Base, Creative, Vulnerable, Suggestive  
+ #7: Base, Creative, Vulnerable, Mobilising  
+ #8: Base, Creative, Vulnerable, Ignoring  
+ #9: Base, Creative, Vulnerable, Demonstrative  
+ #10: Base, Creative, Suggestive, Mobilising  
+ #11: Base, Creative, Suggestive, Ignoring  
+ #12: Base, Creative, Suggestive, Demonstrative  
+ #13: Base, Creative, Mobilising, Ignoring  
+ #14: Base, Creative, Mobilising, Demonstrative  
+ #15: Base, Creative, Ignoring, Demonstrative  
+ #16: Base, Role, Vulnerable, Suggestive  
+ #17: Base, Role, Vulnerable, Mobilising  
+ #18: Base, Role, Vulnerable, Ignoring  
+ #19: Base, Role, Vulnerable, Demonstrative  
+ #20: Base, Role, Suggestive, Mobilising  
+ #21: Base, Role, Suggestive, Ignoring  
+ #22: Base, Role, Suggestive, Demonstrative  
+ #23: Base, Role, Mobilising, Ignoring  
+ #24: Base, Role, Mobilising, Demonstrative  
+ #25: Base, Role, Ignoring, Demonstrative  
+ #26: Base, Vulnerable, Suggestive, Mobilising  
+ #27: Base, Vulnerable, Suggestive, Ignoring  
+ #28: Base, Vulnerable, Suggestive, Demonstrative  
+ #29: Base, Vulnerable, Mobilising, Ignoring  
+ #30: Base, Vulnerable, Mobilising, Demonstrative  
+ #31: Base, Vulnerable, Ignoring, Demonstrative  
+ #32: Base, Suggestive, Mobilising, Ignoring  
+ #33: Base, Suggestive, Mobilising, Demonstrative  
+ #34: Base, Suggestive, Ignoring, Demonstrative  
+ #35: Base, Mobilising, Ignoring, Demonstrative  
