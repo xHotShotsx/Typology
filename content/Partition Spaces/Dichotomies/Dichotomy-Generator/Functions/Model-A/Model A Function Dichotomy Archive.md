@@ -11,7 +11,7 @@
  #11: Base, Creative, Suggestive, Ignoring  
  #12: Base, Creative, Suggestive, Demonstrative  
  #13: Base, Creative, Mobilising, Ignoring  
- #14: Base, Creative, Mobilising, Demonstrative  
+ #14: Base, Creative, Mobilising, Demonstrative (Pronounced / Subtle)    
  #15: Base, Creative, Ignoring, Demonstrative (Strong / Weak)  
  #16: Base, Role, Vulnerable, Suggestive  
  #17: Base, Role, Vulnerable, Mobilising  
