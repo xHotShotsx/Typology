@@ -23,12 +23,12 @@
  #23: Base, Role, Mobilising, Ignoring  
  #24: Base, Role, Mobilising, Demonstrative (Bold / Cautious)  
  #25: Base, Role, Ignoring, Demonstrative  
- #26: Base, Vulnerable, Suggestive, Mobilising  
+ #26: Base, Vulnerable, Suggestive, Mobilising (Impressionable / Unimpressionable)    
  #27: Base, Vulnerable, Suggestive, Ignoring  
  #28: Base, Vulnerable, Suggestive, Demonstrative (Evaluatory / Situational)  
  #29: Base, Vulnerable, Mobilising, Ignoring (Inert / Contact)  
  #30: Base, Vulnerable, Mobilising, Demonstrative  
- #31: Base, Vulnerable, Ignoring, Demonstrative  
+ #31: Base, Vulnerable, Ignoring, Demonstrative (Tensioned / Relaxed)  
  #32: Base, Suggestive, Mobilising, Ignoring  
  #33: Base, Suggestive, Mobilising, Demonstrative  
  #34: Base, Suggestive, Ignoring, Demonstrative  
