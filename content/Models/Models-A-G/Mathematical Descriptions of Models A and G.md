@@ -28,6 +28,21 @@ Like with $\mathbb{S}$, $H$ can be described by certain permutations such as $B 
 
 Since Model-G does not model all elements of the full socion for a type $t \in T$, the construction of Model G layouts for both process and result types, for which we'll denote $P$ and $R$, respectively, are needed to represent all information in the Socion. Thus, Model-G can be formally understood as $F_{MG} \times \{ P, R \}$ with $H$ acting on $F_{MG}$, the selector dichotomy (Process/Result) acting on $\{ P, R \}$ and no group action mixing the two.
 
+# The Orbit-Stabiliser Theorem
+
+Let $G$ be a group which acts on a finite set $X$.  
+Let $x \in X$.  
+Let $\mathrm{Orb}(x)$ denote the orbit of $x$.  
+Let $\mathrm{Stab}(x)$ denote the stabiliser of $x$ by $G$.  
+Let $[G : \rm{Stab}(x)]$ denote the index of $\mathrm{Stab}(x)$ in $G$.
+
+Then:
+
+$$|\mathrm{Orb}(x)| = [G : \mathrm{Stab}(x)] = \frac{|G|}{|\mathrm{Stab} (x)|}$$
+
+## Systems of Injections
+
+Let $G := \mathbb{S}$ act intransitively on a finite set $X$ containing 16 points with two different orbits, which are the cosets of an index-2 subgroup $H \leq \mathbb{S}$, and thus the orbit size is $|\mathrm{Orb}(x)|=8$. A set of mapped functions is denoted $F \times \{A,B\}$ where $A$ and $B$ are the cosets of $H$. Since an information element $i \in I$ decomposes into two monadic elements, which are cosets of the kindred subgroup $\{e,k\}$, it can be reasonably inferred that the stabiliser subgroup when $x$ is the Base Function of Model A will also be the subgroup $\{e,k\}$, and this applies to all accepting functions as applying the kindred operator $k$ would fix the functions 1, 3, 5, and 7, and applying the lookalike operator $l$ would fix functions 2, 4, 6 and 8, and only changing the charge of the element in systems of injections. So, for producing functions, the stabiliser subgroup is $\{e,l\}$. $|\mathrm{Stab}(x)| = 2$ because $\frac{|G|}{|\mathrm{Orb}(x)|} = \frac{16}{8} = 2$. So for odd positions, the stabiliser is conjugate to $\{e,k\}$, whereas for even positions, the stabiliser is conjugate to $\{e,l\}$. 
 
 # Alternate Interpretations of Model A (Systems of Injections)
 
@@ -81,3 +96,4 @@ Model A is a surjective coset model: functions correspond to cosets of the 'kind
 - [[Models/Models-A-G/Injections - Model A and Model G Charge Systems|Injections - Model A and Model G Charge Systems]]
 - [[Models/Models-A-G/Injections - Function Dichotomies to TIM Tetrachotomies|Injections - Function Dichotomies to TIM Tetrachotomies]]
 - [[Models/Models-A-G/Element (Information) Dichotomies|Element (Information) Dichotomies]]
+- https://proofwiki.org/wiki/Orbit-Stabilizer_Theorem
