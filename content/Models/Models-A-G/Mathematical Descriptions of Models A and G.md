@@ -42,9 +42,11 @@ $$|\mathrm{Orb}(x)| = [G : \mathrm{Stab}(x)] = \frac{|G|}{|\mathrm{Stab} (x)|}$$
 
 ## Systems of Injections
 
-Let $G := \mathbb{S}$ act intransitively on a finite set $X$ containing 16 points with two different orbits, which are the cosets of an index-2 subgroup $H \leq \mathbb{S}$, and thus the orbit size is $|\mathrm{Orb}(x)|=8$. A set of mapped functions is denoted $F \times \{A,B\}$ where $A$ and $B$ are the cosets of $H$. Since an information element $i \in I$ decomposes into two monadic elements, which are cosets of the kindred subgroup $\{e,k\}$, it can be reasonably inferred that the stabiliser subgroup when $x$ is the Base Function of Model A will also be the subgroup $\{e,k\}$, and this applies to all accepting functions as applying the kindred operator $k$ would fix the functions 1, 3, 5, and 7, and applying the lookalike operator $l$ would fix functions 2, 4, 6 and 8, and only changing the charge of the element in systems of injections. So, for producing functions, the stabiliser subgroup is $\{e,l\}$. $|\mathrm{Stab}(x)| = 2$ because $\frac{|G|}{|\mathrm{Orb}(x)|} = \frac{16}{8} = 2$. So for odd positions, the stabiliser is conjugate to $\{e,k\}$, whereas for even positions, the stabiliser is conjugate to $\{e,l\}$.
+Let $G := \mathbb{S}$ act intransitively on a finite set $X$ containing 16 points with two different orbits, which are the cosets of an index-2 subgroup $H \leq \mathbb{S}$, and thus the orbit size is $|\mathrm{Orb}(x)|=8$. A set of mapped functions is denoted $F \times \{A,B\}$ where $A$ and $B$ are the cosets of $H$. Since an information element $i \in I$ decomposes into two monadic elements, which are cosets of the kindred subgroup $\{e,k\}$, the stabiliser subgroup when $x$ is the Base Function of Model A will also be the subgroup $\{e,k\}$, and this applies to all accepting functions as applying the kindred operator $k$ would fix the functions 1, 3, 5, and 7, and applying the lookalike operator $l$ would fix functions 2, 4, 6 and 8, and only changing the charge of the element in systems of injections. So, for producing functions, the stabiliser subgroup is $\{e,l\}$. $|\mathrm{Stab}(x)| = 2$ because $\frac{|G|}{|\mathrm{Orb}(x)|} = \frac{16}{8} = 2$. So for odd positions, the stabiliser is conjugate to $\{e,k\}$, whereas for even positions, the stabiliser is conjugate to $\{e,l\}$.
 
-## School of Classical Socioni
+## School of Classical Socionics
+
+
 
 # Alternate Interpretations of Model A (Systems of Injections)
 
