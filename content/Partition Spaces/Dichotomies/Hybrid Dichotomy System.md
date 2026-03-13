@@ -1,4 +1,4 @@
-# Hybrid Dichotomy System for $\mathbb{S}$
+# Hybrid Dichotomy System for $\mathbb{S}$ - The Geometric Dichotomies
 ## 0th order dichotomy
 
 {} - Valid/Null
