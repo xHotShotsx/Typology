@@ -470,22 +470,22 @@
 		      <td>SEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Bi "Foreplanning"</td>
+	    	  <td>βi "Foreplanning"</td>
 		      <td>1stAbstract</td><td>Aristocratic</td><td>2ndBeta</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Introverted</td>
 		      <td>LSI</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Be "Projection"</td>
+	    	  <td>βe "Projection"</td>
 		      <td>1stInvolved</td><td>Aristocratic</td><td>2ndBeta</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Extroverted</td>
 		      <td>EIE</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Δe "Retooling"</td>
+	    	  <td>δe "Retooling"</td>
 		      <td>1stAbstract</td><td>Aristocratic</td><td>2ndDelta</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Extroverted</td>
 		      <td>LSE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Δi "Resonance"</td>
+	    	  <td>δi "Resonance"</td>
 		      <td>1stInvolved</td><td>Aristocratic</td><td>2ndDelta</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Introverted</td>
 		      <td>EII</td><td>SLI</td>
 	    </tr>
@@ -558,12 +558,12 @@
 	      <td><b>I</b></td><td><b>D</b></td><td><b>QA</b></td><td><b>ID</b></td><td><b>QAI</b></td><td><b>QAD</b></td><td><b>QAID</b></td>
 	      </tr>
 		 <tr>
-			  <td>Ae "Enlivening"</td>
+			  <td>αe "Enlivening"</td>
 		      <td>1stInternal</td><td>Democratic</td><td>2ndAlpha</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Extroverted</td>
 		      <td>ILE</td><td>ESE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ai "Refinement"</td>
+	    	  <td>αi "Refinement"</td>
 		      <td>1stExternal</td><td>Democratic</td><td>2ndAlpha</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Introverted</td>
 		      <td>SEI</td><td>LII</td>
 	    </tr>
@@ -588,12 +588,12 @@
 		      <td>LSI</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Γi "Reclusion"</td>
+	    	  <td>γi "Reclusion"</td>
 		      <td>1stInternal</td><td>Democratic</td><td>2ndGamma</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Introverted</td>
 		      <td>ILI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Γe "Mobilisation"</td>
+	    	  <td>γe "Mobilisation"</td>
 		      <td>1stExternal</td><td>Democratic</td><td>2ndGamma</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Extroverted</td>
 		      <td>SEE</td><td>LIE</td>
 	    </tr>

@@ -313,12 +313,12 @@
 	      <td><b>E</b></td><td><b>NT</b></td><td><b>NP</b></td><td><b>TP</b></td><td><b>ENT</b></td><td><b>ENP</b></td><td><b>ETP</b></td>
 	      </tr>
 		 <tr>
-			  <td>Ae "Illustration"</td>
+			  <td>αe "Illustration"</td>
 		      <td>Extroverted</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Merry</td>
 		      <td>ILE</td><td>ESE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Γi "Regard"</td>
+	    	  <td>γi "Regard"</td>
 		      <td>Introverted</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Serious</td>
 		      <td>ILI</td><td>ESI</td>
 	    </tr>
