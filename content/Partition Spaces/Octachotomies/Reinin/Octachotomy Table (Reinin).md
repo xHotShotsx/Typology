@@ -323,32 +323,32 @@
 		      <td>ILI</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Δe "Practice"</td>
+	    	  <td>δe "Practice"</td>
 		      <td>Extroverted</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Serious</td>
 		      <td>LSE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Bi "Prescription"</td>
+	    	  <td>βi "Prescription"</td>
 		      <td>Introverted</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Merry</td>
 		      <td>LSI</td><td>IEI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Βe "Demonstration"</td>
+	    	  <td>βe "Demonstration"</td>
 		      <td>Extroverted</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Merry</td>
 		      <td>EIE</td><td>SLE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Δi "Assimilation"</td>
+	    	  <td>δi "Assimilation"</td>
 		      <td>Introverted</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Serious</td>
 		      <td>EII</td><td>SLI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Γe "Indication"</td>
+	    	  <td>γe "Indication"</td>
 		      <td>Extroverted</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Serious</td>
 		      <td>SEE</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Αe "Description"</td>
+	    	  <td>αe "Description"</td>
 		      <td>Introverted</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Merry</td>
 		      <td>SEI</td><td>LII</td>
 	    </tr>
