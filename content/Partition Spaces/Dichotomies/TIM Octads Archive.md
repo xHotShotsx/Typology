@@ -11,7 +11,7 @@ $\mathcal{C}_{H}$ is the class of dichotomy systems that preserve a subgroup $H 
 ## $\mathcal{C}$
 ### Order 1
 
-This class is reserved to systems which no nontrivial intertype relation respects dichotomies from a dichotomy system $\mathfrak{D} \in \mathcal{C}_{\{ e \}}$, either by preserving a trait or flipping it for any given dichotomy $\mathfrak{d} \in \mathfrak{D}$. An example often cited in this context is the 'Keirsey-Berens' dichotomy system. While it may act on $T$, in this construction it is structurally trivial.
+This class is reserved to systems which no nontrivial intertype relation respects dichotomies from a dichotomy system $\mathfrak{D} \in \mathcal{C}_{\{ e \}}$, either by preserving a trait or flipping it for any given dichotomy $\mathfrak{d} \in \mathfrak{D}$. An example cited in this context is the 'Lupus-Cluster' dichotomy system. While it may act on $T$, in this construction it is structurally trivial.
 
 ### Order 2
 
