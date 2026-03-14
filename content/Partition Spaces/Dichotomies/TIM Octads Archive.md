@@ -6490,7 +6490,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ## $\mathcal{C}_{g,1-16} \text{ or } \mathcal{D}$
 
 #2808: Irrational / Rational  
-#2229: Process / R  
+#2229: Process / Result    
 #426: Democratic / Aristocratic  
 #4082: Extroverted / Introverted  
 #5266: Static / Dynamic  
