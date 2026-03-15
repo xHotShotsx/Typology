@@ -6496,7 +6496,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ## $\mathcal{C}_{g,1-16} \text{ or } \mathcal{D}$
 
 #2808: Irrational / Rational  
-#2229: Process / Irrational  
+#2229: Process / Result    
 #426: Democratic / Aristocratic  
 #4082: Extroverted / Introverted  
 #5266: Static / Dynamic  
@@ -6505,14 +6505,14 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 ## $\mathcal{C}_{g,17-32}$
 
-#2229
+#2229: Process / Result
 #4082: Extroverted / Introverted  
 #5083: Asking / Declaring  
 
 ## $\mathcal{C}_{x,1-16}$
 
 #2808: Irrational / Rational  
-#2229: Process / Irrational  
+#2229: Process / Result    
 #426: Democratic / Aristocratic  
 #5098: Intuitive / Sensing  
 #5279: Logical / Ethical  
@@ -6522,7 +6522,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ## $\mathcal{C}_{x,17-32}$
 
 #2808: Irrational / Rational  
-#2229: Process / Irrational  
+#2229: Process / Result    
 #426: Democratic / Aristocratic  
 #5348: 1stAbstract / 1stInvolved  
 #4180: 1stInternal / 1stExternal  
@@ -6532,7 +6532,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ## $\mathcal{C}_{d,1-16}$
 
 #2808: Irrational / Rational  
-#2229: Process / Irrational  
+#2229: Process / Result    
 #426: Democratic / Aristocratic  
 #495: Judicious / Decisive  
 #1: Merry / Serious  
@@ -6542,7 +6542,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ## $\mathcal{C}_{d,17-32}$
 
 #2808: Irrational / Rational  
-#2229: Process / Irrational  
+#2229: Process / Result    
 #426: Democratic / Aristocratic  
 #45: 1stAlpha / 1stGamma  
 #3003: 1stDelta / 1stBeta  
