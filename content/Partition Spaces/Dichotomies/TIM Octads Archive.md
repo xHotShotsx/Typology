@@ -39,7 +39,7 @@ which denotes the Reinin system of dichotomies. Thus, in the special case of $\m
 
 Each of the $11$ nontrivial classes will be further divided into subclasses. These subclasses are determined y the invariant dichotomies used to define the order-2 subgroup $\{ e,r \}$. Each subclass contains up to $16$ dichotomy systems on $T$, corresponding up to the $16$ ways of lifting the underlying $8$-element geometry while preserving the symmetry of the seven defining dichotomies.
 
-For example, the extinguishment dyad $\{ e,x \}$ may be realised by several distinct subclFor example, one way to define extinguishment is to use the Reinin dichotomies, but another way is by using the Tencer-Minaev dichotomies. See the section [[TIM Octads Archive#Example Subclasses of Dichotomy Systems]] for more detail.
+For example, the extinguishment dyad $\{ e,x \}$ may be realised by several distinct subclasses. One subclass arises from the Reinin dichotomies, while another arises from the Tencer-Minaev dichotomies. See the section [[TIM Octads Archive#Example Subclasses of Dichotomy Systems]] for more detail.
 
 ### Order 4
 
