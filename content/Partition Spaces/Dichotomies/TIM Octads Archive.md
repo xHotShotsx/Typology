@@ -2475,10 +2475,10 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2424: ILE,SEI,EIE,IEI,SEE,ILI,ESI,SLI  
   #2425: ILE,SEI,EIE,IEI,SEE,ILI,LSE,EII $\in \mathcal{C}_{a,7}, \mathcal{C}_{a,26}$     
   #2426: ILE,SEI,EIE,IEI,SEE,ILI,LSE,IEE  
-  #2427: ILE,SEI,EIE,IEI,SEE,ILI,LSE,SLI (+Δ7 $\in \mathcal{C}_{a,7}, \mathcal{C}_{a,25}$)  
-  #2428: ILE,SEI,EIE,IEI,SEE,ILI,EII,IEE $\in \mathcal{C}_{a,5}, \mathcal{C}_{a,28}$    
+  #2427: ILE,SEI,EIE,IEI,SEE,ILI,LSE,SLI (+Δ7)  
+  #2428: ILE,SEI,EIE,IEI,SEE,ILI,EII,IEE      
   #2429: ILE,SEI,EIE,IEI,SEE,ILI,EII,SLI  
-  #2430: ILE,SEI,EIE,IEI,SEE,ILI,IEE,SLI $\in \mathcal{C}_{a,6}, \mathcal{C}_{a,27}$   
+  #2430: ILE,SEI,EIE,IEI,SEE,ILI,IEE,SLI     
   #2431: ILE,SEI,EIE,IEI,SEE,LIE,ESI,LSE  
   #2432: ILE,SEI,EIE,IEI,SEE,LIE,ESI,EII  
   #2433: ILE,SEI,EIE,IEI,SEE,LIE,ESI,IEE  
@@ -2489,9 +2489,9 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2438: ILE,SEI,EIE,IEI,SEE,LIE,EII,IEE  
   #2439: ILE,SEI,EIE,IEI,SEE,LIE,EII,SLI  
   #2440: ILE,SEI,EIE,IEI,SEE,LIE,IEE,SLI  
-  #2441: ILE,SEI,EIE,IEI,SEE,ESI,LSE,EII $\in \mathcal{C}_{a,3}, \mathcal{C}_{a,30}$        
+  #2441: ILE,SEI,EIE,IEI,SEE,ESI,LSE,EII          
   #2442: ILE,SEI,EIE,IEI,SEE,ESI,LSE,IEE  
-  #2443: ILE,SEI,EIE,IEI,SEE,ESI,LSE,SLI $\in \mathcal{C}_{a,4}, \mathcal{C}_{a,29}$          
+  #2443: ILE,SEI,EIE,IEI,SEE,ESI,LSE,SLI            
   #2444: ILE,SEI,EIE,IEI,SEE,ESI,EII,IEE      
   #2445: ILE,SEI,EIE,IEI,SEE,ESI,EII,SLI  
   #2446: ILE,SEI,EIE,IEI,SEE,ESI,IEE,SLI        
