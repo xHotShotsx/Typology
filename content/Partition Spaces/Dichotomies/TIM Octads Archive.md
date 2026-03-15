@@ -5143,12 +5143,12 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5092: ILE,LII,EIE,IEI,ILI,LIE,ESI,EII  
   #5093: ILE,LII,EIE,IEI,ILI,LIE,ESI,IEE  
   #5094: ILE,LII,EIE,IEI,ILI,LIE,ESI,SLI  
-  #5095: ILE,LII,EIE,IEI,ILI,LIE,LSE,EII $\in \mathcal{C}_{a,13}, \mathcal{C}_{a,27}$        
+  #5095: ILE,LII,EIE,IEI,ILI,LIE,LSE,EII       
   #5096: ILE,LII,EIE,IEI,ILI,LIE,LSE,IEE $\in \mathcal{C}_{d,13}, \mathcal{C}_{d,27}$      
   #5097: ILE,LII,EIE,IEI,ILI,LIE,LSE,SLI $\in \mathcal{C}_{d,14}, \mathcal{C}_{d,28}, \mathcal{C}_{a,14}, \mathcal{C}_{a,28}$        
-  #5098: ILE,LII,EIE,IEI,ILI,LIE,EII,IEE (Intuitive $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}, \mathcal{C}_{d,25}, \mathcal{C}_{a,15}, \mathcal{C}_{a,25}$)  
+  #5098: ILE,LII,EIE,IEI,ILI,LIE,EII,IEE (Intuitive $\in \mathcal{C}_{g,15}, \mathcal{C}_{d,15}, \mathcal{C}_{d,25}$)  
   #5099: ILE,LII,EIE,IEI,ILI,LIE,EII,SLI $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,26}$    
-  #5100: ILE,LII,EIE,IEI,ILI,LIE,IEE,SLI $\in \mathcal{C}_{a,16}, \mathcal{C}_{a,26}$    
+  #5100: ILE,LII,EIE,IEI,ILI,LIE,IEE,SLI      
   #5101: ILE,LII,EIE,IEI,ILI,ESI,LSE,EII  
   #5102: ILE,LII,EIE,IEI,ILI,ESI,LSE,IEE $\in \mathcal{C}_{d,9}, \mathcal{C}_{d,31}$   
   #5103: ILE,LII,EIE,IEI,ILI,ESI,LSE,SLI $\in \mathcal{C}_{d,10}, \mathcal{C}_{d,32}$    
@@ -5159,12 +5159,12 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5108: ILE,LII,EIE,IEI,ILI,LSE,EII,SLI  
   #5109: ILE,LII,EIE,IEI,ILI,LSE,IEE,SLI  
   #5110: ILE,LII,EIE,IEI,ILI,EII,IEE,SLI  
-  #5111: ILE,LII,EIE,IEI,LIE,ESI,LSE,EII $\in \mathcal{C}_{a,9}, \mathcal{C}_{a,31}$     
+  #5111: ILE,LII,EIE,IEI,LIE,ESI,LSE,EII  
   #5112: ILE,LII,EIE,IEI,LIE,ESI,LSE,IEE  
-  #5113: ILE,LII,EIE,IEI,LIE,ESI,LSE,SLI $\in \mathcal{C}_{a,10}, \mathcal{C}_{a,32}$      
-  #5114: ILE,LII,EIE,IEI,LIE,ESI,EII,IEE $\in \mathcal{C}_{a,11}, \mathcal{C}_{a,29}$       
+  #5113: ILE,LII,EIE,IEI,LIE,ESI,LSE,SLI   
+  #5114: ILE,LII,EIE,IEI,LIE,ESI,EII,IEE       
   #5115: ILE,LII,EIE,IEI,LIE,ESI,EII,SLI  
-  #5116: ILE,LII,EIE,IEI,LIE,ESI,IEE,SLI $\in \mathcal{C}_{a,12}, \mathcal{C}_{a,30}$         
+  #5116: ILE,LII,EIE,IEI,LIE,ESI,IEE,SLI           
   #5117: ILE,LII,EIE,IEI,LIE,LSE,EII,IEE  
   #5118: ILE,LII,EIE,IEI,LIE,LSE,EII,SLI  
   #5119: ILE,LII,EIE,IEI,LIE,LSE,IEE,SLI  
