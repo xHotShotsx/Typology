@@ -6508,6 +6508,9 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2229: Process / Result
 #4082: Extroverted / Introverted  
 #5083: Asking / Declaring  
+#1166: +Y6 / -Y6  
+#1891: +Y3 / -Y3  
+
 
 ## $\mathcal{C}_{x,1-16}$
 
