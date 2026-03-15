@@ -2473,7 +2473,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #2422: ILE,SEI,EIE,IEI,SEE,ILI,ESI,EII  
   #2423: ILE,SEI,EIE,IEI,SEE,ILI,ESI,IEE  
   #2424: ILE,SEI,EIE,IEI,SEE,ILI,ESI,SLI  
-  #2425: ILE,SEI,EIE,IEI,SEE,ILI,LSE,EII $\in \mathcal{C}_{a,7}, \mathcal{C}_{a,26}$     
+  #2425: ILE,SEI,EIE,IEI,SEE,ILI,LSE,EII       
   #2426: ILE,SEI,EIE,IEI,SEE,ILI,LSE,IEE  
   #2427: ILE,SEI,EIE,IEI,SEE,ILI,LSE,SLI (+Δ7)  
   #2428: ILE,SEI,EIE,IEI,SEE,ILI,EII,IEE      
@@ -6486,7 +6486,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #6435: ILE,ILI,LIE,ESI,LSE,EII,IEE,SLI (EII HEF + Descending Result $\in \mathcal{C}_{g,1}$)  
 
 
-# Glossary of Dichotomy System Classes based on Invariant Dichotomies
+# Example Subclasses of Dichotomy Systems
 ## $\mathcal{C}_{g,1-16} \text{ or } \mathcal{D}$
 
 #2808: Irrational / Rational  
