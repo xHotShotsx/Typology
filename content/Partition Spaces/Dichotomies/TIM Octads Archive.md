@@ -6529,6 +6529,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2229: Process / Result  
 #5266: Static / Dynamic  
 #4407: Positivist / Negativist  
+#1095: +Z4 / -Z4  
+#1962: +Z7 / -Z7  
 
 
 ## Extinguishment Respecting
