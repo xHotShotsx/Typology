@@ -6534,7 +6534,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3279: +Z1 / -Z1  
 #5929: +Z6 / -Z6
 
-## $\$
+## $\mathcal{C}_{g,}$
 
 ## Extinguishment Respecting
 ### $\mathcal{C}_{x,1-16}$
