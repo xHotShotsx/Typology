@@ -6503,7 +6503,11 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4407: Positivist / Negativist  
 #5083: Asking / Declaring  
 
-## $\mathcal$
+## $\mathcal{C}_{g,17-32}$
+
+#2229
+#4082: Extroverted / Introverted  
+#5083: Asking / Declaring  
 
 ## $\mathcal{C}_{x,1-16}$
 
