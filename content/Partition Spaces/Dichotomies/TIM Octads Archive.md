@@ -6534,14 +6534,19 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3279: +Z1 / -Z1  
 #5929: +Z6 / -Z6
 
-## $\mathcal{C}_{g,65-80}$
+### $\mathcal{C}_{g,65-80}$
 
 #2208: Irrational / Rational  
 #4407: Positivist / Negativist  
 #5083: Asking / Declaring  
 #757: +A4 / -A4  
 #1764: +A8 / -A8    
-#3617: -A7 / -A7  
+#3617: -A3 / -A3  
+#5731: +A7 / -A7
+
+### $\mathcal{C}_{g,81-96}$
+
+
 
 
 ## Extinguishment Respecting
