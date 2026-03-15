@@ -37,7 +37,7 @@ which denotes the Reinin system of dichotomies. Thus, in the special case of $\m
 
 #### Subclasses
 
-Each of the 11 nontrivial "classes" containing dichotomy systems will be divided further into its respective subclasses, which will be determined by the invariant dichotomies  
+Each of the 11 nontrivial "classes" containing dichotomy systems will be divided further into its respective subclasses, which will be determined by the set of invariant dichotomies used to define an order 2 subgroup $\{ e,r \}$. Each class will contain 30 subclasses and each subclass will contain  
 ### Order 4
 
 For any $|H| > 2$, these will be dubbed the 'meta classes', as they can be defined using smaller classes of dichotomy systems. For any normal subgroup $H \cong \mathbb{Z}^2_{2}$, they will be abbreviated using capital letters as notation, usually to denote an 'orbital tetrachotomy'.
