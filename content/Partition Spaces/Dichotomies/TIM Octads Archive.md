@@ -6503,14 +6503,16 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4407: Positivist / Negativist  
 #5083: Asking / Declaring  
 
-## $\mathcal{C}_{g,17-32}$
+## 
+## $\mathcal{C}_{g,33-48}$
 
 #2229: Process / Result
 #4082: Extroverted / Introverted  
 #5083: Asking / Declaring  
 #1166: +Y6 / -Y6  
 #1891: +Y3 / -Y3  
-
+#3490: +Y8 / -Y8  
+#6140: +Y1 / -Y1
 
 ## $\mathcal{C}_{x,1-16}$
 
