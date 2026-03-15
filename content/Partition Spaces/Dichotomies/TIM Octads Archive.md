@@ -35,6 +35,9 @@ $$\mathcal{D}_{15} = \mathcal{C}_{g,15},$$
 
 which denotes the Reinin system of dichotomies. Thus, in the special case of $\mathcal{C}_{g}$, the indexing agrees with $\mathcal{D}$.
 
+#### Subclasses
+
+Each of the 11 nontrivial "classes" containing dichotomy systems will be divided further into  
 ### Order 4
 
 For any $|H| > 2$, these will be dubbed the 'meta classes', as they can be defined using smaller classes of dichotomy systems. For any normal subgroup $H \cong \mathbb{Z}^2_{2}$, they will be abbreviated using capital letters as notation, usually to denote an 'orbital tetrachotomy'.
