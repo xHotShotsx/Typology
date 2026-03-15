@@ -6551,7 +6551,10 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #5266: Static / Dynamic  
 #968: +B8 / -B8  
 #1553: +B7 / -B7  
-#3688: +B1 /
+#3688: +B1 / -B1  
+#5802: +B5 / -B5  
+
+### $\mathcal{C}_{g,97-112}$
 
 
 ## Extinguishment Respecting
