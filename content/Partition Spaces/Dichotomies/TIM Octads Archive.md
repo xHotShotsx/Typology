@@ -6559,7 +6559,10 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #426: Democratic / Aristocratic  
 #5083: Asking / Declaring  
 #5266: Static / Dynamic  
-#
+#2356: +Γ3 / -Γ3  
+#2681: +Γ2 / -Γ2  
+#3955: +Γ8 / -Γ8  
+#4534: +Γ5 / -Γ5
 
 
 ## Extinguishment Respecting
