@@ -6536,7 +6536,10 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 ## $\mathcal{C}_{g,65-80}$
 
-#2208: Irrat
+#2208: Irrational / Rational  
+#4407: Positivist / Negativist  
+#5083: Asking / Declaring  
+
 
 ## Extinguishment Respecting
 ### $\mathcal{C}_{x,1-16}$
@@ -6755,4 +6758,4 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 - https://sedecology.com/math
 - [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics|A Representation-Theoretic Framework for Intertype Relations in Socionics]]
 - [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces|The Waffle Spaces]]
-- [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index|The Waffle Spaces - A Brief 
+- [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index|The Waffle Spaces - A Brief Index]]
