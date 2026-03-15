@@ -6534,7 +6534,9 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3279: +Z1 / -Z1  
 #5929: +Z6 / -Z6
 
-## $\mathcal{C}_{g,}$
+## $\mathcal{C}_{g,65-80}$
+
+#2208: Irrat
 
 ## Extinguishment Respecting
 ### $\mathcal{C}_{x,1-16}$
@@ -6753,4 +6755,4 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 - https://sedecology.com/math
 - [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics|A Representation-Theoretic Framework for Intertype Relations in Socionics]]
 - [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces|The Waffle Spaces]]
-- [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index|The Waffle Spaces - A Brief Index]]
+- [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index|The Waffle Spaces - A Brief 
