@@ -6556,6 +6556,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 ### $\mathcal{C}_{g,97-112}$
 
+#
+
 
 ## Extinguishment Respecting
 ### $\mathcal{C}_{x,1-16}$
