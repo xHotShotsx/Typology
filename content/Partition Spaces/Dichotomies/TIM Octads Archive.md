@@ -6526,6 +6526,10 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 ### $\mathcal{C}_{g,49-64}$
 
+#2229: Process / Result  
+#5266: Static / Dynamic  
+#4407: Positivist / Negativist  
+
 
 ## Extinguishment Respecting
 ### $\mathcal{C}_{x,1-16}$
