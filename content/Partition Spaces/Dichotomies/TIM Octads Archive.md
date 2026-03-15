@@ -6493,7 +6493,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 
 # Example Subclasses of Dichotomy Systems
-## $\mathcal{C}_{g,1-16} \text{ or } \mathcal{D}$
+### $\mathcal{C}_{g,1-16} \text{ or } \mathcal{D}$
 
 #2808: Irrational / Rational  
 #2229: Process / Result    
@@ -6503,7 +6503,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4407: Positivist / Negativist  
 #5083: Asking / Declaring  
 
-## $\mathcal{C}_{g,17-32}$
+### $\mathcal{C}_{g,17-32}$
 
 #2808: Irrational / Rational  
 #2229: Process / Result    
@@ -6513,7 +6513,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #5012: +X3 / -X3  
 #5337: +X8 / -X8  
 
-## $\mathcal{C}_{g,33-48}$
+### $\mathcal{C}_{g,33-48}$
 
 #2229: Process / Result
 #4082: Extroverted / Introverted  
@@ -6523,8 +6523,10 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3490: +Y8 / -Y8  
 #6140: +Y1 / -Y1  
 
-## $\mathcal{C}_{g,49-54}$
+### $\mathcal{C}_{g,49-64}$
 
+
+## Exting
 ## $\mathcal{C}_{x,1-16}$
 
 #2808: Irrational / Rational  
