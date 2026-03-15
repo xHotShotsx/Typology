@@ -6632,6 +6632,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4727: EIE+SLE HEF / LSE+IEE HEF  
 #5641: EII+SLI HEF / LSI+IEI HEF  
 
+## Conflict Respecting
 ### $\mathcal{C}_{c,1-16}$
 
 #426: Democratic / Aristocratic  
@@ -6652,6 +6653,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2724: ILE+LIE HEF / ESE+SEE HEF  
 #2405: SEI+ESI HEF / LII+ILI HEF  
 
+## Semi Duality Respecting
 ### $\mathcal{C}_{h,1-16}$
 
 #2808: Irrational / Rational  
@@ -6672,6 +6674,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4361: 2ndExternal / 2ndInternal  
 #5029: 2ndAbstract / 2ndInvolved  
 
+## Mirage Respecting
 ### $\mathcal{C}_{i,1-16}$
 
 #2808: Irrational / Rational  
@@ -6692,6 +6695,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4180: 1stInternal / 1stExternal  
 #5348: 1stAbstract / 1stInvolved
 
+## Kindred Respecting
 ### $\mathcal{C}_{k,1-16}$
 
 #2808: Irrational / Rational  
@@ -6712,6 +6716,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4180: 1stInternal / 1stExternal  
 #5348: 1stAbstract / 1stInvolved  
 
+## Business Respecting
 ### $\mathcal{C}_{l,1-16}$
 
 #2808: Irrational / Rational  
