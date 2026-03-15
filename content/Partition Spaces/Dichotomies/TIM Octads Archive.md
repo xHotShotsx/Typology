@@ -6546,6 +6546,9 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 ### $\mathcal{C}_{g,81-96}$
 
+#2208: Irrational / Rational  
+#4082: Extroverted / Introverted  
+#5266: Static / Dynamic  
 
 
 
