@@ -23,9 +23,9 @@ A structurally nontrivial dichotomy system is one that preserves at least one no
 
 If a dichotomy system in $\mathcal{C}_g$ contains the complete set of orbital dichotomies, then it is also in $\mathcal{D}$. Conceptually: 
 
-$$ \mathcal{D} := \{ \mathcal{D}_{i} \mid 1 \leq i \leq 16, i \in \mathbb{Z} \} \subset \mathcal{C}_{g} \subset \mathbb{D}.$$
+$$ \mathcal{D} := \{ \mathcal{D}_{i} \mid 1 \leq i \leq 16 \} \subset \mathcal{C}_{g} \subset \mathbb{D}.$$
 
-For the superego-preserving class, the enumeration is aligned with the identified Newman systems. Thus, for whenever $1 \leq i \leq 16$, 
+For the superego-preserving class, the enumeration is aligned with the identified Newman systems. Thus, whenever $1 \leq i \leq 16$, 
 
 $$\mathcal{D}_{i} = \mathcal{C}_{g,i},$$
 
