@@ -6531,7 +6531,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4407: Positivist / Negativist  
 #1095: +Z4 / -Z4  
 #1962: +Z7 / -Z7  
-
+#3279: +Z1 / -Z1  
+#5929: +Z6 / -Z6
 
 ## Extinguishment Respecting
 ### $\mathcal{C}_{x,1-16}$
