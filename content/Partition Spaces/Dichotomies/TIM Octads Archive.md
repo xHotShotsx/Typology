@@ -6539,6 +6539,9 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2208: Irrational / Rational  
 #4407: Positivist / Negativist  
 #5083: Asking / Declaring  
+#757: +A4 / -A4  
+#1764: +A8 / -A8    
+#3617: -A7 / -A7  
 
 
 ## Extinguishment Respecting
