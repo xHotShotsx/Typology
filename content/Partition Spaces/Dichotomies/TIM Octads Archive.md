@@ -6569,6 +6569,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #308: 2ndAlpha / 2ndGamma    
 #2093: 2ndBeta / 2ndDelta  
 
+## Activation Respecting
 ### $\mathcal{C}_{a,1-16}$
 
 #426: Democratic / Aristocratic  
@@ -6589,6 +6590,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #80: SEI+ESE HEF / ILI+LIE HEF  
 #225: ILE+LII HEF / SEE+ESI HEF  
 
+## Quasi Identity Respecting
 ### $\mathcal{C}_{q,1-16}$
 
 #426: Democratic / Aristocratic  
@@ -6609,6 +6611,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2655: ILE+ESI HEF / LII+SEE HEF  
 #2474: SEI+LIE HEF / ESE+ILI HEF  
 
+## Mirror Respecting
 ### $\mathcal{C}_{m,1-16}$
 
 #426: Democratic / Aristocratic  
@@ -6649,7 +6652,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2724: ILE+LIE HEF / ESE+SEE HEF  
 #2405: SEI+ESI HEF / LII+ILI HEF  
 
-## $\mathcal{C}_{h,1-16}$
+### $\mathcal{C}_{h,1-16}$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
@@ -6659,7 +6662,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3024: ESE+EIE HEF / LIE+LSE HEF  
 #6394: ESI+EII HEF / LII+LSI HEF  
 
-## $\mathcal{C}_{h,17-32}$
+### $\mathcal{C}_{h,17-32}$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
@@ -6669,7 +6672,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4361: 2ndExternal / 2ndInternal  
 #5029: 2ndAbstract / 2ndInvolved  
 
-## $\mathcal{C}_{i,1-16}$
+### $\mathcal{C}_{i,1-16}$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
@@ -6689,7 +6692,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4180: 1stInternal / 1stExternal  
 #5348: 1stAbstract / 1stInvolved
 
-## $\mathcal{C}_{k,1-16}$
+### $\mathcal{C}_{k,1-16}$
 
 #2808: Irrational / Rational  
 #4082: Extroverted / Introverted  
@@ -6699,7 +6702,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3051: LII+EIE HEF / ESI+LSE HEF  
 #6421: LIE+EII HEF / ESE+LSI HEF  
 
-## $\mathcal{C}_{k,17-32}$
+### $\mathcal{C}_{k,17-32}$
 
 #2808: Irrational / Rational  
 #4082: Extroverted / Introverted  
@@ -6709,7 +6712,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4180: 1stInternal / 1stExternal  
 #5348: 1stAbstract / 1stInvolved  
 
-## $\mathcal{C}_{l,1-16}$
+### $\mathcal{C}_{l,1-16}$
 
 #2808: Irrational / Rational  
 #4082: Extroverted / Introverted  
@@ -6719,7 +6722,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3652: ESE+EII HEF / LSI+LIE HEF  
 #5738: EIE+ESI HEF / LII+LSE HEF  
 
-## $\mathcal{C}_{l,17-32}$
+### $\mathcal{C}_{l,17-32}$
 
 #2808: Irrational / Rational  
 #4082: Extroverted / Introverted  
