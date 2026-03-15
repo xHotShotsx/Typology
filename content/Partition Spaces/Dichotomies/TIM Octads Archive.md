@@ -6571,7 +6571,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4407: Positivist / Negativist  
 #2427: +Δ7 / -Δ7  
 #2610: +Δ8 / -Δ8  
-
+#4885: +Δ5 / -Δ5  
+#5464: +Δ6 / -Δ6
 
 ## Extinguishment Respecting
 ### $\mathcal{C}_{x,1-16}$
