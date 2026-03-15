@@ -6503,7 +6503,9 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4407: Positivist / Negativist  
 #5083: Asking / Declaring  
 
-## 
+## $\mathcal{C}_{g,17-32}$
+
+
 ## $\mathcal{C}_{g,33-48}$
 
 #2229: Process / Result
