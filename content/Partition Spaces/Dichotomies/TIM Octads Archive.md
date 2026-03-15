@@ -6493,6 +6493,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 
 # Example Subclasses of Dichotomy Systems
+## Superego Respecting
 ### $\mathcal{C}_{g,1-16} \text{ or } \mathcal{D}$
 
 #2808: Irrational / Rational  
@@ -6526,8 +6527,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ### $\mathcal{C}_{g,49-64}$
 
 
-## Exting
-## $\mathcal{C}_{x,1-16}$
+## Extinguishment Respecting
+### $\mathcal{C}_{x,1-16}$
 
 #2808: Irrational / Rational  
 #2229: Process / Result    
@@ -6537,7 +6538,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4430: Tactical / Strategic  
 #4111: Constructivist / Emotivist  
 
-## $\mathcal{C}_{x,17-32}$
+### $\mathcal{C}_{x,17-32}$
 
 #2808: Irrational / Rational  
 #2229: Process / Result    
@@ -6547,7 +6548,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #5029: 2ndAbstract / 2ndInvolved  
 #4361: 2ndExternal / 2ndInternal  
 
-## $\mathcal{C}_{d,1-16}$
+## Dual Respecting
+### $\mathcal{C}_{d,1-16}$
 
 #2808: Irrational / Rational  
 #2229: Process / Result    
@@ -6557,7 +6559,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2280: Carefree / Farsighted  
 #2849: Yielding / Obstinate  
 
-## $\mathcal{C}_{d,17-32}$
+### $\mathcal{C}_{d,17-32}$
 
 #2808: Irrational / Rational  
 #2229: Process / Result    
@@ -6567,7 +6569,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #308: 2ndAlpha / 2ndGamma    
 #2093: 2ndBeta / 2ndDelta  
 
-## $\mathcal{C}_{a,1-16}$
+### $\mathcal{C}_{a,1-16}$
 
 #426: Democratic / Aristocratic  
 #4082: Extroverted / Introverted  
@@ -6577,7 +6579,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4430: Tactical / Strategic  
 #4111: Constructivist / Emotivist  
 
-## $\mathcal{C}_{a,17-32}$
+### $\mathcal{C}_{a,17-32}$
 
 #426: Democratic / Aristocratic  
 #4082: Extroverted / Introverted  
@@ -6587,7 +6589,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #80: SEI+ESE HEF / ILI+LIE HEF  
 #225: ILE+LII HEF / SEE+ESI HEF  
 
-## $\mathcal{C}_{q,1-16}$
+### $\mathcal{C}_{q,1-16}$
 
 #426: Democratic / Aristocratic  
 #4082: Extroverted / Introverted  
@@ -6597,7 +6599,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2280: Carefree / Farsighted    
 #2849: Yielding / Obstinate  
 
-## $\mathcal{C}_{q,17-32}$
+### $\mathcal{C}_{q,17-32}$
 
 #426: Democratic / Aristocratic  
 #4082: Extroverted / Introverted  
@@ -6607,7 +6609,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2655: ILE+ESI HEF / LII+SEE HEF  
 #2474: SEI+LIE HEF / ESE+ILI HEF  
 
-## $\mathcal{C}_{m,1-16}$
+### $\mathcal{C}_{m,1-16}$
 
 #426: Democratic / Aristocratic  
 #5083: Asking / Declaring  
@@ -6617,7 +6619,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #495: Judicious / Decisive  
 #1: Merry / Serious
 
-## $\mathcal{C}_{m,17-32}$
+### $\mathcal{C}_{m,17-32}$
 
 #426: Democratic / Aristocratic  
 #5083: Asking / Declaring  
@@ -6627,7 +6629,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4727: EIE+SLE HEF / LSE+IEE HEF  
 #5641: EII+SLI HEF / LSI+IEI HEF  
 
-## $\mathcal{C}_{c,1-16}$
+### $\mathcal{C}_{c,1-16}$
 
 #426: Democratic / Aristocratic  
 #5083: Asking / Declaring  
@@ -6637,7 +6639,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2280: Carefree / Farsighted  
 #2849: Yielding / Obstinate
 
-## $\mathcal{C}_{c,17-32}$
+### $\mathcal{C}_{c,17-32}$
 
 #426: Democratic / Aristocratic  
 #5083: Asking / Declaring  
