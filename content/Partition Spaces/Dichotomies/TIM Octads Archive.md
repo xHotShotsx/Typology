@@ -6567,6 +6567,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ### $\mathcal{C}_{g,113-128}$
 
 #426: Democratic / Aristocratic  
+#4082: Extroverted / Introverted  
+#4407: Positivist / Negativist  
 
 
 ## Extinguishment Respecting
