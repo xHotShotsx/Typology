@@ -6508,8 +6508,10 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2808: Irrational / Rational  
 #2229: Process / Result    
 #426: Democratic / Aristocratic  
-#4153: +X7 / -X7
-#4336: 
+#4153: +X7 / -X7  
+#4336: +X4 / -X4  
+#5012: +X3 / -X3  
+#5337: +X8 / -X8  
 
 ## $\mathcal{C}_{g,33-48}$
 
