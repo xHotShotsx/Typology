@@ -6564,6 +6564,10 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3955: +Γ8 / -Γ8  
 #4534: +Γ5 / -Γ5
 
+### $\mathcal{C}_{g,113-128}$
+
+#426: Democratic / Aristocratic  
+
 
 ## Extinguishment Respecting
 ### $\mathcal{C}_{x,1-16}$
