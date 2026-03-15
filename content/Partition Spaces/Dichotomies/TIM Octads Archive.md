@@ -6556,6 +6556,9 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 ### $\mathcal{C}_{g,97-112}$
 
+#426: Democratic / Aristocratic  
+#5083: Asking / Declaring  
+#5266: Static / Dynamic  
 #
 
 
