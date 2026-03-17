@@ -529,3 +529,27 @@ td, th {
   padding: 6px 10px;
   border: 3px solid #444;
 }
+
+.table-container table {
+  display: table;
+}
+
+.markdown-content,
+.article-content,
+.center {
+  overflow-x: visible;
+}
+
+.page .article {
+	max-width: 100%;
+}
+
+.table-container table {
+	width: max-content;
+	border collapse: collapse;
+}
+
+.table-container td {
+	padding: 8px;
+	vertical-align: top;
+}
