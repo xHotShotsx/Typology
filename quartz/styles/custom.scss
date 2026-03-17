@@ -529,3 +529,10 @@ td, th {
   padding: 6px 10px;
   border: 3px solid #444;
 }
+
+table {
+  display: block;
+  overflow-x: auto;
+  max-width: 100%;
+  white-space: nowrap;
+}
