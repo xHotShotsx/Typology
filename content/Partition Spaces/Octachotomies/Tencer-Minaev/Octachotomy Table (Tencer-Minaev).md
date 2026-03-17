@@ -1,4 +1,4 @@
-<div style="overflow-x:auto;">
+<div style="overflow-x:auto;" class="table-container">
 <table style="width:100%; border-collapse:collapse;" class="tetra">
 	<thead>
 		<tr>
