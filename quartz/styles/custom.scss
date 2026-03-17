@@ -490,3 +490,41 @@ th, td {
   text-align: center;
   vertical-align: middle;
 }
+
+.markdown-preview-view {
+  line-height: 1.6;
+  max-width: 900px;
+  margin: auto;
+}
+
+code, pre {
+  font-size: 0.95em;
+  border-radius: 8px;
+}
+
+h1 {
+  border-bottom: 2px solid #444
+}
+
+h2 {
+  border-bottom: 4px solid #666 padding-left: 8px;
+}
+
+h3 {
+  opacity: 0.9;
+}
+
+.callout {
+  border-left: 4px solid #888;
+  background: rgba(255,255,255,0.03);
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%
+}
+
+td, th {
+  padding: 6px 10px;
+  border: 3px solid #444;
+}
