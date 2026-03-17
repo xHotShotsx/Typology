@@ -6632,7 +6632,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #426: Democratic / Aristocratic  
 #4082: Extroverted / Introverted  
 #4407: Positivist / Negativist  
-#3804: EIE+IEI HEF / LSE+SLI HEF  
+#3804: EIE+IEI HEF / LSE+SLI HEF   
 #4718: EII+IEE HEF / LSI+SLE HEF  
 #80: SEI+ESE HEF / ILI+LIE HEF  
 #225: ILE+LII HEF / SEE+ESI HEF  
