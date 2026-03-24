@@ -1,15 +1,15 @@
 # Table of Models
 
-|            Model            | Permutation Group Code |                                  Acting Group                                   |   Action Type   |
-| :-------------------------: | :--------------------: | :-----------------------------------------------------------------------------: | :-------------: |
-|   **Model A (Classical)**   |        $8T_{9}$        |                 $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$                  | **Non-regular** |
-|        **Model A2**         |       $16T_{9}$        |                 $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$                  |   **Regular**   |
-| **Model A (Presence Cube)** |        $8T_{3}$        |      **Democratic/Aristocratic** $\cong \mathbb{Z}_{2}^3 \leq \mathbb{S}$       | **Non-regular** |
-|      **Model A (SSS)**      |        $8T_{4}$        |               **Asking/Declaring** $\cong D_{4} \leq \mathbb{S}$                | **Non-regular** |
-|      **Model A (SCS)**      |        $8T_{2}$        | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ | **Non-regular** |
-|      **Model G (SHS)**      |        $8T_{2}$        | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ | **Non-regular** |
-|         **Model L**         |       $16T_{3}$        |                    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$                     |   **Regular**   |
-|         **Model W**         |       $16T_{3}$        |                    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$                     |   **Regular**   |
+|            Model            |                                  Acting Group                                   | Transitive?  | Permutation Group Code |   Action Type   |
+| :-------------------------: | :-----------------------------------------------------------------------------: | :----------: | :--------------------: | :-------------: |
+|   **Model A (Classical)**   |                 $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$                  | $\checkmark$ |        $8T_{9}$        | **Non-regular** |
+|        **Model A2**         |                 $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$                  |    \cross    |       $16T_{9}$        |   **Regular**   |
+| **Model A (Presence Cube)** |      **Democratic/Aristocratic** $\cong \mathbb{Z}_{2}^3 \leq \mathbb{S}$       |              |        $8T_{3}$        | **Non-regular** |
+|      **Model A (SSS)**      |               **Asking/Declaring** $\cong D_{4} \leq \mathbb{S}$                |              |        $8T_{4}$        | **Non-regular** |
+|      **Model A (SCS)**      | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ |              |        $8T_{2}$        | **Non-regular** |
+|      **Model G (SHS)**      | **Process/Result** $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4} \leq \mathbb{S}$ |              |        $8T_{2}$        | **Non-regular** |
+|         **Model L**         |                    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$                     |              |       $16T_{3}$        |   **Regular**   |
+|         **Model W**         |                    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$                     |              |       $16T_{3}$        |   **Regular**   |
 
 # Footnote
 
