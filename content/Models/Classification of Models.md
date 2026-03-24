@@ -8,8 +8,8 @@
 |      **Model A (SSS)**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |               $\text{Asking/Declaring} \cong D_{4}$                | **Non-regular** |
 |      **Model A (SCS)**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         | $\text{Process/Result} \cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ | **Non-regular** |
 |      **Model G (SHS)**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         | $\text{Process/Result} \cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ | **Non-regular** |
-|         **Model L**         |    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |                                                                    |   **Regular**   |
-|         **Model W**         |    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |                                                                    |   **Regular**   |
+|         **Model L**         |    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |              $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$              |   **Regular**   |
+|         **Model W**         |    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |              $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$              |   **Regular**   |
 
 # Footnote
 
