@@ -1,15 +1,15 @@
 # Table of Models
 
-|            Model            |                  Acting Group                  | Transitive?  | Permutation Group Code | Orbits? |   Action Type   |
-| :-------------------------: | :--------------------------------------------: | :----------: | :--------------------: | :-----: | :-------------: |
-|   **Model A (Classical)**   | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |        $8T_{9}$        |         | **Non-regular** |
-|        **Model A2**         | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        |         |   **Regular**   |
-| **Model A (Presence Cube)** | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |         | **Non-regular** |
-|      **Model A (SSS)**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |         | **Non-regular** |
-|      **Model A (SCS)**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |         | **Non-regular** |
-|      **Model G (SHS)**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |         | **Non-regular** |
-|         **Model L**         |    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |         |   **Regular**   |
-|         **Model W**         |    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |         |   **Regular**   |
+|            Model            |                  Acting Group                  | Transitive?  | Permutation Group Code |             Orbits (Coset of ...)?             |   Action Type   |
+| :-------------------------: | :--------------------------------------------: | :----------: | :--------------------: | :--------------------------------------------: | :-------------: |
+|   **Model A (Classical)**   | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |        $8T_{9}$        | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | **Non-regular** |
+|        **Model A2**         | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   **Regular**   |
+| **Model A (Presence Cube)** | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |        $\text{Democratic/Aristocratic}$        | **Non-regular** |
+|      **Model A (SSS)**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |                                                | **Non-regular** |
+|      **Model A (SCS)**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |                                                | **Non-regular** |
+|      **Model G (SHS)**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |                                                | **Non-regular** |
+|         **Model L**         |    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |                                                |   **Regular**   |
+|         **Model W**         |    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |                                                |   **Regular**   |
 
 # Footnote
 
