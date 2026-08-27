@@ -1,0 +1,751 @@
+<div style="overflow-x:auto;">
+<table style="width:100%; border-collapse:collapse;" class="tetra">
+	<thead>
+		<tr>
+			<th>#</th>
+			<th>Octachotomy</th>
+			<th colspan="7">Dichotomy Heptad</th>
+			<th colspan="2">Types</th>
+		</tr>
+	</thead>
+	<tbody>
+	    <tr>
+	      <td rowspan="10"><b>1</b></td>
+	      <td rowspan="2"><b>Mirages</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/1.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>Q</b></td><td><b>A</b></td><td><b>I</b></td><td><b>QA</b></td><td><b>QI</b></td><td><b>AI</b></td><td><b>QAI</b></td>
+	      </tr>
+		 <tr>
+			  <td>N+ "Genesis"</td>
+		      <td>Asking</td><td>1stAbstract</td><td>1stInternal</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>Positivist</td>
+		      <td>ILE</td><td>IEI</td>
+	    </tr>
+	    <tr>
+	    	  <td>N- "Foreboding"</td>
+		      <td>Declaring</td><td>1stAbstract</td><td>1stInternal</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>Negativist</td>
+		      <td>ILI</td><td>IEE</td>
+	    </tr>
+	    <tr>
+	    	  <td>F- "Disaffection"</td>
+		      <td>Asking</td><td>1stInvolved</td><td>1stInternal</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>Negativist</td>
+		      <td>EIE</td><td>ESI</td>
+	    </tr>
+	    <tr>
+	    	  <td>F+ "Grace"</td>
+		      <td>Declaring</td><td>1stInvolved</td><td>1stInternal</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>Positivist</td>
+		      <td>ESE</td><td>EII</td>
+	    </tr>
+	    <tr>
+	    	  <td>S+ "Indulgence"</td>
+		      <td>Asking</td><td>1stInvolved</td><td>1stExternal</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>Positivist</td>
+		      <td>SEE</td><td>SLI</td>
+	    </tr>
+	    <tr>
+	    	  <td>S- "Vigilance"</td>
+		      <td>Declaring</td><td>1stInvolved</td><td>1stExternal</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>Negativist</td>
+		      <td>SEI</td><td>SLE</td>
+	    </tr>
+	    <tr>
+	    	  <td>T- "Reduction"</td>
+		      <td>Asking</td><td>1stAbstract</td><td>1stExternal</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>Negativist</td>
+		      <td>LII</td><td>LSE</td>
+	    </tr>
+	    <tr>
+	    	  <td>T+ "Optimisation"</td>
+		      <td>Declaring</td><td>1stAbstract</td><td>1stExternal</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>Positivist</td>
+		      <td>LSI</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	      <td rowspan="10"><b>2</b></td>
+	      <td rowspan="2"><b>Democratic Mirrors and Aristocratic Conflictors</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/2.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>Q</b></td><td><b>A</b></td><td><b>D</b></td><td><b>QA</b></td><td><b>QD</b></td><td><b>AD</b></td><td><b>QAD</b></td>
+	      </tr>
+		 <tr>
+			  <td>?(NT) "Formulation"</td>
+		      <td>Asking</td><td>1stAbstract</td><td>Democratic</td><td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td><td>1stAlpha</td>
+		      <td>ILE</td><td>LII</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(NT) "Investment"</td>
+		      <td>Declaring</td><td>1stAbstract</td><td>Democratic</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>1stGamma</td>
+		      <td>ILI</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>?(SF) "Antagonism"</td>
+		      <td>Asking</td><td>1stInvolved</td><td>Democratic</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stGamma</td>
+		      <td>SEE</td><td>ESI</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(SF) "Sensitivity"</td>
+		      <td>Declaring</td><td>1stInvolved</td><td>Democratic</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>1stAlpha</td>
+		      <td>SEI</td><td>ESE</td>
+	    </tr>
+	    <tr>
+	    	  <td>?(S|F) "Enactment"</td>
+		      <td>Asking</td><td>1stInvolved</td><td>Aristocratic</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>1stAlpha</td>
+		      <td>EIE</td><td>SLI</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(S|F) "Guardianship"</td>
+		      <td>Declaring</td><td>1stInvolved</td><td>Aristocratic</td><td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td><td>1stGamma</td>
+		      <td>SLE</td><td>EII</td>
+	    </tr>
+	    <tr>
+	    	  <td>?(N|T) "Discretion"</td>
+		      <td>Asking</td><td>1stAbstract</td><td>Aristocratic</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>1stGamma</td>
+		      <td>IEI</td><td>LSE</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(N|T) "Revision"</td>
+		      <td>Declaring</td><td>1stAbstract</td><td>Aristocratic</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stAlpha</td>
+		      <td>LSI</td><td>IEE</td>
+	    </tr>
+	    <tr>
+	      <td rowspan="10"><b>3</b></td>
+	      <td rowspan="2"><b>Democratic Beneficiaries with Aristocratic Benefactors</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/3.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>Q</b></td><td><b>A</b></td><td><b>QA</b></td><td><b>ID</b></td><td><b>QID</b></td><td><b>AID</b></td><td><b>QAID</b></td>
+	      </tr>
+		 <tr>
+			  <td>?(T)e "Streamlining"</td>
+		      <td>Asking</td><td>1stAbstract</td><td>2ndAlpha</td><td>2ndExternal</td><td>1stDelta</td><td>Process</td><td>Extroverted</td>
+		      <td>ILE</td><td>LSE</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(T)i "Precaution"</td>
+		      <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td><td>2ndExternal</td><td>1stBeta</td><td>Process</td><td>Introverted</td>
+		      <td>LSI</td><td>ILI</td>
+	    </tr>
+	    <tr>
+	    	  <td>?(S)i "Groundedness"</td>
+		      <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td><td>2ndExternal</td><td>1stDelta</td><td>Result</td><td>Introverted</td>
+		      <td>ESI</td><td>SLI</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(S)e "Imposition"</td>
+		      <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td><td>2ndExternal</td><td>1stBeta</td><td>Result</td><td>Extroverted</td>
+		      <td>ESE</td><td>SLE</td>
+	    </tr>
+	    <tr>
+	    	  <td>?(F)e "Innovation"</td>
+		      <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td><td>2ndInternal</td><td>1stBeta</td><td>Process</td><td>Extroverted</td>
+		      <td>EIE</td><td>SEE</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(F)i "Mediation"</td>
+		      <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td><td>2ndInternal</td><td>1stDelta</td><td>Process</td><td>Introverted</td>
+		      <td>SEI</td><td>EII</td>
+	    </tr>
+	    <tr>
+	    	  <td>?(N)i "Pattern"</td>
+		      <td>Asking</td><td>1stAbstract</td><td>2ndAlpha</td><td>2ndInternal</td><td>1stBeta</td><td>Result</td><td>Introverted</td>
+		      <td>LII</td><td>IEI</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(N)e "Entrepreneurship"</td>
+		      <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td><td>2ndInternal</td><td>1stDelta</td><td>Result</td><td>Extroverted</td>
+		      <td>LIE</td><td>IEE</td>
+	    </tr>
+	    <tr>
+	      <td rowspan="10"><b>4</b></td>
+	      <td rowspan="2"><b>Democratic Conflictors and Aristocratic Mirrors</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/4.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>Q</b></td><td><b>I</b></td><td><b>D</b></td><td><b>QI</b></td><td><b>QD</b></td><td><b>ID</b></td><td><b>QID</b></td>
+	      </tr>
+		 <tr>
+			  <td>?(N|F) "Disjunction"</td>
+		      <td>Asking</td><td>1stInternal</td><td>Democratic</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>1stDelta</td>
+		      <td>ILE</td><td>ESI</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(N|F) "Intimation"</td>
+		      <td>Declaring</td><td>1stInternal</td><td>Democratic</td><td>2ndDelta</td><td>Dynamic</td><td>2ndExternal</td><td>1stBeta</td>
+		      <td>ESE</td><td>ILI</td>
+	    </tr>
+	    <tr>
+	    	  <td>?(S|T) "Disassembly"</td>
+		      <td>Asking</td><td>1stExternal</td><td>Democratic</td><td>2ndDelta</td><td>Static</td><td>2ndInternal</td><td>1stBeta</td>
+		      <td>LII</td><td>SEE</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(S|T) "Economisation"</td>
+		      <td>Declaring</td><td>1stExternal</td><td>Democratic</td><td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td><td>1stDelta</td>
+		      <td>SEI</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>?(ST) "Governance"</td>
+		      <td>Asking</td><td>1stExternal</td><td>Aristocratic</td><td>2ndDelta</td><td>Dynamic</td><td>2ndExternal</td><td>1stDelta</td>
+		      <td>LSE</td><td>SLI</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(ST) "Preservation"</td>
+		      <td>Declaring</td><td>1stExternal</td><td>Aristocratic</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>1stBeta</td>
+		      <td>LSI</td><td>SLE</td>
+	    </tr>
+	    <tr>
+	    	  <td>?(NF) "Romanticism"</td>
+		      <td>Asking</td><td>1stInternal</td><td>Aristocratic</td><td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td><td>1stBeta</td>
+		      <td>EIE</td><td>IEI</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(NF) "Metanoia"</td>
+		      <td>Declaring</td><td>1stInternal</td><td>Aristocratic</td><td>2ndDelta</td><td>Static</td><td>2ndInternal</td><td>1stDelta</td>
+		      <td>EII</td><td>IEE</td>
+	    </tr>
+	    <tr>
+	      <td rowspan="10"><b>5</b></td>
+	      <td rowspan="2"><b>Democratic Benefactors with Aristocratic Beneficiaries</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/5.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>Q</b></td><td><b>I</b></td><td><b>QI</b></td><td><b>AD</b></td><td><b>QAD</b></td><td><b>AID</b></td><td><b>QAID</b></td>
+	      </tr>
+		 <tr>
+			  <td>?(N)e "Enaction"</td>
+		      <td>Asking</td><td>1stInternal</td><td>2ndBeta</td><td>2ndAbstract</td><td>1stAlpha</td><td>Process</td><td>Extroverted</td>
+		      <td>ILE</td><td>EIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(N)i "Solicitude"</td>
+		      <td>Declaring</td><td>1stInternal</td><td>2ndDelta</td><td>2ndAbstract</td><td>1stGamma</td><td>Process</td><td>Introverted</td>
+		      <td>ILI</td><td>EII</td>
+	    </tr>
+	    <tr>
+	    	  <td>?(T)i "Tessellation"</td>
+		      <td>Asking</td><td>1stExternal</td><td>2ndDelta</td><td>2ndAbstract</td><td>1stAlpha</td><td>Result</td><td>Introverted</td>
+		      <td>LII</td><td>SLI</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(T)e "Command"</td>
+		      <td>Declaring</td><td>1stExternal</td><td>2ndBeta</td><td>2ndAbstract</td><td>1stGamma</td><td>Result</td><td>Extroverted</td>
+		      <td>SLE</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>?(S)e "Autonomy"</td>
+		      <td>Asking</td><td>1stExternal</td><td>2ndDelta</td><td>2ndInvolved</td><td>1stGamma</td><td>Process</td><td>Extroverted</td>
+		      <td>SEE</td><td>LSE</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(S)i "Composure"</td>
+		      <td>Declaring</td><td>1stExternal</td><td>2ndBeta</td><td>2ndInvolved</td><td>1stAlpha</td><td>Process</td><td>Introverted</td>
+		      <td>SEI</td><td>LSI</td>
+	    </tr>
+	    <tr>
+	    	  <td>?(F)i "Reckoning"</td>
+		      <td>Asking</td><td>1stInternal</td><td>2ndBeta</td><td>2ndInvolved</td><td>1stGamma</td><td>Result</td><td>Introverted</td>
+		      <td>IEI</td><td>ESI</td>
+	    </tr>
+	    <tr>
+	    	  <td>!(F)e "Reframing"</td>
+		      <td>Declaring</td><td>1stInternal</td><td>2ndDelta</td><td>2ndInvolved</td><td>1stAlpha</td><td>Result</td><td>Extroverted</td>
+		      <td>ESE</td><td>IEE</td>
+	    </tr>
+	    <tr>
+	      <td rowspan="10"><b>6</b></td>
+	      <td rowspan="2"><b>Superegos</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/6.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>Q</b></td><td><b>D</b></td><td><b>QD</b></td><td><b>AI</b></td><td><b>QAI</b></td><td><b>AID</b></td><td><b>QAID</b></td>
+	      </tr>
+		 <tr>
+			  <td>Pe+ "Nonconformism"</td>
+		      <td>Asking</td><td>Democratic</td><td>Static</td><td>Irrational</td><td>Positivist</td><td>Process</td><td>Extroverted</td>
+		      <td>ILE</td><td>SEE</td>
+	    </tr>
+	    <tr>
+	    	  <td>Pi- "Inhibition"</td>
+		      <td>Declaring</td><td>Democratic</td><td>Dynamic</td><td>Irrational</td><td>Negativist</td><td>Process</td><td>Introverted</td>
+		      <td>SEI</td><td>ILI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Pi+ "Attunement"</td>
+		      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td><td>Irrational</td><td>Positivist</td><td>Result</td><td>Introverted</td>
+		      <td>IEI</td><td>SLI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Pe- "Subversion"</td>
+		      <td>Declaring</td><td>Aristocratic</td><td>Static</td><td>Irrational</td><td>Negativist</td><td>Result</td><td>Extroverted</td>
+		      <td>SLE</td><td>IEE</td>
+	    </tr>
+	    <tr>
+	    	  <td>Je- "Conservation"</td>
+		      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td><td>Rational</td><td>Negativist</td><td>Process</td><td>Extroverted</td>
+		      <td>EIE</td><td>LSE</td>
+	    </tr>
+	    <tr>
+	    	  <td>Ji+ "Stewardship"</td>
+		      <td>Declaring</td><td>Aristocratic</td><td>Static</td><td>Rational</td><td>Positivist</td><td>Process</td><td>Introverted</td>
+		      <td>LSI</td><td>EII</td>
+	    </tr>
+	    <tr>
+	    	  <td>Ji- "Discrimination"</td>
+		      <td>Asking</td><td>Democratic</td><td>Static</td><td>Rational</td><td>Negativist</td><td>Result</td><td>Introverted</td>
+		      <td>LII</td><td>ESI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Je+ "Diplomacy"</td>
+		      <td>Declaring</td><td>Democratic</td><td>Dynamic</td><td>Rational</td><td>Positivist</td><td>Result</td><td>Extroverted</td>
+		      <td>ESE</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	      <td rowspan="10"><b>7</b></td>
+	      <td rowspan="2"><b>Semi Duals</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/7.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>Q</b></td><td><b>AI</b></td><td><b>AD</b></td><td><b>ID</b></td><td><b>QAI</b></td><td><b>QAD</b></td><td><b>QID</b></td>
+	      </tr>
+		 <tr>
+			  <td>P(T.)+ "Vitalisation"</td>
+		      <td>Asking</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>1stDelta</td>
+		      <td>ILE</td><td>SLI</td>
+	    </tr>
+	    <tr>
+	    	  <td>P(T.)- "Anchoring"</td>
+		      <td>Declaring</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stBeta</td>
+		      <td>SLE</td><td>ILI</td>
+	    </tr>
+	    <tr>
+	    	  <td>J(N.)- "Reverberation"</td>
+		      <td>Asking</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>1stBeta</td>
+		      <td>LII</td><td>EIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>J(N.)+ "Cultivation"</td>
+		      <td>Declaring</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>1stDelta</td>
+		      <td>LIE</td><td>EII</td>
+	    </tr>
+	    <tr>
+	    	  <td>J(S.)- "Guardedness"</td>
+		      <td>Asking</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stDelta</td>
+		      <td>ESI</td><td>LSE</td>
+	    </tr>
+	    <tr>
+	    	  <td>J(S.)+ "Framing"</td>
+		      <td>Declaring</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>1stBeta</td>
+		      <td>ESE</td><td>LSI</td>
+	    </tr>
+	    <tr>
+	    	  <td>P(F.)+ "Pioneering"</td>
+		      <td>Asking</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>1stBeta</td>
+		      <td>IEI</td><td>SEE</td>
+	    </tr>
+	    <tr>
+	    	  <td>P(F.)- "Avoidance"</td>
+		      <td>Declaring</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>1stDelta</td>
+		      <td>SEI</td><td>IEE</td>
+	    </tr>
+	    <tr>
+	      <td rowspan="10"><b>8</b></td>
+	      <td rowspan="2"><b>Extinguishers</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/8.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>A</b></td><td><b>I</b></td><td><b>D</b></td><td><b>AI</b></td><td><b>AD</b></td><td><b>ID</b></td><td><b>AID</b></td>
+	      </tr>
+		 <tr>
+			  <td>P(NT) "Speculation"</td>
+		      <td>1stAbstract</td><td>1stInternal</td><td>Democratic</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Process</td>
+		      <td>ILE</td><td>ILI</td>
+	    </tr>
+	    <tr>
+	    	  <td>J(SF) "Guarding"</td>
+		      <td>1stInvolved</td><td>1stInternal</td><td>Democratic</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Result</td>
+		      <td>ESE</td><td>ESI</td>
+	    </tr>
+	    <tr>
+	    	  <td>J(NT) "Amplification"</td>
+		      <td>1stAbstract</td><td>1stExternal</td><td>Democratic</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Result</td>
+		      <td>LII</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>P(SF) "Reactivity"</td>
+		      <td>1stInvolved</td><td>1stExternal</td><td>Democratic</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Process</td>
+		      <td>SEI</td><td>SEE</td>
+	    </tr>
+	    <tr>
+	    	  <td>J(ST) "Regulation"</td>
+		      <td>1stAbstract</td><td>1stExternal</td><td>Aristocratic</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Process</td>
+		      <td>LSI</td><td>LSE</td>
+	    </tr>
+	    <tr>
+	    	  <td>P(ST) "Embodiment"</td>
+		      <td>1stInvolved</td><td>1stExternal</td><td>Aristocratic</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Result</td>
+		      <td>SLE</td><td>SLI</td>
+	    </tr>
+	    <tr>
+	    	  <td>P(NF) "Revelation"</td>
+		      <td>1stAbstract</td><td>1stInternal</td><td>Aristocratic</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Result</td>
+		      <td>IEI</td><td>IEE</td>
+	    </tr>
+	    <tr>
+	    	  <td>J(NF) "Sensitivity"</td>
+		      <td>1stInvolved</td><td>1stInternal</td><td>Aristocratic</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Process</td>
+		      <td>EIE</td><td>EII</td>
+	    </tr>
+	    <tr>
+	      <td rowspan="10"><b>9</b></td>
+	      <td rowspan="2"><b>Kindreds</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/9.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>A</b></td><td><b>I</b></td><td><b>QD</b></td><td><b>AI</b></td><td><b>QAD</b></td><td><b>QID</b></td><td><b>QAID</b></td>
+	      </tr>
+		 <tr>
+			  <td>Ne "Idea"</td>
+		      <td>1stAbstract</td><td>1stInternal</td><td>Static</td><td>Irrational</td><td>1stAlpha</td><td>1stDelta</td><td>Extroverted</td>
+		      <td>ILE</td><td>LII</td>
+	    </tr>
+	    <tr>
+	    	  <td>Fi "Valence"</td>
+		      <td>1stInvolved</td><td>1stInternal</td><td>Static</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Introverted</td>
+		      <td>ESI</td><td>EII</td>
+	    </tr>
+	    <tr>
+	    	  <td>Ti "Structure"</td>
+		      <td>1stAbstract</td><td>1stExternal</td><td>Static</td><td>Rational</td><td>1stAlpha</td><td>1stBeta</td><td>Introverted</td>
+		      <td>LII</td><td>LSI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Se "Drive"</td>
+		      <td>1stInvolved</td><td>1stExternal</td><td>Static</td><td>Irrational</td><td>1stGamma</td><td>1stBeta</td><td>Extroverted</td>
+		      <td>SLE</td><td>SEE</td>
+	    </tr>
+	    <tr>
+	    	  <td>Te "Application"</td>
+		      <td>1stAbstract</td><td>1stExternal</td><td>Dynamic</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Extroverted</td>
+		      <td>LIE</td><td>LSE</td>
+	    </tr>
+	    <tr>
+	    	  <td>Si "Somasensation"</td>
+		      <td>1stInvolved</td><td>1stExternal</td><td>Dynamic</td><td>Irrational</td><td>1stAlpha</td><td>1stDelta</td><td>Introverted</td>
+		      <td>SEI</td><td>ESE</td>
+	    </tr>
+	    <tr>
+	    	  <td>Ni "Metamorphosis"</td>
+		      <td>1stAbstract</td><td>1stInternal</td><td>Dynamic</td><td>Irrational</td><td>1stGamma</td><td>1stBeta</td><td>Introverted</td>
+		      <td>IEI</td><td>ILI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Fe "Emotion"</td>
+		      <td>1stInvolved</td><td>1stInternal</td><td>Dynamic</td><td>Rational</td><td>1stAlpha</td><td>1stBeta</td><td>Extroverted</td>
+		      <td>ESE</td><td>EIE</td>
+	    </tr>
+	    <tr>
+	      <td rowspan="10"><b>10</b></td>
+	      <td rowspan="2"><b>Democratic Quasi Identicals and Aristocratic Activators</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/10.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>A</b></td><td><b>D</b></td><td><b>QI</b></td><td><b>AD</b></td><td><b>QAI</b></td><td><b>ETP</b></td><td><b>QAID</b></td>
+	      </tr>
+		 <tr>
+			  <td>(NT)e "Enterprise"</td>
+		      <td>1stAbstract</td><td>Democratic</td><td>2ndBeta</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Extroverted</td>
+		      <td>ILE</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(SF)i "Withdrawal"</td>
+		      <td>1stInvolved</td><td>Democratic</td><td>2ndBeta</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Introverted</td>
+		      <td>SEI</td><td>ESI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Bi "Foreplanning"</td>
+		      <td>1stAbstract</td><td>Aristocratic</td><td>2ndBeta</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Introverted</td>
+		      <td>LSI</td><td>IEI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Be "Projection"</td>
+		      <td>1stInvolved</td><td>Aristocratic</td><td>2ndBeta</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Extroverted</td>
+		      <td>EIE</td><td>SLE</td>
+	    </tr>
+	    <tr>
+	    	  <td>Δe "Retooling"</td>
+		      <td>1stAbstract</td><td>Aristocratic</td><td>2ndDelta</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Extroverted</td>
+		      <td>LSE</td><td>IEE</td>
+	    </tr>
+	    <tr>
+	    	  <td>Δi "Resonance"</td>
+		      <td>1stInvolved</td><td>Aristocratic</td><td>2ndDelta</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Introverted</td>
+		      <td>EII</td><td>SLI</td>
+	    </tr>
+	    <tr>
+	    	  <td>(NT)i "Dissection"</td>
+		      <td>1stAbstract</td><td>Democratic</td><td>2ndDelta</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Introverted</td>
+		      <td>LII</td><td>ILI</td>
+	    </tr>
+	    <tr>
+	    	  <td>(SF)e "Showmanship"</td>
+		      <td>1stInvolved</td><td>Democratic</td><td>2ndDelta</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Extroverted</td>
+		      <td>ESE</td><td>SEE</td>
+	    </tr>
+	    <tr>
+	      <td rowspan="10"><b>11</b></td>
+	      <td rowspan="2"><b>Democratic Supervisors with Aristocratic Supervisees</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/11.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>A</b></td><td><b>QD</b></td><td><b>QI</b></td><td><b>ID</b></td><td><b>QAI</b></td><td><b>QAD</b></td><td><b>AID</b></td>
+	      </tr>
+		 <tr>
+			  <td>(N>T)+ "Theorisation"</td>
+		      <td>1stAbstract</td><td>Static</td><td>2ndBeta</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Process</td>
+		      <td>ILE</td><td>LSI</td>
+	    </tr>
+	    <tr>
+	    	  <td>(F>S)- "Sanction"</td>
+		      <td>1stInvolved</td><td>Static</td><td>2ndBeta</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Result</td>
+		      <td>SLE</td><td>ESI</td>
+	    </tr>
+	    <tr>
+	    	  <td>(T>N)+ "Strategy"</td>
+		      <td>1stAbstract</td><td>Dynamic</td><td>2ndBeta</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Result</td>
+		      <td>IEI</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(S>F)- "Impression"</td>
+		      <td>1stInvolved</td><td>Dynamic</td><td>2ndBeta</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Process</td>
+		      <td>SEI</td><td>EIE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(N>T)- "Prudence"</td>
+		      <td>1stAbstract</td><td>Dynamic</td><td>2ndDelta</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Process</td>
+		      <td>ILI</td><td>LSE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(F>S)+ "Demeanour"</td>
+		      <td>1stInvolved</td><td>Dynamic</td><td>2ndDelta</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Result</td>
+		      <td>ESE</td><td>SLI</td>
+	    </tr>
+	    <tr>
+	    	  <td>(T>N)- "Reconfiguration"</td>
+		      <td>1stAbstract</td><td>Static</td><td>2ndDelta</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Result</td>
+		      <td>LII</td><td>IEE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(S>F)+ "Advocacy"</td>
+		      <td>1stInvolved</td><td>Static</td><td>2ndDelta</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Process</td>
+		      <td>SEE</td><td>EII</td>
+	    </tr>
+	    <tr>
+	      <td rowspan="10"><b>12</b></td>
+	      <td rowspan="2"><b>Democratic Activators and Aristocratic Quasi Identicals</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/12.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>I</b></td><td><b>D</b></td><td><b>QA</b></td><td><b>ID</b></td><td><b>QAI</b></td><td><b>QAD</b></td><td><b>QAID</b></td>
+	      </tr>
+		 <tr>
+			  <td>Ae "Enlivening"</td>
+		      <td>1stInternal</td><td>Democratic</td><td>2ndAlpha</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Extroverted</td>
+		      <td>ILE</td><td>ESE</td>
+	    </tr>
+	    <tr>
+	    	  <td>Ai "Refinement"</td>
+		      <td>1stExternal</td><td>Democratic</td><td>2ndAlpha</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Introverted</td>
+		      <td>SEI</td><td>LII</td>
+	    </tr>
+	    <tr>
+	    	  <td>(NF)i "Edification"</td>
+		      <td>1stInternal</td><td>Aristocratic</td><td>2ndAlpha</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Introverted</td>
+		      <td>IEI</td><td>EII</td>
+	    </tr>
+	    <tr>
+	    	  <td>(ST)e "Curtailing"</td>
+		      <td>1stExternal</td><td>Aristocratic</td><td>2ndAlpha</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Extroverted</td>
+		      <td>SLE</td><td>LSE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(NF)e "Embellishment"</td>
+		      <td>1stInternal</td><td>Aristocratic</td><td>2ndGamma</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>Extroverted</td>
+		      <td>EIE</td><td>IEE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(ST)i "Consolidation"</td>
+		      <td>1stExternal</td><td>Aristocratic</td><td>2ndGamma</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>Introverted</td>
+		      <td>LSI</td><td>SLI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Γi "Reclusion"</td>
+		      <td>1stInternal</td><td>Democratic</td><td>2ndGamma</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>Introverted</td>
+		      <td>ILI</td><td>ESI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Γe "Mobilisation"</td>
+		      <td>1stExternal</td><td>Democratic</td><td>2ndGamma</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>Extroverted</td>
+		      <td>SEE</td><td>LIE</td>
+	    </tr>
+	    <tr>
+	      <td rowspan="10"><b>13</b></td>
+	      <td rowspan="2"><b>Democratic Supervisees with Aristocratic Supervisors</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/13.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>I</b></td><td><b>QD</b></td><td><b>QA</b></td><td><b>AD</b></td><td><b>QAI</b></td><td><b>QID</b></td><td><b>AID</b></td>
+	      </tr>
+		 <tr>
+			  <td>(F>N)+ "Kindling"</td>
+		      <td>1stInternal</td><td>Static</td><td>2ndAlpha</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Process</td>
+		      <td>ILE</td><td>EII</td>
+	    </tr>
+	    <tr>
+	    	  <td>(S>T)- "Compression"</td>
+		      <td>1stExternal</td><td>Static</td><td>2ndAlpha</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Result</td>
+		      <td>LII</td><td>SLE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(N>F)+ "Idealism"</td>
+		      <td>1stInternal</td><td>Dynamic</td><td>2ndAlpha</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Result</td>
+		      <td>ESE</td><td>IEI</td>
+	    </tr>
+	    <tr>
+	    	  <td>(T>S)- "Conservation"</td>
+		      <td>1stExternal</td><td>Dynamic</td><td>2ndAlpha</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Process</td>
+		      <td>SEI</td><td>LSE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(F>N)- "Earnestness"</td>
+		      <td>1stInternal</td><td>Dynamic</td><td>2ndGamma</td><td>2ndAbstract</td><td>Negativist</td><td>1stBeta</td><td>Process</td>
+		      <td>EIE</td><td>ILI</td>
+	    </tr>
+	    <tr>
+	    	  <td>(S>T)+ "Provision"</td>
+		      <td>1stExternal</td><td>Dynamic</td><td>2ndGamma</td><td>2ndAbstract</td><td>Positivist</td><td>1stDelta</td><td>Result</td>
+		      <td>LIE</td><td>SLI</td>
+	    </tr>
+	    <tr>
+	    	  <td>(N>F)- "Opposition"</td>
+		      <td>1stInternal</td><td>Static</td><td>2ndGamma</td><td>2ndInvolved</td><td>Negativist</td><td>1stDelta</td><td>Result</td>
+		      <td>ESI</td><td>IEE</td>
+	    </tr>
+	    <tr>
+	    	  <td>(T>S)+ "Dissent"</td>
+		      <td>1stExternal</td><td>Static</td><td>2ndGamma</td><td>2ndInvolved</td><td>Positivist</td><td>1stBeta</td><td>Process</td>
+		      <td>LSI</td><td>SEE</td>
+	    </tr>
+	    <tr>
+	      <td rowspan="10"><b>14</b></td>
+	      <td rowspan="2"><b>Duals</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/14.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>D</b></td><td><b>QA</b></td><td><b>QI</b></td><td><b>AI</b></td><td><b>QAD</b></td><td><b>QID</b></td><td><b>AID</b></td>
+	      </tr>
+		 <tr>
+			  <td>Pα "Discernment"</td>
+		      <td>Democratic</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>1stAlpha</td><td>1stDelta</td><td>Process</td>
+		      <td>ILE</td><td>SEI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Pβ "Manifestation"</td>
+		      <td>Aristocratic</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>1stGamma</td><td>1stBeta</td><td>Result</td>
+		      <td>SLE</td><td>IEI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Jγ "Judgement"</td>
+		      <td>Democratic</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Result</td>
+		      <td>LIE</td><td>ESI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Jβ "Doctrine"</td>
+		      <td>Aristocratic</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>1stAlpha</td><td>1stBeta</td><td>Process</td>
+		      <td>EIE</td><td>LSI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Pγ "Circumspection"</td>
+		      <td>Democratic</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>1stGamma</td><td>1stBeta</td><td>Process</td>
+		      <td>SEE</td><td>ILI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Pδ "Adaptation"</td>
+		      <td>Aristocratic</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>1stAlpha</td><td>1stDelta</td><td>Result</td>
+		      <td>IEE</td><td>SLI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Jα "Curation"</td>
+		      <td>Democratic</td><td>2ndAlpha</td><td>2ndDelta</td><td>Irrational</td><td>1stAlpha</td><td>1stBeta</td><td>Result</td>
+		      <td>ESE</td><td>LII</td>
+	    </tr>
+	    <tr>
+	    	  <td>Jδ "Custodianship"</td>
+		      <td>Aristocratic</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>1stGamma</td><td>1stDelta</td><td>Process</td>
+		      <td>LSE</td><td>EII</td>
+	    </tr>
+	    <tr>
+	      <td rowspan="10"><b>15</b></td>
+	      <td rowspan="2"><b>Lookalikes</b></td>
+	      <td colspan="7"><img src="/Images/Octachotomies/Tencer-Minaev/15.png" /></td>
+	      <td colspan="2" rowspan="2"></td>
+	      </tr>
+	      <tr>
+	      <td><b>QA</b></td><td><b>QI</b></td><td><b>QD</b></td><td><b>AI</b></td><td><b>AD</b></td><td><b>ID</b></td><td><b>QAID</b></td>
+	      </tr>
+		 <tr>
+			  <td>Pe(T.) "Activation"</td>
+		      <td>2ndAlpha</td><td>2ndBeta</td><td>Static</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Extroverted</td>
+		      <td>ILE</td><td>SLE</td>
+	    </tr>
+	    <tr>
+	    	  <td>Ji(S.) "Conviction"</td>
+		      <td>2ndGamma</td><td>2ndBeta</td><td>Static</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Introverted</td>
+		      <td>LSI</td><td>ESI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Ji(N.) "Integration"</td>
+		      <td>2ndAlpha</td><td>2ndDelta</td><td>Static</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Introverted</td>
+		      <td>LII</td><td>EII</td>
+	    </tr>
+	    <tr>
+	    	  <td>Pe(F.) "Deviation"</td>
+		      <td>2ndGamma</td><td>2ndDelta</td><td>Static</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Extroverted</td>
+		      <td>SEE</td><td>IEE</td>
+	    </tr>
+	    <tr>
+	    	  <td>Je(S.) "Presentation"</td>
+		      <td>2ndAlpha</td><td>2ndDelta</td><td>Dynamic</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Extroverted</td>
+		      <td>ESE</td><td>LSE</td>
+	    </tr>
+	    <tr>
+	    	  <td>Pi(T.) "Precaution"</td>
+		      <td>2ndGamma</td><td>2ndDelta</td><td>Dynamic</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Introverted</td>
+		      <td>ILI</td><td>SLI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Pi(F.) "Reception"</td>
+		      <td>2ndAlpha</td><td>2ndBeta</td><td>Dynamic</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Introverted</td>
+		      <td>SEI</td><td>IEI</td>
+	    </tr>
+	    <tr>
+	    	  <td>Je(N.) "Appraisal"</td>
+		      <td>2ndGamma</td><td>2ndBeta</td><td>Dynamic</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Extroverted</td>
+		      <td>EIE</td><td>LIE</td>
+	    </tr>
+	</tbody>
+</table>
+</div>
+
+

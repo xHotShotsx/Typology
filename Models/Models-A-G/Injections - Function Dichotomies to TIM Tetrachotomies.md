@@ -1,0 +1,365 @@
+# Disclaimers
+
+- The tautological function dichotomy, namely Valid/Null, will inject into a dichotomy of TIM, and not a tetrachotomy.
+- The division hierarchy for 8 function models once injections are applicable are:
+	- Function Monochotomy (Valid/Null) $\longrightarrow$ TIM Dichotomy
+	- Function Dichotomy $\longrightarrow$  TIM Tetrachotomy
+	- Function Tetrachotomy $\longrightarrow$  TIM Octachotomy
+	- Function Octachotomy $\longrightarrow$  TIM Hexadecachotomy 
+
+## Model A (Presence Cube)
+
+|   Function Dichotomy   |      TIM Tetrachotomy Construction       |     TIM Tetrachotomy      |
+| :--------------------: | :--------------------------------------: | :-----------------------: |
+|       Valid/Null       |              $G_1 \cap U_1$              |  Democratic/Aristocratic  |
+|      Mental/Vital      | $G_{1} \cap G_{2} \cap U_{1} \cap U_{2}$ | Challenge Response Groups |
+|  Accepting/Producing   |     $G_1 \cap G_3 \cap U_1 \cap U_3$     |     Stress Resistance     |
+|     Bold/Cautious      | $G_{1} \cap G_{4} \cap U_{1} \cap U_{4}$ |     Positivity Groups     |
+|      Strong/Weak       | $G_{1} \cap R_{1} \cap I_{1} \cap U_{1}$ |           Club            |
+|     Valued/Subdued     | $G_{1} \cap R_{2} \cap I_{2} \cap U_{1}$ |          Quadra           |
+|     Inert/Contact      | $G_{1} \cap R_{3} \cap I_{3} \cap U_{1}$ |       Array Groups        |
+| Evaluatory/Situational | $G_{1} \cap R_{4} \cap I_{4} \cap U_{1}$ |     Occupation Groups     |
+
+
+## Model A (Classical Socionics)
+### Reinin
+#### For Irrational Types
+
+|   Function Dichotomy   |      TIM Tetrachotomy Construction       |   TIM Tetrachotomy    |
+| :--------------------: | :--------------------------------------: | :-------------------: |
+|       Valid/Null       |              $G_1 \cap U_3$              |    Process/Result     |
+|      Mental/Vital      | $G_{1} \cap G_{2} \cap U_{3} \cap U_{4}$ | Rings of Supervision  |
+|  Accepting/Producing   |     $G_1 \cap G_3 \cap U_1 \cap U_3$     |   Stress Resistance   |
+|     Bold/Cautious      | $G_{1} \cap G_{4} \cap U_{2} \cap U_{3}$ |   Rings of Benefit    |
+|   Kinetic/Potential    | $G_{1} \cap R_{1} \cap I_{3} \cap U_{3}$ | Implementation Groups |
+|    Verbal/Nonverbal    | $G_{1} \cap R_{2} \cap I_{4} \cap U_{3}$ |  Respository Groups   |
+|     Inert/Contact      | $G_{1} \cap R_{3} \cap I_{1} \cap U_{3}$ |    Project Groups     |
+| Evaluatory/Situational | $G_{1} \cap R_{4} \cap I_{2} \cap U_{3}$ |  Dispository Groups   |
+
+#### For Rational Types
+
+|   Function Dichotomy   |      TIM Tetrachotomy Construction       |   TIM Tetrachotomy    |
+| :--------------------: | :--------------------------------------: | :-------------------: |
+|       Valid/Null       |              $G_1 \cap U_3$              |    Process/Result     |
+|      Mental/Vital      | $G_{1} \cap G_{2} \cap U_{3} \cap U_{4}$ | Rings of Supervision  |
+|  Accepting/Producing   |     $G_1 \cap G_3 \cap U_1 \cap U_3$     |   Stress Resistance   |
+|     Bold/Cautious      | $G_{1} \cap G_{4} \cap U_{2} \cap U_{3}$ |   Rings of Benefit    |
+|   Kinetic/Potential    | $G_{1} \cap R_{3} \cap I_{1} \cap U_{3}$ |    Project Groups     |
+|    Verbal/Nonverbal    | $G_{1} \cap R_{4} \cap I_{2} \cap U_{3}$ |  Dispository Groups   |
+|     Inert/Contact      | $G_{1} \cap R_{1} \cap I_{3} \cap U_{3}$ | Implementation Groups |
+| Evaluatory/Situational | $G_{1} \cap R_{2} \cap I_{4} \cap U_{3}$ |   Repository Groups   |
+
+### Tencer-Minaev
+#### For Democratic Types
+
+|   Function Dichotomy   |      TIM Tetrachotomy Construction       |                       TIM Tetrachotomy                        |
+| :--------------------: | :--------------------------------------: | :-----------------------------------------------------------: |
+|       Valid/Null       |              $V_1 \cap C_3$              |                        Process/Result                         |
+|      Mental/Vital      | $V_{1} \cap V_{2} \cap C_{3} \cap C_{4}$ |                     Rings of Supervision                      |
+|  Accepting/Producing   |     $G_1 \cap V_3 \cap C_1 \cap C_3$     |                       Stress Resistance                       |
+|     Bold/Cautious      | $V_{1} \cap V_{4} \cap C_{2} \cap C_{3}$ |                       Rings of Benefit                        |
+|   Kinetic/Potential    | $V_{1} \cap A_{3} \cap D_{1} \cap C_{3}$ |        IProcess Implementation, Result Project Groups         |
+|    Verbal/Nonverbal    | $G_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
+|     Inert/Contact      | $V_{1} \cap A_{1} \cap D_{3} \cap C_{3}$ |         Process Project, Result Implementation Groups         |
+| Evaluatory/Situational | $V_{1} \cap A_{2} \cap D_{4} \cap C_{3}$ | Dual Axis (Asymmetric Process Centrality Result Passionarity) |
+
+#### For Aristocratic Types
+
+|   Function Dichotomy   |      TIM Tetrachotomy Construction       |                       TIM Tetrachotomy                        |
+| :--------------------: | :--------------------------------------: | :-----------------------------------------------------------: |
+|       Valid/Null       |              $V_1 \cap C_3$              |                        Process/Result                         |
+|      Mental/Vital      | $V_{1} \cap V_{2} \cap C_{3} \cap C_{4}$ |                     Rings of Supervision                      |
+|  Accepting/Producing   |     $G_1 \cap V_3 \cap C_1 \cap C_3$     |                       Stress Resistance                       |
+|     Bold/Cautious      | $V_{1} \cap V_{4} \cap C_{2} \cap C_{3}$ |                       Rings of Benefit                        |
+|   Kinetic/Potential    | $V_{1} \cap A_{1} \cap D_{3} \cap C_{3}$ |         Process Project, Result Implementation Groups         |
+|    Verbal/Nonverbal    | $G_{1} \cap A_{2} \cap D_{4} \cap C_{3}$ | Dual Axis (Asymmetric Process Centrality Result Passionarity) |
+|     Inert/Contact      | $V_{1} \cap A_{3} \cap D_{1} \cap C_{3}$ |         Process Implementation, Result Project Groups         |
+| Evaluatory/Situational | $V_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
+
+
+## Model G (Humanitarian Socionics)
+### Reinin
+#### For Irrational Types
+
+|    Function Dichotomy     |      TIM Tetrachotomy Construction       |   TIM Tetrachotomy    |
+| :-----------------------: | :--------------------------------------: | :-------------------: |
+|        Valid/Null         |              $G_1 \cap U_3$              |    Process/Result     |
+|      Opening/Closing      | $G_{1} \cap G_{2} \cap U_{3} \cap U_{4}$ | Rings of Supervision  |
+|      Stable/Unstable      |     $G_1 \cap G_3 \cap U_1 \cap U_3$     |   Stress Resistance   |
+|     External/Internal     | $G_{1} \cap G_{4} \cap U_{2} \cap U_{3}$ |   Rings of Benefit    |
+|     Leading/Following     | $G_{1} \cap R_{1} \cap I_{3} \cap U_{3}$ | Implementation Groups |
+| Accelerating/Decelerating | $G_{1} \cap R_{2} \cap I_{4} \cap U_{3}$ |  Respository Groups   |
+|       Values/Tools        | $G_{1} \cap R_{3} \cap I_{1} \cap U_{3}$ |    Project Groups     |
+|    Automatic/Conscious    | $G_{1} \cap R_{4} \cap I_{2} \cap U_{3}$ |  Dispository Groups   |
+
+#### For Rational Types
+
+|    Function Dichotomy     |      TIM Tetrachotomy Construction       |   TIM Tetrachotomy    |
+| :-----------------------: | :--------------------------------------: | :-------------------: |
+|        Valid/Null         |              $G_1 \cap U_3$              |    Process/Result     |
+|      Opening/Closing      | $G_{1} \cap G_{2} \cap U_{3} \cap U_{4}$ | Rings of Supervision  |
+|      Stable/Unstable      |     $G_1 \cap G_3 \cap U_1 \cap U_3$     |   Stress Resistance   |
+|     External/Internal     | $G_{1} \cap G_{4} \cap U_{2} \cap U_{3}$ |   Rings of Benefit    |
+|     Leading/Following     | $G_{1} \cap R_{3} \cap I_{1} \cap U_{3}$ |    Project Groups     |
+| Accelerating/Decelerating | $G_{1} \cap R_{4} \cap I_{2} \cap U_{3}$ |  Dispository Groups   |
+|       Values/Tools        | $G_{1} \cap R_{1} \cap I_{3} \cap U_{3}$ | Implementation Groups |
+|    Automatic/Conscious    | $G_{1} \cap R_{2} \cap I_{4} \cap U_{3}$ |   Repository Groups   |
+
+
+### Tencer-Minaev
+#### For Democratic Types
+
+|    Function Dichotomy     |      TIM Tetrachotomy Construction       |                       TIM Tetrachotomy                        |
+| :-----------------------: | :--------------------------------------: | :-----------------------------------------------------------: |
+|        Valid/Null         |              $V_1 \cap C_3$              |                        Process/Result                         |
+|      Opening/Closing      | $V_{1} \cap V_{2} \cap C_{3} \cap C_{4}$ |                     Rings of Supervision                      |
+|      Stable/Unstable      |     $V_1 \cap V_3 \cap C_1 \cap C_3$     |                       Stress Resistance                       |
+|     External/Internal     | $V_{1} \cap V_{4} \cap C_{2} \cap C_{3}$ |                       Rings of Benefit                        |
+|     Leading/Following     | $V_{1} \cap A_{3} \cap D_{1} \cap C_{3}$ |         Process Implementation, Result Project Groups         |
+| Accelerating/Decelerating | $V_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
+|       Values/Tools        | $V_{1} \cap A_{1} \cap D_{3} \cap C_{3}$ |         Process Project, Result Implementation Groups         |
+|    Automatic/Conscious    | $V_{1} \cap A_{2} \cap D_{4} \cap C_{3}$ | Dual Axis (Asymmetric Process Centrality Result Passionarity) |
+
+#### For Aristocratic Types
+
+|    Function Dichotomy     |      TIM Tetrachotomy Construction       |                       TIM Tetrachotomy                        |
+| :-----------------------: | :--------------------------------------: | :-----------------------------------------------------------: |
+|        Valid/Null         |              $V_1 \cap C_3$              |                        Process/Result                         |
+|      Opening/Closing      | $V_{1} \cap V_{2} \cap C_{3} \cap C_{4}$ |                     Rings of Supervision                      |
+|      Stable/Unstable      |     $V_1 \cap V_3 \cap C_1 \cap C_3$     |                       Stress Resistance                       |
+|     External/Internal     | $V_{1} \cap V_{4} \cap C_{2} \cap C_{3}$ |                       Rings of Benefit                        |
+|     Leading/Following     | $V_{1} \cap A_{1} \cap D_{3} \cap C_{3}$ |         Process Project, Result Implementation Groups         |
+| Accelerating/Decelerating | $V_{1} \cap A_{2} \cap D_{4} \cap C_{3}$ | Dual Axis (Asymmetric Process Centrality Result Passionarity) |
+|       Values/Tools        | $V_{1} \cap A_{3} \cap D_{1} \cap C_{3}$ |         Process Implementation, Result Project Groups         |
+|    Automatic/Conscious    | $V_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
+
+
+### Gulenko-Newman Dichotomies
+#### Semidual Mirage HEF
+##### For Iridescent Hopes Types
+
+|       Function Dichotomy       |   TIM Tetrachotomy    |
+| :----------------------------: | :-------------------: |
+|           Valid/Null           |    Process/Result     |
+|        Opening/Closing         | Rings of Supervision  |
+|        Stable/Unstable         |   Stress Resistance   |
+|       External/Internal        |   Rings of Benefit    |
+|    Energetic/Informational     | Iridescent Hopes HEF  |
+|     Excitable/Inhibitable      | Avoiding Failures HEF |
+| Impressionable/Unimpresionable |      Waiting HEF      |
+|       Tensioned/Relaxed        |  Realistic Plans HEF  |
+
+##### For Waiting Types
+
+|       Function Dichotomy       |   TIM Tetrachotomy    |
+| :----------------------------: | :-------------------: |
+|           Valid/Null           |    Process/Result     |
+|        Opening/Closing         | Rings of Supervision  |
+|        Stable/Unstable         |   Stress Resistance   |
+|       External/Internal        |   Rings of Benefit    |
+|    Energetic/Informational     |      Waiting HEF      |
+|     Excitable/Inhibitable      |  Realistic Plans HEF  |
+| Impressionable/Unimpresionable | Iridescent Hopes HEF  |
+|       Tensioned/Relaxed        | Avoiding Failures HEF |
+
+##### For Realistic Plans Types
+
+|       Function Dichotomy       |   TIM Tetrachotomy    |
+| :----------------------------: | :-------------------: |
+|           Valid/Null           |    Process/Result     |
+|        Opening/Closing         | Rings of Supervision  |
+|        Stable/Unstable         |   Stress Resistance   |
+|       External/Internal        |   Rings of Benefit    |
+|    Energetic/Informational     |  Realistic Plans HEF  |
+|     Excitable/Inhibitable      |      Waiting HEF      |
+| Impressionable/Unimpresionable | Avoiding Failures HEF |
+|       Tensioned/Relaxed        | Iridescent Hopes HEF  |
+
+##### For Avoiding Failures Types
+
+|       Function Dichotomy       |   TIM Tetrachotomy    |
+| :----------------------------: | :-------------------: |
+|           Valid/Null           |    Process/Result     |
+|        Opening/Closing         | Rings of Supervision  |
+|        Stable/Unstable         |   Stress Resistance   |
+|       External/Internal        |   Rings of Benefit    |
+|    Energetic/Informational     | Avoiding Failures HEF |
+|     Excitable/Inhibitable      | Iridescent Hopes HEF  |
+| Impressionable/Unimpresionable |  Realistic Plans HEF  |
+|       Tensioned/Relaxed        |      Waiting HEF      |
+
+
+#### Kindred Business HEF
+##### For Flexible Manoeuvring Types
+
+|       Function Dichotomy       |     TIM Tetrachotomy     |
+| :----------------------------: | :----------------------: |
+|           Valid/Null           |      Process/Result      |
+|        Opening/Closing         |   Rings of Supervision   |
+|        Stable/Unstable         |    Stress Resistance     |
+|       External/Internal        |     Rings of Benefit     |
+|    Energetic/Informational     | Flexible Manoeuvring HEF |
+|     Excitable/Inhibitable      |   Linear Assertive HEF   |
+| Impressionable/Unimpresionable |  Receptive Adaptive HEF  |
+|       Tensioned/Relaxed        |   Balanced Stable HEF    |
+
+##### For Linear Assertive Types
+
+|       Function Dichotomy       |     TIM Tetrachotomy     |
+| :----------------------------: | :----------------------: |
+|           Valid/Null           |      Process/Result      |
+|        Opening/Closing         |   Rings of Supervision   |
+|        Stable/Unstable         |    Stress Resistance     |
+|       External/Internal        |     Rings of Benefit     |
+|    Energetic/Informational     |   Linear Assertive HEF   |
+|     Excitable/Inhibitable      | Flexible Manoeuvring HEF |
+| Impressionable/Unimpresionable |   Balanced Stable HEF    |
+|       Tensioned/Relaxed        |  Receptive Adaptive HEF  |
+
+##### For Balanced Stable Types
+
+|       Function Dichotomy       |     TIM Tetrachotomy     |
+| :----------------------------: | :----------------------: |
+|           Valid/Null           |      Process/Result      |
+|        Opening/Closing         |   Rings of Supervision   |
+|        Stable/Unstable         |    Stress Resistance     |
+|       External/Internal        |     Rings of Benefit     |
+|    Energetic/Informational     |  Receptive Adaptive HEF  |
+|     Excitable/Inhibitable      |   Balanced Stable HEF    |
+| Impressionable/Unimpresionable | Flexible Manoeuvring HEF |
+|       Tensioned/Relaxed        |   Linear Assertive HEF   |
+
+##### For Receptive Adaptive Types
+
+|       Function Dichotomy       |     TIM Tetrachotomy     |
+| :----------------------------: | :----------------------: |
+|           Valid/Null           |      Process/Result      |
+|        Opening/Closing         |   Rings of Supervision   |
+|        Stable/Unstable         |    Stress Resistance     |
+|       External/Internal        |     Rings of Benefit     |
+|    Energetic/Informational     |  Receptive Adaptive HEF  |
+|     Excitable/Inhibitable      |   Balanced Stable HEF    |
+| Impressionable/Unimpresionable | Flexible Manoeuvring HEF |
+|       Tensioned/Relaxed        |   Linear Assertive HEF   |
+
+
+#### Activation Quasi Identity HEF
+##### For Approaching Types
+
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |   Approaching HEF    |
+|     Excitable/Inhibitable      |     Shaping HEF      |
+| Impressionable/Unimpresionable |    Abstaining HEF    |
+|       Tensioned/Relaxed        |   Integrating HEF    |
+
+##### For Shaping Types
+
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |     Shaping HEF      |
+|     Excitable/Inhibitable      |   Approaching HEF    |
+| Impressionable/Unimpresionable |   Integrating HEF    |
+|       Tensioned/Relaxed        |    Abstaining HEF    |
+
+##### For Abstaining Types
+
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |    Abstaining HEF    |
+|     Excitable/Inhibitable      |   Integrating HEF    |
+| Impressionable/Unimpresionable |   Approaching HEF    |
+|       Tensioned/Relaxed        |     Shaping HEF      |
+
+##### For Integrating Types
+
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |   Integrating HEF    |
+|     Excitable/Inhibitable      |    Abstaining HEF    |
+| Impressionable/Unimpresionable |     Shaping HEF      |
+|       Tensioned/Relaxed        |   Approaching HEF    |
+
+
+#### Mirror Conflict HEF
+##### For Reorienters
+
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |   Reorienters HEF    |
+|     Excitable/Inhibitable      |    Slackeners HEF    |
+| Impressionable/Unimpresionable |    Sharpeners HEF    |
+|       Tensioned/Relaxed        | Foundationalists HEF |
+
+##### For Foundationalists
+
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     | Foundationalists HEF |
+|     Excitable/Inhibitable      |    Sharpeners HEF    |
+| Impressionable/Unimpresionable |    Slackeners HEF    |
+|       Tensioned/Relaxed        |   Reorienters HEF    |
+
+##### For Sharpeners
+
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |    Sharpeners HEF    |
+|     Excitable/Inhibitable      | Foundationalists HEF |
+| Impressionable/Unimpresionable |   Reorienters HEF    |
+|       Tensioned/Relaxed        |    Slackeners HEF    |
+
+##### For Slackeners
+
+|       Function Dichotomy       |   TIM Tetrachotomy   |
+| :----------------------------: | :------------------: |
+|           Valid/Null           |    Process/Result    |
+|        Opening/Closing         | Rings of Supervision |
+|        Stable/Unstable         |  Stress Resistance   |
+|       External/Internal        |   Rings of Benefit   |
+|    Energetic/Informational     |    Slackeners HEF    |
+|     Excitable/Inhibitable      |   Reorienters HEF    |
+| Impressionable/Unimpresionable | Foundationalists HEF |
+|       Tensioned/Relaxed        |    Sharpeners HEF    |
+
+
+# See Also
+
+- [Dichotomy Table (Reinin)](https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0#heading=h.1vmsoe7mj6yf)
+- [[Dichotomy Table (Tencer-Minaev)]]
+- [Encyclopaedia of Model G and Model A Dichotomy Systems (contains proofs of new mathematical discoveries)](https://varlawend.blogspot.com/2023/06/encyclopedia-of-model-g-and-model.html)
+- [[Tetrachotomy Table (Reinin)]]
+- [[Tetrachotomy Table (Tencer-Minaev)]]
+- [Tetrachotomy Table (Semidual Mirage HEF)](https://docs.google.com/document/d/1I6pyl4NzNdYKgeAwYfX0e8gVUAtQ8vu_lOL5HlYRMaw/edit?tab=t.0)
+- [Tetrachotomy Table (Kindred Business HEF)](https://docs.google.com/document/d/1wFnnyy3WRPSyEKu_qo5ixroO1twwIi0-Kz08FtmBN84/edit?tab=t.0)
+- [Tetrachotomy Table (Activation Quasi-Identity HEF)](https://docs.google.com/document/d/1SEzk22VWgnl8Axi9K9nG90gve-rAZjlVrXuboIJq0kU/edit?tab=t.0)
+- [Tetrachotomy Table (Mirror Conflict HEF)](https://docs.google.com/document/d/1W6i0TCMAkd0EfOYbx9HpF77_txIoBfP93VZ-iINivdI/edit?tab=t.0#heading=h.uch21o8de3xh)
+- [[TIM Dichotomy Index]]
