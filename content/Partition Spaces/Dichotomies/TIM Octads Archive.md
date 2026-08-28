@@ -62,7 +62,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 - [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces|The Waffle Spaces]]
 - [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index|The Waffle Spaces - A Brief Index]]
 
-# Appendix AComplete List of all Socionic Octads containing the ILE
+# Appendix A: Complete List of all Socionic Octads containing the ILE
 
   #1: ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI (Merry $\in \mathcal{C}_{g,15}, \mathcal{C}_{x,15}, \mathcal{C}_{x,30}$)  
   #2: ILE,SEI,ESE,LII,EIE,LSI,SLE,SEE  
@@ -6501,7 +6501,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #6435: ILE,ILI,LIE,ESI,LSE,EII,IEE,SLI (EII HEF + Descending Result $\in \mathcal{C}_{g,1}$)  
 
 
-# Example Subclasses of Dichotomy Systems
+# Appendix B: Example Subclasses of Dichotomy Systems
 ## Superego Respecting
 ### $\mathcal{C}_{g,1-16} \text{ or } \mathcal{D}$
 
