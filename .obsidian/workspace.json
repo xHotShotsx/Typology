@@ -176,9 +176,19 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "00a14fa526eb75ce",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {},
+              "icon": "feather-mouse-pointer",
+              "title": "Saved Queries"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -194,10 +204,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "better-footnote:Open Better Footnote": false,
+      "enhanced-pdf-export:Export active Markdown to PDF": false
     }
   },
-  "active": "e24da4557981c956",
+  "active": "00a14fa526eb75ce",
   "lastOpenFiles": [
     "content/content/index.md",
     "content/content/content.md",
