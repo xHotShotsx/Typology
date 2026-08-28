@@ -5746,25 +5746,25 @@ $$\mathcal{D}_{15} = \mathcal{C}_{g,15},$$
 
 which denotes the Reinin system of dichotomies. Thus, in the special case of $\mathcal{C}_{g}$, the indexing agrees with $\mathcal{D}$.
 
-#### Subclasses
+###### Subclasses
 
 Each of the $11$ nontrivial classes will be further divided into subclasses. These subclasses are determined y the invariant dichotomies used to define the order-2 subgroup $\{ e,r \}$. Each subclass contains up to $16$ dichotomy systems on $T$, corresponding up to the $16$ ways of lifting the underlying $8$-element geometry while preserving the symmetry of the seven defining dichotomies.
 
 For example, the extinguishment dyad $\{ e,x \}$ may be realised by several distinct subclasses. One subclass arises from the Reinin dichotomies, while another arises from the Tencer-Minaev dichotomies. See the section [[TIM Octads Archive#Example Subclasses of Dichotomy Systems]] for more detail.
 
-### Order 4
+###### Order 4
 
 For any $|H| > 2$, these will be dubbed the 'meta classes', as they can be defined using smaller classes of dichotomy systems. For any normal subgroup $H \cong \mathbb{Z}^2_{2}$, they will be abbreviated using capital letters as notation, usually to denote an 'orbital tetrachotomy'.
 
 $$\begin{matrix} \mathrm{Subgroup} & \mathrm{Notation := Description} \\ \\ \{ e,g,x,d \} & Z := \text{'Central' or Stress Resistance} \\ \{ e,g,a,q \} & O := \text{'Orientation' or Positivity Group} \\ \{ e,g,i,h \} & \Delta := \text{Displacement} \\ \{ e,g,k,l \} & G := \text{'General' or Temperament} \\ \{ e,g,c,m \} & V := \text{'Vector' or Challenge Response Group} \end{matrix}$$
 
-### Order 8
+###### Order 8
 
 This class has size 2, which contain the Reinin and Tencer-Minaev systems of dichotomies, since when $H \cong \mathbb{Z}^3_{2}$ (for example the Democratic/Aristocratic or Irrational/Rational subgroup). And $CD(H)$ when $|H|=8$ spits out either the Reinin or Tencer-Minaev dichotomies, depending on the subgroup inputted. Formally:
 
 $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
-# Further Reading
+#### Further Reading
 
 - https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
 - [[Partition Spaces/Dichotomies/TIM Dichotomy Index]]
@@ -5773,7 +5773,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 - [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces|The Waffle Spaces]]
 - [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index|The Waffle Spaces - A Brief Index]]
 
-# Appendix A: Complete List of all Socionic Octads containing the ILE
+#### Appendix A: Complete List of all Socionic Octads containing the ILE
 
   #1: ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI (Merry $\in \mathcal{C}_{g,15}, \mathcal{C}_{x,15}, \mathcal{C}_{x,30}$)  
   #2: ILE,SEI,ESE,LII,EIE,LSI,SLE,SEE  
@@ -12212,7 +12212,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #6435: ILE,ILI,LIE,ESI,LSE,EII,IEE,SLI (EII HEF + Descending Result $\in \mathcal{C}_{g,1}$)  
 
 
-# Appendix B: Example Subclasses of Dichotomy Systems
+#### Appendix B: Example Subclasses of Dichotomy Systems
 ## Superego Respecting
 ### $\mathcal{C}_{g,1-16} \text{ or } \mathcal{D}$
 
