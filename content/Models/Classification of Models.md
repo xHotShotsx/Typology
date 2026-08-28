@@ -31,7 +31,7 @@
 
 - https://people.maths.bris.ac.uk/~matyd/GroupNames/T31.html
 - [[Mathematical Descriptions of Models A and G]]
-- [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics|A Representation-Theoretic Framework for Intertype Relations in Socionics]]
+- [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics]]
 - https://drive.google.com/file/d/1ISFXjLIVkWtsh6nj0hswnDy6V-q59MDF/view
 - [[Models/Model-W/Model-W|Model-W]]
 - [[A Mathematical Description of Model V]]
