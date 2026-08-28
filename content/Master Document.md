@@ -12213,8 +12213,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 
 #### Appendix B: Example Subclasses of Dichotomy Systems
-## Superego Respecting
-### $\mathcal{C}_{g,1-16} \text{ or } \mathcal{D}$
+##### Superego Respecting
+###### $\mathcal{C}_{g,1-16} \text{ or } \mathcal{D}$
 
 #2808: Irrational / Rational  
 #2229: Process / Result    
@@ -12224,7 +12224,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4407: Positivist / Negativist  
 #5083: Asking / Declaring  
 
-### $\mathcal{C}_{g,17-32}$
+###### $\mathcal{C}_{g,17-32}$
 
 #2808: Irrational / Rational  
 #2229: Process / Result    
@@ -12234,7 +12234,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #5012: +X3 / -X3  
 #5337: +X8 / -X8  
 
-### $\mathcal{C}_{g,33-48}$
+###### $\mathcal{C}_{g,33-48}$
 
 #2229: Process / Result
 #4082: Extroverted / Introverted  
@@ -12244,7 +12244,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3490: +Y8 / -Y8  
 #6140: +Y1 / -Y1  
 
-### $\mathcal{C}_{g,49-64}$
+###### $\mathcal{C}_{g,49-64}$
 
 #2229: Process / Result  
 #5266: Static / Dynamic  
@@ -12254,7 +12254,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3279: +Z1 / -Z1  
 #5929: +Z6 / -Z6
 
-### $\mathcal{C}_{g,65-80}$
+###### $\mathcal{C}_{g,65-80}$
 
 #2208: Irrational / Rational  
 #4407: Positivist / Negativist  
@@ -12264,7 +12264,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3617: -A3 / -A3  
 #5731: +A7 / -A7
 
-### $\mathcal{C}_{g,81-96}$
+###### $\mathcal{C}_{g,81-96}$
 
 #2208: Irrational / Rational  
 #4082: Extroverted / Introverted  
@@ -12274,7 +12274,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3688: +B1 / -B1  
 #5802: +B5 / -B5  
 
-### $\mathcal{C}_{g,97-112}$
+###### $\mathcal{C}_{g,97-112}$
 
 #426: Democratic / Aristocratic  
 #5083: Asking / Declaring  
@@ -12284,7 +12284,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3955: +Γ8 / -Γ8  
 #4534: +Γ5 / -Γ5
 
-### $\mathcal{C}_{g,113-128}$
+###### $\mathcal{C}_{g,113-128}$
 
 #426: Democratic / Aristocratic  
 #4082: Extroverted / Introverted  
@@ -12294,8 +12294,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4885: +Δ5 / -Δ5  
 #5464: +Δ6 / -Δ6
 
-## Extinguishment Respecting
-### $\mathcal{C}_{x,1-16}$
+##### Extinguishment Respecting
+###### $\mathcal{C}_{x,1-16}$
 
 #2808: Irrational / Rational  
 #2229: Process / Result    
@@ -12305,7 +12305,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4430: Tactical / Strategic  
 #4111: Constructivist / Emotivist  
 
-### $\mathcal{C}_{x,17-32}$
+###### $\mathcal{C}_{x,17-32}$
 
 #2808: Irrational / Rational  
 #2229: Process / Result    
@@ -12315,8 +12315,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #5029: 2ndAbstract / 2ndInvolved  
 #4361: 2ndExternal / 2ndInternal  
 
-## Dual Respecting
-### $\mathcal{C}_{d,1-16}$
+##### Dual Respecting
+###### $\mathcal{C}_{d,1-16}$
 
 #2808: Irrational / Rational  
 #2229: Process / Result    
