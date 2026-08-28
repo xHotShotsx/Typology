@@ -53,7 +53,16 @@ This class has size 2, which contain the Reinin and Tencer-Minaev systems of dic
 
 $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
-# Complete List of all Socionic Octads containing the ILE
+# Further Reading
+
+- https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
+- [[Partition Spaces/Dichotomies/TIM Dichotomy Index]]
+- https://drive.google.com/file/d/1ISFXjLIVkWtsh6nj0hswnDy6V-q59MDF/view
+- [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics]]
+- [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces|The Waffle Spaces]]
+- [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index|The Waffle Spaces - A Brief Index]]
+
+# Appendix AComplete List of all Socionic Octads containing the ILE
 
   #1: ILE,SEI,ESE,LII,EIE,LSI,SLE,IEI (Merry $\in \mathcal{C}_{g,15}, \mathcal{C}_{x,15}, \mathcal{C}_{x,30}$)  
   #2: ILE,SEI,ESE,LII,EIE,LSI,SLE,SEE  
@@ -6783,12 +6792,3 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2093: 2ndBeta / 2ndDelta  
 #4361: 2ndExternal / 2ndInternal  
 #5029: 2ndAbstract / 2ndInvolved  
-
-# Further Reading
-
-- https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
-- [[Partition Spaces/Dichotomies/TIM Dichotomy Index|TIM Dichotomy Index]]
-- https://drive.google.com/file/d/1ISFXjLIVkWtsh6nj0hswnDy6V-q59MDF/view
-- [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics|A Representation-Theoretic Framework for Intertype Relations in Socionics]]
-- [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces|The Waffle Spaces]]
-- [[Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index|The Waffle Spaces - A Brief Index]]
