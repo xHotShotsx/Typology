@@ -12326,7 +12326,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2280: Carefree / Farsighted  
 #2849: Yielding / Obstinate  
 
-### $\mathcal{C}_{d,17-32}$
+###### $\mathcal{C}_{d,17-32}$
 
 #2808: Irrational / Rational  
 #2229: Process / Result    
@@ -12336,8 +12336,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #308: 2ndAlpha / 2ndGamma    
 #2093: 2ndBeta / 2ndDelta  
 
-## Activation Respecting
-### $\mathcal{C}_{a,1-16}$
+##### Activation Respecting
+###### $\mathcal{C}_{a,1-16}$
 
 #426: Democratic / Aristocratic  
 #4082: Extroverted / Introverted  
@@ -12347,7 +12347,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4430: Tactical / Strategic  
 #4111: Constructivist / Emotivist  
 
-### $\mathcal{C}_{a,17-32}$
+###### $\mathcal{C}_{a,17-32}$
 
 #426: Democratic / Aristocratic  
 #4082: Extroverted / Introverted  
@@ -12357,8 +12357,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #80: SEI+ESE HEF / ILI+LIE HEF  
 #225: ILE+LII HEF / SEE+ESI HEF  
 
-## Quasi Identity Respecting
-### $\mathcal{C}_{q,1-16}$
+##### Quasi Identity Respecting
+###### $\mathcal{C}_{q,1-16}$
 
 #426: Democratic / Aristocratic  
 #4082: Extroverted / Introverted  
@@ -12368,7 +12368,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2280: Carefree / Farsighted    
 #2849: Yielding / Obstinate  
 
-### $\mathcal{C}_{q,17-32}$
+###### $\mathcal{C}_{q,17-32}$
 
 #426: Democratic / Aristocratic  
 #4082: Extroverted / Introverted  
@@ -12378,8 +12378,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2655: ILE+ESI HEF / LII+SEE HEF  
 #2474: SEI+LIE HEF / ESE+ILI HEF  
 
-## Mirror Respecting
-### $\mathcal{C}_{m,1-16}$
+##### Mirror Respecting
+###### $\mathcal{C}_{m,1-16}$
 
 #426: Democratic / Aristocratic  
 #5083: Asking / Declaring  
@@ -12389,7 +12389,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #495: Judicious / Decisive  
 #1: Merry / Serious
 
-### $\mathcal{C}_{m,17-32}$
+###### $\mathcal{C}_{m,17-32}$
 
 #426: Democratic / Aristocratic  
 #5083: Asking / Declaring  
@@ -12399,8 +12399,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4727: EIE+SLE HEF / LSE+IEE HEF  
 #5641: EII+SLI HEF / LSI+IEI HEF  
 
-## Conflict Respecting
-### $\mathcal{C}_{c,1-16}$
+##### Conflict Respecting
+###### $\mathcal{C}_{c,1-16}$
 
 #426: Democratic / Aristocratic  
 #5083: Asking / Declaring  
@@ -12410,7 +12410,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2280: Carefree / Farsighted  
 #2849: Yielding / Obstinate
 
-### $\mathcal{C}_{c,17-32}$
+###### $\mathcal{C}_{c,17-32}$
 
 #426: Democratic / Aristocratic  
 #5083: Asking / Declaring  
@@ -12420,8 +12420,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #2724: ILE+LIE HEF / ESE+SEE HEF  
 #2405: SEI+ESI HEF / LII+ILI HEF  
 
-## Semi Duality Respecting
-### $\mathcal{C}_{h,1-16}$
+##### Semi Duality Respecting
+###### $\mathcal{C}_{h,1-16}$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
@@ -12431,7 +12431,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3024: ESE+EIE HEF / LIE+LSE HEF  
 #6394: ESI+EII HEF / LII+LSI HEF  
 
-### $\mathcal{C}_{h,17-32}$
+###### $\mathcal{C}_{h,17-32}$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
@@ -12441,8 +12441,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4361: 2ndExternal / 2ndInternal  
 #5029: 2ndAbstract / 2ndInvolved  
 
-## Mirage Respecting
-### $\mathcal{C}_{i,1-16}$
+##### Mirage Respecting
+###### $\mathcal{C}_{i,1-16}$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
@@ -12452,7 +12452,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #1632: ILE+SLE HEF / SEE+IEE HEF  
 #635: SEI+IEI HEF / ILI+SLI HEF  
 
-## $\mathcal{C}_{i,17-32}$
+##### $\mathcal{C}_{i,17-32}$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
@@ -12462,8 +12462,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4180: 1stInternal / 1stExternal  
 #5348: 1stAbstract / 1stInvolved
 
-## Kindred Respecting
-### $\mathcal{C}_{k,1-16}$
+##### Kindred Respecting
+###### $\mathcal{C}_{k,1-16}$
 
 #2808: Irrational / Rational  
 #4082: Extroverted / Introverted  
@@ -12473,7 +12473,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3051: LII+EIE HEF / ESI+LSE HEF  
 #6421: LIE+EII HEF / ESE+LSI HEF  
 
-### $\mathcal{C}_{k,17-32}$
+###### $\mathcal{C}_{k,17-32}$
 
 #2808: Irrational / Rational  
 #4082: Extroverted / Introverted  
@@ -12483,8 +12483,8 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4180: 1stInternal / 1stExternal  
 #5348: 1stAbstract / 1stInvolved  
 
-## Business Respecting
-### $\mathcal{C}_{l,1-16}$
+##### Business Respecting
+###### $\mathcal{C}_{l,1-16}$
 
 #2808: Irrational / Rational  
 #4082: Extroverted / Introverted  
@@ -12494,7 +12494,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #3652: ESE+EII HEF / LSI+LIE HEF  
 #5738: EIE+ESI HEF / LII+LSE HEF  
 
-### $\mathcal{C}_{l,17-32}$
+###### $\mathcal{C}_{l,17-32}$
 
 #2808: Irrational / Rational  
 #4082: Extroverted / Introverted  
