@@ -27,5 +27,7 @@
   "templater-obsidian",
   "obsidian-latex-suite",
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "enhanced-pdf-export",
+  "better-links"
 ]
