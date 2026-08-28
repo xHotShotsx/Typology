@@ -72,4 +72,4 @@ $CD(\{e,g\})$ generates all orbital-respecting 16 dichotomy spaces, and all 15 b
 - https://docs.google.com/document/d/106N6CmPL-TSP9Agiz3k3O6TipV4PGCTzDiRBq5kEJH4/edit?tab=t.0
 - https://docs.google.com/document/d/1039F7gtNp-DnoEL5PsWgBxAkVQsxMRF2a_Dbn6tqCGk/edit?tab=t.0
 - https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
-- [[The Waffle Spaces]]
+- [[content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces]]

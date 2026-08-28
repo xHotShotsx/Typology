@@ -356,15 +356,15 @@
 
 - [Encyclopaedia of Model G and Model A Dichotomy Systems (contains proofs of new mathematical discoveries)](https://varlawend.blogspot.com/2023/06/encyclopedia-of-model-g-and-model.html)
 - [Dichotomy Table (Reinin)](https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0#heading=h.1vmsoe7mj6yf)
-- [[Dichotomy Table (Tencer-Minaev)]]
+- [[Partition Spaces/Dichotomies/Tencer-Minaev/Dichotomy Table (Tencer-Minaev)]]
 - [[Dichotomy Table (Semidual Mirage HEF)]]
 - [[Dichotomy Table (Kindred Business HEF)]]
 - [[Dichotomy Table (Activation Quasi HEF)]]
 - [[Dichotomy Table (Mirror Conflict HEF)]]
-- [[Tetrachotomy Table (Reinin)]]
-- [[Tetrachotomy Table (Tencer-Minaev)]]
+- [[Partition Spaces/Tetrachotomies/Reinin/Tetrachotomy Table (Reinin)]]
+- [[Partition Spaces/Tetrachotomies/Tencer-Minaev/Tetrachotomy Table (Tencer-Minaev)]]
 - [Tetrachotomy Table (Semidual Mirage HEF)](https://docs.google.com/document/d/1I6pyl4NzNdYKgeAwYfX0e8gVUAtQ8vu_lOL5HlYRMaw/edit?tab=t.0)
 - [Tetrachotomy Table (Kindred Business HEF)](https://docs.google.com/document/d/1wFnnyy3WRPSyEKu_qo5ixroO1twwIi0-Kz08FtmBN84/edit?tab=t.0)
 - [Tetrachotomy Table (Activation Quasi-Identity HEF)](https://docs.google.com/document/d/1SEzk22VWgnl8Axi9K9nG90gve-rAZjlVrXuboIJq0kU/edit?tab=t.0)
 - [Tetrachotomy Table (Mirror Conflict HEF)](https://docs.google.com/document/d/1W6i0TCMAkd0EfOYbx9HpF77_txIoBfP93VZ-iINivdI/edit?tab=t.0#heading=h.uch21o8de3xh)
-- [[TIM Dichotomy Index]]
+- [[Partition Spaces/Dichotomies/TIM Dichotomy Index]]

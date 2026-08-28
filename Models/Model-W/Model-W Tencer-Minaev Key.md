@@ -77,5 +77,5 @@ _(Formative/Emergent)_
 # Additional Note
 
 - For the 'Model-L Reinin Key', I would suggest you check out Kimani White's [Model-L Reinin Key](https://docs.google.com/document/d/1yDCW1nbrzuryyfC7rsyZf4-g4eqwAxyd8th3m3mynXo/edit?tab=t.0) document.
-- For my dichotomy classifications table, check out: [[Dichotomy Classifications (Modern Tencer-Minaev)]].
-- For my standard Dichotomy Table for this space, check out: [[Dichotomy Table (Tencer-Minaev)]].
+- For my dichotomy classifications table, check out: [[Models/Model-W/Dichotomy Classifications (Modern Tencer-Minaev)]].
+- For my standard Dichotomy Table for this space, check out: [[Partition Spaces/Dichotomies/Tencer-Minaev/Dichotomy Table (Tencer-Minaev)]].

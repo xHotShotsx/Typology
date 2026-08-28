@@ -39,5 +39,5 @@
 - https://docs.google.com/document/d/1gtsDlSjzixyVsrJtm-_rvIQrSvqYqcAW/edit#heading=h.w7szc0dzkxgg
 - [https://drive.google.com/file/d/1qbUsbxJyXBlsOIIcm96fJA9xfOorDA_4/view?usp=drivesdk](https://drive.google.com/file/d/1qbUsbxJyXBlsOIIcm96fJA9xfOorDA_4/view?usp=drivesdk "https://drive.google.com/file/d/1qbUsbxJyXBlsOIIcm96fJA9xfOorDA_4/view?usp=drivesdk")
 - https://www.sedecology.com/articles/21/The-Essence-of-the-Quadras
-- [[content/content/Machine Translations/Books/Semyon Churyumov/Smile of the Cheshire Cat/Chapter 4]]
+- [[content/Machine Translations/Books/Semyon Churyumov/Smile of the Cheshire Cat/Chapter 4]]
 - [[16-Component Model of the TIM and the Socion]]

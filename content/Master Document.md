@@ -145,7 +145,7 @@ _All notes concatenated and hyperlinked. Exceptions include any external books o
 - https://docs.google.com/document/d/1gtsDlSjzixyVsrJtm-_rvIQrSvqYqcAW/edit#heading=h.w7szc0dzkxgg
 - [https://drive.google.com/file/d/1qbUsbxJyXBlsOIIcm96fJA9xfOorDA_4/view?usp=drivesdk](https://drive.google.com/file/d/1qbUsbxJyXBlsOIIcm96fJA9xfOorDA_4/view?usp=drivesdk "https://drive.google.com/file/d/1qbUsbxJyXBlsOIIcm96fJA9xfOorDA_4/view?usp=drivesdk")
 - https://www.sedecology.com/articles/21/The-Essence-of-the-Quadras
-- [[content/content/Machine Translations/Books/Semyon Churyumov/Smile of the Cheshire Cat/Chapter 4]]
+- [[content/Machine Translations/Books/Semyon Churyumov/Smile of the Cheshire Cat/Chapter 4]]
 - [[16-Component Model of the TIM and the Socion]]
 
 
@@ -581,7 +581,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 
 - Also check out the modern dichotomy classifications table for the Reinin space Kimani White and Andrew Joynton have mapped out: https://docs.google.com/document/d/1xcek3L5mTOrljxb24NXyxyqnhG8tFx7TInfAQ0H_pdc/edit?tab=t.0#heading=h.1vmsoe7mj6yf.
 - For an alternate arrangement of the Tencer-Minaev (TM) Table, check out Kimani White's iteration of the table, accessible here: https://docs.google.com/document/d/1YTDf0oXVmxGEDrOLUyqZZz2lOIDw76yuWAA3ppjHMH0/edit?tab=t.0#heading=h.100owmjgo0e.
-- For the list of tetrachotomies for the Tencer-Minaev Space of dichotomies: [[Tetrachotomy Table (Tencer-Minaev)]].
+- For the list of tetrachotomies for the Tencer-Minaev Space of dichotomies: [[content/Partition Spaces/Tetrachotomies/Tencer-Minaev/Tetrachotomy Table (Tencer-Minaev)]].
 
 ---
 
@@ -712,8 +712,8 @@ _(Formative/Emergent)_
 #### Additional Note
 
 - For the 'Model-L Reinin Key', I would suggest you check out Kimani White's [Model-L Reinin Key](https://docs.google.com/document/d/1yDCW1nbrzuryyfC7rsyZf4-g4eqwAxyd8th3m3mynXo/edit?tab=t.0) document.
-- For my dichotomy classifications table, check out: [[Dichotomy Classifications (Modern Tencer-Minaev)]].
-- For my standard Dichotomy Table for this space, check out: [[Dichotomy Table (Tencer-Minaev)]].
+- For my dichotomy classifications table, check out: [[content/Models/Model-W/Dichotomy Classifications (Modern Tencer-Minaev)]].
+- For my standard Dichotomy Table for this space, check out: [[content/Partition Spaces/Dichotomies/Tencer-Minaev/Dichotomy Table (Tencer-Minaev)]].
 
 ---
 
@@ -3194,9 +3194,9 @@ Dichotomies:
 
 #### Preface
 
-- The set of information elements can be canonically defined via dichotomy systems under which the kindred intertype relation is invariant when mapped to a vector space induced by the system. Although all 16 "Varlawend" dichotomy systems preserve the orbital 2-cocycle, orbital preservation alone is insufficient to guarantee kindred invariance. Among these systems, only two ($\mathcal{D}_{2}$ and $\mathcal{D}_{14}$) fix the kindred relation. In each of these systems, a heptad of dichotomies suffices to distinguish the information metabolism elements (IMEs) uniquely. For more information on which relationships are invariant when mapped to the vector space, check out the Appendices in [[A Representation-Theoretic Framework for Intertype Relations in Socionics]].
+- The set of information elements can be canonically defined via dichotomy systems under which the kindred intertype relation is invariant when mapped to a vector space induced by the system. Although all 16 "Varlawend" dichotomy systems preserve the orbital 2-cocycle, orbital preservation alone is insufficient to guarantee kindred invariance. Among these systems, only two ($\mathcal{D}_{2}$ and $\mathcal{D}_{14}$) fix the kindred relation. In each of these systems, a heptad of dichotomies suffices to distinguish the information metabolism elements (IMEs) uniquely. For more information on which relationships are invariant when mapped to the vector space, check out the Appendices in [[content/Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics]].
 - For mathematical descriptions of both Models A and G, check out: [[Mathematical Descriptions of Models A and G]].
-- **Side Note:** HEF = High Energy Function. These correspond to the Energetic functions of Model-G, which is a Gulenko-Newman trait. Alternatively, 'HEF' can be understood as a syntactic placeholder term for the subset that constitutes the identity, benefactor, supervisee and dual relations of the group that comprises all classical intertype relationships. For more information on the Gulenko-Newman dichotomies, check out [Encyclopaedia of Model G and Model A Dichotomy Systems (contains proofs of new mathematical discoveries)](https://varlawend.blogspot.com/2023/06/encyclopedia-of-model-g-and-model.html). And for information on how various function dichotomies translate to tetrachotomies for sociotype under the interpretation of injection, check out [[Injections - Function Dichotomies to TIM Tetrachotomies]].
+- **Side Note:** HEF = High Energy Function. These correspond to the Energetic functions of Model-G, which is a Gulenko-Newman trait. Alternatively, 'HEF' can be understood as a syntactic placeholder term for the subset that constitutes the identity, benefactor, supervisee and dual relations of the group that comprises all classical intertype relationships. For more information on the Gulenko-Newman dichotomies, check out [Encyclopaedia of Model G and Model A Dichotomy Systems (contains proofs of new mathematical discoveries)](https://varlawend.blogspot.com/2023/06/encyclopedia-of-model-g-and-model.html). And for information on how various function dichotomies translate to tetrachotomies for sociotype under the interpretation of injection, check out [[content/Models/Models-A-G/Injections - Function Dichotomies to TIM Tetrachotomies]].
 - For the full archive of all 30 systems of dichotomies that generate the Information elements, check out [[Element (Information) Dichotomy Archive]] and [[Element (Information) Dichotomies - All Affine Structures]].
 
 #### Semidual Mirage HEF System ($\mathcal{D}_2$)
@@ -3889,18 +3889,18 @@ This post regarding energetic dimensionality is tentative, so take it with a gra
 
 - [Encyclopaedia of Model G and Model A Dichotomy Systems (contains proofs of new mathematical discoveries)](https://varlawend.blogspot.com/2023/06/encyclopedia-of-model-g-and-model.html)
 - [Dichotomy Table (Reinin)](https://docs.google.com/document/d/1Qn8X3vOp2TJAo-RSwtYsFhsKsE6ATPJrnHYHFt3ZZ6o/edit?tab=t.0#heading=h.1vmsoe7mj6yf)
-- [[Dichotomy Table (Tencer-Minaev)]]
+- [[content/Partition Spaces/Dichotomies/Tencer-Minaev/Dichotomy Table (Tencer-Minaev)]]
 - [[Dichotomy Table (Semidual Mirage HEF)]]
 - [[Dichotomy Table (Kindred Business HEF)]]
 - [[Dichotomy Table (Activation Quasi HEF)]]
 - [[Dichotomy Table (Mirror Conflict HEF)]]
-- [[Tetrachotomy Table (Reinin)]]
-- [[Tetrachotomy Table (Tencer-Minaev)]]
+- [[content/Partition Spaces/Tetrachotomies/Reinin/Tetrachotomy Table (Reinin)]]
+- [[content/Partition Spaces/Tetrachotomies/Tencer-Minaev/Tetrachotomy Table (Tencer-Minaev)]]
 - [Tetrachotomy Table (Semidual Mirage HEF)](https://docs.google.com/document/d/1I6pyl4NzNdYKgeAwYfX0e8gVUAtQ8vu_lOL5HlYRMaw/edit?tab=t.0)
 - [Tetrachotomy Table (Kindred Business HEF)](https://docs.google.com/document/d/1wFnnyy3WRPSyEKu_qo5ixroO1twwIi0-Kz08FtmBN84/edit?tab=t.0)
 - [Tetrachotomy Table (Activation Quasi-Identity HEF)](https://docs.google.com/document/d/1SEzk22VWgnl8Axi9K9nG90gve-rAZjlVrXuboIJq0kU/edit?tab=t.0)
 - [Tetrachotomy Table (Mirror Conflict HEF)](https://docs.google.com/document/d/1W6i0TCMAkd0EfOYbx9HpF77_txIoBfP93VZ-iINivdI/edit?tab=t.0#heading=h.uch21o8de3xh)
-- [[TIM Dichotomy Index]]
+- [[content/Partition Spaces/Dichotomies/TIM Dichotomy Index]]
 
 ---
 
@@ -13036,7 +13036,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 
 - Also check out the modern dichotomy classifications table for the Reinin space Kimani White and Andrew Joynton have mapped out: https://docs.google.com/document/d/1xcek3L5mTOrljxb24NXyxyqnhG8tFx7TInfAQ0H_pdc/edit?tab=t.0#heading=h.1vmsoe7mj6yf.
 - For an alternate arrangement of the Tencer-Minaev (TM) Table, check out Kimani White's iteration of the table, accessible here: https://docs.google.com/document/d/1YTDf0oXVmxGEDrOLUyqZZz2lOIDw76yuWAA3ppjHMH0/edit?tab=t.0#heading=h.100owmjgo0e.
-- For the list of tetrachotomies for the Tencer-Minaev Space of dichotomies: [[Tetrachotomy Table (Tencer-Minaev)]].
+- For the list of tetrachotomies for the Tencer-Minaev Space of dichotomies: [[content/Partition Spaces/Tetrachotomies/Tencer-Minaev/Tetrachotomy Table (Tencer-Minaev)]].
 
 
 
@@ -13179,7 +13179,7 @@ $CD(\{e,g\})$ generates all orbital-respecting 16 dichotomy spaces, and all 15 b
 - https://docs.google.com/document/d/106N6CmPL-TSP9Agiz3k3O6TipV4PGCTzDiRBq5kEJH4/edit?tab=t.0
 - https://docs.google.com/document/d/1039F7gtNp-DnoEL5PsWgBxAkVQsxMRF2a_Dbn6tqCGk/edit?tab=t.0
 - https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
-- [[The Waffle Spaces]]
+- [[content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces]]
 
 ---
 
@@ -13940,7 +13940,7 @@ $CD(\{e,g\})$ generates all orbital-respecting 16 dichotomy spaces, and all 15 b
 - https://docs.google.com/document/d/106N6CmPL-TSP9Agiz3k3O6TipV4PGCTzDiRBq5kEJH4/edit?tab=t.0
 - https://docs.google.com/document/d/1039F7gtNp-DnoEL5PsWgBxAkVQsxMRF2a_Dbn6tqCGk/edit?tab=t.0
 - https://varlawend.blogspot.com/2023/08/there-are-16-distinct-systems-of-16.html
-- [[The Waffle Spaces - A Brief Index]]
+- [[content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index]]
 
 ---
 
@@ -20869,9 +20869,9 @@ which assigns to each intertype relation a 4-bit vector in the vector space $\ma
 
 #### Further Reading
 
-- [[The Waffle Spaces]]
-- [[The Waffle Spaces - A Brief Index]]
-- [[TIM Dichotomy Index]]
+- [[content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces]]
+- [[content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index]]
+- [[content/Partition Spaces/Dichotomies/TIM Dichotomy Index]]
 - [Model L](https://docs.google.com/document/d/1pyD_Q46InssEXugneWDJUmXfev8856KDsRl2cFEy2Vk/edit?tab=t.0#heading=h.9bjcoj3jp24g)
 - [Model W](https://docs.google.com/document/d/1zyG_1jSp5amzI_I3gHy_N1K8EeIFvx6ueT4FJ8GdLIw/edit?tab=t.0#heading=h.t2qbzyfy8mce)
 - [ЮМП](https://docs.google.com/document/d/106N6CmPL-TSP9Agiz3k3O6TipV4PGCTzDiRBq5kEJH4/edit?tab=t.0)
@@ -22123,9 +22123,9 @@ $$ \begin{pmatrix} \text{ILE} & \text{SEI} & \text{SLI} & \text{IEE} \\ \text{LS
 
 ### See Also
 
-- [[Dichotomy Table (Tencer-Minaev)]]
-- [[A Representation-Theoretic Framework for Intertype Relations in Socionics]]
-- [[TIM Dichotomy Index]]
+- [[content/Partition Spaces/Dichotomies/Tencer-Minaev/Dichotomy Table (Tencer-Minaev)]]
+- [[content/Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics]]
+- [[content/Partition Spaces/Dichotomies/TIM Dichotomy Index]]
 
 
 

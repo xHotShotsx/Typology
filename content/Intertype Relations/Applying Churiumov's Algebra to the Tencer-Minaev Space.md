@@ -79,6 +79,6 @@ $$ \begin{pmatrix} \text{ILE} & \text{SEI} & \text{SLI} & \text{IEE} \\ \text{LS
 
 # See Also
 
-- [[Dichotomy Table (Tencer-Minaev)]]
-- [[A Representation-Theoretic Framework for Intertype Relations in Socionics]]
-- [[TIM Dichotomy Index]]
+- [[Partition Spaces/Dichotomies/Tencer-Minaev/Dichotomy Table (Tencer-Minaev)]]
+- [[content/Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics]]
+- [[Partition Spaces/Dichotomies/TIM Dichotomy Index]]
