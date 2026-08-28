@@ -3194,7 +3194,7 @@ Dichotomies:
 
 #### Preface
 
-- The set of information elements can be canonically defined via dichotomy systems under which the kindred intertype relation is invariant when mapped to a vector space induced by the system. Although all 16 "Varlawend" dichotomy systems preserve the orbital 2-cocycle, orbital preservation alone is insufficient to guarantee kindred invariance. Among these systems, only two ($\mathcal{D}_{2}$ and $\mathcal{D}_{14}$) fix the kindred relation. In each of these systems, a heptad of dichotomies suffices to distinguish the information metabolism elements (IMEs) uniquely. For more information on which relationships are invariant when mapped to the vector space, check out the Appendices in [[content/Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics]].
+- The set of information elements can be canonically defined via dichotomy systems under which the kindred intertype relation is invariant when mapped to a vector space induced by the system. Although all 16 "Varlawend" dichotomy systems preserve the orbital 2-cocycle, orbital preservation alone is insufficient to guarantee kindred invariance. Among these systems, only two ($\mathcal{D}_{2}$ and $\mathcal{D}_{14}$) fix the kindred relation. In each of these systems, a heptad of dichotomies suffices to distinguish the information metabolism elements (IMEs) uniquely. For more information on which relationships are invariant when mapped to the vector space, check out the Appendices in [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics]].
 - For mathematical descriptions of both Models A and G, check out: [[Mathematical Descriptions of Models A and G]].
 - **Side Note:** HEF = High Energy Function. These correspond to the Energetic functions of Model-G, which is a Gulenko-Newman trait. Alternatively, 'HEF' can be understood as a syntactic placeholder term for the subset that constitutes the identity, benefactor, supervisee and dual relations of the group that comprises all classical intertype relationships. For more information on the Gulenko-Newman dichotomies, check out [Encyclopaedia of Model G and Model A Dichotomy Systems (contains proofs of new mathematical discoveries)](https://varlawend.blogspot.com/2023/06/encyclopedia-of-model-g-and-model.html). And for information on how various function dichotomies translate to tetrachotomies for sociotype under the interpretation of injection, check out [[content/Models/Models-A-G/Injections - Function Dichotomies to TIM Tetrachotomies]].
 - For the full archive of all 30 systems of dichotomies that generate the Information elements, check out [[Element (Information) Dichotomy Archive]] and [[Element (Information) Dichotomies - All Affine Structures]].
@@ -22124,7 +22124,7 @@ $$ \begin{pmatrix} \text{ILE} & \text{SEI} & \text{SLI} & \text{IEE} \\ \text{LS
 ### See Also
 
 - [[content/Partition Spaces/Dichotomies/Tencer-Minaev/Dichotomy Table (Tencer-Minaev)]]
-- [[content/Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics]]
+- [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics]]
 - [[content/Partition Spaces/Dichotomies/TIM Dichotomy Index]]
 
 

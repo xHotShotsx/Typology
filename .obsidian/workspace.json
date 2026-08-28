@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Master Document.md",
+                "file": "content/Intertype Relations/Applying Churiumov's Algebra to the Tencer-Minaev Space.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Document"
+              "title": "Applying Churiumov's Algebra to the Tencer-Minaev Space"
             }
           }
         ]
@@ -217,8 +217,8 @@
   },
   "active": "e24da4557981c956",
   "lastOpenFiles": [
-    "content/Partition Spaces/Dichotomies/Tencer-Minaev/Dichotomy Table (Tencer-Minaev).md",
     "content/Master Document.md",
+    "content/Partition Spaces/Dichotomies/Tencer-Minaev/Dichotomy Table (Tencer-Minaev).md",
     "content/Partition Spaces/Dichotomies/TIM Dichotomy Index.md",
     "Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics.md",
     "content/index.md",

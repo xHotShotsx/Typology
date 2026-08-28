@@ -80,5 +80,5 @@ $$ \begin{pmatrix} \text{ILE} & \text{SEI} & \text{SLI} & \text{IEE} \\ \text{LS
 # See Also
 
 - [[Partition Spaces/Dichotomies/Tencer-Minaev/Dichotomy Table (Tencer-Minaev)]]
-- [[content/Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics]]
+- [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics|A Representation-Theoretic Framework for Intertype Relations in Socionics]]
 - [[Partition Spaces/Dichotomies/TIM Dichotomy Index]]
