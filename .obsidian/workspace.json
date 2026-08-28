@@ -196,6 +196,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "openapi-renderer:Open OpenAPI Entry View": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
@@ -210,7 +214,7 @@
       "enhanced-pdf-export:Export active Markdown to PDF": false
     }
   },
-  "active": "00a14fa526eb75ce",
+  "active": "e24da4557981c956",
   "lastOpenFiles": [
     "content/content/index.md",
     "content/content/content.md",
