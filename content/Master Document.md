@@ -22124,7 +22124,7 @@ $$ \begin{pmatrix} \text{ILE} & \text{SEI} & \text{SLI} & \text{IEE} \\ \text{LS
 ### See Also
 
 - [[content/Partition Spaces/Dichotomies/Tencer-Minaev/Dichotomy Table (Tencer-Minaev)]]
-- [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics]]
+- [[content/Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics]]
 - [[content/Partition Spaces/Dichotomies/TIM Dichotomy Index]]
 
 
