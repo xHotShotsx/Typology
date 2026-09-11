@@ -25,8 +25,3 @@
 5. (1st) Internal / (1st) External
 6. (1st) Alpha / (1st) Gamma
 7. (1st) Delta / (1st) Beta
-
-
-\[
-I_{5} \to 75
-\]
