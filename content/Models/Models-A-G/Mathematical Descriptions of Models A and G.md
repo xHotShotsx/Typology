@@ -20,7 +20,7 @@ The transitive permutation group $8T_{2}$ is the 2nd transitive subgroup of the 
 
 ## Model G
 
-In Model G, we have a set $F_{MG}$ of 8 functions (labelled points) and a set
+In Model G, we have a set $F_{MG}$ of 8 functions and a set
 
 $$\mathcal{E} = \{ \mathrm{?Ne^+}, \mathrm{!Si^-},  \mathrm{!Fe^+}, \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{!Ni^-}, \mathrm{!Te^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$$
 
