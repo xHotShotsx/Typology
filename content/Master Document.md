@@ -102,7 +102,7 @@ _All notes concatenated and hyperlinked. Exceptions include any external books o
 
 <a id="models-classification-of-models"></a>
 
-## Classification of Models
+## Classification of Models (as Permutation Groups)
 
 ### Table of Models
 
