@@ -19541,12 +19541,12 @@ Total XNOR mappings written: 112
     <tr>
     <td></td>
       <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td>
-      <td>IEI</td><td>SEE</td><td>ESI</td><td>IEE</td>
+      <td>EIE</td><td>SEE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
 	 <td></td>
       <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td>
-      <td>EIE</td><td>SEE</td><td>ESI</td><td>SLI</td>
+      <td></td><td>SEE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
      <td></td>
