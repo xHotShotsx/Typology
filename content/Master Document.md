@@ -19541,7 +19541,7 @@ Total XNOR mappings written: 112
     <tr>
     <td></td>
       <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td>
-      <td>IEI</td><td>ILI</td><td>LSI</td><td>IEE</td>
+      <td>IEI</td><td>SEE</td><td>ESI</td><td>IEE</td>
     </tr>
     <tr>
 	 <td></td>
