@@ -31,7 +31,7 @@
     <tr>
 	 <td></td>
       <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td>
-      <td>IEI</td><td></td><td>ESI</td><td>SLI</td>
+      <td>LSI</td><td>ILI</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
      <td></td>
