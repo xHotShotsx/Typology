@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Master Document.md",
+                "file": "content/A Glossary for Elemental Notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Document"
+              "title": "A Glossary for Elemental Notation"
             }
           }
         ]
@@ -217,12 +217,13 @@
   },
   "active": "e24da4557981c956",
   "lastOpenFiles": [
+    "content/A Mathematical Glossary of the Socion.md",
     "content/Models/Model-V/A Mathematical Description of Model V.md",
     "content/A Glossary for Elemental Notation.md",
+    "content/Master Document.md",
     "content/Intertype Relations/Applying Churiumov's Algebra to the Tencer-Minaev Space.md",
     "content/Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics.md",
     "content/Partition Spaces/Tetrachotomies/Tencer-Minaev/Tetrachotomy Table (Tencer-Minaev).md",
-    "content/Master Document.md",
     "content/Models/Models-A-G/All Model A Affine Structures.md",
     "content/Models/Models-A-G/Element (Information) Dichotomies.md",
     "content/Models/Classification of Models (as Permutation Groups).md",
@@ -243,7 +244,6 @@
     "content/Partition Spaces/Dichotomies/Classification of Orbital-Respecting Dichotomy Systems.md",
     "content/Partition Spaces/Dichotomies/TIM Dichotomy Index.md",
     "Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics.md",
-    "content/Partition Spaces/Dichotomies/TIM Octads Archive.md",
     "content/docs/images/giscus-results.png",
     "content/docs/images/giscus-discussion.png",
     "Socionics/quartz/cli",
