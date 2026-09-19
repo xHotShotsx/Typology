@@ -46,7 +46,7 @@ The reason for this restriction is structural. Each mirror element $m \in M$ adm
 
 Index-2 subgroups not associated with converse dichotomies (these are the *vector* dichotomies, which when intersected define the 'Challenge Response' tetrachotomy) fail to satisfy this condition, as they induce splittings that cannot be reconciled with the monadic decomposition of elements in $M$. Consequently, no other index-2 subgroup of $\mathbb{S}$ satisfies the uniform monadic-refinement constraint above.
 
-## Classification Proposal of the 'B-Models'
+## Classification Proposal of the 'V-Models'
 
 $\text{V}[\mathbb{S}]$: Model defined by the full transitive $D_{4} \times \mathbb{Z}_{2}$ action on the set of 8 functions. Baseline Model V with the Mirror Elements (MEs).    
 $\text{V}[\mathbb{S}/C_{1}]$: Model that is theoretical. Irrational/Rational $\cong \mathbb{Z}_{2}^3$ serves as the basis here, which has a transitive action on the set of 8 functions.    
