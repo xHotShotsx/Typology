@@ -182,6 +182,16 @@
             "id": "00a14fa526eb75ce",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ad6a934cf9b557e4",
+            "type": "leaf",
+            "state": {
               "type": "Saved Queries View",
               "state": {},
               "icon": "feather-mouse-pointer",
@@ -189,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -216,7 +226,7 @@
       "enhanced-pdf-export:Export active Markdown to PDF": false
     }
   },
-  "active": "c484a49fc69d7430",
+  "active": "ad6a934cf9b557e4",
   "lastOpenFiles": [
     "content/Models/Model-V/A Mathematical Description of Model V.md",
     "content/Machine Translations/Articles/Yurii Minaev/Groups of Central Sections of a 2ⁿ-Element Set and Bipolar Traits.md",
