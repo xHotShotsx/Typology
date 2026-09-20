@@ -159,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/Models/Classification of Models (as Permutation Groups).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -215,7 +216,7 @@
       "enhanced-pdf-export:Export active Markdown to PDF": false
     }
   },
-  "active": "e24da4557981c956",
+  "active": "c484a49fc69d7430",
   "lastOpenFiles": [
     "content/Models/Model-V/A Mathematical Description of Model V.md",
     "content/Machine Translations/Articles/Yurii Minaev/Groups of Central Sections of a 2ⁿ-Element Set and Bipolar Traits.md",
