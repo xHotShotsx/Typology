@@ -8,7 +8,7 @@ Model V (created by Vladmir Vincent) is very much similar to Model A in the rega
 
 $$ M = \{ \text{?(NT)}, \text{!(SF)}, \text{?(NF)}, \text{!(ST)}, \text{!(NT)}, \text{?(SF)}, \text{!(NF)}, \text{?(ST)} \}$$
 
-of mirror elements. Formally, $\mathbb{S}$ acts via pre-compositions on the set of bijections from $F$ to $M$ in Model V and the set of types $T$ can be defined as all arrangements which result from applying every permutation in $\mathbb{S}$. 
+of mirror elements, or 'information blocks'. Formally, $\mathbb{S}$ acts via pre-compositions on the set of bijections from $F$ to $M$ in Model V and the set of types $T$ can be defined as all arrangements which result from applying every permutation in $\mathbb{S}$. 
 
 ## The Surjection
 
