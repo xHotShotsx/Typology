@@ -186,7 +186,7 @@ table.tetra th, table.tetra td {
 }
 
 .generator-V1 .cell {
-	background-color: #274c13 !important;
+	background-color: var(--cell-vector) !important;
 }
 
 .generator-C1 .cell-A1, 
@@ -197,7 +197,7 @@ table.tetra th, table.tetra td {
 .generator-C1 .cell-D2, 
 .generator-C1 .cell-D3, 
 .generator-C1 .cell-D4 {
-	background-color: #783f04 !important;
+	background-color: var(--cell-converse) !important;
 }
 
 .generator-V2 .cell-A1,
@@ -208,7 +208,7 @@ table.tetra th, table.tetra td {
 .generator-V2 .cell-B2,
 .generator-V2 .cell-C1,
 .generator-V2 .cell-C2 {
-	background-color: #274c13 !important;
+	background-color: var(--cell-vector) !important;
 }
 
 .generator-C2 .cell-A1, 
@@ -219,7 +219,7 @@ table.tetra th, table.tetra td {
 .generator-C2 .cell-B4, 
 .generator-C2 .cell-C3, 
 .generator-C2 .cell-C4 {
-	background-color: #783f04 !important;
+	background-color: var(--cell-converse) !important;
 }
 
 .generator-V3 .cell-A1,
@@ -230,7 +230,7 @@ table.tetra th, table.tetra td {
 .generator-V3 .cell-B3,
 .generator-V3 .cell-C1,
 .generator-V3 .cell-C3 {
-	background-color: #274c13 !important;
+	background-color: var(--cell-vector) !important;
 }
 
 .generator-C3 .cell-A1, 
@@ -241,7 +241,7 @@ table.tetra th, table.tetra td {
 .generator-C3 .cell-B4, 
 .generator-C3 .cell-C2, 
 .generator-C3 .cell-C4 {
-	background-color: #783f04 !important;
+	background-color: var(--cell-converse) !important;
 }
 
 .generator-V4 .cell-A1,
@@ -252,7 +252,7 @@ table.tetra th, table.tetra td {
 .generator-V4 .cell-B4,
 .generator-V4 .cell-C1,
 .generator-V4 .cell-C4 {
-	background-color: #274c13 !important;
+	background-color: var(--cell-vector) !important;
 }
 
 .generator-C4 .cell-A1, 
@@ -263,7 +263,7 @@ table.tetra th, table.tetra td {
 .generator-C4 .cell-B3, 
 .generator-C4 .cell-C2, 
 .generator-C4 .cell-C3 {
-	background-color: #783f04 !important;
+	background-color: var(--cell-converse) !important;
 }
 
 .generator-A1 .cell-A1,
@@ -274,7 +274,7 @@ table.tetra th, table.tetra td {
 .generator-A1 .cell-B2,
 .generator-A1 .cell-B3,
 .generator-A1 .cell-B4 {
-	background-color: #660000 !important;
+	background-color: var(--cell-aristocratic) !important;
 }
 
 .generator-D1 .cell-A1,
@@ -285,7 +285,7 @@ table.tetra th, table.tetra td {
 .generator-D1 .cell-C2,
 .generator-D1 .cell-C3,
 .generator-D1 .cell-C4 {
-	background-color: #073763 !important;
+	background-color: var(--cell-democratic) !important;
 }
 
 .generator-A2 .cell-A1,
@@ -296,7 +296,7 @@ table.tetra th, table.tetra td {
 .generator-A2 .cell-C4,
 .generator-A2 .cell-D3,
 .generator-A2 .cell-D4 {
-	background-color: #660000 !important;
+	background-color: var(--cell-aristocratic) !important;
 }
 
 .generator-D2 .cell-A1,
@@ -307,7 +307,7 @@ table.tetra th, table.tetra td {
 .generator-D2 .cell-B4,
 .generator-D2 .cell-D3,
 .generator-D2 .cell-D4 {
-	background-color: #073763 !important;
+	background-color: var(--cell-democratic) !important;
 }
 
 .generator-A3 .cell-A1,
@@ -318,7 +318,7 @@ table.tetra th, table.tetra td {
 .generator-A3 .cell-C4,
 .generator-A3 .cell-D2,
 .generator-A3 .cell-D4 {
-	background-color: #660000 !important;
+	background-color: var(--cell-aristocratic) !important;
 }
 
 .generator-D3 .cell-A1,
@@ -329,7 +329,7 @@ table.tetra th, table.tetra td {
 .generator-D3 .cell-B4,
 .generator-D3 .cell-D2,
 .generator-D3 .cell-D4 {
-	background-color: #073763 !important;
+	background-color: var(--cell-democratic)  !important;
 }
 
 .generator-A4 .cell-A1,
@@ -340,7 +340,7 @@ table.tetra th, table.tetra td {
 .generator-A4 .cell-C3,
 .generator-A4 .cell-D2,
 .generator-A4 .cell-D3 {
-	background-color: #660000 !important;
+	background-color: var(--cell-aristocratic) !important;
 }
 
 .generator-D4 .cell-A1,
@@ -351,7 +351,7 @@ table.tetra th, table.tetra td {
 .generator-D4 .cell-B3,
 .generator-D4 .cell-D2,
 .generator-D4 .cell-D3 {
-	background-color: #073763 !important;
+	background-color: var(--cell-democratic) !important;
 }
 
 table th:has(> .cell-alpha),
@@ -387,23 +387,23 @@ td:has(> .cell-delta) {
 }
 
 .callout[data-callout="octad-v"] {
-    background: #274c13 !important;
-    border-left-color: #274c13 !important;
+    background: var(--cell-vector) !important;
+    border-left-color: var(--cell-vector) !important;
 }
 
 .callout[data-callout="octad-c"] {
-    background: #783f04 !important;
-    border-left-color: #783f04 !important;
+    background: var(--cell-converse) !important;
+    border-left-color: var(--cell-converse) !important;
 }
 
 .callout[data-callout="octad-a"] {
-    background: #660000 !important;
-    border-left-color: #660000 !important;
+    background: var(--cell-aristocratic) !important;
+    border-left-color: var(--cell-aristocratic) !important;
 }
 
 .callout[data-callout="octad-d"] {
-    background: #073763 !important;
-    border-left-color: #073763 !important;
+    background: var(--cell-democratic) !important;
+    border-left-color: var(--cell-democratic) !important;
 }
 
 table td {
