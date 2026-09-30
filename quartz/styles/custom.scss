@@ -1,5 +1,27 @@
 @use "./base.scss";
 
+:root {
+  --cell-vector: #d3e6c5;
+  --cell-converse: #f6dfc0;
+  --cell-democratic: #cddff2;
+  --cell-aristocratic: #f2cccc;
+  --cell-intuition: #e6cfe9;
+  --cell-sensation: #cfe8d6;
+  --cell-logic: #d4d4f3;
+  --cell-ethics: #f4cfcf;
+}
+
+:root[saved-theme="dark"] {
+  --cell-vector: #274c13;
+  --cell-converse: #783f04;
+  --cell-democratic: #073763;
+  --cell-aristocratic: #660000;
+  --cell-intuition: purple;
+  --cell-sensation: #2e6f40;
+  --cell-logic: #1c1c84;
+  --cell-ethics: #780606;
+}
+
 table td:has(> .cell-redberry) {
     background-color: #701F28 !important;
 }
@@ -42,42 +64,42 @@ table td:has(> .cell-magenta) {
 
 table th:has(> .cell-vector),
 td:has(> .cell-vector) {
-    background-color: #274c13 !important;
+    background-color: var(--cell-vector) !important;
 }
 
 table th:has(> .cell-converse),
 td:has(> .cell-converse) {
-    background-color: #783f04 !important;
+    background-color: var(--cell-converse) !important;
 }
 
 table th:has(> .cell-democratic),
 td:has(> .cell-democratic) {
-    background-color: #073763 !important;
+    background-color: var(--cell-democratic) !important;
 }
 
 table th:has(> .cell-aristocratic),
 td:has(> .cell-aristocratic) {
-    background-color: #660000 !important;
+    background-color: var(--cell-aristocratic) !important;
 }
 
 table th:has(> .cell-intuition),
 td:has(> .cell-intuition) {
-    background-color: purple !important;
+    background-color: var(--cell-intuition) !important;
 }
 
 table th:has(> .cell-sensation),
 td:has(> .cell-sensation) {
-    background-color: #2E6F40 !important;
+    background-color: var(--cell-sensation) !important;
 }
 
 table th:has(> .cell-logic),
 td:has(> .cell-logic) {
-    background-color: #1c1c84 !important;
+    background-color: var(--cell-logic) !important;
 }
 
 table th:has(> .cell-ethics),
 td:has(> .cell-ethics) {
-    background-color: #780606 !important;
+    background-color: var(--cell-ethics) !important;
 }
 
 table.tetra th, table.tetra td {
@@ -108,19 +130,19 @@ table.tetra th, table.tetra td {
 }
 
 #modelw[data-active-gen^="V"] .cell.is-active {
-  background: #274c13 !important; 
+  background: var(--cell-vector) !important; 
 }
 
 #modelw[data-active-gen^="C"] .cell.is-active { 
-  background: #783f04 !important; 
+  background: var(--cell-converse) !important; 
 }
 
 #modelw[data-active-gen^="A"] .cell.is-active { 
-  background: #660000 !important; 
+  background: var(--cell-aristocratic) !important; 
 }
 
 #modelw[data-active-gen^="D"] .cell.is-active { 
-  background: #073767 !important; 
+  background: var(--cell-democratic) !important; 
 }
 
 .dichotomy-picker button {
