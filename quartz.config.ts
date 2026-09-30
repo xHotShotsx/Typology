@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#eff0f0",
-          lightgray: "#1e4589",
-          gray: "#1e4589",
-          darkgray: "#324156",
-          dark: "#111b2f",
-          secondary: "#000000",
-          tertiary: "#1e4589",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f0f1f1",       // page background (estimate, see below)
+          lightgray: "#e2e4e6",   // borders and rules (estimate)
+          gray: "#5a6c83",        // metadata, nav text, chevrons
+          darkgray: "#323f55",    // body text
+          dark: "#11192c",        // headings, bold, sidebar items, site title
+          secondary: "#1d4281",   // kicker, links, EN button, CTA box
+          tertiary: "#2f6ccb",    // hover (my pick, not visible on the page)
+          highlight: "rgba(29, 66, 129, 0.10)",   // my pick
+          textHighlight: "#1d428133",             // my pick
         },
         darkMode: {
-          light: "#0c1423",
-          lightgray: "#2c3444",
+          light: "#0c1422",
+          lightgray: "#2b3445",
           gray: "#8192a6",
-          darkgray: "#a9b8ca",
-          dark: "#dde641",
-          secondary: "#FFFFFF",
-          tertiary: "#1e4589",
-          highlight: "rgba(80, 200, 120, 0.15)",
-          textHighlight: "#D3D3D3",
+          darkgray: "#adbacb",
+          dark: "#dde6f1",
+          secondary: "#6b9edd",
+          tertiary: "#2f6ccb",    // the CTA box blue; hover itself isn't visible
+          highlight: "rgba(107, 158, 221, 0.12)", // my pick
+          textHighlight: "#6b9edd33",             // my pick
         },
       },
     },
