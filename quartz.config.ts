@@ -29,15 +29,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f0f1f1",       // page background (estimate, see below)
-          lightgray: "#e2e4e6",   // borders and rules (estimate)
-          gray: "#5a6c83",        // metadata, nav text, chevrons
-          darkgray: "#323f55",    // body text
-          dark: "#11192c",        // headings, bold, sidebar items, site title
-          secondary: "#1d4281",   // kicker, links, EN button, CTA box
-          tertiary: "#2f6ccb",    // hover (my pick, not visible on the page)
-          highlight: "rgba(29, 66, 129, 0.10)",   // my pick
-          textHighlight: "#1d428133",             // my pick
+          light: "#f0f1f1",      
+          lightgray: "#e2e4e6",  
+          gray: "#5a6c83",       
+          darkgray: "#323f55",    
+          dark: "#11192c",      
+          secondary: "#1d4281",   
+          tertiary: "#2f6ccb",    
+          highlight: "rgba(29, 66, 129, 0.10)",   
+          textHighlight: "#1d428133",          
         },
         darkMode: {
           light: "#0c1422",
@@ -46,9 +46,9 @@ const config: QuartzConfig = {
           darkgray: "#adbacb",
           dark: "#dde6f1",
           secondary: "#6b9edd",
-          tertiary: "#2f6ccb",    // the CTA box blue; hover itself isn't visible
-          highlight: "rgba(107, 158, 221, 0.12)", // my pick
-          textHighlight: "#6b9edd33",             // my pick
+          tertiary: "#2f6ccb",   
+          highlight: "rgba(107, 158, 221, 0.12)", 
+          textHighlight: "#6b9edd33",           
         },
       },
     },
