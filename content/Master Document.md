@@ -124,7 +124,7 @@ _All notes concatenated and hyperlinked. Exceptions include any external books o
 |      **Model Ch**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           | $\checkmark$ |          $\{ e \}$           |
 |      **Model B**       | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           | $\checkmark$ |          $\{ e \}$           |
 |      **Model A2**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           | $\checkmark$ |          $\{ e \}$           |
-|                        |                                                |              |                        |                                                                    |              |                              |
+| **Model A16-ordered**  | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           | $\checkmark$ |          $\{ e \}$           |
 |      **Model L**       |    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |              $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$              | $\checkmark$ |        $\{ A_{1} \}$         |
 |      **Model W**       |    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |              $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$              | $\checkmark$ |        $\{ A_{1} \}$         |
 
@@ -143,7 +143,7 @@ _All notes concatenated and hyperlinked. Exceptions include any external books o
 - [[Models/Model-W/Model-W|Model-W]]
 - [[A Mathematical Description of Model V]]
 - www.sedecology.com/articles/17-Contrary-Elements-in-Model-A2
-- https://docs.google.com/document/d/1gtsDlSjzixyVsrJtm-_rvIQrSvqYqcAW/edit#heading=h.w7szc0dzkxgg
+- https://docs.google.com/document/d/1gtsDlSjzixyVsrJtm-_rvIQrSvqYqcAW/edit#heading=h.w7szc0dzkxgg[[A Mathematical Glossary of the Socion]]
 - [https://drive.google.com/file/d/1qbUsbxJyXBlsOIIcm96fJA9xfOorDA_4/view?usp=drivesdk](https://drive.google.com/file/d/1qbUsbxJyXBlsOIIcm96fJA9xfOorDA_4/view?usp=drivesdk "https://drive.google.com/file/d/1qbUsbxJyXBlsOIIcm96fJA9xfOorDA_4/view?usp=drivesdk")
 - https://www.sedecology.com/articles/21/The-Essence-of-the-Quadras
 - [[content/Machine Translations/Books/Semyon Churyumov/Smile of the Cheshire Cat/Chapter 4]]
