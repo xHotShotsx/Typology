@@ -18,6 +18,7 @@
 |      **Model Ch**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           | $\checkmark$ |          $\{ e \}$           |
 |      **Model B**       | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           | $\checkmark$ |          $\{ e \}$           |
 |      **Model A2**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           | $\checkmark$ |          $\{ e \}$           |
+| **Model A16-ordered**  | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           | $\checkmark$ |          $\{ e \}$           |
 |      **Model L**       |    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |              $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$              | $\checkmark$ |        $\{ A_{1} \}$         |
 |      **Model W**       |    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |              $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$              | $\checkmark$ |        $\{ A_{1} \}$         |
 
@@ -41,3 +42,4 @@
 - https://www.sedecology.com/articles/21/The-Essence-of-the-Quadras
 - [[content/Machine Translations/Books/Semyon Churyumov/Smile of the Cheshire Cat/Chapter 4]]
 - [[16-Component Model of the TIM and the Socion]]
+- https://socionbyexample.blogspot.com/2022/09/blocks-are-subcategories-of-quadras.html
