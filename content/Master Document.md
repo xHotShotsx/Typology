@@ -146,7 +146,8 @@ _All notes concatenated and hyperlinked. Exceptions include any external books o
 - [https://drive.google.com/file/d/1qbUsbxJyXBlsOIIcm96fJA9xfOorDA_4/view?usp=drivesdk](https://drive.google.com/file/d/1qbUsbxJyXBlsOIIcm96fJA9xfOorDA_4/view?usp=drivesdk "https://drive.google.com/file/d/1qbUsbxJyXBlsOIIcm96fJA9xfOorDA_4/view?usp=drivesdk")
 - https://www.sedecology.com/articles/21/The-Essence-of-the-Quadras
 - [[content/Machine Translations/Books/Semyon Churyumov/Smile of the Cheshire Cat/Chapter 4]]
-- [[16-Component Model of the TIM and the Socion]]
+- [[16-Component Model of the TIM and the Socion
+- https://socionbyexample.blogspot.com/2022/09/blocks-are-subcategories-of-quadras.html]]
 
 
 ---
