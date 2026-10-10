@@ -106,7 +106,7 @@
       <td><b>Q</b></td><td><b>AI</b></td><td><b>QAI</b></td>
       </tr>
 	 <tr>
-	 <td>Iridescent Hopes ()</td>
+	 <td>Iridescent Hopes (Q-creative)</td>
       <td>Asking</td><td>Irrational</td><td>Positivist</td>
       <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
     </tr>
@@ -116,12 +116,12 @@
       <td>LII</td><td>EIE</td><td>ESI</td><td>LIE</td>
     </tr>
     <tr>
-	 <td>Waiting</td>
+	 <td>Waiting (D-creative)</td>
       <td>Declaring</td><td>Irrational</td><td>Negativist</td>
       <td>SEI</td><td>SLE</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
-     <td>Realistic Plans</td>
+     <td>Realistic Plans (D-base)</td>
       <td>Declaring</td><td>Rational</td><td>Positivist</td>
       <td>ESE</td><td>LSI</td><td>LIE</td><td>EII</td>
     </tr>
