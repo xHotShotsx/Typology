@@ -165,22 +165,22 @@
       <td><b>E</b></td><td><b>TP</b></td><td><b>ETP</b></td>
       </tr>
 	 <tr>
-	 <td>Engaging (4p-F</td>
+	 <td>Engaging (4p-Fe)</td>
       <td>Extroverted</td><td>Constructivist</td><td>Merry</td>
       <td>ILE</td><td>ESE</td><td>EIE</td><td>SLE</td>
     </tr>
     <tr>
-    <td>Contacting</td>
+    <td>Contacting (4p-Te)</td>
       <td>Extroverted</td><td>Emotivist</td><td>Serious</td>
       <td>SEE</td><td>LIE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Confidential</td>
+	 <td>Confidential (4p-Fi)</td>
       <td>Introverted</td><td>Constructivist</td><td>Serious</td>
       <td>ILI</td><td>ESI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
-     <td>Rigid</td>
+     <td>Rigid (4p-Ti)</td>
       <td>Introverted</td><td>Emotivist</td><td>Merry</td>
       <td>SEI</td><td>LII</td><td>LSI</td><td>IEI</td>
     </tr>
