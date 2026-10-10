@@ -193,22 +193,22 @@
 	  <td><b>Q</b></td><td><b>AID</b></td><td><b>QAID</b></td>
       </tr>
 	 <tr>
-	 <td>Energy Generators</td>
+	 <td>Energy Generators (4d-Qe)</td>
       <td>Asking</td><td>Process</td><td>Extroverted</td>
       <td>ILE</td><td>EIE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Information Generators</td>
+    <td>Information Generators (4d-Qi)</td>
       <td>Asking</td><td>Result</td><td>Introverted</td>
       <td>LII</td><td>IEI</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Information Accumulators</td>
+	 <td>Information Accumulators (4d-Di)</td>
       <td>Declaring</td><td>Process</td><td>Introverted</td>
       <td>SEI</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Energy Carriers</td>
+     <td>Energy Carriers (4d-De)</td>
       <td>Declaring</td><td>Result</td><td>Extroverted</td>
       <td>ESE</td><td>SLE</td><td>LIE</td><td>IEE</td>
     </tr>
