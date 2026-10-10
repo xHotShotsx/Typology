@@ -876,7 +876,7 @@
       <td>SEI</td><td>ESE</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
-     <td>Slackeners</td>
+     <td>Slackeners (Qe-ego)</td>
       <td>Dynamic</td><td>Aristocratic</td><td>Asking</td>
       <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
     </tr>
