@@ -861,7 +861,7 @@
       <td><b>EP</b></td><td><b>NT</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
-	 <td>Reorienter s</td>
+	 <td>Reorienters</td>
       <td>Static</td><td>Democratic</td><td>Asking</td>
       <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
@@ -919,7 +919,7 @@
       <td><b>NT</b></td><td><b>NP</b></td><td><b>TP</b></td>
       </tr>
 	 <tr>
-	 <td>Implication</td>
+	 <td>Implication (Inert NF)</td>
       <td>Democratic</td><td>Tactical</td><td>Constructivist</td>
       <td>ILE</td><td>ESE</td><td>ILI</td><td>ESI</td>
     </tr>
