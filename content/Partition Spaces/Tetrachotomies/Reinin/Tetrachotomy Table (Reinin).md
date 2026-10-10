@@ -861,7 +861,7 @@
       <td><b>EP</b></td><td><b>NT</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
-	 <td>Reorienters</td>
+	 <td>Reorienter s</td>
       <td>Static</td><td>Democratic</td><td>Asking</td>
       <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
