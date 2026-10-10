@@ -17994,22 +17994,22 @@ Total XNOR mappings written: 112
 		      <td>SLE</td><td>IEE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Je- "Conservation"</td>
+	    	  <td>Je- "Conservation" (Qe)</td>
 		      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td><td>Rational</td><td>Negativist</td><td>Process</td><td>Extroverted</td>
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ji+ "Stewardship"</td>
+	    	  <td>Ji+ "Stewardship" (Di)</td>
 		      <td>Declaring</td><td>Aristocratic</td><td>Static</td><td>Rational</td><td>Positivist</td><td>Process</td><td>Introverted</td>
 		      <td>LSI</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ji- "Discrimination"</td>
+	    	  <td>Ji- "Discrimination" (Qi)</td>
 		      <td>Asking</td><td>Democratic</td><td>Static</td><td>Rational</td><td>Negativist</td><td>Result</td><td>Introverted</td>
 		      <td>LII</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Je+ "Diplomacy"</td>
+	    	  <td>Je+ "Diplomacy" (De)</td>
 		      <td>Declaring</td><td>Democratic</td><td>Dynamic</td><td>Rational</td><td>Positivist</td><td>Result</td><td>Extroverted</td>
 		      <td>ESE</td><td>LIE</td>
 	    </tr>
