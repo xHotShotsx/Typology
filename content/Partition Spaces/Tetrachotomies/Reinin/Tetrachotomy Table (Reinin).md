@@ -658,17 +658,17 @@
       <td><b>EN</b></td><td><b>ET</b></td><td><b>NT</b></td>
       </tr>
 	 <tr>
-	 <td>Retention</td>
+	 <td>Retention (Evaluatory Delta)</td>
       <td>Carefree</td><td>Yielding</td><td>Democratic</td>
       <td>ILE</td><td>SEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
-    <td>Comportment</td>
+    <td>Comportment (Evaluatory Beta)</td>
       <td>Carefree</td><td>Obstinate</td><td>Aristocratic</td>
       <td>EIE</td><td>LSI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Attainment</td>
+	 <td>Attainment (Evaluatory </td>
       <td>Farsighted</td><td>Yielding</td><td>Aristocratic</td>
       <td>SLE</td><td>IEI</td><td>LSE</td><td>EII</td>
     </tr>
@@ -982,7 +982,7 @@
       <td>ILE</td><td>ESE</td><td>LSI</td><td>IEI</td>
     </tr>
     <tr>
-    <td>Imprints</td>
+    <td>???</td>
       <td>Tactical</td><td>Negativist</td><td>Serious</td>
       <td>ILI</td><td>ESI</td><td>LSE</td><td>IEE</td>
     </tr>
