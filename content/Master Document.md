@@ -17219,22 +17219,22 @@ Total XNOR mappings written: 112
 		      <td>SEI</td><td>ILI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Je+ "Discrimination"</td>
+	    	  <td>Je+ "Discrimination" (De)</td>
 		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Democratic</td><td>Positivist</td><td>Result</td><td>Declaring</td>
 		      <td>ESE</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ji- "Collation"</td>
+	    	  <td>Ji- "Collation" (Qi)</td>
 		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Democratic</td><td>Negativist</td><td>Result</td><td>Asking</td>
 		      <td>LII</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Je- "Elaboration"</td>
+	    	  <td>Je- "Elaboration" (Qe)</td>
 		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Aristocratic</td><td>Negativist</td><td>Process</td><td>Asking</td>
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ji+ "Consolidation"</td>
+	    	  <td>Ji+ "Consolidation" (Di)</td>
 		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Aristocratic</td><td>Positivist</td><td>Process</td><td>Declaring</td>
 		      <td>LSI</td><td>EII</td>
 	    </tr>
