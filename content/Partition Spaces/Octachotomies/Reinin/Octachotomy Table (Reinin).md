@@ -279,7 +279,7 @@
 		      <td>ESE</td><td>LIE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ji- "Collation" (</td>
+	    	  <td>Ji- "Collation" (Qi)</td>
 		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Democratic</td><td>Negativist</td><td>Result</td><td>Asking</td>
 		      <td>LII</td><td>ESI</td>
 	    </tr>
@@ -289,7 +289,7 @@
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ji+ "Consolidation"</td>
+	    	  <td>Ji+ "Consolidation" (Di)</td>
 		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Aristocratic</td><td>Positivist</td><td>Process</td><td>Declaring</td>
 		      <td>LSI</td><td>EII</td>
 	    </tr>
