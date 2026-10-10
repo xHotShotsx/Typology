@@ -136,7 +136,7 @@
       <td><b>E</b></td><td><b>NP</b></td><td><b>ENP</b></td>
       </tr>
 	 <tr>
-	 <td>Open</td>
+	 <td>Open (4p-Ne)</td>
       <td>Extroverted</td><td>Tactical</td><td>Judicious</td>
       <td>ILE</td><td>ESE</td><td>LSE</td><td>IEE</td>
     </tr>
