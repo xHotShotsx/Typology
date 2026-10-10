@@ -141,17 +141,17 @@
       <td>ILE</td><td>ESE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-    <td>Conflict</td>
+    <td>Conflict (4p-Se)</td>
       <td>Extroverted</td><td>Strategic</td><td>Decisive</td>
       <td>EIE</td><td>SLE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-	 <td>Secretive</td>
+	 <td>Secretive (4p-Ni)</td>
       <td>Introverted</td><td>Tactical</td><td>Decisive</td>
       <td>LSI</td><td>IEI</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-     <td>Peaceful</td>
+     <td>Peaceful (4p-Si)</td>
       <td>Introverted</td><td>Strategic</td><td>Judicious</td>
       <td>SEI</td><td>LII</td><td>EII</td><td>SLI</td>
     </tr>
