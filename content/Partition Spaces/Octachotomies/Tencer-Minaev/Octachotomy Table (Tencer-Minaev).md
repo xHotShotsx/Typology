@@ -294,12 +294,12 @@
 		      <td>LSI</td><td>EII</td>
 	    </tr>
 	    <tr>
-	    	  <td>Ji- "Discrimination" (Q</td>
+	    	  <td>Ji- "Discrimination" (Qi)</td>
 		      <td>Asking</td><td>Democratic</td><td>Static</td><td>Rational</td><td>Negativist</td><td>Result</td><td>Introverted</td>
 		      <td>LII</td><td>ESI</td>
 	    </tr>
 	    <tr>
-	    	  <td>Je+ "Diplomacy"</td>
+	    	  <td>Je+ "Diplomacy" (De)</td>
 		      <td>Declaring</td><td>Democratic</td><td>Dynamic</td><td>Rational</td><td>Positivist</td><td>Result</td><td>Extroverted</td>
 		      <td>ESE</td><td>LIE</td>
 	    </tr>
