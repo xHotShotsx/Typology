@@ -634,17 +634,17 @@
       <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
-    <td>Waiting (Q)</td>
+    <td>Waiting (D-creative)</td>
       <td>Irrational</td><td>Negativist</td><td>Declaring</td>
       <td>SEI</td><td>SLE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
-	 <td>Realistic Plans</td>
+	 <td>Realistic Plans (D-base</td>
       <td>Rational</td><td>Positivist</td><td>Declaring</td>
       <td>ESE</td><td>LSI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
-     <td>Avoiding Failures</td>
+     <td>Avoiding Failures (Q-base)</td>
       <td>Rational</td><td>Negativist</td><td>Asking</td>
       <td>LII</td><td>EIE</td><td>ESI</td><td>LSE</td>
     </tr>
