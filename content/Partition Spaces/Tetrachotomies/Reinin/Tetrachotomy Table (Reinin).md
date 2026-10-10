@@ -315,17 +315,17 @@
       <td>ILE</td><td>LII</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-    <td>Victim (Ni)</td>
+    <td>Victim (Ni-ego)</td>
       <td>Intuitive</td><td>Dynamic</td><td>Decisive</td>
       <td>EIE</td><td>IEI</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
-	 <td>Aggressor (Se)</td>
+	 <td>Aggressor (Se-ego)</td>
       <td>Sensory</td><td>Static</td><td>Decisive</td>
       <td>LSI</td><td>SLE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
-     <td>Caring (Si)</td>
+     <td>Caring (Si-ego)</td>
       <td>Sensory</td><td>Dynamic</td><td>Judicious</td>
       <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
     </tr>
