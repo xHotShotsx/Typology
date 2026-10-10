@@ -934,7 +934,7 @@
       <td>LSI</td><td>IEI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-     <td>Exemplification (Inert SF(</td>
+     <td>Exemplification (Inert SF)</td>
       <td>Aristocratic</td><td>Strategic</td><td>Constructivist</td>
       <td>EIE</td><td>SLE</td><td>EII</td><td>SLI</td>
     </tr>
@@ -1011,7 +1011,7 @@
       <td>ILE</td><td>ESE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
-    <td>Imprints</td>
+    <td>???</td>
       <td>Constructivist</td><td>Negativist</td><td>Decisive</td>
       <td>EIE</td><td>SLE</td><td>ILI</td><td>ESI</td>
     </tr>
