@@ -18579,22 +18579,22 @@ Total XNOR mappings written: 112
       <td><b>E</b></td><td><b>NT</b></td><td><b>ENT</b></td>
       </tr>
 	 <tr>
-	 <td>Approaching</td>
+	 <td>Approaching (4p-De)</td>
       <td>Extroverted</td><td>Democratic</td><td>Positivist</td>
       <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-    <td>Shaping</td>
+    <td>Shaping (4p-Qe)</td>
       <td>Extroverted</td><td>Aristocratic</td><td>Negativist</td>
       <td>EIE</td><td>SLE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Abstaining</td>
+	 <td>Abstaining (4p-Qi)</td>
       <td>Introverted</td><td>Democratic</td><td>Negativist</td>
       <td>SEI</td><td>LII</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-     <td>Integrating</td>
+     <td>Integrating (4p-Di)</td>
       <td>Introverted</td><td>Aristocratic</td><td>Positivist</td>
       <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
     </tr>
@@ -18608,22 +18608,22 @@ Total XNOR mappings written: 112
       <td><b>E</b></td><td><b>NP</b></td><td><b>ENP</b></td>
       </tr>
 	 <tr>
-	 <td>Open</td>
+	 <td>Open (4p-Ne)</td>
       <td>Extroverted</td><td>Tactical</td><td>Judicious</td>
       <td>ILE</td><td>ESE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-    <td>Conflict</td>
+    <td>Conflict (4p-Se)</td>
       <td>Extroverted</td><td>Strategic</td><td>Decisive</td>
       <td>EIE</td><td>SLE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-	 <td>Secretive</td>
+	 <td>Secretive (4p-Ni)</td>
       <td>Introverted</td><td>Tactical</td><td>Decisive</td>
       <td>LSI</td><td>IEI</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-     <td>Peaceful</td>
+     <td>Peaceful (4p-Si)</td>
       <td>Introverted</td><td>Strategic</td><td>Judicious</td>
       <td>SEI</td><td>LII</td><td>EII</td><td>SLI</td>
     </tr>
@@ -18637,22 +18637,22 @@ Total XNOR mappings written: 112
       <td><b>E</b></td><td><b>TP</b></td><td><b>ETP</b></td>
       </tr>
 	 <tr>
-	 <td>Engaging</td>
+	 <td>Engaging (4p-Fe)</td>
       <td>Extroverted</td><td>Constructivist</td><td>Merry</td>
       <td>ILE</td><td>ESE</td><td>EIE</td><td>SLE</td>
     </tr>
     <tr>
-    <td>Contacting</td>
+    <td>Contacting (4p-Te)</td>
       <td>Extroverted</td><td>Emotivist</td><td>Serious</td>
       <td>SEE</td><td>LIE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Confidential</td>
+	 <td>Confidential (4p-Fi)</td>
       <td>Introverted</td><td>Constructivist</td><td>Serious</td>
       <td>ILI</td><td>ESI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
-     <td>Rigid</td>
+     <td>Rigid (4p-Ti)</td>
       <td>Introverted</td><td>Emotivist</td><td>Merry</td>
       <td>SEI</td><td>LII</td><td>LSI</td><td>IEI</td>
     </tr>
@@ -18666,22 +18666,22 @@ Total XNOR mappings written: 112
 	  <td><b>E</b></td><td><b>NTP</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
-	 <td>Energy Generators</td>
+	 <td>Energy Generators (4d-Qe)</td>
       <td>Extroverted</td><td>Process</td><td>Asking</td>
       <td>ILE</td><td>EIE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
-    <td>Energy Carriers</td>
+    <td>Energy Carriers (4d-De)</td>
       <td>Extroverted</td><td>Result</td><td>Declaring</td>
       <td>ESE</td><td>SLE</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Information Accumulators</td>
+	 <td>Information Accumulators (4d-Di)</td>
       <td>Introverted</td><td>Process</td><td>Declaring</td>
       <td>SEI</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
-     <td>Information Generators</td>
+     <td>Information Generators (4d-Qi)</td>
       <td>Introverted</td><td>Result</td><td>Asking</td>
       <td>LII</td><td>IEI</td><td>ESI</td><td>SLI</td>
     </tr>
@@ -18695,22 +18695,22 @@ Total XNOR mappings written: 112
       <td><b>N</b></td><td><b>T</b></td><td><b>NT</b></td>
       </tr>
 	 <tr>
-	 <td>Researcher</td>
+	 <td>Researcher (NT)</td>
       <td>Intuitive</td><td>Logical</td><td>Democratic</td>
       <td>ILE</td><td>LII</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
-    <td>Humanitarian</td>
+    <td>Humanitarian (NF)</td>
       <td>Intuitive</td><td>Ethical</td><td>Aristocratic</td>
       <td>EIE</td><td>IEI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Pragmatist</td>
+	 <td>Pragmatist (ST)</td>
       <td>Sensory</td><td>Logical</td><td>Aristocratic</td>
       <td>LSI</td><td>SLE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
-     <td>Social</td>
+     <td>Social (SF)</td>
       <td>Sensory</td><td>Ethical</td><td>Democratic</td>
       <td>SEI</td><td>ESE</td><td>SEE</td><td>ESI</td>
     </tr>
@@ -18782,22 +18782,22 @@ Total XNOR mappings written: 112
       <td><b>N</b></td><td><b>EP</b></td><td><b>ENP</b></td>
       </tr>
 	 <tr>
-	 <td>Childlike (Ne)</td>
+	 <td>Childlike (Ne-ego)</td>
       <td>Intuitive</td><td>Static</td><td>Judicious</td>
       <td>ILE</td><td>LII</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-    <td>Victim (Ni)</td>
+    <td>Victim (Ni-ego)</td>
       <td>Intuitive</td><td>Dynamic</td><td>Decisive</td>
       <td>EIE</td><td>IEI</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
-	 <td>Aggressor (Se)</td>
+	 <td>Aggressor (Se-ego)</td>
       <td>Sensory</td><td>Static</td><td>Decisive</td>
       <td>LSI</td><td>SLE</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
-     <td>Caring (Si)</td>
+     <td>Caring (Si-ego)</td>
       <td>Sensory</td><td>Dynamic</td><td>Judicious</td>
       <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
     </tr>
@@ -18927,22 +18927,22 @@ Total XNOR mappings written: 112
       <td><b>T</b></td><td><b>EP</b></td><td><b>ETP</b></td>
       </tr>
 	 <tr>
-	 <td>System Organiser (Ti)</td>
+	 <td>System Organiser (Ti-ego)</td>
       <td>Logical</td><td>Static</td><td>Merry</td>
       <td>ILE</td><td>LII</td><td>LSI</td><td>SLE</td>
     </tr>
     <tr>
-    <td>Business Optimiser (Te)</td>
+    <td>Business Optimiser (Te-ego)</td>
       <td>Logical</td><td>Dynamic</td><td>Serious</td>
       <td>ILI</td><td>LIE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Behaviour Styliser (Fi)</td>
+	 <td>Behaviour Styliser (Fi-ego)</td>
       <td>Ethical</td><td>Static</td><td>Serious</td>
       <td>SEE</td><td>ESI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-     <td>Mood Inspirer (Fe)</td>
+     <td>Mood Inspirer (Fe-ego)</td>
       <td>Ethical</td><td>Dynamic</td><td>Merry</td>
       <td>SEI</td><td>ESE</td><td>EIE</td><td>IEI</td>
     </tr>
@@ -19101,22 +19101,22 @@ Total XNOR mappings written: 112
       <td><b>P</b></td><td><b>ENT</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
-	 <td>Iridescent Hopes</td>
+	 <td>Iridescent Hopes (Q-creative)</td>
       <td>Irrational</td><td>Positivist</td><td>Asking</td>
       <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
-    <td>Waiting</td>
+    <td>Waiting (D-creative)</td>
       <td>Irrational</td><td>Negativist</td><td>Declaring</td>
       <td>SEI</td><td>SLE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
-	 <td>Realistic Plans</td>
+	 <td>Realistic Plans (D-base</td>
       <td>Rational</td><td>Positivist</td><td>Declaring</td>
       <td>ESE</td><td>LSI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
-     <td>Avoiding Failures</td>
+     <td>Avoiding Failures (Q-base)</td>
       <td>Rational</td><td>Negativist</td><td>Asking</td>
       <td>LII</td><td>EIE</td><td>ESI</td><td>LSE</td>
     </tr>
@@ -19130,22 +19130,22 @@ Total XNOR mappings written: 112
       <td><b>EN</b></td><td><b>ET</b></td><td><b>NT</b></td>
       </tr>
 	 <tr>
-	 <td>Retention</td>
+	 <td>Retention (Evaluatory Delta)</td>
       <td>Carefree</td><td>Yielding</td><td>Democratic</td>
       <td>ILE</td><td>SEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
-    <td>Comportment</td>
+    <td>Comportment (Evaluatory Alpha)</td>
       <td>Carefree</td><td>Obstinate</td><td>Aristocratic</td>
       <td>EIE</td><td>LSI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Attainment</td>
+	 <td>Attainment (Evaluatory Gamma)</td>
       <td>Farsighted</td><td>Yielding</td><td>Aristocratic</td>
       <td>SLE</td><td>IEI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
-     <td>Lucidity</td>
+     <td>Lucidity (Evaluatory Beta)</td>
       <td>Farsighted</td><td>Obstinate</td><td>Democratic</td>
       <td>ESE</td><td>LII</td><td>SEE</td><td>ILI</td>
     </tr>
@@ -19333,22 +19333,22 @@ Total XNOR mappings written: 112
       <td><b>EP</b></td><td><b>NT</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
-	 <td>Reorienters</td>
+	 <td>Reorienters (Qi-ego)</td>
       <td>Static</td><td>Democratic</td><td>Asking</td>
       <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
-    <td>Foundationalists</td>
+    <td>Foundationalists (Di-ego)</td>
       <td>Static</td><td>Aristocratic</td><td>Declaring</td>
       <td>LSI</td><td>SLE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Sharpeners</td>
+	 <td>Sharpeners (De-ego)</td>
       <td>Dynamic</td><td>Democratic</td><td>Declaring</td>
       <td>SEI</td><td>ESE</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
-     <td>Slackeners</td>
+     <td>Slackeners (Qe-ego)</td>
       <td>Dynamic</td><td>Aristocratic</td><td>Asking</td>
       <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
     </tr>
@@ -19383,7 +19383,7 @@ Total XNOR mappings written: 112
     </tr>
     <tr>
       <td rowspan="6"><b>32</b></td>
-      <td rowspan="2"><b>Array Groups</b></td>
+      <td rowspan="2"><b>Tournament / Array Groups</b></td>
       <td colspan="3"><img src="/Images/Tetrachotomies/Reinin/32.png" /></td>
       <td colspan="4" rowspan="2"></td>
       </tr>
@@ -19391,22 +19391,22 @@ Total XNOR mappings written: 112
       <td><b>NT</b></td><td><b>NP</b></td><td><b>TP</b></td>
       </tr>
 	 <tr>
-	 <td>Implication</td>
+	 <td>Implication (Inert NF)</td>
       <td>Democratic</td><td>Tactical</td><td>Constructivist</td>
       <td>ILE</td><td>ESE</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-    <td>Explication</td>
+    <td>Explication (Inert ST)</td>
       <td>Democratic</td><td>Strategic</td><td>Emotivist</td>
       <td>SEI</td><td>LII</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-	 <td>Instruction</td>
+	 <td>Instruction (Inert NT)</td>
       <td>Aristocratic</td><td>Tactical</td><td>Emotivist</td>
       <td>LSI</td><td>IEI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-     <td>Exemplification</td>
+     <td>Exemplification (Inert SF)</td>
       <td>Aristocratic</td><td>Strategic</td><td>Constructivist</td>
       <td>EIE</td><td>SLE</td><td>EII</td><td>SLI</td>
     </tr>
@@ -19454,7 +19454,7 @@ Total XNOR mappings written: 112
       <td>ILE</td><td>ESE</td><td>LSI</td><td>IEI</td>
     </tr>
     <tr>
-    <td>Imprints</td>
+    <td>???</td>
       <td>Tactical</td><td>Negativist</td><td>Serious</td>
       <td>ILI</td><td>ESI</td><td>LSE</td><td>IEE</td>
     </tr>
@@ -19483,7 +19483,7 @@ Total XNOR mappings written: 112
       <td>ILE</td><td>ESE</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
-    <td>Imprints</td>
+    <td>???</td>
       <td>Constructivist</td><td>Negativist</td><td>Decisive</td>
       <td>EIE</td><td>SLE</td><td>ILI</td><td>ESI</td>
     </tr>
