@@ -223,22 +223,22 @@
       <td><b>N</b></td><td><b>T</b></td><td><b>NT</b></td>
       </tr>
 	 <tr>
-	 <td>Researcher</td>
+	 <td>Researcher (NT)</td>
       <td>Intuitive</td><td>Logical</td><td>Democratic</td>
       <td>ILE</td><td>LII</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
-    <td>Humanitarian</td>
+    <td>Humanitarian (NF)</td>
       <td>Intuitive</td><td>Ethical</td><td>Aristocratic</td>
       <td>EIE</td><td>IEI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Pragmatist</td>
+	 <td>Pragmatist (ST)</td>
       <td>Sensory</td><td>Logical</td><td>Aristocratic</td>
       <td>LSI</td><td>SLE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
-     <td>Social</td>
+     <td>Social (SF)</td>
       <td>Sensory</td><td>Ethical</td><td>Democratic</td>
       <td>SEI</td><td>ESE</td><td>SEE</td><td>ESI</td>
     </tr>
@@ -455,12 +455,12 @@
       <td><b>T</b></td><td><b>EP</b></td><td><b>ETP</b></td>
       </tr>
 	 <tr>
-	 <td>System Organiser (Ti)</td>
+	 <td>System Organiser (Ti-ego)</td>
       <td>Logical</td><td>Static</td><td>Merry</td>
       <td>ILE</td><td>LII</td><td>LSI</td><td>SLE</td>
     </tr>
     <tr>
-    <td>Business Optimiser (Te)</td>
+    <td>Business Optimiser (Te-ego)</td>
       <td>Logical</td><td>Dynamic</td><td>Serious</td>
       <td>ILI</td><td>LIE</td><td>LSE</td><td>SLI</td>
     </tr>
