@@ -107,7 +107,7 @@
       <td><b>E</b></td><td><b>NT</b></td><td><b>ENT</b></td>
       </tr>
 	 <tr>
-	 <td>Approaching</td>
+	 <td>Approaching ()</td>
       <td>Extroverted</td><td>Democratic</td><td>Positivist</td>
       <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
     </tr>
