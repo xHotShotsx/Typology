@@ -663,17 +663,17 @@
       <td>ILE</td><td>SEI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
-    <td>Comportment (Evaluatory Beta)</td>
+    <td>Comportment (Evaluatory Alpha)</td>
       <td>Carefree</td><td>Obstinate</td><td>Aristocratic</td>
       <td>EIE</td><td>LSI</td><td>IEE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Attainment (Evaluatory </td>
+	 <td>Attainment (Evaluatory Gamma)</td>
       <td>Farsighted</td><td>Yielding</td><td>Aristocratic</td>
       <td>SLE</td><td>IEI</td><td>LSE</td><td>EII</td>
     </tr>
     <tr>
-     <td>Lucidity</td>
+     <td>Lucidity (Evaluatory Beta)</td>
       <td>Farsighted</td><td>Obstinate</td><td>Democratic</td>
       <td>ESE</td><td>LII</td><td>SEE</td><td>ILI</td>
     </tr>
