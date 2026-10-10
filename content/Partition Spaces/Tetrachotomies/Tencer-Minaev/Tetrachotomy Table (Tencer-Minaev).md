@@ -77,17 +77,17 @@
       <td><b>Q</b></td><td><b>D</b></td><td><b>QD</b></td>
       </tr>
 	 <tr>
-	 <td>Reorienters</td>
+	 <td>Reorienters (Qi-ego)</td>
       <td>Asking</td><td>Democratic</td><td>Static</td>
       <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
-    <td>Slackeners</td>
+    <td>Slackeners (Qe-ego)</td>
       <td>Asking</td><td>Aristocratic</td><td>Dynamic</td>
       <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Sharpeners</td>
+	 <td>Sharpeners (Di-)</td>
       <td>Declaring</td><td>Democratic</td><td>Dynamic</td>
       <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
     </tr>
