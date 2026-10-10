@@ -165,7 +165,7 @@
       <td><b>E</b></td><td><b>TP</b></td><td><b>ETP</b></td>
       </tr>
 	 <tr>
-	 <td>Engaging</td>
+	 <td>Engaging (4p-F</td>
       <td>Extroverted</td><td>Constructivist</td><td>Merry</td>
       <td>ILE</td><td>ESE</td><td>EIE</td><td>SLE</td>
     </tr>
