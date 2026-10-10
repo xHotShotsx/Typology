@@ -628,7 +628,7 @@
       <td><b>D</b></td><td><b>QAI</b></td><td><b>QAID</b></td>
       </tr>
 	 <tr>
-	 <td>Approaching (4p-Qe)</td>
+	 <td>Approaching (4p-De)</td>
       <td>Democratic</td><td>Positivist</td><td>Extroverted</td>
       <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
     </tr>
@@ -643,7 +643,7 @@
       <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
-     <td>Shaping (4p-De)</td>
+     <td>Shaping (4p-Qe)</td>
       <td>Aristocratic</td><td>Negativist</td><td>Extroverted</td>
 	  <td>EIE</td><td>SLE</td><td>LSE</td><td>IEE</td>
     </tr>

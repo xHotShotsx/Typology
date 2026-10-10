@@ -122,7 +122,7 @@
       <td>SEI</td><td>LII</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-     <td>Integrating</td>
+     <td>Integrating (4p-Di)</td>
       <td>Introverted</td><td>Aristocratic</td><td>Positivist</td>
       <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
     </tr>
