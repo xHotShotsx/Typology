@@ -310,7 +310,7 @@
       <td><b>N</b></td><td><b>EP</b></td><td><b>ENP</b></td>
       </tr>
 	 <tr>
-	 <td>Childlike (Ne)</td>
+	 <td>Childlike (Ne-ego)</td>
       <td>Intuitive</td><td>Static</td><td>Judicious</td>
       <td>ILE</td><td>LII</td><td>EII</td><td>IEE</td>
     </tr>
