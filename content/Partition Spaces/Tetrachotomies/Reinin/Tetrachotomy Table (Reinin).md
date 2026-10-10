@@ -107,17 +107,17 @@
       <td><b>E</b></td><td><b>NT</b></td><td><b>ENT</b></td>
       </tr>
 	 <tr>
-	 <td>Approaching ()</td>
+	 <td>Approaching (4p-De)</td>
       <td>Extroverted</td><td>Democratic</td><td>Positivist</td>
       <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-    <td>Shaping</td>
+    <td>Shaping (4p-Qe)</td>
       <td>Extroverted</td><td>Aristocratic</td><td>Negativist</td>
       <td>EIE</td><td>SLE</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Abstaining</td>
+	 <td>Abstaining (4p-Qi)</td>
       <td>Introverted</td><td>Democratic</td><td>Negativist</td>
       <td>SEI</td><td>LII</td><td>ILI</td><td>ESI</td>
     </tr>
