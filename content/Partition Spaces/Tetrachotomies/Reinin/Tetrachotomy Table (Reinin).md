@@ -465,12 +465,12 @@
       <td>ILI</td><td>LIE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
-	 <td>Behaviour Styliser (Fi)</td>
+	 <td>Behaviour Styliser (Fi-ego)</td>
       <td>Ethical</td><td>Static</td><td>Serious</td>
       <td>SEE</td><td>ESI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-     <td>Mood Inspirer (Fe)</td>
+     <td>Mood Inspirer (Fe-ego)</td>
       <td>Ethical</td><td>Dynamic</td><td>Merry</td>
       <td>SEI</td><td>ESE</td><td>EIE</td><td>IEI</td>
     </tr>
