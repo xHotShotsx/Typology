@@ -628,7 +628,7 @@
       <td><b>D</b></td><td><b>QAI</b></td><td><b>QAID</b></td>
       </tr>
 	 <tr>
-	 <td>Approaching</td>
+	 <td>Approaching (4p-Qe)</td>
       <td>Democratic</td><td>Positivist</td><td>Extroverted</td>
       <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
     </tr>
