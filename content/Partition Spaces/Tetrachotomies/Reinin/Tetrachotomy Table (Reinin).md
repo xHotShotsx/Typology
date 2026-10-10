@@ -861,17 +861,17 @@
       <td><b>EP</b></td><td><b>NT</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
-	 <td>Reorienters</td>
+	 <td>Reorienters (Qi-ego)</td>
       <td>Static</td><td>Democratic</td><td>Asking</td>
       <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
-    <td>Foundationalists</td>
+    <td>Foundationalists (Di-ego)</td>
       <td>Static</td><td>Aristocratic</td><td>Declaring</td>
       <td>LSI</td><td>SLE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
-	 <td>Sharpeners</td>
+	 <td>Sharpeners (De-ego)</td>
       <td>Dynamic</td><td>Democratic</td><td>Declaring</td>
       <td>SEI</td><td>ESE</td><td>ILI</td><td>LIE</td>
     </tr>
