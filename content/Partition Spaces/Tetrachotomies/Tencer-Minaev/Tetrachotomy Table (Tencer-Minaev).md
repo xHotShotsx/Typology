@@ -633,17 +633,17 @@
       <td>ILE</td><td>ESE</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-    <td>Abstaining</td>
+    <td>Abstaining (4p-Qi)</td>
       <td>Democratic</td><td>Negativist</td><td>Introverted</td>
       <td>SEI</td><td>LII</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-	 <td>Integrating</td>
+	 <td>Integrating (4p-Di)</td>
       <td>Aristocratic</td><td>Positivist</td><td>Introverted</td>
       <td>LSI</td><td>IEI</td><td>EII</td><td>SLI</td>
     </tr>
     <tr>
-     <td>Shaping</td>
+     <td>Shaping (4p-De)</td>
       <td>Aristocratic</td><td>Negativist</td><td>Extroverted</td>
 	  <td>EIE</td><td>SLE</td><td>LSE</td><td>IEE</td>
     </tr>
