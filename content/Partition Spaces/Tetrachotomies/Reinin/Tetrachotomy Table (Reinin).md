@@ -924,17 +924,17 @@
       <td>ILE</td><td>ESE</td><td>ILI</td><td>ESI</td>
     </tr>
     <tr>
-    <td>Explication</td>
+    <td>Explication (Inert ST)</td>
       <td>Democratic</td><td>Strategic</td><td>Emotivist</td>
       <td>SEI</td><td>LII</td><td>SEE</td><td>LIE</td>
     </tr>
     <tr>
-	 <td>Instruction</td>
+	 <td>Instruction (Inert NT)</td>
       <td>Aristocratic</td><td>Tactical</td><td>Emotivist</td>
       <td>LSI</td><td>IEI</td><td>LSE</td><td>IEE</td>
     </tr>
     <tr>
-     <td>Exemplification</td>
+     <td>Exemplification (Inert SF(</td>
       <td>Aristocratic</td><td>Strategic</td><td>Constructivist</td>
       <td>EIE</td><td>SLE</td><td>EII</td><td>SLI</td>
     </tr>
