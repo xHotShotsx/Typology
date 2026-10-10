@@ -106,12 +106,12 @@
       <td><b>Q</b></td><td><b>AI</b></td><td><b>QAI</b></td>
       </tr>
 	 <tr>
-	 <td>Iridescent Hopes</td>
+	 <td>Iridescent Hopes ()</td>
       <td>Asking</td><td>Irrational</td><td>Positivist</td>
       <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
-    <td>Avoiding Failures</td>
+    <td>Avoiding Failures (Q-base)</td>
       <td>Asking</td><td>Rational</td><td>Negativist</td>
       <td>LII</td><td>EIE</td><td>ESI</td><td>LIE</td>
     </tr>
