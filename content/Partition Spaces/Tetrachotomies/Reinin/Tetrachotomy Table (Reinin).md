@@ -629,12 +629,12 @@
       <td><b>P</b></td><td><b>ENT</b></td><td><b>ENTP</b></td>
       </tr>
 	 <tr>
-	 <td>Iridescent Hopes</td>
+	 <td>Iridescent Hopes (Q-creative)</td>
       <td>Irrational</td><td>Positivist</td><td>Asking</td>
       <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
-    <td>Waiting</td>
+    <td>Waiting (Q)</td>
       <td>Irrational</td><td>Negativist</td><td>Declaring</td>
       <td>SEI</td><td>SLE</td><td>ESI</td><td>LSE</td>
     </tr>
