@@ -21,22 +21,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Asking</td><td>1stAbstract</td><td>2ndAlpha</td>
+      <td>Questim</td><td>1stAbstract</td><td>2ndAlpha</td>
       <td>ILE</td><td>LII</td><td>IEI</td><td>LSE</td>
     </tr>
     <tr>
     <td></td>
-      <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td>
+      <td>Questim</td><td>1stInvolved</td><td>2ndGamma</td>
       <td>EIE</td><td>SEE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td>
+      <td>Declatim</td><td>1stAbstract</td><td>2ndGamma</td>
       <td>LSI</td><td>ILI</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
      <td></td>
-      <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td>
+      <td>Declatim</td><td>1stInvolved</td><td>2ndAlpha</td>
       <td>SEI</td><td>ESE</td><td>SLE</td><td>EII</td>
     </tr>
     <tr>
@@ -50,22 +50,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Asking</td><td>1stInternal</td><td>2ndBeta</td>
+      <td>Questim</td><td>1stInternal</td><td>2ndBeta</td>
       <td>ILE</td><td>EIE</td><td>IEI</td><td>ESI</td>
     </tr>
     <tr>
     <td></td>
-      <td>Asking</td><td>1stExternal</td><td>2ndDelta</td>
+      <td>Questim</td><td>1stExternal</td><td>2ndDelta</td>
       <td>LII</td><td>SEE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Declaring</td><td>1stInternal</td><td>2ndDelta</td>
+      <td>Declatim</td><td>1stInternal</td><td>2ndDelta</td>
       <td>ESE</td><td>ILI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
      <td></td>
-      <td>Declaring</td><td>1stExternal</td><td>2ndBeta</td>
+      <td>Declatim</td><td>1stExternal</td><td>2ndBeta</td>
       <td>SEI</td><td>LSI</td><td>SLE</td><td>LIE</td>
     </tr>
     <tr>
@@ -79,22 +79,22 @@
       </tr>
 	 <tr>
 	 <td>Reorienters (Qi-ego)</td>
-      <td>Asking</td><td>Democratic</td><td>Static</td>
+      <td>Questim</td><td>Democratic</td><td>Static</td>
       <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
     <td>Slackeners (Qe-ego)</td>
-      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td>
+      <td>Questim</td><td>Aristocratic</td><td>Dynamic</td>
       <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Sharpeners (De-ego)</td>
-      <td>Declaring</td><td>Democratic</td><td>Dynamic</td>
+      <td>Declatim</td><td>Democratic</td><td>Dynamic</td>
       <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
      <td>Foundationalists (Di-ego)</td>
-      <td>Declaring</td><td>Aristocratic</td><td>Static</td>
+      <td>Declatim</td><td>Aristocratic</td><td>Static</td>
       <td>LSI</td><td>SLE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
@@ -108,22 +108,22 @@
       </tr>
 	 <tr>
 	 <td>Iridescent Hopes (Q-creative)</td>
-      <td>Asking</td><td>Irrational</td><td>Positivist</td>
+      <td>Questim</td><td>Irrational</td><td>Positivist</td>
       <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Avoiding Failures (Q-base)</td>
-      <td>Asking</td><td>Rational</td><td>Negativist</td>
+      <td>Questim</td><td>Rational</td><td>Negativist</td>
       <td>LII</td><td>EIE</td><td>ESI</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Waiting (D-creative)</td>
-      <td>Declaring</td><td>Irrational</td><td>Negativist</td>
+      <td>Declatim</td><td>Irrational</td><td>Negativist</td>
       <td>SEI</td><td>SLE</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
      <td>Realistic Plans (D-base)</td>
-      <td>Declaring</td><td>Rational</td><td>Positivist</td>
+      <td>Declatim</td><td>Rational</td><td>Positivist</td>
       <td>ESE</td><td>LSI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
@@ -137,22 +137,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Asking</td><td>2ndAbstract</td><td>1stAlpha</td>
+      <td>Questim</td><td>2ndAbstract</td><td>1stAlpha</td>
       <td>ILE</td><td>LII</td><td>EIE</td><td>SLI</td>
     </tr>
     <tr>
     <td></td>
-      <td>Asking</td><td>2ndInvolved</td><td>1stGamma</td>
+      <td>Questim</td><td>2ndInvolved</td><td>1stGamma</td>
       <td>IEI</td><td>SEE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Declaring</td><td>2ndAbstract</td><td>1stGamma</td>
+      <td>Declatim</td><td>2ndAbstract</td><td>1stGamma</td>
       <td>SLE</td><td>ILI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
-      <td>Declaring</td><td>2ndInvolved</td><td>1stAlpha</td>
+      <td>Declatim</td><td>2ndInvolved</td><td>1stAlpha</td>
       <td>SEI</td><td>ESE</td><td>LSI</td><td>IEE</td>
     </tr>
     <tr>
@@ -166,22 +166,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Asking</td><td>2ndExternal</td><td>1stDelta</td>
+      <td>Questim</td><td>2ndExternal</td><td>1stDelta</td>
       <td>ILE</td><td>ESI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
     <td></td>
-      <td>Asking</td><td>2ndInternal</td><td>1stBeta</td>
+      <td>Questim</td><td>2ndInternal</td><td>1stBeta</td>
       <td>LII</td><td>EIE</td><td>IEI</td><td>SEE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Declaring</td><td>2ndExternal</td><td>1stBeta</td>
+      <td>Declatim</td><td>2ndExternal</td><td>1stBeta</td>
       <td>ESE</td><td>LSI</td><td>SLE</td><td>ILI</td>
     </tr>
     <tr>
      <td></td>
-      <td>Declaring</td><td>2ndInternal</td><td>1stDelta</td>
+      <td>Declatim</td><td>2ndInternal</td><td>1stDelta</td>
       <td>SEI</td><td>LIE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
@@ -195,22 +195,22 @@
       </tr>
 	 <tr>
 	 <td>Energy Generators (4d-Qe)</td>
-      <td>Asking</td><td>Process</td><td>Extroverted</td>
+      <td>Questim</td><td>Process</td><td>Extroverted</td>
       <td>ILE</td><td>EIE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Information Generators (4d-Qi)</td>
-      <td>Asking</td><td>Result</td><td>Introverted</td>
+      <td>Questim</td><td>Result</td><td>Introverted</td>
       <td>LII</td><td>IEI</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Information Accumulators (4d-Di)</td>
-      <td>Declaring</td><td>Process</td><td>Introverted</td>
+      <td>Declatim</td><td>Process</td><td>Introverted</td>
       <td>SEI</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Energy Carriers (4d-De)</td>
-      <td>Declaring</td><td>Result</td><td>Extroverted</td>
+      <td>Declatim</td><td>Result</td><td>Extroverted</td>
       <td>ESE</td><td>SLE</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>

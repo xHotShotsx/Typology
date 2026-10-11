@@ -195,22 +195,22 @@
       </tr>
 	 <tr>
 	 <td>Energy Generators (4d-Qe)</td>
-      <td>Extroverted</td><td>Process</td><td>Asking</td>
+      <td>Extroverted</td><td>Process</td><td>Questim</td>
       <td>ILE</td><td>EIE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Energy Carriers (4d-De)</td>
-      <td>Extroverted</td><td>Result</td><td>Declaring</td>
+      <td>Extroverted</td><td>Result</td><td>Declatim</td>
       <td>ESE</td><td>SLE</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Information Accumulators (4d-Di)</td>
-      <td>Introverted</td><td>Process</td><td>Declaring</td>
+      <td>Introverted</td><td>Process</td><td>Declatim</td>
       <td>SEI</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Information Generators (4d-Qi)</td>
-      <td>Introverted</td><td>Result</td><td>Asking</td>
+      <td>Introverted</td><td>Result</td><td>Questim</td>
       <td>LII</td><td>IEI</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
@@ -369,22 +369,22 @@
       </tr>
 	 <tr>
 	 <td>Inventor</td>
-      <td>Intuitive</td><td>Merry</td><td>Asking</td>
+      <td>Intuitive</td><td>Merry</td><td>Questim</td>
       <td>ILE</td><td>LII</td><td>EIE</td><td>IEI</td>
     </tr>
     <tr>
     <td>Negotiator</td>
-      <td>Intuitive</td><td>Serious</td><td>Declaring</td>
+      <td>Intuitive</td><td>Serious</td><td>Declatim</td>
       <td>ILI</td><td>LIE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Gatherer</td>
-      <td>Sensory</td><td>Merry</td><td>Declaring</td>
+      <td>Sensory</td><td>Merry</td><td>Declatim</td>
       <td>SEI</td><td>ESE</td><td>LSI</td><td>SLE</td>
     </tr>
     <tr>
      <td>Processor</td>
-      <td>Sensory</td><td>Serious</td><td>Asking</td>
+      <td>Sensory</td><td>Serious</td><td>Questim</td>
       <td>SEE</td><td>ESI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
@@ -514,22 +514,22 @@
       </tr>
 	 <tr>
 	 <td>Creation</td>
-      <td>Logical</td><td>Judicious</td><td>Asking</td>
+      <td>Logical</td><td>Judicious</td><td>Questim</td>
       <td>ILE</td><td>LII</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Competition</td>
-      <td>Logical</td><td>Decisive</td><td>Declaring</td>
+      <td>Logical</td><td>Decisive</td><td>Declatim</td>
       <td>LSI</td><td>SLE</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Support</td>
-      <td>Ethical</td><td>Judicious</td><td>Declaring</td>
+      <td>Ethical</td><td>Judicious</td><td>Declatim</td>
       <td>SEI</td><td>ESE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
      <td>Intrigue</td>
-      <td>Ethical</td><td>Decisive</td><td>Asking</td>
+      <td>Ethical</td><td>Decisive</td><td>Questim</td>
       <td>EIE</td><td>IEI</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
@@ -630,22 +630,22 @@
       </tr>
 	 <tr>
 	 <td>Iridescent Hopes (Q-creative)</td>
-      <td>Irrational</td><td>Positivist</td><td>Asking</td>
+      <td>Irrational</td><td>Positivist</td><td>Questim</td>
       <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Waiting (D-creative)</td>
-      <td>Irrational</td><td>Negativist</td><td>Declaring</td>
+      <td>Irrational</td><td>Negativist</td><td>Declatim</td>
       <td>SEI</td><td>SLE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
 	 <td>Realistic Plans (D-base)</td>
-      <td>Rational</td><td>Positivist</td><td>Declaring</td>
+      <td>Rational</td><td>Positivist</td><td>Declatim</td>
       <td>ESE</td><td>LSI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
      <td>Avoiding Failures (Q-base)</td>
-      <td>Rational</td><td>Negativist</td><td>Asking</td>
+      <td>Rational</td><td>Negativist</td><td>Questim</td>
       <td>LII</td><td>EIE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
@@ -717,22 +717,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Carefree</td><td>Constructivist</td><td>Asking</td>
+      <td>Carefree</td><td>Constructivist</td><td>Questim</td>
       <td>ILE</td><td>EIE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
     <td></td>
-      <td>Carefree</td><td>Emotivist</td><td>Declaring</td>
+      <td>Carefree</td><td>Emotivist</td><td>Declatim</td>
       <td>SEI</td><td>LSI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Farsighted</td><td>Constructivist</td><td>Declaring</td>
+      <td>Farsighted</td><td>Constructivist</td><td>Declatim</td>
       <td>ESE</td><td>SLE</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
-      <td>Farsighted</td><td>Emotivist</td><td>Asking</td>
+      <td>Farsighted</td><td>Emotivist</td><td>Questim</td>
       <td>LII</td><td>IEI</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
@@ -804,22 +804,22 @@
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Yielding</td><td>Tactical</td><td>Asking</td>
+      <td>Yielding</td><td>Tactical</td><td>Questim</td>
       <td>ILE</td><td>IEI</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
     <td></td>
-      <td>Yielding</td><td>Strategic</td><td>Declaring</td>
+      <td>Yielding</td><td>Strategic</td><td>Declatim</td>
       <td>SEI</td><td>SLE</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Obstinate</td><td>Tactical</td><td>Declaring</td>
+      <td>Obstinate</td><td>Tactical</td><td>Declatim</td>
       <td>ESE</td><td>LSI</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
      <td></td>
-      <td>Obstinate</td><td>Strategic</td><td>Asking</td>
+      <td>Obstinate</td><td>Strategic</td><td>Questim</td>
       <td>LII</td><td>EIE</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
@@ -862,22 +862,22 @@
       </tr>
 	 <tr>
 	 <td>Reorienters (Qi-ego)</td>
-      <td>Static</td><td>Democratic</td><td>Asking</td>
+      <td>Static</td><td>Democratic</td><td>Questim</td>
       <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
     <td>Foundationalists (Di-ego)</td>
-      <td>Static</td><td>Aristocratic</td><td>Declaring</td>
+      <td>Static</td><td>Aristocratic</td><td>Declatim</td>
       <td>LSI</td><td>SLE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Sharpeners (De-ego)</td>
-      <td>Dynamic</td><td>Democratic</td><td>Declaring</td>
+      <td>Dynamic</td><td>Democratic</td><td>Declatim</td>
       <td>SEI</td><td>ESE</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
      <td>Slackeners (Qe-ego)</td>
-      <td>Dynamic</td><td>Aristocratic</td><td>Asking</td>
+      <td>Dynamic</td><td>Aristocratic</td><td>Questim</td>
       <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
