@@ -111,7 +111,7 @@ _All notes concatenated and hyperlinked. Exceptions include any external books o
 | **Model A (Standard)** | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |        $8T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           |   $\times$   |         $\{ e, k \}$         |
 | **Model V (Standard)** | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |        $8T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           |   $\times$   |         $\{ e, m \}$         |
 |     **Model A/U1**     | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |      $\text{Democratic/Aristocratic} \cong \mathbb{Z}_{2}^3$       |   $\times$   |           **N/A**            |
-|     **Model A/U2**     | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |               $\text{Asking/Declaring} \cong D_{4}$                |   $\times$   |           **N/A**            |
+|     **Model A/U2**     | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |               $\text{Questim/Declatim} \cong D_{4}$                |   $\times$   |           **N/A**            |
 |     **Model A/U3**     | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         | $\text{Process/Result} \cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ |   $\times$   |           **N/A**            |
 |     **Model A/U4**     | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |             $\text{Positivist/Negativist} \cong D_{4}$             |   $\times$   |           **N/A**            |
 |      **Model G**       | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         | $\text{Process/Result} \cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ |   $\times$   |           **N/A**            |
@@ -544,7 +544,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 **#19:** $V_{3} \cap D_{2} \cap D_{4}$  
 **#20:** $V_{3} \cap A_{2} \cap A_{4}$  
 
-###### Asking/Declaring Class $V_{4}$
+###### Questim/Declatim Class $V_{4}$
 
 **#1:** $V_{4} \cap D_{1} \cap D_{4}$  
 **#2:** $V_{4} \cap A_{1} \cap A_{4}$  
@@ -651,7 +651,7 @@ Democratic/Aristocratic
 _(Descriptive/Prescriptive)_  
 
 $V_4$  
-Asking/Declaring  
+Questim/Declatim  
 _(Divergent/Convergent)_  
 
 
@@ -3407,7 +3407,7 @@ Ne,Ni,Te,Fi (LIE+EII HEF / ESE+LSI HEF)
 
 #### Expanding this schema to 16 elements
 
-If introversion/extroversion is responsible for informatic dimensionality, we’ll assume positivist/negativist as the contributor to energetic dimensionality. We will be using Varlawend’s System 2 (Reference 5) here. Now, energetic functions map onto the two binary relations that entail Process/Result as the third dichotomy in relation to a tetrachotomy formation. The exact dichotomies used will be dependent on the displacement tetrad the given TIM falls under, due to the asymmetric ITR injection used for functions in this space, where asymmetries split in relation to dichotomies; Asking/Declaring, Positivist/Negativist, and Static/Dynamic. Defer to ‘Intertype Relations’ (Reference 1) for more information about this as well as ‘Function Dichotomies to Type Tetrachotomies’ (Reference 2) for which dichotomies of this space (Reference 3) slot into Energetic/Informational and Excitable/Inhibitable based on the displacement tetrad any TIM falls under, in discussion.
+If introversion/extroversion is responsible for informatic dimensionality, we’ll assume positivist/negativist as the contributor to energetic dimensionality. We will be using Varlawend’s System 2 (Reference 5) here. Now, energetic functions map onto the two binary relations that entail Process/Result as the third dichotomy in relation to a tetrachotomy formation. The exact dichotomies used will be dependent on the displacement tetrad the given TIM falls under, due to the asymmetric ITR injection used for functions in this space, where asymmetries split in relation to dichotomies; Questim/Declatim, Positivist/Negativist, and Static/Dynamic. Defer to ‘Intertype Relations’ (Reference 1) for more information about this as well as ‘Function Dichotomies to Type Tetrachotomies’ (Reference 2) for which dichotomies of this space (Reference 3) slot into Energetic/Informational and Excitable/Inhibitable based on the displacement tetrad any TIM falls under, in discussion.
 
 So, pretexts aside, the formula for energetic dimensionality goes as follows:
 
@@ -4063,13 +4063,13 @@ Since Model-G does not model all elements of the full socion for a type $t \in T
 
 #### Alternate Interpretations of Model A (Systems of Injections)
 
-The set $I$ is sometimes substituted for the set $\mathcal{E}$, and consequently the acting group on Model A is no longer $\mathbb{S}$, but an index-2 subgroup of it. For example, in the School of Classical Socionics (SCS), the set of functions is acted on by $H \cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ (Process/Result), so in this sense Models A and G are isomorphic (both $8T_{2}$ groups). However, in the School of System Socionics (SSS), the set of functions is acted on by the Asking/Declaring subgroup, which is isomorphic to $D_4$ (the dihedral group of order 8). In this sense, Model A can be can be decomposed into the two orbits of $\mathbb{S}$, one of which can be described as the transitive permutation group $8T_{4}$, which is a subgroup of $S_8$ and is isomorphic to $D_4$.
+The set $I$ is sometimes substituted for the set $\mathcal{E}$, and consequently the acting group on Model A is no longer $\mathbb{S}$, but an index-2 subgroup of it. For example, in the School of Classical Socionics (SCS), the set of functions is acted on by $H \cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ (Process/Result), so in this sense Models A and G are isomorphic (both $8T_{2}$ groups). However, in the School of System Socionics (SSS), the set of functions is acted on by the Questim/Declatim subgroup, which is isomorphic to $D_4$ (the dihedral group of order 8). In this sense, Model A can be can be decomposed into the two orbits of $\mathbb{S}$, one of which can be described as the transitive permutation group $8T_{4}$, which is a subgroup of $S_8$ and is isomorphic to $D_4$.
 
 **Technical note:** Systems of injections (charge models with only 8 functions) are best viewed as **orbit models**. Any compatible index-2 subgroup $H$ acts transitively on a single orbit of size 8 (hence an $8T_{k}$ label applies). The full charge construction $F \times \{ A,B \}$ is an intransitive $H$-set with two orbits; it is not itself an $nT_{k}$ object unless extended by a sheet-swapping element, yielding a transitive $16T_{\mathscr{l}}$ action.
 
 ##### What counts as an acceptable system of injections?
 
-An acceptable system of injections on Model A must arise from an index-2 subgroup of $\mathbb{S}$ corresponding to a _supralocal_ dichotomy. These include Democratic/Aristocratic, Asking/Declaring, Process/Result, and Positivist/Negativist.
+An acceptable system of injections on Model A must arise from an index-2 subgroup of $\mathbb{S}$ corresponding to a _supralocal_ dichotomy. These include Democratic/Aristocratic, Questim/Declatim, Process/Result, and Positivist/Negativist.
 
 The reason for this restriction is structural. Each information element $i \in I$ admits a decomposition into its associated monadic elements in $\mathcal{E}$, and any admissible injection must preserve this correspondence. Equivalently, for every function in $F_{MA}$, either the unsplit element $i$ or exactly one of its associated monadic refinements must be present, uniformly across all types.
 
@@ -4079,7 +4079,7 @@ Index-2 subgroups not associated with supralocal dichotomies (these are the *gen
 
 $\text{A}[\mathbb{S}]$: Model defined by the full transitive $D_{4} \times \mathbb{Z}_{2}$ action on the set of 8 functions. Baseline Model A with the Informational Metabolism Elements (IMEs).  
 $\text{A}[\mathbb{S}/U_{1}]$: Model that is theoretical Democratic/Aristocratic $\cong \mathbb{Z}_{2}^3$ serves as the basis here, which has a transitive action on the set of 8 functions.  
-$\text{A}[\mathbb{S}/U_{2}]$: Model deployed by the School of Systemic Socionics (SSS). The basis is Asking/Declaring $\cong D_{4}$ which acts transitively on the set of 8 functions.  
+$\text{A}[\mathbb{S}/U_{2}]$: Model deployed by the School of Systemic Socionics (SSS). The basis is Questim/Declatim $\cong D_{4}$ which acts transitively on the set of 8 functions.  
 $\text{A}[\mathbb{S}/U_{3}]$: Model deployed by the School of Classical Socionics (SCS) and School of Humanitarian Socionics (SHS) for Model G. The basis is Process/Result $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ which acts transitively on the set of 8 functions.  
 $\text{A}[\mathbb{S}/U_{4}]$: Model that is theoretical. Positivist/Negativist $\cong D_{4}$ is the basis here, which acts transitively on the set of 8 functions.  
 
@@ -4219,7 +4219,7 @@ It is interesting of note that for both sets of functions that the elements that
 
 # Systems of Injections for Model V
 
-An acceptable system of injections on Model V must arise from an index-2 subgroup of $\mathbb{S}$ corresponding to a _converse_ dichotomy. These include Irrational/Rational, Extroverted/Introverted, Process/Result, and Asking/Declaring.
+An acceptable system of injections on Model V must arise from an index-2 subgroup of $\mathbb{S}$ corresponding to a _converse_ dichotomy. These include Irrational/Rational, Extroverted/Introverted, Process/Result, and Questim/Declatim.
 
 The reason for this restriction is structural. Each mirror element $m \in M$ admits a decomposition into its associated monadic elements in $\mathcal{E}$, and any admissible injection must preserve this correspondence. Equivalently, for every function in $F$ either the unsplit element $m$ or exactly one of its associated monadic refinements must be present, uniformly across all types.
 
@@ -4431,7 +4431,7 @@ NTP – Process/Result
 
 ###### 4th order dichotomy
 
-ENTP – Asking/Declaring
+ENTP – Questim/Declatim
 
 
 ###### General Dichotomy
@@ -4468,7 +4468,7 @@ I4 = Carefree/Farsighted
 
 U1 = Democratic/Aristocratic
 
-U2 = Asking/Declaring
+U2 = Questim/Declatim
 
 U3 = Process/Result
 
@@ -4492,7 +4492,7 @@ I2 = Judicious/Decisive
 
 R2 = Merry/Serious
 
-U2 = Asking/Declaring
+U2 = Questim/Declatim
 
 ###### Type 3 Dichotomies ("vertical" or "interval") 
 
@@ -4549,7 +4549,7 @@ $\emptyset$ = Valid/Null
 
 ###### 1st order dichotomy
 
-Q - Questim/Declatim or Asking/Declaring
+Q - Questim/Declatim or Questim/Declatim
 
 A - 1st Abstract/1st Involved
 
@@ -4594,7 +4594,7 @@ Extraverted/Introverted and Static/Dynamic
 
 Democratic/Aristocratic and Process/Result
 
-Asking/Declaring and Positivist/Negativist
+Questim/Declatim and Positivist/Negativist
 
 1st Α and 2nd Α
 
@@ -4613,7 +4613,7 @@ V2 = Static/Dynamic
 
 V3 = Democratic/Aristocratic
 
-V4 = Asking/Declaring
+V4 = Questim/Declatim
 
 ###### Aristocratic Dichotomy
 
@@ -4684,7 +4684,7 @@ EDP - Ethical Result + SEI HEF / Logical Result + ILI HEF
 
 ELP - Ascending Result + EII HEF / Descending Result + LSI HEF
 
-DLP - Asking/Declaring
+DLP - Questim/Declatim
 
 ###### 4th order dichotomy
 
@@ -4748,7 +4748,7 @@ ELP - SEI+IEE HEF / SLE+ILI HEF
 
 ESP - ESE+EII HEF / LSI+LIE HEF
 
-LSP - Asking/Declaring
+LSP - Questim/Declatim
 
 ###### 4th order dichotomy
 
@@ -4776,7 +4776,7 @@ ELP: Ne+ Ne- Fe+ Fe- Fi- Fi+ Si- Si+ = SEI-IEE HEF
 
 ESP: Ne+ Se- Te- Fe+ Ti- Fi+ Ni- Si+ = ESE-EII HEF
 
-LSP: Ne+ Ni+ Te- Fi- Fe- Ti- Se+ Si+ = Asking
+LSP: Ne+ Ni+ Te- Fi- Fe- Ti- Se+ Si+ = Questim
 
 L: (Te+ Ni+ Ne- Fi- Fi+ Ne+ Ni- Te-) / (Fe+ Si+ Se- Ti- Ti+ Se+ Si- Fe-)
 
@@ -4858,7 +4858,7 @@ ISP - Process/Result
 
 ###### 4th order dichotomy
 
-EISP - Asking/Declaring
+EISP - Questim/Declatim
 
 
 ###### Additional Notes
@@ -4921,7 +4921,7 @@ ECP - Sensing Result + SEI HEF / Intuitive Result + ILI HEF
 
 EIP - Peripheral Result + EII HEF / Central Result / LSI HEF
 
-CIP - Asking/Declaring
+CIP - Questim/Declatim
 
 ###### 4th order dichotomy
 
@@ -4973,7 +4973,7 @@ EC - Ascending Negativists + Logical Positivists / Descending Negativists + Ethi
 
 EP - Static/Dynamic
 
-AC - Asking/Declaring
+AC - Questim/Declatim
 
 AP - Peripheral Negativists + Intuitive Positivists / Central Negativists + Sensing Positivists
 
@@ -5039,7 +5039,7 @@ EI - Ascending Process + SLE HEF / Descending Process + IEE HEF
 
 EP - Static/Dynamic
 
-AI - Asking/Declaring
+AI - Questim/Declatim
 
 AP - Peripheral Process + SLI HEF / Central Process + IEI HEF
 
@@ -5119,7 +5119,7 @@ ELP - Ascending Process + IEI HEF / Descending Process + SLI HEF
 
 EAP - Logical Process + LII HEF / Ethical Process + ESI HEF
 
-LAP - Asking/Declaring
+LAP - Questim/Declatim
 
 ###### 4th order dichotomy
 
@@ -5185,7 +5185,7 @@ ELP - Ascending Extroverts + Sensing Introverts / Descending Extroverts + Intuit
 
 EIP - Peripheral Extroverts + Logical Introverts / Central Extroverts + Ethical Introverts
 
-LIP - Asking/Declaring
+LIP - Questim/Declatim
 
 ###### 4th order dichotomy
 
@@ -5251,7 +5251,7 @@ ESP - EII+SLI HEF / LSI+IEI HEF
 
 EIP - SEI+ESI HEF / LII+ILI HEF
 
-SIP - Asking/Declaring
+SIP - Questim/Declatim
 
 ###### 4th order dichotomy
 
@@ -5312,7 +5312,7 @@ AP - Central Result + SEI HEF / Peripheral Result + ILI HEF
 
 ###### 3rd order dichotomy
 
-EDA - Asking/Declaring
+EDA - Questim/Declatim
 
 EDP - Ethical Result + EIE HEF / Logical Result + LSE HEF
 
@@ -5378,7 +5378,7 @@ JP - Descending Result + SEI HEF / Ascending Result + ILI HEF
 
 ###### 3rd order dichotomy
 
-EDJ - Asking/Declaring
+EDJ - Questim/Declatim
 
 EDP - Sensing Result + EIE HEF / Intuitive Result + LSE HEF
 
@@ -5454,7 +5454,7 @@ ISP - Process/Result
 
 ###### 4th order dichotomy
 
-EISP - Asking/Declaring
+EISP - Questim/Declatim
 
 
 ###### Additional Notes
@@ -5510,7 +5510,7 @@ IP - SLE HEF + Intuitive Process / IEE HEF + Sensing Process
 
 ###### 3rd order dichotomy
 
-ESI - Asking/Declaring
+ESI - Questim/Declatim
 
 ESP - LII HEF + Ascending Process / ESI HEF + Descending Process
 
@@ -5576,7 +5576,7 @@ IP - SLI HEF + Intuitive Process / IEI HEF + Intuitive Process
 
 ###### 3rd order dichotomy
 
-ESI - Asking/Declaring
+ESI - Questim/Declatim
 
 ESP - ESE HEF + Ascending Process / LIE HEF + Descending Process
 
@@ -5631,7 +5631,7 @@ EI - Progress/Outcome {ILE ESE SEE IEE IEI ILI LSI SLI}
 
 ES - {ILE ESE LIE LSE LSI ESI IEI EII}
 
-EP - Asking/Declaring
+EP - Questim/Declatim
 
 IS - Merry/Serious
 
@@ -10860,7 +10860,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
   #5080: ILE,LII,EIE,IEI,SEE,LIE,IEE,SLI  
   #5081: ILE,LII,EIE,IEI,SEE,ESI,LSE,EII    
   #5082: ILE,LII,EIE,IEI,SEE,ESI,LSE,IEE $\in \mathcal{C}_{d,16}, \mathcal{C}_{d,23}$    
-  #5083: ILE,LII,EIE,IEI,SEE,ESI,LSE,SLI (Asking $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}, \mathcal{C}_{d,15}, \mathcal{C}_{d,24}$)  
+  #5083: ILE,LII,EIE,IEI,SEE,ESI,LSE,SLI (Questim $\in \mathcal{O}, \mathcal{C}_{x,15}, \mathcal{C}_{x,31}, \mathcal{C}_{d,15}, \mathcal{C}_{d,24}$)  
   #5084: ILE,LII,EIE,IEI,SEE,ESI,EII,IEE $\in \mathcal{C}_{d,14}, \mathcal{C}_{d,21}$        
   #5085: ILE,LII,EIE,IEI,SEE,ESI,EII,SLI $\in \mathcal{C}_{d,13}, \mathcal{C}_{d,22}$     
   #5086: ILE,LII,EIE,IEI,SEE,ESI,IEE,SLI         
@@ -12225,7 +12225,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4082: Extroverted / Introverted  
 #5266: Static / Dynamic  
 #4407: Positivist / Negativist  
-#5083: Asking / Declaring  
+#5083: Questim / Declatim  
 
 ###### $\mathcal{C}_{g,17-32}$
 
@@ -12241,7 +12241,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 #2229: Process / Result
 #4082: Extroverted / Introverted  
-#5083: Asking / Declaring  
+#5083: Questim / Declatim  
 #1166: +Y6 / -Y6  
 #1891: +Y3 / -Y3  
 #3490: +Y8 / -Y8  
@@ -12261,7 +12261,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 #2208: Irrational / Rational  
 #4407: Positivist / Negativist  
-#5083: Asking / Declaring  
+#5083: Questim / Declatim  
 #757: +A4 / -A4  
 #1764: +A8 / -A8    
 #3617: -A3 / -A3  
@@ -12280,7 +12280,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ###### $\mathcal{C}_{g,97-112}$
 
 #426: Democratic / Aristocratic  
-#5083: Asking / Declaring  
+#5083: Questim / Declatim  
 #5266: Static / Dynamic  
 #2356: +Γ3 / -Γ3  
 #2681: +Γ2 / -Γ2  
@@ -12385,7 +12385,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ###### $\mathcal{C}_{m,1-16}$
 
 #426: Democratic / Aristocratic  
-#5083: Asking / Declaring  
+#5083: Questim / Declatim  
 #5266: Static / Dynamic  
 #5098: Intuitive / Sensory  
 #5279: Logical / Ethical  
@@ -12395,7 +12395,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ###### $\mathcal{C}_{m,17-32}$
 
 #426: Democratic / Aristocratic  
-#5083: Asking / Declaring  
+#5083: Questim / Declatim  
 #5266: Static / Dynamic  
 #107: SEI+LII HEF / ILI+ESI HEF  
 #198: ILE+ESE HEF / SEE+LIE HEF  
@@ -12406,7 +12406,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ###### $\mathcal{C}_{c,1-16}$
 
 #426: Democratic / Aristocratic  
-#5083: Asking / Declaring  
+#5083: Questim / Declatim  
 #5266: Static / Dynamic  
 #4430: Tactical / Strategic  
 #4111: Constructivist / Emotivist  
@@ -12416,7 +12416,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ###### $\mathcal{C}_{c,17-32}$
 
 #426: Democratic / Aristocratic  
-#5083: Asking / Declaring  
+#5083: Questim / Declatim  
 #5266: Static / Dynamic  
 #3986: EIE+IEE HEF / SLE+LSE HEF  
 #4555: IEI+EII HEF / LSI+SLI HEF  
@@ -12428,7 +12428,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
-#5083: Asking / Declaring  
+#5083: Questim / Declatim  
 #1033: ILE+IEE HEF / SLE+SEE HEF  
 #1612: SEI+SLI HEF / IEI+ILI HEF  
 #3024: ESE+EIE HEF / LIE+LSE HEF  
@@ -12438,7 +12438,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
-#5083: Asking / Declaring  
+#5083: Questim / Declatim  
 #45: 1stAlpha / 1stGamma  
 #3003: 1stDelta / 1stBeta  
 #4361: 2ndExternal / 2ndInternal  
@@ -12449,7 +12449,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
-#5083: Asking / Declaring  
+#5083: Questim / Declatim  
 #3721: LII+EII HEF / LSI+ESI HEF  
 #5807: EIE+LIE HEF / ESE+LSE HEF  
 #1632: ILE+SLE HEF / SEE+IEE HEF  
@@ -12459,7 +12459,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
-#5083: Asking / Declaring  
+#5083: Questim / Declatim  
 #308: 2ndAlpha / 2ndGamma  
 #2093: 2ndBeta / 2ndDelta
 #4180: 1stInternal / 1stExternal  
@@ -12522,7 +12522,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 |     |                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                                   |
 | :-: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |     |                    <span class="cell-vector"> $O$<br><br>Orientation Dichotomy<br><span style="text-align:left; display:block;"><br>1. Valid / Null<br>2. Extroverted / Introverted<br>3. Democratic / Aristocratic<br>4. Positivist / Negativist<br></span>                    | <span class="cell-aristocratic"> $DA$<br><br>Dem Activation Dichotomy<br><span style="text-align:left; display:block;"><br>1. SEI+LII HEF / ILI+ESI HEF<br>2. EIE+IEE HEF HEF / SLE+LSE HEF<br>3. ILE+ESE HEF / SEE+LIE HEF<br>4. IEI+EII HEF / LSI+SLI HEF<br></span><br></span> |
-|     | <span class="cell-democratic"> $DQ$<br><br>Dem Quasi Identity Dichotomy<br><span style="text-align:left; display:block;"><br>1. ILE+LIE HEF / ESE+SEE HEF<br>2. EII+SLI HEF / LSI+IEI HEF<br>3. SEI+ESI HEF / LII+ILI HEF<br>4. EIE+SLE HEF / LSE+IEE HEF<br></span><br></span> |                       <span class="cell-converse"> $P$<br><br>Pivotal Dichotomy<br><span style="text-align:left; display:block;"><br>1. Irrational / Rational<br>2. Static / Dynamic<br>3. Process / Result<br>4. Asking / Declaring<br></span><br></span>                        |
+|     | <span class="cell-democratic"> $DQ$<br><br>Dem Quasi Identity Dichotomy<br><span style="text-align:left; display:block;"><br>1. ILE+LIE HEF / ESE+SEE HEF<br>2. EII+SLI HEF / LSI+IEI HEF<br>3. SEI+ESI HEF / LII+ILI HEF<br>4. EIE+SLE HEF / LSE+IEE HEF<br></span><br></span> |                       <span class="cell-converse"> $P$<br><br>Pivotal Dichotomy<br><span style="text-align:left; display:block;"><br>1. Irrational / Rational<br>2. Static / Dynamic<br>3. Process / Result<br>4. Questim / Declatim<br></span><br></span>                        |
 
 
 ---
@@ -12540,7 +12540,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 |     |                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                             |
 | :-: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |     |                        <span class="cell-vector"> $G$<br><br>General Dichotomy<br><span style="text-align:left; display:block;"><br>1. Valid / Null<br>2. Static / Dynamic<br>3. Irrational / Rational<br>4. Extroverted / Introverted<br></span>                        | <span class="cell-aristocratic"> $PL$<br><br>P Lookalikes Dichotomy<br><span style="text-align:left; display:block;"><br>1. SEI+IEI HEF / ILI+SLI HEF<br>2. ESI+EII HEF / LII+LSI HEF<br>3. ILE+SLE HEF / SEE+IEE HEF<br>4. ESE+EIE HEF / LIE+LSE HEF<br></span><br></span> |
-|     | <span class="cell-democratic"> $PK$<br><br>P Kindreds Dichotomy<br><span style="text-align:left; display:block;"><br>1. ILE+IEE HEF / SLE+SEE HEF<br>2. EIE+LIE HEF / ESE+LSE HEF<br>3. SEI+SLI HEF / IEI+LII HEF<br>4. LII+EII HEF / LSI+ESI HEF <br></span><br></span> |             <span class="cell-converse"> $U$<br><br>Supralocal Dichotomy<br><span style="text-align:left; display:block;"><br>1. Democratic / Aristocratic<br>2. Asking / Declaring<br>3. Process / Result<br>4. Positivist / Negativist<br></span><br></span>              |
+|     | <span class="cell-democratic"> $PK$<br><br>P Kindreds Dichotomy<br><span style="text-align:left; display:block;"><br>1. ILE+IEE HEF / SLE+SEE HEF<br>2. EIE+LIE HEF / ESE+LSE HEF<br>3. SEI+SLI HEF / IEI+LII HEF<br>4. LII+EII HEF / LSI+ESI HEF <br></span><br></span> |             <span class="cell-converse"> $U$<br><br>Supralocal Dichotomy<br><span style="text-align:left; display:block;"><br>1. Democratic / Aristocratic<br>2. Questim / Declatim<br>3. Process / Result<br>4. Positivist / Negativist<br></span><br></span>              |
 
 ---
 
@@ -12556,7 +12556,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 |     |                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                             |
 | :-: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     |                          <span class="cell-vector"> $V$<br><br>Vector Dichotomy<br><span style="text-align:left; display:block;"><br>1. Valid / Null<br>2. Static / Dynamic<br>3. Democratic / Aristocratic<br>4. Asking / Declaring<br></span>                           | <span class="cell-aristocratic"> $DC$<br><br>Dem Conflict Dichotomy<br><span style="text-align:left; display:block;"><br>1. SEI+LIE HEF / ESE+ILI HEF<br>2. EII+IEE HEF / LSI+SLE HEF<br>3. ILE+ESI HEF / LII+SEE HEF<br>4. EIE+IEI HEF / LSE+SLI HEF<br></span><br></span> |
+|     |                          <span class="cell-vector"> $V$<br><br>Vector Dichotomy<br><span style="text-align:left; display:block;"><br>1. Valid / Null<br>2. Static / Dynamic<br>3. Democratic / Aristocratic<br>4. Questim / Declatim<br></span>                           | <span class="cell-aristocratic"> $DC$<br><br>Dem Conflict Dichotomy<br><span style="text-align:left; display:block;"><br>1. SEI+LIE HEF / ESE+ILI HEF<br>2. EII+IEE HEF / LSI+SLE HEF<br>3. ILE+ESI HEF / LII+SEE HEF<br>4. EIE+IEI HEF / LSE+SLI HEF<br></span><br></span> |
 |     | <span class="cell-democratic"> $DM$<br><br>Dem Mirrors Dichotomy<br><span style="text-align:left; display:block;"><br>1. ILE+LII HEF / SEE+ESI HEF <br>2. EIE+SLI HEF / IEI+LSE HEF<br>3. SEI+ESE HEF / ILI+LIE HEF<br>4. SLE+EII HEF / LSI+IEE HEF<br></span><br></span> |             <span class="cell-converse"> $C$<br><br>Converse Dichotomy<br><span style="text-align:left; display:block;"><br>1. Irrational / Rational<br>2. Extroverted / Introverted<br>3. Process / Result<br>4. Positivist / Negativist<br></span><br></span>             |
 
 ---
@@ -12574,7 +12574,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |     |                                                                                                                                                 <span class="cell-vector"> $O$<br><br>Orientation Dichotomy<br><span style="text-align:left; display:block;"><br>1. Valid / Null<br>2. Extroverted / Introverted<br>3. Democratic / Aristocratic<br>4. Positivist / Negativist<br></span>                                                                                                                                                 | <span class="cell-aristocratic"> $+Q$<br><br>+ Quadra Dichotomy<br><span style="text-align:left; display:block;"><br>1. Ascending Positivists + Ethical Negativists / Descending Positivists + Logical Negativists<br>2. Peripheral Positivists + Intuitive Negativists / Central Positivists + Sensing Negativists<br>3. Peripheral Positivists + Sensing Negativists / Central Positivists + Intuitive Negativists<br>4. Ascending Positivists + Logical Negativists / Descending Positivists + Ethical Negativists<br></span><br></span> |
-|     | <span class="cell-democratic"> $-Q$<br><br>- Quadra Dichotomy<br><span style="text-align:left; display:block;"><br>1. Peripheral Negativists + Intuitive Positivists / Central Negativists + Sensing Positivists<br>2. Descending Negativists + Logical Positivists / Ascending Negativists + Ethical Positivists<br>3. Ascending Negativists + Logical Positivists / Descending Negativists + Ethical Positivists<br>4. Central Negativists + Intuitive Positivists / Peripheral Negativists + Sensing Positivists<br></span><br></span> |                                                                                                                                                    <span class="cell-converse"> $P$<br><br>Pivotal Dichotomy<br><span style="text-align:left; display:block;"><br>1. Irrational / Rational<br>2. Static / Dynamic<br>3. Process / Result<br>4. Asking / Declaring<br></span><br></span>                                                                                                                                                     |
+|     | <span class="cell-democratic"> $-Q$<br><br>- Quadra Dichotomy<br><span style="text-align:left; display:block;"><br>1. Peripheral Negativists + Intuitive Positivists / Central Negativists + Sensing Positivists<br>2. Descending Negativists + Logical Positivists / Ascending Negativists + Ethical Positivists<br>3. Ascending Negativists + Logical Positivists / Descending Negativists + Ethical Positivists<br>4. Central Negativists + Intuitive Positivists / Peripheral Negativists + Sensing Positivists<br></span><br></span> |                                                                                                                                                    <span class="cell-converse"> $P$<br><br>Pivotal Dichotomy<br><span style="text-align:left; display:block;"><br>1. Irrational / Rational<br>2. Static / Dynamic<br>3. Process / Result<br>4. Questim / Declatim<br></span><br></span>                                                                                                                                                     |
 
 ---
 
@@ -12590,7 +12590,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     |                                                                                                                                                        <span class="cell-vector"> $\Delta$<br><br>Displacement Dichotomy<br><span style="text-align:left; display:block;"><br>1. Valid / Null<br>2. Asking / Declaring<br>3. Irrational / Rational<br>4. Positivist / Negativist<br></span>                                                                                                                                                        | <span class="cell-aristocratic"> $IS$<br><br>$IS \in \mathfrak{d}_0$ Exception Dichotomy<br><span style="text-align:left; display:block;"><br>1. Logical Extroverts + Peripheral Introverts / Ethical Extroverts + Central Introverts<br>2. Peripheral Extroverts + Logical Introverts / Central Extroverts + Ethical Introverts<br>3. Ascending Extroverts + Sensing Introverts / Descending Extroverts + Intuitive Introverts<br>4. Intuitive Extroverts + Descending Introverts / Sensing Extroverts + Ascending Introverts<br></span><br></span> |
+|     |                                                                                                                                                        <span class="cell-vector"> $\Delta$<br><br>Displacement Dichotomy<br><span style="text-align:left; display:block;"><br>1. Valid / Null<br>2. Questim / Declatim<br>3. Irrational / Rational<br>4. Positivist / Negativist<br></span>                                                                                                                                                        | <span class="cell-aristocratic"> $IS$<br><br>$IS \in \mathfrak{d}_0$ Exception Dichotomy<br><span style="text-align:left; display:block;"><br>1. Logical Extroverts + Peripheral Introverts / Ethical Extroverts + Central Introverts<br>2. Peripheral Extroverts + Logical Introverts / Central Extroverts + Ethical Introverts<br>3. Ascending Extroverts + Sensing Introverts / Descending Extroverts + Intuitive Introverts<br>4. Intuitive Extroverts + Descending Introverts / Sensing Extroverts + Ascending Introverts<br></span><br></span> |
 |     | <span class="cell-democratic"> $IF$<br><br>$IF \in \mathfrak{d}_0$ Exception Dichotomy<br><span style="text-align:left; display:block;"><br>1. Intuitive Extroverts + Ascending Introverts / Sensing Extroverts + Descending Introverts<br>2. Ascending Extroverts + Intuitive Introverts / Descending Extroverts + Sensing Introverts<br>3. Peripheral Extroverts + Ethical Introverts / Central Extroverts + Logical Introverts<br>4. Logical Extroverts + Central Introverts / Ethical Extroverts + Peripheral Introverts<br></span><br></span> |                                                                                                                                                <span class="cell-converse"> $E$<br><br>Extrapolative Dichotomy<br><span style="text-align:left; display:block;"><br>1. Democratic / Aristocratic<br>2. Static / Dynamic<br>3. Process / Result<br>4. Extroverted / Introverted<br></span><br></span>                                                                                                                                                 |
 
 
@@ -12609,7 +12609,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 |     |                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                             |
 | :-: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     |                  <span class="cell-vector"> $\Delta$<br><br>Displacement Dichotomy<br><span style="text-align:left; display:block;"><br>1. Valid / Null<br>2. Asking / Declaring<br>3. Irrational / Rational<br>4. Positivist / Negativist<br></span>                   | <span class="cell-aristocratic"> $PH$<br><br>P Half-duals Dichotomy<br><span style="text-align:left; display:block;"><br>1. SEI+IEE HEF / SLE+ILI HEF<br>2. EIE+ESI HEF / LII+LSE HEF<br>3. ILE+SLI HEF / IEI+SEE HEF<br>4. ESE+EII HEF / LSI+LIE HEF<br></span><br></span> |
+|     |                  <span class="cell-vector"> $\Delta$<br><br>Displacement Dichotomy<br><span style="text-align:left; display:block;"><br>1. Valid / Null<br>2. Questim / Declatim<br>3. Irrational / Rational<br>4. Positivist / Negativist<br></span>                   | <span class="cell-aristocratic"> $PH$<br><br>P Half-duals Dichotomy<br><span style="text-align:left; display:block;"><br>1. SEI+IEE HEF / SLE+ILI HEF<br>2. EIE+ESI HEF / LII+LSE HEF<br>3. ILE+SLI HEF / IEI+SEE HEF<br>4. ESE+EII HEF / LSI+LIE HEF<br></span><br></span> |
 |     | <span class="cell-democratic"> $PI$<br><br>P Illusory Dichotomy<br><span style="text-align:left; display:block;"><br>1. ILE+IEI HEF / SEE+SLI HEF<br>2. LIE+EII HEF / ESE+LSI HEF<br>3. SEI+SLE HEF / ILI+IEE HEF<br>4. LII+EIE HEF / ESE+LSE HEF<br></span><br></span> |            <span class="cell-converse"> $E$<br><br>Extrapolative Dichotomy<br><span style="text-align:left; display:block;"><br>1. Democratic / Aristocratic<br>2. Static / Dynamic<br>3. Process / Result<br>4. Extroverted / Introverted<br></span><br></span>            |
 
 ---
@@ -12626,7 +12626,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 |                                                |                                                                                                              Positions Democratic Information                                                                                                              |                                                                                                           Does Not Position Democratic Information                                                                                                           |
 | :--------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     **Positions Aristocratic Information**     |                   <span class="cell-vector"> $V$<br><br>Vector Dichotomy<br><span style="text-align:left; display:block;"><br>1. Valid / Null<br>2. Static / Dynamic<br>3. Democratic / Aristocratic<br>4. Asking / Declaring<br></span>                   | <span class="cell-aristocratic"> $A$<br><br>Aristocratic Dichotomy<br><span style="text-align:left; display:block;"><br>1. 1stInternal / 1stExternal<br>2. 1stDelta / 1stBeta<br>3. 2ndExternal / 2ndInternal<br>4. 2ndBeta / 2ndDelta<br></span><br></span> |
+|     **Positions Aristocratic Information**     |                   <span class="cell-vector"> $V$<br><br>Vector Dichotomy<br><span style="text-align:left; display:block;"><br>1. Valid / Null<br>2. Static / Dynamic<br>3. Democratic / Aristocratic<br>4. Questim / Declatim<br></span>                   | <span class="cell-aristocratic"> $A$<br><br>Aristocratic Dichotomy<br><span style="text-align:left; display:block;"><br>1. 1stInternal / 1stExternal<br>2. 1stDelta / 1stBeta<br>3. 2ndExternal / 2ndInternal<br>4. 2ndBeta / 2ndDelta<br></span><br></span> |
 | **Does Not Position Aristocratic Information** | <span class="cell-democratic"> $D$<br><br>Democratic Dichotomy<br><span style="text-align:left; display:block;"><br>1. 1stAbstract / 1stInvolved<br>2. 1stAlpha / 1stGamma<br>3. 2ndAbstract / 2ndInvolved<br>4. 2ndAlpha / 2ndGamma<br></span><br></span> |     <span class="cell-converse"> $C$<br><br>Converse Dichotomy<br><span style="text-align:left; display:block;"><br>1. Irrational / Rational<br>2. Extroverted / Introverted<br>3. Process / Result<br>4. Positivist / Negativist<br></span><br></span>      |
 
 ###### Sets
@@ -12858,7 +12858,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $V_{3,1}^T = \{ \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$  
 > $V_{3,1}^{\mathcal{E}} = \{ \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$  
 > 
-> #### Asking / Declaring ($V_{4}$)
+> #### Questim / Declatim ($V_{4}$)
 > 
 > $V_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{SLI} \}$  
 > $V_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{?Si^+} \}$  
@@ -12999,7 +12999,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 **#19:** $V_{3} \cap D_{2} \cap D_{4}$  
 **#20:** $V_{3} \cap A_{2} \cap A_{4}$  
 
-###### Asking/Declaring Class $V_{4}$
+###### Questim/Declatim Class $V_{4}$
 
 **#1:** $V_{4} \cap D_{1} \cap D_{4}$  
 **#2:** $V_{4} \cap A_{1} \cap A_{4}$  
@@ -13077,7 +13077,7 @@ Activator $\longleftrightarrow$ Semi Dual
 ##### Dichotomies: Reinin $\longleftrightarrow$ TM
 ###### Orbital/Ordinal:
 
-Extroverted/Introverted $\longleftrightarrow$ Asking/Declaring  
+Extroverted/Introverted $\longleftrightarrow$ Questim/Declatim  
 Irrational/Rational $\longleftrightarrow$ Democratic/Aristocratic  
 Static/Dynamic $\longleftrightarrow$ Static/Dynamic  
 Positivist/Negativist $\longleftrightarrow$ Positivist/Negativist  
@@ -13115,11 +13115,11 @@ The numeric codes assigned to dichotomies other than maybe the X space are arbit
 ##### The “waffle” spaces (X-Δ) identified by the small group shared with the ILE:
 
 X Space — Irrational-Democratic-Process  
-Y Space — Extroverted-Asking-Process  
+Y Space — Extroverted-Questim-Process  
 Z Space — Static-Process-Positivist  
-A Space — Irrational-Asking-Positivist  
+A Space — Irrational-Questim-Positivist  
 B Space — Extroverted-Irrational-Static  
-Γ Space — Static-Democratic-Asking  
+Γ Space — Static-Democratic-Questim  
 Δ Space — Extroverted-Democratic-Positivist  
 
 ##### The “waffle” spaces (फ-ज) identified by the superego partition:
@@ -17063,42 +17063,42 @@ Total XNOR mappings written: 112
 	      </tr>
 		 <tr>
 			  <td>?(N)e "Wit"</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Constructivist</td><td>Merry</td><td>Process</td><td>Asking</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Constructivist</td><td>Merry</td><td>Process</td><td>Questim</td>
 		      <td>ILE</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N)i "Sagacity"</td>
-		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Constructivist</td><td>Serious</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Constructivist</td><td>Serious</td><td>Process</td><td>Declatim</td>
 		      <td>ILI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S)e "Presence"</td>
-		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Constructivist</td><td>Merry</td><td>Result</td><td>Declaring</td>
+		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Constructivist</td><td>Merry</td><td>Result</td><td>Declatim</td>
 		      <td>ESE</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S)i "Resilience"</td>
-		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Constructivist</td><td>Serious</td><td>Result</td><td>Asking</td>
+		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Constructivist</td><td>Serious</td><td>Result</td><td>Questim</td>
 		      <td>ESI</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S)e "Efficacy"</td>
-		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Emotivist</td><td>Serious</td><td>Process</td><td>Asking</td>
+		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Emotivist</td><td>Serious</td><td>Process</td><td>Questim</td>
 		      <td>SEE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S)i "Composure"</td>
-		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Emotivist</td><td>Merry</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Emotivist</td><td>Merry</td><td>Process</td><td>Declatim</td>
 		      <td>SEI</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N)e "Ingenuity"</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Emotivist</td><td>Serious</td><td>Result</td><td>Declaring</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Emotivist</td><td>Serious</td><td>Result</td><td>Declatim</td>
 		      <td>LIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(N)i "Erudition"</td>
-		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Emotivist</td><td>Merry</td><td>Result</td><td>Asking</td>
+		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Emotivist</td><td>Merry</td><td>Result</td><td>Questim</td>
 		      <td>LII</td><td>IEI</td>
 	    </tr>
 	    <tr>
@@ -17161,42 +17161,42 @@ Total XNOR mappings written: 112
 	      </tr>
 		 <tr>
 			  <td>?(T)e "Competence"</td>
-		      <td>Extroverted</td><td>Logical</td><td>Yielding</td><td>Tactical</td><td>Judicious</td><td>Process</td><td>Asking</td>
+		      <td>Extroverted</td><td>Logical</td><td>Yielding</td><td>Tactical</td><td>Judicious</td><td>Process</td><td>Questim</td>
 		      <td>ILE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(T)i "Propensity"</td>
-		      <td>Introverted</td><td>Logical</td><td>Obstinate</td><td>Tactical</td><td>Decisive</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Logical</td><td>Obstinate</td><td>Tactical</td><td>Decisive</td><td>Process</td><td>Declatim</td>
 		      <td>LSI</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(F)e "Vivacity"</td>
-		      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td><td>Tactical</td><td>Judicious</td><td>Result</td><td>Declaring</td>
+		      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td><td>Tactical</td><td>Judicious</td><td>Result</td><td>Declatim</td>
 		      <td>ESE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(F)i "Predilection"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Tactical</td><td>Decisive</td><td>Result</td><td>Asking</td>
+		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Tactical</td><td>Decisive</td><td>Result</td><td>Questim</td>
 		      <td>IEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(F)e "Ardour"</td>
-		      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td><td>Strategic</td><td>Decisive</td><td>Process</td><td>Asking</td>
+		      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td><td>Strategic</td><td>Decisive</td><td>Process</td><td>Questim</td>
 		      <td>EIE</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(F)i "Sensibility"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Strategic</td><td>Judicious</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Strategic</td><td>Judicious</td><td>Process</td><td>Declatim</td>
 		      <td>SEI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(T)e "Enterprise"</td>
-		      <td>Extroverted</td><td>Logical</td><td>Yielding</td><td>Strategic</td><td>Decisive</td><td>Result</td><td>Declaring</td>
+		      <td>Extroverted</td><td>Logical</td><td>Yielding</td><td>Strategic</td><td>Decisive</td><td>Result</td><td>Declatim</td>
 		      <td>SLE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(T)i "Acuity"</td>
-		      <td>Introverted</td><td>Logical</td><td>Obstinate</td><td>Strategic</td><td>Judicious</td><td>Result</td><td>Asking</td>
+		      <td>Introverted</td><td>Logical</td><td>Obstinate</td><td>Strategic</td><td>Judicious</td><td>Result</td><td>Questim</td>
 		      <td>LII</td><td>SLI</td>
 	    </tr>
 	    <tr>
@@ -17210,42 +17210,42 @@ Total XNOR mappings written: 112
 	      </tr>
 		 <tr>
 			  <td>Pe+ "Generation"</td>
-		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Democratic</td><td>Positivist</td><td>Process</td><td>Asking</td>
+		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Democratic</td><td>Positivist</td><td>Process</td><td>Questim</td>
 		      <td>ILE</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pi- "Distillation"</td>
-		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Democratic</td><td>Negativist</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Democratic</td><td>Negativist</td><td>Process</td><td>Declatim</td>
 		      <td>SEI</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je+ "Discrimination" (De)</td>
-		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Democratic</td><td>Positivist</td><td>Result</td><td>Declaring</td>
+		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Democratic</td><td>Positivist</td><td>Result</td><td>Declatim</td>
 		      <td>ESE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji- "Collation" (Qi)</td>
-		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Democratic</td><td>Negativist</td><td>Result</td><td>Asking</td>
+		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Democratic</td><td>Negativist</td><td>Result</td><td>Questim</td>
 		      <td>LII</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je- "Elaboration" (Qe)</td>
-		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Aristocratic</td><td>Negativist</td><td>Process</td><td>Asking</td>
+		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Aristocratic</td><td>Negativist</td><td>Process</td><td>Questim</td>
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji+ "Consolidation" (Di)</td>
-		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Aristocratic</td><td>Positivist</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Aristocratic</td><td>Positivist</td><td>Process</td><td>Declatim</td>
 		      <td>LSI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pe- "Intervention"</td>
-		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Aristocratic</td><td>Negativist</td><td>Result</td><td>Declaring</td>
+		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Aristocratic</td><td>Negativist</td><td>Result</td><td>Declatim</td>
 		      <td>SLE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pi+ "Accession"</td>
-		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Aristocratic</td><td>Positivist</td><td>Result</td><td>Asking</td>
+		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Aristocratic</td><td>Positivist</td><td>Result</td><td>Questim</td>
 		      <td>IEI</td><td>SLI</td>
 	    </tr>
 	    <tr>
@@ -17357,42 +17357,42 @@ Total XNOR mappings written: 112
 	      </tr>
 		 <tr>
 			  <td>?(NT) "Interpretation"</td>
-		      <td>Intuitive</td><td>Logical</td><td>Static</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Asking</td>
+		      <td>Intuitive</td><td>Logical</td><td>Static</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Questim</td>
 		      <td>ILE</td><td>LII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(ST) "Performance"</td>
-		      <td>Sensory</td><td>Logical</td><td>Static</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Declaring</td>
+		      <td>Sensory</td><td>Logical</td><td>Static</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Declatim</td>
 		      <td>LSI</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(NF) "Ethos"</td>
-		      <td>Intuitive</td><td>Ethical</td><td>Static</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Declaring</td>
+		      <td>Intuitive</td><td>Ethical</td><td>Static</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Declatim</td>
 		      <td>EII</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(SF) "Volition"</td>
-		      <td>Sensory</td><td>Ethical</td><td>Static</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Asking</td>
+		      <td>Sensory</td><td>Ethical</td><td>Static</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Questim</td>
 		      <td>SEE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(NF) "Aspiration"</td>
-		      <td>Intuitive</td><td>Ethical</td><td>Dynamic</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Asking</td>
+		      <td>Intuitive</td><td>Ethical</td><td>Dynamic</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Questim</td>
 		      <td>EIE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(SF) "Aesthesis"</td>
-		      <td>Sensory</td><td>Ethical</td><td>Dynamic</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Declaring</td>
+		      <td>Sensory</td><td>Ethical</td><td>Dynamic</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Declatim</td>
 		      <td>SEI</td><td>ESE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(NT) "Strategy"</td>
-		      <td>Intuitive</td><td>Logical</td><td>Dynamic</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Declaring</td>
+		      <td>Intuitive</td><td>Logical</td><td>Dynamic</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Declatim</td>
 		      <td>ILI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(ST) "Utility"</td>
-		      <td>Sensory</td><td>Logical</td><td>Dynamic</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Asking</td>
+		      <td>Sensory</td><td>Logical</td><td>Dynamic</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Questim</td>
 		      <td>LSE</td><td>SLI</td>
 	    </tr>
 	    <tr>
@@ -17406,42 +17406,42 @@ Total XNOR mappings written: 112
 	      </tr>
 		 <tr>
 			  <td>N+ "Semiosis"</td>
-		      <td>Intuitive</td><td>Irrational</td><td>Yielding</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Asking</td>
+		      <td>Intuitive</td><td>Irrational</td><td>Yielding</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Questim</td>
 		      <td>ILE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>S- "Proprioception"</td>
-		      <td>Sensory</td><td>Irrational</td><td>Yielding</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Declaring</td>
+		      <td>Sensory</td><td>Irrational</td><td>Yielding</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Declatim</td>
 		      <td>SEI</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(N.)+ "Prudence"</td>
-		      <td>Intuitive</td><td>Rational</td><td>Yielding</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Declaring</td>
+		      <td>Intuitive</td><td>Rational</td><td>Yielding</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Declatim</td>
 		      <td>LIE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(S.)- "Customisation"</td>
-		      <td>Sensory</td><td>Rational</td><td>Yielding</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Asking</td>
+		      <td>Sensory</td><td>Rational</td><td>Yielding</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Questim</td>
 		      <td>ESI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(N.)- "Elocution"</td>
-		      <td>Intuitive</td><td>Rational</td><td>Obstinate</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Asking</td>
+		      <td>Intuitive</td><td>Rational</td><td>Obstinate</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Questim</td>
 		      <td>LII</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(S.)+ "Presentation"</td>
-		      <td>Sensory</td><td>Rational</td><td>Obstinate</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Declaring</td>
+		      <td>Sensory</td><td>Rational</td><td>Obstinate</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Declatim</td>
 		      <td>ESE</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>N- "Prognosis"</td>
-		      <td>Intuitive</td><td>Irrational</td><td>Obstinate</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Declaring</td>
+		      <td>Intuitive</td><td>Irrational</td><td>Obstinate</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Declatim</td>
 		      <td>ILI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>S+ "Kinesthesis"</td>
-		      <td>Sensory</td><td>Irrational</td><td>Obstinate</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Asking</td>
+		      <td>Sensory</td><td>Irrational</td><td>Obstinate</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Questim</td>
 		      <td>SEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
@@ -17504,42 +17504,42 @@ Total XNOR mappings written: 112
 	      </tr>
 		 <tr>
 			  <td>P(T.)+ "Association"</td>
-		      <td>Logical</td><td>Irrational</td><td>Carefree</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Asking</td>
+		      <td>Logical</td><td>Irrational</td><td>Carefree</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Questim</td>
 		      <td>ILE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(F.)- "Elicitation"</td>
-		      <td>Ethical</td><td>Irrational</td><td>Carefree</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Declaring</td>
+		      <td>Ethical</td><td>Irrational</td><td>Carefree</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Declatim</td>
 		      <td>SEI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>T+ "Formulation"</td>
-		      <td>Logical</td><td>Rational</td><td>Carefree</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Declaring</td>
+		      <td>Logical</td><td>Rational</td><td>Carefree</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Declatim</td>
 		      <td>LSI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>F- "Preference"</td>
-		      <td>Ethical</td><td>Rational</td><td>Carefree</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Asking</td>
+		      <td>Ethical</td><td>Rational</td><td>Carefree</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Questim</td>
 		      <td>EIE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>T- "Schematisation"</td>
-		      <td>Logical</td><td>Rational</td><td>Farsighted</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Asking</td>
+		      <td>Logical</td><td>Rational</td><td>Farsighted</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Questim</td>
 		      <td>LII</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>F+ "Esteem"</td>
-		      <td>Ethical</td><td>Rational</td><td>Farsighted</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Declaring</td>
+		      <td>Ethical</td><td>Rational</td><td>Farsighted</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Declatim</td>
 		      <td>ESE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(T.)- "Instantiation"</td>
-		      <td>Logical</td><td>Irrational</td><td>Farsighted</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Declaring</td>
+		      <td>Logical</td><td>Irrational</td><td>Farsighted</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Declatim</td>
 		      <td>SLE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(F.)+ "Ambition"</td>
-		      <td>Ethical</td><td>Irrational</td><td>Farsighted</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Asking</td>
+		      <td>Ethical</td><td>Irrational</td><td>Farsighted</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Questim</td>
 		      <td>IEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
@@ -17651,42 +17651,42 @@ Total XNOR mappings written: 112
 	      </tr>
 		 <tr>
 			  <td>?(N|F) "Ramification"</td>
-		      <td>Carefree</td><td>Yielding</td><td>Static</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Asking</td>
+		      <td>Carefree</td><td>Yielding</td><td>Static</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Questim</td>
 		      <td>ILE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S|F) "Typification"</td>
-		      <td>Farsighted</td><td>Yielding</td><td>Static</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Declaring</td>
+		      <td>Farsighted</td><td>Yielding</td><td>Static</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Declatim</td>
 		      <td>SLE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N|T) "Iteration"</td>
-		      <td>Carefree</td><td>Obstinate</td><td>Static</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Declaring</td>
+		      <td>Carefree</td><td>Obstinate</td><td>Static</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Declatim</td>
 		      <td>LSI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S|T) "Extrapolation"</td>
-		      <td>Farsighted</td><td>Obstinate</td><td>Static</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Asking</td>
+		      <td>Farsighted</td><td>Obstinate</td><td>Static</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Questim</td>
 		      <td>LII</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S|F) "Characterisation"</td>
-		      <td>Carefree</td><td>Obstinate</td><td>Dynamic</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Asking</td>
+		      <td>Carefree</td><td>Obstinate</td><td>Dynamic</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Questim</td>
 		      <td>EIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N|F) "Gist"</td>
-		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Declaring</td>
+		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Declatim</td>
 		      <td>ESE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S|T) "Exposition"</td>
-		      <td>Carefree</td><td>Yielding</td><td>Dynamic</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Declaring</td>
+		      <td>Carefree</td><td>Yielding</td><td>Dynamic</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Declatim</td>
 		      <td>SEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(N|T) "Permutation"</td>
-		      <td>Farsighted</td><td>Yielding</td><td>Dynamic</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Asking</td>
+		      <td>Farsighted</td><td>Yielding</td><td>Dynamic</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Questim</td>
 		      <td>IEI</td><td>LSE</td>
 	    </tr>
 	</tbody>
@@ -17730,42 +17730,42 @@ Total XNOR mappings written: 112
 	      </tr>
 		 <tr>
 			  <td>N+ "Genesis"</td>
-		      <td>Asking</td><td>1stAbstract</td><td>1stInternal</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>Positivist</td>
+		      <td>Questim</td><td>1stAbstract</td><td>1stInternal</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>Positivist</td>
 		      <td>ILE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>N- "Foreboding"</td>
-		      <td>Declaring</td><td>1stAbstract</td><td>1stInternal</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>Negativist</td>
+		      <td>Declatim</td><td>1stAbstract</td><td>1stInternal</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>Negativist</td>
 		      <td>ILI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>F- "Disaffection"</td>
-		      <td>Asking</td><td>1stInvolved</td><td>1stInternal</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>Negativist</td>
+		      <td>Questim</td><td>1stInvolved</td><td>1stInternal</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>Negativist</td>
 		      <td>EIE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>F+ "Grace"</td>
-		      <td>Declaring</td><td>1stInvolved</td><td>1stInternal</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>Positivist</td>
+		      <td>Declatim</td><td>1stInvolved</td><td>1stInternal</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>Positivist</td>
 		      <td>ESE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>S+ "Indulgence"</td>
-		      <td>Asking</td><td>1stInvolved</td><td>1stExternal</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>Positivist</td>
+		      <td>Questim</td><td>1stInvolved</td><td>1stExternal</td><td>2ndGamma</td><td>2ndDelta</td><td>Irrational</td><td>Positivist</td>
 		      <td>SEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>S- "Vigilance"</td>
-		      <td>Declaring</td><td>1stInvolved</td><td>1stExternal</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>Negativist</td>
+		      <td>Declatim</td><td>1stInvolved</td><td>1stExternal</td><td>2ndAlpha</td><td>2ndBeta</td><td>Irrational</td><td>Negativist</td>
 		      <td>SEI</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>T- "Reduction"</td>
-		      <td>Asking</td><td>1stAbstract</td><td>1stExternal</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>Negativist</td>
+		      <td>Questim</td><td>1stAbstract</td><td>1stExternal</td><td>2ndAlpha</td><td>2ndDelta</td><td>Rational</td><td>Negativist</td>
 		      <td>LII</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>T+ "Optimisation"</td>
-		      <td>Declaring</td><td>1stAbstract</td><td>1stExternal</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>Positivist</td>
+		      <td>Declatim</td><td>1stAbstract</td><td>1stExternal</td><td>2ndGamma</td><td>2ndBeta</td><td>Rational</td><td>Positivist</td>
 		      <td>LSI</td><td>LIE</td>
 	    </tr>
 	    <tr>
@@ -17779,42 +17779,42 @@ Total XNOR mappings written: 112
 	      </tr>
 		 <tr>
 			  <td>?(NT) "Formulation"</td>
-		      <td>Asking</td><td>1stAbstract</td><td>Democratic</td><td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td><td>1stAlpha</td>
+		      <td>Questim</td><td>1stAbstract</td><td>Democratic</td><td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td><td>1stAlpha</td>
 		      <td>ILE</td><td>LII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(NT) "Investment"</td>
-		      <td>Declaring</td><td>1stAbstract</td><td>Democratic</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>1stGamma</td>
+		      <td>Declatim</td><td>1stAbstract</td><td>Democratic</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>1stGamma</td>
 		      <td>ILI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(SF) "Antagonism"</td>
-		      <td>Asking</td><td>1stInvolved</td><td>Democratic</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stGamma</td>
+		      <td>Questim</td><td>1stInvolved</td><td>Democratic</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stGamma</td>
 		      <td>SEE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(SF) "Sensitivity"</td>
-		      <td>Declaring</td><td>1stInvolved</td><td>Democratic</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>1stAlpha</td>
+		      <td>Declatim</td><td>1stInvolved</td><td>Democratic</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>1stAlpha</td>
 		      <td>SEI</td><td>ESE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S|F) "Enactment"</td>
-		      <td>Asking</td><td>1stInvolved</td><td>Aristocratic</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>1stAlpha</td>
+		      <td>Questim</td><td>1stInvolved</td><td>Aristocratic</td><td>2ndGamma</td><td>Dynamic</td><td>2ndAbstract</td><td>1stAlpha</td>
 		      <td>EIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S|F) "Guardianship"</td>
-		      <td>Declaring</td><td>1stInvolved</td><td>Aristocratic</td><td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td><td>1stGamma</td>
+		      <td>Declatim</td><td>1stInvolved</td><td>Aristocratic</td><td>2ndAlpha</td><td>Static</td><td>2ndAbstract</td><td>1stGamma</td>
 		      <td>SLE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(N|T) "Discretion"</td>
-		      <td>Asking</td><td>1stAbstract</td><td>Aristocratic</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>1stGamma</td>
+		      <td>Questim</td><td>1stAbstract</td><td>Aristocratic</td><td>2ndAlpha</td><td>Dynamic</td><td>2ndInvolved</td><td>1stGamma</td>
 		      <td>IEI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N|T) "Revision"</td>
-		      <td>Declaring</td><td>1stAbstract</td><td>Aristocratic</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stAlpha</td>
+		      <td>Declatim</td><td>1stAbstract</td><td>Aristocratic</td><td>2ndGamma</td><td>Static</td><td>2ndInvolved</td><td>1stAlpha</td>
 		      <td>LSI</td><td>IEE</td>
 	    </tr>
 	    <tr>
@@ -17828,42 +17828,42 @@ Total XNOR mappings written: 112
 	      </tr>
 		 <tr>
 			  <td>?(T)e "Streamlining"</td>
-		      <td>Asking</td><td>1stAbstract</td><td>2ndAlpha</td><td>2ndExternal</td><td>1stDelta</td><td>Process</td><td>Extroverted</td>
+		      <td>Questim</td><td>1stAbstract</td><td>2ndAlpha</td><td>2ndExternal</td><td>1stDelta</td><td>Process</td><td>Extroverted</td>
 		      <td>ILE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(T)i "Precaution"</td>
-		      <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td><td>2ndExternal</td><td>1stBeta</td><td>Process</td><td>Introverted</td>
+		      <td>Declatim</td><td>1stAbstract</td><td>2ndGamma</td><td>2ndExternal</td><td>1stBeta</td><td>Process</td><td>Introverted</td>
 		      <td>LSI</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S)i "Groundedness"</td>
-		      <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td><td>2ndExternal</td><td>1stDelta</td><td>Result</td><td>Introverted</td>
+		      <td>Questim</td><td>1stInvolved</td><td>2ndGamma</td><td>2ndExternal</td><td>1stDelta</td><td>Result</td><td>Introverted</td>
 		      <td>ESI</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S)e "Imposition"</td>
-		      <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td><td>2ndExternal</td><td>1stBeta</td><td>Result</td><td>Extroverted</td>
+		      <td>Declatim</td><td>1stInvolved</td><td>2ndAlpha</td><td>2ndExternal</td><td>1stBeta</td><td>Result</td><td>Extroverted</td>
 		      <td>ESE</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(F)e "Innovation"</td>
-		      <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td><td>2ndInternal</td><td>1stBeta</td><td>Process</td><td>Extroverted</td>
+		      <td>Questim</td><td>1stInvolved</td><td>2ndGamma</td><td>2ndInternal</td><td>1stBeta</td><td>Process</td><td>Extroverted</td>
 		      <td>EIE</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(F)i "Mediation"</td>
-		      <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td><td>2ndInternal</td><td>1stDelta</td><td>Process</td><td>Introverted</td>
+		      <td>Declatim</td><td>1stInvolved</td><td>2ndAlpha</td><td>2ndInternal</td><td>1stDelta</td><td>Process</td><td>Introverted</td>
 		      <td>SEI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(N)i "Pattern"</td>
-		      <td>Asking</td><td>1stAbstract</td><td>2ndAlpha</td><td>2ndInternal</td><td>1stBeta</td><td>Result</td><td>Introverted</td>
+		      <td>Questim</td><td>1stAbstract</td><td>2ndAlpha</td><td>2ndInternal</td><td>1stBeta</td><td>Result</td><td>Introverted</td>
 		      <td>LII</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N)e "Entrepreneurship"</td>
-		      <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td><td>2ndInternal</td><td>1stDelta</td><td>Result</td><td>Extroverted</td>
+		      <td>Declatim</td><td>1stAbstract</td><td>2ndGamma</td><td>2ndInternal</td><td>1stDelta</td><td>Result</td><td>Extroverted</td>
 		      <td>LIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
@@ -17877,42 +17877,42 @@ Total XNOR mappings written: 112
 	      </tr>
 		 <tr>
 			  <td>?(N|F) "Disjunction"</td>
-		      <td>Asking</td><td>1stInternal</td><td>Democratic</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>1stDelta</td>
+		      <td>Questim</td><td>1stInternal</td><td>Democratic</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>1stDelta</td>
 		      <td>ILE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N|F) "Intimation"</td>
-		      <td>Declaring</td><td>1stInternal</td><td>Democratic</td><td>2ndDelta</td><td>Dynamic</td><td>2ndExternal</td><td>1stBeta</td>
+		      <td>Declatim</td><td>1stInternal</td><td>Democratic</td><td>2ndDelta</td><td>Dynamic</td><td>2ndExternal</td><td>1stBeta</td>
 		      <td>ESE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S|T) "Disassembly"</td>
-		      <td>Asking</td><td>1stExternal</td><td>Democratic</td><td>2ndDelta</td><td>Static</td><td>2ndInternal</td><td>1stBeta</td>
+		      <td>Questim</td><td>1stExternal</td><td>Democratic</td><td>2ndDelta</td><td>Static</td><td>2ndInternal</td><td>1stBeta</td>
 		      <td>LII</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S|T) "Economisation"</td>
-		      <td>Declaring</td><td>1stExternal</td><td>Democratic</td><td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td><td>1stDelta</td>
+		      <td>Declatim</td><td>1stExternal</td><td>Democratic</td><td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td><td>1stDelta</td>
 		      <td>SEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(ST) "Governance"</td>
-		      <td>Asking</td><td>1stExternal</td><td>Aristocratic</td><td>2ndDelta</td><td>Dynamic</td><td>2ndExternal</td><td>1stDelta</td>
+		      <td>Questim</td><td>1stExternal</td><td>Aristocratic</td><td>2ndDelta</td><td>Dynamic</td><td>2ndExternal</td><td>1stDelta</td>
 		      <td>LSE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(ST) "Preservation"</td>
-		      <td>Declaring</td><td>1stExternal</td><td>Aristocratic</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>1stBeta</td>
+		      <td>Declatim</td><td>1stExternal</td><td>Aristocratic</td><td>2ndBeta</td><td>Static</td><td>2ndExternal</td><td>1stBeta</td>
 		      <td>LSI</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(NF) "Romanticism"</td>
-		      <td>Asking</td><td>1stInternal</td><td>Aristocratic</td><td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td><td>1stBeta</td>
+		      <td>Questim</td><td>1stInternal</td><td>Aristocratic</td><td>2ndBeta</td><td>Dynamic</td><td>2ndInternal</td><td>1stBeta</td>
 		      <td>EIE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(NF) "Metanoia"</td>
-		      <td>Declaring</td><td>1stInternal</td><td>Aristocratic</td><td>2ndDelta</td><td>Static</td><td>2ndInternal</td><td>1stDelta</td>
+		      <td>Declatim</td><td>1stInternal</td><td>Aristocratic</td><td>2ndDelta</td><td>Static</td><td>2ndInternal</td><td>1stDelta</td>
 		      <td>EII</td><td>IEE</td>
 	    </tr>
 	    <tr>
@@ -17926,42 +17926,42 @@ Total XNOR mappings written: 112
 	      </tr>
 		 <tr>
 			  <td>?(N)e "Enaction"</td>
-		      <td>Asking</td><td>1stInternal</td><td>2ndBeta</td><td>2ndAbstract</td><td>1stAlpha</td><td>Process</td><td>Extroverted</td>
+		      <td>Questim</td><td>1stInternal</td><td>2ndBeta</td><td>2ndAbstract</td><td>1stAlpha</td><td>Process</td><td>Extroverted</td>
 		      <td>ILE</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N)i "Solicitude"</td>
-		      <td>Declaring</td><td>1stInternal</td><td>2ndDelta</td><td>2ndAbstract</td><td>1stGamma</td><td>Process</td><td>Introverted</td>
+		      <td>Declatim</td><td>1stInternal</td><td>2ndDelta</td><td>2ndAbstract</td><td>1stGamma</td><td>Process</td><td>Introverted</td>
 		      <td>ILI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(T)i "Tessellation"</td>
-		      <td>Asking</td><td>1stExternal</td><td>2ndDelta</td><td>2ndAbstract</td><td>1stAlpha</td><td>Result</td><td>Introverted</td>
+		      <td>Questim</td><td>1stExternal</td><td>2ndDelta</td><td>2ndAbstract</td><td>1stAlpha</td><td>Result</td><td>Introverted</td>
 		      <td>LII</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(T)e "Command"</td>
-		      <td>Declaring</td><td>1stExternal</td><td>2ndBeta</td><td>2ndAbstract</td><td>1stGamma</td><td>Result</td><td>Extroverted</td>
+		      <td>Declatim</td><td>1stExternal</td><td>2ndBeta</td><td>2ndAbstract</td><td>1stGamma</td><td>Result</td><td>Extroverted</td>
 		      <td>SLE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S)e "Autonomy"</td>
-		      <td>Asking</td><td>1stExternal</td><td>2ndDelta</td><td>2ndInvolved</td><td>1stGamma</td><td>Process</td><td>Extroverted</td>
+		      <td>Questim</td><td>1stExternal</td><td>2ndDelta</td><td>2ndInvolved</td><td>1stGamma</td><td>Process</td><td>Extroverted</td>
 		      <td>SEE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S)i "Composure"</td>
-		      <td>Declaring</td><td>1stExternal</td><td>2ndBeta</td><td>2ndInvolved</td><td>1stAlpha</td><td>Process</td><td>Introverted</td>
+		      <td>Declatim</td><td>1stExternal</td><td>2ndBeta</td><td>2ndInvolved</td><td>1stAlpha</td><td>Process</td><td>Introverted</td>
 		      <td>SEI</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(F)i "Reckoning"</td>
-		      <td>Asking</td><td>1stInternal</td><td>2ndBeta</td><td>2ndInvolved</td><td>1stGamma</td><td>Result</td><td>Introverted</td>
+		      <td>Questim</td><td>1stInternal</td><td>2ndBeta</td><td>2ndInvolved</td><td>1stGamma</td><td>Result</td><td>Introverted</td>
 		      <td>IEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(F)e "Reframing"</td>
-		      <td>Declaring</td><td>1stInternal</td><td>2ndDelta</td><td>2ndInvolved</td><td>1stAlpha</td><td>Result</td><td>Extroverted</td>
+		      <td>Declatim</td><td>1stInternal</td><td>2ndDelta</td><td>2ndInvolved</td><td>1stAlpha</td><td>Result</td><td>Extroverted</td>
 		      <td>ESE</td><td>IEE</td>
 	    </tr>
 	    <tr>
@@ -17975,42 +17975,42 @@ Total XNOR mappings written: 112
 	      </tr>
 		 <tr>
 			  <td>Pe+ "Nonconformism"</td>
-		      <td>Asking</td><td>Democratic</td><td>Static</td><td>Irrational</td><td>Positivist</td><td>Process</td><td>Extroverted</td>
+		      <td>Questim</td><td>Democratic</td><td>Static</td><td>Irrational</td><td>Positivist</td><td>Process</td><td>Extroverted</td>
 		      <td>ILE</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pi- "Inhibition"</td>
-		      <td>Declaring</td><td>Democratic</td><td>Dynamic</td><td>Irrational</td><td>Negativist</td><td>Process</td><td>Introverted</td>
+		      <td>Declatim</td><td>Democratic</td><td>Dynamic</td><td>Irrational</td><td>Negativist</td><td>Process</td><td>Introverted</td>
 		      <td>SEI</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pi+ "Attunement"</td>
-		      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td><td>Irrational</td><td>Positivist</td><td>Result</td><td>Introverted</td>
+		      <td>Questim</td><td>Aristocratic</td><td>Dynamic</td><td>Irrational</td><td>Positivist</td><td>Result</td><td>Introverted</td>
 		      <td>IEI</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pe- "Subversion"</td>
-		      <td>Declaring</td><td>Aristocratic</td><td>Static</td><td>Irrational</td><td>Negativist</td><td>Result</td><td>Extroverted</td>
+		      <td>Declatim</td><td>Aristocratic</td><td>Static</td><td>Irrational</td><td>Negativist</td><td>Result</td><td>Extroverted</td>
 		      <td>SLE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je- "Conservation" (Qe)</td>
-		      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td><td>Rational</td><td>Negativist</td><td>Process</td><td>Extroverted</td>
+		      <td>Questim</td><td>Aristocratic</td><td>Dynamic</td><td>Rational</td><td>Negativist</td><td>Process</td><td>Extroverted</td>
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji+ "Stewardship" (Di)</td>
-		      <td>Declaring</td><td>Aristocratic</td><td>Static</td><td>Rational</td><td>Positivist</td><td>Process</td><td>Introverted</td>
+		      <td>Declatim</td><td>Aristocratic</td><td>Static</td><td>Rational</td><td>Positivist</td><td>Process</td><td>Introverted</td>
 		      <td>LSI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji- "Discrimination" (Qi)</td>
-		      <td>Asking</td><td>Democratic</td><td>Static</td><td>Rational</td><td>Negativist</td><td>Result</td><td>Introverted</td>
+		      <td>Questim</td><td>Democratic</td><td>Static</td><td>Rational</td><td>Negativist</td><td>Result</td><td>Introverted</td>
 		      <td>LII</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je+ "Diplomacy" (De)</td>
-		      <td>Declaring</td><td>Democratic</td><td>Dynamic</td><td>Rational</td><td>Positivist</td><td>Result</td><td>Extroverted</td>
+		      <td>Declatim</td><td>Democratic</td><td>Dynamic</td><td>Rational</td><td>Positivist</td><td>Result</td><td>Extroverted</td>
 		      <td>ESE</td><td>LIE</td>
 	    </tr>
 	    <tr>
@@ -18024,42 +18024,42 @@ Total XNOR mappings written: 112
 	      </tr>
 		 <tr>
 			  <td>P(T.)+ "Vitalisation"</td>
-		      <td>Asking</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>1stDelta</td>
+		      <td>Questim</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>1stDelta</td>
 		      <td>ILE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(T.)- "Anchoring"</td>
-		      <td>Declaring</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stBeta</td>
+		      <td>Declatim</td><td>Irrational</td><td>2ndAbstract</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stBeta</td>
 		      <td>SLE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(N.)- "Reverberation"</td>
-		      <td>Asking</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>1stBeta</td>
+		      <td>Questim</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>1stBeta</td>
 		      <td>LII</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(N.)+ "Cultivation"</td>
-		      <td>Declaring</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>1stDelta</td>
+		      <td>Declatim</td><td>Rational</td><td>2ndAbstract</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>1stDelta</td>
 		      <td>LIE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(S.)- "Guardedness"</td>
-		      <td>Asking</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stDelta</td>
+		      <td>Questim</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Negativist</td><td>1stGamma</td><td>1stDelta</td>
 		      <td>ESI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(S.)+ "Framing"</td>
-		      <td>Declaring</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>1stBeta</td>
+		      <td>Declatim</td><td>Rational</td><td>2ndInvolved</td><td>2ndExternal</td><td>Positivist</td><td>1stAlpha</td><td>1stBeta</td>
 		      <td>ESE</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(F.)+ "Pioneering"</td>
-		      <td>Asking</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>1stBeta</td>
+		      <td>Questim</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Positivist</td><td>1stGamma</td><td>1stBeta</td>
 		      <td>IEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(F.)- "Avoidance"</td>
-		      <td>Declaring</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>1stDelta</td>
+		      <td>Declatim</td><td>Irrational</td><td>2ndInvolved</td><td>2ndInternal</td><td>Negativist</td><td>1stAlpha</td><td>1stDelta</td>
 		      <td>SEI</td><td>IEE</td>
 	    </tr>
 	    <tr>
@@ -18666,22 +18666,22 @@ Total XNOR mappings written: 112
       </tr>
 	 <tr>
 	 <td>Energy Generators (4d-Qe)</td>
-      <td>Extroverted</td><td>Process</td><td>Asking</td>
+      <td>Extroverted</td><td>Process</td><td>Questim</td>
       <td>ILE</td><td>EIE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Energy Carriers (4d-De)</td>
-      <td>Extroverted</td><td>Result</td><td>Declaring</td>
+      <td>Extroverted</td><td>Result</td><td>Declatim</td>
       <td>ESE</td><td>SLE</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Information Accumulators (4d-Di)</td>
-      <td>Introverted</td><td>Process</td><td>Declaring</td>
+      <td>Introverted</td><td>Process</td><td>Declatim</td>
       <td>SEI</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Information Generators (4d-Qi)</td>
-      <td>Introverted</td><td>Result</td><td>Asking</td>
+      <td>Introverted</td><td>Result</td><td>Questim</td>
       <td>LII</td><td>IEI</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
@@ -18840,22 +18840,22 @@ Total XNOR mappings written: 112
       </tr>
 	 <tr>
 	 <td>Inventor</td>
-      <td>Intuitive</td><td>Merry</td><td>Asking</td>
+      <td>Intuitive</td><td>Merry</td><td>Questim</td>
       <td>ILE</td><td>LII</td><td>EIE</td><td>IEI</td>
     </tr>
     <tr>
     <td>Negotiator</td>
-      <td>Intuitive</td><td>Serious</td><td>Declaring</td>
+      <td>Intuitive</td><td>Serious</td><td>Declatim</td>
       <td>ILI</td><td>LIE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Gatherer</td>
-      <td>Sensory</td><td>Merry</td><td>Declaring</td>
+      <td>Sensory</td><td>Merry</td><td>Declatim</td>
       <td>SEI</td><td>ESE</td><td>LSI</td><td>SLE</td>
     </tr>
     <tr>
      <td>Processor</td>
-      <td>Sensory</td><td>Serious</td><td>Asking</td>
+      <td>Sensory</td><td>Serious</td><td>Questim</td>
       <td>SEE</td><td>ESI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
@@ -18985,22 +18985,22 @@ Total XNOR mappings written: 112
       </tr>
 	 <tr>
 	 <td>Creation</td>
-      <td>Logical</td><td>Judicious</td><td>Asking</td>
+      <td>Logical</td><td>Judicious</td><td>Questim</td>
       <td>ILE</td><td>LII</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Competition</td>
-      <td>Logical</td><td>Decisive</td><td>Declaring</td>
+      <td>Logical</td><td>Decisive</td><td>Declatim</td>
       <td>LSI</td><td>SLE</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Support</td>
-      <td>Ethical</td><td>Judicious</td><td>Declaring</td>
+      <td>Ethical</td><td>Judicious</td><td>Declatim</td>
       <td>SEI</td><td>ESE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
      <td>Intrigue</td>
-      <td>Ethical</td><td>Decisive</td><td>Asking</td>
+      <td>Ethical</td><td>Decisive</td><td>Questim</td>
       <td>EIE</td><td>IEI</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
@@ -19101,22 +19101,22 @@ Total XNOR mappings written: 112
       </tr>
 	 <tr>
 	 <td>Iridescent Hopes (Q-creative)</td>
-      <td>Irrational</td><td>Positivist</td><td>Asking</td>
+      <td>Irrational</td><td>Positivist</td><td>Questim</td>
       <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Waiting (D-creative)</td>
-      <td>Irrational</td><td>Negativist</td><td>Declaring</td>
+      <td>Irrational</td><td>Negativist</td><td>Declatim</td>
       <td>SEI</td><td>SLE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
 	 <td>Realistic Plans (D-base)</td>
-      <td>Rational</td><td>Positivist</td><td>Declaring</td>
+      <td>Rational</td><td>Positivist</td><td>Declatim</td>
       <td>ESE</td><td>LSI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
      <td>Avoiding Failures (Q-base)</td>
-      <td>Rational</td><td>Negativist</td><td>Asking</td>
+      <td>Rational</td><td>Negativist</td><td>Questim</td>
       <td>LII</td><td>EIE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
@@ -19188,22 +19188,22 @@ Total XNOR mappings written: 112
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Carefree</td><td>Constructivist</td><td>Asking</td>
+      <td>Carefree</td><td>Constructivist</td><td>Questim</td>
       <td>ILE</td><td>EIE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
     <td></td>
-      <td>Carefree</td><td>Emotivist</td><td>Declaring</td>
+      <td>Carefree</td><td>Emotivist</td><td>Declatim</td>
       <td>SEI</td><td>LSI</td><td>LIE</td><td>ESI</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Farsighted</td><td>Constructivist</td><td>Declaring</td>
+      <td>Farsighted</td><td>Constructivist</td><td>Declatim</td>
       <td>ESE</td><td>SLE</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
-      <td>Farsighted</td><td>Emotivist</td><td>Asking</td>
+      <td>Farsighted</td><td>Emotivist</td><td>Questim</td>
       <td>LII</td><td>IEI</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
@@ -19275,22 +19275,22 @@ Total XNOR mappings written: 112
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Yielding</td><td>Tactical</td><td>Asking</td>
+      <td>Yielding</td><td>Tactical</td><td>Questim</td>
       <td>ILE</td><td>IEI</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
     <td></td>
-      <td>Yielding</td><td>Strategic</td><td>Declaring</td>
+      <td>Yielding</td><td>Strategic</td><td>Declatim</td>
       <td>SEI</td><td>SLE</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Obstinate</td><td>Tactical</td><td>Declaring</td>
+      <td>Obstinate</td><td>Tactical</td><td>Declatim</td>
       <td>ESE</td><td>LSI</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
      <td></td>
-      <td>Obstinate</td><td>Strategic</td><td>Asking</td>
+      <td>Obstinate</td><td>Strategic</td><td>Questim</td>
       <td>LII</td><td>EIE</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
@@ -19333,22 +19333,22 @@ Total XNOR mappings written: 112
       </tr>
 	 <tr>
 	 <td>Reorienters (Qi-ego)</td>
-      <td>Static</td><td>Democratic</td><td>Asking</td>
+      <td>Static</td><td>Democratic</td><td>Questim</td>
       <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
     <td>Foundationalists (Di-ego)</td>
-      <td>Static</td><td>Aristocratic</td><td>Declaring</td>
+      <td>Static</td><td>Aristocratic</td><td>Declatim</td>
       <td>LSI</td><td>SLE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
 	 <td>Sharpeners (De-ego)</td>
-      <td>Dynamic</td><td>Democratic</td><td>Declaring</td>
+      <td>Dynamic</td><td>Democratic</td><td>Declatim</td>
       <td>SEI</td><td>ESE</td><td>ILI</td><td>LIE</td>
     </tr>
     <tr>
      <td>Slackeners (Qe-ego)</td>
-      <td>Dynamic</td><td>Aristocratic</td><td>Asking</td>
+      <td>Dynamic</td><td>Aristocratic</td><td>Questim</td>
       <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
@@ -19537,22 +19537,22 @@ Total XNOR mappings written: 112
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Asking</td><td>1stAbstract</td><td>2ndAlpha</td>
+      <td>Questim</td><td>1stAbstract</td><td>2ndAlpha</td>
       <td>ILE</td><td>LII</td><td>IEI</td><td>LSE</td>
     </tr>
     <tr>
     <td></td>
-      <td>Asking</td><td>1stInvolved</td><td>2ndGamma</td>
+      <td>Questim</td><td>1stInvolved</td><td>2ndGamma</td>
       <td>EIE</td><td>SEE</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Declaring</td><td>1stAbstract</td><td>2ndGamma</td>
+      <td>Declatim</td><td>1stAbstract</td><td>2ndGamma</td>
       <td>LSI</td><td>ILI</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
      <td></td>
-      <td>Declaring</td><td>1stInvolved</td><td>2ndAlpha</td>
+      <td>Declatim</td><td>1stInvolved</td><td>2ndAlpha</td>
       <td>SEI</td><td>ESE</td><td>SLE</td><td>EII</td>
     </tr>
     <tr>
@@ -19566,22 +19566,22 @@ Total XNOR mappings written: 112
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Asking</td><td>1stInternal</td><td>2ndBeta</td>
+      <td>Questim</td><td>1stInternal</td><td>2ndBeta</td>
       <td>ILE</td><td>EIE</td><td>IEI</td><td>ESI</td>
     </tr>
     <tr>
     <td></td>
-      <td>Asking</td><td>1stExternal</td><td>2ndDelta</td>
+      <td>Questim</td><td>1stExternal</td><td>2ndDelta</td>
       <td>LII</td><td>SEE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Declaring</td><td>1stInternal</td><td>2ndDelta</td>
+      <td>Declatim</td><td>1stInternal</td><td>2ndDelta</td>
       <td>ESE</td><td>ILI</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
      <td></td>
-      <td>Declaring</td><td>1stExternal</td><td>2ndBeta</td>
+      <td>Declatim</td><td>1stExternal</td><td>2ndBeta</td>
       <td>SEI</td><td>LSI</td><td>SLE</td><td>LIE</td>
     </tr>
     <tr>
@@ -19595,22 +19595,22 @@ Total XNOR mappings written: 112
       </tr>
 	 <tr>
 	 <td>Reorienters (Qi-ego)</td>
-      <td>Asking</td><td>Democratic</td><td>Static</td>
+      <td>Questim</td><td>Democratic</td><td>Static</td>
       <td>ILE</td><td>LII</td><td>SEE</td><td>ESI</td>
     </tr>
     <tr>
     <td>Slackeners (Qe-ego)</td>
-      <td>Asking</td><td>Aristocratic</td><td>Dynamic</td>
+      <td>Questim</td><td>Aristocratic</td><td>Dynamic</td>
       <td>EIE</td><td>IEI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Sharpeners (De-ego)</td>
-      <td>Declaring</td><td>Democratic</td><td>Dynamic</td>
+      <td>Declatim</td><td>Democratic</td><td>Dynamic</td>
       <td>SEI</td><td>ESE</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
      <td>Foundationalists (Di-ego)</td>
-      <td>Declaring</td><td>Aristocratic</td><td>Static</td>
+      <td>Declatim</td><td>Aristocratic</td><td>Static</td>
       <td>LSI</td><td>SLE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
@@ -19624,22 +19624,22 @@ Total XNOR mappings written: 112
       </tr>
 	 <tr>
 	 <td>Iridescent Hopes (Q-creative)</td>
-      <td>Asking</td><td>Irrational</td><td>Positivist</td>
+      <td>Questim</td><td>Irrational</td><td>Positivist</td>
       <td>ILE</td><td>IEI</td><td>SEE</td><td>SLI</td>
     </tr>
     <tr>
     <td>Avoiding Failures (Q-base)</td>
-      <td>Asking</td><td>Rational</td><td>Negativist</td>
+      <td>Questim</td><td>Rational</td><td>Negativist</td>
       <td>LII</td><td>EIE</td><td>ESI</td><td>LIE</td>
     </tr>
     <tr>
 	 <td>Waiting (D-creative)</td>
-      <td>Declaring</td><td>Irrational</td><td>Negativist</td>
+      <td>Declatim</td><td>Irrational</td><td>Negativist</td>
       <td>SEI</td><td>SLE</td><td>ILI</td><td>IEE</td>
     </tr>
     <tr>
      <td>Realistic Plans (D-base)</td>
-      <td>Declaring</td><td>Rational</td><td>Positivist</td>
+      <td>Declatim</td><td>Rational</td><td>Positivist</td>
       <td>ESE</td><td>LSI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
@@ -19653,22 +19653,22 @@ Total XNOR mappings written: 112
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Asking</td><td>2ndAbstract</td><td>1stAlpha</td>
+      <td>Questim</td><td>2ndAbstract</td><td>1stAlpha</td>
       <td>ILE</td><td>LII</td><td>EIE</td><td>SLI</td>
     </tr>
     <tr>
     <td></td>
-      <td>Asking</td><td>2ndInvolved</td><td>1stGamma</td>
+      <td>Questim</td><td>2ndInvolved</td><td>1stGamma</td>
       <td>IEI</td><td>SEE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Declaring</td><td>2ndAbstract</td><td>1stGamma</td>
+      <td>Declatim</td><td>2ndAbstract</td><td>1stGamma</td>
       <td>SLE</td><td>ILI</td><td>LIE</td><td>EII</td>
     </tr>
     <tr>
      <td></td>
-      <td>Declaring</td><td>2ndInvolved</td><td>1stAlpha</td>
+      <td>Declatim</td><td>2ndInvolved</td><td>1stAlpha</td>
       <td>SEI</td><td>ESE</td><td>LSI</td><td>IEE</td>
     </tr>
     <tr>
@@ -19682,22 +19682,22 @@ Total XNOR mappings written: 112
       </tr>
 	 <tr>
 	 <td></td>
-      <td>Asking</td><td>2ndExternal</td><td>1stDelta</td>
+      <td>Questim</td><td>2ndExternal</td><td>1stDelta</td>
       <td>ILE</td><td>ESI</td><td>LSE</td><td>SLI</td>
     </tr>
     <tr>
     <td></td>
-      <td>Asking</td><td>2ndInternal</td><td>1stBeta</td>
+      <td>Questim</td><td>2ndInternal</td><td>1stBeta</td>
       <td>LII</td><td>EIE</td><td>IEI</td><td>SEE</td>
     </tr>
     <tr>
 	 <td></td>
-      <td>Declaring</td><td>2ndExternal</td><td>1stBeta</td>
+      <td>Declatim</td><td>2ndExternal</td><td>1stBeta</td>
       <td>ESE</td><td>LSI</td><td>SLE</td><td>ILI</td>
     </tr>
     <tr>
      <td></td>
-      <td>Declaring</td><td>2ndInternal</td><td>1stDelta</td>
+      <td>Declatim</td><td>2ndInternal</td><td>1stDelta</td>
       <td>SEI</td><td>LIE</td><td>EII</td><td>IEE</td>
     </tr>
     <tr>
@@ -19711,22 +19711,22 @@ Total XNOR mappings written: 112
       </tr>
 	 <tr>
 	 <td>Energy Generators (4d-Qe)</td>
-      <td>Asking</td><td>Process</td><td>Extroverted</td>
+      <td>Questim</td><td>Process</td><td>Extroverted</td>
       <td>ILE</td><td>EIE</td><td>SEE</td><td>LSE</td>
     </tr>
     <tr>
     <td>Information Generators (4d-Qi)</td>
-      <td>Asking</td><td>Result</td><td>Introverted</td>
+      <td>Questim</td><td>Result</td><td>Introverted</td>
       <td>LII</td><td>IEI</td><td>ESI</td><td>SLI</td>
     </tr>
     <tr>
 	 <td>Information Accumulators (4d-Di)</td>
-      <td>Declaring</td><td>Process</td><td>Introverted</td>
+      <td>Declatim</td><td>Process</td><td>Introverted</td>
       <td>SEI</td><td>LSI</td><td>ILI</td><td>EII</td>
     </tr>
     <tr>
      <td>Energy Carriers (4d-De)</td>
-      <td>Declaring</td><td>Result</td><td>Extroverted</td>
+      <td>Declatim</td><td>Result</td><td>Extroverted</td>
       <td>ESE</td><td>SLE</td><td>LIE</td><td>IEE</td>
     </tr>
     <tr>
@@ -20655,7 +20655,7 @@ $$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{T
 
 ###### Subgroups of order 8:
 
-$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ egxdbBsS & \text{Process/Result} & \checkmark & \mathbb{Z}_2 \times \mathbb{Z}_4 & \mathbb{Z}_2 \\ egxdmcqa & \text{Democratic/Aristocratic} & \checkmark & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egxdhkil & \text{Irrational/Rational} & \checkmark & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egaqbBkl & \text{Extroverted/Introverted} & \checkmark & D_4 & \mathbb{Z}_2 \\ egaqsSih & \text{Positivist/Negativist} & \checkmark & D_4 & \mathbb{Z}_2 \\ egcmbBih & \text{Asking/Declaring} & \checkmark & D_4 & \mathbb{Z}_2 \\ egcmsSkl & \text{Static/Dynamic} & \checkmark & D_4 & \mathbb{Z}_2 \\ \end{matrix}$$
+$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ egxdbBsS & \text{Process/Result} & \checkmark & \mathbb{Z}_2 \times \mathbb{Z}_4 & \mathbb{Z}_2 \\ egxdmcqa & \text{Democratic/Aristocratic} & \checkmark & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egxdhkil & \text{Irrational/Rational} & \checkmark & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egaqbBkl & \text{Extroverted/Introverted} & \checkmark & D_4 & \mathbb{Z}_2 \\ egaqsSih & \text{Positivist/Negativist} & \checkmark & D_4 & \mathbb{Z}_2 \\ egcmbBih & \text{Questim/Declatim} & \checkmark & D_4 & \mathbb{Z}_2 \\ egcmsSkl & \text{Static/Dynamic} & \checkmark & D_4 & \mathbb{Z}_2 \\ \end{matrix}$$
 
 _Lemma (Orbital Dichotomies)._ The orbital dichotomies correspond bijectively to the index-2 subgroups of $\mathbb{S}$. Each subgroup $H$ defines a canonical quotient homomorphism $\mathbb{S} \to \mathbb{Z}_2$, yielding a global, system-invariant dichotomy. In the present setting, there are exactly seven such subgroups, hence seven orbital dichotomies (Tencer 2024).  
 
@@ -21005,15 +21005,15 @@ $q \mapsto  (0, 0, 0, 1)$
 $B \mapsto (0, 0, 1, 1)$    
 $b \mapsto (0, 1, 0, 1)$    
 
-###### Asking/Declaring
-###### For Asking Types
+###### Questim/Declatim
+###### For Questim Types
 
 $S \mapsto (1, 0, 0, 1)$    
 $s \mapsto (1, 1, 1, 1)$    
 $m \mapsto (1, 1, 0, 1)$    
 $c \mapsto  (1, 0, 1, 1)$    
 
-###### For Declaring Types
+###### For Declatim Types
 
 $S \mapsto (1, 1, 1, 1)$    
 $s \mapsto (1, 0, 0, 1)$    
@@ -21238,13 +21238,13 @@ $d \mapsto (1, 0, 1, 0)$
 $x \mapsto (1, 0, 1, 0)$  
 $d \mapsto (1, 1, 0, 0)$  
 
-###### Asking/Declaring
-###### For Asking Types
+###### Questim/Declatim
+###### For Questim Types
 
 $h \mapsto (1, 1, 1, 0)$  
 $i \mapsto (1, 0, 0, 0)$  
 
-###### For Declaring Types
+###### For Declatim Types
 
 $h \mapsto (1, 0, 0, 0)$  
 $i \mapsto (1, 1, 1, 0)$  
@@ -21496,13 +21496,13 @@ $d \mapsto (1, 1, 0, 0)$
 $x \mapsto (1, 1, 0, 0)$  
 $d \mapsto (1, 0, 1, 0)$  
 
-###### Asking/Declaring
-###### For Asking Types
+###### Questim/Declatim
+###### For Questim Types
 
 $m \mapsto (1, 1, 0, 1)$  
 $c \mapsto (1, 0, 1, 1)$  
 
-###### For Declaring Types
+###### For Declatim Types
 
 $m \mapsto (1, 0, 1, 1)$  
 $c \mapsto (1, 1, 0, 1)$  
@@ -21776,15 +21776,15 @@ $c \mapsto  (1, 1, 1, 1)$
 $x \mapsto (1, 0, 0, 0)$  
 $d \mapsto (1, 1, 1, 0)$  
 
-###### Asking/Declaring
-###### For Asking Types
+###### Questim/Declatim
+###### For Questim Types
 
 $h \mapsto (1, 0, 1, 0)$  
 $i \mapsto (1, 1, 0, 0)$  
 $S \mapsto (1, 1, 0, 1)$  
 $s \mapsto (1, 0, 1, 1)$  
 
-###### For Declaring Types
+###### For Declatim Types
 
 $h \mapsto (1, 0, 1, 0)$  
 $i \mapsto (1, 1, 0, 0)$  
@@ -22142,7 +22142,7 @@ $$ \begin{pmatrix} \text{ILE} & \text{SEI} & \text{SLI} & \text{IEE} \\ \text{LS
 
 1. $\text{st(X) / dy(X)}$ = Static Element / Dynamic Element  
 2. $\exists\text{(X)} \text{ / } \forall\text{(X)}$ = Democratic Element / Aristocratic Element
-3. $\text{?(X) / !(X)}$ = Asking Element / Declaring Element
+3. $\text{?(X) / !(X)}$ = Questim Element / Declatim Element
 4. $\text{P(X) / J(X)}$ = Irrational Element / Rational Element
 5. $\text{(X)e / (X)i}$ = Extroverted Element / Introverted Element
 6. $\circlearrowright\text{(X)} \text{ / } \circlearrowleft\text{(X)}$ = Process Element / Result Element
@@ -22317,7 +22317,7 @@ $\overline{\delta}$ = Anti-Delta {Decisive, Merry, Democratic}
 
 - $\text{A}[\mathbb{S}]$: Model defined by the full transitive $D_{4} \times \mathbb{Z}_{2}$ action on the set of 8 functions. Baseline Model A with the Informational Metabolism Elements (IMEs).  
 - $\text{A}[\mathbb{S}/U_{1}]$: Model that is theoretical. Democratic/Aristocratic $\cong \mathbb{Z}_{2}^3$ serves as the basis here, which has a transitive action on the set of 8 functions.  
-- $\text{A}[\mathbb{S}/U_{2}]$: Model deployed by the School of Systemic Socionics (SSS). The basis is Asking/Declaring $\cong D_{4}$ which acts transitively on the set of 8 functions.  
+- $\text{A}[\mathbb{S}/U_{2}]$: Model deployed by the School of Systemic Socionics (SSS). The basis is Questim/Declatim $\cong D_{4}$ which acts transitively on the set of 8 functions.  
 - $\text{A}[\mathbb{S}/U_{3}]$: Model deployed by the School of Classical Socionics (SCS) and School of Humanitarian Socionics (SHS) for Model G. The basis is Process/Result $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ which acts transitively on the set of 8 functions.  
 - $\text{A}[\mathbb{S}/U_{4}]$: Model that is theoretical. Positivist/Negativist $\cong D_{4}$ is the basis here, which acts transitively on the set of 8 functions.  
 
