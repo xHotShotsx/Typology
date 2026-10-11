@@ -21238,13 +21238,13 @@ $d \mapsto (1, 0, 1, 0)$
 $x \mapsto (1, 0, 1, 0)$  
 $d \mapsto (1, 1, 0, 0)$  
 
-###### Questim/Declatim
-###### For Questim Types
+###### Asking/Declaring
+###### For Asking Types
 
 $h \mapsto (1, 1, 1, 0)$  
 $i \mapsto (1, 0, 0, 0)$  
 
-###### For Declatim Types
+###### For Declaring Types
 
 $h \mapsto (1, 0, 0, 0)$  
 $i \mapsto (1, 1, 1, 0)$  
