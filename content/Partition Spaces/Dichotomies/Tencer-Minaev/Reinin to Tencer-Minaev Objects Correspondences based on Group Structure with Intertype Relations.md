@@ -25,7 +25,7 @@ Activator $\longleftrightarrow$ Semi Dual
 # Dichotomies: Reinin $\longleftrightarrow$ TM
 ## Orbital/Ordinal:
 
-Extroverted/Introverted $\longleftrightarrow$ Asking/Declaring  
+Extroverted/Introverted $\longleftrightarrow$ Questim/Declaring  
 Irrational/Rational $\longleftrightarrow$ Democratic/Aristocratic  
 Static/Dynamic $\longleftrightarrow$ Static/Dynamic  
 Positivist/Negativist $\longleftrightarrow$ Positivist/Negativist  

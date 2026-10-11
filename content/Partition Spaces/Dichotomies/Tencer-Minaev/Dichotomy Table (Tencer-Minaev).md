@@ -2,7 +2,7 @@
 
 |                                                |                                                                                                              Positions Democratic Information                                                                                                              |                                                                                                           Does Not Position Democratic Information                                                                                                           |
 | :--------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     **Positions Aristocratic Information**     |                   <span class="cell-vector"> $V$<br><br>Vector Dichotomy<br><span style="text-align:left; display:block;"><br>1. Valid / Null<br>2. Static / Dynamic<br>3. Democratic / Aristocratic<br>4. Asking / Declaring<br></span>                   | <span class="cell-aristocratic"> $A$<br><br>Aristocratic Dichotomy<br><span style="text-align:left; display:block;"><br>1. 1stInternal / 1stExternal<br>2. 1stDelta / 1stBeta<br>3. 2ndExternal / 2ndInternal<br>4. 2ndBeta / 2ndDelta<br></span><br></span> |
+|     **Positions Aristocratic Information**     |                   <span class="cell-vector"> $V$<br><br>Vector Dichotomy<br><span style="text-align:left; display:block;"><br>1. Valid / Null<br>2. Static / Dynamic<br>3. Democratic / Aristocratic<br>4. Questim / Declatim<br></span>                   | <span class="cell-aristocratic"> $A$<br><br>Aristocratic Dichotomy<br><span style="text-align:left; display:block;"><br>1. 1stInternal / 1stExternal<br>2. 1stDelta / 1stBeta<br>3. 2ndExternal / 2ndInternal<br>4. 2ndBeta / 2ndDelta<br></span><br></span> |
 | **Does Not Position Aristocratic Information** | <span class="cell-democratic"> $D$<br><br>Democratic Dichotomy<br><span style="text-align:left; display:block;"><br>1. 1stAbstract / 1stInvolved<br>2. 1stAlpha / 1stGamma<br>3. 2ndAbstract / 2ndInvolved<br>4. 2ndAlpha / 2ndGamma<br></span><br></span> |     <span class="cell-converse"> $C$<br><br>Converse Dichotomy<br><span style="text-align:left; display:block;"><br>1. Irrational / Rational<br>2. Extroverted / Introverted<br>3. Process / Result<br>4. Positivist / Negativist<br></span><br></span>      |
 
 ## Sets
@@ -234,7 +234,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 > $V_{3,1}^T = \{ \mathrm{EIE}, \mathrm{LSI}, \mathrm{SLE}, \mathrm{IEI}, \mathrm{LSE}, \mathrm{EII}, \mathrm{IEE}, \mathrm{SLI} \}$  
 > $V_{3,1}^{\mathcal{E}} = \{ \mathrm{?Fe^-}, \mathrm{!Ti^+}, \mathrm{!Se^-}, \mathrm{?Ni^+}, \mathrm{?Te^-}, \mathrm{!Fi^+}, \mathrm{!Ne^-}, \mathrm{?Si^+} \}$  
 > 
-> #### Asking / Declaring ($V_{4}$)
+> #### Questim / Declatim ($V_{4}$)
 > 
 > $V_{4,0}^{T} = \{ \mathrm{ILE}, \mathrm{LII}, \mathrm{EIE}, \mathrm{IEI}, \mathrm{SEE}, \mathrm{ESI}, \mathrm{LSE}, \mathrm{SLI} \}$  
 > $V_{4,0}^{\mathcal{E}} = \{ \mathrm{?Ne^+},  \mathrm{?Ti^-}, \mathrm{?Fe^-}, \mathrm{?Ni^+}, \mathrm{?Se^+}, \mathrm{?Fi^-}, \mathrm{?Te^-}, \mathrm{?Si^+} \}$  
@@ -375,7 +375,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 **#19:** $V_{3} \cap D_{2} \cap D_{4}$  
 **#20:** $V_{3} \cap A_{2} \cap A_{4}$  
 
-### Asking/Declaring Class $V_{4}$
+### Questim/Declatim Class $V_{4}$
 
 **#1:** $V_{4} \cap D_{1} \cap D_{4}$  
 **#2:** $V_{4} \cap A_{1} \cap A_{4}$  
