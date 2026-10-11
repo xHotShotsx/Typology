@@ -13,7 +13,8 @@
 	- Then ED = valid + 2d  
 - If opening  
 	- Then ED = valid + 1d
-  
+
+
 # ED to Informational Dimensionality (ID) Comparisons using Function Dichotomies from both Models A and G
 
 - Energetic/Informational is to ED as Strong/Weak is to ID.
