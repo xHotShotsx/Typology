@@ -29,7 +29,7 @@ _(same)_
 
 $C_3$  
 Process/Result  
-_(Evolutive/Involutive)_  
+_(Complexifying/Simplifying)_  
 
 $C_{4}$  
 Positivist/Negativist  
