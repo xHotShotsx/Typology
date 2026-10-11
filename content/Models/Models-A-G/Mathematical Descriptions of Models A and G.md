@@ -32,13 +32,13 @@ Since Model-G does not model all elements of the full socion for a type $t \in T
 
 # Alternate Interpretations of Model A (Systems of Injections)
 
-The set $I$ is sometimes substituted for the set $\mathcal{E}$, and consequently the acting group on Model A is no longer $\mathbb{S}$, but an index-2 subgroup of it. For example, in the School of Classical Socionics (SCS), the set of functions is acted on by $H \cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ (Process/Result), so in this sense Models A and G are isomorphic (both $8T_{2}$ groups). However, in the School of System Socionics (SSS), the set of functions is acted on by the Asking/Declaring subgroup, which is isomorphic to $D_4$ (the dihedral group of order 8). In this sense, Model A can be can be decomposed into the two orbits of $\mathbb{S}$, one of which can be described as the transitive permutation group $8T_{4}$, which is a subgroup of $S_8$ and is isomorphic to $D_4$.
+The set $I$ is sometimes substituted for the set $\mathcal{E}$, and consequently the acting group on Model A is no longer $\mathbb{S}$, but an index-2 subgroup of it. For example, in the School of Classical Socionics (SCS), the set of functions is acted on by $H \cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ (Process/Result), so in this sense Models A and G are isomorphic (both $8T_{2}$ groups). However, in the School of System Socionics (SSS), the set of functions is acted on by the Questim/Declaring subgroup, which is isomorphic to $D_4$ (the dihedral group of order 8). In this sense, Model A can be can be decomposed into the two orbits of $\mathbb{S}$, one of which can be described as the transitive permutation group $8T_{4}$, which is a subgroup of $S_8$ and is isomorphic to $D_4$.
 
 **Technical note:** Systems of injections (charge models with only 8 functions) are best viewed as **orbit models**. Any compatible index-2 subgroup $H$ acts transitively on a single orbit of size 8 (hence an $8T_{k}$ label applies). The full charge construction $F \times \{ A,B \}$ is an intransitive $H$-set with two orbits; it is not itself an $nT_{k}$ object unless extended by a sheet-swapping element, yielding a transitive $16T_{\mathscr{l}}$ action.
 
 ## What counts as an acceptable system of injections?
 
-An acceptable system of injections on Model A must arise from an index-2 subgroup of $\mathbb{S}$ corresponding to a _supralocal_ dichotomy. These include Democratic/Aristocratic, Asking/Declaring, Process/Result, and Positivist/Negativist.
+An acceptable system of injections on Model A must arise from an index-2 subgroup of $\mathbb{S}$ corresponding to a _supralocal_ dichotomy. These include Democratic/Aristocratic, Questim/Declaring, Process/Result, and Positivist/Negativist.
 
 The reason for this restriction is structural. Each information element $i \in I$ admits a decomposition into its associated monadic elements in $\mathcal{E}$, and any admissible injection must preserve this correspondence. Equivalently, for every function in $F_{MA}$, either the unsplit element $i$ or exactly one of its associated monadic refinements must be present, uniformly across all types.
 
@@ -48,7 +48,7 @@ Index-2 subgroups not associated with supralocal dichotomies (these are the *gen
 
 $\text{A}[\mathbb{S}]$: Model defined by the full transitive $D_{4} \times \mathbb{Z}_{2}$ action on the set of 8 functions. Baseline Model A with the Informational Metabolism Elements (IMEs).  
 $\text{A}[\mathbb{S}/U_{1}]$: Model that is theoretical. Democratic/Aristocratic $\cong \mathbb{Z}_{2}^3$ serves as the basis here, which has a transitive action on the set of 8 functions.  
-$\text{A}[\mathbb{S}/U_{2}]$: Model deployed by the School of Systemic Socionics (SSS). The basis is Asking/Declaring $\cong D_{4}$ which acts transitively on the set of 8 functions.  
+$\text{A}[\mathbb{S}/U_{2}]$: Model deployed by the School of Systemic Socionics (SSS). The basis is Questim/Declaring $\cong D_{4}$ which acts transitively on the set of 8 functions.  
 $\text{A}[\mathbb{S}/U_{3}]$: Model deployed by the School of Classical Socionics (SCS) and School of Humanitarian Socionics (SHS) for Model G. The basis is Process/Result $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ which acts transitively on the set of 8 functions.  
 $\text{A}[\mathbb{S}/U_{4}]$: Model that is theoretical. Positivist/Negativist $\cong D_{4}$ is the basis here, which acts transitively on the set of 8 functions.  
 
