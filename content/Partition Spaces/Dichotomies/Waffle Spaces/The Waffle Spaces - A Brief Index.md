@@ -5,11 +5,11 @@ The numeric codes assigned to dichotomies other than maybe the X space are arbit
 # The “waffle” spaces (X-Δ) identified by the small group shared with the ILE:
 
 X Space — Irrational-Democratic-Process  
-Y Space — Extroverted-Asking-Process  
+Y Space — Extroverted-Questim-Process  
 Z Space — Static-Process-Positivist  
-A Space — Irrational-Asking-Positivist  
+A Space — Irrational-Questim-Positivist  
 B Space — Extroverted-Irrational-Static  
-Γ Space — Static-Democratic-Asking  
+Γ Space — Static-Democratic-Questim  
 Δ Space — Extroverted-Democratic-Positivist  
 
 # The “waffle” spaces (फ-ज) identified by the superego partition:

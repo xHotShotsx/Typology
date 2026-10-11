@@ -14,7 +14,7 @@
 Identity $\longleftrightarrow$ Identity    
 Superego $\longleftrightarrow$ Superego    
 Extinguishment $\longleftrightarrow$ Extinguishment    
-Dual $\longleftrightarrow$ Dual  
+Dual $\longleftrightarrow$ Dual  [[content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces]]
 Beneficiary $\longleftrightarrow$ Benefactor  
 Supervisee $\longleftrightarrow$ Supervisor  
 Mirror $\longleftrightarrow$ Kindred  
@@ -25,7 +25,7 @@ Activator $\longleftrightarrow$ Semi Dual
 # Dichotomies: Reinin $\longleftrightarrow$ TM
 ## Orbital/Ordinal:
 
-Extroverted/Introverted $\longleftrightarrow$ Questim/Declaring  
+Extroverted/Introverted $\longleftrightarrow$ Questim/Declatim  
 Irrational/Rational $\longleftrightarrow$ Democratic/Aristocratic  
 Static/Dynamic $\longleftrightarrow$ Static/Dynamic  
 Positivist/Negativist $\longleftrightarrow$ Positivist/Negativist  
