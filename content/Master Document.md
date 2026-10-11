@@ -21005,15 +21005,15 @@ $q \mapsto  (0, 0, 0, 1)$
 $B \mapsto (0, 0, 1, 1)$    
 $b \mapsto (0, 1, 0, 1)$    
 
-###### Questim/Declatim
-###### For Questim Types
+###### Asking/Declaring
+###### For Asking Types
 
 $S \mapsto (1, 0, 0, 1)$    
 $s \mapsto (1, 1, 1, 1)$    
 $m \mapsto (1, 1, 0, 1)$    
 $c \mapsto  (1, 0, 1, 1)$    
 
-###### For Declatim Types
+###### For Declaring Types
 
 $S \mapsto (1, 1, 1, 1)$    
 $s \mapsto (1, 0, 0, 1)$    
