@@ -42,7 +42,7 @@
 |  0010  | EII  |   Supervisor   |  Positivist  |
 |  0001  | SEI  |      Dual      |   Questim    |
 |  0000  | SLE  |  Look-a-like   | 2nd-External |
-
+****
 
 ## ITR by Trait Matrix
 
