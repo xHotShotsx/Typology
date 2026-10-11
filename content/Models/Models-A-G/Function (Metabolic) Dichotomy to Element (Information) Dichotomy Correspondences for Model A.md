@@ -26,6 +26,7 @@
 | Evaluatory/Situational |       Alpha/Gamma       |
 
 # Gulenko-Newman Dichotomies
+
 ## For Iridescent Hopes Types
 
 |       Function Dichotomy       |    Element Dichotomy    |

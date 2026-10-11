@@ -21,6 +21,7 @@
 - Opening/Closing is to ED as Bold/Cautious is to ID.
 - Excitable/Inhibitable is to ED as Evaluatory/Situational is to ID.
 
+
 # Expanding this schema to 16 elements
 
 If introversion/extroversion is responsible for informatic dimensionality, we’ll assume positivist/negativist as the contributor to energetic dimensionality. We will be using Varlawend’s System 2 (Reference 5) here. Now, energetic functions map onto the two binary relations that entail Process/Result as the third dichotomy in relation to a tetrachotomy formation. The exact dichotomies used will be dependent on the displacement tetrad the given TIM falls under, due to the asymmetric ITR injection used for functions in this space, where asymmetries split in relation to dichotomies; Asking/Declaring, Positivist/Negativist, and Static/Dynamic. Defer to ‘Intertype Relations’ (Reference 1) for more information about this as well as ‘Function Dichotomies to Type Tetrachotomies’ (Reference 2) for which dichotomies of this space (Reference 3) slot into Energetic/Informational and Excitable/Inhibitable based on the displacement tetrad any TIM falls under, in discussion.
