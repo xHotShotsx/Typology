@@ -13,7 +13,7 @@ Democratic/Aristocratic
 _(Descriptive/Prescriptive)_  
 
 $V_4$  
-Asking/Declaring  
+Questim/Declatim  
 _(Divergent/Convergent)_  
 
 

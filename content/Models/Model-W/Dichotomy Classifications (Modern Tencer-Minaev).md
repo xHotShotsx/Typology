@@ -375,7 +375,7 @@ We fix the sociotype ILE as the reference element and identify it with the zero 
 **#19:** $V_{3} \cap D_{2} \cap D_{4}$  
 **#20:** $V_{3} \cap A_{2} \cap A_{4}$  
 
-### Questim/Declaring Class $V_{4}$
+### Questim/Declatim Class $V_{4}$
 
 **#1:** $V_{4} \cap D_{1} \cap D_{4}$  
 **#2:** $V_{4} \cap A_{1} \cap A_{4}$  
