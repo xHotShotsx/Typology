@@ -40,7 +40,7 @@ NTP – Process/Result
 
 ### 4th order dichotomy
 
-ENTP – Asking/Declaring
+ENTP – Questim/Declatim
 
 
 ### General Dichotomy
@@ -77,7 +77,7 @@ I4 = Carefree/Farsighted
 
 U1 = Democratic/Aristocratic
 
-U2 = Asking/Declaring
+U2 = Questim/Declatim
 
 U3 = Process/Result
 
@@ -101,7 +101,7 @@ I2 = Judicious/Decisive
 
 R2 = Merry/Serious
 
-U2 = Asking/Declaring
+U2 = Questim/Declatim
 
 ### Type 3 Dichotomies ("vertical" or "interval") 
 
@@ -158,7 +158,7 @@ $\emptyset$ = Valid/Null
 
 ### 1st order dichotomy
 
-Q - Questim/Declatim or Asking/Declaring
+Q - Questim/Declatim or Questim/Declatim
 
 A - 1st Abstract/1st Involved
 
@@ -203,7 +203,7 @@ Extraverted/Introverted and Static/Dynamic
 
 Democratic/Aristocratic and Process/Result
 
-Asking/Declaring and Positivist/Negativist
+Questim/Declatim and Positivist/Negativist
 
 1st Α and 2nd Α
 
@@ -222,7 +222,7 @@ V2 = Static/Dynamic
 
 V3 = Democratic/Aristocratic
 
-V4 = Asking/Declaring
+V4 = Questim/Declatim
 
 ### Aristocratic Dichotomy
 
@@ -293,7 +293,7 @@ EDP - Ethical Result + SEI HEF / Logical Result + ILI HEF
 
 ELP - Ascending Result + EII HEF / Descending Result + LSI HEF
 
-DLP - Asking/Declaring
+DLP - Questim/Declatim
 
 ### 4th order dichotomy
 
@@ -357,7 +357,7 @@ ELP - SEI+IEE HEF / SLE+ILI HEF
 
 ESP - ESE+EII HEF / LSI+LIE HEF
 
-LSP - Asking/Declaring
+LSP - Questim/Declatim
 
 ### 4th order dichotomy
 
@@ -385,7 +385,7 @@ ELP: Ne+ Ne- Fe+ Fe- Fi- Fi+ Si- Si+ = SEI-IEE HEF
 
 ESP: Ne+ Se- Te- Fe+ Ti- Fi+ Ni- Si+ = ESE-EII HEF
 
-LSP: Ne+ Ni+ Te- Fi- Fe- Ti- Se+ Si+ = Asking
+LSP: Ne+ Ni+ Te- Fi- Fe- Ti- Se+ Si+ = Questim
 
 L: (Te+ Ni+ Ne- Fi- Fi+ Ne+ Ni- Te-) / (Fe+ Si+ Se- Ti- Ti+ Se+ Si- Fe-)
 
@@ -467,7 +467,7 @@ ISP - Process/Result
 
 ### 4th order dichotomy
 
-EISP - Asking/Declaring
+EISP - Questim/Declatim
 
 
 ### Additional Notes
@@ -530,7 +530,7 @@ ECP - Sensing Result + SEI HEF / Intuitive Result + ILI HEF
 
 EIP - Peripheral Result + EII HEF / Central Result / LSI HEF
 
-CIP - Asking/Declaring
+CIP - Questim/Declatim
 
 ### 4th order dichotomy
 
@@ -582,7 +582,7 @@ EC - Ascending Negativists + Logical Positivists / Descending Negativists + Ethi
 
 EP - Static/Dynamic
 
-AC - Asking/Declaring
+AC - Questim/Declatim
 
 AP - Peripheral Negativists + Intuitive Positivists / Central Negativists + Sensing Positivists
 
@@ -648,7 +648,7 @@ EI - Ascending Process + SLE HEF / Descending Process + IEE HEF
 
 EP - Static/Dynamic
 
-AI - Asking/Declaring
+AI - Questim/Declatim
 
 AP - Peripheral Process + SLI HEF / Central Process + IEI HEF
 
@@ -728,7 +728,7 @@ ELP - Ascending Process + IEI HEF / Descending Process + SLI HEF
 
 EAP - Logical Process + LII HEF / Ethical Process + ESI HEF
 
-LAP - Asking/Declaring
+LAP - Questim/Declatim
 
 ### 4th order dichotomy
 
@@ -794,7 +794,7 @@ ELP - Ascending Extroverts + Sensing Introverts / Descending Extroverts + Intuit
 
 EIP - Peripheral Extroverts + Logical Introverts / Central Extroverts + Ethical Introverts
 
-LIP - Asking/Declaring
+LIP - Questim/Declatim
 
 ### 4th order dichotomy
 
@@ -860,7 +860,7 @@ ESP - EII+SLI HEF / LSI+IEI HEF
 
 EIP - SEI+ESI HEF / LII+ILI HEF
 
-SIP - Asking/Declaring
+SIP - Questim/Declatim
 
 ### 4th order dichotomy
 
@@ -921,7 +921,7 @@ AP - Central Result + SEI HEF / Peripheral Result + ILI HEF
 
 ### 3rd order dichotomy
 
-EDA - Asking/Declaring
+EDA - Questim/Declatim
 
 EDP - Ethical Result + EIE HEF / Logical Result + LSE HEF
 
@@ -987,7 +987,7 @@ JP - Descending Result + SEI HEF / Ascending Result + ILI HEF
 
 ### 3rd order dichotomy
 
-EDJ - Asking/Declaring
+EDJ - Questim/Declatim
 
 EDP - Sensing Result + EIE HEF / Intuitive Result + LSE HEF
 
@@ -1063,7 +1063,7 @@ ISP - Process/Result
 
 ### 4th order dichotomy
 
-EISP - Asking/Declaring
+EISP - Questim/Declatim
 
 
 ### Additional Notes
@@ -1119,7 +1119,7 @@ IP - SLE HEF + Intuitive Process / IEE HEF + Sensing Process
 
 ### 3rd order dichotomy
 
-ESI - Asking/Declaring
+ESI - Questim/Declatim
 
 ESP - LII HEF + Ascending Process / ESI HEF + Descending Process
 
@@ -1185,7 +1185,7 @@ IP - SLI HEF + Intuitive Process / IEI HEF + Intuitive Process
 
 ### 3rd order dichotomy
 
-ESI - Asking/Declaring
+ESI - Questim/Declatim
 
 ESP - ESE HEF + Ascending Process / LIE HEF + Descending Process
 
@@ -1240,7 +1240,7 @@ EI - Progress/Outcome {ILE ESE SEE IEE IEI ILI LSI SLI}
 
 ES - {ILE ESE LIE LSE LSI ESI IEI EII}
 
-EP - Asking/Declaring
+EP - Questim/Declatim
 
 IS - Merry/Serious
 
