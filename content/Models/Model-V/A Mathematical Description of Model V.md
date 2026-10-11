@@ -40,7 +40,7 @@ It is interesting of note that for both sets of functions that the elements that
 
 # Systems of Injections for Model V
 
-An acceptable system of injections on Model V must arise from an index-2 subgroup of $\mathbb{S}$ corresponding to a _converse_ dichotomy. These include Irrational/Rational, Extroverted/Introverted, Process/Result, and Asking/Declaring.
+An acceptable system of injections on Model V must arise from an index-2 subgroup of $\mathbb{S}$ corresponding to a _converse_ dichotomy. These include Irrational/Rational, Extroverted/Introverted, Process/Result, and Questim/Declatim.
 
 The reason for this restriction is structural. Each mirror element $m \in M$ admits a decomposition into its associated monadic elements in $\mathcal{E}$, and any admissible injection must preserve this correspondence. Equivalently, for every function in $F$ either the unsplit element $m$ or exactly one of its associated monadic refinements must be present, uniformly across all types.
 
