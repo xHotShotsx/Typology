@@ -2,7 +2,7 @@
 
 1. $\text{st(X) / dy(X)}$ = Static Element / Dynamic Element  
 2. $\exists\text{(X)} \text{ / } \forall\text{(X)}$ = Democratic Element / Aristocratic Element
-3. $\text{?(X) / !(X)}$ = Asking Element / Declaring Element
+3. $\text{?(X) / !(X)}$ = Questim Element / Declatim Element
 4. $\text{P(X) / J(X)}$ = Irrational Element / Rational Element
 5. $\text{(X)e / (X)i}$ = Extroverted Element / Introverted Element
 6. $\circlearrowright\text{(X)} \text{ / } \circlearrowleft\text{(X)}$ = Process Element / Result Element
