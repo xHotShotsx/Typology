@@ -639,7 +639,7 @@
       <td>SEI</td><td>SLE</td><td>ESI</td><td>LSE</td>
     </tr>
     <tr>
-	 <td>Realistic Plans (D-base</td>
+	 <td>Realistic Plans (D-base)</td>
       <td>Rational</td><td>Positivist</td><td>Declaring</td>
       <td>ESE</td><td>LSI</td><td>LIE</td><td>EII</td>
     </tr>
