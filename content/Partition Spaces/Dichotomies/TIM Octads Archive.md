@@ -6511,7 +6511,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 #4082: Extroverted / Introverted  
 #5266: Static / Dynamic  
 #4407: Positivist / Negativist  
-#5083: Asking / Declaring  
+#5083: Asking / Declatim  
 
 ### $\mathcal{C}_{g,17-32}$
 
@@ -6527,7 +6527,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 #2229: Process / Result
 #4082: Extroverted / Introverted  
-#5083: Asking / Declaring  
+#5083: Asking / Declatim  
 #1166: +Y6 / -Y6  
 #1891: +Y3 / -Y3  
 #3490: +Y8 / -Y8  
@@ -6547,7 +6547,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 #2208: Irrational / Rational  
 #4407: Positivist / Negativist  
-#5083: Asking / Declaring  
+#5083: Asking / Declatim  
 #757: +A4 / -A4  
 #1764: +A8 / -A8    
 #3617: -A3 / -A3  
@@ -6566,7 +6566,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ### $\mathcal{C}_{g,97-112}$
 
 #426: Democratic / Aristocratic  
-#5083: Asking / Declaring  
+#5083: Asking / Declatim  
 #5266: Static / Dynamic  
 #2356: +Γ3 / -Γ3  
 #2681: +Γ2 / -Γ2  
@@ -6671,7 +6671,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ### $\mathcal{C}_{m,1-16}$
 
 #426: Democratic / Aristocratic  
-#5083: Asking / Declaring  
+#5083: Asking / Declatim  
 #5266: Static / Dynamic  
 #5098: Intuitive / Sensory  
 #5279: Logical / Ethical  
@@ -6681,7 +6681,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ### $\mathcal{C}_{m,17-32}$
 
 #426: Democratic / Aristocratic  
-#5083: Asking / Declaring  
+#5083: Asking / Declatim  
 #5266: Static / Dynamic  
 #107: SEI+LII HEF / ILI+ESI HEF  
 #198: ILE+ESE HEF / SEE+LIE HEF  
@@ -6692,7 +6692,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ### $\mathcal{C}_{c,1-16}$
 
 #426: Democratic / Aristocratic  
-#5083: Asking / Declaring  
+#5083: Asking / Declatim  
 #5266: Static / Dynamic  
 #4430: Tactical / Strategic  
 #4111: Constructivist / Emotivist  
@@ -6702,7 +6702,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 ### $\mathcal{C}_{c,17-32}$
 
 #426: Democratic / Aristocratic  
-#5083: Asking / Declaring  
+#5083: Asking / Declatim  
 #5266: Static / Dynamic  
 #3986: EIE+IEE HEF / SLE+LSE HEF  
 #4555: IEI+EII HEF / LSI+SLI HEF  
@@ -6714,7 +6714,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
-#5083: Asking / Declaring  
+#5083: Asking / Declatim  
 #1033: ILE+IEE HEF / SLE+SEE HEF  
 #1612: SEI+SLI HEF / IEI+ILI HEF  
 #3024: ESE+EIE HEF / LIE+LSE HEF  
@@ -6724,7 +6724,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
-#5083: Asking / Declaring  
+#5083: Asking / Declatim  
 #45: 1stAlpha / 1stGamma  
 #3003: 1stDelta / 1stBeta  
 #4361: 2ndExternal / 2ndInternal  
@@ -6735,7 +6735,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
-#5083: Asking / Declaring  
+#5083: Asking / Declatim  
 #3721: LII+EII HEF / LSI+ESI HEF  
 #5807: EIE+LIE HEF / ESE+LSE HEF  
 #1632: ILE+SLE HEF / SEE+IEE HEF  
@@ -6745,7 +6745,7 @@ $$CD(H) := \{D \mid \forall h \in H, h(D)=D\lor\bar{D}\}$$
 
 #2808: Irrational / Rational  
 #4407: Positivist / Negativist  
-#5083: Asking / Declaring  
+#5083: Asking / Declatim  
 #308: 2ndAlpha / 2ndGamma  
 #2093: 2ndBeta / 2ndDelta
 #4180: 1stInternal / 1stExternal  
