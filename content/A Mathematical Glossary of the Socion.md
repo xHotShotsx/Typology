@@ -93,7 +93,7 @@
 
 - $\text{A}[\mathbb{S}]$: Model defined by the full transitive $D_{4} \times \mathbb{Z}_{2}$ action on the set of 8 functions. Baseline Model A with the Informational Metabolism Elements (IMEs).  
 - $\text{A}[\mathbb{S}/U_{1}]$: Model that is theoretical. Democratic/Aristocratic $\cong \mathbb{Z}_{2}^3$ serves as the basis here, which has a transitive action on the set of 8 functions.  
-- $\text{A}[\mathbb{S}/U_{2}]$: Model deployed by the School of Systemic Socionics (SSS). The basis is Asking/Declaring $\cong D_{4}$ which acts transitively on the set of 8 functions.  
+- $\text{A}[\mathbb{S}/U_{2}]$: Model deployed by the School of Systemic Socionics (SSS). The basis is Questim/Declatim $\cong D_{4}$ which acts transitively on the set of 8 functions.  
 - $\text{A}[\mathbb{S}/U_{3}]$: Model deployed by the School of Classical Socionics (SCS) and School of Humanitarian Socionics (SHS) for Model G. The basis is Process/Result $\cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ which acts transitively on the set of 8 functions.  
 - $\text{A}[\mathbb{S}/U_{4}]$: Model that is theoretical. Positivist/Negativist $\cong D_{4}$ is the basis here, which acts transitively on the set of 8 functions.  
 
