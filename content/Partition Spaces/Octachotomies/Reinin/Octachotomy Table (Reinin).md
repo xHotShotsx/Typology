@@ -11,7 +11,7 @@
 	<tbody>
 	    <tr>
 	      <td rowspan="10"><b>1</b></td>
-	      <td rowspan="2"><b>Quasi Identicals</b></td>
+	      <td rowspan="2"><b>Quasi IdenticaDeclatimd>
 	      <td colspan="7"><img src="/Images/Octachotomies/Reinin/1.png" /></td>
 	      <td colspan="2" rowspan="2"></td>
 	      </tr>
@@ -118,42 +118,42 @@
 	      </tr>
 		 <tr>
 			  <td>?(N)e "Wit"</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Constructivist</td><td>Merry</td><td>Process</td><td>Asking</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Constructivist</td><td>Merry</td><td>Process</td><td>Questim</td>
 		      <td>ILE</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N)i "Sagacity"</td>
-		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Constructivist</td><td>Serious</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Constructivist</td><td>Serious</td><td>Process</td><td>Declatim</td>
 		      <td>ILI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S)e "Presence"</td>
-		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Constructivist</td><td>Merry</td><td>Result</td><td>Declaring</td>
+		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Constructivist</td><td>Merry</td><td>Result</td><td>Declatim</td>
 		      <td>ESE</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S)i "Resilience"</td>
-		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Constructivist</td><td>Serious</td><td>Result</td><td>Asking</td>
+		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Constructivist</td><td>Serious</td><td>Result</td><td>Questim</td>
 		      <td>ESI</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S)e "Efficacy"</td>
-		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Emotivist</td><td>Serious</td><td>Process</td><td>Asking</td>
+		      <td>Extroverted</td><td>Sensory</td><td>Farsighted</td><td>Emotivist</td><td>Serious</td><td>Process</td><td>Questim</td>
 		      <td>SEE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S)i "Composure"</td>
-		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Emotivist</td><td>Merry</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Sensory</td><td>Carefree</td><td>Emotivist</td><td>Merry</td><td>Process</td><td>Declatim</td>
 		      <td>SEI</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N)e "Ingenuity"</td>
-		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Emotivist</td><td>Serious</td><td>Result</td><td>Declaring</td>
+		      <td>Extroverted</td><td>Intuitive</td><td>Carefree</td><td>Emotivist</td><td>Serious</td><td>Result</td><td>Declatim</td>
 		      <td>LIE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(N)i "Erudition"</td>
-		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Emotivist</td><td>Merry</td><td>Result</td><td>Asking</td>
+		      <td>Introverted</td><td>Intuitive</td><td>Farsighted</td><td>Emotivist</td><td>Merry</td><td>Result</td><td>Questim</td>
 		      <td>LII</td><td>IEI</td>
 	    </tr>
 	    <tr>
@@ -216,42 +216,42 @@
 	      </tr>
 		 <tr>
 			  <td>?(T)e "Competence"</td>
-		      <td>Extroverted</td><td>Logical</td><td>Yielding</td><td>Tactical</td><td>Judicious</td><td>Process</td><td>Asking</td>
+		      <td>Extroverted</td><td>Logical</td><td>Yielding</td><td>Tactical</td><td>Judicious</td><td>Process</td><td>Questim</td>
 		      <td>ILE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(T)i "Propensity"</td>
-		      <td>Introverted</td><td>Logical</td><td>Obstinate</td><td>Tactical</td><td>Decisive</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Logical</td><td>Obstinate</td><td>Tactical</td><td>Decisive</td><td>Process</td><td>Declatim</td>
 		      <td>LSI</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(F)e "Vivacity"</td>
-		      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td><td>Tactical</td><td>Judicious</td><td>Result</td><td>Declaring</td>
+		      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td><td>Tactical</td><td>Judicious</td><td>Result</td><td>Declatim</td>
 		      <td>ESE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(F)i "Predilection"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Tactical</td><td>Decisive</td><td>Result</td><td>Asking</td>
+		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Tactical</td><td>Decisive</td><td>Result</td><td>Questim</td>
 		      <td>IEI</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(F)e "Ardour"</td>
-		      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td><td>Strategic</td><td>Decisive</td><td>Process</td><td>Asking</td>
+		      <td>Extroverted</td><td>Ethical</td><td>Obstinate</td><td>Strategic</td><td>Decisive</td><td>Process</td><td>Questim</td>
 		      <td>EIE</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(F)i "Sensibility"</td>
-		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Strategic</td><td>Judicious</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Ethical</td><td>Yielding</td><td>Strategic</td><td>Judicious</td><td>Process</td><td>Declatim</td>
 		      <td>SEI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(T)e "Enterprise"</td>
-		      <td>Extroverted</td><td>Logical</td><td>Yielding</td><td>Strategic</td><td>Decisive</td><td>Result</td><td>Declaring</td>
+		      <td>Extroverted</td><td>Logical</td><td>Yielding</td><td>Strategic</td><td>Decisive</td><td>Result</td><td>Declatim</td>
 		      <td>SLE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(T)i "Acuity"</td>
-		      <td>Introverted</td><td>Logical</td><td>Obstinate</td><td>Strategic</td><td>Judicious</td><td>Result</td><td>Asking</td>
+		      <td>Introverted</td><td>Logical</td><td>Obstinate</td><td>Strategic</td><td>Judicious</td><td>Result</td><td>Questim</td>
 		      <td>LII</td><td>SLI</td>
 	    </tr>
 	    <tr>
@@ -265,42 +265,42 @@
 	      </tr>
 		 <tr>
 			  <td>Pe+ "Generation"</td>
-		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Democratic</td><td>Positivist</td><td>Process</td><td>Asking</td>
+		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Democratic</td><td>Positivist</td><td>Process</td><td>Questim</td>
 		      <td>ILE</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pi- "Distillation"</td>
-		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Democratic</td><td>Negativist</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Democratic</td><td>Negativist</td><td>Process</td><td>Declatim</td>
 		      <td>SEI</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je+ "Discrimination" (De)</td>
-		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Democratic</td><td>Positivist</td><td>Result</td><td>Declaring</td>
+		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Democratic</td><td>Positivist</td><td>Result</td><td>Declatim</td>
 		      <td>ESE</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji- "Collation" (Qi)</td>
-		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Democratic</td><td>Negativist</td><td>Result</td><td>Asking</td>
+		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Democratic</td><td>Negativist</td><td>Result</td><td>Questim</td>
 		      <td>LII</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>Je- "Elaboration" (Qe)</td>
-		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Aristocratic</td><td>Negativist</td><td>Process</td><td>Asking</td>
+		      <td>Extroverted</td><td>Rational</td><td>Dynamic</td><td>Aristocratic</td><td>Negativist</td><td>Process</td><td>Questim</td>
 		      <td>EIE</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Ji+ "Consolidation" (Di)</td>
-		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Aristocratic</td><td>Positivist</td><td>Process</td><td>Declaring</td>
+		      <td>Introverted</td><td>Rational</td><td>Static</td><td>Aristocratic</td><td>Positivist</td><td>Process</td><td>Declatim</td>
 		      <td>LSI</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pe- "Intervention"</td>
-		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Aristocratic</td><td>Negativist</td><td>Result</td><td>Declaring</td>
+		      <td>Extroverted</td><td>Irrational</td><td>Static</td><td>Aristocratic</td><td>Negativist</td><td>Result</td><td>Declatim</td>
 		      <td>SLE</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>Pi+ "Accession"</td>
-		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Aristocratic</td><td>Positivist</td><td>Result</td><td>Asking</td>
+		      <td>Introverted</td><td>Irrational</td><td>Dynamic</td><td>Aristocratic</td><td>Positivist</td><td>Result</td><td>Questim</td>
 		      <td>IEI</td><td>SLI</td>
 	    </tr>
 	    <tr>
@@ -412,42 +412,42 @@
 	      </tr>
 		 <tr>
 			  <td>?(NT) "Interpretation"</td>
-		      <td>Intuitive</td><td>Logical</td><td>Static</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Asking</td>
+		      <td>Intuitive</td><td>Logical</td><td>Static</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Questim</td>
 		      <td>ILE</td><td>LII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(ST) "Performance"</td>
-		      <td>Sensory</td><td>Logical</td><td>Static</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Declaring</td>
+		      <td>Sensory</td><td>Logical</td><td>Static</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Declatim</td>
 		      <td>LSI</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(NF) "Ethos"</td>
-		      <td>Intuitive</td><td>Ethical</td><td>Static</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Declaring</td>
+		      <td>Intuitive</td><td>Ethical</td><td>Static</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Declatim</td>
 		      <td>EII</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(SF) "Volition"</td>
-		      <td>Sensory</td><td>Ethical</td><td>Static</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Asking</td>
+		      <td>Sensory</td><td>Ethical</td><td>Static</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Questim</td>
 		      <td>SEE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(NF) "Aspiration"</td>
-		      <td>Intuitive</td><td>Ethical</td><td>Dynamic</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Asking</td>
+		      <td>Intuitive</td><td>Ethical</td><td>Dynamic</td><td>Aristocratic</td><td>Decisive</td><td>Merry</td><td>Questim</td>
 		      <td>EIE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(SF) "Aesthesis"</td>
-		      <td>Sensory</td><td>Ethical</td><td>Dynamic</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Declaring</td>
+		      <td>Sensory</td><td>Ethical</td><td>Dynamic</td><td>Democratic</td><td>Judicious</td><td>Merry</td><td>Declatim</td>
 		      <td>SEI</td><td>ESE</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(NT) "Strategy"</td>
-		      <td>Intuitive</td><td>Logical</td><td>Dynamic</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Declaring</td>
+		      <td>Intuitive</td><td>Logical</td><td>Dynamic</td><td>Democratic</td><td>Decisive</td><td>Serious</td><td>Declatim</td>
 		      <td>ILI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(ST) "Utility"</td>
-		      <td>Sensory</td><td>Logical</td><td>Dynamic</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Asking</td>
+		      <td>Sensory</td><td>Logical</td><td>Dynamic</td><td>Aristocratic</td><td>Judicious</td><td>Serious</td><td>Questim</td>
 		      <td>LSE</td><td>SLI</td>
 	    </tr>
 	    <tr>
@@ -461,42 +461,42 @@
 	      </tr>
 		 <tr>
 			  <td>N+ "Semiosis"</td>
-		      <td>Intuitive</td><td>Irrational</td><td>Yielding</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Asking</td>
+		      <td>Intuitive</td><td>Irrational</td><td>Yielding</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Questim</td>
 		      <td>ILE</td><td>IEI</td>
 	    </tr>
 	    <tr>
 	    	  <td>S- "Proprioception"</td>
-		      <td>Sensory</td><td>Irrational</td><td>Yielding</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Declaring</td>
+		      <td>Sensory</td><td>Irrational</td><td>Yielding</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Declatim</td>
 		      <td>SEI</td><td>SLE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(N.)+ "Prudence"</td>
-		      <td>Intuitive</td><td>Rational</td><td>Yielding</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Declaring</td>
+		      <td>Intuitive</td><td>Rational</td><td>Yielding</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Declatim</td>
 		      <td>LIE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(S.)- "Customisation"</td>
-		      <td>Sensory</td><td>Rational</td><td>Yielding</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Asking</td>
+		      <td>Sensory</td><td>Rational</td><td>Yielding</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Questim</td>
 		      <td>ESI</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(N.)- "Elocution"</td>
-		      <td>Intuitive</td><td>Rational</td><td>Obstinate</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Asking</td>
+		      <td>Intuitive</td><td>Rational</td><td>Obstinate</td><td>Strategic</td><td>Negativist</td><td>Merry</td><td>Questim</td>
 		      <td>LII</td><td>EIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>J(S.)+ "Presentation"</td>
-		      <td>Sensory</td><td>Rational</td><td>Obstinate</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Declaring</td>
+		      <td>Sensory</td><td>Rational</td><td>Obstinate</td><td>Tactical</td><td>Positivist</td><td>Merry</td><td>Declatim</td>
 		      <td>ESE</td><td>LSI</td>
 	    </tr>
 	    <tr>
 	    	  <td>N- "Prognosis"</td>
-		      <td>Intuitive</td><td>Irrational</td><td>Obstinate</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Declaring</td>
+		      <td>Intuitive</td><td>Irrational</td><td>Obstinate</td><td>Tactical</td><td>Negativist</td><td>Serious</td><td>Declatim</td>
 		      <td>ILI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>S+ "Kinesthesis"</td>
-		      <td>Sensory</td><td>Irrational</td><td>Obstinate</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Asking</td>
+		      <td>Sensory</td><td>Irrational</td><td>Obstinate</td><td>Strategic</td><td>Positivist</td><td>Serious</td><td>Questim</td>
 		      <td>SEE</td><td>SLI</td>
 	    </tr>
 	    <tr>
@@ -559,42 +559,42 @@
 	      </tr>
 		 <tr>
 			  <td>P(T.)+ "Association"</td>
-		      <td>Logical</td><td>Irrational</td><td>Carefree</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Asking</td>
+		      <td>Logical</td><td>Irrational</td><td>Carefree</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Questim</td>
 		      <td>ILE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(F.)- "Elicitation"</td>
-		      <td>Ethical</td><td>Irrational</td><td>Carefree</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Declaring</td>
+		      <td>Ethical</td><td>Irrational</td><td>Carefree</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Declatim</td>
 		      <td>SEI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>T+ "Formulation"</td>
-		      <td>Logical</td><td>Rational</td><td>Carefree</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Declaring</td>
+		      <td>Logical</td><td>Rational</td><td>Carefree</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Declatim</td>
 		      <td>LSI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>F- "Preference"</td>
-		      <td>Ethical</td><td>Rational</td><td>Carefree</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Asking</td>
+		      <td>Ethical</td><td>Rational</td><td>Carefree</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Questim</td>
 		      <td>EIE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>T- "Schematisation"</td>
-		      <td>Logical</td><td>Rational</td><td>Farsighted</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Asking</td>
+		      <td>Logical</td><td>Rational</td><td>Farsighted</td><td>Emotivist</td><td>Negativist</td><td>Judicious</td><td>Questim</td>
 		      <td>LII</td><td>LSE</td>
 	    </tr>
 	    <tr>
 	    	  <td>F+ "Esteem"</td>
-		      <td>Ethical</td><td>Rational</td><td>Farsighted</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Declaring</td>
+		      <td>Ethical</td><td>Rational</td><td>Farsighted</td><td>Constructivist</td><td>Positivist</td><td>Judicious</td><td>Declatim</td>
 		      <td>ESE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(T.)- "Instantiation"</td>
-		      <td>Logical</td><td>Irrational</td><td>Farsighted</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Declaring</td>
+		      <td>Logical</td><td>Irrational</td><td>Farsighted</td><td>Constructivist</td><td>Negativist</td><td>Decisive</td><td>Declatim</td>
 		      <td>SLE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>P(F.)+ "Ambition"</td>
-		      <td>Ethical</td><td>Irrational</td><td>Farsighted</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Asking</td>
+		      <td>Ethical</td><td>Irrational</td><td>Farsighted</td><td>Emotivist</td><td>Positivist</td><td>Decisive</td><td>Questim</td>
 		      <td>IEI</td><td>SEE</td>
 	    </tr>
 	    <tr>
@@ -706,42 +706,42 @@
 	      </tr>
 		 <tr>
 			  <td>?(N|F) "Ramification"</td>
-		      <td>Carefree</td><td>Yielding</td><td>Static</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Asking</td>
+		      <td>Carefree</td><td>Yielding</td><td>Static</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Questim</td>
 		      <td>ILE</td><td>ESI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S|F) "Typification"</td>
-		      <td>Farsighted</td><td>Yielding</td><td>Static</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Declaring</td>
+		      <td>Farsighted</td><td>Yielding</td><td>Static</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Declatim</td>
 		      <td>SLE</td><td>EII</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N|T) "Iteration"</td>
-		      <td>Carefree</td><td>Obstinate</td><td>Static</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Declaring</td>
+		      <td>Carefree</td><td>Obstinate</td><td>Static</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Declatim</td>
 		      <td>LSI</td><td>IEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S|T) "Extrapolation"</td>
-		      <td>Farsighted</td><td>Obstinate</td><td>Static</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Asking</td>
+		      <td>Farsighted</td><td>Obstinate</td><td>Static</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Questim</td>
 		      <td>LII</td><td>SEE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(S|F) "Characterisation"</td>
-		      <td>Carefree</td><td>Obstinate</td><td>Dynamic</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Asking</td>
+		      <td>Carefree</td><td>Obstinate</td><td>Dynamic</td><td>Aristocratic</td><td>Strategic</td><td>Constructivist</td><td>Questim</td>
 		      <td>EIE</td><td>SLI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(N|F) "Gist"</td>
-		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Declaring</td>
+		      <td>Farsighted</td><td>Obstinate</td><td>Dynamic</td><td>Democratic</td><td>Tactical</td><td>Constructivist</td><td>Declatim</td>
 		      <td>ESE</td><td>ILI</td>
 	    </tr>
 	    <tr>
 	    	  <td>!(S|T) "Exposition"</td>
-		      <td>Carefree</td><td>Yielding</td><td>Dynamic</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Declaring</td>
+		      <td>Carefree</td><td>Yielding</td><td>Dynamic</td><td>Democratic</td><td>Strategic</td><td>Emotivist</td><td>Declatim</td>
 		      <td>SEI</td><td>LIE</td>
 	    </tr>
 	    <tr>
 	    	  <td>?(N|T) "Permutation"</td>
-		      <td>Farsighted</td><td>Yielding</td><td>Dynamic</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Asking</td>
+		      <td>Farsighted</td><td>Yielding</td><td>Dynamic</td><td>Aristocratic</td><td>Tactical</td><td>Emotivist</td><td>Questim</td>
 		      <td>IEI</td><td>LSE</td>
 	    </tr>
 	</tbody>
