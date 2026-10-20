@@ -49,7 +49,7 @@ $\text{X}_\text{min}$ = "Least" or "deficiency" of this element. Could also be u
 
 ## Tetradic Elements
 
-## Pseudo-Aspect / Pseudo-Faculty / Pseudo-Domain / Pseudo-Macro Element
+### Pseudo-Aspect / Pseudo-Faculty / Pseudo-Domain / Pseudo-Macro Element
 
 $\text{Q}$ = Questimity-Base $\{ \alpha \mathrm{Ti}, \beta \mathrm{Fe}, \gamma \mathrm{Fi}, \delta \mathrm{Te}  \}$  
 $\text{D}$ = Declatimity-Base $\{ \alpha \mathrm{Fe}, \beta \mathrm{Ti}, \gamma \mathrm{Te}, \delta \mathrm{Fi}  \}$  
@@ -58,7 +58,7 @@ $\text{D}$ = Declatimity-Base $\{ \alpha \mathrm{Fe}, \beta \mathrm{Ti}, \gamma 
 
 $\text{X}^*$ = If a tetrad/quaternion can be defined by three intersected traits, then in the context of a continuous space an "anti" tetrad/quaternion can be defined by the flip of all three traits, even though this would considered to be illegal in the classical 4D vector space representations of the "types". This star notation is deployed often in mathematics representing the antipodal point of a geometric or topological object.  
 
-#### Example I: Quadras and "Anti-Quadras"
+### Example I: Quadras and "Anti-Quadras"
 
 $\alpha$ = Alpha {Judicious, Merry, Democratic}     
 $\beta$ = Beta {Decisive, Merry, Aristocratic}  
