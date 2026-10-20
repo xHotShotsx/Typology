@@ -56,9 +56,9 @@ $\text{D}$ = Declatimity-Base $\{ \alpha \mathrm{Fe}, \beta \mathrm{Ti}, \gamma 
 
 ### "Anti" Quaternions/Tetrads
 
-$\text{X}^*$ = If a tetrad/quaternion can be defined by three intersected traits, then in the context of a continuous space an "anti" tetrad/quaternion can be defined by the flip of all three traits, even though this would considered to be illegal in the classical 4D vector space representations of the "types".  
+$\text{X}^*$ = If a tetrad/quaternion can be defined by three intersected traits, then in the context of a continuous space an "anti" tetrad/quaternion can be defined by the flip of all three traits, even though this would considered to be illegal in the classical 4D vector space representations of the "types". This star notation is used 
 
-#### Example 1: Quadras and Anti-Quadras
+#### Example I: Quadras and Anti-Quadras
 
 $\alpha$ = Alpha {Judicious, Merry, Democratic}     
 $\beta$ = Beta {Decisive, Merry, Aristocratic}  
@@ -69,6 +69,8 @@ $\alpha^*$ = Anti-Alpha {Decisive, Serious, Aristocratic}
 $\beta^*$ = Anti-Beta {Judicious, Serious, Democratic}  
 $\gamma^*$ = Anti-Gamma {Judicious, Merry, Aristocratic}  
 $\delta^*$ = Anti-Delta {Decisive, Merry, Democratic}
+
+### # Example II: Temperaments and Anti-Temperaments
 
 # Further Reading
 
