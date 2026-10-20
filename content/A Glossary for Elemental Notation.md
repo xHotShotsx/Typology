@@ -56,7 +56,7 @@ $\text{D}$ = Declatimity-Base $\{ \alpha \mathrm{Fe}, \beta \mathrm{Ti}, \gamma 
 
 ### "Anti" Quaternions/Tetrads
 
-$\mathcal{A}(\text{X})$ = If a tetrad/quaternion can be defined by three intersected traits, then in the context of a continuous space an "anti" tetrad/quaternion can be defined by the flip of all three traits, even though this would be considered to be illegal in the classical representations . The three traits cutting out a tetrad/quaternion are never independent, with the third being the product of the other two. Talanov, however, approaches this differently. In "Continuous Socionics" all of the Reinin dichotomies are linearly independent and exist on a continuous, bounded space, so the "types" can be described in $[-1,1]^{15}$.
+$\mathcal{A}(\text{X})$ = If a tetrad/quaternion can be defined by three intersected traits, then in the context of a continuous space an "anti" tetrad/quaternion can be defined by the flip of all three traits, even though this would be considered to be illegal in the classical representation of the types as a 4D vector space over $\mathbb{F}_{2}$, an approach I will tentatively dub 'Discrete Socionics'. The three traits cutting out a tetrad/quaternion are never independent, with the third being the product of the other two. Talanov, however, approaches this differently. In "Continuous Socionics" all of the Reinin dichotomies are linearly independent and exist on a continuous, bounded space, so the "types" can be described in $[-1,1]^{15}$.
 
 #### Example I: Quadras and "Anti-Quadras"
 
