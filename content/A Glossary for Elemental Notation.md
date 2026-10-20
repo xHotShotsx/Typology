@@ -84,7 +84,7 @@ $(\text{IJ})^*$ = Anti-Balanced-Stable {Extroverted, Rational, Dynamic}
 
 #### Addendum
 
-
+This notation is not exclusively for use when describing tetrads or quarternions, and may be deployed when des  
 
 
 # Further Reading
