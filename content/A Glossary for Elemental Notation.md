@@ -65,10 +65,10 @@ $\beta$ = Beta {Decisive, Merry, Aristocratic}
 $\gamma$ = Gamma {Decisive, Serious, Democratic}    
 $\delta$ = Delta {Judicious, Serious, Aristocratic}  
 
-$\mathcal{A}(\alpha)$ = Anti-Alpha {Decisive, Serious, Aristocratic}    
-$\mathcal{A}(\beta)$ = Anti-Beta {Judicious, Serious, Democratic}  
-$\mathcal{A}(\gamma)$ = Anti-Gamma {Judicious, Merry, Aristocratic}  
-$\mathcal{A}(\delta)$ = Anti-Delta {Decisive, Merry, Democratic}
+$\mathrm{ant}(\alpha)$ = Anti-Alpha {Decisive, Serious, Aristocratic}    
+$\mathrm{ant}(\beta)$ = Anti-Beta {Judicious, Serious, Democratic}  
+$\mathrm{ant}(\gamma)$ = Anti-Gamma {Judicious, Merry, Aristocratic}  
+$\mathrm{ant}(\delta)$ = Anti-Delta {Decisive, Merry, Democratic}
 
 #### Example II: Temperaments and "Anti-Temperaments"
 
@@ -77,9 +77,9 @@ $\text{IP}$ = Receptive-Adaptive {Introverted, Irrational, Dynamic}
 $\text{EJ}$ = Linear-Assertive {Extroverted, Rational, Dynamic}  
 $\text{IJ}$ = Balanced-Stable {Introverted, Rational, Static}   
 
-$\mathcal{A}(\text{EP})$ = Anti-Flexible-Manoeuvring {Introverted, Rational, Dynamic}       
-$\mathcal{A}(\text{IP})$ = Anti-Receptive-Adaptive {Extroverted, Rational, Static}       
-$\mathcal{A}(\text{EJ})$ = Anti-Linear-Assertive {Introverted, Irrational, Static}  
+$\mathrm{ant}(\text{EP})$ = Anti-Flexible-Manoeuvring {Introverted, Rational, Dynamic}       
+$\mathrm{ant}(\text{IP})$ = Anti-Receptive-Adaptive {Extroverted, Rational, Static}       
+$\mathrm{ant}(\text{EJ})$ = Anti-Linear-Assertive {Introverted, Irrational, Static}  
 $\mathcal{A}(\text{IJ})$ = Anti-Balanced-Stable {Extroverted, Irrational, Dynamic}   
 
 #### Addendum
