@@ -84,7 +84,7 @@ $(\text{IJ})^*$ = Anti-Balanced-Stable {Extroverted, Irrational, Dynamic}
 
 #### Addendum
 
-This notation is not exclusively for use when describing tetrads or quarternions, and may be deployed when describing elements belonging to a different partition space, such as dyads, for example, where instead of inverting 3 dichotomy traits, you invert all 7 of them.  
+This notation is not exclusively for use when describing tetrads or quaternions, and may be deployed when describing elements belonging to a different partition space, such as dyads, for example, where instead of inverting 3 dichotomy traits, you invert all 7 of them.  
 
 
 # Further Reading
