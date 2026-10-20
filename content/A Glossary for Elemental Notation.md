@@ -72,7 +72,7 @@ $\delta^*$ = Anti-Delta {Decisive, Merry, Democratic}
 
 ### # Example II: Temperaments and Anti-Temperaments
 
-$$
+$\text{EP}$ = Flexible-Manoeuvring {} 
 
 # Further Reading
 
