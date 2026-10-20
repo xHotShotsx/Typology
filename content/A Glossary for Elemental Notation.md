@@ -56,7 +56,7 @@ $\text{D}$ = Declatimity-Base $\{ \alpha \mathrm{Fe}, \beta \mathrm{Ti}, \gamma 
 
 ### "Anti" Quaternions/Tetrads
 
-$\text{X}^*$ = If a tetrad/quaternion can be defined by three intersected traits, then in the context of a continuous space an "anti" tetrad/quaternion can be defined by the flip of all three traits, even though this would considered to be illegal in the classical 4D vector space over $\mathbb{F}_{2}$ representations of the "types". The three traits cutting out a tetrad/quaternion are never independent, with the third being the product of the other two. Talanov approaches this differently This star notation is deployed often in mathematics representing the antipodal point of a geometric or topological object.  
+$\text{X}^*$ = If a tetrad/quaternion can be defined by three intersected traits, then in the context of a continuous space an "anti" tetrad/quaternion can be defined by the flip of all three traits, even though this would considered to be illegal in the classical 4D vector space over $\mathbb{F}_{2}$ representations of the "types". The three traits cutting out a tetrad/quaternion are never independent, with the third being the product of the other two. Talanov, however, approaches this differently. In his system all of the Reinin dichotomies are linearly independent and exist on a continuous or bounded space,  This star notation is deployed often in mathematics representing the antipodal point of a geometric or topological object.  
 
 #### Example I: Quadras and "Anti-Quadras"
 
