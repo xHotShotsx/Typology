@@ -80,7 +80,7 @@ $\text{IJ}$ = Balanced-Stable {Introverted, Rational, Static}
 $\mathrm{ant}(\text{EP})$ = Anti-Flexible-Manoeuvring {Introverted, Rational, Dynamic}       
 $\mathrm{ant}(\text{IP})$ = Anti-Receptive-Adaptive {Extroverted, Rational, Static}       
 $\mathrm{ant}(\text{EJ})$ = Anti-Linear-Assertive {Introverted, Irrational, Static}  
-$\mathcal{A}(\text{IJ})$ = Anti-Balanced-Stable {Extroverted, Irrational, Dynamic}   
+$\mathrm{ant}(\text{IJ})$ = Anti-Balanced-Stable {Extroverted, Irrational, Dynamic}   
 
 #### Addendum
 
