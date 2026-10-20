@@ -72,15 +72,15 @@ $\delta^*$ = Anti-Delta {Decisive, Merry, Democratic}
 
 #### Example II: Temperaments and "Anti-Temperaments"
 
-$\text{EP}$ = Flexible-Manoeuvring {Extroverted, Irrational, Static}  
-$\text{IP}$ = Receptive-Adaptive {Introverted, Irrational, Dynamic}  
-$\text{EJ}$ = Linear-Assertive {Extroverted, Rational, Dynamic}
-$\text{IJ}$ = Balanced-Stable {Introverted, Rational, Static}  
+$\text{EP}$ = Flexible-Manoeuvring {Extroverted, Irrational, Static}      
+$\text{IP}$ = Receptive-Adaptive {Introverted, Irrational, Dynamic}     
+$\text{EJ}$ = Linear-Assertive {Extroverted, Rational, Dynamic}  
+$\text{IJ}$ = Balanced-Stable {Introverted, Rational, Static}   
 
-$(\text{EP})^*$ = Anti-Flexible-Manoeuvring {Introverted, Rational, Dynamic}    
-$(\text{IP})^*$ = Anti-Receptive-Adaptive {Extroverted, Rational, Static}  
-$(\text{EJ})^*$ = Anti-Linear-Assertive {Introverted, Irrational, Static}
-$(\text{IJ})^*$ = Anti-Balanced-Stable {Extroverted, Rational, Dynamic}  
+$(\text{EP})^*$ = Anti-Flexible-Manoeuvring {Introverted, Rational, Dynamic}       
+$(\text{IP})^*$ = Anti-Receptive-Adaptive {Extroverted, Rational, Static}       
+$(\text{EJ})^*$ = Anti-Linear-Assertive {Introverted, Irrational, Static}  
+$(\text{IJ})^*$ = Anti-Balanced-Stable {Extroverted, Rational, Dynamic}   
 
 #### Addendum
 
