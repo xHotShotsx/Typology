@@ -78,7 +78,7 @@ $\text{EJ}$ = Linear-Assertive {Extroverted, Rational, Dynamic}
 $\text{IJ}$ = Balanced-Stable {Introverted, Rational, Static}   
 
 $\mathcal{A}(\text{EP})$ = Anti-Flexible-Manoeuvring {Introverted, Rational, Dynamic}       
-$\mathcalA}(\text{IP})$ = Anti-Receptive-Adaptive {Extroverted, Rational, Static}       
+$\mathcal{A}(\text{IP})$ = Anti-Receptive-Adaptive {Extroverted, Rational, Static}       
 $\mathcal{A}(\text{EJ})$ = Anti-Linear-Assertive {Introverted, Irrational, Static}  
 $\mathcal{A}(\text{IJ})$ = Anti-Balanced-Stable {Extroverted, Irrational, Dynamic}   
 
