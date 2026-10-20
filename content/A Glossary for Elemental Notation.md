@@ -56,7 +56,7 @@ $\text{D}$ = Declatimity-Base $\{ \alpha \mathrm{Fe}, \beta \mathrm{Ti}, \gamma 
 
 ### "Anti" Quaternions/Tetrads
 
-$\mathcal{A}(\text{X})$ = If a tetrad/quaternion can be defined by three intersected traits, then in the context of a continuous space an "anti" tetrad/quaternion can be defined by the flip of all three traits, even though this would be considered to be illegal in the classical 4D vector space over $\mathbb{F}_{2}$ representations of the "types". The three traits cutting out a tetrad/quaternion are never independent, with the third being the product of the other two. Talanov, however, approaches this differently. In his system all of the Reinin dichotomies are linearly independent and exist on a continuous or bounded space, so the "types" can be described in $[-1,1]^{15}$. This star notation is deployed often in mathematics representing the antipodal point of 
+$\mathcal{A}(\text{X})$ = If a tetrad/quaternion can be defined by three intersected traits, then in the context of a continuous space an "anti" tetrad/quaternion can be defined by the flip of all three traits, even though this would be considered to be illegal in the classical 4D vector space over $\mathbb{F}_{2}$ representations of the "types". The three traits cutting out a tetrad/quaternion are never independent, with the third being the product of the other two. Talanov, however, approaches this differently. In his system all of the Reinin dichotomies are linearly independent and exist on a continuous or bounded space, so the "types" can be described in $[-1,1]^{15}$. $\mathcal{A}$ lands off-lattice iff an odd number of defining traits flip.
 
 #### Example I: Quadras and "Anti-Quadras"
 
@@ -80,11 +80,11 @@ $\text{IJ}$ = Balanced-Stable {Introverted, Rational, Static}
 $(\text{EP})^*$ = Anti-Flexible-Manoeuvring {Introverted, Rational, Dynamic}       
 $(\text{IP})^*$ = Anti-Receptive-Adaptive {Extroverted, Rational, Static}       
 $(\text{EJ})^*$ = Anti-Linear-Assertive {Introverted, Irrational, Static}  
-$(\text{IJ})^*$ = Anti-Balanced-Stable {Extroverted, Irrational, Dynamic}   
+$\mathcal{}(\text{IJ})$ = Anti-Balanced-Stable {Extroverted, Irrational, Dynamic}   
 
 #### Addendum
 
-This notation is not exclusively for use when describing tetrads or quaternions, and may be deployed when describing elements belonging to a different partition space, such as dyads, for example, where instead of inverting 3 dichotomy traits, you invert all 7 of them.  
+$\mathcal{A}$ is not exclusively for use when describing tetrads or quaternions, and may be deployed when describing elements belonging to a different partition space, such as dyads, for example, where instead of inverting 3 dichotomy traits, you invert all 7 of them.  
 
 
 # Further Reading
