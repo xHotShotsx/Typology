@@ -77,8 +77,8 @@ $\text{IP}$ = Receptive-Adaptive {Introverted, Irrational, Dynamic}
 $\text{EJ}$ = Linear-Assertive {Extroverted, Rational, Dynamic}
 $\text{IJ}$ = Balanced-Stable {Introverted, Rational, Static}  
 
-$\text{EP}$ = Flexible-Manoeuvring {Extroverted, Irrational, Static}  
-$\text{IP}$ = Receptive-Adaptive {Introverted, Irrational, Dynamic}  
+$\text{EP}^*$ = Flexible-Manoeuvring {Introverted, Rational, Dynamic}  
+$\text{IP}^*$ = Receptive-Adaptive {Extroverted, Rational, Static}  
 $\text{EJ}$ = Linear-Assertive {Extroverted, Rational, Dynamic}
 $\text{IJ}$ = Balanced-Stable {Introverted, Rational, Static}  
 
