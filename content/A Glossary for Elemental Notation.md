@@ -75,7 +75,13 @@ $\delta^*$ = Anti-Delta {Decisive, Merry, Democratic}
 $\text{EP}$ = Flexible-Manoeuvring {Extroverted, Irrational, Static}  
 $\text{IP}$ = Receptive-Adaptive {Introverted, Irrational, Dynamic}  
 $\text{EJ}$ = Linear-Assertive {Extroverted, Rational, Dynamic}
-$\text{IP}$ = Linear-Assertive
+$\text{IJ}$ = Balanced-Stable {Introverted, Rational, Static}  
+
+$\text{EP}$ = Flexible-Manoeuvring {Extroverted, Irrational, Static}  
+$\text{IP}$ = Receptive-Adaptive {Introverted, Irrational, Dynamic}  
+$\text{EJ}$ = Linear-Assertive {Extroverted, Rational, Dynamic}
+$\text{IJ}$ = Balanced-Stable {Introverted, Rational, Static}  
+
 
 # Further Reading
 
