@@ -72,7 +72,8 @@ $\delta^*$ = Anti-Delta {Decisive, Merry, Democratic}
 
 ### # Example II: Temperaments and Anti-Temperaments
 
-$\text{EP}$ = Flexible-Manoeuvring {} 
+$\text{EP}$ = Flexible-Manoeuvring {Extroverted, Irrational, Static}  
+$\text{IP}$ = Receptive-Adaptive {}  
 
 # Further Reading
 
