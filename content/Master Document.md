@@ -22189,26 +22189,43 @@ $\text{X}_\text{min}$ = "Least" or "deficiency" of this element. Could also be u
 
 ## Tetradic Elements
 
-## Pseudo-Aspect / Pseudo-Faculty / Pseudo-Domain / Pseudo-Macro Element
+### Pseudo-Aspect / Pseudo-Faculty / Pseudo-Domain / Pseudo-Macro Element
 
 $\text{Q}$ = Questimity-Base $\{ \alpha \mathrm{Ti}, \beta \mathrm{Fe}, \gamma \mathrm{Fi}, \delta \mathrm{Te}  \}$  
 $\text{D}$ = Declatimity-Base $\{ \alpha \mathrm{Fe}, \beta \mathrm{Ti}, \gamma \mathrm{Te}, \delta \mathrm{Fi}  \}$  
 
 ### "Anti" Quaternions/Tetrads
 
-$\overline{\text{X}}$ = If a tetrad/quaternion can be defined by three intersected traits, then in the context of a continuous space an "anti" tetrad/quaternion can be defined by the flip of all three traits, even though this would considered to be illegal in the classical 4D vector space representations of the "types".  
+$\mathrm{ant}(\text{X})$ denotes the tetrad/quaternion obtained by inverting all three of $\text{X}$'s defining traits, even though this would be considered to be illegal in the classical representation of the types as a 4D vector space over $\mathbb{F}_{2}$, an approach I will tentatively dub "Discrete Socionics". In Discrete Socionics, the three traits cutting out a tetrad/quaternion are never independent, with the third being the sum of the other two. Talanov, however, approaches this differently. In "Continuous Socionics", a term coined by the Discord user "Feliens", all of the Reinin dichotomies are linearly independent and exist on a continuous, bounded space, so the "types" can be described in $[-1,1]^{15}$.
 
-#### Examples (Quadras and Anti-Quadras)  
+#### Example I: Quadras and "Anti-Quadras"
 
 $\alpha$ = Alpha {Judicious, Merry, Democratic}     
 $\beta$ = Beta {Decisive, Merry, Aristocratic}  
 $\gamma$ = Gamma {Decisive, Serious, Democratic}    
 $\delta$ = Delta {Judicious, Serious, Aristocratic}  
 
-$\overline{\alpha}$ = Anti-Alpha {Decisive, Serious, Aristocratic}    
-$\overline{\beta}$ = Anti-Beta {Judicious, Serious, Democratic}  
-$\overline{\gamma}$ = Anti-Gamma {Judicious, Merry, Aristocratic}  
-$\overline{\delta}$ = Anti-Delta {Decisive, Merry, Democratic}
+$\mathrm{ant}(\alpha)$ = Anti-Alpha {Decisive, Serious, Aristocratic}    
+$\mathrm{ant}(\beta)$ = Anti-Beta {Judicious, Serious, Democratic}  
+$\mathrm{ant}(\gamma)$ = Anti-Gamma {Judicious, Merry, Aristocratic}  
+$\mathrm{ant}(\delta)$ = Anti-Delta {Decisive, Merry, Democratic}
+
+#### Example II: Temperaments and "Anti-Temperaments"
+
+$\text{EP}$ = Flexible-Manoeuvring {Extroverted, Irrational, Static}      
+$\text{IP}$ = Receptive-Adaptive {Introverted, Irrational, Dynamic}     
+$\text{EJ}$ = Linear-Assertive {Extroverted, Rational, Dynamic}  
+$\text{IJ}$ = Balanced-Stable {Introverted, Rational, Static}   
+
+$\mathrm{ant}(\text{EP})$ = Anti-Flexible-Manoeuvring {Introverted, Rational, Dynamic}       
+$\mathrm{ant}(\text{IP})$ = Anti-Receptive-Adaptive {Extroverted, Rational, Static}       
+$\mathrm{ant}(\text{EJ})$ = Anti-Linear-Assertive {Introverted, Irrational, Static}  
+$\mathrm{ant}(\text{IJ})$ = Anti-Balanced-Stable {Extroverted, Irrational, Dynamic}   
+
+#### Addendum
+
+$\mathrm{ant}$ is not exclusively for use when describing tetrads or quaternions, and may be deployed when describing elements belonging to a different partition space, such as dyads, for example, where instead of inverting 3 dichotomy traits, you invert all 7 of them.  
+
 
 # Further Reading
 
