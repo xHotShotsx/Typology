@@ -58,7 +58,7 @@ $\text{D}$ = Declatimity-Base $\{ \alpha \mathrm{Fe}, \beta \mathrm{Ti}, \gamma 
 
 $\text{X}^*$ = If a tetrad/quaternion can be defined by three intersected traits, then in the context of a continuous space an "anti" tetrad/quaternion can be defined by the flip of all three traits, even though this would considered to be illegal in the classical 4D vector space representations of the "types". This star notation is deployed often in mathematics representing the antipodal point of a geometric or topological object.  
 
-### Example I: Quadras and "Anti-Quadras"
+#### Example I: Quadras and "Anti-Quadras"
 
 $\alpha$ = Alpha {Judicious, Merry, Democratic}     
 $\beta$ = Beta {Decisive, Merry, Aristocratic}  
@@ -80,7 +80,7 @@ $\text{IJ}$ = Balanced-Stable {Introverted, Rational, Static}
 $(\text{EP})^*$ = Anti-Flexible-Manoeuvring {Introverted, Rational, Dynamic}       
 $(\text{IP})^*$ = Anti-Receptive-Adaptive {Extroverted, Rational, Static}       
 $(\text{EJ})^*$ = Anti-Linear-Assertive {Introverted, Irrational, Static}  
-$(\text{IJ})^*$ = Anti-Balanced-Stable {Extroverted, Rational, Dynamic}   
+$(\text{IJ})^*$ = Anti-Balanced-Stable {Extroverted, Irrational, Dynamic}   
 
 #### Addendum
 
