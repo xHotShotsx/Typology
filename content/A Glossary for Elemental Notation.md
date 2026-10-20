@@ -65,9 +65,9 @@ $\beta$ = Beta {Decisive, Merry, Aristocratic}
 $\gamma$ = Gamma {Decisive, Serious, Democratic}    
 $\delta$ = Delta {Judicious, Serious, Aristocratic}  
 
-$\alpha^*$ = Anti-Alpha {Decisive, Serious, Aristocratic}    
-$\beta^*$ = Anti-Beta {Judicious, Serious, Democratic}  
-$\gamma^*$ = Anti-Gamma {Judicious, Merry, Aristocratic}  
+$\mathcal{A}(\alpha)$ = Anti-Alpha {Decisive, Serious, Aristocratic}    
+$\mathcal{A}(\beta)$ = Anti-Beta {Judicious, Serious, Democratic}  
+$\mathcal{A}(\gamma)$ = Anti-Gamma {Judicious, Merry, Aristocratic}  
 $\delta^*$ = Anti-Delta {Decisive, Merry, Democratic}
 
 #### Example II: Temperaments and "Anti-Temperaments"
