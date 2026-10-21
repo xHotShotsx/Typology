@@ -22141,7 +22141,7 @@ $$ \begin{pmatrix} \text{ILE} & \text{SEI} & \text{SLI} & \text{IEE} \\ \text{LS
 # Orbital Traits
 
 1. $\text{st(X) / dy(X)}$ = Static Element / Dynamic Element  
-2. $\exists\text{(X)} \text{ / } \forall\text{(X)}$ = Democratic Element / Aristocratic Element
+2. $\text{(X)}\exists \text{ / } \text{(X)}\forall$ = Democratic Element / Aristocratic Element
 3. $\text{?(X) / !(X)}$ = Questim Element / Declatim Element
 4. $\text{P(X) / J(X)}$ = Irrational Element / Rational Element
 5. $\text{(X)e / (X)i}$ = Extroverted Element / Introverted Element
