@@ -22,7 +22,7 @@ Coordinate assignment:
 
   111 -> Fi
 
-Dichotomies (Tencer-Mina):
+Dichotomies (Tencer-Minaev):
 
   d1: Ne,Si,Fe,Ti | Se,Ni,Te,Fi (1stAlpha | 1stGamma)
 
@@ -1124,7 +1124,7 @@ Coordinate assignment:
 
   111 -> Se
 
-Dichotomies:
+Dichotomies (Semidual Mirage HEF):
 
   d1: Ne,Si,Fe,Fi | Ti,Se,Ni,Te (SEI+IEE HEF | SLE+ILI HEF)
 
