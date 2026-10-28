@@ -831,79 +831,148 @@ Dichotomies:
   d7: ?(NT),?(SF),?(ST),!(NF) | !(SF),?(NF),!(ST),!(NT)
 
 System 24
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> ?(ST)
+  
   100 -> !(ST)
+  
   101 -> !(NF)
+  
   110 -> !(NT)
+  
   111 -> ?(SF)
+
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),?(ST) | !(ST),?(SF),!(NT),!(NF)
+  
   d2: ?(NT),!(SF),!(ST),!(NF) | ?(NF),?(SF),!(NT),?(ST)
+  
   d3: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic / Aristocratic)
+  
   d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF / LSE+IEE HEF)
+  
   d5: ?(NT),?(NF),?(SF),!(NF) | !(SF),!(ST),!(NT),?(ST)
+  
   d6: ?(NT),!(ST),?(SF),?(ST) | !(SF),?(NF),!(NT),!(NF)
+  
   d7: ?(NT),!(NT),?(ST),!(NF) | !(SF),?(NF),!(ST),?(SF)
 
 System 25
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> !(NF)
+  
   100 -> !(ST)
+  
   101 -> ?(SF)
+  
   110 -> !(NT)
+  
   111 -> ?(ST)
+
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF / ILI+ESI HEF)
+  
   d2: ?(NT),!(SF),!(ST),?(SF) | ?(NF),!(NT),?(ST),!(NF)
+  
   d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic / Nomadic)
+  
   d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF / LSE+IEE HEF)
+  
   d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking / Declaring)
+  
   d6: ?(NT),!(ST),?(ST),!(NF) | !(SF),?(NF),?(SF),!(NT)
+  
   d7: ?(NT),?(SF),!(NT),!(NF) | !(SF),?(NF),!(ST),?(ST)
 
 System 26
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> !(NF)
+  
   100 -> !(ST)
+  
   101 -> ?(SF)
+  
   110 -> ?(ST)
+  
   111 -> !(NT)
+
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF / ILI+ESI HEF)
+  
   d2: ?(NT),!(SF),!(ST),?(SF) | ?(NF),!(NT),?(ST),!(NF)
+  
   d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic / Nomadic)
+  
   d4: ?(NT),?(NF),!(ST),?(ST) | !(SF),?(SF),!(NT),!(NF)
+  
   d5: ?(NT),?(NF),?(SF),!(NT) | !(SF),!(ST),?(ST),!(NF)
+  
   d6: ?(NT),!(ST),!(NT),!(NF) | !(SF),?(NF),?(SF),?(ST)
+  
   d7: ?(NT),?(SF),?(ST),!(NF) | !(SF),?(NF),!(ST),!(NT)
 
 System 27
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> !(NF)
+  
   100 -> !(ST)
+  
   101 -> !(NT)
+  
   110 -> ?(SF)
+  
   111 -> ?(ST)
+
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF / ILI+ESI HEF)
+  
   d2: ?(NT),!(SF),!(ST),!(NT) | ?(NF),?(SF),?(ST),!(NF)
+  
+
   d3: ?(NT),!(SF),?(SF),?(ST) | ?(NF),!(ST),!(NT),!(NF)
+  
   d4: ?(NT),?(NF),!(ST),?(SF) | !(SF),!(NT),?(ST),!(NF)
+  
   d5: ?(NT),?(NF),!(NT),?(ST) | !(SF),!(ST),?(SF),!(NF)
+  
   d6: ?(NT),!(ST),?(ST),!(NF) | !(SF),?(NF),?(SF),!(NT)
+  
   d7: ?(NT),?(SF),!(NT),!(NF) | !(SF),?(NF),!(ST),?(ST)
 
 System 28
