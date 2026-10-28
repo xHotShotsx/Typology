@@ -17,7 +17,7 @@
 #1826: ILE,SEI,LII,LSI,ESI,EII,IEE,SLI
 
 #2808: ILE,SEI,SLE,IEI,SEE,ILI,IEE,SLI (Irrational / Rational)
-
+[[Element (Information) Dichotomies - All Affine Structures]]
 #2892: ILE,SEI,SLE,SEE,LIE,LSE,IEE,SLI
 
 #2897: ILE,SEI,SLE,SEE,ESI,EII,IEE,SLI

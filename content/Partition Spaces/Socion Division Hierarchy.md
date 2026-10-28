@@ -12,4 +12,4 @@ All partitions in this hierarchy are assumed are assumed to be proper (equicardi
 
 # References / Further Reading
 
- - https://docs.google.com/document/d/1BsfFGHnjdUvMvIwNWy5DcLyZekq0G9EXGx_JIYi3RT4/edit?tab=t.0
+ - https://docs.google.com/document/d/1BsfFGHnjdUvMvIwNWy5DcLyZekq0G9EXGx_JIYi3RT4/edit?tab=t.0[[Master Document]]
