@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "4cb6070f28d7572e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
+          },
+          {
             "id": "040ed67acfa3cdbd",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "Release Notes 1.14.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,7 +251,7 @@
       "enhanced-pdf-export:Export active Markdown to PDF": false
     }
   },
-  "active": "e24da4557981c956",
+  "active": "4cb6070f28d7572e",
   "lastOpenFiles": [
     "content/A Glossary for Elemental Notation.md",
     "content/A Mathematical Glossary of the Socion.md",
