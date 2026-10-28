@@ -3100,7 +3100,7 @@ Coordinate assignment:
 
 Dichotomies:
 
-  d1: Ne,Si,Fe,Fi | Ti,Se,Ni,Te (SEI+IEE HEF / SLE+ILI HEF)
+  d1: Ne,Si,Fe,Fi | Ti,Se,Ni,Te (SEI+IEE HEF | SLE+ILI HEF)
 
   d2: Ne,Si,Ti,Ni | Fe,Se,Te,Fi
 
@@ -3110,7 +3110,7 @@ Dichotomies:
 
   d5: Ne,Fe,Se,Ni | Si,Ti,Te,Fi
 
-  d6: Ne,Ti,Se,Fi | Si,Fe,Ni,Te (Static / Dynamic)
+  d6: Ne,Ti,Se,Fi | Si,Fe,Ni,Te (Static | Dynamic)
 
   d7: Ne,Ni,Te,Fi | Si,Fe,Ti,Se (LIE+EII HEF / ESE+LSI HEF)
 
@@ -3138,11 +3138,11 @@ Coordinate assignment:
 
 Dichotomies:
 
-  d1: Ne,Si,Fe,Fi | Ti,Se,Ni,Te (SEI+IEE HEF / SLE+ILI HEF)
+  d1: Ne,Si,Fe,Fi | Ti,Se,Ni,Te (SEI+IEE HEF | SLE+ILI HEF)
 
-  d2: Ne,Si,Ti,Te | Fe,Se,Ni,Fi (ILE+SLI HEF / IEI+SEE HEF)
+  d2: Ne,Si,Ti,Te | Fe,Se,Ni,Fi (ILE+SLI HEF | IEI+SEE HEF)
 
-  d3: Ne,Si,Se,Ni | Fe,Ti,Te,Fi (Irrational / Rational)
+  d3: Ne,Si,Se,Ni | Fe,Ti,Te,Fi (Irrational | Rational)
 
   d4: Ne,Fe,Ti,Se | Si,Ni,Te,Fi
 
@@ -3174,21 +3174,21 @@ Coordinate assignment:
 
   111 -> Se
 
-Dichotomies:
+Dichotomies (Semidual Mirage HEF):
 
   d1: Ne,Si,Fe,Fi | Ti,Se,Ni,Te (SEI+IEE HEF | SLE+ILI HEF)
 
   d2: Ne,Si,Ti,Te | Fe,Se,Ni,Fi (ILE+SLI HEF |  IEI+SEE HEF)
 
-  d3: Ne,Si,Se,Ni | Fe,Ti,Te,Fi (Irrational / Rational)
+  d3: Ne,Si,Se,Ni | Fe,Ti,Te,Fi (Irrational | Rational)
 
-  d4: Ne,Fe,Ti,Ni | Si,Se,Te,Fi (LII+EIE HEF / ESI+LSE HEF)
+  d4: Ne,Fe,Ti,Ni | Si,Se,Te,Fi (LII+EIE HEF | ESI+LSE HEF)
 
-  d5: Ne,Fe,Se,Te | Si,Ti,Ni,Fi (Extroverted / Introverted)
+  d5: Ne,Fe,Se,Te | Si,Ti,Ni,Fi (Extroverted | Introverted)
 
-  d6: Ne,Ti,Se,Fi | Si,Fe,Ni,Te (Static / Dynamic)
+  d6: Ne,Ti,Se,Fi | Si,Fe,Ni,Te (Static | Dynamic)
 
-  d7: Ne,Ni,Te,Fi | Si,Fe,Ti,Se (LIE+EII HEF / ESE+LSI HEF)
+  d7: Ne,Ni,Te,Fi | Si,Fe,Ti,Se (LIE+EII HEF | ESE+LSI HEF)
 
 ---
 
