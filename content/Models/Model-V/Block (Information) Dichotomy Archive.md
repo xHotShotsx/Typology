@@ -964,7 +964,6 @@ Dichotomies:
   
   d2: ?(NT),!(SF),!(ST),!(NT) | ?(NF),?(SF),?(ST),!(NF)
   
-
   d3: ?(NT),!(SF),?(SF),?(ST) | ?(NF),!(ST),!(NT),!(NF)
   
   d4: ?(NT),?(NF),!(ST),?(SF) | !(SF),!(NT),?(ST),!(NF)
