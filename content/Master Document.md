@@ -2732,7 +2732,7 @@ Dichotomies:
 
   d6: Ne,Ti,Se,Ni | Si,Fe,Te,Fi
 
-  d7: Ne,Ni,Te,Fi | Si,Fe,Ti,Se (LIE+EII HEF / ESE+LSI HEF)
+  d7: Ne,Ni,Te,Fi | Si,Fe,Ti,Se (LIE+EII HEF | ESE+LSI HEF)
 
   
 
@@ -2764,7 +2764,7 @@ Dichotomies:
 
   d3: Ne,Si,Ni,Fi | Fe,Ti,Se,Te
 
-  d4: Ne,Fe,Ti,Ni | Si,Se,Te,Fi (LII+EIE HEF / ESI+LSE HEF)
+  d4: Ne,Fe,Ti,Ni | Si,Se,Te,Fi (LII+EIE HEF | ESI+LSE HEF)
 
   d5: Ne,Fe,Se,Fi | Si,Ti,Ni,Te
 
@@ -2806,7 +2806,7 @@ Dichotomies:
 
   d5: Ne,Fe,Se,Ni | Si,Ti,Te,Fi
 
-  d6: Ne,Ti,Ni,Te | Si,Fe,Se,Fi (1stAbstract / 1stInvolved)
+  d6: Ne,Ti,Ni,Te | Si,Fe,Se,Fi (1stAbstract | 1stInvolved)
 
   d7: Ne,Se,Te,Fi | Si,Fe,Ti,Ni
 
@@ -2842,7 +2842,7 @@ Dichotomies:
 
   d4: Ne,Fe,Ti,Se | Si,Ni,Te,Fi
 
-  d5: Ne,Fe,Ni,Fi | Si,Ti,Se,Te (1stInternal / 1stExternal)
+  d5: Ne,Fe,Ni,Fi | Si,Ti,Se,Te (1stInternal | 1stExternal)
 
   d6: Ne,Ti,Te,Fi | Si,Fe,Se,Ni
 
@@ -2884,7 +2884,7 @@ Dichotomies:
 
   d6: Ne,Ti,Se,Te | Si,Fe,Ni,Fi
 
-  d7: Ne,Ni,Te,Fi | Si,Fe,Ti,Se (LIE+EII HEF / ESE+LSI HEF)
+  d7: Ne,Ni,Te,Fi | Si,Fe,Ti,Se (LIE+EII HEF | ESE+LSI HEF)
 
   
 
@@ -2914,13 +2914,13 @@ Dichotomies:
 
   d2: Ne,Si,Ti,Fi | Fe,Se,Ni,Te
 
-  d3: Ne,Si,Se,Ni | Fe,Ti,Te,Fi (Irrational / Rational)
+  d3: Ne,Si,Se,Ni | Fe,Ti,Te,Fi (Irrational | Rational)
 
   d4: Ne,Fe,Ti,Se | Si,Ni,Te,Fi
 
-  d5: Ne,Fe,Ni,Fi | Si,Ti,Se,Te (1stInternal / 1stExternal)
+  d5: Ne,Fe,Ni,Fi | Si,Ti,Se,Te (1stInternal | 1stExternal)
 
-  d6: Ne,Ti,Ni,Te | Si,Fe,Se,Fi (1stAbstract / 1stInvolved)
+  d6: Ne,Ti,Ni,Te | Si,Fe,Se,Fi (1stAbstract | 1stInvolved)
 
   d7: Ne,Se,Te,Fi | Si,Fe,Ti,Ni
 
@@ -2952,15 +2952,15 @@ Dichotomies:
 
   d2: Ne,Si,Ti,Fi | Fe,Se,Ni,Te
 
-  d3: Ne,Si,Se,Ni | Fe,Ti,Te,Fi (Irrational / Rational)
+  d3: Ne,Si,Se,Ni | Fe,Ti,Te,Fi (Irrational | Rational)
 
-  d4: Ne,Fe,Ti,Ni | Si,Se,Te,Fi (LII+EIE HEF / ESI+LSE HEF)
+  d4: Ne,Fe,Ti,Ni | Si,Se,Te,Fi (LII+EIE HEF | ESI+LSE HEF)
 
   d5: Ne,Fe,Se,Fi | Si,Ti,Ni,Te
 
   d6: Ne,Ti,Se,Te | Si,Fe,Ni,Fi
 
-  d7: Ne,Ni,Te,Fi | Si,Fe,Ti,Se (LIE+EII HEF / ESE+LSI HEF)
+  d7: Ne,Ni,Te,Fi | Si,Fe,Ti,Se (LIE+EII HEF | ESE+LSI HEF)
 
   
 
@@ -2986,15 +2986,15 @@ Coordinate assignment:
 
 Dichotomies:
 
-  d1: Ne,Si,Fe,Fi | Ti,Se,Ni,Te (SEI+IEE HEF / SLE+ILI HEF)
+  d1: Ne,Si,Fe,Fi | Ti,Se,Ni,Te (SEI+IEE HEF | SLE+ILI HEF)
 
   d2: Ne,Si,Ti,Se | Fe,Ni,Te,Fi
 
   d3: Ne,Si,Ni,Te | Fe,Ti,Se,Fi
 
-  d4: Ne,Fe,Ti,Ni | Si,Se,Te,Fi (LII+EIE HEF / ESI+LSE HEF)
+  d4: Ne,Fe,Ti,Ni | Si,Se,Te,Fi (LII+EIE HEF | ESI+LSE HEF)
 
-  d5: Ne,Fe,Se,Te | Si,Ti,Ni,Fi (Extroverted / Introverted)
+  d5: Ne,Fe,Se,Te | Si,Ti,Ni,Fi (Extroverted | Introverted)
 
   d6: Ne,Ti,Te,Fi | Si,Fe,Se,Ni
 
@@ -3024,7 +3024,7 @@ Coordinate assignment:
 
 Dichotomies:
 
-  d1: Ne,Si,Fe,Fi | Ti,Se,Ni,Te (SEI+IEE HEF / SLE+ILI HEF)
+  d1: Ne,Si,Fe,Fi | Ti,Se,Ni,Te (SEI+IEE HEF | SLE+ILI HEF)
 
   d2: Ne,Si,Ti,Se | Fe,Ni,Te,Fi
 
@@ -3062,7 +3062,7 @@ Coordinate assignment:
 
 Dichotomies:
 
-  d1: Ne,Si,Fe,Fi | Ti,Se,Ni,Te (SEI+IEE HEF / SLE+ILI HEF)
+  d1: Ne,Si,Fe,Fi | Ti,Se,Ni,Te (SEI+IEE HEF | SLE+ILI HEF)
 
   d2: Ne,Si,Ti,Ni | Fe,Se,Te,Fi
 
@@ -3112,7 +3112,7 @@ Dichotomies:
 
   d6: Ne,Ti,Se,Fi | Si,Fe,Ni,Te (Static | Dynamic)
 
-  d7: Ne,Ni,Te,Fi | Si,Fe,Ti,Se (LIE+EII HEF / ESE+LSI HEF)
+  d7: Ne,Ni,Te,Fi | Si,Fe,Ti,Se (LIE+EII HEF | ESE+LSI HEF)
 
   
 
