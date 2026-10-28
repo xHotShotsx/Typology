@@ -1,4 +1,4 @@
-#45:     ILE,SEI,ESE,LII,EIE,LSI,IEE,SLI (1stAlpha / 1stGamma)
+#45:    ILE,SEI,ESE,LII,EIE,LSI,IEE,SLI (1stAlpha / 1stGamma)
 
 #664:  ILE,SEI,ESE,EIE,SLE,SEE,IEE,SLI
 
