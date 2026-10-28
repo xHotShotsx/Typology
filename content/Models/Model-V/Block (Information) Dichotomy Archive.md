@@ -190,84 +190,155 @@ Coordinate assignment:
   001 -> !(SF)
   
   010 -> ?(NF)
+  
   011 -> !(ST)
+  
   100 -> ?(SF)
+  
   101 -> !(NF)
+  
   110 -> ?(ST)
+  
   111 -> !(NT)
+
 Dichotomies:
+  
   d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry / Serious)
+  
   d2: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative / Directive)
+  
   d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic / Nomadic)
+  
   d4: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking / Declaring)
+  
   d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive / Sensory)
+  
   d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic / Affiliative)
+  
   d7: ?(NT),!(ST),?(ST),!(NF) | !(SF),?(NF),?(SF),!(NT)
 
 System 7
+
 Coordinate assignment:
+  
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> ?(SF)
+  
   100 -> !(ST)
+  
   101 -> !(NT)
+  
   110 -> ?(ST)
+  
   111 -> !(NF)
+
 Dichotomies:
+  
   d1: ?(NT),!(SF),?(NF),?(SF) | !(ST),!(NT),?(ST),!(NF)
+  
   d2: ?(NT),!(SF),!(ST),!(NT) | ?(NF),?(SF),?(ST),!(NF)
+  
   d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious / Decisive)
+  
   d4: ?(NT),?(NF),!(ST),?(ST) | !(SF),?(SF),!(NT),!(NF)
+  
   d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive / Sensory)
+  
   d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static / Dynamic)
+  
   d7: ?(NT),?(SF),!(NT),?(ST) | !(SF),?(NF),!(ST),!(NF)
 
 System 8
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> ?(SF)
+  
   100 -> !(ST)
+  
   101 -> !(NT)
+  
   110 -> !(NF)
+  
   111 -> ?(ST)
+
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),?(SF) | !(ST),!(NT),?(ST),!(NF)
+  
   d2: ?(NT),!(SF),!(ST),!(NT) | ?(NF),?(SF),?(ST),!(NF)
+  
   d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious / Decisive)
+  
   d4: ?(NT),?(NF),!(ST),!(NF) | !(SF),?(SF),!(NT),?(ST)
+  
   d5: ?(NT),?(NF),!(NT),?(ST) | !(SF),!(ST),?(SF),!(NF)
+  
   d6: ?(NT),!(ST),?(SF),?(ST) | !(SF),?(NF),!(NT),!(NF)
+  
   d7: ?(NT),?(SF),!(NT),!(NF) | !(SF),?(NF),!(ST),?(ST)
 
 System 9
+
 Coordinate assignment:
+  
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> ?(SF)
+  
   100 -> !(ST)
+  
   101 -> ?(ST)
+  
   110 -> !(NT)
+  
   111 -> !(NF)
+
 Dichotomies:
+  
   d1: ?(NT),!(SF),?(NF),?(SF) | !(ST),!(NT),?(ST),!(NF)
+  
   d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF / SEE+LIE HEF)
+  
   d3: ?(NT),!(SF),!(NT),!(NF) | ?(NF),!(ST),?(SF),?(ST)
+  
   d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF / LSE+IEE HEF)
+  
   d5: ?(NT),?(NF),?(ST),!(NF) | !(SF),!(ST),?(SF),!(NT)
+  
   d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static / Dynamic)
+  
   d7: ?(NT),?(SF),!(NT),?(ST) | !(SF),?(NF),!(ST),!(NF)
 
 System 10
+
 Coordinate assignment:
+  
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> ?(SF)
+  
   100 -> !(ST)
+  
   101 -> ?(ST)
   110 -> !(NF)
   111 -> !(NT)
