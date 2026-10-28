@@ -705,6 +705,7 @@ Coordinate assignment:
   
   
   111 -> !(NT)
+
 Dichotomies:
 
   d1: ?(NT),!(SF),?(NF),?(ST) | !(ST),?(SF),!(NT),!(NF)
@@ -716,64 +717,117 @@ Dichotomies:
   d4: ?(NT),?(NF),!(ST),!(NF) | !(SF),?(SF),!(NT),?(ST)
   
   d5: ?(NT),?(NF),?(SF),!(NT) | !(SF),!(ST),?(ST),!(NF)
+
   d6: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical / Ethical)
+  
   d7: ?(NT),?(SF),?(ST),!(NF) | !(SF),?(NF),!(ST),!(NT)
 
 System 21
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> ?(ST)
+  
   100 -> !(ST)
+  
   101 -> !(NT)
+  
   110 -> ?(SF)
+  
   111 -> !(NF)
+
 Dichotomies:
+  
   d1: ?(NT),!(SF),?(NF),?(ST) | !(ST),?(SF),!(NT),!(NF)
+  
   d2: ?(NT),!(SF),!(ST),!(NT) | ?(NF),?(SF),?(ST),!(NF)
+
   d3: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative / Directive)
+  
   d4: ?(NT),?(NF),!(ST),?(SF) | !(SF),!(NT),?(ST),!(NF)
+  
   d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive / Sensory)
+  
   d6: ?(NT),!(ST),?(ST),!(NF) | !(SF),?(NF),?(SF),!(NT)
+  
   d7: ?(NT),?(SF),!(NT),?(ST) | !(SF),?(NF),!(ST),!(NF)
 
 System 22
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> ?(ST)
+  
   100 -> !(ST)
+  
   101 -> !(NT)
+  
   110 -> !(NF)
+  
   111 -> ?(SF)
+
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),?(ST) | !(ST),?(SF),!(NT),!(NF)
+  
   d2: ?(NT),!(SF),!(ST),!(NT) | ?(NF),?(SF),?(ST),!(NF)
+  
   d3: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative / Directive)
+
   d4: ?(NT),?(NF),!(ST),!(NF) | !(SF),?(SF),!(NT),?(ST)
+  
   d5: ?(NT),?(NF),?(SF),!(NT) | !(SF),!(ST),?(ST),!(NF)
+  
   d6: ?(NT),!(ST),?(SF),?(ST) | !(SF),?(NF),!(NT),!(NF)
+  
   d7: ?(NT),!(NT),?(ST),!(NF) | !(SF),?(NF),!(ST),?(SF)
 
 System 23
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
+
   011 -> ?(ST)
+  
   100 -> !(ST)
+  
   101 -> !(NF)
+  
   110 -> ?(SF)
+  
   111 -> !(NT)
+
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),?(ST) | !(ST),?(SF),!(NT),!(NF)
+ 
   d2: ?(NT),!(SF),!(ST),!(NF) | ?(NF),?(SF),!(NT),?(ST)
+  
   d3: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic / Aristocratic)
+  
   d4: ?(NT),?(NF),!(ST),?(SF) | !(SF),!(NT),?(ST),!(NF)
+  
   d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive / Sensory)
+  
   d6: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical / Ethical)
+  
   d7: ?(NT),?(SF),?(ST),!(NF) | !(SF),?(NF),!(ST),!(NT)
 
 System 24
