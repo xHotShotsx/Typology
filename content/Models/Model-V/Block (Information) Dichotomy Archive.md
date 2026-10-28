@@ -24,19 +24,19 @@ Coordinate assignment:
   
 Dichotomies:
 
-  d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry / Serious)
+  d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry | Serious)
   
-  d2: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic / Aristocratic) 
+  d2: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic | Aristocratic) 
   
-  d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious / Decisive)
+  d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious | Decisive)
   
-  d4: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking / Declaring)
+  d4: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
   
-  d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive / Sensory)
+  d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive | Sensory)
   
-  d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static / Dynamic)
+  d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static | Dynamic)
   
-  d7: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical / Ethical)
+  d7: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical | Ethical)
 
 System 2
 
@@ -60,11 +60,11 @@ Coordinate assignment:
   
 Dichotomies:
 
-  d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry / Serious)
+  d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry | Serious)
   
-  d2: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic / Aristocratic)
+  d2: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic | Aristocratic)
   
-  d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious / Decisive)
+  d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious | Decisive)
   
   d4: ?(NT),?(NF),?(SF),!(NF) | !(SF),!(ST),!(NT),?(ST)
   
@@ -95,7 +95,7 @@ Coordinate assignment:
   111 -> !(NF)
   
 Dichotomies:
-  d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry / Serious)
+  d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry | Serious)
   
   d2: ?(NT),!(SF),?(SF),?(ST) | ?(NF),!(ST),!(NT),!(NF)
   
@@ -105,9 +105,9 @@ Dichotomies:
   
   d5: ?(NT),?(NF),?(ST),!(NF) | !(SF),!(ST),?(SF),!(NT)
   
-  d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static / Dynamic)
+  d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static | Dynamic)
 
-  d7: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical / Ethical)
+  d7: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical | Ethical)
 
 System 4
 
@@ -131,7 +131,7 @@ Coordinate assignment:
   
 Dichotomies:
 
-  d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry / Serious)
+  d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry | Serious)
   
   d2: ?(NT),!(SF),?(SF),?(ST) | ?(NF),!(ST),!(NT),!(NF)
   
@@ -141,7 +141,7 @@ Dichotomies:
   
   d5: ?(NT),?(NF),!(NT),?(ST) | !(SF),!(ST),?(SF),!(NF)
   
-  d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic / Affiliative)
+  d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic | Affiliative)
   
   d7: ?(NT),!(ST),?(ST),!(NF) | !(SF),?(NF),?(SF),!(NT)
 
@@ -167,11 +167,11 @@ Coordinate assignment:
 
 Dichotomies:
 
-  d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry / Serious)
+  d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry | Serious)
   
-  d2: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative / Directive)
+  d2: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative | Directive)
   
-  d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic / Nomadic)
+  d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic | Nomadic)
   
   d4: ?(NT),?(NF),?(SF),!(NT) | !(SF),!(ST),?(ST),!(NF)
   
@@ -203,17 +203,17 @@ Coordinate assignment:
 
 Dichotomies:
   
-  d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry / Serious)
+  d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry | Serious)
   
-  d2: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative / Directive)
+  d2: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative | Directive)
   
-  d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic / Nomadic)
+  d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic | Nomadic)
   
-  d4: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking / Declaring)
+  d4: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
   
-  d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive / Sensory)
+  d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive | Sensory)
   
-  d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic / Affiliative)
+  d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic | Affiliative)
   
   d7: ?(NT),!(ST),?(ST),!(NF) | !(SF),?(NF),?(SF),!(NT)
 
@@ -243,13 +243,13 @@ Dichotomies:
   
   d2: ?(NT),!(SF),!(ST),!(NT) | ?(NF),?(SF),?(ST),!(NF)
   
-  d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious / Decisive)
+  d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious | Decisive)
   
   d4: ?(NT),?(NF),!(ST),?(ST) | !(SF),?(SF),!(NT),!(NF)
   
-  d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive / Sensory)
+  d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive | Sensory)
   
-  d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static / Dynamic)
+  d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static | Dynamic)
   
   d7: ?(NT),?(SF),!(NT),?(ST) | !(SF),?(NF),!(ST),!(NF)
 
@@ -279,7 +279,7 @@ Dichotomies:
   
   d2: ?(NT),!(SF),!(ST),!(NT) | ?(NF),?(SF),?(ST),!(NF)
   
-  d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious / Decisive)
+  d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious | Decisive)
   
   d4: ?(NT),?(NF),!(ST),!(NF) | !(SF),?(SF),!(NT),?(ST)
   
@@ -313,15 +313,15 @@ Dichotomies:
   
   d1: ?(NT),!(SF),?(NF),?(SF) | !(ST),!(NT),?(ST),!(NF)
   
-  d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF / SEE+LIE HEF)
+  d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF | SEE+LIE HEF)
   
   d3: ?(NT),!(SF),!(NT),!(NF) | ?(NF),!(ST),?(SF),?(ST)
   
-  d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF / LSE+IEE HEF)
+  d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF | LSE+IEE HEF)
   
   d5: ?(NT),?(NF),?(ST),!(NF) | !(SF),!(ST),?(SF),!(NT)
   
-  d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static / Dynamic)
+  d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static | Dynamic)
   
   d7: ?(NT),?(SF),!(NT),?(ST) | !(SF),?(NF),!(ST),!(NF)
 
@@ -350,7 +350,7 @@ Dichotomies:
   
   d1: ?(NT),!(SF),?(NF),?(SF) | !(ST),!(NT),?(ST),!(NF)
   
-  d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF / SEE+LIE HEF)
+  d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF | SEE+LIE HEF)
   
   d3: ?(NT),!(SF),!(NT),!(NF) | ?(NF),!(ST),?(SF),?(ST)
   
@@ -358,7 +358,7 @@ Dichotomies:
   
   d5: ?(NT),?(NF),!(NT),?(ST) | !(SF),!(ST),?(SF),!(NF)
   
-  d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic / Affiliative)
+  d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic | Affiliative)
   
   d7: ?(NT),?(SF),?(ST),!(NF) | !(SF),?(NF),!(ST),!(NT)
 
@@ -388,9 +388,9 @@ Dichotomies:
   
   d2: ?(NT),!(SF),!(ST),!(NF) | ?(NF),?(SF),!(NT),?(ST)
   
-  d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic / Nomadic)
+  d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic | Nomadic)
   
-  d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF / LSE+IEE HEF)
+  d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF | LSE+IEE HEF)
   
   d5: ?(NT),?(NF),?(ST),!(NF) | !(SF),!(ST),?(SF),!(NT)
   
@@ -424,13 +424,13 @@ Dichotomies:
   
   d2: ?(NT),!(SF),!(ST),!(NF) | ?(NF),?(SF),!(NT),?(ST)
   
-  d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic / Nomadic)
+  d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic | Nomadic)
   
   d4: ?(NT),?(NF),!(ST),?(ST) | !(SF),?(SF),!(NT),!(NF)
   
-  d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive / Sensory)
+  d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive | Sensory)
   
-  d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic / Affiliative)
+  d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic | Affiliative)
   
   d7: ?(NT),?(SF),?(ST),!(NF) | !(SF),?(NF),!(ST),!(NT)
 
@@ -460,7 +460,7 @@ Dichotomies:
   
   d2: ?(NT),!(SF),!(ST),?(SF) | ?(NF),!(NT),?(ST),!(NF)
   
-  d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious / Decisive)
+  d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious | Decisive)
   
   d4: ?(NT),?(NF),!(ST),?(ST) | !(SF),?(SF),!(NT),!(NF)
   
@@ -496,13 +496,13 @@ Dichotomies:
   
   d2: ?(NT),!(SF),!(ST),?(SF) | ?(NF),!(NT),?(ST),!(NF)
   
-  d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious / Decisive)
+  d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious | Decisive)
   
   d4: ?(NT),?(NF),!(ST),!(NF) | !(SF),?(SF),!(NT),?(ST)
   
-  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking / Declaring)
+  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
   
-  d6: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical / Ethical)
+  d6: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical | Ethical)
   
   d7: ?(NT),?(SF),!(NT),!(NF) | !(SF),?(NF),!(ST),?(ST)
 
@@ -530,9 +530,9 @@ Dichotomies:
 
   d1: ?(NT),!(SF),?(NF),!(NT) | !(ST),?(SF),?(ST),!(NF)
   
-  d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF / SEE+LIE HEF)
+  d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF | SEE+LIE HEF)
   
-  d3: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative / Directive)
+  d3: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative | Directive)
   
   d4: ?(NT),?(NF),!(ST),?(SF) | !(SF),!(NT),?(ST),!(NF)
   
@@ -566,14 +566,14 @@ Dichotomies:
 
   d1: ?(NT),!(SF),?(NF),!(NT) | !(ST),?(SF),?(ST),!(NF)
   
-  d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF / SEE+LIE HEF)
+  d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF | SEE+LIE HEF)
   
-  d3: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative / Directive)
+  d3: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative | Directive)
   
   d4: ?(NT),?(NF),!(ST),!(NF) | !(SF),?(SF),!(NT),?(ST)
-  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking / Declaring)
+  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
   
-  d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic / Affiliative)
+  d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic | Affiliative)
   
   d7: ?(NT),!(NT),?(ST),!(NF) | !(SF),?(NF),!(ST),?(SF)
 
@@ -609,7 +609,7 @@ Dichotomies:
   
   d5: ?(NT),?(NF),?(ST),!(NF) | !(SF),!(ST),?(SF),!(NT)
   
-  d6: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical / Ethical)
+  d6: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical | Ethical)
   
   d7: ?(NT),?(SF),!(NT),!(NF) | !(SF),?(NF),!(ST),?(ST)
 
@@ -645,7 +645,7 @@ Dichotomies:
   
   d5: ?(NT),?(NF),?(SF),!(NF) | !(SF),!(ST),!(NT),?(ST)
   
-  d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic / Affiliative)
+  d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic | Affiliative)
   
   d7: ?(NT),!(NT),?(ST),!(NF) | !(SF),?(NF),!(ST),?(SF)
 
@@ -677,7 +677,7 @@ Dichotomies:
   
   d3: ?(NT),!(SF),!(NT),!(NF) | ?(NF),!(ST),?(SF),?(ST)
   
-  d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF / LSE+IEE HEF)
+  d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF | LSE+IEE HEF)
   
   d5: ?(NT),?(NF),?(SF),!(NF) | !(SF),!(ST),!(NT),?(ST)
   
@@ -718,7 +718,7 @@ Dichotomies:
   
   d5: ?(NT),?(NF),?(SF),!(NT) | !(SF),!(ST),?(ST),!(NF)
 
-  d6: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical / Ethical)
+  d6: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical | Ethical)
   
   d7: ?(NT),?(SF),?(ST),!(NF) | !(SF),?(NF),!(ST),!(NT)
 
@@ -747,11 +747,11 @@ Dichotomies:
   
   d2: ?(NT),!(SF),!(ST),!(NT) | ?(NF),?(SF),?(ST),!(NF)
 
-  d3: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative / Directive)
+  d3: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative | Directive)
   
   d4: ?(NT),?(NF),!(ST),?(SF) | !(SF),!(NT),?(ST),!(NF)
   
-  d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive / Sensory)
+  d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive | Sensory)
   
   d6: ?(NT),!(ST),?(ST),!(NF) | !(SF),?(NF),?(SF),!(NT)
   
@@ -783,7 +783,7 @@ Dichotomies:
   
   d2: ?(NT),!(SF),!(ST),!(NT) | ?(NF),?(SF),?(ST),!(NF)
   
-  d3: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative / Directive)
+  d3: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative | Directive)
 
   d4: ?(NT),?(NF),!(ST),!(NF) | !(SF),?(SF),!(NT),?(ST)
   
@@ -820,13 +820,13 @@ Dichotomies:
  
   d2: ?(NT),!(SF),!(ST),!(NF) | ?(NF),?(SF),!(NT),?(ST)
   
-  d3: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic / Aristocratic)
+  d3: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic | Aristocratic)
   
   d4: ?(NT),?(NF),!(ST),?(SF) | !(SF),!(NT),?(ST),!(NF)
   
-  d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive / Sensory)
+  d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive | Sensory)
   
-  d6: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical / Ethical)
+  d6: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical | Ethical)
   
   d7: ?(NT),?(SF),?(ST),!(NF) | !(SF),?(NF),!(ST),!(NT)
 
@@ -856,9 +856,9 @@ Dichotomies:
   
   d2: ?(NT),!(SF),!(ST),!(NF) | ?(NF),?(SF),!(NT),?(ST)
   
-  d3: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic / Aristocratic)
+  d3: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic | Aristocratic)
   
-  d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF / LSE+IEE HEF)
+  d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF | LSE+IEE HEF)
   
   d5: ?(NT),?(NF),?(SF),!(NF) | !(SF),!(ST),!(NT),?(ST)
   
@@ -888,15 +888,15 @@ Coordinate assignment:
 
 Dichotomies:
 
-  d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF / ILI+ESI HEF)
+  d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF | ILI+ESI HEF)
   
   d2: ?(NT),!(SF),!(ST),?(SF) | ?(NF),!(NT),?(ST),!(NF)
   
-  d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic / Nomadic)
+  d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic | Nomadic)
   
-  d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF / LSE+IEE HEF)
+  d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF | LSE+IEE HEF)
   
-  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking / Declaring)
+  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
   
   d6: ?(NT),!(ST),?(ST),!(NF) | !(SF),?(NF),?(SF),!(NT)
   
@@ -924,11 +924,11 @@ Coordinate assignment:
 
 Dichotomies:
 
-  d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF / ILI+ESI HEF)
+  d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF | ILI+ESI HEF)
   
   d2: ?(NT),!(SF),!(ST),?(SF) | ?(NF),!(NT),?(ST),!(NF)
   
-  d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic / Nomadic)
+  d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic | Nomadic)
   
   d4: ?(NT),?(NF),!(ST),?(ST) | !(SF),?(SF),!(NT),!(NF)
   
@@ -960,7 +960,7 @@ Coordinate assignment:
 
 Dichotomies:
 
-  d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF / ILI+ESI HEF)
+  d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF | ILI+ESI HEF)
   
   d2: ?(NT),!(SF),!(ST),!(NT) | ?(NF),?(SF),?(ST),!(NF)
   
@@ -976,59 +976,110 @@ Dichotomies:
   d7: ?(NT),?(SF),!(NT),!(NF) | !(SF),?(NF),!(ST),?(ST)
 
 System 28
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> !(NF)
+  
   100 -> !(ST)
+  
   101 -> !(NT)
+  
   110 -> ?(ST)
+  
   111 -> ?(SF)
+
 Dichotomies:
-  d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF / ILI+ESI HEF)
+
+  d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF | ILI+ESI HEF)
+  
   d2: ?(NT),!(SF),!(ST),!(NT) | ?(NF),?(SF),?(ST),!(NF)
+  
   d3: ?(NT),!(SF),?(SF),?(ST) | ?(NF),!(ST),!(NT),!(NF)
+  
   d4: ?(NT),?(NF),!(ST),?(ST) | !(SF),?(SF),!(NT),!(NF)
+  
   d5: ?(NT),?(NF),?(SF),!(NT) | !(SF),!(ST),?(ST),!(NF)
-  d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static / Dynamic)
+  
+  d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static | Dynamic)
+  
   d7: ?(NT),!(NT),?(ST),!(NF) | !(SF),?(NF),!(ST),?(SF)
 
 System 29
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> !(NF)
+  
   100 -> !(ST)
+  
   101 -> ?(ST)
+  
   110 -> ?(SF)
+  
   111 -> !(NT)
+
 Dichotomies:
-  d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF / ILI+ESI HEF)
-  d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF / SEE+LIE HEF)
-  d3: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic / Aristocratic)
+
+  d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF | ILI+ESI HEF)
+  
+  d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF | SEE+LIE HEF)
+  
+  d3: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic | Aristocratic)
+  
   d4: ?(NT),?(NF),!(ST),?(SF) | !(SF),!(NT),?(ST),!(NF)
+  
   d5: ?(NT),?(NF),!(NT),?(ST) | !(SF),!(ST),?(SF),!(NF)
+  
   d6: ?(NT),!(ST),!(NT),!(NF) | !(SF),?(NF),?(SF),?(ST)
+  
   d7: ?(NT),?(SF),?(ST),!(NF) | !(SF),?(NF),!(ST),!(NT)
 
-System 30 (Activation Quasi Identity HEF)
-Coordinate assignment:
-  000 -> ?(NT)
-  001 -> !(SF)
-  010 -> ?(NF)
-  011 -> !(NF)
-  100 -> !(ST)
-  101 -> ?(ST)
-  110 -> !(NT)
-  111 -> ?(SF)
-Dichotomies:
-  d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF / ILI+ESI HEF)
-  d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF / SEE+LIE HEF)
-  d3: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic / Aristocratic)
-  d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF / LSE+IEE HEF)
-  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking / Declaring)
-  d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static / Dynamic)
-  d7: ?(NT),!(NT),?(ST),!(NF) | !(SF),?(NF),!(ST),?(SF) (EII+SLI HEF / LSI+IEI HEF)
 
+System 30 (Activation Quasi Identity HEF)
+
+Coordinate assignment:
+
+  000 -> ?(NT)
+  
+  001 -> !(SF)
+  
+  010 -> ?(NF)
+  
+  011 -> !(NF)
+  
+  100 -> !(ST)
+  
+  101 -> ?(ST)
+  
+  110 -> !(NT)
+  
+  111 -> ?(SF)
+
+Dichotomies:
+  
+  d1: ?(NT),!(SF),?(NF),!(NF) | !(ST),?(SF),!(NT),?(ST) (SEI+LII HEF | ILI+ESI HEF)
+
+  d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF | SEE+LIE HEF)
+  
+  d3: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic | Aristocratic)
+  
+  d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF | LSE+IEE HEF)
+  
+  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
+  
+  d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static | Dynamic)
+  
+  d7: ?(NT),!(NT),?(ST),!(NF) | !(SF),?(NF),!(ST),?(SF) (EII+SLI HEF | LSI+IEI HEF)
