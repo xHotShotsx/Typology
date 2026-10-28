@@ -339,105 +339,194 @@ Coordinate assignment:
   
   100 -> !(ST)
   
+  
   101 -> ?(ST)
+  
   110 -> !(NF)
+  
   111 -> !(NT)
+
 Dichotomies:
+  
   d1: ?(NT),!(SF),?(NF),?(SF) | !(ST),!(NT),?(ST),!(NF)
+  
   d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF / SEE+LIE HEF)
+  
   d3: ?(NT),!(SF),!(NT),!(NF) | ?(NF),!(ST),?(SF),?(ST)
+  
   d4: ?(NT),?(NF),!(ST),!(NF) | !(SF),?(SF),!(NT),?(ST)
+  
   d5: ?(NT),?(NF),!(NT),?(ST) | !(SF),!(ST),?(SF),!(NF)
+  
   d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic / Affiliative)
+  
   d7: ?(NT),?(SF),?(ST),!(NF) | !(SF),?(NF),!(ST),!(NT)
 
 System 11
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> ?(SF)
+  
   100 -> !(ST)
+  
   101 -> !(NF)
+  
   110 -> !(NT)
+  
   111 -> ?(ST)
+
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),?(SF) | !(ST),!(NT),?(ST),!(NF)
+  
   d2: ?(NT),!(SF),!(ST),!(NF) | ?(NF),?(SF),!(NT),?(ST)
+  
   d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic / Nomadic)
+  
   d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF / LSE+IEE HEF)
+  
   d5: ?(NT),?(NF),?(ST),!(NF) | !(SF),!(ST),?(SF),!(NT)
+  
   d6: ?(NT),!(ST),?(SF),?(ST) | !(SF),?(NF),!(NT),!(NF)
+  
   d7: ?(NT),?(SF),!(NT),!(NF) | !(SF),?(NF),!(ST),?(ST)
 
 System 12
+
 Coordinate assignment:
+  
   000 -> ?(NT)
-  001 -> !(SF)
+  
+  001 -> !(SF)  
+  
   010 -> ?(NF)
+  
   011 -> ?(SF)
+  
   100 -> !(ST)
+  
   101 -> !(NF)
+  
   110 -> ?(ST)
+  
   111 -> !(NT)
+D
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),?(SF) | !(ST),!(NT),?(ST),!(NF)
+  
   d2: ?(NT),!(SF),!(ST),!(NF) | ?(NF),?(SF),!(NT),?(ST)
+  
   d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic / Nomadic)
+  
   d4: ?(NT),?(NF),!(ST),?(ST) | !(SF),?(SF),!(NT),!(NF)
+  
   d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive / Sensory)
+  
   d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic / Affiliative)
+  
   d7: ?(NT),?(SF),?(ST),!(NF) | !(SF),?(NF),!(ST),!(NT)
 
 System 13
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> !(NT)
+  
   100 -> !(ST)
+  
   101 -> ?(SF)
+  
   110 -> ?(ST)
+  
   111 -> !(NF)
+
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),!(NT) | !(ST),?(SF),?(ST),!(NF)
+  
   d2: ?(NT),!(SF),!(ST),?(SF) | ?(NF),!(NT),?(ST),!(NF)
+  
   d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious / Decisive)
+  
   d4: ?(NT),?(NF),!(ST),?(ST) | !(SF),?(SF),!(NT),!(NF)
+  
   d5: ?(NT),?(NF),?(SF),!(NF) | !(SF),!(ST),!(NT),?(ST)
+  
   d6: ?(NT),!(ST),!(NT),!(NF) | !(SF),?(NF),?(SF),?(ST)
+  
   d7: ?(NT),?(SF),!(NT),?(ST) | !(SF),?(NF),!(ST),!(NF)
 
 System 14
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> !(NT)
+  
   100 -> !(ST)
+  
   101 -> ?(SF)
+  
   110 -> !(NF)
+  
   111 -> ?(ST)
+
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),!(NT) | !(ST),?(SF),?(ST),!(NF)
+  
   d2: ?(NT),!(SF),!(ST),?(SF) | ?(NF),!(NT),?(ST),!(NF)
+  
   d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious / Decisive)
+  
   d4: ?(NT),?(NF),!(ST),!(NF) | !(SF),?(SF),!(NT),?(ST)
+  
   d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking / Declaring)
+  
   d6: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical / Ethical)
+  
   d7: ?(NT),?(SF),!(NT),!(NF) | !(SF),?(NF),!(ST),?(ST)
 
 System 15
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> !(NT)
+  
   100 -> !(ST)
+  
   101 -> ?(ST)
+  
   110 -> ?(SF)
+  
   111 -> !(NF)
-Dichotomies:
+D
+ichotomies:
   d1: ?(NT),!(SF),?(NF),!(NT) | !(ST),?(SF),?(ST),!(NF)
   d2: ?(NT),!(SF),!(ST),?(ST) | ?(NF),?(SF),!(NT),!(NF) (ILE+ESE HEF / SEE+LIE HEF)
   d3: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative / Directive)
