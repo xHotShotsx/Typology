@@ -4600,7 +4600,7 @@ Coordinate assignment:
   
   111 -> !(NT)
 
-Dichotomies:
+Dichotomies (Keirsey-Berens):
   
   d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry | Serious)
   
