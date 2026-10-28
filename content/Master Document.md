@@ -2078,15 +2078,15 @@ Dichotomies (Tencer-Minaev):
 
   d2: Ne,Si,Se,Ni | Fe,Ti,Te,Fi (Irrational | Rational)
 
-  d3: Ne,Si,Te,Fi | Fe,Ti,Se,Ni (1stDelta / 1stBeta)
+  d3: Ne,Si,Te,Fi | Fe,Ti,Se,Ni (1stDelta | 1stBeta)
 
-  d4: Ne,Fe,Se,Te | Si,Ti,Ni,Fi (Extroverted / Introverted)
+  d4: Ne,Fe,Se,Te | Si,Ti,Ni,Fi (Extroverted | Introverted)
 
-  d5: Ne,Fe,Ni,Fi | Si,Ti,Se,Te (1stInternal / 1stExternal)
+  d5: Ne,Fe,Ni,Fi | Si,Ti,Se,Te (1stInternal | 1stExternal)
 
-  d6: Ne,Ti,Se,Fi | Si,Fe,Ni,Te (Static / Dynamic)
+  d6: Ne,Ti,Se,Fi | Si,Fe,Ni,Te (Static | Dynamic)
 
-  d7: Ne,Ti,Ni,Te | Si,Fe,Se,Fi (1stAbstract / 1stInvolved)
+  d7: Ne,Ti,Ni,Te | Si,Fe,Se,Fi (1stAbstract | 1stInvolved)
 
   
 
@@ -4288,7 +4288,7 @@ $\text{V}[\mathbb{S}/C_{4}]$: Model that is theoretical. Positivist/Negativist $
 
 #5056: ILE,LII,EIE,IEI,SEE,ILI,LIE,ESI
 
-#5083: ILE,LII,EIE,IEI,SEE,ESI,LSE,SLI (Asking / Declaring)
+#5083: ILE,LII,EIE,IEI,SEE,ESI,LSE,SLI (Questim / Declaring)
 
 #5084: ILE,LII,EIE,IEI,SEE,ESI,EII,IEE
 
@@ -4362,7 +4362,7 @@ $\text{V}[\mathbb{S}/C_{4}]$: Model that is theoretical. Positivist/Negativist $
 
 ?(NT),?(NF),?(SF),!(NT)
 
-?(NT),?(NF),?(SF),?(ST) (Asking / Declaring)
+?(NT),?(NF),?(SF),?(ST) (Questim / Declaring)
 
 ?(NT),?(NF),?(SF),!(NF)
 
@@ -4421,7 +4421,7 @@ Coordinate assignment:
   
   111 -> !(NF)
   
-Dichotomies:
+Dichotomies (Reinin):
 
   d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry | Serious)
   
@@ -4429,7 +4429,7 @@ Dichotomies:
   
   d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious | Decisive)
   
-  d4: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
+  d4: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Questim | Declaring)
   
   d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive | Sensory)
   
@@ -4608,7 +4608,7 @@ Dichotomies:
   
   d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic | Nomadic)
   
-  d4: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
+  d4: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Questim | Declaring)
   
   d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive | Sensory)
   
@@ -4899,7 +4899,7 @@ Dichotomies:
   
   d4: ?(NT),?(NF),!(ST),!(NF) | !(SF),?(SF),!(NT),?(ST)
   
-  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
+  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Questim | Declaring)
   
   d6: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical | Ethical)
   
@@ -4970,7 +4970,7 @@ Dichotomies:
   d3: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative | Directive)
   
   d4: ?(NT),?(NF),!(ST),!(NF) | !(SF),?(SF),!(NT),?(ST)
-  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
+  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Questim | Declaring)
   
   d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic | Affiliative)
   
@@ -5295,7 +5295,7 @@ Dichotomies:
   
   d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF | LSE+IEE HEF)
   
-  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
+  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Questim | Declaring)
   
   d6: ?(NT),!(ST),?(ST),!(NF) | !(SF),?(NF),?(SF),!(NT)
   
@@ -5476,7 +5476,7 @@ Dichotomies:
   
   d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF | LSE+IEE HEF)
   
-  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
+  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Questim | Declaring)
   
   d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static | Dynamic)
   
@@ -21895,7 +21895,7 @@ $$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{T
 
 ###### Subgroups of order 8:
 
-$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ egxdbBsS & \text{Process/Result} & \checkmark & \mathbb{Z}_2 \times \mathbb{Z}_4 & \mathbb{Z}_2 \\ egxdmcqa & \text{Democratic/Aristocratic} & \checkmark & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egxdhkil & \text{Irrational/Rational} & \checkmark & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egaqbBkl & \text{Extroverted/Introverted} & \checkmark & D_4 & \mathbb{Z}_2 \\ egaqsSih & \text{Positivist/Negativist} & \checkmark & D_4 & \mathbb{Z}_2 \\ egcmbBih & \text{Asking/Declaring} & \checkmark & D_4 & \mathbb{Z}_2 \\ egcmsSkl & \text{Static/Dynamic} & \checkmark & D_4 & \mathbb{Z}_2 \\ \end{matrix}$$
+$$\begin{matrix} \text{Subgroup} & \text{Description} & \text{Normal?} & \text{Type} & \text{Quotient} \\ \\ egxdbBsS & \text{Process/Result} & \checkmark & \mathbb{Z}_2 \times \mathbb{Z}_4 & \mathbb{Z}_2 \\ egxdmcqa & \text{Democratic/Aristocratic} & \checkmark & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egxdhkil & \text{Irrational/Rational} & \checkmark & \mathbb{Z}_2^3 & \mathbb{Z}_2 \\ egaqbBkl & \text{Extroverted/Introverted} & \checkmark & D_4 & \mathbb{Z}_2 \\ egaqsSih & \text{Positivist/Negativist} & \checkmark & D_4 & \mathbb{Z}_2 \\ egcmbBih & \text{Questim/Declaring} & \checkmark & D_4 & \mathbb{Z}_2 \\ egcmsSkl & \text{Static/Dynamic} & \checkmark & D_4 & \mathbb{Z}_2 \\ \end{matrix}$$
 
 _Lemma (Orbital Dichotomies)._ The orbital dichotomies correspond bijectively to the index-2 subgroups of $\mathbb{S}$. Each subgroup $H$ defines a canonical quotient homomorphism $\mathbb{S} \to \mathbb{Z}_2$, yielding a global, system-invariant dichotomy. In the present setting, there are exactly seven such subgroups, hence seven orbital dichotomies (Tencer 2024).  
 
@@ -22245,8 +22245,8 @@ $q \mapsto  (0, 0, 0, 1)$
 $B \mapsto (0, 0, 1, 1)$    
 $b \mapsto (0, 1, 0, 1)$    
 
-###### Asking/Declaring
-###### For Asking Types
+###### Questim/Declaring
+###### For Questim Types
 
 $S \mapsto (1, 0, 0, 1)$    
 $s \mapsto (1, 1, 1, 1)$    
@@ -22478,8 +22478,8 @@ $d \mapsto (1, 0, 1, 0)$
 $x \mapsto (1, 0, 1, 0)$  
 $d \mapsto (1, 1, 0, 0)$  
 
-###### Asking/Declaring
-###### For Asking Types
+###### Questim/Declaring
+###### For Questim Types
 
 $h \mapsto (1, 1, 1, 0)$  
 $i \mapsto (1, 0, 0, 0)$  
@@ -22736,8 +22736,8 @@ $d \mapsto (1, 1, 0, 0)$
 $x \mapsto (1, 1, 0, 0)$  
 $d \mapsto (1, 0, 1, 0)$  
 
-###### Asking/Declaring
-###### For Asking Types
+###### Questim/Declaring
+###### For Questim Types
 
 $m \mapsto (1, 1, 0, 1)$  
 $c \mapsto (1, 0, 1, 1)$  
@@ -23016,8 +23016,8 @@ $c \mapsto  (1, 1, 1, 1)$
 $x \mapsto (1, 0, 0, 0)$  
 $d \mapsto (1, 1, 1, 0)$  
 
-###### Asking/Declaring
-###### For Asking Types
+###### Questim/Declaring
+###### For Questim Types
 
 $h \mapsto (1, 0, 1, 0)$  
 $i \mapsto (1, 1, 0, 0)$  
