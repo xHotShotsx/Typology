@@ -22,7 +22,7 @@ Coordinate assignment:
 
   111 -> Fi
 
-Dichotomies:
+Dichotomies (Tencer-Mina):
 
   d1: Ne,Si,Fe,Ti | Se,Ni,Te,Fi (1stAlpha | 1stGamma)
 

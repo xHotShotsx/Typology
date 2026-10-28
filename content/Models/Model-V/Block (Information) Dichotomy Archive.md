@@ -22,7 +22,7 @@ Coordinate assignment:
   
   111 -> !(NF)
   
-Dichotomies:
+Dichotomies (Reinin):
 
   d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry | Serious)
   
@@ -30,7 +30,7 @@ Dichotomies:
   
   d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious | Decisive)
   
-  d4: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
+  d4: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Questim | Declatim)
   
   d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive | Sensory)
   
@@ -209,7 +209,7 @@ Dichotomies:
   
   d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic | Nomadic)
   
-  d4: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
+  d4: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Questim | Declatim)
   
   d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive | Sensory)
   
@@ -500,7 +500,7 @@ Dichotomies:
   
   d4: ?(NT),?(NF),!(ST),!(NF) | !(SF),?(SF),!(NT),?(ST)
   
-  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
+  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Questim | Declatim)
   
   d6: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical | Ethical)
   
@@ -571,7 +571,7 @@ Dichotomies:
   d3: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative | Directive)
   
   d4: ?(NT),?(NF),!(ST),!(NF) | !(SF),?(SF),!(NT),?(ST)
-  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
+  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Questim | Declatim)
   
   d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic | Affiliative)
   
@@ -896,7 +896,7 @@ Dichotomies:
   
   d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF | LSE+IEE HEF)
   
-  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
+  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Questim | Declatim)
   
   d6: ?(NT),!(ST),?(ST),!(NF) | !(SF),?(NF),?(SF),!(NT)
   
@@ -1077,7 +1077,7 @@ Dichotomies:
   
   d4: ?(NT),?(NF),!(ST),!(NT) | !(SF),?(SF),?(ST),!(NF) (EIE+SLE HEF | LSE+IEE HEF)
   
-  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking | Declaring)
+  d5: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Questim | Declatim)
   
   d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static | Dynamic)
   
