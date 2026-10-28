@@ -201,7 +201,7 @@ Coordinate assignment:
   
   111 -> !(NT)
 
-Dichotomies:
+Dichotomies (Keirsey-Berens):
   
   d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry | Serious)
   
@@ -215,7 +215,7 @@ Dichotomies:
   
   d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic | Affiliative)
   
-  d7: ?(NT),!(ST),?(ST),!(NF) | !(SF),?(NF),?(SF),!(NT)
+  d7: ?(NT),!(ST),?(ST),!(NF) | !(SF),?(NF),?(SF),!(NT) ()
 
 System 7
 
