@@ -146,28 +146,49 @@ Dichotomies:
   d7: ?(NT),!(ST),?(ST),!(NF) | !(SF),?(NF),?(SF),!(NT)
 
 System 5
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> !(ST)
+  
   100 -> ?(SF)
+  
   101 -> !(NF)
+  
   110 -> !(NT)
+  
   111 -> ?(ST)
+
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry / Serious)
+  
   d2: ?(NT),!(SF),?(SF),!(NF) | ?(NF),!(ST),!(NT),?(ST) (Informative / Directive)
+  
   d3: ?(NT),!(SF),!(NT),?(ST) | ?(NF),!(ST),?(SF),!(NF) (Systematic / Nomadic)
+  
   d4: ?(NT),?(NF),?(SF),!(NT) | !(SF),!(ST),?(ST),!(NF)
+  
   d5: ?(NT),?(NF),?(ST),!(NF) | !(SF),!(ST),?(SF),!(NT)
+  
   d6: ?(NT),!(ST),?(SF),?(ST) | !(SF),?(NF),!(NT),!(NF)
+  
   d7: ?(NT),!(ST),!(NT),!(NF) | !(SF),?(NF),?(SF),?(ST)
 
 System 6 (Keirsey-Berens)
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
   011 -> !(ST)
   100 -> ?(SF)
