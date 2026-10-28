@@ -4393,6 +4393,11 @@ $\text{V}[\mathbb{S}/C_{4}]$: Model that is theoretical. Positivist/Negativist $
 ?(NT),!(NT),?(ST),!(NF) (EII+SLI HEF / LSI+IEI HEF)
 
 ---
+<a id="models-models-v-block-information-dichotomies---all-affine-structures"></a>
+
+## Block ()
+
+---
 <a id="models-models-a-g-models-a-g"></a>
 
 ### Models-A-G
