@@ -4242,7 +4242,7 @@ $\text{V}[\mathbb{S}/C_{4}]$: Model that is theoretical. Positivist/Negativist $
 
 
 ---
-<a id="models-models-a-g-models-a-g"></a>
+<a id="models-model-v-block-(information)-dichotomy-archive"></a>
 
 ## Block (Information) Dichotomy Archive
 
