@@ -3176,9 +3176,9 @@ Coordinate assignment:
 
 Dichotomies:
 
-  d1: Ne,Si,Fe,Fi | Ti,Se,Ni,Te (SEI+IEE HEF / SLE+ILI HEF)
+  d1: Ne,Si,Fe,Fi | Ti,Se,Ni,Te (SEI+IEE HEF | SLE+ILI HEF)
 
-  d2: Ne,Si,Ti,Te | Fe,Se,Ni,Fi (ILE+SLI HEF / IEI+SEE HEF)
+  d2: Ne,Si,Ti,Te | Fe,Se,Ni,Fi (ILE+SLI HEF |  IEI+SEE HEF)
 
   d3: Ne,Si,Se,Ni | Fe,Ti,Te,Fi (Irrational / Rational)
 
