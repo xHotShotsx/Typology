@@ -25,68 +25,124 @@ Coordinate assignment:
 Dichotomies:
 
   d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry / Serious)
+  
   d2: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic / Aristocratic) 
+  
   d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious / Decisive)
+  
   d4: ?(NT),?(NF),?(SF),?(ST) | !(SF),!(ST),!(NT),!(NF) (Asking / Declaring)
+  
   d5: ?(NT),?(NF),!(NT),!(NF) | !(SF),!(ST),?(SF),?(ST) (Intuitive / Sensory)
+  
   d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static / Dynamic)
+  
   d7: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical / Ethical)
 
 System 2
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> !(ST)
+  
   100 -> ?(SF)
+  
   101 -> !(NT)
+  
   110 -> !(NF)
+  
   111 -> ?(ST)
+  
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry / Serious)
+  
   d2: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic / Aristocratic)
+  
   d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious / Decisive)
+  
   d4: ?(NT),?(NF),?(SF),!(NF) | !(SF),!(ST),!(NT),?(ST)
+  
   d5: ?(NT),?(NF),!(NT),?(ST) | !(SF),!(ST),?(SF),!(NF)
+  
   d6: ?(NT),!(ST),?(SF),?(ST) | !(SF),?(NF),!(NT),!(NF)
+  
   d7: ?(NT),!(ST),!(NT),!(NF) | !(SF),?(NF),?(SF),?(ST)
 
 System 3
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> !(ST)
+  
   100 -> ?(SF)
+  
   101 -> ?(ST)
+  
   110 -> !(NT)
+  
   111 -> !(NF)
+  
 Dichotomies:
   d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry / Serious)
+  
   d2: ?(NT),!(SF),?(SF),?(ST) | ?(NF),!(ST),!(NT),!(NF)
+  
   d3: ?(NT),!(SF),!(NT),!(NF) | ?(NF),!(ST),?(SF),?(ST)
+  
   d4: ?(NT),?(NF),?(SF),!(NT) | !(SF),!(ST),?(ST),!(NF)
+  
   d5: ?(NT),?(NF),?(ST),!(NF) | !(SF),!(ST),?(SF),!(NT)
+  
   d6: ?(NT),!(ST),?(SF),!(NF) | !(SF),?(NF),!(NT),?(ST) (Static / Dynamic)
+
   d7: ?(NT),!(ST),!(NT),?(ST) | !(SF),?(NF),?(SF),!(NF) (Logical / Ethical)
 
 System 4
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> !(ST)
+  
   100 -> ?(SF)
+  
   101 -> ?(ST)
+  
   110 -> !(NF)
+  
   111 -> !(NT)
+  
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry / Serious)
+  
   d2: ?(NT),!(SF),?(SF),?(ST) | ?(NF),!(ST),!(NT),!(NF)
+  
   d3: ?(NT),!(SF),!(NT),!(NF) | ?(NF),!(ST),?(SF),?(ST)
+  
   d4: ?(NT),?(NF),?(SF),!(NF) | !(SF),!(ST),!(NT),?(ST)
+  
   d5: ?(NT),?(NF),!(NT),?(ST) | !(SF),!(ST),?(SF),!(NF)
+  
   d6: ?(NT),!(ST),?(SF),!(NT) | !(SF),?(NF),?(ST),!(NF) (Pragmatic / Affiliative)
+  
   d7: ?(NT),!(ST),?(ST),!(NF) | !(SF),?(NF),?(SF),!(NT)
 
 System 5
