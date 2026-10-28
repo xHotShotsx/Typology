@@ -2,8 +2,6 @@ Labels: ['Ne', 'Si', 'Fe', 'Ti', 'Se', 'Ni', 'Te', 'Fi']
 
 Total affine Z2^3 structures: 30
 
-  
-
 System 1 (Tencer-Minaev)
 
 Coordinate assignment:

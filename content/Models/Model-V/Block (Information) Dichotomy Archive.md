@@ -1,17 +1,29 @@
 Labels: ['?(NT)', '!(SF)', '?(NF)', '!(ST)', '?(SF)', '!(NT)', '?(ST)', '!(NF)']
+
 Total affine Z2^3 structures: 30
 
 System 1 (Reinin)
+
 Coordinate assignment:
+
   000 -> ?(NT)
+  
   001 -> !(SF)
+  
   010 -> ?(NF)
+  
   011 -> !(ST)
+  
   100 -> ?(SF)
+  
   101 -> !(NT)
+  
   110 -> ?(ST)
+  
   111 -> !(NF)
+  
 Dichotomies:
+
   d1: ?(NT),!(SF),?(NF),!(ST) | ?(SF),!(NT),?(ST),!(NF) (Merry / Serious)
   d2: ?(NT),!(SF),?(SF),!(NT) | ?(NF),!(ST),?(ST),!(NF) (Democratic / Aristocratic) 
   d3: ?(NT),!(SF),?(ST),!(NF) | ?(NF),!(ST),?(SF),!(NT) (Judicious / Decisive)
