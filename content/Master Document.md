@@ -29,7 +29,7 @@ _All notes concatenated and hyperlinked. Exceptions include any external books o
   - *Model-V*
 	  - [A Mathematical Description of Model V](#models-model-v-a-mathematical-description-of-model-v)
 	  - [Block (Information) Dichotomy Archive](#models-model-v-block-information-dichotomy-archive)
-	  - [Block (Information) Dichotomies - All](#models-models-a-g-block-information-dichotomies---all-affine-structures)
+	  - [Block (Information) Dichotomies - All Affine Structures](#models-models-v-block-information-dichotomies---all-affine-structures)
 - **Partition Spaces**
   - [Partition Spaces](#partition-spaces-partition-spaces)
   - [Socion Division Hierarchy](#partition-spaces-socion-division-hierarchy)
@@ -4244,7 +4244,7 @@ $\text{V}[\mathbb{S}/C_{4}]$: Model that is theoretical. Positivist/Negativist $
 
 
 ---
-<a id="models-model-v-block-(information)-dichotomy-archive"></a>
+<a id="models-model-v-block-information-dichotomy-archive"></a>
 
 ## Block (Information) Dichotomy Archive
 
