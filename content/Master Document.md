@@ -28,7 +28,8 @@ _All notes concatenated and hyperlinked. Exceptions include any external books o
       - [Models-A-G](#models-models-a-g-models-a-g)
   - *Model-V*
 	  - [A Mathematical Description of Model V](#models-model-v-a-mathematical-description-of-model-v)
-	  - [Block (Information) Dichotomy Archive](#models-model-v-block-(information)-dichotomy-archive)
+	  - [Block (Information) Dichotomy Archive](#models-model-v-block-information-dichotomy-archive)
+	  - [Block (Information) Dichotomies - All](#models-models-a-g-block-information-dichotomies---all-affine-structures)
 - **Partition Spaces**
   - [Partition Spaces](#partition-spaces-partition-spaces)
   - [Socion Division Hierarchy](#partition-spaces-socion-division-hierarchy)
