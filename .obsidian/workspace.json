@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/A Glossary for Elemental Notation.md",
+                "file": "content/Partition Spaces/Dichotomies/TIM Octads Archive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Glossary for Elemental Notation"
+              "title": "TIM Octads Archive"
             }
           }
         ]
@@ -228,6 +228,9 @@
   },
   "active": "df0c307cfaa5317b",
   "lastOpenFiles": [
+    "content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index.md",
+    "content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces.md",
+    "content/A Glossary for Elemental Notation.md",
     "content/A Mathematical Glossary of the Socion.md",
     "content/Partition Spaces/Tetrachotomies/Reinin/Tetrachotomy Table (Reinin).md",
     "content/Partition Spaces/Dichotomies/TIM Octads Archive.md",
@@ -236,7 +239,6 @@
     "content/Partition Spaces/Dichotomies/Hybrid Dichotomy System.md",
     "content/Partition Spaces/Dichotomies/Semidual Mirage HEF/Dichotomy Table (Semidual Mirage HEF).md",
     "content/Partition Spaces/Dichotomies/Tencer-Minaev/Dichotomy Table (Tencer-Minaev).md",
-    "content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces.md",
     "content/Partition Spaces/Dichotomies/Classification of Orbital-Respecting Dichotomy Systems.md",
     "content/Master Document.md",
     "content/Models/Classification of Models (as Permutation Groups).md",
@@ -252,8 +254,6 @@
     "content/Models/Model-V/Block (Information) Dichotomies - All Affine Structures.md",
     "content/Models/Models-A-G/Element (Information) Dichotomies.md",
     "content/Models/Models-A-G/All Model A Affine Structures.md",
-    "content/A Glossary for Elemental Notation.md",
-    "content/Machine Translations/Articles/Alexandyr Bukalov/16-Component Model of the TIM and the Socion.md",
     "content/Images/Tetrachotomies/Reinin/2.png",
     "content/Images/Logo/4-cube.png",
     "content/docs/images/giscus-results.png",
