@@ -11,10 +11,10 @@
 # Tetradic Elements
 ## Aspect / Faculty / Domain / Macro Element
 
-$\mathrm{N}$ = Intuition-Base $\{ \alpha \mathrm{Ne}, \beta \mathrm{Ni}, \gamma \mathrm{Ni}, \delta \mathrm{Ne}  \}$  
-$\mathrm{T}$ = Logic-Base $\{ \alpha \mathrm{Ti}, \beta \mathrm{Ti}, \gamma \mathrm{Te}, \delta \mathrm{Te}  \}$  
-$\mathrm{S}$ = Sensation-Base $\{ \alpha \mathrm{Si}, \beta \mathrm{Se}, \gamma \mathrm{Se}, \delta \mathrm{Si}\}$  
-$\mathrm{F}$ = Ethics-Base $\{ \alpha \mathrm{Fe}, \beta \mathrm{Fe}, \gamma \mathrm{Fi}, \delta \mathrm{Fi} \}$  
+$\mathrm{N}$-base = Intuition-Base $\{ \alpha \mathrm{Ne}, \beta \mathrm{Ni}, \gamma \mathrm{Ni}, \delta \mathrm{Ne}  \}$  
+$\mathrm{T}$-base = Logic-Base $\{ \alpha \mathrm{Ti}, \beta \mathrm{Ti}, \gamma \mathrm{Te}, \delta \mathrm{Te}  \}$  
+$\mathrm{S}$-base = Sensation-Base $\{ \alpha \mathrm{Si}, \beta \mathrm{Se}, \gamma \mathrm{Se}, \delta \mathrm{Si}\}$  
+$\mathrm{F}$-base = Ethics-Base $\{ \alpha \mathrm{Fe}, \beta \mathrm{Fe}, \gamma \mathrm{Fi}, \delta \mathrm{Fi} \}$  
 
 ## Quadra
 
@@ -51,8 +51,8 @@ $\text{X}_\text{min}$ = "Least" or "deficiency" of this element. Could also be u
 
 ### Pseudo-Aspect / Pseudo-Faculty / Pseudo-Domain / Pseudo-Macro Element
 
-$\text{Q}$ = Questimity-Base $\{ \alpha \mathrm{Ti}, \beta \mathrm{Fe}, \gamma \mathrm{Fi}, \delta \mathrm{Te}  \}$  
-$\text{D}$ = Declatimity-Base $\{ \alpha \mathrm{Fe}, \beta \mathrm{Ti}, \gamma \mathrm{Te}, \delta \mathrm{Fi}  \}$  
+$\text{Q}$-base = Questimity-Base $\{ \alpha \mathrm{Ti}, \beta \mathrm{Fe}, \gamma \mathrm{Fi}, \delta \mathrm{Te}  \}$  
+$\text{D}$-base = Declatimity-Base $\{ \alpha \mathrm{Fe}, \beta \mathrm{Ti}, \gamma \mathrm{Te}, \delta \mathrm{Fi}  \}$  
 
 ### "Anti" Quaternions/Tetrads
 
