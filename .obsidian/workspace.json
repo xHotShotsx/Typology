@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/A Glossary for Elemental Notation.md",
+                "file": "content/Master Document.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A Glossary for Elemental Notation"
+              "title": "Master Document"
             }
           }
         ]
@@ -228,8 +228,8 @@
   },
   "active": "df0c307cfaa5317b",
   "lastOpenFiles": [
-    "content/Partition Spaces/Tetrachotomies/Tencer-Minaev/Tetrachotomy Table (Tencer-Minaev).md",
     "content/A Glossary for Elemental Notation.md",
+    "content/Partition Spaces/Tetrachotomies/Tencer-Minaev/Tetrachotomy Table (Tencer-Minaev).md",
     "content/Master Document.md",
     "content/Partition Spaces/Socion Division Hierarchy.md",
     "content/Partition Spaces/Dichotomies/TIM Octads Archive.md",
