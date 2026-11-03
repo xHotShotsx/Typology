@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Master Document"
             }
+          },
+          {
+            "id": "23d1e22f903ffe28",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,11 +237,11 @@
       "enhanced-pdf-export:Export active Markdown to PDF": false
     }
   },
-  "active": "df0c307cfaa5317b",
+  "active": "23d1e22f903ffe28",
   "lastOpenFiles": [
+    "content/Master Document.md",
     "content/A Glossary for Elemental Notation.md",
     "content/Partition Spaces/Tetrachotomies/Tencer-Minaev/Tetrachotomy Table (Tencer-Minaev).md",
-    "content/Master Document.md",
     "content/Partition Spaces/Socion Division Hierarchy.md",
     "content/Partition Spaces/Dichotomies/TIM Octads Archive.md",
     "content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index.md",
