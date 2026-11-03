@@ -104,7 +104,7 @@ _All notes concatenated and hyperlinked. Exceptions include any external books o
 
 <a id="models-classification-of-models"></a>
 
-## Classification of Models (as Permutation Groups)
+## Classification of Models
 
 ### Table of Models
 
@@ -136,6 +136,7 @@ _All notes concatenated and hyperlinked. Exceptions include any external books o
 - $8T_{n}$ refers to the nth transitive subgroup of $S_{8}$ in the GAP classification scheme.
 - $16T_{n}$ refers to the nth transitive subgroup of $S_{16}$ in the GAP classification scheme.
 - **Technical Note:** Systems of injections (charge models with only 8 functions) are best viewed as **orbit models**. Any compatible index-2 subgroup $H$ acts transitively on a single orbit of size 8 (hence an $8T_{k}$ label applies). The full charge construction $F \times \{ A,B \}$ is an intransitive $H$-set with two orbits; it is not itself an $nT_{k}$ object unless extended by a sheet-swapping element, yielding a transitive $16T_{\mathscr{l}}$ action.
+- **Addendum (Continuous Socionics):** 
 
 ### Further Reading
 
