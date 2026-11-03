@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Master Document.md",
+                "file": "content/A Glossary for Elemental Notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Document"
+              "title": "A Glossary for Elemental Notation"
             }
           }
         ]
@@ -228,19 +228,19 @@
   },
   "active": "df0c307cfaa5317b",
   "lastOpenFiles": [
-    "content/Partition Spaces/Socion Division Hierarchy.md",
     "content/Partition Spaces/Tetrachotomies/Tencer-Minaev/Tetrachotomy Table (Tencer-Minaev).md",
+    "content/A Glossary for Elemental Notation.md",
+    "content/Master Document.md",
+    "content/Partition Spaces/Socion Division Hierarchy.md",
     "content/Partition Spaces/Dichotomies/TIM Octads Archive.md",
     "content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index.md",
     "content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces.md",
-    "content/A Glossary for Elemental Notation.md",
     "content/A Mathematical Glossary of the Socion.md",
     "content/Partition Spaces/Tetrachotomies/Reinin/Tetrachotomy Table (Reinin).md",
     "content/Partition Spaces/Dichotomies/Hybrid Dichotomy System.md",
     "content/Partition Spaces/Dichotomies/Semidual Mirage HEF/Dichotomy Table (Semidual Mirage HEF).md",
     "content/Partition Spaces/Dichotomies/Tencer-Minaev/Dichotomy Table (Tencer-Minaev).md",
     "content/Partition Spaces/Dichotomies/Classification of Orbital-Respecting Dichotomy Systems.md",
-    "content/Master Document.md",
     "content/Models/Classification of Models (as Permutation Groups).md",
     "content/Partition Spaces/Dichotomies/Tencer-Minaev/Reinin to Tencer-Minaev Objects Correspondences based on Group Structure with Intertype Relations.md",
     "content/Models/Models-A-G/Energetic Dimensionality (ED) - A Proposal.md",
