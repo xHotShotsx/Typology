@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Partition Spaces/Tetrachotomies/Reinin/Tetrachotomy Table (Reinin).md",
+                "file": "content/Partition Spaces/Dichotomies/TIM Octads Archive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tetrachotomy Table (Reinin)"
+              "title": "TIM Octads Archive"
             }
           }
         ]
@@ -228,6 +228,9 @@
   },
   "active": "df0c307cfaa5317b",
   "lastOpenFiles": [
+    "content/Partition Spaces/Socion Division Hierarchy.md",
+    "content/Partition Spaces/Tetrachotomies/Tencer-Minaev/Tetrachotomy Table (Tencer-Minaev).md",
+    "content/Partition Spaces/Tetrachotomies/Reinin/Tetrachotomy Table (Reinin).md",
     "content/Partition Spaces/Dichotomies/TIM Octads Archive.md",
     "content/Partition Spaces/Dichotomies/Hybrid Dichotomy System.md",
     "content/Partition Spaces/Dichotomies/Semidual Mirage HEF/Dichotomy Table (Semidual Mirage HEF).md",
@@ -236,7 +239,6 @@
     "content/Partition Spaces/Dichotomies/Classification of Orbital-Respecting Dichotomy Systems.md",
     "content/Master Document.md",
     "content/Models/Classification of Models (as Permutation Groups).md",
-    "content/Partition Spaces/Socion Division Hierarchy.md",
     "content/Partition Spaces/Dichotomies/Tencer-Minaev/Reinin to Tencer-Minaev Objects Correspondences based on Group Structure with Intertype Relations.md",
     "content/Models/Models-A-G/Energetic Dimensionality (ED) - A Proposal.md",
     "content/Models/Models-A-G/Injections - Function Dichotomies to TIM Tetrachotomies.md",
@@ -252,8 +254,6 @@
     "content/A Glossary for Elemental Notation.md",
     "content/A Mathematical Glossary of the Socion.md",
     "content/Machine Translations/Articles/Alexandyr Bukalov/16-Component Model of the TIM and the Socion.md",
-    "content/Machine Translations/Articles/Yurii Minaev/Simplifying the Structure of the Intertype Relations Using Formalised Notation for Their Operators.md",
-    "content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index.md",
     "content/Images/Tetrachotomies/Reinin/2.png",
     "content/Images/Logo/4-cube.png",
     "content/docs/images/giscus-results.png",
