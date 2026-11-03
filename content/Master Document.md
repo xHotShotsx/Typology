@@ -129,7 +129,7 @@ _All notes concatenated and hyperlinked. Exceptions include any external books o
 |  **Model A16-ordered**   | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           | $\checkmark$ |          $\{ e \}$           |
 |       **Model L**        |    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |              $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$              | $\checkmark$ |        $\{ A_{1} \}$         |
 |       **Model W**        |    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |              $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$              | $\checkmark$ |        $\{ A_{1} \}$         |
-| **Continuous Socionics** |               $\mathbb{R}^{15}$                |   **N/A**    |        **N/A**         |                              **N/A**                               |              |                              |
+| **Continuous Socionics** |               $\mathbb{R}^{15}$                |   **N/A**    |        **N/A**         |                              **N/A**                               |   **N/A**    |              $$              |
 
 ### Footnotes
 
