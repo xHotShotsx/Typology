@@ -129,6 +129,7 @@ _All notes concatenated and hyperlinked. Exceptions include any external books o
 | **Model A16-ordered**  | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           | $\checkmark$ |          $\{ e \}$           |
 |      **Model L**       |    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |              $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$              | $\checkmark$ |        $\{ A_{1} \}$         |
 |      **Model W**       |    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |              $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$              | $\checkmark$ |        $\{ A_{1} \}$         |
+|                        |                                                |              |                        |                                                                    |              |                              |
 
 ### Footnotes
 
@@ -140,7 +141,7 @@ _All notes concatenated and hyperlinked. Exceptions include any external books o
 
 - https://people.maths.bris.ac.uk/~matyd/GroupNames/T31.html
 - [[Mathematical Descriptions of Models A and G]]
-- [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics|A Representation-Theoretic Framework for Intertype Relations in Socionics]]
+- [[Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics]]
 - https://drive.google.com/file/d/1ISFXjLIVkWtsh6nj0hswnDy6V-q59MDF/view
 - [[Models/Model-W/Model-W|Model-W]]
 - [[A Mathematical Description of Model V]]
