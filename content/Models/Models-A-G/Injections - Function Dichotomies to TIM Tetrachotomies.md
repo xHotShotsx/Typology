@@ -77,7 +77,7 @@
 | Evaluatory/Situational | $V_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
 
 
-## Model G (School of Humanitarian Socionics)
+## Model G
 ### Reinin
 #### For Irrational Types
 
