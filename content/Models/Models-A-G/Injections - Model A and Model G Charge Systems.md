@@ -64,7 +64,7 @@
 | <span class="cell-delta">**SLI**</span> | <span class="cell-delta">**Si+**</span> | <span class="cell-delta">**Te+**</span> | <span class="cell-delta">**Ni+**</span> | <span class="cell-delta">**Fe+**</span> | <span class="cell-delta">**Ne+**</span> | <span class="cell-delta">**Fi+**</span> | <span class="cell-delta">**Se+**</span> | <span class="cell-delta">**Ti+**</span> |
 
 
-# Model A (Democratic/Aristocratic)
+# Model A/U1
 
 |                   TIM                   |                  Base                   |                Creative                 |                  Role                   |               Vulnerable                |               Suggestive                |               Mobilising                |                Ignoring                 |              Demonstrative              |
 | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
@@ -86,7 +86,7 @@
 | <span class="cell-delta">**SLI**</span> | <span class="cell-delta">**Si+**</span> | <span class="cell-delta">**Te-**</span> | <span class="cell-delta">**Ni+**</span> | <span class="cell-delta">**Fe-**</span> | <span class="cell-delta">**Ne-**</span> | <span class="cell-delta">**Fi+**</span> | <span class="cell-delta">**Se-**</span> | <span class="cell-delta">**Ti+**</span> |
 
 
-# Model G (School of Humanitarian Socionics)
+# Model G
 
 |                   TIM                   |                  Lead                   |                Creative                 |                  Role                   |                Launcher                 |              Demonstrative              |              Manipulative               |                  Brake                  |               Controlling               |
 | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |

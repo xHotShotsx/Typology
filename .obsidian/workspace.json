@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Models/Models-A-G/Injections - Model A and Model G Charge Systems.md",
+                "file": "content/Master Document.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Injections - Model A and Model G Charge Systems"
+              "title": "Master Document"
             }
           }
         ],
@@ -243,6 +243,7 @@
   },
   "active": "23d1e22f903ffe28",
   "lastOpenFiles": [
+    "content/Models/Models-A-G/Injections - Model A and Model G Charge Systems.md",
     "content/Models/Models-A-G/Function (Metabolic) Dichotomy to Element (Information) Dichotomy Correspondences for Model A.md",
     "content/Models/Models-A-G/Injections - Function Dichotomies to TIM Tetrachotomies.md",
     "content/Models/Models-A-G/Energetic Dimensionality (ED) - A Proposal.md",
@@ -268,7 +269,6 @@
     "content/Models/Models-A-G/Mathematical Descriptions of Models A and G.md",
     "content/Models/Model-V/Block (Information) Dichotomy Archive.md",
     "content/Models/Models-A-G/Element (Information) Dichotomies - All Affine Structures.md",
-    "content/Models/Models-A-G/Element (Information) Dichotomy Archive.md",
     "content/Images/Tetrachotomies/Reinin/2.png",
     "content/Images/Logo/4-cube.png",
     "content/docs/images/giscus-results.png",
