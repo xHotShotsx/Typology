@@ -7,7 +7,7 @@
 	- Function Tetrachotomy $\longrightarrow$  TIM Octachotomy
 	- Function Octachotomy $\longrightarrow$  TIM Hexadecachotomy 
 
-## Model A (Democratic/Aristocratic)
+## Model A/U1
 
 |   Function Dichotomy   |      TIM Tetrachotomy Construction       |     TIM Tetrachotomy      |
 | :--------------------: | :--------------------------------------: | :-----------------------: |
@@ -21,7 +21,7 @@
 | Evaluatory/Situational | $G_{1} \cap R_{4} \cap I_{4} \cap U_{1}$ |     Occupation Groups     |
 
 
-## Model A (School of Classical Socionics)
+## Model A/U3
 ### Reinin
 #### For Irrational Types
 
