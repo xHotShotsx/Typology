@@ -3617,7 +3617,7 @@ This post regarding energetic dimensionality is tentative, so take it with a gra
 | Evaluatory/Situational | $V_{1} \cap A_{4} \cap D_{2} \cap C_{3}$ | Dual Axis (Asymmetric Process Passionarity Result Centrality) |
 
 
-##### Model G (School of Humanitarian Socionics)
+##### Model G
 ###### Reinin
 ###### For Irrational Types
 
@@ -3916,7 +3916,7 @@ This post regarding energetic dimensionality is tentative, so take it with a gra
 
 ### Injections - Model A and Model G Charge Systems
 
-#### Model A (School of Systemic Socionics)
+#### Model A/U2
 
 |                   TIM                   |                  Base                   |                Creative                 |                  Role                   |               Vulnerable                |               Suggestive                |               Mobilising                |                Ignoring                 |              Demonstrative              |
 | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
@@ -3938,7 +3938,7 @@ This post regarding energetic dimensionality is tentative, so take it with a gra
 | <span class="cell-delta">**SLI**</span> | <span class="cell-delta">**Si+**</span> | <span class="cell-delta">**Te-**</span> | <span class="cell-delta">**Ni+**</span> | <span class="cell-delta">**Fe-**</span> | <span class="cell-delta">**Ne+**</span> | <span class="cell-delta">**Fi-**</span> | <span class="cell-delta">**Se+**</span> | <span class="cell-delta">**Ti-**</span> |
 
 
-#### Model A (School of Classical Socionics)
+#### Model A/U3
 
 |                   TIM                   |                  Base                   |                Creative                 |                  Role                   |               Vulnerable                |               Suggestive                |               Mobilising                |                Observing                |              Demonstrative              |
 | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
@@ -3960,7 +3960,7 @@ This post regarding energetic dimensionality is tentative, so take it with a gra
 | <span class="cell-delta">**SLI**</span> | <span class="cell-delta">**Si+**</span> | <span class="cell-delta">**Te+**</span> | <span class="cell-delta">**Ni+**</span> | <span class="cell-delta">**Fe+**</span> | <span class="cell-delta">**Ne-**</span> | <span class="cell-delta">**Fi-**</span> | <span class="cell-delta">**Se-**</span> | <span class="cell-delta">**Ti-**</span> |
 
 
-#### Model A (Positivist/Negativist)
+#### Model A/U4
 
 |                   TIM                   |                  Base                   |                Creative                 |                  Role                   |               Vulnerable                |               Suggestive                |               Mobilising                |                Ignoring                 |              Demonstrative              |
 | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
@@ -3982,7 +3982,7 @@ This post regarding energetic dimensionality is tentative, so take it with a gra
 | <span class="cell-delta">**SLI**</span> | <span class="cell-delta">**Si+**</span> | <span class="cell-delta">**Te+**</span> | <span class="cell-delta">**Ni+**</span> | <span class="cell-delta">**Fe+**</span> | <span class="cell-delta">**Ne+**</span> | <span class="cell-delta">**Fi+**</span> | <span class="cell-delta">**Se+**</span> | <span class="cell-delta">**Ti+**</span> |
 
 
-#### Model A (Democratic/Aristocratic)
+#### Model A/U1
 
 |                   TIM                   |                  Base                   |                Creative                 |                  Role                   |               Vulnerable                |               Suggestive                |               Mobilising                |                Ignoring                 |              Demonstrative              |
 | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
@@ -4004,7 +4004,7 @@ This post regarding energetic dimensionality is tentative, so take it with a gra
 | <span class="cell-delta">**SLI**</span> | <span class="cell-delta">**Si+**</span> | <span class="cell-delta">**Te-**</span> | <span class="cell-delta">**Ni+**</span> | <span class="cell-delta">**Fe-**</span> | <span class="cell-delta">**Ne-**</span> | <span class="cell-delta">**Fi+**</span> | <span class="cell-delta">**Se-**</span> | <span class="cell-delta">**Ti+**</span> |
 
 
-#### Model G (School of Humanitarian Socionics)
+#### Model G
 
 |                   TIM                   |                  Lead                   |                Creative                 |                  Role                   |                Launcher                 |              Demonstrative              |              Manipulative               |                  Brake                  |               Controlling               |
 | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: | :-------------------------------------: |
