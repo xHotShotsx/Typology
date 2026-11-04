@@ -1,6 +1,6 @@
 # Table of Models
 
-|          Model           |                  Acting Group                  | Transitive?  | Permutation Group Code |                       Orbits (Cosets of …)?                        |   Regular?   |     Basepoint Stabiliser     |
+|          Model           |                  Acting Group                  | Transitive?  | Permutation Group Code |                        Orbits (Cosets of …)                        |   Regular?   |     Basepoint Stabiliser     |
 | :----------------------: | :--------------------------------------------: | :----------: | :--------------------: | :----------------------------------------------------------------: | :----------: | :--------------------------: |
 |  **Model A (Standard)**  | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |        $8T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           |   $\times$   |         $\{ e, k \}$         |
 |  **Model V (Standard)**  | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |        $8T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           |   $\times$   |         $\{ e, m \}$         |
