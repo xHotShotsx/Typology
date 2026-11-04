@@ -13,7 +13,7 @@
 |      **Model V/C2**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |            $\text{Extroverted/Introverted} \cong D_{4}$            |   $\times$   |           **N/A**            |
 |      **Model V/C3**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         | $\text{Process/Result} \cong \mathbb{Z}_{2} \times \mathbb{Z}_{4}$ |   $\times$   |           **N/A**            |
 |      **Model V/C4**      | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ |   $\times$   |        **N/A**         |             $\text{Positivist/Negativist} \cong D_{4}$             |   $\times$   |           **N/A**            |
-|  **Macro Element Loop**  |          $H \cong D_{4} < \mathbb{S}$          | $\checkmark$ |        $4T_{3}$        |                    $H \cong D_{4} < \mathbb{S}$                    |   $\times$   | $\{ \{ e,x \}, \{ k,i \} \}$ |
+|  **Macro Element Loop**  |  $\mathbb{S}/\<x\> \cong D_{4} < \mathbb{S}$   | $\checkmark$ |        $4T_{3}$        |                    $H \cong D_{4} < \mathbb{S}$                    |   $\times$   | $\{ \{ e,x \}, \{ k,i \} \}$ |
 |     **Quadra Loop**      |          $H \cong D_{4} < \mathbb{S}$          | $\checkmark$ |        $4T_{3}$        |                    $H \cong D_{4} < \mathbb{S}$                    |   $\times$   | $\{ \{ e,d \}, \{ m,a \} \}$ |
 |       **Model Ch**       | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           | $\checkmark$ |          $\{ e \}$           |
 |       **Model B**        | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           | $\checkmark$ |          $\{ e \}$           |
@@ -21,7 +21,7 @@
 |  **Model A16-ordered**   | $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$ | $\checkmark$ |       $16T_{9}$        |           $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$           | $\checkmark$ |          $\{ e \}$           |
 |       **Model L**        |    $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |              $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$              | $\checkmark$ |        $\{ A_{1} \}$         |
 |       **Model W**        |    $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$    | $\checkmark$ |       $16T_{3}$        |              $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$              | $\checkmark$ |        $\{ A_{1} \}$         |
-| **Continuous Socionics** |               $\mathbb{R}^{15}$                | $\checkmark$ |        **N/A**         |                         $\mathbb{R}^{}15}$                         | $\checkmark$ |             $0$              |
+| **Continuous Socionics** |               $\mathbb{R}^{15}$                | $\checkmark$ |        **N/A**         |                         $\mathbb{R}^{15}$                          | $\checkmark$ |             $0$              |
 
 # Footnotes
 
