@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Master Document.md",
+                "file": "content/A Glossary for Elemental Notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Document"
+              "title": "A Glossary for Elemental Notation"
             }
           }
         ],
@@ -243,9 +243,9 @@
   },
   "active": "23d1e22f903ffe28",
   "lastOpenFiles": [
+    "content/Master Document.md",
     "content/Models/Classification of Models.md",
     "content/Partition Spaces/Partition Spaces.md",
-    "content/Master Document.md",
     "content/Partition Spaces/Socion Division Hierarchy.md",
     "content/Partition Spaces/Tetrachotomies/Reinin/Tetrachotomy Table (Reinin).md",
     "content/A Glossary for Elemental Notation.md",
