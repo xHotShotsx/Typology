@@ -155,7 +155,7 @@
       <td>Introverted</td><td>Strategic</td><td>Judicious</td>
       <td>SEI</td><td>LII</td><td>EII</td><td>SLI</td>
     </tr>
-    <tr>
+    <tr>[[content/Partition Spaces/Socion Division Hierarchy]]
       <td rowspan="6"><b>6</b></td>
       <td rowspan="2"><b>Action Influence Balance</b></td>
       <td colspan="3"><img src="/Images/Tetrachotomies/Reinin/6.png" /></td>

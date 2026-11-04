@@ -25,10 +25,14 @@
             "id": "23d1e22f903ffe28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Master Document.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Master Document"
             }
           }
         ],
@@ -239,15 +243,15 @@
   },
   "active": "23d1e22f903ffe28",
   "lastOpenFiles": [
+    "content/Partition Spaces/Socion Division Hierarchy.md",
+    "content/Partition Spaces/Tetrachotomies/Reinin/Tetrachotomy Table (Reinin).md",
     "content/Master Document.md",
     "content/A Glossary for Elemental Notation.md",
     "content/Partition Spaces/Tetrachotomies/Tencer-Minaev/Tetrachotomy Table (Tencer-Minaev).md",
-    "content/Partition Spaces/Socion Division Hierarchy.md",
     "content/Partition Spaces/Dichotomies/TIM Octads Archive.md",
     "content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces - A Brief Index.md",
     "content/Partition Spaces/Dichotomies/Waffle Spaces/The Waffle Spaces.md",
     "content/A Mathematical Glossary of the Socion.md",
-    "content/Partition Spaces/Tetrachotomies/Reinin/Tetrachotomy Table (Reinin).md",
     "content/Partition Spaces/Dichotomies/Hybrid Dichotomy System.md",
     "content/Partition Spaces/Dichotomies/Semidual Mirage HEF/Dichotomy Table (Semidual Mirage HEF).md",
     "content/Partition Spaces/Dichotomies/Tencer-Minaev/Dichotomy Table (Tencer-Minaev).md",
