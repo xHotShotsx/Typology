@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Master Document.md",
+                "file": "content/Models/Classification of Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Document"
+              "title": "Classification of Models"
             }
           }
         ],
@@ -243,6 +243,7 @@
   },
   "active": "23d1e22f903ffe28",
   "lastOpenFiles": [
+    "content/Master Document.md",
     "content/Models/Models-A-G/Injections - Model A and Model G Charge Systems.md",
     "content/Models/Models-A-G/Function (Metabolic) Dichotomy to Element (Information) Dichotomy Correspondences for Model A.md",
     "content/Models/Models-A-G/Injections - Function Dichotomies to TIM Tetrachotomies.md",
@@ -251,7 +252,6 @@
     "content/Models/Models-A-G/A Potential Third Dimensionality Metric for Model-A.md",
     "content/Partition Spaces/Dichotomies/TIM Octads Archive.md",
     "content/A Glossary for Elemental Notation.md",
-    "content/Master Document.md",
     "content/Models/Classification of Models.md",
     "content/Partition Spaces/Partition Spaces.md",
     "content/Partition Spaces/Socion Division Hierarchy.md",
