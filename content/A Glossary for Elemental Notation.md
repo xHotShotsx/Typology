@@ -59,7 +59,7 @@ $\text{D}$-base = Declatimity-Base $\{ \alpha \mathrm{Fe}, \beta \mathrm{Ti}, \g
 
 ### "Anti" Quaternions/Tetrads
 
-$\mathrm{ant}(\text{X})$ denotes the tetrad/quaternion obtained by inverting all three of $\text{X}$'s defining traits, even though this would be considered to be illegal in the classical representation of the types as a 4D vector space over $\mathbb{F}_{2}$, an approach I will tentatively dub "Discrete Socionics". In Discrete Socionics, the three traits cutting out a tetrad/quaternion are never independent, with the third being the sum of the other two. Talanov, however, approaches this differently. In "Continuous Socionics", a term coined by the Discord user "Feliens", all of the Reinin dichotomies are linearly independent and exist in continuous space, so the "types" can be described in $\mathbb{R}^{15}$.
+$\mathrm{ant}(\text{X})$ denotes the tetrad/quaternion obtained by inverting all three of $\text{X}$'s defining traits, even though this would be considered to be illegal in the classical representation of the types as a 4D vector space over $\mathbb{F}_{2}$, an approach I will tentatively dub "Discrete Socionics", although this can apply to any of such systems which contain a finite number of types. In Discrete Socionics, the three traits cutting out a tetrad/quaternion are never independent, with the third being the sum of the other two. Talanov, however, approaches this differently. In "Continuous Socionics", a term coined by the Discord user "Feliens", all of the Reinin dichotomies are linearly independent and exist in continuous space, so the "types" can be described in $\mathbb{R}^{15}$.
 
 #### Example I: Quadras and "Anti-Quadras"
 
