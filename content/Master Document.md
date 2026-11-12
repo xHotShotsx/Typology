@@ -23428,6 +23428,9 @@ $\text{X}_\text{min}$ = Element is 'Vulnerable' in Model-A, or conflict element.
 $\text{X}_\text{max}$ = "Most" or "excess" of this element. Could also be used to denote the 'Base' position in Model A. In the context of dichotomy traits, this could also be deployed in a similar fashion.   
 $\text{X}_\text{min}$ = "Least" or "deficiency" of this element. Could also be used to denote the 'Vulnerable' position in Model A. In the context of dichotomy traits, this could also be deployed in a similar fashion.  
 
+$\uparrow\text{X}$ = Element is high or proficient in a given profile. In the context of dichotomy traits, this could also be deployed in a similar fashion.  
+$\downarrow\text{X}$ = Element is low or lacking in a given profile. In the context of dichotomy traits, this could also be deployed in a similar fashion.
+
 ## Tetradic Elements
 
 ### Pseudo-Aspect / Pseudo-Faculty / Pseudo-Domain / Pseudo-Macro Element
