@@ -11,10 +11,14 @@
             "id": "3034c5e1cf375992",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Intertype Relations/A Representation-Theoretic Framework for Intertype Relations in Socionics.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "A Representation-Theoretic Framework for Intertype Relations in Socionics"
             }
           }
         ]
