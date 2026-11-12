@@ -6,7 +6,7 @@
 4. $\text{P(X) / J(X)}$ = Irrational Element / Rational Element
 5. $\text{(X)e / (X)i}$ = Extroverted Element / Introverted Element
 6. $\circlearrowright\text{(X)} \text{ / } \circlearrowleft\text{(X)}$ = Process Element / Result Element
-7. $\text{(X)}+ \text{ / } \text{(X)}- \text{ or } \text{X}^{+} \text{ / } \text{X}^{-} \text{ or } +\text{X} \text{ / } -\text{X}$ = Positivist Element / Negativist Element
+7. $\text{X}^{+} \text{ / } \text{X}^{-}$ = Positivist Element / Negativist Element
 
 # Tetradic Elements
 ## Aspect / Faculty / Domain / Macro Element
