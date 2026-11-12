@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Master Document.md",
+                "file": "content/Models/Classification of Models.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Master Document"
+              "title": "Classification of Models"
             }
           }
         ]
@@ -228,9 +228,9 @@
   },
   "active": "3034c5e1cf375992",
   "lastOpenFiles": [
+    "content/Master Document.md",
     "content/Models/Classification of Models.md",
     "content/Machine Translations/Books/Semyon Churyumov/Smile of the Cheshire Cat/Chapter 4.md",
-    "content/Master Document.md",
     "content/Partition Spaces/Dichotomies/Classification of Orbital-Respecting Dichotomy Systems.md",
     "content/Partition Spaces/Dichotomies/TIM Octads Archive.md",
     "content/Partition Spaces/Socion Division Hierarchy.md",
