@@ -129,7 +129,7 @@ _All notes concatenated and hyperlinked. Exceptions include any external books o
 | **17** | **Model A16-ordered**  |             $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$             | $\checkmark$ |       $16T_{9}$        |             $\mathbb{S} \cong D_{4} \times \mathbb{Z}_{2}$             | $\checkmark$ |          $\{ e \}$           |
 | **18** |      **Model L**       |                $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$                | $\checkmark$ |       $16T_{3}$        |                $\mathbf{V}_{15} \cong \mathbb{Z}^4_{2}$                | $\checkmark$ |        $\{ A_{1} \}$         |
 | **19** |      **Model W**       |                $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$                | $\checkmark$ |       $16T_{3}$        |                $\mathbf{V}_{14} \cong \mathbb{Z}^4_{2}$                | $\checkmark$ |        $\{ A_{1} \}$         |
-| **20** |      **Model K**       | $\mathbb{S} \times \mathbb{Z}_{2} \cong D_{4} \times \mathbb{Z}_{2}^2$ | $\checkmark$ |       $32T_{19}$       | $\mathbb{S} \times \mathbb{Z}_{2} \cong D_{4} \times \mathbb{Z}_{2}^2$ | $\checkmark$ |          $\{ e \}$           |
+| **20** |      **Model K**       | $\mathbb{S} \times \mathbb{Z}_{2} \cong D_{4} \times \mathbb{Z}_{2}^2$ | $\checkmark$ |       $32T_{11}$       | $\mathbb{S} \times \mathbb{Z}_{2} \cong D_{4} \times \mathbb{Z}_{2}^2$ | $\checkmark$ |          $\{ e \}$           |
 
 
 ### Footnotes
